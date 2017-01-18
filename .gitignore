@@ -2,3 +2,4 @@ word2vec/data/*.txt
 word2vec/data/*.epub
 *.log
 word2vec/data/*.tmp
+textplayer/
