@@ -10,7 +10,6 @@ __init__	textplayer/textPlayer.py	/^	def __init__(self, game_filename):$/;"	kind
 __init__.py	textplayer/__init__.py	1;"	kind:file	line:1
 action	Python 3.5 - Example Project/ZpletIOAgent.py	/^def action(narrative):$/;"	kind:function	line:29
 bookrix.py	word2vec/bookrix.py	1;"	kind:file	line:1
-chooseCommand	testagent.py	/^def chooseCommand():$/;"	kind:function	line:5
 clean_command_output	textplayer/textPlayer.py	/^	def clean_command_output(self, text):$/;"	kind:member	line:103
 command	Python 3.5 - Example Project/ZpletIOAgent.py	/^    command = action(narrative)$/;"	kind:variable	line:43
 command_output	textplayer/massRun.py	/^command_output = t.execute_command('drink water')$/;"	kind:variable	line:46
@@ -34,17 +33,32 @@ command_output	textplayer/massRun.py	/^command_output = t.execute_command('take 
 command_output	textplayer/massRun.py	/^command_output = t.execute_command('take sack')$/;"	kind:variable	line:48
 command_output	textplayer/massRun.py	/^command_output = t.execute_command('take sword')$/;"	kind:variable	line:60
 count	word2vec/bookrix.py	/^count = 1$/;"	kind:variable	line:11
+current_place	testbfsagent.py	/^current_place = []$/;"	kind:variable	line:52
+directions	testagent.py	/^directions = ['east', 'west', 'south', 'north', 'southeast', 'southwest', 'northeast', 'northwest', 'up', 'down']$/;"	kind:variable	line:4
+directions	testbfsagent.py	/^directions = ['east', 'west', 'south', 'north', 'southeast', 'southwest', 'northeast', 'northwest', 'up', 'down']$/;"	kind:variable	line:5
 enqueue_pipe_output	textplayer/textPlayer.py	/^	def enqueue_pipe_output(self, output, queue):$/;"	kind:member	line:60
 execute_command	textplayer/textPlayer.py	/^	def execute_command(self, command):$/;"	kind:member	line:84
+explore	testbfsagent.py	/^def explore():$/;"	kind:function	line:19
+explored	testbfsagent.py	/^def explored(place):$/;"	kind:function	line:26
+get_command	manualagent.py	/^def get_command():$/;"	kind:function	line:3
+get_command	testagent.py	/^def get_command():$/;"	kind:function	line:10
 get_command_output	textplayer/textPlayer.py	/^	def get_command_output(self):$/;"	kind:member	line:112
 get_download_link	word2vec/bookrix.py	/^def get_download_link(page):$/;"	kind:function	line:15
 get_score	textplayer/textPlayer.py	/^	def get_score(self):$/;"	kind:member	line:90
+graph	testbfsagent.py	/^graph = {}$/;"	kind:variable	line:6
+line	word2vec/preprocess.py	/^        line = f_in.readline()$/;"	kind:variable	line:34
+look	testagent.py	/^def look():$/;"	kind:function	line:7
+look	testbfsagent.py	/^def look():$/;"	kind:function	line:46
+manualagent.py	manualagent.py	1;"	kind:file	line:1
 massRun.py	textplayer/massRun.py	1;"	kind:file	line:1
+move	testbfsagent.py	/^def move(direction):$/;"	kind:function	line:8
 narrative	Python 3.5 - Example Project/ZpletIOAgent.py	/^    narrative = postCommand(p, command)$/;"	kind:variable	line:44
 narrative	Python 3.5 - Example Project/ZpletIOAgent.py	/^narrative = ret[0]$/;"	kind:variable	line:39
 p	Python 3.5 - Example Project/ZpletIOAgent.py	/^p = ret[1]$/;"	kind:variable	line:40
 parse_and_execute_command_file	textplayer/textPlayer.py	/^	def parse_and_execute_command_file(self, input_filename):$/;"	kind:member	line:71
+places	testagent.py	/^places = set()$/;"	kind:variable	line:5
 postCommand	Python 3.5 - Example Project/ZpletIOAgent.py	/^def postCommand(p, command):$/;"	kind:function	line:11
+preprocess	word2vec/preprocess.py	/^def preprocess(line):$/;"	kind:function	line:3
 preprocess.py	word2vec/preprocess.py	1;"	kind:file	line:1
 quit	textplayer/textPlayer.py	/^	def quit(self):$/;"	kind:member	line:132
 readNarrative	Python 3.5 - Example Project/ZpletIOAgent.py	/^def readNarrative(p):$/;"	kind:function	line:17
@@ -53,13 +67,16 @@ run	textplayer/textPlayer.py	/^	def run(self):$/;"	kind:member	line:36
 run_bash	textplayer/textPlayer.py	/^	def run_bash(self, command):$/;"	kind:member	line:66
 scrap	word2vec/bookrix.py	/^def scrap(page):$/;"	kind:function	line:28
 startZplet	Python 3.5 - Example Project/ZpletIOAgent.py	/^def startZplet(jardir, gamedir):$/;"	kind:function	line:4
-start_info	testagent.py	/^start_info = t.run()$/;"	kind:variable	line:9
+start_info	manualagent.py	/^start_info = t.run()$/;"	kind:variable	line:8
+start_info	testagent.py	/^start_info = t.run()$/;"	kind:variable	line:14
+start_info	testbfsagent.py	/^start_info = t.run()$/;"	kind:variable	line:50
 start_info	textplayer/massRun.py	/^start_info = t.run()$/;"	kind:variable	line:28
-t	testagent.py	/^t = tp.TextPlayer('zork1.z5')$/;"	kind:variable	line:8
+t	manualagent.py	/^t = tp.TextPlayer('zork1.z5')$/;"	kind:variable	line:7
+t	testagent.py	/^t = tp.TextPlayer('zork1.z5')$/;"	kind:variable	line:13
+t	testbfsagent.py	/^t = tp.TextPlayer('zork1.z5')$/;"	kind:variable	line:49
 t	textplayer/massRun.py	/^t = tp.TextPlayer('zork1.z5')$/;"	kind:variable	line:27
 testagent.py	testagent.py	1;"	kind:file	line:1
-text	word2vec/preprocess.py	/^    text = file.read().decode('utf8').lower()$/;"	kind:variable	line:8
-text2	word2vec/preprocess.py	/^text2 = u' '.join(tokens)$/;"	kind:variable	line:10
+testbfsagent.py	testbfsagent.py	1;"	kind:file	line:1
 textPlayer.py	textplayer/textPlayer.py	1;"	kind:file	line:1
-tokens	word2vec/preprocess.py	/^tokens = nltk.word_tokenize(text)$/;"	kind:variable	line:9
+to_nearest_unexplored	testbfsagent.py	/^def to_nearest_unexplored(place):$/;"	kind:function	line:29
 url	word2vec/bookrix.py	/^url = 'https:\/\/www.bookrix.com'$/;"	kind:variable	line:10
