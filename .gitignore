@@ -4,3 +4,4 @@ word2vec/data/*.epub
 word2vec/data/*.tmp
 score
 tags
+textplayer/

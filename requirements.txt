@@ -1,0 +1,4 @@
+BeautifulSoup>=3.2
+wheel>=0.29
+six>=1.10
+nltk>=3.2
