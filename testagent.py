@@ -1,30 +1,80 @@
 import textplayer.textPlayer as tp
 import random
+import descriptions
+import sys
+import commands
+from functools import partial
+from inventory import Inventory
+from place import Place
 
-directions = ['east', 'west', 'south', 'north', 'southeast', 'southwest', 'northeast', 'northwest', 'up', 'down']
-places = set()
+scores = open('scores', 'a')
+questions = open('questions', 'a')
+fights = open('fights', 'a')
+score = 0
+max_score = 0
+possible_score = 0
 
 def look():
-    return t.execute_command('look')
+    desc = t.execute_command('look')
+    dot = desc.find('.')
+    if dot != -1:
+        first = desc[:dot]
+        if all(x.isdigit() or len(x) < 2 for x in first.split()):
+            desc = desc[dot+1:]
+    for i in range(min(30, len(desc))):
+        if desc[i].islower() and (i == 0 or not desc[i-1].isalpha()):
+            first = [''] + desc[:i].split()
+            desc = first[-1] + ' ' + desc[i:]
+            break
+    print desc
+    descriptions.add(desc)
+    return desc
 
-def get_command():
-    return 'go ' + random.choice(directions)
-
-t = tp.TextPlayer('zork1.z5')
+t = tp.TextPlayer('zork1.z5' if len(sys.argv) < 2 else sys.argv[1])
 start_info = t.run()
+places = {}
+inv = Inventory(partial(t.execute_command, 'inventory'))
+moves = 0
+
 print start_info
-for i in range(1000):
-    command = get_command()
+for i in range(3000):
+    desc = look()
+    if desc not in places:
+        places[desc] = Place(desc)
+    command = places[desc].get_command(inv.content, moves)
     print command
-    command_output = t.execute_command(command)
+    if command[0] == Place.Take:
+        command_text = commands.get_take_command(command[1])
+    elif command[0] == Place.Move:
+        moves += 1
+        if command[1] == Place.RunAway:
+            command_text = commands.get_back_command()
+        else: command_text = commands.get_move_command(command[1])
+    else:
+        command_text = command[1]
+    command_output = t.execute_command(command_text)
     print command_output
-    places.add(look())
+    if '?' in command_output:
+        questions.write(command_output + '\n')
+    if command[0] == Place.Take:
+        for c in inv.update():
+            print c
+            print t.execute_command(c)
+    elif command[0] == Place.Fight:
+        for j in range(6):
+            fights.write(command_output + '\n')
+            print command[1]
+            command_output = t.execute_command(command[1])
+            print command_output
+    print inv.text
     if t.get_score() is not None:
+        global score
+        global max_score
+        global possible_score
         (score, possible_score) = t.get_score()
+        max_score = max(max_score, score)
         print("Score:", score, "Possible score:", possible_score)
     else:
         break
 t.quit()
-for p in places:
-    print p
-print len(places)
+scores.write("{0} (max {2}) / {1}\n".format(score, possible_score, max_score))

@@ -1,4 +1,30 @@
 import textplayer.textPlayer as tp
+import descriptions
+import nltk
+
+def look():
+    desc = t.execute_command('look')
+    dot = desc.find('.')
+    if dot != -1:
+        first = desc[:dot]
+        if all(x.isdigit() or len(x) < 2 for x in first.split()):
+            desc = desc[dot+1:]
+    for i in range(min(30, len(desc))):
+        if desc[i].islower() and (i == 0 or not desc[i-1].isalpha()):
+            first = [''] + desc[:i].split()
+            desc = first[-1] + ' ' + desc[i:]
+            break
+    descriptions.add(desc)
+    return desc
+
+def least_common(desc, k):
+    tokens = nltk.word_tokenize(desc)
+    tagged = nltk.pos_tag(tokens)
+    nouns = [word.lower() for (word, tag) in tagged if 'NN' in tag]
+    freq = list({(descriptions.frequency(word), word) for word in nouns})
+    freq.sort()
+    freq = freq[:min(len(freq), k)]
+    return freq
 
 def get_command():
     print '\n>>',
@@ -9,8 +35,14 @@ start_info = t.run()
 print start_info
 while True:
     command = get_command()
-    command_output = t.execute_command(command)
-    print command_output
+    if command == 'look':
+        desc = look()
+        print desc
+        print least_common(desc, 10)
+    else:
+        command_output = t.execute_command(command)
+        print command_output
+    
     if t.get_score() is not None:
         (score, possible_score) = t.get_score()
         print("Score:", score, "Possible score:", possible_score)

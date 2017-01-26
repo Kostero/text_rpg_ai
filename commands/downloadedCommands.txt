@@ -10274,7 +10274,7 @@ w
 s
 x door
 s
-break door&mdash;or&mdash;unlock door with hairpin
+break door
 s
 smell
 x furnishings
@@ -27779,3 +27779,9 @@ s
 x copenhagen
 x medal
 give baton to copenhagen
+move the rug
+take the sword
+take the lantern
+attack the troll
+open the trap door
+light the lantern

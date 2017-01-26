@@ -5,3 +5,4 @@ word2vec/data/*.tmp
 score
 tags
 textplayer/
+*.pyc
