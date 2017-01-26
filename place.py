@@ -19,36 +19,34 @@ class Place:
     taken_limit = 6
     noun_bonus = 100
     init_actions = 10
-    move_action_ratio = 10
+    move_action_ratio = 5
     Take, Move, Action, RunAway, Fight = range(5)
-    fight_actions = ['attack', 'kill', 'fight', 'destroy', 'shoot', 'strike', 'hit', 'punch', 'kick']
 
     def __init__(self, text):
         self.text = text
         self.taken = 0
         self.actions = 0
         self.commands = []
+        self.fight_commands = []
+        self.useless_commands = set()
+        self.inventory_nr = 0
         self.nouns = sorted({n for n in get_nouns(text) if n not in commands.directions}, key=descriptions.frequency)
         self.similar_nouns = get_similar_nouns(self.nouns)
+        self.directions = commands.directions[:]
         for sim, _ in self.similar_nouns.iteritems():
             if sim in commands.commands:
                 self.commands += commands.commands[sim]
+            if sim in commands.fight_commands:
+                self.fight_commands += commands.fight_commands[sim]
     
     def dangerous(self):
         return ' grue' in self.text
 
-    def get_command(self, inv_nouns, moves):
-        if self.dangerous():
-            return (self.Move, self.RunAway)
-        if self.taken < min(len(self.nouns), self.taken_limit):
-            self.taken += 1
-            return (self.Take, self.nouns[self.taken-1])
-        if self.actions - self.init_actions > moves / self.move_action_ratio:
-            return (self.Move, random.choice(commands.directions))
+    def get_command_from_list(self, commands, inv_nouns):
         options = []
-        for i, com in enumerate(self.commands):
+        for i, com in enumerate(commands):
             score = 1.0
-            for n in get_nouns(com):
+            for n in get_nouns(nltk.word_tokenize(com)[1:]):
                 if n in self.similar_nouns:
                     (k, sim) = self.similar_nouns[n]
                     score *= k / float(descriptions.frequency(n))
@@ -61,14 +59,40 @@ class Place:
                     score = -1
                     break
                 score *= self.noun_bonus
-            if score > 0:
+            if score > 0 and not com in self.useless_commands:
                 options.append(((i, com), score))
-        choice = weighted_choice(options)
+        return weighted_choice(options)
+
+    def get_command(self, inv_nouns, moves, inv_nr):
+        if self.inventory_nr != inv_nr:
+            self.inventory_nr = inv_nr
+            self.useless_commands.clear()
+        fight = self.get_command_from_list(self.fight_commands, inv_nouns)
+        if fight is not None:
+            del self.fight_commands[fight[0]]
+            return (self.Fight, fight[1])
+        if self.dangerous():
+            return (self.Move, self.RunAway)
+        if self.taken < min(len(self.nouns), self.taken_limit):
+            self.taken += 1
+            return (self.Take, self.nouns[self.taken-1])
+        if self.actions - self.init_actions > moves / self.move_action_ratio:
+            return self.random_move()
+        choice = self.get_command_from_list(self.commands, inv_nouns)
         if choice is None:
-            return (self.Move, random.choice(commands.directions))
+            return self.random_move()
         del self.commands[choice[0]]
         self.actions += 1
-        for w in choice[1].split():
-            if w in self.fight_actions:
-                return (self.Fight, choice[1])
         return (self.Action, choice[1])
+
+    def random_move(self):
+        return (self.Move, random.choice(commands.directions if len(self.directions) == 0 else self.directions))
+
+    def useless_move(self, direction):
+        try:
+            del self.directions[self.directions.index(direction)]
+        except:
+            pass
+
+    def useless_command(self, command):
+        self.useless_commands.add(command)

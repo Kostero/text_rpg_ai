@@ -3,17 +3,24 @@ import descriptions
 import word2vec
 from nltk_helper import get_nouns
 
+fight_actions = {'attack', 'kill', 'fight', 'shoot', 'strike', 'punch'}
+
 with open('commands/downloadedCommands.txt', 'r') as f:
     lines = f.readlines()
 lines = map(str.lower, lines)
 lines = map(str.split, lines)
 lines = filter(lambda x: len(x) > 1 and len(x[0]) > 1, lines)
 commands = {}
+fight_commands = {}
 for l in lines:
     for n in get_nouns(l):
         if n not in commands:
             commands[n] = []
         commands[n].append(' '.join(l))
+        if any(map(fight_actions.__contains__, l)):
+            if n not in fight_commands:
+                fight_commands[n] = []
+            fight_commands[n].append(' '.join(l))
 
 directions = ['east', 'west', 'south', 'north', 'southeast', 'northwest', 'northeast', 'southwest', 'up', 'down']
 

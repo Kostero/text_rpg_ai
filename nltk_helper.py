@@ -22,3 +22,8 @@ def get_nouns(text):
     if type(text) == str:
         text =  nltk.word_tokenize(text)
     return [word.lower() for (word, tag) in nltk.pos_tag(text) if 'NN' in tag]
+
+def get_nouns_carefully(text):
+    if type(text) == str:
+        text =  nltk.word_tokenize(text)
+    return [word.lower() for (word, tag) in nltk.pos_tag(text) if 'NN' in tag or 'NN' in nltk.pos_tag([word])[0][1]]

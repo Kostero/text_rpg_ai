@@ -30,18 +30,21 @@ def look():
     descriptions.add(desc)
     return desc
 
-t = tp.TextPlayer('zork1.z5' if len(sys.argv) < 2 else sys.argv[1])
+filename = 'zork1.z5' if len(sys.argv) < 2 else sys.argv[1]
+t = tp.TextPlayer(filename)
 start_info = t.run()
+t.execute_command('verbose')
+t.execute_command('verbose')
 places = {}
 inv = Inventory(partial(t.execute_command, 'inventory'))
 moves = 0
 
 print start_info
-for i in range(3000):
-    desc = look()
+desc = look()
+for i in range(1000):
     if desc not in places:
         places[desc] = Place(desc)
-    command = places[desc].get_command(inv.content, moves)
+    command = places[desc].get_command(inv.content, moves, inv.nr)
     print command
     if command[0] == Place.Take:
         command_text = commands.get_take_command(command[1])
@@ -52,6 +55,7 @@ for i in range(3000):
         else: command_text = commands.get_move_command(command[1])
     else:
         command_text = command[1]
+    print command_text
     command_output = t.execute_command(command_text)
     print command_output
     if '?' in command_output:
@@ -66,6 +70,13 @@ for i in range(3000):
             print command[1]
             command_output = t.execute_command(command[1])
             print command_output
+    new_desc = look()
+    if new_desc == desc:
+        if command[0] == Place.Move and not command_output.endswith(desc) and not desc.endswith(command_output):
+            places[desc].useless_move(command[1])
+        elif command[0] in [Place.Action, Place.Fight]:
+            places[desc].useless_command(command[1])
+    desc = new_desc
     print inv.text
     if t.get_score() is not None:
         global score
@@ -77,4 +88,4 @@ for i in range(3000):
     else:
         break
 t.quit()
-scores.write("{0} (max {2}) / {1}\n".format(score, possible_score, max_score))
+scores.write("{3} {0} (max {2}) / {1}\n".format(score, possible_score, max_score, filename))
