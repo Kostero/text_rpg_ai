@@ -9,6 +9,7 @@ def _process(p):
             _frequency[s] += 1
 
 def add(place):
+    place = place.strip()
     if place in places:
         return
     _process(place)
@@ -20,7 +21,7 @@ def frequency(word):
     return _frequency[word] if word in _frequency else 0
 
 _file = open('data/descriptions.txt', 'a+')
-places = set(_file.readlines())
+places = set(map(str.strip, _file.readlines()))
 _frequency = {}
 
 for p in places:
