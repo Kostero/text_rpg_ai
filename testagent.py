@@ -41,7 +41,7 @@ moves = 0
 
 print start_info
 desc = look()
-for i in range(1000):
+for i in range(4000):
     if desc not in places:
         places[desc] = Place(desc)
     command = places[desc].get_command(inv.content, moves, inv.nr)

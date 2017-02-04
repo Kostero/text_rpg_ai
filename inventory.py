@@ -17,6 +17,7 @@ def weighted_choice(options):
 class Inventory:
     noun_bonus = 5
     commands_limit = 10
+    unknown_penalty = 100.0
     blacklist = {'drop', 'leave', 'throw'}
 
     def __init__(self, update_command):
@@ -45,9 +46,8 @@ class Inventory:
                             (lk, w) = self.content[n]
                             c = c.replace(n, w)
                             score *= (lk ** 2) * self.noun_bonus
-                        else:
-                            score = -1
-                            break
+                        else: 
+                            score /= self.unknown_penalty
                 if score > 0:
                     result.append((score, c))
         return result

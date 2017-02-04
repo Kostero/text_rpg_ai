@@ -9,7 +9,11 @@ with open('commands/downloadedCommands.txt', 'r') as f:
     lines = f.readlines()
 lines = map(str.lower, lines)
 lines = map(str.split, lines)
-lines = filter(lambda x: len(x) > 1 and len(x[0]) > 1, lines)
+lines = filter(lambda x: len(x) > 1, lines)
+for l in lines:
+    for i, w in enumerate(l):
+        if w == 'x':
+            l[i] = 'examine'
 commands = {}
 fight_commands = {}
 for l in lines:
@@ -23,6 +27,7 @@ for l in lines:
             fight_commands[n].append(' '.join(l))
 
 directions = ['east', 'west', 'south', 'north', 'southeast', 'northwest', 'northeast', 'southwest', 'up', 'down']
+last_move = 0
 
 def get_take_command(obj):
     return 'get ' + obj

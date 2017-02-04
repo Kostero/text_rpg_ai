@@ -19,7 +19,8 @@ class Place:
     taken_limit = 6
     noun_bonus = 100
     init_actions = 10
-    move_action_ratio = 5
+    move_action_ratio = 3
+    unknown_penalty = 500.0
     Take, Move, Action, RunAway, Fight = range(5)
 
     def __init__(self, text):
@@ -56,7 +57,7 @@ class Place:
                     score *= k / float(descriptions.frequency(n))
                     com = com.replace(n, sim)
                 else:
-                    score = -1
+                    score /= self.unknown_penalty
                     break
                 score *= self.noun_bonus
             if score > 0 and not com in self.useless_commands:
