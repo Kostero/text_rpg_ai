@@ -9,15 +9,12 @@ from stat_parser import Parser
 parser = Parser()
 
 
-ROOT = 'ROOT'
-
-
 def getNodes(parent):
     for node in parent:
         if type(node) is nltk.Tree:
             if node.label() == "S":
                 f = open("result/sentences", "a")
-                f.write(" ".join(node.leaves())+"a  \n")
+                f.write(" ".join(node.leaves())+"\n")
                 f.close()
             if node.label() == "VP":
                 f = open("result/verbs", "a")
@@ -33,7 +30,6 @@ def getNodes(parent):
 
 def parseCommands(site):
     tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
-    result = []
     print(site)
     response = urllib2.urlopen(site)
     html = response.read()
@@ -44,15 +40,18 @@ def parseCommands(site):
     try:
         splitedSentences = tokenizer.tokenize(ps)
         for sentence in splitedSentences:
-            words = " ".join([word.strip()
-                              for word in sentence.split()])
-            tree = parser.parse(words)
-            getNodes(tree)
+            try:
+                words = " ".join([word.strip()
+                                  for word in sentence.split()])
+                tree = parser.parse(words)
+                getNodes(tree)
+            except Exception as e:
+                print "ERR in parsing", e.message
             # tokens = nltk.word_tokenize(words)
             # tagged = nltk.pos_tag(tokens)
     except Exception as e:
-        print "ERR", e.message
-    return result
+        print "ERR in spliting", e.message
+    return
 
 
 def main():
