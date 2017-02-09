@@ -4,10 +4,12 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AttentionFFLM	attention.py	/^class AttentionFFLM(object):$/;"	kind:class	line:14
 Inventory	inventory.py	/^class Inventory:$/;"	kind:class	line:17
 Place	place.py	/^class Place:$/;"	kind:class	line:18
 TextPlayer	textplayer/textPlayer.py	/^class TextPlayer:$/;"	kind:class	line:18
 ZpletIOAgent.py	Python 3.5 - Example Project/ZpletIOAgent.py	1;"	kind:file	line:1
+__init__	attention.py	/^    def __init__(self, vocab_size, embed_size, hid_units, activation=tf.nn.relu):$/;"	kind:member	line:15
 __init__	inventory.py	/^    def __init__(self, update_command):$/;"	kind:member	line:23
 __init__	place.py	/^    def __init__(self, text):$/;"	kind:member	line:26
 __init__	textplayer/textPlayer.py	/^	def __init__(self, game_filename):$/;"	kind:member	line:21
@@ -17,6 +19,8 @@ _frequency	descriptions.py	/^_frequency = {}$/;"	kind:variable	line:25
 _process	descriptions.py	/^def _process(p):$/;"	kind:function	line:3
 action	Python 3.5 - Example Project/ZpletIOAgent.py	/^def action(narrative):$/;"	kind:function	line:29
 add	descriptions.py	/^def add(place):$/;"	kind:function	line:11
+attention.py	attention.py	1;"	kind:file	line:1
+bias_variable	attention.py	/^def bias_variable(shape):$/;"	kind:function	line:9
 blacklist	inventory.py	/^    blacklist = {'drop', 'leave', 'throw'}$/;"	kind:variable	line:21
 bookrix.py	word2vec/bookrix.py	1;"	kind:file	line:1
 clean_command_output	textplayer/textPlayer.py	/^	def clean_command_output(self, text):$/;"	kind:member	line:103
@@ -51,6 +55,7 @@ commands	commands.py	/^commands = {}$/;"	kind:variable	line:17
 commands.py	commands.py	1;"	kind:file	line:1
 commandsDownloader.py	commands/commandsDownloader.py	1;"	kind:file	line:1
 commands_limit	inventory.py	/^    commands_limit = 10$/;"	kind:variable	line:19
+compute_weights	attention.py	/^def compute_weights(sentence):$/;"	kind:function	line:65
 count	word2vec/bookrix.py	/^count = 1$/;"	kind:variable	line:11
 current_place	testbfsagent.py	/^current_place = []$/;"	kind:variable	line:52
 dangerous	place.py	/^    def dangerous(self):$/;"	kind:member	line:43
@@ -69,6 +74,8 @@ fight_commands	commands.py	/^fight_commands = {}$/;"	kind:variable	line:18
 fights	testagent.py	/^fights = open('fights', 'a')$/;"	kind:variable	line:12
 filename	testagent.py	/^filename = 'zork1.z5' if len(sys.argv) < 2 else sys.argv[1]$/;"	kind:variable	line:33
 frequency	descriptions.py	/^def frequency(word):$/;"	kind:function	line:20
+gameBoomersDownloader.py	commands/gameBoomers/gameBoomersDownloader.py	1;"	kind:file	line:1
+getNodes	commands/gameBoomers/gameBoomersDownloader.py	/^def getNodes(parent):$/;"	kind:function	line:12
 get_back_command	commands.py	/^def get_back_command():$/;"	kind:function	line:43
 get_command	manualagent.py	/^def get_command():$/;"	kind:function	line:29
 get_command	place.py	/^    def get_command(self, inv_nouns, moves, inv_nr):$/;"	kind:member	line:67
@@ -97,6 +104,7 @@ look	manualagent.py	/^def look():$/;"	kind:function	line:5
 look	testagent.py	/^def look():$/;"	kind:function	line:17
 look	testbfsagent.py	/^def look():$/;"	kind:function	line:46
 main	commands/commandsDownloader.py	/^def main():$/;"	kind:function	line:28
+main	commands/gameBoomers/gameBoomersDownloader.py	/^def main():$/;"	kind:function	line:57
 manualagent.py	manualagent.py	1;"	kind:file	line:1
 massRun.py	textplayer/massRun.py	1;"	kind:file	line:1
 max_score	testagent.py	/^        max_score = max(max_score, score)$/;"	kind:variable	line:86
@@ -106,14 +114,18 @@ move_action_ratio	place.py	/^    move_action_ratio = 3$/;"	kind:variable	line:22
 moves	testagent.py	/^moves = 0$/;"	kind:variable	line:40
 narrative	Python 3.5 - Example Project/ZpletIOAgent.py	/^    narrative = postCommand(p, command)$/;"	kind:variable	line:44
 narrative	Python 3.5 - Example Project/ZpletIOAgent.py	/^narrative = ret[0]$/;"	kind:variable	line:39
+net	attention.py	/^net = AttentionFFLM(vocab_size=len(word2number), embed_size=100, hid_units=200)$/;"	kind:variable	line:52
 new_desc	testagent.py	/^    new_desc = look()$/;"	kind:variable	line:73
 nltk_helper.py	nltk_helper.py	1;"	kind:file	line:1
 noun_bonus	inventory.py	/^    noun_bonus = 5$/;"	kind:variable	line:18
 noun_bonus	place.py	/^    noun_bonus = 100$/;"	kind:variable	line:20
 nouns	nltk/example.py	/^nouns = [word for (word, tag) in tagged if 'NN' in tag]$/;"	kind:variable	line:5
+number2word	attention.py	/^number2word = dict()$/;"	kind:variable	line:39
 p	Python 3.5 - Example Project/ZpletIOAgent.py	/^p = ret[1]$/;"	kind:variable	line:40
 parseCommands	commands/commandsDownloader.py	/^def parseCommands(site):$/;"	kind:function	line:5
+parseCommands	commands/gameBoomers/gameBoomersDownloader.py	/^def parseCommands(site):$/;"	kind:function	line:31
 parse_and_execute_command_file	textplayer/textPlayer.py	/^	def parse_and_execute_command_file(self, input_filename):$/;"	kind:member	line:71
+parser	commands/gameBoomers/gameBoomersDownloader.py	/^parser = Parser()$/;"	kind:variable	line:9
 place.py	place.py	1;"	kind:file	line:1
 places	descriptions.py	/^places = set(map(str.strip, _file.readlines()))$/;"	kind:variable	line:24
 places	testagent.py	/^places = {}$/;"	kind:variable	line:38
@@ -128,16 +140,18 @@ readNarrative	Python 3.5 - Example Project/ZpletIOAgent.py	/^def readNarrative(p
 ret	Python 3.5 - Example Project/ZpletIOAgent.py	/^ret = startZplet('..\/Example Project\/lib3rd\/ieee-cig-advent-1.5.jar','..\/resources\/monkey-and-bananas-v1.z8')$/;"	kind:variable	line:38
 run	textplayer/textPlayer.py	/^	def run(self):$/;"	kind:member	line:36
 run_bash	textplayer/textPlayer.py	/^	def run_bash(self, command):$/;"	kind:member	line:66
+saver	attention.py	/^saver = tf.train.Saver()$/;"	kind:variable	line:55
 score	testagent.py	/^score = 0$/;"	kind:variable	line:13
 scores	testagent.py	/^scores = open('scores', 'a')$/;"	kind:variable	line:10
 scrap	word2vec/bookrix.py	/^def scrap(page):$/;"	kind:function	line:28
 sentence	nltk/example.py	/^sentence = "I'm gonna build a wall and make Mexico pay for it!"$/;"	kind:variable	line:2
+session	attention.py	/^session = tf.Session()$/;"	kind:variable	line:54
 startZplet	Python 3.5 - Example Project/ZpletIOAgent.py	/^def startZplet(jardir, gamedir):$/;"	kind:function	line:4
 start_info	manualagent.py	/^start_info = t.run()$/;"	kind:variable	line:34
 start_info	testagent.py	/^start_info = t.run()$/;"	kind:variable	line:35
 start_info	testbfsagent.py	/^start_info = t.run()$/;"	kind:variable	line:50
 start_info	textplayer/massRun.py	/^start_info = t.run()$/;"	kind:variable	line:28
-t	manualagent.py	/^t = tp.TextPlayer('Adventureland.z5')$/;"	kind:variable	line:33
+t	manualagent.py	/^t = tp.TextPlayer('zork1.z5')$/;"	kind:variable	line:33
 t	testagent.py	/^t = tp.TextPlayer(filename)$/;"	kind:variable	line:34
 t	testbfsagent.py	/^t = tp.TextPlayer('zork1.z5')$/;"	kind:variable	line:49
 t	textplayer/massRun.py	/^t = tp.TextPlayer('zork1.z5')$/;"	kind:variable	line:27
@@ -156,5 +170,7 @@ useless_command	place.py	/^    def useless_command(self, command):$/;"	kind:memb
 useless_move	place.py	/^    def useless_move(self, direction):$/;"	kind:member	line:92
 verbs	nltk/example.py	/^verbs = [word for (word, tag) in tagged if 'VB' in tag]$/;"	kind:variable	line:6
 w2v	nltk_helper.py	/^w2v = word2vec.load('word2vec\/data\/vec.bin')$/;"	kind:variable	line:4
+weight_variable	attention.py	/^def weight_variable(shape):$/;"	kind:function	line:5
 weighted_choice	inventory.py	/^def weighted_choice(options):$/;"	kind:function	line:6
 weighted_choice	place.py	/^def weighted_choice(options):$/;"	kind:function	line:7
+word2number	attention.py	/^word2number = dict()$/;"	kind:variable	line:38

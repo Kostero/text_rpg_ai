@@ -1,6 +1,6 @@
 import numpy as np
 import tensorflow as tf
-
+import nltk
 
 def weight_variable(shape):
     initial = tf.truncated_normal(shape, stddev=1.0/np.sqrt(sum(shape)))
@@ -63,8 +63,9 @@ saver.restore(session, "./data/attention_model/rpg_model.ckpt")
 
 
 def compute_weights(sentence):
-    inp = [word2number[w] if w in word2number else word2number["<UNK>"] for w in sentence.split()]
+    words = nltk.word_tokenize(sentence)
+    inp = [word2number[w] if w in word2number else word2number["<UNK>"] for w in words]
     alpha = session.run(net.alpha, feed_dict={net.x:[inp]})[0]
-    return alpha
+    return zip(words, alpha * len(alpha))
 
 

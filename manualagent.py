@@ -1,6 +1,7 @@
 import textplayer.textPlayer as tp
 import descriptions
 import nltk
+import attention
 
 def look():
     desc = t.execute_command('look')
@@ -38,7 +39,9 @@ while True:
     if command == 'look':
         desc = look()
         print desc
-        print least_common(desc, 10)
+        att = dict (attention.compute_weights(desc))
+        for l in least_common(desc, 20):
+            print l[0], l[1], (att[l[1]] if l[1] in att else 1.5) ** 3
     else:
         command_output = t.execute_command(command)
         print command_output
