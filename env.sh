@@ -6,5 +6,8 @@ make dumb
 cd ../..
 pip install -r requirements.txt
 # install nltk data
-python -m nltk.downloader all
+python -m nltk.downloader punkt
 git clone https://github.com/emilmont/pyStatParser.git
+cd pyStatParser
+python setup.py install --user
+cd ..

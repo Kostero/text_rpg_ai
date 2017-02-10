@@ -5,8 +5,16 @@ from nltk_helper import get_nouns
 
 fight_actions = {'attack', 'kill', 'fight', 'shoot', 'strike', 'punch'}
 
-with open('commands/downloadedCommands.txt', 'r') as f:
-    lines = f.readlines()
+lines = []
+files = ["downloadedCommands.txt"]
+files += ["gameBoomers/result/verbs"+x for x in
+          list("QWERTYUIOPASDFGHJKLZXCVBNM")+["Number"]]
+for file in files:
+    try:
+        with open("commands/"+file, 'r') as f:
+            lines += f.readlines()
+    except:
+        print file, "missing"
 lines = map(str.lower, lines)
 lines = map(str.split, lines)
 lines = filter(lambda x: len(x) > 1, lines)
