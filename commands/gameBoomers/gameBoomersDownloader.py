@@ -1,31 +1,43 @@
+from sys import argv
 import BeautifulSoup as bs
 import urllib2
 import nltk
 import nltk.data
 import nltk.tree
 from stat_parser import Parser
+import re
 
 
 parser = Parser()
+letter = "?"
 
 
 def getNodes(parent):
     for node in parent:
         if type(node) is nltk.Tree:
-            if node.label() == "S":
-                f = open("result/sentences", "a")
-                f.write(" ".join(node.leaves())+"\n")
-                f.close()
-            if node.label() == "VP":
-                f = open("result/verbs", "a")
-                f.write(" ".join(node.leaves())+"\n")
-                f.close()
-            if node.label() == "NP":
-                f = open("result/nouns", "a")
-                f.write(" ".join(node.leaves())+"\n")
-                f.close()
+            if not getNodes(node):
+                if node.label() == "VP":
+                    # we want to remove some sentences describing
+                    # environment
+                    sentence = node.leaves()
+                    if sentence[0].lower() not in ["is", "are", "'re", "can",
+                                                   "'ll", "'s", "won't",
+                                                   "should", "must", "will",
+                                                   "makes", "might", "'d",
+                                                   "if", "need", "says", "a",
+                                                   "needs", "so", "do", "'ve",
+                                                   "only", "the", "to"]:
+                        if sentence[0].lower() in ['and', 'then']:
+                            sentence = sentence[1:]
+                        f = open("result/verbs"+letter, "a")
+                        f.write(" ".join(sentence)+"\n")
+                        f.close()
+                        return True
+            else:
+                return True
+    return False
 
-            getNodes(node)
+regex = re.compile("[^a-zA-Z\']")
 
 
 def parseCommands(site):
@@ -40,9 +52,15 @@ def parseCommands(site):
     try:
         splitedSentences = tokenizer.tokenize(ps)
         for sentence in splitedSentences:
+            sentence = regex.sub(' ', sentence)
             try:
-                words = " ".join([word.strip()
-                                  for word in sentence.split()])
+                words = [word.strip()
+                         for word in sentence.split()]
+                words = filter(lambda x: x != "nbsp", words)
+                if len(words) > 20:
+                    continue
+                else:
+                    words = " ".join(words)
                 tree = parser.parse(words)
                 getNodes(tree)
             except Exception as e:
@@ -55,13 +73,17 @@ def parseCommands(site):
 
 
 def main():
-    for fileName in ["sentences", "nouns", "verbs"]:
-        # dirty way to remove file
-        f = open("result/"+fileName, "w")
-        f.close()
-
-    for letter in list("QWERTYUIOPASDFGHJKLZXCVBNM")+["Number"]:
+    for aletter in argv[1]:
+        if aletter == "#":
+            global letter
+            letter = "Number"
+        else:
+            global letter
+            letter = aletter
         print "L", letter
+        # dirty way to remove file
+        f = open("result/verbs"+letter, "w")
+        f.close()
         response = urllib2.urlopen('http://www.gameboomers.com/Walkthroughs/'
                                    '%swalkthroughs.html' % letter)
         html = response.read()
