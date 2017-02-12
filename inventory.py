@@ -2,21 +2,11 @@ from nltk_helper import get_nouns, get_nouns_carefully, get_similar_nouns
 import nltk
 import commands
 import random
-
-def weighted_choice(options):
-    if len(options) == 0:
-        return None
-    s = sum(zip(*options)[1])
-    c = random.random() * s
-    for i, (n, w) in enumerate(options):
-        c -= w
-        if c <= 0:
-            options[i] = (n, w * 0.9)
-            return n
+import numpy as np
 
 class Inventory:
     noun_bonus = 5
-    commands_limit = 10
+    commands_limit = 20
     unknown_penalty = 100.0
     blacklist = {'drop', 'leave', 'throw'}
 
@@ -31,25 +21,26 @@ class Inventory:
     def get_commands(self, word, k, rep):
         if word not in commands.commands:
             return []
-        com = [c.replace(word, rep) for c in commands.commands[word]]
+        com = commands.commands[word]
         result = []
-        for c in com:
-            words = nltk.word_tokenize(c)
-            for w in words:
+        for text, nouns, freq in com:
+            for w in text.split():
                 if w in self.blacklist:
                     break
             else:
+                text = text.replace(word, rep)
                 score = k ** 2
-                for n in get_nouns(words[1:]):
-                    if n != rep:
+                score *= freq
+                for n in nouns:
+                    if n != word:
                         if n in self.content:
                             (lk, w) = self.content[n]
-                            c = c.replace(n, w)
+                            text = text.replace(n, w)
                             score *= (lk ** 2) * self.noun_bonus
                         else: 
                             score /= self.unknown_penalty
                 if score > 0:
-                    result.append((score, c))
+                    result.append((score, text))
         return result
 
     def update(self):

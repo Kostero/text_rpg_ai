@@ -1,12 +1,9 @@
-import nltk
+from collections import Counter
 
 def _process(p):
-    for token in nltk.word_tokenize(p):
+    for token in p.split():
         if token.isalpha():
-            s = token.lower()
-            if not s in _frequency:
-                _frequency[s] = 0
-            _frequency[s] += 1
+            _frequency[token.lower()] += 1
 
 def add(place):
     place = place.strip()
@@ -18,11 +15,11 @@ def add(place):
     _file.flush()
 
 def frequency(word):
-    return _frequency[word] if word in _frequency else 0
+    return _frequency[word]
 
 _file = open('data/descriptions.txt', 'a+')
 places = set(map(str.strip, _file.readlines()))
-_frequency = {}
+_frequency = Counter()
 
 for p in places:
     _process(p)

@@ -23,6 +23,7 @@ attention.py	attention.py	1;"	kind:file	line:1
 bias_variable	attention.py	/^def bias_variable(shape):$/;"	kind:function	line:9
 blacklist	inventory.py	/^    blacklist = {'drop', 'leave', 'throw'}$/;"	kind:variable	line:21
 bookrix.py	word2vec/bookrix.py	1;"	kind:file	line:1
+brackets	commands/solutionarchive/sadownloader.py	/^brackets = re.compile(r'\\([^)]*\\)')$/;"	kind:variable	line:7
 clean_command_output	textplayer/textPlayer.py	/^	def clean_command_output(self, text):$/;"	kind:member	line:103
 command	Python 3.5 - Example Project/ZpletIOAgent.py	/^    command = action(narrative)$/;"	kind:variable	line:43
 command	testagent.py	/^    command = places[desc].get_command(inv.content, moves, inv.nr)$/;"	kind:variable	line:47
@@ -51,9 +52,9 @@ command_output	textplayer/massRun.py	/^command_output = t.execute_command('take 
 command_text	testagent.py	/^            command_text = commands.get_back_command()$/;"	kind:variable	line:54
 command_text	testagent.py	/^        command_text = command[1]$/;"	kind:variable	line:57
 command_text	testagent.py	/^        command_text = commands.get_take_command(command[1])$/;"	kind:variable	line:50
-commands	commands.py	/^commands = {}$/;"	kind:variable	line:17
+commands	commands.py	/^commands = {}$/;"	kind:variable	line:31
 commands.py	commands.py	1;"	kind:file	line:1
-commandsDownloader.py	commands/commandsDownloader.py	1;"	kind:file	line:1
+commandsDownloader.py	commands/plover/commandsDownloader.py	1;"	kind:file	line:1
 commands_limit	inventory.py	/^    commands_limit = 10$/;"	kind:variable	line:19
 compute_weights	attention.py	/^def compute_weights(sentence):$/;"	kind:function	line:65
 count	word2vec/bookrix.py	/^count = 1$/;"	kind:variable	line:11
@@ -62,49 +63,55 @@ dangerous	place.py	/^    def dangerous(self):$/;"	kind:member	line:43
 desc	testagent.py	/^    desc = new_desc$/;"	kind:variable	line:79
 desc	testagent.py	/^desc = look()$/;"	kind:variable	line:43
 descriptions.py	descriptions.py	1;"	kind:file	line:1
-directions	commands.py	/^directions = ['east', 'west', 'south', 'north', 'southeast', 'northwest', 'northeast', 'southwest', 'up', 'down']$/;"	kind:variable	line:29
+directions	commands.py	/^directions = ['east', 'west', 'south', 'north', 'southeast', 'northwest', 'northeast', 'southwest', 'up', 'down']$/;"	kind:variable	line:43
 directions	testbfsagent.py	/^directions = ['east', 'west', 'south', 'north', 'southeast', 'southwest', 'northeast', 'northwest', 'up', 'down']$/;"	kind:variable	line:5
+downloadCommands	commands/solutionarchive/sadownloader.py	/^def downloadCommands(site):$/;"	kind:function	line:12
+downloadSolution	commands/solutionarchive/sadownloader.py	/^def downloadSolution(site):$/;"	kind:function	line:43
 enqueue_pipe_output	textplayer/textPlayer.py	/^	def enqueue_pipe_output(self, output, queue):$/;"	kind:member	line:60
 example.py	nltk/example.py	1;"	kind:file	line:1
 execute_command	textplayer/textPlayer.py	/^	def execute_command(self, command):$/;"	kind:member	line:84
 explore	testbfsagent.py	/^def explore():$/;"	kind:function	line:19
 explored	testbfsagent.py	/^def explored(place):$/;"	kind:function	line:26
 fight_actions	commands.py	/^fight_actions = {'attack', 'kill', 'fight', 'shoot', 'strike', 'punch'}$/;"	kind:variable	line:6
-fight_commands	commands.py	/^fight_commands = {}$/;"	kind:variable	line:18
+fight_commands	commands.py	/^fight_commands = {}$/;"	kind:variable	line:32
 fights	testagent.py	/^fights = open('fights', 'a')$/;"	kind:variable	line:12
 filename	testagent.py	/^filename = 'zork1.z5' if len(sys.argv) < 2 else sys.argv[1]$/;"	kind:variable	line:33
+files	commands.py	/^files = []$/;"	kind:variable	line:9
 frequency	descriptions.py	/^def frequency(word):$/;"	kind:function	line:20
 gameBoomersDownloader.py	commands/gameBoomers/gameBoomersDownloader.py	1;"	kind:file	line:1
-getNodes	commands/gameBoomers/gameBoomersDownloader.py	/^def getNodes(parent):$/;"	kind:function	line:12
-get_back_command	commands.py	/^def get_back_command():$/;"	kind:function	line:43
-get_command	manualagent.py	/^def get_command():$/;"	kind:function	line:29
+getNodes	commands/gameBoomers/gameBoomersDownloader.py	/^def getNodes(parent):$/;"	kind:function	line:15
+get_back_command	commands.py	/^def get_back_command():$/;"	kind:function	line:57
+get_command	manualagent.py	/^def get_command():$/;"	kind:function	line:30
 get_command	place.py	/^    def get_command(self, inv_nouns, moves, inv_nr):$/;"	kind:member	line:67
 get_command_from_list	place.py	/^    def get_command_from_list(self, commands, inv_nouns):$/;"	kind:member	line:46
 get_command_output	textplayer/textPlayer.py	/^	def get_command_output(self):$/;"	kind:member	line:112
 get_commands	inventory.py	/^    def get_commands(self, word, k, rep):$/;"	kind:member	line:31
 get_download_link	word2vec/bookrix.py	/^def get_download_link(page):$/;"	kind:function	line:15
-get_move_command	commands.py	/^def get_move_command(direction):$/;"	kind:function	line:35
+get_move_command	commands.py	/^def get_move_command(direction):$/;"	kind:function	line:49
 get_nouns	nltk_helper.py	/^def get_nouns(text):$/;"	kind:function	line:21
 get_nouns_carefully	nltk_helper.py	/^def get_nouns_carefully(text):$/;"	kind:function	line:26
 get_score	textplayer/textPlayer.py	/^	def get_score(self):$/;"	kind:member	line:90
 get_similar_nouns	nltk_helper.py	/^def get_similar_nouns(nouns):$/;"	kind:function	line:6
-get_take_command	commands.py	/^def get_take_command(obj):$/;"	kind:function	line:32
+get_take_command	commands.py	/^def get_take_command(obj):$/;"	kind:function	line:46
 graph	testbfsagent.py	/^graph = {}$/;"	kind:variable	line:6
 init_actions	place.py	/^    init_actions = 10$/;"	kind:variable	line:21
 inv	testagent.py	/^inv = Inventory(partial(t.execute_command, 'inventory'))$/;"	kind:variable	line:39
 inventory.py	inventory.py	1;"	kind:file	line:1
-last_move	commands.py	/^last_move = 0$/;"	kind:variable	line:30
-least_common	manualagent.py	/^def least_common(desc, k):$/;"	kind:function	line:20
+last_move	commands.py	/^last_move = 0$/;"	kind:variable	line:44
+least_common	manualagent.py	/^def least_common(desc, k):$/;"	kind:function	line:21
+leftbracket	commands/solutionarchive/sadownloader.py	/^leftbracket = re.compile(r'[^)]*\\)')$/;"	kind:variable	line:8
+letter	commands/gameBoomers/gameBoomersDownloader.py	/^letter = "?"$/;"	kind:variable	line:12
 line	word2vec/preprocess.py	/^        line = f_in.readline()$/;"	kind:variable	line:34
-lines	commands.py	/^    lines = f.readlines()$/;"	kind:variable	line:9
-lines	commands.py	/^lines = filter(lambda x: len(x) > 1, lines)$/;"	kind:variable	line:12
-lines	commands.py	/^lines = map(str.lower, lines)$/;"	kind:variable	line:10
-lines	commands.py	/^lines = map(str.split, lines)$/;"	kind:variable	line:11
-look	manualagent.py	/^def look():$/;"	kind:function	line:5
+lines	commands.py	/^lines = []$/;"	kind:variable	line:8
+lines	commands.py	/^lines = filter(lambda x: len(x) > 1, lines)$/;"	kind:variable	line:25
+lines	commands.py	/^lines = map(str.lower, lines)$/;"	kind:variable	line:23
+lines	commands.py	/^lines = map(str.split, lines)$/;"	kind:variable	line:24
+look	manualagent.py	/^def look():$/;"	kind:function	line:6
 look	testagent.py	/^def look():$/;"	kind:function	line:17
 look	testbfsagent.py	/^def look():$/;"	kind:function	line:46
-main	commands/commandsDownloader.py	/^def main():$/;"	kind:function	line:28
-main	commands/gameBoomers/gameBoomersDownloader.py	/^def main():$/;"	kind:function	line:57
+main	commands/gameBoomers/gameBoomersDownloader.py	/^def main():$/;"	kind:function	line:75
+main	commands/plover/commandsDownloader.py	/^def main():$/;"	kind:function	line:28
+main	commands/solutionarchive/sadownloader.py	/^def main():$/;"	kind:function	line:56
 manualagent.py	manualagent.py	1;"	kind:file	line:1
 massRun.py	textplayer/massRun.py	1;"	kind:file	line:1
 max_score	testagent.py	/^        max_score = max(max_score, score)$/;"	kind:variable	line:86
@@ -122,10 +129,10 @@ noun_bonus	place.py	/^    noun_bonus = 100$/;"	kind:variable	line:20
 nouns	nltk/example.py	/^nouns = [word for (word, tag) in tagged if 'NN' in tag]$/;"	kind:variable	line:5
 number2word	attention.py	/^number2word = dict()$/;"	kind:variable	line:39
 p	Python 3.5 - Example Project/ZpletIOAgent.py	/^p = ret[1]$/;"	kind:variable	line:40
-parseCommands	commands/commandsDownloader.py	/^def parseCommands(site):$/;"	kind:function	line:5
-parseCommands	commands/gameBoomers/gameBoomersDownloader.py	/^def parseCommands(site):$/;"	kind:function	line:31
+parseCommands	commands/gameBoomers/gameBoomersDownloader.py	/^def parseCommands(site):$/;"	kind:function	line:43
+parseCommands	commands/plover/commandsDownloader.py	/^def parseCommands(site):$/;"	kind:function	line:5
 parse_and_execute_command_file	textplayer/textPlayer.py	/^	def parse_and_execute_command_file(self, input_filename):$/;"	kind:member	line:71
-parser	commands/gameBoomers/gameBoomersDownloader.py	/^parser = Parser()$/;"	kind:variable	line:9
+parser	commands/gameBoomers/gameBoomersDownloader.py	/^parser = Parser()$/;"	kind:variable	line:11
 place.py	place.py	1;"	kind:file	line:1
 places	descriptions.py	/^places = set(map(str.strip, _file.readlines()))$/;"	kind:variable	line:24
 places	testagent.py	/^places = {}$/;"	kind:variable	line:38
@@ -137,9 +144,12 @@ questions	testagent.py	/^questions = open('questions', 'a')$/;"	kind:variable	li
 quit	textplayer/textPlayer.py	/^	def quit(self):$/;"	kind:member	line:132
 random_move	place.py	/^    def random_move(self):$/;"	kind:member	line:89
 readNarrative	Python 3.5 - Example Project/ZpletIOAgent.py	/^def readNarrative(p):$/;"	kind:function	line:17
+regex	commands/gameBoomers/gameBoomersDownloader.py	/^regex = re.compile("[^a-zA-Z\\']")$/;"	kind:variable	line:40
 ret	Python 3.5 - Example Project/ZpletIOAgent.py	/^ret = startZplet('..\/Example Project\/lib3rd\/ieee-cig-advent-1.5.jar','..\/resources\/monkey-and-bananas-v1.z8')$/;"	kind:variable	line:38
+rightbracket	commands/solutionarchive/sadownloader.py	/^rightbracket = re.compile(r'\\([^)]*')$/;"	kind:variable	line:9
 run	textplayer/textPlayer.py	/^	def run(self):$/;"	kind:member	line:36
 run_bash	textplayer/textPlayer.py	/^	def run_bash(self, command):$/;"	kind:member	line:66
+sadownloader.py	commands/solutionarchive/sadownloader.py	1;"	kind:file	line:1
 saver	attention.py	/^saver = tf.train.Saver()$/;"	kind:variable	line:55
 score	testagent.py	/^score = 0$/;"	kind:variable	line:13
 scores	testagent.py	/^scores = open('scores', 'a')$/;"	kind:variable	line:10
@@ -147,11 +157,11 @@ scrap	word2vec/bookrix.py	/^def scrap(page):$/;"	kind:function	line:28
 sentence	nltk/example.py	/^sentence = "I'm gonna build a wall and make Mexico pay for it!"$/;"	kind:variable	line:2
 session	attention.py	/^session = tf.Session()$/;"	kind:variable	line:54
 startZplet	Python 3.5 - Example Project/ZpletIOAgent.py	/^def startZplet(jardir, gamedir):$/;"	kind:function	line:4
-start_info	manualagent.py	/^start_info = t.run()$/;"	kind:variable	line:34
+start_info	manualagent.py	/^start_info = t.run()$/;"	kind:variable	line:35
 start_info	testagent.py	/^start_info = t.run()$/;"	kind:variable	line:35
 start_info	testbfsagent.py	/^start_info = t.run()$/;"	kind:variable	line:50
 start_info	textplayer/massRun.py	/^start_info = t.run()$/;"	kind:variable	line:28
-t	manualagent.py	/^t = tp.TextPlayer('zork1.z5')$/;"	kind:variable	line:33
+t	manualagent.py	/^t = tp.TextPlayer('zork1.z5')$/;"	kind:variable	line:34
 t	testagent.py	/^t = tp.TextPlayer(filename)$/;"	kind:variable	line:34
 t	testbfsagent.py	/^t = tp.TextPlayer('zork1.z5')$/;"	kind:variable	line:49
 t	textplayer/massRun.py	/^t = tp.TextPlayer('zork1.z5')$/;"	kind:variable	line:27
