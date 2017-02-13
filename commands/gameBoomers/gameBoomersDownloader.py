@@ -6,6 +6,7 @@ import nltk.data
 import nltk.tree
 from stat_parser import Parser
 import re
+from time import sleep
 
 
 parser = Parser()
@@ -19,20 +20,25 @@ def getNodes(parent):
                 if node.label() == "VP":
                     # we want to remove some sentences describing
                     # environment
-                    sentence = node.leaves()
-                    if sentence[0].lower() not in ["is", "are", "'re", "can",
-                                                   "'ll", "'s", "won't",
-                                                   "should", "must", "will",
-                                                   "makes", "might", "'d",
-                                                   "if", "need", "says", "a",
-                                                   "needs", "so", "do", "'ve",
-                                                   "only", "the", "to"]:
-                        if sentence[0].lower() in ['and', 'then']:
-                            sentence = sentence[1:]
-                        f = open("result/verbs"+letter, "a")
-                        f.write(" ".join(sentence)+"\n")
-                        f.close()
-                        return True
+                    sentence = " ".join(node.leaves()).lower()
+                    commands = re.split(
+                        r';|\,|\.|\>|\band\b|\bor\b|\bthen\b', sentence)
+                    done = False
+                    for command in commands:
+                        if re.match(r'^[a-zA-Z0-9\;\,\.\-\*\:\'\"\/\s]{1,80}$',
+                                    command) \
+                                and re.search(r'[a-zA-Z]', command):
+                            tokens = nltk.word_tokenize(command)
+                            if len(tokens) > 0 and len(tokens) <= 5:
+                                tagged = nltk.pos_tag(tokens)
+                                if tagged[0][1] not in \
+                                        ["VBZ", "VBN", "VBD", "VBP", "VBG",
+                                         "MD", "NNS", "DT", "JJ"]:
+                                    f = open("result/verbs"+letter, "a")
+                                    f.write(command+"\n")
+                                    f.close()
+                                    done = True
+                    return done
             else:
                 return True
     return False
