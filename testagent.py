@@ -79,11 +79,12 @@ try:
                 places[desc].useless_command(command[1])
         desc = new_desc
         print inv.text
-        if t.get_score() is not None:
+        tscore = t.get_score()
+        if tscore is not None:
             global score
             global max_score
             global possible_score
-            (score, possible_score) = t.get_score()
+            (score, possible_score) = tscore
             max_score = max(max_score, score)
             print("Score:", score, "Possible score:", possible_score)
         else:
