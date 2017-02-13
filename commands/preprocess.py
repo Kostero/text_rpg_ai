@@ -4,10 +4,10 @@ from collections import Counter
 def get_nouns(text):
     return [word.lower() for (word, tag) in nltk.pos_tag(text) if 'NN' in tag]
 
-def save(commands, filename):
+def save(commands, filename, min_freq=1):
     with open(filename, 'w') as f:
         for c, freq in commands.items():
-            if len(c) == 0: continue
+            if len(c) == 0 or freq < min_freq: continue
             nouns = list(set(get_nouns(c)) - {c[0]})
             f.write('#'.join([' '.join(c)] + nouns + [str(freq)]) + '\n')
 
@@ -53,4 +53,4 @@ for l in lines:
 print commands.most_common(20)
 print fight_commands.most_common(20)
 save(commands, output)
-save(fight_commands, output_fight)
+save(fight_commands, output_fight, min_freq=4)

@@ -110,9 +110,9 @@ class Place:
             self.useless_commands.clear()
             self.update_commands(self.commands, inv_nouns)
             self.update_commands(self.fight_commands, inv_nouns, allow_unknown=False)
-        '''fight = self._get_command(self.fight_commands, inv_nouns, allow_unknown=False)
+        fight = self._get_command(self.fight_commands, inv_nouns, allow_unknown=False)
         if fight is not None:
-            return (self.Fight, fight)'''
+            return (self.Fight, fight)
         if self.dangerous():
             return (self.Move, self.RunAway)
         if self.taken < min(len(self.nouns), self.taken_limit):
