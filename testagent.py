@@ -40,6 +40,7 @@ inv = Inventory(partial(t.execute_command, 'inventory'))
 moves = 0
 
 try:
+    noneCount = 0
     print start_info
     desc = look()
     for i in range(2500):
@@ -87,8 +88,11 @@ try:
             (score, possible_score) = tscore
             max_score = max(max_score, score)
             print("Score:", score, "Possible score:", possible_score)
+            noneCount = 0
         else:
-            break
+            noneCount += 1
+            if noneCount > 10:
+                break
     t.quit()
 except KeyboardInterrupt:
     exit(0)
