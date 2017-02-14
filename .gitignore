@@ -7,3 +7,7 @@ tags
 textplayer/
 *.pyc
 pyStatParser/
+fights
+questions
+scores
+tags
