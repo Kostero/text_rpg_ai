@@ -43,7 +43,7 @@ try:
     noneCount = 0
     print start_info
     desc = look()
-    for i in range(2500):
+    for i in range(25000):
         if desc not in places:
             places[desc] = Place(desc)
         command = places[desc].get_command(inv.content, moves, inv.nr)
