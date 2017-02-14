@@ -3,26 +3,17 @@ import commands
 import random
 import nltk
 import numpy as np
-from collections import namedtuple
+import attention
+import math
+from collections import namedtuple, defaultdict
 from nltk_helper import get_nouns, get_similar_nouns, get_nouns_carefully
 
-def weighted_choice(options):
-    if len(options) == 0:
-        return None
-    s = sum(zip(*options)[1])
-    c = random.random() * s
-    for i, (n, w) in enumerate(options):
-        c -= w
-        if c <= 0:
-            options[i] = (n, w * 0.9)
-            return n
-
 class Place:
-    taken_limit = 6
+    taken_limit = 7
     noun_bonus = 500
     init_actions = 15
     move_action_ratio = 3
-    unknown_penalty = 1500.0
+    unknown_penalty = 100.0
     Take, Move, Action, RunAway, Fight = range(5)
     
     class Command:
@@ -40,8 +31,9 @@ class Place:
         self.fight_commands = self.Command()
         self.useless_commands = set()
         self.inventory_nr = -1
+        self.weights = defaultdict(lambda: 0.5, attention.compute_weights(text))
         self.nouns = sorted({n for n in get_nouns_carefully(text) if n not in commands.directions}, 
-                            key=descriptions.frequency)
+                            key=lambda x: math.log(descriptions.frequency(x) + 2) / self.weights[x])
         self.similar_nouns = get_similar_nouns(self.nouns)
         self.directions = commands.directions[:]
         for sim, _ in self.similar_nouns.iteritems():
@@ -60,16 +52,16 @@ class Place:
         p = np.zeros(len(commands.items))
         rep = []
         for i, c in enumerate(commands.items):
-            score = c.freq
+            score = math.log(c.freq + 2)
             com = c.text
             for n in c.nouns:
                 if n in self.similar_nouns:
                     (k, sim) = self.similar_nouns[n]
-                    score *= self.noun_bonus * k / float(descriptions.frequency(n) + 1)
+                    score *= self.noun_bonus * k * self.weights[n] / math.log(descriptions.frequency(n) + 2)
                     com = com.replace(n, sim)
                 elif n in inv_nouns:
                     (k, sim) = inv_nouns[n]
-                    score *= self.noun_bonus * k / float(descriptions.frequency(n) + 1)
+                    score *= self.noun_bonus * k * self.weights[n] / math.log(descriptions.frequency(n) + 2)
                     com = com.replace(n, sim)
                 elif allow_unknown:
                     score /= self.unknown_penalty

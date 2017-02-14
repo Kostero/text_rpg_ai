@@ -225,3 +225,12 @@ zork1.z5 30 (max 40) / 350
 zork2.z5 0 (max 0) / 400
 zork3.z5 2 (max 2) / 7
 ztuu.z5 0 (max 0) / 100
+spirit.z5 0 (max 0) / 250
+spirit.z5 0 (max 0) / 250
+night.z5 2 (max 2) / 10
+cavetrip.z5 0 (max 0) / 500
+cavetrip.z5 0 (max 0) / 500
+cavetrip.z5 0 (max 0) / 500
+detective.z5 30 (max 30) / 360
+detective.z5 120 (max 120) / 360
+detective.z5 40 (max 40) / 360
