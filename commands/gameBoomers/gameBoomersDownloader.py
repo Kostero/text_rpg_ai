@@ -83,9 +83,11 @@ def main():
         if aletter == "#":
             global letter
             letter = "Number"
+            codeletter = "0-9"
         else:
             global letter
-            letter = aletter
+            letter = aletter.upper()
+            codeletter = letter+letter.lower()
         print "L", letter
         # dirty way to remove file
         f = open("result/verbs"+letter, "w")
@@ -97,7 +99,7 @@ def main():
         links = soup.findAll('a')
         for link in links:
             href = link['href']
-            if 'wtcheats' in href:
+            if 'wtcheats/pc' + codeletter in href:
                 try:
                     parseCommands(href)
                 except Exception as e:
