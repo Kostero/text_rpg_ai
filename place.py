@@ -12,7 +12,8 @@ class Place:
     taken_limit = 7
     noun_bonus = 500
     init_actions = 15
-    move_action_ratio = 3
+    move_action_ratio = 5
+    move_take_ratio = 50
     unknown_penalty = 100.0
     Take, Move, Action, RunAway, Fight = range(5)
     
@@ -52,7 +53,7 @@ class Place:
         p = np.zeros(len(commands.items))
         rep = []
         for i, c in enumerate(commands.items):
-            score = math.log(c.freq + 2)
+            score = c.freq
             com = c.text
             for n in c.nouns:
                 if n in self.similar_nouns:
@@ -107,7 +108,7 @@ class Place:
             return (self.Fight, fight)
         if self.dangerous():
             return (self.Move, self.RunAway)
-        if self.taken < min(len(self.nouns), self.taken_limit):
+        if self.taken < min(len(self.nouns), max(self.taken_limit, moves / self.move_take_ratio)):
             self.taken += 1
             return (self.Take, self.nouns[self.taken-1])
         if self.actions - self.init_actions > moves / self.move_action_ratio:
