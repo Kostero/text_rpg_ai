@@ -60,5 +60,5 @@ class Inventory:
                     commands += self.get_commands(n, 1.0, n)
             self.nouns = set(nouns)
             result = sorted(set(commands), key=lambda (x, _): -x)
-            return [x for (_, x) in result[:self.commands_limit]]
+            return reversed([x for (_, x) in result[:self.commands_limit]])
         return []

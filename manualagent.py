@@ -2,6 +2,7 @@ import textplayer.textPlayer as tp
 import descriptions
 import nltk
 import attention
+import sys
 
 def look():
     desc = t.execute_command('look')
@@ -31,7 +32,7 @@ def get_command():
     print '\n>>',
     return raw_input()
 
-t = tp.TextPlayer('zork1.z5')
+t = tp.TextPlayer('zork1.z5' if len(sys.argv) < 2 else sys.argv[1])
 start_info = t.run()
 print start_info
 while True:
