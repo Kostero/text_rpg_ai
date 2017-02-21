@@ -16,10 +16,9 @@ fight_actions = {'attack', 'kill', 'fight', 'shoot', 'punch'}
 files = []
 files += ['plover/downloadedCommands.txt']
 files += ['solutionarchive/downloadedCommands.txt']
-'''
 files += ["gameBoomers/result/verbs"+x for x in
           list("QWERTYUIOPASDFGHJKLZXCVBNM")+["Number"]]
-'''
+
 output = 'preprocessedCommands.txt'
 output_fight = 'preprocessedFightCommands.txt'
 
