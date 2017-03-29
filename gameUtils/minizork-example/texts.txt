@@ -1,0 +1,646 @@
+
+MINI-ZORK I: The Great Underground Empire
+Copyright (c) 1988 Infocom, Inc. All rights reserved.
+ZORK is a registered trademark of Infocom, Inc.
+Release 34 / Serial number 871124
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door. You could circle the house to the north or south.
+There is a small mailbox here.
+
+>]2;rezrov: MINI-ZORK I: The Great Underground Empirespiel
+13640: That :
+19010: "I don't understand! What are you referring to?"
+19231: Roomsentencevobe S.
+21815: Maximum verbosity.
+21835: Brief descriptions.
+21855: Superbrief descriptions.
+22015: . You have been killed
+22061: You are empty-handed.
+22220: Ok.
+22326: Ok.
+22370: Ok.
+22424: . This gives you the rank of
+22506: Adventurer.
+22630: MINI-ZORK I:
+22650: Copyright (c) 1988 Infocom, Inc. All rights reserved.
+ZORK is a
+registered trademark of Infocom, Inc.
+Release
+22782: Verifying...
+22798: Correct.
+22844: D.
+23131: You didn't say with what!
+23186: dhemxm catches fire. Unfortunately, you were
+23292: Climbing the walls is to no avail.
+23442: Closed.
+23485: You cannot close that.
+23498: You have lost your mind.
+23524: Such language in a high-class establishment like this!
+23591: Not a bright idea, since you're in it.
+23683: The "cutting edge" of a
+23746: Come on, now!
+23768: There's no reason to be digging here.
+23850: How peculiar!
+23882: Dropped.
+23918: How can you drink that?
+24071: That really hit the spot.
+24183: You are on your own feet again.
+24198: Getting out here would be fatal.
+24222: What a bizarre concept!
+24298: You may know how to do that, but I don't.
+24335: Within six feet of your head, hopefully.
+24364: You're around here somewhere...
+24387: You find it.
+24400: You have it.
+24424: It's right here.
+24477: Beats me.
+24488: You're nuts!
+24590: Bizarre!
+24632: Only schizophrenics say "Hello" to a
+24666: Good day.
+24676: How can you inflate that?
+24700: I'd sooner kiss a pig.
+24724: Nobody's home.
+24762: It's already off.
+24814: It is already on.
+24898: That's pretty weird.
+24991: This was not a very safe place to try jumping.
+25120: It's open, but you can't see what's beyond.
+25234: With jwould 8Sare emxh:k 5sxnbut dust there.
+25289: Moved.
+25412: Nice try.
+25456: The cyclops, hearing the name of his father's deadly nemesis, flees by
+crashing through the east wall.
+25511: Wasn't he a sailor?
+25556: It is already open.
+25579: Opened.
+25657: It is already open.
+25836: If you pray enough, your prayers may be answered.
+25900: It's not clear how.
+25990: How can you do that?
+26040: There's no room.
+26101: Done.
+26214: It could very well be too late!
+26236: How, exactly, can you ring that?
+26273: Say what?
+26342: You find nothing unusual.
+26370: Shaken.
+26378: Wheeeeeeeeee!!!!!
+26470: You aren't versed in hand-to-hand combat; you'd better use a weapon.
+26571: Whoosh!
+26675: You're in it!
+26693: Taken.
+26844: That would involve quite a contortion!
+26893: dhemxm conks you in the head. Normally, this wouldn't do much damage,
+but you fall over backwards trying to duck and break your neck, justice being
+swift and merciful in
+27050: Thrown.
+27057: Huh?
+27152: Your bare hands don't appear to be enough.
+27190: This has no effect.
+27210: This cannot be tied, so it cannot be untied!
+27234: Time passes...
+27476: Use compass directions for movement.
+27512: Aaarrrggghhh!
+27524: At your service!
+27555: It is pitch black. You are likely to be eaten by a grue.
+27835: Rooms.
+28218: Your treasures include:
+28233: You have:
+28336: Bad luck, huh?
+28353: Congratulations. It's not easy to be killed while already dead.
+28447: You clearly are a suicidal maniac. Your remains will be put in Hades for
+your fellow adventurers to gloat over.
+28604: . Your senses are disturbed. Objects around you appear indistinct,
+bleached of color, even unreal.
+28690: Well, you probably deserve another chance. I can't quite fix you up
+completely, but you can't have everything.
+28958: The draft blows you back.
+29006: Attacks are vain in your condition.
+29054: Such action is beyond your capabilities.
+29085: Might as well. You've got an eternity.
+29118: You need no light to guide you.
+29143: You're dead! How can you think of your score?
+29172: Your hand passes through it.
+29192: You have no possessions.
+29211: You are dead.
+29275: Although there is no light, the room seems dimly illuminated.
+29343: The sound of a distant trumpet is heard. You find yourself in the woods,
+rising as if from a long sleep. A breeze rustles the treetops; then, all is
+still.
+29449: Your prayers are not heard.
+29514: Your hand passes through it.
+29561: The thief doesn't let you near.
+29699: You're holding too many things already!
+30076: You have moved into a dark place.
+30180: Those things aren't here!
+30346: Up? Down?
+30391: There is no sailor to be seen.
+30421: You seem to be repeating yourself.
+30444: Nothing happens here.
+30527: The grue is a sinister, lurking presence in the dark places of the
+earth. Its favorite diet is adventurers, but its insatiable appetite is
+tempered by its fear of light.
+30634: One is probably lurking in the dark nearby. Don't let your light go out!
+30707: Auto-cannibalism is not the answer.
+30752: How romantic!
+30771: Your image in the mirror looks tired.
+30794: Are your eyes prehensile?
+30828: Not a chance.
+30846: You are in a square room with tall ceilings. A
+30894: mirror fills the south wall. There are exits east and northeast.
+30985: There is a rumble from deep within the earth.
+31022: The mirror is shattered.
+31039: An ugly person stares back at you.
+31090: You've done enough damage already.
+31130: The mirror breaks. I hope you have a seven year supply of good luck
+handy.
+31531: It is now pitch black.
+31556: It is!
+31642: . As you release the
+31793: The thief is a strong, silent type.
+31825: You missed hitting the thief, but you suceeded in angering him.
+31955: The thief carries a large bag and a vicious stiletto, whose blade is
+aimed menacingly in your direction.
+32297: The robber rummages through his bag and drops a few valueless items.
+32504: It will be taken over the thief's dead body.
+32609: Someone carrying a large bag is casually leaning against the wall. It is
+clear that the bag will be taken only over his dead body.
+32860: A "lean and hungry" gentleman just wandered through, carrying a large
+bag.
+32972: The thief just left. You may not have noticed that he
+33545: are Emxm square in the heart: He dies. As the
+33724: As the thief dies, his treasures reappear.
+33748: His booty remains.
+34088: You are standing in an open field west of a white house, with a boarded
+front door.
+34138: A secret path leads southwest into the forest.
+34161: You could circle the house to the north or south.
+34200: rem ' Your qujk."WELCOME TO ZORK, a game of adventure, danger, and low
+cunning. No computer should be without one!"
+
+Note: this "mini-zork" contains
+only a sub-set of the locations, puzzles, and descriptions found
+34376: You are behind the white house. Paths lead into the forest to the east
+and northeast. In one corner of the house
+34494: The house is a beautiful white colonial. The owners must have been
+extremely wealthy.
+34562: You must be joking.
+34598: The windows are boarded!
+34618: The nails are too deeply imbedded.
+34675: This is a path through a dimly lit forest, curving from south to east. A
+large tree with low branches stands by the edge of the path.
+34781: There is a grating securely fastened into the ground.
+34817: The grating is closed!
+34844: You are ten feet above the ground, nestled among large branches.
+35062: The leaves seem to be too soggy to cut.
+35139: In disturbing the leaves, a grating is revealed.
+35277: The Frigid River flows under the rainbow.
+35329: The window is slightly ajar, but not enough to allow entry.
+35406: Mnxnforest clearing.
+35438: You are in the kitchen of the white house. A table has been used
+recently for the preparation of food. A passage leads west and a dark staircase
+leads upward. A chimney leads down and to the east
+35546: Hot peppers!
+35564: You won't make friends this way, but nobody around here is too friendly
+anyhow. Gulp!
+35624: The bottle shatters.
+35780: The water slips through your fingers.
+35871: The bottle is closed.
+35889: The bottle is now full of water.
+35951: The bottle is closed.
+36003: The rope drops over the side and comes within ten feet of the floor.
+36125: It is not tied to anything.
+36149: The rope is tied to the railing.
+36182: The trap door is closed.
+36207: The living room opens to the east. To the west is a
+36288: The door is nailed shut.
+36441: A voice whispers, "Look to your treasures for the final secret."
+36542: You might break it!
+36566: The lamp has burned out.
+36694: It won't open.
+36709: Nice try.
+36797: You drag the rug to one side of the room, revealing a closed trap door.
+36860: As you try to sit, you notice an irregularity beneath the rug.
+36899: It's not a magic carpet.
+36971: It's latched from above.
+36997: The door latches shut.
+37019: You are in a dark, damp cellar with narrow passageways to the north and
+east. On the west is the bottom of a steep metal ramp which is unclimbable.
+37115: The trap door crashes shut, and you hear someone barring it.
+37210: Some paint chips away, revealing more paint.
+37248: Don't be a vandal!
+37301: He's not much of a conversationalist.
+37344: The troll laughs at your puny gesture.
+37448: The troll is mumbling in a guttural tongue.
+37522: crossed. Paths lead east, south, and southwest.
+37558: You are atop Flood Control Dam #3, which was once quite a tourist
+attraction. There are exits to the northeast and west, and a scramble down. The
+37696: mxmsluice gates on the dam are closed. Behind the dam is a wide
+reservoir. Water is pouring over the top of the abandoned dam
+37771: . There is a control panel here, on which a large metal bolt is mounted.
+Above the bolt is a small green plastic bubble
+37878: You have run out of matches.
+37903: A draft instantly blows the match out.
+37949: One of the matches starts to burn.
+38008: The match is out.
+38077: The match is burning.
+38092: The matchbook is uninteresting, except for what's written on it.
+38134: The match has gone out.
+38197: The sluice gates open and water pours through the dam.
+38224: The bolt won't budge.
+38282: Sounds reasonable, but this isn't how.
+38328: Xngo off.
+38338: Xncome on.
+38357: Click.
+38374: Click.
+38411: The boat inflates and appears seaworthy.
+38438: A tan label is lying inside the boat.
+38475: You haven't enough lung power.
+38553: Read the tan label!
+38641: Inflating it further might burst it.
+38676: You're in it!
+38701: The boat deflates.
+38770: The cliff is unclimbable.
+38795: You are at the periphery of a large dome, which forms the ceiling of
+another room below. A wooden railing protects you from a precipitous drop.
+38875: A rope hangs from the rail and ends about ten feet from the floor below.
+38929: As you enter, a strong pull as if from a wind draws you over the railing
+and down.
+39006: This is a large domed temple.
+39027: A piece of rope descends from the railing of the dome, about 20 feet
+above, ending some five feet above your head.
+39092: On the east wall is an ancient inscription, probably a prayer in a
+long-forgotten language. Below the prayer, a stair leads down. The temple's
+altar is to the south. In the center of the room sits a white marble pedestal.
+39222: The torch is burning.
+39245: The water evaporates before it gets close.
+39280: You nearly burn your hand trying to extinguish the flame.
+39325: Ding, dong.
+39357: The rainbow solidifies and is now walkable (the stairs and bannister are
+the giveaway).
+39416: A shimmering pot of gold appears at the end of the rainbow.
+39462: The rainbow has become somewhat run-of-the-mill.
+39491: Dazzling colors briefly emanate from the sceptre.
+39550: The book is already open.
+39567: Oddly, the book cannot be closed.
+39602: Beside page 569, there is only one page with legible printing. It seems
+to be about the banishment of evil using certain noises, lights, and prayers.
+39721: Alas, there's not enough candle left to burn.
+39793: With what?
+39839: The torch's heat vaporizes the candles.
+39888: How many in a pair? Don't tell me, I'll get it...
+39951: The flame is extinguished.
+40009: Cnmhnburning.
+40064: A gust of wind blows out your candles!
+40151: You are outside a large gate inscribed, "Abandon hope all ye who enter
+here!" The gate is open; beyond you can see a desolation, with a pile of
+mangled bodies in one corner. Thousands of voices, lamenting some hideous fate,
+can be heard.
+40304: The gate is barred by evil spirits, who jeer at your attempts to pass.
+40396: You're not equipped for an exorcism.
+40445: A deep peal issues from the bell. The wraiths stop jeering and an
+expression of long-forgotten terror takes shape on their ashen faces.
+40552: In your confusion, the candles drop to the ground (and they are out).
+40620: The prayer reverberates in a deafening confusion. As the last word
+fades, a heart-stopping scream fills the cavern, and the spirits, sensing a
+greater power, flee through the walls.
+40777: The flames flicker wildly and the earth trembles beneath your feet. The
+spirits cower at your unearthly power.
+40857: The gate is protected by an invisible force. It makes your teeth ache to
+touch it.
+40914: The spirits jeer loudly and ignore you.
+40999: The tension of this ceremony is broken, and the wraiths, amused but
+shaken at your clumsy attempt, resume their hideous jeering.
+41098: Yuk!
+41146: As you take the buoy, you notice something odd about the feel of it.
+41232: You spot a scarab in the sand.
+41266: You are near the top of Aragain Falls. The only path leads north. A
+41368: Read the tan label!
+41385: The current sweeps it away.
+41444: The river is wide and dangerous, with swift currents and hidden rocks.
+You decide to forgo your swim.
+41556: The current carries you downstream.
+41673: You are on what used to be a large lake, but which is now a large mud
+pile. There are "shores" to the north and south.
+41729: You are on the lake with beaches to the north and south and a dam to the
+east.
+41795: The lake's gone...
+41872: . A slimy stairway climbs to the north.
+41988: You are in a small room with exits to the east and south.
+42047: In the corner of the ceiling, a large vampire bat is holding his nose.
+42088: A large vampire bat swoops down at you!
+42184: The bat grabs you and lifts you away...
+42234: Fweep!
+42288: The basket is raised to the top of the shaft.
+42338: The basket is lowered to the bottom of the shaft.
+42396: The chain is secure.
+42500: There is too much gas to blow away.
+42525: It smells like coal gas in here.
+42624: This is a chilly room whose sole exit is to the north. In one corner is
+a machine, reminiscent of a clothes dryer, with a switch labelled "START". The
+switch does not appear to be manipulable by any human hand (unless the fingers
+are about 1/16 by 1/4 inch). The machine has a large lid, which is
+42896: The machine produces a dazzling display of colored lights and bizarre
+noises. A moment later, the excitement abates.
+42990: The insubstantial slag crumbles at your touch.
+43039: As you touch the rusty knife, your sword gives a single pulse of
+blinding blue light.
+43163: A ghost appears, appalled at your desecration of the remains of a fellow
+adventurer. He curses your valuables and banishes them to Hades. The ghost
+leaves, muttering obscenities.
+43290: You are in a room off the maze, which lies to the southwest. Above you
+is a
+43445: Locked.
+43467: Unlocked.
+43492: You haven't the skill.
+43548: A pile of leaves falls onto your head and to the ground.
+43583: The grating is locked.
+43602: It won't fit through the grating.
+43624: This room has a northwest exit and a staircase leading up.
+43680: He's fast asleep.
+43709: He's not much of a conversationalist.
+43772: The cyclops yawns and stares at the thing that woke him up.
+43876: The cyclops says, "Yum, that made me thirsty. Perhaps I could drink the
+blood of that thing." It appears that YOU are "that thing."
+44083: AT hungry.
+44094: The cyclops won't eat THAT!
+44135: "Do you think I'm as stupid as my father was?", he says, dodging.
+44191: The cyclops ignores your pitiful attempt.
+44218: You cannot tie him, though he is fit to be tied.
+44249: You can hear his stomach rumbling.
+44275: The east wall has a cyclops-sized opening in it.
+44306: The cyclops sleeps blissfully at the foot of the stairs.
+44342: A hungry cyclops blocks the staircase. From the bloodstains on the
+walls, you gather that he is not very friendly, though he likes people.
+44431: eyeing you closely. I don't think he likes you very much. He looks
+extremely hungry, even for a cyclops.
+44499: The cyclops, having eaten the hot peppers, appears to be gasping. His
+enflamed tongue protrudes from his man-sized mouth.
+44722: You hear a scream of anguish as the robber rushes to defend his
+hideaway.
+44774: Huh?
+44786: You have entered a stone barrow. The door closes behind you, leaving you
+in darkness, but ahead is a brightly-lit cavern. Floating in the cavern is a
+large sign: "You have completed a great and perilous adventure which has tested
+your wit and courage. You have mastered the first part of the ZORK trilogy.
+Prepare yourself for an even greater test!"
+
+The ZORK trilogy continues with
+"ZORK II: The Wizard of Frobozz" and "ZORK III: The Dungeon Master."
+45062: You haven't a prayer of getting the coffin down there.
+45094: You have entered the Land of the Living Dead. Thousands of lost souls
+can be heard weeping and moaning. In a corner are the remains of previous
+adventurers less fortunate than yourself. A passage exits to the north.
+45216: An old leather bag, bulging with coins, is here.
+45250: Nothing happens.
+45264: Paths lead into the forest to the west and northwest. Also, a
+well-marked path extends east.
+45318: "Flood Control Dam #3 was constructed in 783 GUE with a grant of 37
+million zorkmids from Lord Dimwit Flathead the Excessive. This impressive
+structure is composed of 370,000 cubic feet of concrete, is 256 feet tall and
+193 feet wide.
+
+The construction of FCD#3 took 112 days from ground breaking to
+dedication. It required a work force of 384 slaves, 34 slave drivers, and 12
+engineers, 2345 bureaucrats, and nearly one million dead trees.
+
+As you start
+your tour, notice the more interesting features of FCD#3. On your right...
+45674: Oh, no! You have walked into the slavering fangs of a lurking grue!
+45718: On the ground is a pile of leaves.
+45738: At the end of the rainbow is a pot of gold.
+45760: With great effort, you open the window enough to allow entry.
+45796: On the table is an elongated brown sack, smelling of hot peppers.
+45838: On the far wall is a painting of unparalleled beauty.
+45872: On the altar is a large black book, open to page 569.
+45906: On the two ends of the altar are burning candles.
+45936: At the east end of this narrow passage, a ladder leads upward. There's a
+strong draft from the west, where the passage narrows even further.
+46044: You must perform the ceremony.
+46064: That would be a good trick.
+46080: The axe crashes against the rock, throwing sparks!
+46108: The axe blade nicks your side. Ouch!
+46130: An axe stroke makes a deep wound in your leg.
+46160: A hot pepper sandwich is here.
+46184: What a concept!
+46204: This is a dimly lit forest, with large trees all around.
+46236: This is the attic. The only exit is the stairway down.
+46266: This was once an artist's studio. The walls are splattered with paints
+of 69 different colors. To the west is a doorway (also covered with paint). A
+dark and narrow chimney leads up from a fireplace; although you might be able
+to get up it, it seems unlikely you could get back down.
+46432: This is a small room with passages to the east, northeast and south, and
+a forbidding hole leading west. Bloodstains and deep scratches (perhaps made by
+an axe) mar the walls.
+46524: This is a circular room with passages in all directions. Several have
+unfortunately been blocked by cave-ins.
+46590: This was the maintenance room for Flood Control Dam #3. Apparently, the
+room has been ransacked, for most of the valuable equipment is gone. On one
+wall is a group of buttons colored yellow, brown, and red. The only doorway is
+southwest.
+46728: This looks like an Egyptian tomb. A stair ascends to the west.
+46766: The candles grow shorter.
+46778: The candles are becoming quite short.
+46798: The candles won't last long now.
+46812: This is a crooked corridor from the north, with forks to the southwest
+and south.
+46848: This is a tiny cave with entrances west and north, and a dark,
+forbidding staircase leading down.
+46894: This is a sand-filled cave whose exit is to the southwest.
+46924: This small chamber appears to have been part of a coal mine. To the west
+and south are passages, and a steep metal slide twists downward.
+46996: This room smells strongly of coal gas. Narrow tunnels lead lead east and
+south.
+47040: This is a nondescript part of a coal mine.
+47066: This is a small room at the bottom of a long shaft. A heavy iron chain
+hangs down the shaft. To the south is a passageway and to the east a very
+narrow passage.
+47150: This is part of a maze of twisty little passages, all alike.
+47188: The cyclops won't let you past.
+47200: The cyclops, tired of your trickery, grabs you firmly. "Mmm. Just like
+Mom used to make 'em."
+47258: A valiant attempt.
+47272: The door is boarded and you can't remove the boards.
+47302: The door is nailed shut.
+47316: The door reluctantly opens to reveal a rickety staircase descending into
+darkness.
+47356: The door swings shut.
+47368: The dam blocks your way.
+47382: The deceased adventurer's useless lantern is here.
+47414: The engravings translate to "This space intentionally left blank."
+47460: You should have looked before you leaped.
+47484: The flat of the troll's axe skins across your forearm.
+47516: You seem to be digging a hole here.
+47536: Failed.
+47544: You try to ascend the ramp, but slide back down.
+47572: A voice booms from the darkness, "Your disrespect costs you your life!"
+47610: The grating is closed.
+47618: The grating opens.
+47626: The grating closes.
+47642: The hole collapses, smothering you.
+47666: The hole is getting deeper, but that's about it.
+47692: Look around you.
+47716: Beside you on the branch is a small bird's nest.
+47744: You would drown.
+47756: Beside the skeleton is a rusty knife.
+47782: The knife, moving with its own force, slowly turns your hand, until the
+blade is at your neck. The knife seems to sing as it savagely slits your
+throat.
+47876: A large coil of rope is lying in the corner.
+47900: The lamp appears dimmer.
+47912: The lamp is definitely dimmer now.
+47934: The lamp is nearly out.
+47948: A troll, brandishing a bloody axe, blocks all passages out of the room.
+47994: The map shows a house in a forest clearing. Several paths leave the
+clearing; one, leading southwest, is marked "To Stone Barrow".
+48074: It's not clear what you're referring to.
+48100: It's too dark to see.
+48112: Only Santa Claus climbs down chimneys.
+48164: It's a long way...
+48176: From the chain is suspended a basket.
+48200: The only visible exit is down a staircase.
+48228: A battery-powered brass lantern is on the trophy case.
+48264: The prayer is a philippic against small insects, absent-mindedness, and
+the picking up and dropping of small objects. All evidence indicates that the
+beliefs of the ancient Zorkers were obscure.
+48376: Unfortunately, the raft provides little protection from the boulders one
+meets at the bottom of waterfalls. Including this one.
+48462: The river descends here into a valley. The are no landings on either
+shore. In the distance a faint rumbling can be heard.
+48532: A skeleton, probably the remains of a luckless adventurer, lies here.
+48584: The stiletto flashes, and blood wells from your leg.
+48612: The stiletto gashes your forehead, and blood obscures your vision.
+48650: The solid-gold coffin used for the burial of Ramses II is here.
+48688: The spirits block you from passing through the gate.
+48714: The sound of rushing water is nearly unbearable here. On the both the
+east and west shores are beaches.
+48768: The shaft is too small for you.
+48782: There is nothing to fill it with.
+48810: There is a suspicious-looking individual, holding a large bag, leaning
+against one wall. He is armed with a deadly stiletto.
+48878: The troll's axe barely misses your ear.
+48902: The troll charges, and his axe slashes you on your arm.
+48932: The troll neatly removes your head.
+48954: The thief stabs nonchalantly with his stiletto and misses.
+48984: The thief draws blood, raking his stiletto across your arm.
+49016: The thief slashes your wrist, leaving your grip slippery with blood.
+49052: The thief, forgetting his genteel upbringing, cuts your throat.
+49090: There is no tree here suitable for climbing.
+49114: There is a brass lantern (battery-powered) here.
+49144: The troll fends you off with a menacing gesture.
+49172: There is a matchbook whose cover says "Visit Beautiful FCD#3" here.
+49220: There is a folded pile of plastic here which has a small valve attached.
+49258: There are no landings here.
+49272: There is a red buoy here (probably a warning).
+49296: There is an old trunk here, bulging with assorted jewels.
+49328: There is an exquisite jade figurine here.
+49352: There is an enormous diamond (perfectly cut) here.
+49382: There is an intricate silver chalice here.
+49406: A painting by a neglected genius is here.
+49458: Finding nothing of value, the thief left, looking disgusted.
+49492: A bottle is sitting on the table.
+49512: Sitting on the pedestal is a flaming torch, made of ivory.
+49576: The water spills to the floor and evaporates immediately.
+49610: The windows are all boarded.
+49628: The walls of the river canyon may be climbable here. To the northeast is
+a narrow path.
+49672: The window closes (more easily than it opened).
+49722: Standing by the temple's altar, you can see a small hole in the floor
+which leads into darkness. The rest of the temple is north of here.
+49788: Can you walk on water vapor?
+49804: Hello, Sailor! Instructions: To enter a body of water, say "Launch". To
+get to shore, say "Land" or the direction you want to go. FROBOZZ MAGIC BOAT
+COMPANY Warranty: This boat is guaranteed for 9 seconds from date of purchase
+or until used, whichever comes first. Good Luck!
+50020: Poof, you're dead!
+50034: A guidebook entitled "Flood Control Dam #3" is on the ground.
+50104: A sceptre, possibly that of ancient Egypt itself, is in the coffin. The
+sceptre is ornamented with jewels.
+50168: approaching in an unfriendly manner. You can: 1. Leave 2. Become dinner.
+50221: Cuv.
+50250: now holding salt and pepper. Condiments for an upcoming snack?
+50290: Not bloody likely.
+50304: It is an integral part of the control panel.
+50332: Commandment #12592
+
+Oh ye who say: "Hello sailor":
+Dost thou know thy
+sin?
+Yea, thou shalt be crushed by stones.
+Shall angry gods turn thee to
+dust?
+Shall they stab thy eye with a stick!
+Even to eternity shalt thou roam
+and
+Unto Hades shalt thou be sent at last.
+Surely thou shalt then repent.
+50566: You already did that!
+50604: You are facing the north side of a white house. There is no door here,
+and all the windows are boarded up. A narrow path winds north through the
+trees.
+50674: You are facing the south side of a white house. There is no door here,
+and all the windows are boarded.
+50724: You are atop the west wall of a great canyon, offering a marvelous view
+of the mighty Frigid River below. Across the canyon, the walls of the White
+Cliffs join the mighty ramparts of the Flathead Mountains. To the north,
+Aragain Falls may be seen, complete with rainbow. Even further upstream, the
+river flows out of a great dark cavern. To the west is an immense forest,
+stretching for miles. It seems possible to climb down into the canyon from
+here.
+50988: You are on a small, rocky beach by the Frigid River, below the falls. A
+rainbow crosses over the falls to the east and a narrow path continues to the
+southwest.
+51066: You are at the base of the dam, which looms above you. The river Frigid
+begins here. Across it, to the east, cliffs form giant walls stretching
+north-south along the shore.
+51160: You are on a narrow strip of beach between the White Cliffs and the
+Frigid River. A tiny passage leads west into the cliff.
+51218: You are on the Frigid River just below the dam. The river flows quietly
+here. There is a landing on the west shore.
+51278: East or west?
+51288: You are on a large beach on the east shore of the river, which flows by
+quickly. A path runs south along the river, and a sand-filled passage leads
+northeast.
+51366: You are surrounded by a wall of sand on all sides.
+51396: You are at the entrance of an abandoned coal mine. Strange squeaky
+sounds come from the passage at the north end. You may also escape to the east.
+51478: Half-buried in the mud is an old trunk, bulging with jewels.
+51522: You can't be serious.
+51532: You can't go that way.
+51548: You cannot climb any higher.
+51564: You cannot reach the rope.
+51576: You cannot go upstream due to strong currents.
+51602: Oh dear. That smell was coal gas. I would have thought twice about
+carrying flaming objects in here.
+
+Booooooom!!!
+51674: You can't fit through with that load.
+51698: You dodge as the thief comes in low.
+51718: Above the trophy case hangs an elvish sword of great antiquity.
+51760: The White Cliffs prevent your landing here.
+51786: Talking to yourself is said to be a sign of impending mental collapse.
+51846: what was formerly a lake. However, with the water level lowered, there
+is merely a shallow stream, easily
+51910: Lying in one corner is a beautifully carved crystal skull. It appears to
+be grinning at you rather nastily.
+51976: In the bird's nest is a large egg encrusted with precious jewels,
+apparently scavenged by a childless songbird.
+52044: In the trophy case is an ancient parchment map.
+52074: You'd fracture many bones.
+52094: In the middle this room a small shaft descends into darkness below.
+Above the shaft is a metal framework to which a heavy iron chain is attached.
+There are exits to the west and north. A foul odor can be detected from the
+latter direction.
+
+
+>quit
+Your score is 0 (of 350 points), in 0 moves. This gives you the rank of
+Beginning Adventurer.
+
+Do you wish to leave the game? (Y is affirmative): >Y
+
+*** End of session ***
+]2; 
