@@ -3,3 +3,4 @@ mkdir $2
 ./items.sh $1 >$2/items.txt
 ./rooms.sh $1 >$2/rooms.txt
 ./objects.sh $1 >$2/objects.txt
+./words.sh $1>$2/words.txt

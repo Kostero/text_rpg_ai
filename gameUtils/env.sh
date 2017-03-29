@@ -6,4 +6,5 @@ make
 make test
 sudo make install
 cd ..
-./all.sh Games-Rezrov-0.20/minizork.z3 minizork-example
+chmod +x *.sh
+./all.sh Games-Rezrov-0.20/minizork.z3 minizork-example/
