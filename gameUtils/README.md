@@ -2,6 +2,7 @@ Install `perl` before launching `env.sh` (`sudo apt-get install perl`).
 
 ### Commands
 
+* `./ztools731/txd game.z5 >fullGame.txt` - decompile the whole game
 * `./text.sh game.z5 >gameText.txt` - creates file with all texts in game.
 * `./items.sh game.z5 >items.txt`
 * `./objects.sh game.z5 >objects.txt`
