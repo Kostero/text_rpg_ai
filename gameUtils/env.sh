@@ -12,4 +12,3 @@ sudo make install
 cd ..
 chmod +x *.sh
 ./all.sh Games-Rezrov-0.20/minizork.z3 minizork-example/
-./ztools731/txd Games-Rezrov-0.20/minizork.z3 >minizork-example/fullgame.txt
