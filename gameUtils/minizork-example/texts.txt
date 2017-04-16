@@ -1,15 +1,3 @@
-
-MINI-ZORK I: The Great Underground Empire
-Copyright (c) 1988 Infocom, Inc. All rights reserved.
-ZORK is a registered trademark of Infocom, Inc.
-Release 34 / Serial number 871124
-
-West of House
-You are standing in an open field west of a white house, with a boarded front
-door. You could circle the house to the north or south.
-There is a small mailbox here.
-
->]2;rezrov: MINI-ZORK I: The Great Underground Empirespiel
 13640: That :
 19010: "I don't understand! What are you referring to?"
 19231: Roomsentencevobe S.
@@ -635,12 +623,3 @@ Above the shaft is a metal framework to which a heavy iron chain is attached.
 There are exits to the west and north. A foul odor can be detected from the
 latter direction.
 
-
->quit
-Your score is 0 (of 350 points), in 0 moves. This gives you the rank of
-Beginning Adventurer.
-
-Do you wish to leave the game? (Y is affirmative): >Y
-
-*** End of session ***
-]2; 

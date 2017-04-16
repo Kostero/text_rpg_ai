@@ -1,15 +1,3 @@
-
-MINI-ZORK I: The Great Underground Empire
-Copyright (c) 1988 Infocom, Inc. All rights reserved.
-ZORK is a registered trademark of Infocom, Inc.
-Release 34 / Serial number 871124
-
-West of House
-You are standing in an open field west of a white house, with a boarded front
-door. You could circle the house to the north or south.
-There is a small mailbox here.
-
->]2;rezrov: MINI-ZORK I: The Great Underground Empirelingo
 "       #comm   #rand   #reco   #unre   $ve     ,       .       a       about 
 across  activa  advent  again   air     air-p   all     altar   an      ancien
 and     answer  apply   around  art     ask     at      attach  attack  awake 
@@ -64,12 +52,3 @@ unscri  untie   up      useles  using   valve   vampir  verbos  versio  viciou
 vitreo  w       wade    wait    wake    walk    wall    walls   water   wave  
 west    what    whats   where   white   windin  window  with    wooden  wrench
 writin  y       yank    yell    yellow  yes     z       zork    
-
->quit
-Your score is 0 (of 350 points), in 0 moves. This gives you the rank of
-Beginning Adventurer.
-
-Do you wish to leave the game? (Y is affirmative): >Y
-
-*** End of session ***
-]2; 
