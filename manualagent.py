@@ -3,7 +3,7 @@ import descriptions
 import nltk
 import attention
 import sys
-import classifier
+from logsAnalysis import classifier
 
 def look():
     desc = t.execute_command('look')
