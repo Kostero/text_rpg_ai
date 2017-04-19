@@ -64,8 +64,11 @@ saver.restore(session, "./data/attention_model/rpg_model.ckpt")
 
 def compute_weights(sentence):
     words = nltk.word_tokenize(sentence)
-    inp = [word2number[w] if w in word2number else word2number["<UNK>"] for w in words]
-    alpha = session.run(net.alpha, feed_dict={net.x:[inp]})[0]
+    try:
+        inp = [word2number[w] if w in word2number else word2number["<UNK>"] for w in words]
+        alpha = session.run(net.alpha, feed_dict={net.x:[inp]})[0]
+    except:
+        return zip(words, [1 for _ in words])
     return zip(words, alpha * len(alpha))
 
 
