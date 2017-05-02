@@ -6,9 +6,9 @@ import numpy as np
 
 class Inventory:
     noun_bonus = 5
-    commands_limit = 20
+    commands_limit = 15
     unknown_penalty = 100.0
-    blacklist = {'drop', 'leave', 'throw'}
+    blacklist = {'drop', 'leave', 'throw', 'off'}
 
     def __init__(self, update_command):
         self.text = ''
