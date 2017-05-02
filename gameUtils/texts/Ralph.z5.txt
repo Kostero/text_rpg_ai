@@ -1,0 +1,620 @@
+15224: There is no reply.
+15286: Nothing is on sale.
+15689: Dropped.
+15742: . Not bad.
+17025: Done.
+17072: You are carrying nothing.
+17151: Keep your mind on the game.
+17172: You hear nothing unexpected.
+18052: But it's dark.
+18067: You find nothing of interest.
+18089: Quite.
+18119: Nothing to do!
+18130: o. You have died
+18228: It is now pitch dark in here!
+18253: I beg your pardon?
+18315: Sorry, that can't be corrected.
+18340: Think nothing of it.
+18389: As good-looking as ever.
+18421: You can hardly repeat that.
+18442: You can't begin with a comma.
+18542: I didn't understand that number.
+18567: You can't see any such thing.
+18597: You aren't holding that!
+18684: That's not a verb I recognise.
+18718: You can't see "
+18819: Nothing to do!
+18832: There are none at all available!
+19219: That was a rhetorical question.
+19244: Score notification off.
+19265: Score notification on.
+19294: Objects you have handled:
+19317: None.
+19694: You have visited:
+19861: You are unable to.
+19878: Nothing obvious happens.
+19925: That's not a direction.
+19944: Not that way you can't.
+20071: You lack the dexterity.
+20144: Done.
+20188: Please answer yes or no.
+20212: Are you sure you want to quit?
+20324: Removed.
+20355: Failed.
+20374: Restore failed.
+20391: Ok.
+20401: You achieve nothing by this.
+20429: Save failed.
+20444: Ok.
+20545: There is no score in this story.
+20578: Transcripting is already off.
+20635: Transcripting is already on.
+20693: But it's dark.
+20777: You find nothing of interest.
+21017: Your singing is abominable.
+21047: You smell nothing unexpected.
+21070: Oh, don't apologise.
+21096: Keep your hands to yourself.
+21119: You achieve nothing by this.
+21322: Taken.
+21333: You are always self-possessed.
+21714: You taste nothing unexpected.
+21744: You talk to yourself a while.
+21767: This provokes no reaction.
+21791: What a good idea.
+21815: Futile.
+21844: Keep your hands to yourself!
+21867: You feel nothing unexpected.
+21888: If you think that'll help.
+22069: Time passes.
+22093: That seems unnecessary.
+22179: You wave, feeling foolish.
+37187: There's nothing to drink here.
+37226: No time to play now.
+37252: It's a dog's life.
+37292: Better wait for the full moon.
+37361: That's the spirit! Now go on.
+50118: You bump against the roof.
+50158: Of course.
+50180: It makes no sound.
+50269: Nothing.
+50280: He reeks of old wet fabric fur.
+50322: You're already in it!
+50348: Difficult.
+50381: Christopher Robin is here.
+50407: He is carrying the squash ball.
+50673: He's awake alright.
+50719: He won't understand you.
+51615: Indeed, cypresses.
+51629: Thatasheet of glass-fibrenCypresses.
+51665: OK.
+51696: But it's already closed!
+51715: But the door is closed!
+51735: The door remains closed.
+51765: Serves them right!
+52053: It's nailed shut!
+52070: It's closed alright.
+52104: That's stupid.
+52117: A faint smell of wood.
+52390: The twigs rustle in the wind.
+52417: Freshly marked.
+52441: Yecch!
+52499: It won't budge.
+52514: It's just a few inches too high.
+52927: The cat is well out of reach.
+53046: Absolutely horrible. Plants.
+53071: No princess.
+53130: Blecch!
+53150: You are smarter than that.
+53190: Too late for that.
+53207: It's already "open," so to say.
+53285: OK.
+53314: Too late for that.
+53389: OK.
+53445: Dogs don't talk!
+53496: Rather not.
+53509: Your aim isn't good enough.
+53586: You vigorously scratch yourself.
+53613: You happily wag your tail.
+53721: Someone has dug a hole here.
+54002: That's not a verb I recognise.
+54107: Ruff! Ruff!
+54144: Dbqpmshouts "Stop that noise!"
+54170: Xmthe house shouts something.
+54258: You howl in deep sorrow.
+54290: You'd never!
+54306: You shouldn't dig here.
+54358: You dig another hole.
+54513: You can't scratch that.
+54534: Rest later, now find bone!
+54554: You slobber mindlessly.
+54574: That wouldn't be helpful.
+54597: I don't understand that.
+54632: See? See? It's recognised.
+54655: That's not a verb I recognise.
+54682: Don't you zork me, pal!
+57430: in" or "notin
+57446: opmhas" or "hasnt
+57584: }" at end of "objectloop
+58804: An Interactive Sniffing.
+Copyright (C) 1996-2004 Miron Schmidt.
+Project
+010 /
+59032: Score:
+59040: Moves:
+59048: Time:
+59056: You can't go that way.
+59152: Violence isn't the answer to this one.
+59176: This dangerous act would achieve little.
+59204: I don't think much is to be achieved by that.
+59252: Digging would achieve nothing here.
+59276: There's nothing suitable to drink here.
+59300: That would scarcely empty anything.
+59320: You can only get into something free-standing.
+59360: An absence of light to see by.
+59380: But you aren't in anything at the moment.
+59404: But there's no water here to carry.
+59452: You can't put something inside itself.
+59472: You jump on the spot, fruitlessly.
+59492: You would achieve nothing by this.
+59536: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+59624: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+59700: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+59796: You see nothing unexpected in that direction.
+60036: Please give one of the answers above.
+60060: [You can't "undo" what hasn't been done!]
+60088: [Can't "undo" twice in succession. Sorry!]
+60124: "Oops" can only correct a single word.
+60152: It is pitch dark, and you can't see a thing.
+60180: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+60236: You seem to want to talk to someone, but I can't see whom.
+60268: To talk to someone, try "someone, hello" or some such.
+60304: I didn't understand that sentence.
+60356: You seem to have said too little!
+60376: You can't use multiple objects with that verb.
+60404: You can only use multiple objects once on a line.
+60436: You excepted something not included anyway!
+60460: You can only do that to something animate.
+60480: That's not something you need to refer to in the course of this game.
+60516: I didn't understand the way that finished.
+60540: Sorry, you can only have one item here. Which exactly?
+60628: Nothing practical results from your prayer.
+60680: That would be less than courteous.
+60704: Is that the best you can think of?
+60724: You can't put something on top of itself.
+60744: Are you sure you want to restart?
+60768: Attempt to end transcript failed.
+60792: Attempt to begin transcript failed.
+60816: You aren't feeling especially drowsy.
+60840: Real adventurers do not use such language.
+60868: There's not enough water to swim in.
+60892: There's nothing sensible to swing here.
+60916: You're carrying too many things already.
+60936: You lack the nerve when it comes to the crucial moment.
+60984: You'll have to say which compass direction to go in.
+61016: The game file has verified as intact.
+61040: The game file did not verify as intact, and may be corrupt.
+61080: The dreadful truth is, this is not a dream.
+61136: Your teeth can't find a lethal grip, and your weak paws don't do any
+damage.
+61180: That's plainly inedible, even for you.
+61204: You do your famous jump. So there.
+61228: You stand still, listening concentratedly, but there's nothing
+unexpected.
+61272: Now that you have a goal, you're wide awake.
+61300: You snuffle for a few seconds, but nothing gives you any clue.
+61340: You can't carry more than one thing at a time.
+61364: The taste is not unlike the scent.
+61468: That's just one step further away: you could try to go there.
+61504: A thin beam of sunlight illuminates this shabby hut just enough to see
+what a mess it really is. Wood planks wildly nailed together, frozen drops of
+tar on the roof serve to show what dogs are worth to their masters nowadays.
+A
+somewhat rectangular hole in the eastern wall leads outward.
+61676: The early sun has a slightly orange tint but, oddly, no smell at all.
+61720: You step into the beam of sunlight, but nothing happens.
+61752: No matter what you try, it is impossible to look under the beam of
+sunlight.
+61796: It leads outside.
+61812: You find the floor under the hole.
+61832: Your good old friend Blamant the Teddy is here.
+61864: He's a fluffy Teddy bear that seems to be nearly indestructible, given
+all the effort you put into breaking him already.
+61936: You've tried that often enough: it never worked out.
+61972: His black button eyes seem to sparkle thankfully.
+62004: When you did that to Benny the Fluff Duck, it started to rot away. You
+want to spare Blamant this destiny.
+62072: This hut is a terrible mess.
+62090: The lawn stretches southward and northward here. To the northwest is the
+fence of the herb garden, east is the house, and west is your hut. The way
+northeast is blocked by dense bushes.
+In the beginning, the humans used to trim
+the lawn to a neat appearance, but eventually, seeing what you did to their
+efforts, they gave it up.
+62280: The fence is too high.
+62296: You can't seem to wriggle through the dense bushes.
+62324: A small human the others call Christopher Robin is slouching here in all
+his ungraceful wobbly mass.
+62376: Christopher Robin is still slouching here.
+62394: Christopher Robin is a very small human, about one third the size they
+come. You can remember a time when he was not much larger than you, but back
+then they wouldn't let you play with him.
+62496: He smells as you would expect: clean and soapy beyond health.
+62536: Your life would change in a very unpleasant manner.
+62572: He hums an absolutely stupid melody, seeming to enjoy it.
+62608: He starts clapping his hands and grasping your paws but then quickly
+loses interest.
+62658: You jump at the little human and sink your teeth into his soft flesh. As
+he starts screaming, the two bigger humans dash out of the house.
+After a short
+struggle and a painful encounter with your own leash, you are chained to a
+tree.
+62804: The small human weighs the ball in his hands, takes aim, and throws it
+northward to the tree. He looks at you expectantly.
+62876: He takes the ball. "Come come," he laughs.
+62904: He takes the ball. "There," he blubbers.
+62932: "The ball!" cries Christopher Robin, picking it up.
+62956: "Don't want play," muses Christopher Robin, dropping the ball to the
+ground.
+63024: "Hee-hee-hee," blubbers Christopher Robin.
+63048: Christopher Robin takes the ball from you.
+63064: "Doggie doggie dog doggie, nice doggie dog."
+63096: Christopher Robin giggles stupidly, then pats your head.
+63124: Christopher Robin pushes you away. "No dig here," he exclaims.
+63158: Christopher Robin picks up the ball.
+63176: Christopher Robin makes a soothing gesture. "Nice doggie."
+63204: Christopher Robin notices the ball and takes it from your mouth.
+63234: The small human takes the ball from you. "Come come," he laughs.
+63276: The small human takes the ball from you. "There," he blubbers.
+63316: Suddenly, Christopher Robin notices the ball on the ground. "Hee-hee,
+stupid," he giggles, picking it up.
+63376: Christopher Robin glucks joyfully.
+63392: Christopher Robin grins at you and claps his hands.
+63414: Christopher Robin crawls a few paces, then settles down again.
+63450: Christopher Robin chuckles about something unseen.
+63474: "Get ball doggie," says Christopher Robin.
+63500: "Come come," Christopher Robin chuckles.
+63520: As soon as he notices you, Christopher Robin picks up the ball.
+63552: Christopher Robin walks some steps within the plants, still searching.
+63584: Christopher Robin raises to his feet and hobbles northward.
+63612: Christopher Robin hobbles in from the south. He starts looking around
+for a few seconds, all the while smiling brightly, then catches sight of the
+ball and takes it from you. He pats you clumsily on the head, mumbling "Good
+dog doggie got ball."
+63744: Christopher Robin hobbles in from the south. He starts looking around
+for a few seconds, all the while smiling brightly, then catches sight of the
+ball and takes it.
+63830: Christopher Robin hobbles in from the south. He starts looking around,
+mumbling "Where's ball doggie?"
+63886: Christopher Robin hobbles in from the north, drops the ball and settles
+down.
+63924: Christopher Robin hobbles southward.
+63940: Christopher Robin tries to peer through the fence, craning his head. He
+starts fiddling with the gate, then, finally, opens it.
+64004: Christopher Robin hobbles through the gate.
+64022: Christopher Robin hobbles in through the gate. "Ball!" he screams
+delightedly, picking it up.
+64072: Christopher Robin hobbles in through the gate and starts looking for
+something.
+64106: Christopher Robin hobbles in through the gate.
+64128: Christopher Robin hobbles through the gate.
+64148: The fence is about twice your own height. It has been erected only this
+winter, to finally stop you from digging holes.
+64220: There's no way you can overcome this fence.
+64248: It's too high even for your capabilities.
+64276: If it were possible for you to open it, there'd be no point to the
+fence, don't you think?
+64328: The sheet of glass-fibre is too large to be thrown that high.
+64356: . Through the branches, you can see a pair of glowing eyes
+64392: You can't seem to wriggle through the dense bushes.
+64420: A caustic sensation of fear from inside the bush shrouds everything
+else.
+64464: OK. Within the bushes, you perceive an uneasy shifting.
+64500: The entrance door has a smaller door inlet in the lower part, now nailed
+shut because the cat used to enter the house through it. Scratchmarks of a very
+young dog's paws decorate most of the door and the walls next to it.
+The lawn
+is west, southward are the remains of a shed, and the way north is blocked by
+dense bushes.
+64684: The door is closed.
+64696: You can't seem to wriggle through the dense bushes.
+64768: Unfortunately, the door knob is round. No way.
+64800: Wood splinters, old paint, smeared dust.
+64828: You scratch wildly at the door. You hear footsteps from inside. Soon,
+the door is opened. Carl, one of the bigger humans, looks down at you. "And
+what would
+64928: want? Go play," he says, pushing you a few steps back. He closes the
+door again. But wait! He's dropped something!
+64996: You scratch at the door again. Almost instantly, Carl opens it, looking
+at you with a strange sort of disbelief.
+65066: "What..." he starts, then abruptly jerks his head up, staring
+wide-eyedly through the bushes. "The garden," he screams, "what have you done
+to my herb garden? How... what..." He gives a start and scrambles toward the
+fence, and through the gate.
+"Hetty," he shouts, "the miserable wretch has
+buried my pipe!" He digs into the ground and starts making a new hole.
+
+For a
+few seconds, you watch as lumps of earth are hurled into the air. Then, before
+your very eyes, a longish white shape sails up, slowly, twirling in the air,
+sprinkling dark drops around. You follow it with your eyes, then your head.
+It's -- the bone!
+
+Hours later, you lie in front of your hut, gnawing happily,
+while distant voices curse the day you were born.
+65516: "What..." he starts, then abruptly jerks his head up, staring
+wide-eyedly through the bushes. "The garden," he screams, "what have you done
+to my herb garden? How... what..." He gives a start and scrambles toward the
+fence, and through the gate.
+"There's my pipe!" he shouts, and "I'll kill the
+beast!" Finally, he stalks back from the garden, beads of sweat dripping from
+his red face.
+Your fate is most gruesome, and it seems like hours later that
+you awake shaking in your hut.
+65804: "Scurry off," he snarls. Before slamming the door shut, he adds, "I bet
+you know where my darn pipe is!"
+65872: You scratch at the door again. Almost instantly, Carl opens it, only
+briefly looking at you. He hurriedly picks up the pipe and pats you on the
+head. "Good
+65966: ..." he starts, suddenly jerking his head up. He stares through the
+bushes, his mouth working silently. "What..." he whispers, then, again, "what,"
+still absent-mindedly patting your head. All at once, he closes his hand around
+the back of your neck. "The garden! You've ruined my herb garden!" He screams
+in panic and drags you toward the fence.
+Thankfully, your mind blanks out at
+this point. Hours later, you cower in the backmost corner of your hut, your
+body throbbing painfully.
+
+The bone is lost.
+66280: boy, good boy," he smiles. Grinning happily, he closes the door. You
+can't help feeling this was a bad mistake.
+66344: Yet again, you scratch at the door. It opens, Carl glowering at you with
+open disgust. "You? Again?" he grates. He pulls you up by the fur of your neck.
+"You - don't - scratch - at - this - door!" Every word is accompanied by a
+painful shake.
+Chasing spiders in the dark cellar, you wonder if you'll ever
+find the bone again.
+66552: You scratch at the door again. Carl opens it, arms folded in front of
+his chest. "Go away," he barks, slamming it shut. A muffled "And stop doing
+this to my door" is added.
+66664: It used to be your entrance when you were little.
+66700: You faintly remember creating the marks and being unable to sit a short
+while later. Everything in between is clouded.
+66772: Here, the branches of a tall tree provide cool shade on sunny days and
+some basic protection from rain and snow on the less-than-sunny days.
+The lawn
+continues southward, while the ways east and west are blocked with dense bushes
+and a high, gated fence, respectively.
+Within the bushes, a tight hole seems to
+lead into a hollow.
+66976: You crash against the sheet of glass-fibre. Fooled yourself, eh?
+67008: Even if you'd fit into the hole, it might be dangerous with the cat
+inside.
+67052: The hole is too small for you to wriggle through.
+67080: Impossible. Dogs weren't made for climbing.
+67108: The hole is blocked with a sheet of glass-fibre. You can't see much
+beyond.
+67140: Within the hollow, the cat cowers, quite frightened.
+67172: You see nothing special about the hole in the bush.
+67200: You would have to regrow the whole bush to do that.
+67228: You neatly block the hole with the sheet of glass-fibre.
+67248: The sheet of glass-fibre is too large to fit into the hole.
+67320: . Within the tree top, the cat sulks with barely-hidden anguish.
+67360: You seem to be getting delirious.
+67384: You float through the air, getting closer and closer to the top. Then,
+just barely brushing the fine twigs, somersaulting, you manage to cross the
+tree, landing softly on the ground. (No, not really.)
+67496: Wait a second... this smells like a tree!
+67564: The gate, set tightly into the fence, has been here since winter, to
+prevent you from digging holes in the herb garden.
+67632: An orange squash ball is lodged between the branches.
+67668: When they feel like it, the humans sometimes throw it away and expect
+you to bring it back.
+67724: You can't reach the squash ball from here.
+67744: When they feel like it, the humans sometimes throw it away and expect
+you to bring it back.
+67800: Giggling, Christopher Robin holds onto the ball a little tighter.
+67868: . Apart from the latter, you could visit an ancient shed to the east, or
+stroll along the house to the northeast.
+67932: Red-and-white, the usual sly look on his face.
+67964: The neighbour's annoying cat is here.
+67988: He doesn't make any extraordinary noises, but the smell of fear is
+imminent, even from the distance.
+68048: As soon as you approach him, the cat flees to the northern part of the
+lawn.
+68092: As soon as you approach him, the cat flees northward to the tree.
+68132: As soon as you approach him, the cat crawls hurriedly through the hole
+into the bush.
+68182: As soon as you approach him, the cat tries to crawl into the bush, but
+is held back by the blocking sheet of glass-fibre. Savagely panicking, he jumps
+at the tree and climbs the whole length of its stump within seconds.
+The squash
+ball quivers with the branches, then falls to the ground.
+68340: You step toward the cat, producing a fierce noise.
+68372: Apparently, the cat doesn't know what to make of your furious wagging.
+68414: You step toward the cat, producing a fierce noise.
+68448: The cat looks at you, slightly puzzled.
+68472: Something thumps against the sheet of glass-fibre. As is topples over,
+the cat emerges from the bush and stretches his legs.
+68532: The cat crawls back from the bush, stretching his stiffened muscles.
+68572: With bulging eyes, the cat glances in your direction.
+68608: The cat looks nervously around.
+68630: The cat shifts his legs.
+68648: The cat's red tail thumps lightly on the ground.
+68676: You can't make out any details within the green.
+68700: He tries hard not to make any noise.
+68720: You are standing amidst what was once a tool shed. Now, however,
+everything has fallen apart. The lawn is west and northwest, and the house
+front lies to the north.
+68816: The house is in the way.
+68832: It seems to be a leftover roof piece.
+68858: A sheet of glass-fibre is leaning against the hole.
+68880: You can see a sheet of glass-fibre here.
+68896: It would be fun, but less than wise.
+68924: The sheet of glass-fibre is too large to fit into the hole.
+68948: It's hard to get a good grip, but finally you manage it.
+68984: The garden. Rows of neatly tended plants rest in perfectly geometrical
+beds, built from the humans' sweat and blood over a period of years.
+69068: The only sensible exit is east through the gate.
+69096: To you, all these things look alike.
+69124: They taste terrible, so you give up soon.
+69152: Better not. The humans did some unnerving things to you the last time
+you tried that.
+69204: An earthy smell, not unlike a freshly dug hole.
+69236: You've seen this thing in action. It's oddly fascinating, but disgusting
+all the same.
+69292: Just as you want to crack it apart, you have a horrid vision of the
+pale-faced humans, mumbling, "The dog, kill the dog." You wisely decide to
+leave it intact.
+69392: There's no sign of life about it.
+69412: That's how you lost the bone; you don't want to repeat that mistake.
+69452: Either it's too small, or you're too big: your decision.
+69488: You actually manage to jump over the hole.
+69512: That won't work. Maybe if you dig further..?
+69540: You love it. There's nothing like fresh earth.
+69568: They're already "open," so to say.
+69588: That's how you lost the bone; you don't want to repeat that mistake.
+69628: Either they're all too small, or you're too big: your decision.
+69668: You actually manage to jump over a hole.
+69696: That won't work. Maybe if you dig further..?
+69724: You love it. There's nothing like fresh earth.
+69752: Nose wet: check. Fur clean: check. Tail up: check. Sexy.
+69796: You could hurt yourself in the attempt!
+69820: Have you ever tried to purse your lips? See what I mean?
+69860: You're afraid of fire. It's genetical.
+69884: There is exactly one reason why you're envious of cats: you can't climb.
+69928: You don't have the means to do so.
+69948: That is an action far too complicated for you.
+69972: Since you have no hands, that is not one of your options.
+70008: Your body parts are securely attached to yourself.
+70136: Dozing lazily in the morning sun in your little hut, something suddenly
+makes your ears go stiff. You scan the air, trying to figure out what it was.
+You stretch your paws, reluctantly wag your tail, and get up.
+Vigorously
+shaking the dust off of your fur, you have a sudden insight: the perfect shape
+of a bone forms in your mind. Yeah, that's it! Somewhere, somehow, there must
+still be a bone left from last fall. If only you could remember where it
+was...
+
+(Read the help menu. Read the help menu. Read the help menu.)
+70456: Your quest has found a sudden end.
+70478: Shortly thereafter, one of the humans approaches you, his face distorted
+with anger. "Didn't I tell you? I told you!" he snarls.
+You spend the rest of
+the day in your hut, its exit barred from outside.
+70600: You feel great, somehow as if you'd just been taught new tricks.
+70642: You emit a low, dangerous growl.
+70668: It's hard to find ground, but you manage to dig yet another hole.
+70708: The whole area is hardly recognizable already. That should be enough.
+70748: You burrow your paws into the ground and start digging a neat hole. What
+a pleasant surprise it will be for the humans when they see it!
+70832: your property. You don't need to.
+70852: You play for a few seconds, but then remember the bone again.
+70888: Are you Eileen Mullin or anybody else connected to XYZZYnews magazine?
+70940: As you may have guessed from the introduction, in this short excourse
+you play a dog. It doesn't matter what race, though it's probably a male dog
+(hence the name "Ralph"). What matters is that you know you have buried a bone
+last year, which you now have to reacquire. The problem is, being a rather old
+dog, about eight to nine years old, your memory isn't what it used to be. The
+same goes for your nose, so you can't smell the bone through the earth.
+It
+seems you're on your very own.
+
+RALPH was written for Inform, which is
+copyright by Graham Nelson (including large parts of the parser and the
+representation of the world). The latest version of Inform is always available
+at
+71360: .
+RALPH is distributed as free software: you are allowed to do with it
+whatever you like, provided that you don't change it in any way, nor try to
+make money with it.
+71458: Well, just try out dog-specific vocabulary. Most of the standard verbs
+generally provided with Inform are still valid, only their behaviour might seem
+a bit different.
+Some examples for dog commands are these: sniff, wag, bark,
+scratch.
+71612: Special commands:
+71624: SAVE, RESTORE, RESTART, QUIT - Control over the state of the game. 
+ 
+SCRIPT, UNSCRIPT - Controls the output to a file or printer. 
+  BRIEF,
+SUPERBRIEF, VERBOSE - Changes the way locations are described when entering
+them. 
+  OBJECTS, PLACES - Lists handled objects and visited places. 
+  SCORE,
+FULL SCORE - Shows how you are getting along. 
+  OOPS - Replaces a mistyped
+word from the last input. 
+  UNDO - Takes back one move. 
+  AGAIN - Repeats the
+last input.
+
+Keep in mind that, while physically a dog, an extraordinary mind
+is still expected from you.
+72044: History:
+72454: . American style. Cleaned up the code to a more modern, Inform 6.14-ish
+form in order to release the source code. Help menu extended (especially the
+Acknowledgements section). 
+  Release 8: Internal changes to clean up the
+source code. Nothing that is noticable in the game. 
+  Release 9: A couple of
+slight, minor rephrasings; a little further optimising. Added one comment to
+"trivia" section of the help menu, and erased my physical address from the menu
+(since addresses tend to change too often). Support for dumb terminals (also
+great for playing on mobile phones and the like) in source code -- but has to
+be specially compiled (look for a comment at the start of the game to check if
+you're playing such a variant). Also added clear credits section.
+72914: About the version you're currently playing:
+72944: In 1996, when this game was written, Miron Schmidt was studying
+electrical engineering at the Technische Fachhochschule Berlin (or so he hopes,
+since he hasn't been able to find anyone with a satisfying translation of
+"Nachrichtentechnik"). He has been enjoying interactive fiction for quite some
+years now, and started writing his own about five years ago, using ADL.
+Unfortunately, none of these have ever been finished, except for a game that he
+has written for a friend as a birthday present, designed together with another
+close friend.
+He likes weird music (the movie soundtrack of Koyaanisqatsi is
+just floating through the room while he sits writing this), good comic books
+(he advises everybody to check out Alan Moore once this game is finished), and
+bad movies (for which "The Magic Crystal" may stand as an explicit example).
+74420: mause, Adam Cadre -- Yeah, that's all, folks!
+Scoring me one extra point
+for the "annoying kid": Andrew Plotkin.
+74718: Any other key to continue.
+74736: E. SE. TAKE SHEET OF GLASS-FIBRE. 
+  W. ATTACK CAT. 
+  N. ATTACK CAT. 
+ 
+N. BLOCK HOLE WITH SHEET OF GLASS-FIBRE. 
+  BARK. 
+  TAKE SQUASH BALL. 
+  S.
+GIVE BALL TO CHRISTOPHER ROBIN. 
+  N. TAKE BALL. 
+  THROW BALL OVER FENCE. 
+ 
+WAIT. WAIT. WAIT. WAIT. 
+  W. DIG HOLE. 
+  E. SE. SCRATCH AT ENTRANCE DOOR. 
+ 
+GET PIPE. 
+  W. DROP PIPE. 
+  E. SCRATCH AT ENTRANCE DOOR. 
+
+Well done, you
+have solved Ralph's quest!
+75248: now. Any other key to go on.)
+75808: ategory of the 1996 XYZZY Awards. That was cool. 
+
+  - I put in a very
+witty response to the "XYZZY" command because XYZZYnews magazine had a list of
+responses for all the Competition 1995 games. They also had a list for all the
+Competition 1997 games -- but guess which Competition was left out?
+76012: Have you ever tried...
+76480: give" or test "has" or "hasnt" with a non-attribute on the object
+76524: , but it is longer than 2 bytes so you cannot use "."
+

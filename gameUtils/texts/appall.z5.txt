@@ -1,0 +1,166 @@
+10469: Nothing to do!
+10504: o. You have won
+10588: It is now pitch dark in here!
+10615: I beg your pardon?
+10679: Sorry, that can't be corrected.
+10708: Think nothing of it.
+10761: As good-looking as ever.
+10793: You can hardly repeat that.
+10818: You can't begin with a comma.
+10932: I didn't understand that number.
+10961: You can't see any such thing.
+10997: You aren't holding that!
+11039: I'm not sure what "
+11091: That's not a verb I recognise.
+11130: You can't see "
+11238: Nothing to do!
+11255: There are none at all available!
+12165: Please answer yes or no.
+12191: Are you sure you want to quit?
+12236: Failed.
+12256: Restore failed.
+12273: Ok.
+12291: Save failed.
+12306: Ok.
+12350: Transcripting is already on.
+12416: Transcripting is already off.
+12474: Score notification on.
+12495: Score notification off.
+12518: You have visited:
+12546: Objects you have handled:
+12571: None.
+12957: You are carrying nothing.
+13006: Taken.
+13017: You are always self-possessed.
+13550: Dropped.
+13658: Removed.
+13797: You lack the dexterity.
+13878: Done.
+14144: Done.
+14364: Wrahn seem interested.
+15003: You can't go that way.
+15563: But it's dark.
+15580: You find nothing of interest.
+15616: But it's dark.
+15707: You find nothing of interest.
+16835: . Not bad.
+16853: That was a rhetorical question.
+16907: That seems unnecessary.
+16930: Keep your mind on the game.
+16955: What a good idea.
+16974: You smell nothing unexpected.
+17001: You hear nothing unexpected.
+17026: You taste nothing unexpected.
+17061: Keep your hands to yourself!
+17086: You feel nothing unexpected.
+17111: If you think that'll help.
+17220: Oh, don't apologise.
+17250: Quite.
+17319: You achieve nothing by this.
+17407: You wave, feeling foolish.
+17557: You are unable to.
+17576: Nothing obvious happens.
+17626: That's not a direction.
+17649: Not that way you can't.
+17681: Keep your hands to yourself.
+17706: You achieve nothing by this.
+17739: Futile.
+17768: You talk to yourself a while.
+17795: This provokes no reaction.
+17823: There is no reply.
+17842: Nothing is on sale.
+17861: Your singing is abominable.
+17895: Time passes.
+42292: You can't go that way.
+45032: in" or "notin
+45048: opmhas" or "hasnt
+45190: }" at end of "objectloop
+46620: Score:
+46628: Moves:
+46636: Time:
+46644: You can't go that way.
+46968: Please give one of the answers above.
+46996: [You can't "undo" what hasn't been done!]
+47032: [Can't "undo" twice in succession. Sorry!]
+47072: "Oops" can only correct a single word.
+47100: It is pitch dark, and you can't see a thing.
+47132: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+47192: You seem to want to talk to someone, but I can't see whom.
+47236: To talk to someone, try "someone, hello" or some such.
+47276: I didn't understand that sentence.
+47336: You seem to have said too little!
+47360: You can't use multiple objects with that verb.
+47396: You can only use multiple objects once on a line.
+47432: You excepted something not included anyway!
+47464: You can only do that to something animate.
+47496: That's not something you need to refer to in the course of this game.
+47544: I didn't understand the way that finished.
+47576: Sorry, you can only have one item here. Which exactly?
+47728: Are you sure you want to restart?
+47752: The game file has verified as intact.
+47780: The game file did not verify as intact, and may be corrupt.
+47824: Attempt to begin transcript failed.
+47852: Attempt to end transcript failed.
+47876: You're carrying too many things already.
+47908: You can't put something on top of itself.
+47940: You can't put something inside itself.
+47968: That would scarcely empty anything.
+48024: You can only get into something free-standing.
+48060: But you aren't in anything at the moment.
+48092: You'll have to say which compass direction to go in.
+48132: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+48228: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+48312: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+48488: This dangerous act would achieve little.
+48516: Nothing practical results from your prayer.
+48548: The dreadful truth is, this is not a dream.
+48580: Digging would achieve nothing here.
+48608: You jump on the spot, fruitlessly.
+48636: You would achieve nothing by this.
+48660: There's nothing suitable to drink here.
+48688: But there's no water here to carry.
+48716: Real adventurers do not use such language.
+48748: Violence isn't the answer to this one.
+48776: There's not enough water to swim in.
+48804: There's nothing sensible to swing here.
+48832: That would be less than courteous.
+48856: Is that the best you can think of?
+48880: You lack the nerve when it comes to the crucial moment.
+48920: I don't think much is to be achieved by that.
+48952: You aren't feeling especially drowsy.
+49570: Mmhmm. See you soon, my love. Mwa ha ha."
+49632: A corridor consisting of four rooms leads east.
+49668: You're a little ways down this corridor of four rooms.
+49708: You're almost all the way down this corridor of four rooms. Something
+looks a little odd about the the last room though.
+49792: This is a room in a maze. There are exits west and north.
+50048: A room with no apparent exits.
+50070: A voice echoes strangely. "Good idea, my love. But wrong. Tee hee."
+50128: A room with an exit down.
+50146: A giggling voice from nowhere says, "You do remember me saying it was
+only three moves in a straight line from the start, don't you?
+50244: A room with no apparent exits.
+50268: A room with no apparent exits.
+50292: A room with no apparent exits.
+50314: Significant Other's voice echoes strangely around you. "You have reached
+the end, dearest! Now type the magic word!"
+50478: Judy, to be reunited with your Significant Other. 
+
+"I have made it!
+Even killer molluscs couldn't have stopped me!" 
+
+"Eh. You took too long. I'm
+not convinced. Let me set you one more task." 
+
+Sigh. "What?" 
+
+"See these
+eleven rings stacked on this pole? I want you to move them onto that other pole
+over there..."
+50724: A hollow voice that sounds suspiciously like Significant Other says,
+"Sorry, nope."
+

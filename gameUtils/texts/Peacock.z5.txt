@@ -1,0 +1,348 @@
+21153: Nothing to do!
+21188: o. You have won
+21272: It is now pitch dark in here!
+21299: I beg your pardon?
+21363: Sorry, that can't be corrected.
+21392: Think nothing of it.
+21445: As good-looking as ever.
+21477: You can hardly repeat that.
+21502: You can't begin with a comma.
+21616: I didn't understand that number.
+21645: You can't see any such thing.
+21681: You aren't holding that!
+21723: I'm not sure what "
+21775: That's not a verb I recognise.
+21814: You can't see "
+21922: Nothing to do!
+21939: There are none at all available!
+22849: Please answer yes or no.
+22875: Are you sure you want to quit?
+22920: Failed.
+22940: Restore failed.
+22957: Ok.
+22975: Save failed.
+22990: Ok.
+23034: Transcripting is already on.
+23100: Transcripting is already off.
+23158: Score notification on.
+23179: Score notification off.
+23202: You have visited:
+23230: Objects you have handled:
+23255: None.
+23641: You are carrying nothing.
+23690: Taken.
+23701: You are always self-possessed.
+24234: Dropped.
+24344: Removed.
+24483: You lack the dexterity.
+24564: Done.
+24830: Done.
+25041: Wrahn seem interested.
+25622: You can't go that way.
+26182: But it's dark.
+26199: You find nothing of interest.
+26235: But it's dark.
+26326: You find nothing of interest.
+27454: . Not bad.
+27472: That was a rhetorical question.
+27526: That seems unnecessary.
+27549: Keep your mind on the game.
+27574: What a good idea.
+27593: You smell nothing unexpected.
+27620: You hear nothing unexpected.
+27645: You taste nothing unexpected.
+27680: Keep your hands to yourself!
+27705: You feel nothing unexpected.
+27730: If you think that'll help.
+27839: Oh, don't apologise.
+27869: Quite.
+27938: You achieve nothing by this.
+28026: You wave, feeling foolish.
+28176: You are unable to.
+28195: Nothing obvious happens.
+28245: That's not a direction.
+28268: Not that way you can't.
+28300: Keep your hands to yourself.
+28325: You achieve nothing by this.
+28358: Futile.
+28387: You talk to yourself a while.
+28414: This provokes no reaction.
+28442: There is no reply.
+28461: Nothing is on sale.
+28480: Your singing is abominable.
+28514: Time passes.
+43526: Impossible.
+43867: Soft and warm.
+43982: You can't do that from here.
+44182: What a strange idea.
+44311: What a strange idea.
+44525: You've run out of air in here...
+44583: This accomplishes nothing.
+44627: You polish away the soot.
+45029: You can't.
+45511: Mercifully, the fire goes out.
+45592: F.
+The contents of
+46743: It is already on fire.
+46782: It refuses to catch.
+47510: There's no table of contents.
+47725: What nice printing!
+47740: You can't do that.
+48000: You are in darkness.
+48192: The writing is too dim to read.
+48352: The writing is too dim to read.
+48421: Nothing much happens.
+48519: You'd feel like a vandal.
+48675: Pointless.
+48809: You do the rubbing.
+48987: You seem to have lost the key.
+49486: That might hurt.
+59342: You can't go that way.
+59436: There are no exits.
+59798: You clamber onto the altar.
+60438: It has been sewn shut.
+60510: It smells of sandalwood.
+60598: It smells like sandalwood.
+60742: Smells heavenly.
+60762: Delicious to the last crumb.
+60816: A pale blue flame appears.
+60847: The flame vanishes.
+60941: The camera is out of film.
+61017: Nice try.
+61042: The camera is out of film.
+61085: The camera is out of film!
+61253: You blink, momentarily blinded.
+61977: G.
+The snapshot of
+64942: An Interactive Demonstration.  Copyright 2000 by Emily Short
+65148: Score:
+65156: Moves:
+65164: Time:
+65172: You can't go that way.
+65504: Please give one of the answers above.
+65532: [You can't "undo" what hasn't been done!]
+65568: [Can't "undo" twice in succession. Sorry!]
+65608: "Oops" can only correct a single word.
+65636: It is pitch dark, and you can't see a thing.
+65668: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+65728: You seem to want to talk to someone, but I can't see whom.
+65772: To talk to someone, try "someone, hello" or some such.
+65812: I didn't understand that sentence.
+65872: You seem to have said too little!
+65896: You can't use multiple objects with that verb.
+65932: You can only use multiple objects once on a line.
+65968: You excepted something not included anyway!
+66000: You can only do that to something animate.
+66032: That's not something you need to refer to in the course of this game.
+66080: I didn't understand the way that finished.
+66112: Sorry, you can only have one item here. Which exactly?
+66264: Are you sure you want to restart?
+66288: The game file has verified as intact.
+66316: The game file did not verify as intact, and may be corrupt.
+66360: Attempt to begin transcript failed.
+66388: Attempt to end transcript failed.
+66412: You're carrying too many things already.
+66444: You can't put something on top of itself.
+66476: You can't put something inside itself.
+66532: You can only get into something freestanding.
+66564: But you aren't in anything at the moment.
+66596: You'll have to say which compass direction to go in.
+66636: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+66732: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+66816: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+66992: This dangerous act would achieve little.
+67020: Nothing practical results from your prayer.
+67052: The dreadful truth is, this is not a dream.
+67084: Digging would achieve nothing here.
+67112: You jump on the spot, fruitlessly.
+67140: You would achieve nothing by this.
+67164: There's nothing suitable to drink here.
+67192: But there's no water here to carry.
+67220: Real adventurers do not use such language.
+67252: Violence isn't the answer to this one.
+67280: There's not enough water to swim in.
+67308: There's nothing sensible to swing here.
+67336: That would be less than courteous.
+67360: Is that the best you can think of?
+67384: You lack the nerve when it comes to the crucial moment.
+67424: I don't think much is to be achieved by that.
+67456: You aren't feeling especially drowsy.
+67652: The flame licks the glass, depositing smears of carbon on the surface.
+67704: It's not the kind of thing you can cut.
+67756: You rub the soot off the glass, making it transparent again.
+67816: This clever little experiment leaves you with bits of lint on your
+tongue.
+67876: You can't hear a thing at this distance.
+67908: You can't smell a thing at this distance.
+67940: The source of the noise is invisible from here.
+67976: There is a heavy pall of smoke in the air.
+68008: A smoky haze.
+68020: Really quite a vile smell.
+68040: You can't reach the inner surface, which is where the carbon is
+accumulated.
+68096: Too many things are already on fire.
+68276: Even if you think it would be a good idea to touch a burning object with
+your bare hands, your body knows better.
+68356: That would do more harm than good.
+68380: Even if you think it would be a good idea to touch a burning object,
+your hands know better.
+68444: That would do more harm than good.
+68468: The fire is too large to put out that way.
+68572: Identifying with Joan of Arc again?
+68600: Try to quell your sadistic tendencies, just this once.
+68640: Your sense of self-preservation prevents you from torching something
+you're wearing.
+68740: A piece of paper.
+68760: You can't eat other people's words.
+68786: The table of contents reads as follows:
+68820: Nothing has been written on the flyleaf.
+68848: The pages are quite firmly bound in place.
+68976: That's not really the ideal writing surface.
+69008: That's not really the ideal instrument.
+69036: This isn't the time to start a lengthy composition.
+69100: You'll have to say what you want to look up.
+69132: You can't find anything on that topic.
+69160: Coloring yourself is not going to help matters.
+69196: Put the paper on something flat before you try to write on it.
+69240: There are better writing surfaces than the ground.
+69276: You would only obscure what is already written there.
+69316: You would only efface the picture already there.
+69352: You would only obscure the existing pattern.
+69384: There are better writing surfaces.
+69424: A piece of paper on which is a rubbing of words.
+69496: Nothing is written here, but there is a textured pattern.
+69536: You rub the paper, transferring the texture of the surface beneath.
+69592: There are too many bits of things around already.
+69700: Forays into surgery are better preceded by a medical license.
+69744: You'll only succeed in scraping off some of the charring.
+69784: Zeno would be proud, but you've done enough already.
+69824: You've got the wrong tool for the job.
+69896: You'll only succeed in scraping off some of the charring.
+69936: Zeno would be proud, but you've done enough already.
+69976: You are unable to lift any more than you are carrying now.
+70016: You are unable to juggle so many big objects.
+70200: No visions occur.
+70232: Nothing happens.
+70264: Nothing happens.
+70280: It doesn't sound as though there's anything inside.
+70320: You can hear something rattling around inside.
+70352: A deep chamber walled in rock.  Light descends steeply from the oculus
+above, leaving a spot of elliptical brilliance on the dusty ground.  The walls
+are panelled, to a height just level with the knee: emerald, sapphire, ovals of
+amethyst, shadowed and dull.
+
+There are two exits: one ceremonial, the vast
+lintel capped with a triangle of empty space, which leads south; the other low
+and secretive, leading east.
+70648: The light is pure and hot.
+70668: Large enough to receive the slaughter of a large animal, and sturdily
+limestone.
+70724: You turn up a squared block of solid cherry.
+70796: Your head begins to ache.
+70816: A cube six inches on a side in which is embedded a silver key.
+70900: A jagged splinter of cherry-wood.
+70924: An old-style key with a rounded barrel, and the head of a stag at the
+handle-end.
+70992: A delicate pair of gilt-handled pinking shears.
+71028: A heavy metal box has been shoved up against the wall, almost out of
+sight.
+71080: A heavy silver-colored box decorated with curious figures.
+71124: One of the panels is open, revealing a passage into darkness.
+71336: That seems redundant at this point.
+71364: You can't, not with your bare hands.
+71392: You smash the panel, revealing a dark opening beyond.
+71492: Then you are sucked in all at once by a force beyond your reckoning, and
+in the darkness shown signs and wonders...
+71572: Memini me fiere pavum.
+71664: On the reverse, a pack of hounds is rending the flesh of a running stag.
+71724: A fat crayon the color of Saturn's robes.
+71756: Small enough to fit in your cupped hand.
+71784: Not much longer than the joint of your thumb.
+71816: From the entrance the ground slopes slowly up, until at the ultimate
+southern end it meets the ceiling, like the point of a wedge.
+
+On the walls are
+inscribed the members of a ceremony, all women: their dress is austere and open
+on the side in Spartan style, and they carry lekythoi and implements of burial.
+72032: The women walk towards the entrance, all in a rhythm.
+72076: A plaque of stone is inset into the ground here, with something
+inscribed into it.
+72160: Perhaps if you took a rubbing...
+72186: Stop and look, you who pass:
+here is the tomb of the merchant
+Alcinous,
+who possessed a living sufficient to himself
+and when he died had
+four sons
+and to them twelve children surviving.
+72320: Large and undecorated.
+72336: There's far too much material to drape around yourself conveniently.
+72384: A heavy bolt, thick-draping.
+72524: A triangular swatch of silk, the color of wet sand.
+72560: A stoppered glass jar, of which half is transparent and the other half
+silvered.
+72688: The odor makes you faintly woozy.
+72832: The ceiling is so low that you can touch it with an upstretched palm:
+ivy and grape vines twine on its surface.
+72908: Hung on the wall is the skull of a cow, white horns glinting.
+72952: With this thing on what you mostly smell is must and meat.
+73058: An anxious excitement possesses you.
+73084: Picked clean by ants, and worn smoother still by long action.
+73128: Next to the wall sits a dismally familiar glass demijohn.
+73168: An enormous glass demijohn, tightly screwed shut.
+73234: The sense of futility is overwhelming.
+73296: No good.
+73304: Try with something harder, perhaps?
+73332: Something larger might be more effective.
+73364: A small but wickedly toothy saw, of appropriate size for a single person
+to use in a confined space.
+73436: A small bag of jet-black velvet, sewn shut at either end.
+73480: Carved with infinite care from a single piece of jade.
+73520: A stick of unburnt incense.
+73540: The stick of incense burns down and goes out.
+73572: A fine thread of smoke curls out of the incense stick.
+73612: A heavy, ringing silence that unnerves you if you attend to it too long.
+73662: You enter feet first, wriggling uncomfortably, until you are in as far
+as the knees.  Then you are sucked in all at once by a force beyond your
+reckoning, and in the darkness shown signs and wonders...
+73812: A little fraying at the edges, but still functional.
+73852: Burning your backpack isn't going to help matters any.
+74236: You have to be holding it in your hand to accomplish that.
+74276: You're forced to take your finger off the switch.
+74412: At the top is a crude flash, which you cannot turn off.
+74504: The camera isn't sufficiently flexible for that kind of thing...
+74552: It's impossible to hold the camera far enough from yourself for its
+autofocus to work.
+74700: A white square of plastic with a darker square superimposed on it.
+74854: You came to Livadhia as a pilgrim, looking for Trophonius, for gods and
+lights.  A private consultation.
+
+No luck: the Blue Guide is vague; the man on
+the street doesn't know what you're talking about; and when you tried the
+periptero where the bus from Athens comes to its lurching halt, the owner tried
+to sell you tickets to the Pythia.  "Just eight thousand drachs and no waiting
+in line!"  
+
+As if the sort of advice you'd get at Delphi would help.  It's all
+a franchise now.
+
+So you set off on your own.  It seemed hopeless, and perhaps
+it was.  But one mis-step in the thigh-deep leaves, and you ended here...
+75796: Pausanias consulted the oracle in person and gives an enchanting
+blow-by-blow description of the process, though he neglects to mention what he
+himself asked, and whether the prediction came to pass.
+75934: Modern Livadhia is where you catch the transfer bus if you're traveling
+to Delphi from Athens.  And I have grossly slandered the woman in the periptero
+(kiosk) at the transfer point.  Last time I checked, she was very helpful.  But
+then, last time I checked, the Pythia wasn't in business any more, either.
+
+The
+Latin fragment is from Ennius.
+
+All the other stuff is pure invention or else
+pointed reference on my part.
+

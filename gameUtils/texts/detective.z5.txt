@@ -1,0 +1,409 @@
+20357: Nothing to do!
+20392: o. You have won
+20474: It is now pitch dark in here!
+20501: I beg your pardon?
+20565: Sorry, that can't be corrected.
+20594: Think nothing of it.
+20665: You can hardly repeat that.
+20690: You can't begin with a comma.
+20804: I didn't understand that number.
+20833: You can't see any such thing.
+20869: You aren't holding that!
+20966: That's not a verb I recognise.
+21005: You can't see "
+21116: Nothing to do!
+21133: There are none at all available!
+22062: Please answer yes or no.
+22088: Are you sure you want to quit?
+22133: Failed.
+22153: Restore failed.
+22170: Ok.
+22188: Save failed.
+22203: Ok.
+22247: Transcripting is already on.
+22313: Transcripting is already off.
+22371: Score notification on.
+22392: Score notification off.
+22415: You have visited:
+22443: Objects you have handled:
+22468: None.
+22854: You are carrying nothing.
+22903: Taken.
+22914: You are always self-possessed.
+23561: Dropped.
+23707: Removed.
+23846: You lack the dexterity.
+23927: Done.
+24193: Done.
+24432: Wrahn seem interested.
+25223: You can't go that way.
+25898: But it's dark.
+25915: You find nothing of interest.
+25951: But it's dark.
+26071: You find nothing of interest.
+27352: . Not bad.
+27370: That was a rhetorical question.
+27415: You are already awake.
+27436: That seems unnecessary.
+27468: What a good idea.
+27487: You smell nothing unexpected.
+27514: You hear nothing unexpected.
+27539: You taste nothing unexpected.
+27574: Keep your hands to yourself!
+27599: You feel nothing unexpected.
+27624: If you think that'll help.
+27733: Oh, don't apologise.
+27763: Quite.
+27832: You achieve nothing by this.
+27920: You wave, feeling foolish.
+28089: You are unable to.
+28108: Nothing obvious happens.
+28158: That's not a direction.
+28181: Not that way you can't.
+28213: Keep your hands to yourself.
+28238: You achieve nothing by this.
+28271: Futile.
+28300: You talk to yourself a while.
+28327: This provokes no reaction.
+28355: There is no reply.
+28374: Nothing is on sale.
+28393: Your singing is abominable.
+28427: Time passes.
+31413: [Advanced to "noun" token:
+59918: A hollow voice says "Fool."
+60757: " of "
+60796: " list of "
+60877: " has no "time_left" property
+60907: The object "
+60967: The room "
+60981: " has no "description" property
+78085: Trace off.
+79263: Nothing is in scope.
+81854: You can't go north from here!
+81882: You can't go south from here!
+81910: You can't go east from here!
+81938: You can't go west from here!
+81966: You can't go up from here!
+81994: You can't go down from here!
+82054: You can't go in from here!
+82082: You can't go out from here!
+82288: The dazed man blocks your way!
+85667: in" or "notin
+85683: opmhas" or "hasnt
+85825: }" at end of "objectloop
+88032: Score:
+88040: Moves:
+88048: Time:
+88056: You can't go that way.
+88300: [Your interpreter does not provide "undo". Sorry!]
+88388: Please give one of the answers above.
+88416: [You can't "undo" what hasn't been done!]
+88452: [Can't "undo" twice in succession. Sorry!]
+88492: "Oops" can only correct a single word.
+88520: It is pitch dark, and you can't see a thing.
+88552: That's difficult unless your eyes are prehensile.
+88588: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+88648: You seem to want to talk to someone, but I can't see whom.
+88692: To talk to someone, try "someone, hello" or some such.
+88732: I didn't understand that sentence.
+88792: You seem to have said too little!
+88816: You can't use multiple objects with that verb.
+88852: You can only use multiple objects once on a line.
+88888: You excepted something not included anyway!
+88920: You can only do that to something animate.
+88952: That's not something you need to refer to in the course of this game.
+89000: I didn't understand the way that finished.
+89032: Sorry, you can only have one item here. Which exactly?
+89184: Are you sure you want to restart?
+89208: The game file has verified as intact.
+89236: The game file did not verify as intact, and may be corrupt.
+89280: Attempt to begin transcript failed.
+89308: Attempt to end transcript failed.
+89332: You're carrying too many things already.
+89364: You can't put something on top of itself.
+89396: You can't put something inside itself.
+89424: That would scarcely empty anything.
+89480: You can only get into something free-standing.
+89516: But you aren't in anything at the moment.
+89548: You'll have to say which compass direction to go in.
+89588: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+89684: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+89768: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+89856: Darkness, noun. An absence of light to see by.
+89944: This dangerous act would achieve little.
+89972: Nothing practical results from your prayer.
+90004: Keep your mind on the task at hand.
+90032: Digging would achieve nothing here.
+90060: You jump on the spot, fruitlessly.
+90088: You would achieve nothing by this.
+90112: There's nothing suitable to drink here.
+90140: But there's no water here to carry.
+90168: Real adventurers do not use such language.
+90200: Violence isn't the answer to this one.
+90228: There's not enough water to swim in.
+90256: There's nothing sensible to swing here.
+90284: That would be less than courteous.
+90308: Is that the best you can think of?
+90332: You lack the nerve when it comes to the crucial moment.
+90372: I don't think much is to be achieved by that.
+90404: You aren't feeling especially drowsy.
+90754: Best choices are all from the same group.
+90956: Try typing "showverb" and then the name of a verb.
+91028: Closing comments.
+91048: In an interview C.E.Forman had with Matt Barringer a few years back, Mr.
+Barringer commented on how awful the game was. It's made him something of an
+(in)famous legend in the IF community. I suspect that, if he were to do
+"Detective" now, he'd definitely do it differently.
+91252: Matt probably can't help but cringe every time he has "Detective"
+mentioned to him. It makes "Inhumane", by Andrew Plotkin, look good. Matt was
+two years younger than Zarf when he did "Detective", Zarf being 14 when he did
+"Inhumane". Personally, I like "Inhumane". It's a fun diversion for a few
+minutes. "Detective", unfortunately, cannot even claim that.
+91520: Andrew's gone on to much bigger and better things, such as "So Far" and
+"Space Under the Window". Matt didn't. A shame, really, as he obviously learnt
+from his mistakes.
+91712: Property value not routine or string: "
+91740: Entry in property list not routine or string: "
+91776: Too many timers/daemons are active simultaneously. The limit is the
+library constant MAX_TIMERS (currently
+91860: " can only be used as a player object if it has the "number" property
+92124: [Type "%Uhelp%P" for more information about this version]
+92192: Footnotes count upward from 1.
+92252: To view a footnote, type "FOOTNOTE #", where # is the number of the
+footnote you wish to read.
+92330: manual' in this game means "manual pronoun assignment", which is the
+process of assigning 'it', 'them', 'her', and 'him' only to objects that you
+type. If it is off, the objects in the same room as you or that you are
+carrying will be assigned pronouns after an 'inventory' or 'look' command. To
+use it, type 'manual pronouns on' or 'manual pronouns off'. It defaults to on.
+92602: You can't go northeast from here!
+92630: You can't go northwest from here!
+92658: You can't go southeast from here!
+92686: You can't go southwest from here!
+92716: Limbo is a special room, not intended to be visited.
+92834: 3 am. I want you to solve it before we get any bad publicity or the FBI
+has to come in. "Yessir!" You reply. He hands you a sheet of paper. Once you
+have read it, go north or west.
+92968: You are in a closet. There is a gun on the floor. Better get it. To
+exit, go east.
+93032: You are outside in the cold. To the east is a dead end. To the west is
+the rest of the street. Papers are blowing around. It's amazingly cold for this
+time of year.
+93152: You are still on the streets. To the north is a restraunt where the
+mayor ate often. To the east is the Mayor's home.
+93236: You are about to enter the restraunt when two guys jump you. They take
+your wallet and beat you a bit. Then you flash your badge and that riles them.
+Your body was discovered in a river 10 miles away.
+93376: You are in the house, at the scene of the crime. You enter and flash
+your badge before a cop. He admits you. To the north is the upstairs. To the
+east is the living room and to the west is the dining room.
+93520: You are in the dining room. You look around and see a note on the table.
+You can go back east.
+93588: You are standing in the living room. You see a battered piece of wood.
+You wonder "Should I pick this thing up?". Well, whether you do or don't the
+only way out of the room is back west.
+93724: You are in the hallway of the large house of the mayor. It is an
+amazingly large house. You can go north, south, east or west.
+93816: You are in a closet. The closet is of the walk in variety, with about
+thirty pairs of tennis shoes, ten pairs of heels and about ninety coats and
+shirts. You start to get claustrophobia. Better get out.
+93960: You are in the first bathroom, out of the 5 there is. You notice that it
+is almost as big as your apartment. You see a knife on the floor here.
+94064: You are at the end of the hallway. To the north is a room, while to the
+west is the rest of the hallway.
+94140: You are in a closet. There is no reason to be in here. Go south.
+94188: You are in the hallway. To the north is more hallway, and to the east is
+a door marked "Guests".
+94386: while comfortably propped up in bed. You see nothing of intrest, you
+should go west.
+94448: You are STILL in the hallway. There is EVEN MORE hallway to the north,
+and a room to the west and a room to the east of you.
+94544: You are in a closet. There is no reason to be in here. Go west.
+94592: You are in a small closet. The room is bare. Why not go east and get
+back to the situation at hand?
+94664: You are still in the hallway. You can go north to where there is a
+police officer who will let you outside, or you can go east or west.
+94760: You are in a guest room. You see that there isn't much here, the
+murderers ransacked the room. You can go west.
+94840: You are in the bedroom. You noticed that there was a guard guarding the
+stairs to the 3rd story, because there is remodelling going on there. You see
+nothing of importance. Go east.
+94968: You pass the guard. He nods at you. You are now outside standing on the
+street. You can go north and east, your choice. To the north is more of the
+street, and to the east is a video store.
+95104: You are at a dead end. You can go south or west. Which way?
+95148: You are in the so called "Murderers Lounge". Unfortunately, there ARE
+murderers here, and when you check around, they get angry. But, that's life. Ya
+lose!
+95268: You are in a video store called Brickbuster Video. There are about 3,000
+videos here. You can go north, or east.
+95352: You are in the backroom of Brickbuster Video. You see a small video on
+the floor, but you dismiss it as having no potential value to the crime. You
+can go south.
+95468: You are still in the video store. You can go north, or east.
+95512: You are in a closet. There is no use for being here. Gotta go south.
+95564: You are outside. You can go north, south, east or west.
+95608: You are in a McDonalds. You pay the guy behind the counter. Now there is
+a hamburger there. When you have picked it up, go north.
+95704: You enter the house. A man charges down the stairs. Before you even have
+time to say anything, he shoots you. You lose!
+95792: You are still outside. You hit a dead end, then notice that you can go
+east only.
+95852: You are in a music store. You ask the man behind the counter if he knew
+any information. "Uhh... nope! But the guy back there might be able ta help."
+You politly thank him and head to the back. You can only go north.
+96008: You are in the back of the music store. You ask the guy who's looking at
+the cool tapes. He looks up at you. "Duh.. no... don't t'ink so... lemme
+see..." You decide that he's no help. To the west there is a dazed looking man
+and to the north there is an exit.
+96200: You walk over to the guy. He jumps up with a wild look, and says
+"Freeze!". You stop. He motions you to the exit. But you know he'll probably
+just kill you. You NEED to get the weapon from him or kill him. Best chance:
+use your gun.
+96428: <HICKUP>.". You just walk away. You can go north, east or west. Your
+call.
+96494: You are in a druggies house.
+Guys look over at you. "Hey! It's a cop!
+Get 'im!" One yells.
+They all grab their guns and aim' em at you. When the
+police find you 2 days later, you are scattered across the room - literally.
+96868: You are in the 3rd precinct police station. This isn't your station. You
+get admitance from the guy at the desk and go to the holding cells. You ask
+each offender if they know anything. You promise a lighter sentence for the
+ones who help. But one guy really sets you straight. "I got caught wit' t'ree
+ounces o' crack. I'm supposed to get 20 years but I'll be out in 2. You can't
+make me talk cuz it don't matter to me. If I squeal, da guys who did it are
+gonna come lookin' for me. I know but I ain't gonna tell ya. Now git outta my
+face.". You are surprised but used to it. You can go north to the outside,
+south to go back to the alley and west or east to talk to more guys.
+97356: You are talking to more guys. But none of them tell you what you want.
+You can only go east.
+97424: You are talking to more guys. But none tell you what you need to know.
+You can only go west.
+97504: it's bitter cold and you pull your jacket around yourself. To the north
+is a nice, warm Holiday Inn hotel, where the killer is rumoured to be staying.
+Or you could go to his favourite hang out, the Wall, to the west, or to the
+east is the place where he is supposed to be working, the Doughnut King.
+97716: You don't see him here. You ought to go east.
+97752: You are in the Doughnut King, where the greasiest doughnuts on earth
+reside. He isn't here, no one seems to be for that matter, so you should go
+west.
+97860: You are in the Holiday Inn registration room. You talk to some
+suspicious guys, but they don't talk until you hold your gun to their side.
+"Alright! Alright! I'll talk! He's on the 15th floor! That's all I can tell
+ya!" You shove them away. You walk up to the registration desk and show the
+woman there your badge. She gives you the master ring. You now have access to
+all of the facilitys on the 15th floor. But the problem is that the 15th floor
+is the suite level, and there are 30 suites, and 5 pools, 2 saunas and 5 game
+rooms. Big problem! Well, you have all night. You get a picture of all on the
+15th floor, the people up there have to show their drivers license to be
+admitted, and the license is secretly xeroxed. You look at them all. Well,
+better get started. You see one person who stands out. You get his room number
+from the lady. Room 30. Now you have to find it. To get started, go north.
+98516: You go up the elevator. When you step out, you see the wallpaper is
+pink, with little flowers on it. You can go east or west.
+98608: You hit a dead end. There is a fire extinguisher here, but it is of no
+importance to you. You can only go west.
+98688: You are in the hallway. You see many doors...
+98724: boy, you have a long way to go. You can only go north.
+98764: You are still in the hallways. You can go west or east.
+98804: You are at a dead end. There is nothing to do but go west.
+98848: You are in the hallway. You see numbers flash by as you run through the
+halls.
+98936: You are in the hallway. You feel the heat from the sauna to the west,
+and to the east is a door marked "Pool A". To the north is more hall.
+99036: You are in the sauna when from the steam steps the killer.
+"So ya
+thought ya could get me eh?" He flashes a gun. Well, let's not get into
+details.
+You lose.
+99152: You are in the pool when the killer shoots you from behind. You lose!
+99204: You enter room 30... after a harrowing gun battle you conk him on the
+head and take him in. You get promoted and suddenly, with the "Jurrasic Park"
+theme song playing in your head, you feel proud to be an American. For special
+info about Exile Games, and to leave this darned game, go up.
+99788: That's difficult unless your eyes are prehensile.
+99824: He is a dazed guy. He says "One more minute mom!"
+99864: The dazed man seems to calm down for a moment, but suddenly attacks. Its
+mouth opens to reveal teeth grotesquely out of proportion to the rest of its
+body, a fact you notice as those same teeth tear your flesh into tiny pieces.
+100020: The dazed man seems to be getting angrier!
+100052: You aim the black pistol at the dazed man and pull the trigger. It's a
+direct hit! The dazed man screeches angrily, and writhes in agony and fades
+away in a cloud of green smoke.
+100176: The black pistol soars through the air toward the dazed man. It's a
+direct hit! The dazed man screeches angrily and writhes in agony as he fades
+away in a cloud of green smoke.
+100720: It is a piece of white paper.
+100744: It is a small black pistol. It has 10 bullets in it. You must use them
+wisely.
+100802: The note was written on a computer obviously this murder was planned
+and it says:
+We have acclaimed Justice! The Justice of the future! Our next hit
+is the governer! You CAN'T STOP US! The note sounds like the killers are a
+group and that they are vigilantes (look it up). You are now getting a bit
+worried.
+101032: It is a note. With writing on it.
+101060: You look at it closely and figure that the guys in the forensic's lab
+would be better at this than you.
+101132: The hamburger slides down your throat, and your stomach quickly is
+full.
+101184: It is a hamburger. If you eat it you'll have satisfied that little
+hunger in your stomach. Go north.
+101292: %BEveryone%P should know just how bad "Detective" is. There are some
+IF-ers out there who have never played an AGT game, and so only know
+"Detective" from it's MiSTing. So, I stripped out the commentary and created
+this.
+101464: Be under no illusions - this is a %U%Rvery%P bad game. It's not a
+serious thing, this, it is just to compare it with the original AGT version, my
+MiSTing, and the AGT port of the MiSTing.
+101612: I had the (mis)fortune to play the original game a few years back,
+still rather naive and new to the IF scene. I %Bhated%P the game. I found Mr.
+Cree's port of the MiSTing (then maintained by C.E.Forman), and that introduced
+me to the idea of taking the mick out of games.
+101816: Of course, some may take the view that porting "Detective" to the
+Z-Machine is a crime with a punishment worse than death. I say "No, it isn't.",
+and for the reasons I list above and below.
+101956: This game is pretty close to the original, barring the Inform parser.
+The Inform parser doesn't help the game, though, just the player.
+102056: "Detective" could have been much better than it is. Unfortunately, it's
+painfully obvious Matt Barringer put %Bno%P effort into planning out this game,
+and %Balmost%P no effort in writing it.
+102204: There are one-way doors, there are objects still described after you've
+picked them up, there are objects you can see but not interact with, and there
+are atrocious spelling and grammar mistakes.
+102340: For an example of how %Unot%P to write an adventure game, look no
+further.
+102400: However, bad as "Detective" is... there are %Bworse%P games out there.
+Much, %U%Bmuch%P worse than this one.
+102520: Born in a hospital in Worcester (on May 26, 1977), currently I live in
+West Malvern.
+102684: I looked at it, played with it, but ultimately I replaced it with
+Inform. It was version 5.5, and it had no manual. I struggled on with it,
+learning until I gained a basic understanding of the language. I got Inform
+6.15 (with all the mod-cons) as soon as I could. And I am %Bvery%P glad I did.
+103164: om%P is available. I endeavour to reply to each and every e-mail I get.
+Bug-reports and criticisms welcomed.
+103244: Watch out for further IF projects!
+103944: DELORIE%P, %RDAVID DYTE%P, %RGARY GILLATT%P, %RSHAWN HARGREAVES%P,
+%RROBERT HOEHNE%P, %RCOREY KLEMOW%P, %RJENNIFER KOKOSKI%P, %RSHAUN LYON%P,
+%RIAN McDONALD%P, %RDAVID A. McINTEE%P, %RJOHN MENICHELLI%P, %RMAGNUS OLSSON%P,
+%RKATE ORMAN%P, %RJASON PENNEY%P, %RANDREW PLOTKIN%P, %RRICHARD and PEGGY
+POSER%P, %RMICHAEL J. ROBERTS%P, %RGARY RUSSELL%P, %RALFRED SNIDER%P, %RSHANNON
+PATRICK SULLIVAN%P, %RANDREW VESPERMAN%P, %RPATRICK WIGFULL%P and %RGERRY KEVIN
+WILSON%P all get hellos too!
+104624: SCOTT ADAMS%P, %RBRIAN HOWARTH%P, %RLAIRD MALAMED%P, %RBILL VOLK%P,
+%RSTEVE MERETZKY%P, %RBRIAN MORIARTY%P, %RDAVE LEBLING%P, %RMARC BLANK%P,
+%RRICHARD GARRIOT%P, %RVOLKER BLASIUS%P and %RDAVID KINDER%P.
+104908: "Detective" is Copyright 2000, Matt Barringer.
+104948: This port is Copyright 2000, Stuart Moore.
+104984: The Inform library is Copyright 2000, Graham Nelson.
+105028: Portions of code are Copyright 2000, Graeme Cree, C.E.Forman and Gareth
+Rees.
+105092: Portions of code are Copyright 2000, L. Ross Raszewski.
+105140: Portions of code are Copyright 2000, Allen Garvin.
+

@@ -1,0 +1,152 @@
+11869: Nothing to do!
+11904: o. You have won
+11988: It is now pitch dark in here!
+12015: I beg your pardon?
+12079: Sorry, that can't be corrected.
+12108: Think nothing of it.
+12161: As good-looking as ever.
+12193: You can hardly repeat that.
+12218: You can't begin with a comma.
+12332: I didn't understand that number.
+12361: You can't see any such thing.
+12397: You aren't holding that!
+12439: I'm not sure what "
+12491: That's not a verb I recognise.
+12530: You can't see "
+12638: Nothing to do!
+12655: There are none at all available!
+13569: Please answer yes or no.
+13595: Are you sure you want to quit?
+13642: Failed.
+13664: Restore failed.
+13681: Ok.
+13701: Save failed.
+13716: Ok.
+13764: Transcripting is already on.
+13832: Transcripting is already off.
+13892: Score notification on.
+13915: Score notification off.
+13940: You have visited:
+13970: Objects you have handled:
+13995: None.
+14387: You are carrying nothing.
+14438: Taken.
+14449: You are always self-possessed.
+14984: Dropped.
+15096: Removed.
+15237: You lack the dexterity.
+15318: Done.
+15586: Done.
+15801: Wrahn seem interested.
+16394: You can't go that way.
+16966: But it's dark.
+16983: You find nothing of interest.
+17021: But it's dark.
+17112: You find nothing of interest.
+18258: . Not bad.
+18278: That was a rhetorical question.
+18340: That seems unnecessary.
+18365: Keep your mind on the game.
+18392: What a good idea.
+18413: You smell nothing unexpected.
+18442: You hear nothing unexpected.
+18469: You taste nothing unexpected.
+18506: Keep your hands to yourself!
+18531: You feel nothing unexpected.
+18556: If you think that'll help.
+18679: Oh, don't apologise.
+18713: Quite.
+18792: You achieve nothing by this.
+18886: You wave, feeling foolish.
+19041: You are unable to.
+19060: Nothing obvious happens.
+19112: That's not a direction.
+19135: Not that way you can't.
+19169: Keep your hands to yourself.
+19194: You achieve nothing by this.
+19229: Futile.
+19260: You talk to yourself a while.
+19287: This provokes no reaction.
+19317: There is no reply.
+19338: Nothing is on sale.
+19359: Your singing is abominable.
+19397: Time passes.
+21354: [Advanced to "noun" token:
+37473: " of "
+37512: " list of "
+37593: " has no "time_left" property
+37623: The object "
+37683: The room "
+37697: " has no "description" property
+46977: Trace off.
+47707: Nothing is in scope.
+51676: ASCII CARS!!!
+51932: Score:
+51940: Moves:
+51948: Time:
+51956: You can't go that way.
+52288: Please give one of the answers above.
+52316: [You can't "undo" what hasn't been done!]
+52352: [Can't "undo" twice in succession. Sorry!]
+52392: "Oops" can only correct a single word.
+52420: It is pitch dark, and you can't see a thing.
+52452: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+52512: You seem to want to talk to someone, but I can't see whom.
+52556: To talk to someone, try "someone, hello" or some such.
+52596: I didn't understand that sentence.
+52656: You seem to have said too little!
+52680: You can't use multiple objects with that verb.
+52716: You can only use multiple objects once on a line.
+52752: You excepted something not included anyway!
+52784: You can only do that to something animate.
+52816: That's not something you need to refer to in the course of this game.
+52864: I didn't understand the way that finished.
+52896: Sorry, you can only have one item here. Which exactly?
+53048: Are you sure you want to restart?
+53072: The game file has verified as intact.
+53100: The game file did not verify as intact, and may be corrupt.
+53144: Attempt to begin transcript failed.
+53172: Attempt to end transcript failed.
+53196: You're carrying too many things already.
+53228: You can't put something on top of itself.
+53260: You can't put something inside itself.
+53316: You can only get into something freestanding.
+53348: But you aren't in anything at the moment.
+53380: You'll have to say which compass direction to go in.
+53420: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+53516: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+53600: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+53776: This dangerous act would achieve little.
+53804: Nothing practical results from your prayer.
+53836: The dreadful truth is, this is not a dream.
+53868: Digging would achieve nothing here.
+53896: You jump on the spot, fruitlessly.
+53924: You would achieve nothing by this.
+53948: There's nothing suitable to drink here.
+53976: But there's no water here to carry.
+54004: Real adventurers do not use such language.
+54036: Violence isn't the answer to this one.
+54064: There's not enough water to swim in.
+54092: There's nothing sensible to swing here.
+54120: That would be less than courteous.
+54144: Is that the best you can think of?
+54168: You lack the nerve when it comes to the crucial moment.
+54208: I don't think much is to be achieved by that.
+54240: You aren't feeling especially drowsy.
+54748: Try typing "showverb" and then the name of a verb.
+54816: Property value not routine or string: "
+54844: Entry in property list not routine or string: "
+54964: " can only be used as a player object if it has the "number" property
+55304: You leave the car returning to....
+55332: You sit confortably in the car. The driving wheel is in front of you, as
+is the speed meter (press the up arrow to accelerate)
+55420: This is a very simple text racing game. You control the car with the
+55516: simple track. When you're tired just press space.
+55604: interpreter supports it. Also note that you'll have to adjust the window
+size.
+55660: Everything is set... your car ready...so... GO!!
+

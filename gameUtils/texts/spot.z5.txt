@@ -1,0 +1,167 @@
+10493: Nothing to do!
+10528: o. You have won
+10612: It is now pitch dark in here!
+10639: I beg your pardon?
+10703: Sorry, that can't be corrected.
+10732: Think nothing of it.
+10785: As good-looking as ever.
+10817: You can hardly repeat that.
+10842: You can't begin with a comma.
+10956: I didn't understand that number.
+10985: You can't see any such thing.
+11021: You aren't holding that!
+11063: I'm not sure what "
+11115: That's not a verb I recognise.
+11154: You can't see "
+11262: Nothing to do!
+11279: There are none at all available!
+12193: Please answer yes or no.
+12219: Are you sure you want to quit?
+12266: Failed.
+12288: Restore failed.
+12305: Ok.
+12325: Save failed.
+12340: Ok.
+12388: Transcripting is already on.
+12456: Transcripting is already off.
+12516: Score notification on.
+12539: Score notification off.
+12564: You have visited:
+12594: Objects you have handled:
+12619: None.
+13011: You are carrying nothing.
+13062: Taken.
+13073: You are always self-possessed.
+13608: Dropped.
+13720: Removed.
+13861: You lack the dexterity.
+13942: Done.
+14210: Done.
+14425: Wrahn seem interested.
+15018: You can't go that way.
+15590: But it's dark.
+15607: You find nothing of interest.
+15645: But it's dark.
+15736: You find nothing of interest.
+16882: . Not bad.
+16902: That was a rhetorical question.
+16964: That seems unnecessary.
+16989: Keep your mind on the game.
+17016: What a good idea.
+17037: You smell nothing unexpected.
+17066: You hear nothing unexpected.
+17093: You taste nothing unexpected.
+17130: Keep your hands to yourself!
+17155: You feel nothing unexpected.
+17180: If you think that'll help.
+17303: Oh, don't apologise.
+17337: Quite.
+17416: You achieve nothing by this.
+17510: You wave, feeling foolish.
+17665: You are unable to.
+17684: Nothing obvious happens.
+17736: That's not a direction.
+17759: Not that way you can't.
+17793: Keep your hands to yourself.
+17818: You achieve nothing by this.
+17853: Futile.
+17884: You talk to yourself a while.
+17911: This provokes no reaction.
+17941: There is no reply.
+17962: Nothing is on sale.
+17983: Your singing is abominable.
+18021: Time passes.
+19978: [Advanced to "noun" token:
+36097: " of "
+36136: " list of "
+36217: " has no "time_left" property
+36247: The object "
+36307: The room "
+36321: " has no "description" property
+36394: There's no ground to dig in.
+36421: Nobody answers.
+36438: Your singing's abominable.
+36472: Forgiven.
+36485: In what?
+36498: You jump, fruitlessly.
+45741: Trace off.
+46471: Nothing is in scope.
+46558: You'd like to, but cannot.
+46583: You can't eat the spot.
+46628: It's bigger than you are.
+46653: The spot would wallop you.
+46678: Marmalade.
+46691: You caress the spot gently.
+46938: I don't know how to do that.
+50040: Score:
+50048: Moves:
+50056: Time:
+50064: You can't go that way.
+50396: Please give one of the answers above.
+50424: [You can't "undo" what hasn't been done!]
+50460: [Can't "undo" twice in succession. Sorry!]
+50500: "Oops" can only correct a single word.
+50528: It is pitch dark, and you can't see a thing.
+50560: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+50620: You seem to want to talk to someone, but I can't see whom.
+50664: To talk to someone, try "someone, hello" or some such.
+50704: I didn't understand that sentence.
+50764: You seem to have said too little!
+50788: You can't use multiple objects with that verb.
+50824: You can only use multiple objects once on a line.
+50860: You excepted something not included anyway!
+50892: You can only do that to something animate.
+50924: That's not something you need to refer to in the course of this game.
+50972: I didn't understand the way that finished.
+51004: Sorry, you can only have one item here. Which exactly?
+51156: Are you sure you want to restart?
+51180: The game file has verified as intact.
+51208: The game file did not verify as intact, and may be corrupt.
+51252: Attempt to begin transcript failed.
+51280: Attempt to end transcript failed.
+51304: You're carrying too many things already.
+51336: You can't put something on top of itself.
+51368: You can't put something inside itself.
+51424: You can only get into something freestanding.
+51456: But you aren't in anything at the moment.
+51488: You'll have to say which compass direction to go in.
+51528: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+51624: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+51708: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+51884: This dangerous act would achieve little.
+51912: Nothing practical results from your prayer.
+51944: The dreadful truth is, this is not a dream.
+51976: Digging would achieve nothing here.
+52004: You jump on the spot, fruitlessly.
+52032: You would achieve nothing by this.
+52056: There's nothing suitable to drink here.
+52084: But there's no water here to carry.
+52112: Real adventurers do not use such language.
+52144: Violence isn't the answer to this one.
+52172: There's not enough water to swim in.
+52200: There's nothing sensible to swing here.
+52228: That would be less than courteous.
+52252: Is that the best you can think of?
+52276: You lack the nerve when it comes to the crucial moment.
+52316: I don't think much is to be achieved by that.
+52348: You aren't feeling especially drowsy.
+52856: Try typing "showverb" and then the name of a verb.
+52924: Property value not routine or string: "
+52952: Entry in property list not routine or string: "
+53072: " can only be used as a player object if it has the "number" property
+53300: You're afraid what will happen if you do.
+53332: You hear only the spot's faint whine.
+53400: There's nothing here, except for the spot.
+53432: It's a black polka dot about the size of a dinner plate.
+53472: There is nothing inside the spot.
+53496: You would like to put the drop on the spot, but that is sadly
+impossible.
+53548: You jump on the spot, fruitfully.
+53572: You look tired.
+53584: I've got / The spot.
+53608: -- Philip "Snakefinger" Lithman, "The Spot"
+

@@ -1,0 +1,275 @@
+11169: Nothing to do!
+11204: o. You have won
+11288: It is now pitch dark in here!
+11315: I beg your pardon?
+11379: Sorry, that can't be corrected.
+11408: Think nothing of it.
+11461: As good-looking as ever.
+11493: You can hardly repeat that.
+11518: You can't begin with a comma.
+11632: I didn't understand that number.
+11661: You can't see any such thing.
+11697: You aren't holding that!
+11739: I'm not sure what "
+11791: That's not a verb I recognise.
+11830: You can't see "
+11938: Nothing to do!
+11955: There are none at all available!
+12865: Please answer yes or no.
+12891: Are you sure you want to quit?
+12936: Failed.
+12956: Restore failed.
+12973: Ok.
+12991: Save failed.
+13006: Ok.
+13050: Transcripting is already on.
+13116: Transcripting is already off.
+13174: Score notification on.
+13195: Score notification off.
+13218: You have visited:
+13246: Objects you have handled:
+13271: None.
+13657: You are carrying nothing.
+13706: Taken.
+13717: You are always self-possessed.
+14250: Dropped.
+14358: Removed.
+14497: You lack the dexterity.
+14578: Done.
+14844: Done.
+15064: Wrahn seem interested.
+15645: You can't go that way.
+16205: But it's dark.
+16222: You find nothing of interest.
+16258: But it's dark.
+16349: You find nothing of interest.
+17477: . Not bad.
+17495: That was a rhetorical question.
+17549: That seems unnecessary.
+17572: Keep your mind on the game.
+17597: What a good idea.
+17616: You smell nothing unexpected.
+17643: You hear nothing unexpected.
+17668: You taste nothing unexpected.
+17703: Keep your hands to yourself!
+17728: You feel nothing unexpected.
+17753: If you think that'll help.
+17862: Oh, don't apologise.
+17892: Quite.
+17961: You achieve nothing by this.
+18049: You wave, feeling foolish.
+18199: You are unable to.
+18218: Nothing obvious happens.
+18268: That's not a direction.
+18291: Not that way you can't.
+18323: Keep your hands to yourself.
+18348: You achieve nothing by this.
+18381: Futile.
+18410: You talk to yourself a while.
+18437: This provokes no reaction.
+18465: There is no reply.
+18484: Nothing is on sale.
+18503: Your singing is abominable.
+18537: Time passes.
+31845: You are Gladys's enemy.
+31868: You are Gladys's acquaintance.
+31897: You are Gladys's friend.
+31918: Gladys is in a muddle!
+42282: Gladys smiles and says "Yes?"
+42378: Gladys says "I'm not asleep!"
+42589: "Eh what?" asks Gladys
+43023: "Sorry?" asks Gladys
+43142: "Who?" asks Gladys.
+43252: "Pardon?" asks Gladys.
+43364: "Ummm?" murmurs Gladys.
+43476: "Sorry?" asks Gladys.
+43797: "You don't say" responds Gladys
+43828: "Leave me be!" snaps Gladys
+43888: Gladys looks towards the door.
+43915: Gladys glances at the window.
+43942: Gladys smiles at you.
+46546: A Chat
+Copyright (c) 2000 by Peter Polkinghorne.
+46744: Score:
+46752: Moves:
+46760: Time:
+46768: You can't go that way.
+47100: Please give one of the answers above.
+47128: [You can't "undo" what hasn't been done!]
+47164: [Can't "undo" twice in succession. Sorry!]
+47204: "Oops" can only correct a single word.
+47232: It is pitch dark, and you can't see a thing.
+47264: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+47324: You seem to want to talk to someone, but I can't see whom.
+47368: To talk to someone, try "someone, hello" or some such.
+47408: I didn't understand that sentence.
+47468: You seem to have said too little!
+47492: You can't use multiple objects with that verb.
+47528: You can only use multiple objects once on a line.
+47564: You excepted something not included anyway!
+47596: You can only do that to something animate.
+47628: That's not something you need to refer to in the course of this game.
+47676: I didn't understand the way that finished.
+47708: Sorry, you can only have one item here. Which exactly?
+47860: Are you sure you want to restart?
+47884: The game file has verified as intact.
+47912: The game file did not verify as intact, and may be corrupt.
+47956: Attempt to begin transcript failed.
+47984: Attempt to end transcript failed.
+48008: You're carrying too many things already.
+48040: You can't put something on top of itself.
+48072: You can't put something inside itself.
+48100: That would scarcely empty anything.
+48156: You can only get into something freestanding.
+48188: But you aren't in anything at the moment.
+48220: You'll have to say which compass direction to go in.
+48260: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+48356: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+48440: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+48616: This dangerous act would achieve little.
+48644: Nothing practical results from your prayer.
+48676: The dreadful truth is, this is not a dream.
+48708: Digging would achieve nothing here.
+48736: You jump on the spot, fruitlessly.
+48764: You would achieve nothing by this.
+48788: There's nothing suitable to drink here.
+48816: But there's no water here to carry.
+48844: Real adventurers do not use such language.
+48876: Violence isn't the answer to this one.
+48904: There's not enough water to swim in.
+48932: There's nothing sensible to swing here.
+48960: That would be less than courteous.
+48984: Is that the best you can think of?
+49008: You lack the nerve when it comes to the crucial moment.
+49048: I don't think much is to be achieved by that.
+49080: You aren't feeling especially drowsy.
+49168: That is not important, but friendship is.
+49198: Thanks for playing.
+Gladys has multiple responses for most topics, and
+some notion of what has been said.
+The idea for the portrait came from the many
+elderly ladies I met doing voluntary work, and some of my Great Aunts.  I hope
+I have done them justice.
+
+Peter Polkinghorne.
+49398: A dull institutional room, with a bed with bedside cupboard and chair. 
+A couple of photos decorate the cupboard.  A window is on the north wall.
+There
+is an open door to the south.
+49528: "Where do you think you are going?" asks Gladys.
+49564: As you leave, Gladys mutters to herself "Good riddance!."
+49608: As you leave, Gladys says "Bye dear."
+49640: As you leave, Gladys says "Bye dear, come again soon."
+49684: As you leave, Gladys says "I just don't know?"
+49720: "Oh that" says Gladys, "its not too bad for sleeping in."
+49764: "It may be plain" says Gladys, "but its comfortable."
+49808: "Thats got all I have left, in it." says Gladys.
+49848: "Thats me and my family" says Gladys
+50152: "Is it still raining?" asks Gladys.
+50180: You see the rain pouring down over grey London suburbia. "Going to be
+dark soon." remarks Gladys.
+50252: "Thats the way out, dear." says Gladys.
+50284: "Its already open, dear." exclaims Gladys.
+50320: "No, leave it open, please." asks Gladys.
+50356: Gladys is sitting in the chair.
+50380: She is a small elderly lady with a nice smile.
+50412: Gladys yells "'ere whats your game!"
+50440: Gladys responds "Oh you going now, bye dear"
+50476: Gladys alarmed, presses a button you have not noticed. A member of staff
+quickly arrives and hustles you off the premises. The police are told and you
+will never see Gladys again.
+50604: "Its alright, but not like my old bungalow." says Gladys regretfully.
+50656: "You know what I miss?" asks Gladys impishly, "Men! We're practically
+all ladies here!"
+50724: "I really don't want to talk about the home any more." says Gladys
+wearily.
+50844: "It was near Eastcote, the Harrow side. Very good for the tube, but
+quiet. Yes it was a good place to be." reminisces Gladys.
+50940: "Where do you live ..." wonders Gladys
+50972: "Its very kind of you to bring me back, I really enjoyed the tea party."
+says Gladys.
+51036: "You know I glad there are young people like you?" smiles Gladys, "Can't
+believe all you see on the telly."
+51116: "I am the one you should be talking about, stuck here all by myself, not
+you, who can go gadding about anytime you like!" says Gladys crossly.
+51220: Gladys responds "Hasn't it been wet? I think it has rained every day
+this week."
+51280: "All this damp isn't good for my joints", moans Gladys, "I got the
+rheumatics, you see."
+51400: I think it said it would clear up."
+51428: "Well can't talk about the weather all day, you know, much too english!"
+twinkles Gladys.
+51536: I get some physio for them." responds Gladys.
+51572: "You been asking the staff?" asks Gladys suspiciously.
+51612: "It was wonderful to go out and have a good natter." Gladys enthuses, "I
+haven't seen some of my friends for over a year."
+51704: "And we had some nice music and a good tea - proper with sandwiches,
+cake and all that." says Gladys. "Its my annual outing now, all I have to look
+forward to."
+51820: Gladys answers "Yes, it was a nice party, the day centre is warm and all
+the balloons livened it up."
+51892: "Oh well, a year till the next one, I hope you will be taking me?"
+Gladys enquires.
+51956: "Harold, I met him at the end of the war, the second you know. He worked
+at the Kodak factory in Harrow." says Gladys.
+52106: Keen gardener too ..." remarks Gladys.
+52136: "He died not long after retiring, lung cancer, he had always been a pipe
+smoker, we didn't know in those days ... still he didn't suffer much." muses
+Gladys.
+52252: "I still miss him you know." says Gladys simply
+52318: I suppose it was being the only child. We did want more, but never
+happened." says Gladys.
+52430: It was at her first and only job she met Iain." Gladys says.
+52476: "Well after they were married, Iain was promoted and went back to
+Scotland, where she and the children have lived ever since." say Gladys with a
+hint of sadness.
+52592: "I still get the odd phone call and of course birthday and christmas
+cards from her and the family." says Gladys quietly.
+52680: "He's a nice enough chap, quite a catch for Jane, although I always
+found him a bit reserved." says Gladys.
+52760: "He has done well in the bank, in the head office in Edinburgh I think."
+remarks Gladys.
+52828: "I wish he'd let Jane come here sometimes." says Gladys resignedly.
+52950: Not sure Iain really approved ..." sighs Gladys.
+52988: "He went to University you know, working with computers and whatnot.
+He's now working in america, doing really well Jane says." says Gladys with
+pride.
+53100: "He's a good lad, but I wish he'd write more often." says Gladys.
+53276: "She's just done her A levels, and is hoping to go to University. I do
+hope she comes to London." says Gladys with feeling.
+53368: "She's a pretty girl, so like her mother." says Gladys with pride.
+53420: "We never been teribly close family, I suppose it being that Harold and
+I were only children. Also our parents died youngish." says Gladys.
+53524: "Still they keep in touch a bit, you know." says Gladys resignedly.
+53576: "Well there's Harold, my husband, and we had Jane, my only daughter, and
+she married Iain, and they had Roderick and Isobel, my lovely grandchildren"
+remarks Gladys.
+53738: Not in the same place mind you. I was born and brought up in Acton."
+53788: "We were glad to move out from Acton," says Gladys, "Eastcote was
+practically countryside, much cleaner air."
+53872: Gladys answers "You know something, I never been to the British Museum.
+Still I did see a lot of lovely shows in the West End."
+54036: "What are you going on about?" wonders Gladys.
+54072: "Sorry what were you saying?" asks Gladys.
+54104: Gladys does not respond at all, but blows her nose.
+54140: "Err can't really say ..." mumbles Gladys.
+54176: Gladys ignores you and turns to look out the Window.
+54216: "Really, how interesting ..." says Gladys, but you can tell she is not
+really interested.
+54284: Gladys looks at you in bewilderment.
+54312: Old and wrinkled with two bright eyes looking attentively at you through
+glasses.
+54368: Bony with bent fingers, you can just see a wedding ring on the left
+hand.
+54420: Gladys wears an orange check dress with a fawn cardigan. Both have seen
+better days, but are clean and in good repair.
+54504: Gladys wears a pair of black shoes in need of a polish.
+54542: You have just brought Gladys back to the Nursing Home. 
+
+"Won't you have
+a chat, dear" says Gladys as she settles down in her chair.
+

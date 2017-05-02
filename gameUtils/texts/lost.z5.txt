@@ -1,0 +1,1521 @@
+18074: fyv 'dba KpmTo repeat a command like "frog, jump", just say "again", not
+"frog, again".
+18157: You can hardly repeat that.
+18420: You can't begin with a comma.
+18481: You seem to want to talk to someone, but I can't see whom.
+18571: To talk to someone, try "someone, hello" or some such.
+19535: I didn't understand that sentence.
+19643: I didn't understand that number.
+19674: You can't see any such thing.
+19737: You aren't holding that!
+19766: You can't use multiple objects with that verb.
+19806: You can only use multiple objects once on a line.
+19885: You excepted something not included anyway!
+19923: You can only do that to something animate.
+19960: That's not a verb I recognise.
+19990: That's not something you need to refer to in the course of this game.
+20046: You can't see "
+20091: I didn't understand the way that finished.
+20192: Nothing to do!
+20208: There are none at all available!
+22286: Sorry, you can only have one item here.  Which one exactly?
+29530: At the moment, "it"
+29600: and "me" means
+30451: You briefly wonder why you feel the urge to kiss people you have no
+great affection for, and have no real trouble in refraining from doing so.
+30555: You bounce merrily on the spot a couple of times. What fun!
+30603: Like a true native of Sacromys Pemcoangs, you have a tendency to
+apologise far too many times.
+30675: No matter how hard you try to concentrate, all you can see in your head
+is a kingsize bar of chocolate.
+30753: Sacromys Pemcoangs has been designated a smoke-free zone by the council.
+30811: Hush! The people of Sacromys Pemcoangs have delicate ears, and do not
+want to be subjected to such language!
+30895: I say. Dashed frustrating, this game, what?
+30934: That isn't on sale.
+30956: You sing a little of your most favourite song, to keep your spirits up.
+31014: There are no questions to which you need reply.
+39508: Nothing to do!
+39523: o. You have died
+39796: Please give one of the answers above.
+39827: It is now pitch dark in here!
+39854: I beg your pardon?
+39872: dxn[You can't "undo" what hasn't been done!]
+39914: ehn[Can't "undo" twice in succession. Sorry!]
+39986: Sorry, that can't be corrected.
+40015: Think nothing of it.
+40036: "Oops" can only correct a single word.
+40105: Please answer yes or no.
+40125: Are you sure you want to quit?
+40158: Are you sure you want to restart?
+40184: Failed.
+40199: Restore failed.
+40212: Ok.
+40225: Save failed.
+40236: Ok.
+40250: The game file has verified as intact.
+40277: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+40401: Transcripting is already on.
+40450: Transcripting is already off.
+40473: End of transcript.
+40494: Score notification on.
+40515: Score notification off.
+40538: You have visited:
+40563: Objects you have handled:
+40584: None.
+40801: You are carrying nothing.
+40843: Taken.
+40854: You are always self-possessed.
+40972: You already have that.
+41057: That isn't available.
+41098: That's hardly portable.
+41121: That's fixed in place.
+41145: You're carrying too many things already.
+41220: Already on the floor.
+41241: You haven't got that.
+41283: Dropped.
+41301: It is unfortunately closed.
+41326: But it isn't there now.
+41345: Removed.
+41426: You can't put something on top of itself.
+41503: You lack the dexterity.
+41580: Done.
+41622: You need to be holding it before you can put it into something else.
+41675: That can't contain things.
+41700: Alas, it is closed.
+41721: You'll need to take it off first.
+41837: Done.
+41878: That isn't in your possession.
+41901: First pick that up.
+42189: That's not something you can enter.
+42257: You can only get into something on the floor.
+42370: But you aren't in anything at the moment.
+42478: You'll have to say which compass direction to go in.
+42577: You can't go that way.
+42734: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+42836: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+42924: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+43283: But it's dark.
+43296: You find nothing of interest.
+43328: But it's dark.
+43400: You find nothing of interest.
+43428: You can't see inside, since it is closed.
+43511: That doesn't seem to be something you can unlock.
+43552: It's unlocked at the moment.
+43579: That doesn't seem to fit the lock.
+43633: That doesn't seem to be something you can lock.
+43672: It's locked at the moment.
+43697: First you'll have to close it.
+43724: That doesn't seem to fit the lock.
+43777: That's not something you can switch.
+43808: That's already on.
+43851: That's not something you can switch.
+43882: That's already off.
+43927: That's not something you can open.
+43958: It seems to be locked.
+43979: It's already open.
+44075: That's not something you can close.
+44106: It's already closed.
+44149: You're not wearing that.
+44196: You can't wear that!
+44217: You're not holding that!
+44240: You're already wearing that!
+44289: That's plainly inedible.
+44322: Not bad.
+44337: That was a rhetorical question.
+44364: This dangerous act would achieve little.
+44398: Nothing practical results from your prayer.
+44434: The dreadful truth is, this is not a dream.
+44471: That seems unnecessary.
+44494: Keep your mind on the game.
+44519: What a good idea.
+44538: You smell nothing unexpected.
+44565: You hear nothing unexpected.
+44590: You taste nothing unexpected.
+44622: Keep your hands to yourself!
+44647: If you think that'll help.
+44668: You feel nothing unexpected.
+44693: Digging would achieve nothing here.
+44724: Cutting that up would achieve little.
+44755: You jump on the spot, fruitlessly.
+44788: You would achieve nothing by this.
+44817: There's nothing suitable to drink here.
+44850: But there's no water here to carry.
+44881: Oh, don't apologise.
+44903: Real adventurers do not use such language.
+44938: Quite.
+44949: Violence isn't the answer to this one.
+44982: There's not enough water to swim in.
+45013: There's nothing sensible to swing here.
+45046: You can't usefully blow that.
+45073: You achieve nothing by this.
+45098: No, you can't set that.
+45121: No, you can't set that to anything.
+45152: You wave, feeling foolish.
+45182: But you aren't holding that.
+45246: It is fixed in place.
+45267: You are unable to.
+45286: That would be less than courteous.
+45311: Nothing obvious happens.
+45339: Is that the best you can think of?
+45368: That's not a direction.
+45387: Not that way you can't.
+45415: Keep your hands to yourself.
+45436: You achieve nothing by this.
+45466: Futile.
+45473: You lack the nerve when it comes to the crucial moment.
+45521: You talk to yourself a while.
+45544: This provokes no reaction.
+45571: There is no reply.
+45590: Nothing is on sale.
+45609: Your singing is abominable.
+45635: I don't think much is to be achieved by that.
+45672: Time passes.
+45687: You aren't feeling especially drowsy.
+45829: Go where?
+45880: That's not something you can follow.
+49031: The rope is already tied to the crank on the well.
+49206: The rope is already tied to the basket.
+49329: Silk is hardly likely to agree to stand still while you tie her up,
+unless she's deeply into bondage or something.
+49450: It wouldn't be helpful to tie the rope to that.
+49515: You'll have to turn the crank to get the dangling end of the rope up to
+the top first.
+49613: That would be extremely hazardous to your health.
+49687: You retrieve the rope from the crank, and untie it from the basket.
+49736: You retrieve the rope from the crank.
+49794: You take the rope and untie it from the basket.
+49952: You've never been much of a climber. Surely there's a less strenuous way
+down?
+50009: You'll be trying to pick yourself up by your bootlaces next.
+50380: You slip the mint into your mouth, and let it dissolve. Delicious!
+50434: Good manners suggest that you shouldn't just lick the mint to have a
+taste of it - you should eat it or leave it.
+50528: You don't need to buy the mints - you have an account here, which is
+funded by the Secret Service.
+50599: You don't need to.
+50733: So many lovely items! But you've already had your share of sweets for
+now.
+50788: You can't see any mints here.
+50816: You can only see one mint here (refer to it by the word 'mint').
+50872: Spherical pepermint-flavoured sweets made of icing sugar. They look
+delicious!
+50984: You're already holding all of the available mints.
+51021: Taken.
+51033: As much as you like these mints, you wouldn't want to eat them all at
+once - they'd make you sick.
+51149: You'd have to be holding some mints in order to do that.
+51202: Maybe it wouldn't be wise to give all them away at once.
+51247: Maybe you ought to eat one.
+51272: They don't smell unusual.
+51341: You're not holding any mints at the moment.
+51392: Dropped.
+51447: You're not holding any mints.
+51556: Dropped.
+51627: Q. When you look around, there is no sign of the door, or that it was
+ever there in the first place.
+51725: But you haven't discovered what your mission is all about yet!
+51956: You walk through the door, and let it swing closed. But when you look
+behind you, there is no sign of a door, and this is not where you were
+expecting to find yourself...
+52399: He is busy writing and clearly hasn't seen you come in.
+52445: He is trying to look dignified despite having difficulty balancing his
+hat on his head.
+52511: He is writing something undoubtedly important.
+52562: He is waiting to answer any questions you may have.
+52674: He leans forward and hands you a number of mints. "For luck," he
+explains.
+52886: glances at Daisy. "Now now, Mattie," he admonishes. "You know the rules
+about bringing pets into work. You should take Daisy to see the statue in the
+Village Centre or something."
+53080: "Oh, by the way, the salesman may be willing to give you another
+demonstration if you need it."
+53151: "So, Mattie, what can I help you with?" he asks.
+53209: yes widen in shock upon seeing Silk ooze magically into the room. In a
+flash, he has dived behind his desk. "Get her out of here!" he hisses. "Lead
+her to someone who cares enough about you to help! Er... and who won't wide
+behind desks!"
+53391: You only do that when you desperately want something, like a new jerkin
+or a fresh pair of red shiny boots.
+53471: Attack your boss? He can be infuriating sometimes but he doesn't deserve
+physical violence.
+53661: stares at you. "You haven't even left the office, and already you want
+help! This won't do, Mattie - go out and try, first. If you get stuck, come
+back to me."
+53805: "That's what you have to find out!" says T.
+53875: houghtfully. "Have you made a wish yet?"
+53937: , "but I don't think he can help you in this mission."
+53985: "The Reverend?" asks T. "He's always going on about his wretched spell
+collection back at his cottage. Half of them are pretty useless anyway, by the
+sound of things."
+54117: thinks for a moment. "Digga's a bit of an oddity, all things considered.
+He and the Reverend enjoy arguing with each other, it would seem, to the point
+where everything else is sidelined. Listen to me! Calling Digga a 'he' when
+I've no idea what sex he - oops, s/he - is at the moment. Anyway, despite
+Digga's arrogance, s/he can be quite helpful at times."
+54387: looks worried. "Silk? Mattie, you haven't led her here, have you?"
+54447: "She's a very nervous sort, really," says T. "Always worried about what
+the Reverend will say. But she makes a splendid cup of tea!"
+54553: "Edna's a card, isn't she?" chuckles T. "She only deals in swaps,
+though."
+54623: "If you find any rope, you may want to use it to replace the rope that
+was taken from the well."
+54699: "Basket? I wonder if its big enough for you to fit inside."
+54767: , "have a few sweets yourself. But remember that others in the village
+may like them too."
+54841: "Daisy the talking cow? She's probably the most mature resident of the
+village, and can't stand bickering."
+54955: eriously. "When it's ajar! Ha ha!" He chortles for a moment, before
+noticing that you're not laughing. "Ahem. Yes. Well. It's a container, right?
+So you may want to contain something within it."
+55165: that you are referring to the metal crank on the well. "Oh, sorry, I see
+what you mean know. The crank's there to be turned. If not by you, then by
+someone else."
+55291: "If you can't get a magic weaver of your own, you may be able to trick
+the salesman into processing a spell for you," explains T.
+55407: simply. "Or make a wish at the wishing well."
+55499: knowingly. "I think she likes you too. Maybe you can involve her in the
+mission somehow, if you get into difficulties."
+55593: "The author? Pah! He's a complete nutter."
+55635: "Don't say you've forgotten already, Mattie?" chuckles T. "Drew's gone
+missing. You must find him, so that he can get back to making spells to
+entertain the restless villagers."
+55774: "That's classified information," says T.
+55926: Wisher makes a lovely cup of tea, down at the Reverend's cottage."
+55984: "Oh, he's currently flirting needlessly with one of our undercover
+operatives in another office."
+56066: Cashpound is very fond of his new magic weaver, you know," says T.
+"Won't let anyone else near it."
+56148: "Ah, the wretched spell collection the Reverend keeps going on about.
+Most of the, as far as I can see are useless, but the strength one may come in
+handy."
+56268: "What, the damned spell that's causing all the fuss at the moment? Don't
+worry about it, Mattie - it's not important."
+56359: thinks for a moment. "I don't think that's relevant to the current
+situation," he says eventually.
+56595: "Yes, hello Mattie."
+56623: tuts, folding his arms. "The mentality of some people today. I blame
+that Cummings-Steen fellow, myself."
+56704: frowns, not knowing what you are talking about. "Maybe you should just
+ask me something," he says.
+56785: frowns in concentration. "It's no good," he says eventually. "My
+eyesight's not what it used to be. You'll have to talk to me rather than show
+me things."
+56954: "Here's your first hint, Mattie - try going west."
+57000: "You'll have to ask me about a particular topic, I'm afraid," says T.
+57201: oticing you for the first time, "there you are, Mattie."
+57249: "Well, as you are probably aware, the people of Sacromys Pemcoangs are
+getting very restless. Spells have been in very short supply of late, and
+top-of-the-range Magic Weavers are being left idle."
+57403: ontinues. "I have been looking into the problem, and it seems that we
+are lacking in good Spellmakers. Many years ago there was a surplus, but one by
+one they have all vanished. The latest to disappear is old Drew Tungshinach."
+57601: tis responsible for the fabled ornithopter spell, and the much-praised
+spell to create wild racing chariots. His disappearance cannot be tolerated
+within our community. You must discover what has happened to him and ensure his
+return so that he may entertain us further with his joyful sparkly spells."
+57841: eans back in his chair, his briefing finished. "Go now, Mattie, and good
+luck. And if you should need assistance on your quest, I am transferring to you
+the magic hint seeker. Simply utter 'HINT' or 'HINTS' and we will open a secret
+doorway for you to return here." He turns his attention back to the document he
+was writing.
+58305: Cashpound, would be most upset if you played with his Magic Weaver!"
+58382: Cashpound. "It's only a background object."
+58433: hat. He wouldn't be too happy if you started playing with it.
+58482: The centre of Thurman street is bustling with pale-looking shoppers not
+used to seeing the sunshine. What with the spell deficit, they've been forced
+out of their homes in search of other things to do to pass the time. Your home
+from home, the Sweet Shop, lies tantalisingly to the west, and the main cobbled
+street runs from the south to the northeast. To the east, in the centre of the
+village,
+58806: Best to just leave the shoppers alone.
+58850: Barnie's eyes light up. "Hi, Mattie!" he says loudly, shifting from one
+foot to the other in excitement.
+58929: Barnie, the incredibly sweet if slightly dim assistant, smiles at you
+from behind the counter, eager to please.
+59029: "See you!" calls out Barnie as you leave.
+59246: Barnie giggles. "Oh, Mattie, you're so silly! The jar's nearer you than
+me."
+59365: turnbull told me not to leave the shop till he got back. Sorry."
+59427: Barnie looks confused. "I don't think I can do that."
+59536: Turnbull says you've got a good count... you can count good... a
+count... or something."
+59612: "Drew?" says Barnie, scratching his head. "I don't know him, Mattie."
+59680: Turnbull's the greatest!" enthuses Barnie. "He's at some sweet
+conversion... confersa... confence... big meeting with other sweet shop bosses
+and stuff."
+59805: "Oh, Mattie. That's a hard one!" exclaims Barnie earnestly, scratching
+his head. "Don't know what to say."
+59897: "They sure were making a racket when I was out there before," says
+Barnie.
+59969: Wisher," Barnie confides. "She makes nice tea and always gives me choccy
+biccies."
+60039: "Tilly's nice," grins Barnie. "She was here yesterday. Bought some
+chocolates. Told me not to tell anyone." Barnie frowns. "That means I shouldn't
+have told you... oops."
+60172: Barnie looks puzzled. "Sorry," he says. "Don't know nothing about that."
+60244: Barnie grins stupidly, still hopping from one foot to the other.
+60350: turnbull told me not to leave the shop till he got back. Sorry."
+60397: "Sure Mattie," giggles Barnie. "Whatever you say."
+60445: Barnie wouldn't hurt a fly. There's no need to attack him.
+60495: You plant a kiss on Barnie's cheek, and for a moment he turns away
+shyly. Then, the moment forgotten, he grins at you again.
+60628: Turnbull told me I'm not allowed to eat any of the stock... or the
+sweets either..." Barnie's face creases into a frown for a moment, and then he
+is back to being his bright, happy self.
+60816: Turnbull, and he'll put in on your good count."
+60882: Turnbull says," Barnie informs you. "Don't know what that means. But you
+can take whatever sweets you want."
+60965: Barnie grins. "I know this game, I know this game!" he cries happily,
+then concentrates on the item you are offering. After a moment, he grins again.
+"I know! That's
+61102: So many lovely things! But you're on a mission.
+61190: Still, perhaps that one jar of eight mints on the highest shelf wouldn't
+hurt...
+61270: So many sweets on so many shelves - Heaven must be like this!
+61371: Much as you love sweets, you've never had the nerve, the strength or the
+cash to get more than a few sweets at a time. Anyway, you're on a mission -
+sweets will have to wait.
+61590: The jar ought to be empty before you go putting tea in it.
+61652: That's too big to fit into the jar.
+61686: You mustn't ruin the flavour of the tea!
+61723: Don't do that - you might find some use for it.
+61762: The centre of Sacromys Pemcoangs; you can see the entire village from
+here, although because of the laws against walking on the grass, you can only
+follow the path stretching from east to west. A stone monument stands alongside
+the path, depicting the founder of the community
+61960: , but no one is paying it attention at the moment. A large crowd of
+pale-faced citizens has gathered here, occasionally offering jeers or cries of
+encouragement as they watch Digga and the Reverend arguing bitterly about
+probably nothing at all.
+62209: You concentrate on the argument.
+62238: Digga, a respected member of the community, is something of an oddity.
+Owing to a rather unfortunate accident caused by his/her Magic Weaver crashing
+in the middle of reading a particularly potent spell, s/he now changes gender
+with dizzying frequency. At the moment, Digga is
+62551: Digga is here, slumped against the statue, sulking.
+62595: Digga is here, slumped on the ground, sulking.
+62636: She is currently in female form.
+62661: He is currently in male form.
+62750: Digga turns to you self-righteously. "What gives you the right to decide
+that I should respond to you?"
+62833: says. "You haven't been listening to the conversation for long enough,
+so toddle along and irritate someone else, before I cast my kill-audio magic on
+you!"
+
+Digga returns to the Reverend.
+62989: "I'm already following you," says Digga irritably.
+63075: shouldn't, but fails. "Oh, why not,"
+63114: says, sighing heavily. "I've got nothing better to do at the moment."
+63182: "What do you mean, stop?" says Digga irritably. "I'm not doing
+anything."
+63251: "Well, that was a complete waste of time," says Digga.
+63350: Digga spares a brief moment to snarl at you. "Old handers like me don't
+have time for such elementary questions. Newcomers should consult the library
+first to see if the answers to their questions can be found there. Haven't you
+ever heard of S-P etiquette?"
+63543: "Old Drew?" says Digga with a hint of affection. "Yes, I remember him.
+He wrote some of the best spells ever seen. I don't know where he's got to
+recently, though."
+63675: "That man brings out the worst in me," says Digga. "He makes multiple
+mailshots around the village, and keeps asking for help with an illegal
+Monsterz spell, while at the same time claiming that he doesn't own such a
+spell. Maybe I should just kill-audio and kill-visual him."
+63883: "She may have had a point," says Digga reluctantly. "Maybe we were
+bickering a bit too much."
+63961: "It's a perfectly good town," says Digga defensively.
+64010: "I'm one of the most prominent members of this village. I can't say
+exactly what I do, for fear of revealing a bias."
+64108: "She's a villager, but I don't know much about her."
+64157: "I've never talked to him," says Digga.
+64195: "Never heard of anyone with that name, or code name," says Digga. "They
+can't be of any importance."
+64279: "Surely you must have heard of Monsterz by now," says Digga. "It's that
+spell that conjures up spectres and insubstantial monsters. The idea is to blow
+them all away with a peashooter, and pick up points along the way. It
+originated in that big town miles from here, and although a version for our
+magic weavers hasn't been released yet, somebody has written it. Trouble is,
+illegal photographic copies of the spell have been circulating for some time,
+and I suspect that the Reverend owns such a copy."
+64641: "I'm much more important," states Digga with not a hint of arrogance.
+64694: "I don't know anything about that," says Digga.
+64737: Digga might be an irritating self-righteous fool sometimes but he
+doesn't deserve to be attacked.
+64849: Digga blanches with alarm upon seeing Silk.
+64999: "What gives you the right to distract me?" huffs Digga, before turning
+back to the argument.
+65078: Digga doesn't hear you.
+65168: "I'm not going in there," says Digga firmly. "I'm not welcome, and I
+wouldn't want to go near the Reverend's illegal spell collection anyway."
+65312: shouldn't do what you say, but fails. Reluctantly,
+65402: Digga can't go that way.
+65435: "I'm not going in there," says Digga firmly.
+65470: Digga can't go that way.
+65514: "Why can't you?" says Digga.
+65539: "Get in the basket and I'll lift you up!" calls Digga from above.
+65597: It suddenly occurs to you that if Digga were to lower you down the well,
+you would drown. You decide against it.
+65702: Digga turns the crank, and you begin to rise slowly. Soon you are back
+at the top of the shaft.
+65792: Reluctantly, Digga turns the crank, lowering you down into the well. As
+expected, you pass the surface of the water without getting wet, and soon find
+yourself at the bottom.
+65929: Digga doesn't see the point in doing that.
+65982: Digga calls down to you from the top of the well. "I'll wait for you up
+here,"
+66073: Ayvrv,
+Digga wearily follows you here.
+66201: Wisher has hidden herself to!" he babbles before fleeing.
+66298: Dabbing his sweating brow with a handkerchief, he slumps into his
+favourite armchair.
+66492: The Reverend himself is collapsed in a comfortable chair, his feet up on
+a table.
+66551: The Reverend is hurrying off home, by the looks of things.
+66652: Digga wags an indignant finger at the Reverend. "All your spells have
+been pinched from the archives!"
+66732: "Well!" says the Reverend, flustered. "I never did heard such
+inscruciating nonsenseness in my whole lovely liveliness!"
+66826: "You're so transparent," Digga spits. "You ask for help with the
+Monsterz magic in village meetings, and then claim that you don't have one of
+the illegal photograph copies!"
+66958: The Reverend puts his hands on his hips. "You've nowt so much proof as
+one iota! Maybe you consider shooting up and stop so much argumenting all the
+moment!"
+67076: "Aha!" says Digga triumphantly. "But proof I have! And I've sent it all
+off by carrier pigeon to the Office of Fair Spellcasting! Expect to hear
+someone knocking at your door in the near future!"
+67226: "No-one's coming a-knocking at my door frontage!" says the Reverend
+firmly. "Get your own factual accuracies in a correct state of being! I make
+questionings out of a healthiable love to learn the data! Mayhaps you, good
+none-friend Digga, should patronage a page out of my own dear good book!"
+67442: "Your book?" cries Digga increduously. "I wouldn't want to dirty my
+hands, and I doubt I would be able to read the badly written nonsense anyway!"
+67556: "Huh!" huffs the Reverend. "You are always so arguing! That's all I am
+to stand. I am off from this village for good!" This provokes a few cheers from
+the crowds, but the Reverend doesn't move an inch, merely folding his arms.
+67728: "And another thing," says the Reverend, "if some personage should so
+possess a photographic recreation of an allegical un-kosher Monsterz, what
+should that be your business for?"
+67862: "So you're admitting that you have an illegal copy?" says Digga eagerly.
+67922: "I did not utter any such submission!" says the Reverend firmly. "You
+are happily too keen to aim the point of suspicion at good-go-well folk around
+you! My head wanders with enquiries of what you should be undisclosing
+yourself!"
+68092: "That's not the point!" argues Digga irritatedly.
+68136: "Oh," says the Reverend with false innocence. "So the village populous
+has deemed you a good decider of what's fairly and unfairly 'the point', has
+it?"
+68254: Digga snarls. "You're just muddying the waters now, talking a load of
+babble to try to put me off the scent."
+68338: "I wager," says the Reverend, "that if any folk are indulging themselves
+in a light sprinking of 'babble', then those folk are you!"
+68438: jhn"'Those folk are me'?" asks Digga. "What on earth are you going on
+about?"
+68504: The Reverend tuts. "Typical unbashfully rudeness-like from yours most
+unfalsely!"
+68570: Before Digga can get a chance to respond to his charge, the Reverend
+continues. "Why is this Digga entry so humungously unsufferable?"
+68672: "Not as unsufferable," ventures Digga, "as all your pathetic mailshots
+to the village every other hour about the fabulous spell collection in your
+cottage, all of which are of a questionable origin!"
+68818: The Reverend's face turns red. "What are you accusationally probing me
+of?" he booms.
+69011: Wisher! Tea for our guest!" He then slumps back in his chair,
+fortunately making no attempt to initiate a conversation.
+69114: The Reverend doesn't appear to have heard you, engrossed in the
+argument.
+69177: "Drew Tungshinach, indeed?" says the Reverend, raising an eyebrow. "I
+have not any of his fine-well spells in my collection. But I can do a flashy
+whirly spell for your enjoymentful."
+69317: "That man is always most complaining!" says the Reverend strongly. "He
+is a field full of grass and a snifferty snitch to boot!"
+69419: "Daisy? I know not much of that fair cow," says the Reverend without
+malice.
+69483: "A lovely cup of tea she makes," says the Reverend.
+69529: "A stonkily humungous spell, that is," enthuses the Reverend.
+69583: "The finest spells in the land!" booms the Reverend. This is obviously a
+well-practised line.
+69726: "I have accepted audio information of the name, but precious nothing
+else."
+69786: "The oddest thing," ponders the Reverend. "A man with a one letter
+name!"
+69850: "My favourite place to live," says the Reverend.
+69895: "I am the good Reverend," he explains. "Nothing more, nothing less, but
+everything inbetween."
+69975: "Monsterz?" blusters the Reverend. "I have not such a spell in my
+ownership!" He leans forward and speaks quietly. "Does your fair self store
+knowledge of the location of extra levels?" Your disapproving look is enough to
+tell him that you don't.
+70161: "My religious philosophies," explains the Reverend carefully, "are
+available office hours only."
+70232: "I know naught of the subjects that utter forth from yours most
+respectively," says the Reverend.
+70316: The Reverend is too engrossed in the argument to have heard you.
+70373: "Fairmost greetings," beams the Reverend.
+70406: "Your pattern of speak-making is most unclear," says the Reverend.
+70463: The Reverend is harmless enough - there's no need to attack him.
+70528: "Very generous of you, but my weight I must look upon," says the
+Reverend, patting his not-insubstantial tummy.
+70621: Don't do that - you might be able to use it yourself.
+70672: "A donation?" asks the Reverend. Before you can say anything to the
+contrary, he plucks the penny out of your hand and pockets it.
+70767: The Reverend doesn't seem interested in that.
+70811: There are at least thirty of them, and only one of you. Not terribly
+good odds.
+70879: They are somewhat lacking in social skills and ignore you.
+70925: They do not react to you at all.
+70959: It is a standard monument, nothing more, nothing less.
+71007: The brick wall isn't important.
+71039: Sacromys Pemcoangs has been designated a smoke-free zone by the council.
+You intend to stick to that even if the Reverend isn't.
+71134: The message on the sign reads:
+71218: You turn the sign round. There is writing on this side.
+71368: It is too heavy to lift.
+71397: Lying in a gap between two cobblestones is a shiny penny.
+71455: You can't put that in the gap.
+71490: Absolutely no way!
+71531: There's no point; humans lost the ability to eat grass (and hold it
+down) a long time ago.
+71610: Oblivious to any squabbles over ownership of the land, Daisy the cow has
+taken up residence here.
+71681: Daisy stands here, looking a little uncomfortable away from her field.
+71744: Daisy glances at the newcomer with very little interest. "Humans," she
+mutters to herself.
+71821: Daisy nimbly avoids you, giving you a look that suggests that she
+doesn't know where you've been.
+71909: Distracted by the argument, Daisy doesn't hear you.
+71956: "Hmm, well..." starts Daisy, before noticing your look of surprise. "Oh,
+yes. You'll be wondering how I can speak. Personally, I believe I am the end
+product of genetic manipulation; but the folk around here are too simple to
+understand the concept so they call it magic casting. Whatever. The end result
+is that I have a higher IQ than anyone else in the village, and spend most of
+my days calculating pi to an even greater degree of decimal accuracy."
+72300: "What can I say?" Daisy utters sheepishly. "I have a sweet tooth!"
+72363: "Yes, good game," comments Daisy thoughtfully.
+72407: "I don't know the fellow," says Daisy.
+72445: "Good afternoon," says Daisy pleasantly.
+72485: "An absolutely childish one, if you ask me," says Daisy. "Always
+bickering. Always lowering the tone of this village. Still, there's humans for
+you."
+72605: "You want to know how far I've got with my calculation of pi?" asks
+Daisy. "Let's see... three point one four one five nine two six..." You stop
+Daisy, assuring her that you don't need a greater degree of accuracy. "Oh,"
+says Daisy, a little crestfallen. "Remind me never to trust any calculations
+you make."
+72850: "The name rings a bell," says Daisy. "A villager, right? I don't have
+much to do with villagers. Humans are too petty and childish for my liking."
+72966: Daisy thinks. "He's just another human, right? I try to have as little
+to do with humans as possible. Consider yourself honoured that I'm sparing you
+a few moments of my precious time."
+73108: "I can't help", says Daisy, "being a cow and all."
+73156: "That Adams bloke was wrong, you know," says Daisy casually. "I've
+worked it out - the answer's 51."
+73242: "The thing about cheating," says Daisy, "is that when you start, where
+do you stop? It's best not to start in the first place, if you ask me."
+73366: "Objects mean little to me," Daisy tells you.
+73408: "Don't know what that stuff is down the well," says Daisy, "but one
+thing's for sure: it isn't water."
+73494: "Well, if you want my advice," says Daisy, "you should find someone to
+help you out there. She's too big to take on by yourself. Sorry, I can't help -
+I'm only a cow."
+73629: "I've already told you," she says impatiently. "I'm a genetically
+engineered cow, with a very high IQ and a fully-developed voice box. And I can
+eat grass, which you can't do, so there."
+73773: "Delicious, yes. I'm also partial to mints," she says hopefully.
+73831: Daisy gives you a startled look, but quickly recovers her composure. "I
+hear human meat is very nice, served with a nice mint sauce. You ought to try
+it."
+73949: "Hideous buildings, hostile natives - typical human settlement, really."
+74011: "What do you think I am?" asks Daisy indignantly. "A dog or something?"
+74068: Daisy looks at you pityingly, as if she feels sorry for you and your
+limited talents for conversation.
+74145: Striking your Psychotic Ninja pose, you try to work up the courage to
+attack her. But Daisy gives you a hard stare, her eyes saying
+74328: Daisy ignores your offer, looking somewhat distracted.
+74375: Daisy eagerly accepts the mint, eating it noisily. She watches you
+carefully to see if you have got any more.
+74531: Daisy ignores your offer, looking somewhat distracted.
+74570: Daisy stares at the mint, licking her lips. "Sharing is good for the
+soul," she murmurs. "Perhaps you'd like to share your mints..."
+74703: . Didn't you know?"
+74780: uhn
+Daisy watches you keenly for a moment, but her attention is drawn to
+the argument in the village centre. She turns round to witness it properly.
+74901: You've always wondered if cows can really frown. Maybe normal ones
+can't, but Daisy isn't normal, and is doing so now. She is watching the
+argument with dismay, shaking her head and tutting every now and again.
+75110: Daisy the cow huffs a few times, clearly having had enough of the
+childish bickering. "All right, all right!" she calls loudly, and everyone
+around stops to look at her. "You're behaving like little children, just
+because you don't have any spells to play with. Just grow up, and learn to
+write spells of your own if it really bothers you."
+
+Digga turns on her. "Oh
+yes?" he asks viciously. "So it's all right for you to air your views, but not
+us?"
+
+Daisy is not impressed. "I'm not the one bitching and bickering. Now be
+off, before I tell all your Mummies about you." That seems to do the trick;
+fear fills the faces of the assembled crowds and they are off in a flash. The
+Reverend mumbles something about his tea being ready and starts off. Digga,
+looking somewhat deflated, slumps down by the side of the statue and starts
+sulking.
+
+Daisy surveys the scene, looking satisfied. Then, having forgotten
+about the mints, she turns on her heels. (Or she would have done if she'd had
+any heels on which to turn.)
+75974: Daisy nudges the door open with her nose, and peers inside.
+76137: Daisy the cow plods along and gulps up the mint in no time. She watches
+you expectantly.
+76438: The Reverend performs a classic double-take at the sight of Daisy.
+"What's a bovine doing in my lovely home?" he cries. "Out! Out!" Daisy huffs,
+murmurs "I didn't want to stay in this rotten dump anyway," and turns to leave.
+76611: Wisher almost has a seizure at the sight of a cow in her employer's
+living room. "Eeeek!" she shrieks. "Get out! Get out!" Daisy reluctantly turns
+to leave.
+76734: oxn
+Edna barely bats an eyelid at the sight of Daisy in her shop. "Back
+for more abacus beads, Daisy?" she asks.
+76822: ohn
+Tilly glances at Daisy before returning to her book. It seems that
+Daisy is a regular visitor to the library.
+76910: The salesman sees Daisy and turns to her, ignoring you. "Does Madam
+require any assistance?" he asks.
+
+"Cut the spiel, buster," says Daisy, not
+impressed. "I'm here for the mints."
+77096: Realising that she is wasting her time, Daisy turns and heads back to
+her field.
+77214: Daisy is carefully watching a mint you are carrying, saliva dripping
+from her mouth.
+77476: Daisy's mind appears to be elsewhere - she doesn't react to the dropped
+mint.
+77541: Daisy quickly gobbles up the mint before you have a chance to stop her.
+She watches you carefully, wondering if you are going to drop any more.
+77657: Daisy's mind appears to be elsewhere - she doesn't react to the dropped
+mints.
+77900: before you have a chance to stop her. She watches you carefully,
+wondering if you are going to drop any more.
+78088: within, but she can't get her nose inside. After a moment, she gives in.
+78151: Daisy objects strongly to this. "What do you think I am, a simple animal
+or something?" she huffs.
+78229: Daisy eyes you threateningly. "Okay," she says, "lets get one thing
+straight here. You try that, you die. Got it?"
+78318: The Reverend leads a quiet and cosy life in this little cottage, a stark
+contrast to the life he leads outside of it. The living room is all comfortable
+browns and sunset reds, with a fat padded armchair you could easily lose
+yourself in, facing a roaring fire. The window looks out onto the field outside
+78583: The street is out to the northwest.
+78677: That seems unnecessarily destructive.
+78740: Wisher, preventing you from leaving. "You mustn't leave with the cup."
+78815: Wisher would fair be upset if you upped and offed with that most loved
+item of drinkerage."
+78986: The Reverend is tired and doesn't see you leave with the strength spell.
+79042: The Reverend's spell collection is of mixed quality, the spells having
+been written by amateurs.
+79119: One of the spells stands out - a strength spell.
+79162: You can't swipe the lot of them!
+79283: Wisher's face. Reluctantly, you decide against sitting down - it would
+obviously cause the poor woman too much distress.
+79377: This is not the time to be sitting down on the job!
+79414: The Reverend is currently sitting on it. You don't fancy sitting on his
+lap.
+79480: That seems unnecessarily destructive.
+79512: You always suspected that you'd go out in a blaze of glory, but that
+doesn't mean you ought to hasten the process by walking into the fire.
+79613: You cannot see anything within the fire.
+79650: You can't see any such thing.
+79678: You'd have to go out to the field to interact with the cow.
+79722: You'd have to go out to the field to interact with the cow.
+79786: wisher stops you. "Oh, my dear," she says worriedly, "the Reverend
+wouldn't like it if you just walked off with one of his treasured spells."
+80009: wisher. "There's no tea left in it."
+80267: wisher, "to start cleaning about the house when there's a guest here."
+You suspect, however, that she doesn't trust you.
+80420: Wisher.
+80494: Wisher.
+80512: wisher looks confused. "You don't have anything to apologise for, dear."
+80604: Wisher. "I can't do that. The Reverend wouldn't approve."
+80679: Wisher worriedly. "Oh, okay. I don't see why not..." She wanders out
+into the kitchen to put the kettle on.
+80828: Wisher, returning from the kitchen with a cup of tea which she hands to
+you. "Now drink up, because you're not really supposed to be here."
+80955: Wisher, coming in from the kitchen with a cup of tea which she hands to
+you. She then dashes quickly off to some other part of the cottage.
+81106: She'd only put it back in the collection. Maybe you could find a use for
+it?
+81283: wisher rather too quickly. "Very good employer. Yes, very good. Yes."
+She looks anxious, having already run out of things to say, and quickly
+involves herself in straightening out her pinny.
+81428: "I'm the Reverend's housekeeper," she explains.
+81472: "Oh, that Digga fellow is always trying to upset the good Reverend. I
+don't know why he can't just leave him alone!"
+81628: Wisher. "The thought of Daisy sitting in that field really puts me off
+my Sunday lunch."
+81740: Wisher informs you, "so keep your hands off it, if you please."
+81825: Wisher unhelpfully.
+81964: She'd only put it back in the collection. Maybe you could find a use for
+it?
+82022: You can't see any such thing.
+82052: A cup containing delicious steaming tea.
+82081: An empty cup.
+82135: You can't - the jar isn't empty.
+82167: You pour the tea carefully into the jar.
+82196: You can't pour into that.
+82230: Cups are for containing tea only.
+82265: The tea sinks into the floor and is soon gone.
+82302: You can't pick up the steaming tea!
+82455: You can't pour into that.
+82488: The basket isn't suitable for containing the tea!
+82550: It's a bit too hot for you.
+82846: Ends shop, famed for stocking all manner of useless items. Rigg Street
+runs from the northwest to the south, while to the west
+82998: You can't - they are all closed.
+83059: Silk has you cornered.
+83085: Tilly, the most utterly desirable librarian in the world, surely, sits
+behind the enquiry desk quietly reading a book.
+83170: Tilly, you can see, is looking extremely concerned at your plight.
+83233: You have more pressing concerns at the moment - such as the evil woman
+Silk.
+83293: A truly wonderful thought... but she couldn't possibly like you, so
+there's no chance of it happening.
+83373: How could you even contemplate attacking the woman you love?
+83433: Tilly shrugs her shoulders shyly. "It's a mystery, isn't it?"
+83489: "It's quite a small town," says Tilly, "but that's the appeal of it,
+really. Much better than those dreadful cities with their concrete jungles. Our
+weavers are faster and more efficient than theirs as well."
+83647: Tilly shrugs helplessly. "I'm afraid I don't know anything that could
+help with your mission."
+83723: "Oh dear," smiles Tilly. "He ought to spend some time in here, to
+improve his English."
+83845: Well, it is the secret service he runs, after all.
+83889: Tilly shakes her head with wonder. "Isn't Daisy incredible? She says
+humans depress her, because we're always arguing."
+83986: Tilly blushes. "You wouldn't want to know anything about me," she says
+bashfully. "I'm afraid I'm not very interesting."
+84082: "I don't know much about Digga," says Tilly. "She's a prominent member
+of the village, but I've never really spoken to him."
+84195: ," says Tilly thoughtfully. "I don't recognise the name. Sorry!"
+84255: Tilly smiles, and leans forward conspiratorily. "Actually, there aren't
+that many good books here. I've been trying to persuade the chief librarian to
+stock more fiction, but so far he's refused."
+84401: "You like the statues outside? They're nice, aren't they? A bit too
+grand for this building, perhaps, but even so..."
+84501: Temple, the chief librarian, is an okay person but his taste in books
+leaves quite a lot to be desired." Suddenly realising how loudly she said that,
+Tilly quickly looks around to see if anyone else heard.
+84653: Tilly turns an interesting shade of red. "Ahem, I don't know much about
+you," she says, avoiding eye contact.
+84739: "The Reverend is always going on about his spell collection," says Tilly
+with a sigh. "I actually went round once to take a look, but I couldn't see
+anything interesting, except perhaps for the strength spell. I could have done
+with that when I last moved house."
+84936: "Erm, chocolates?" says Tilly guiltily. "What about chocolates? No, I
+haven't had any for a long time. I'm on a diet, you see." Inwardly you grin,
+and decide not to press the issue.
+85078: "He's sweet, isn't he?" says Tilly. "I was only in the sweet shop the
+other day, and..." Her words tail off as she starts to look flustered. "Erm,
+that is, I just nipped in to say hello. Didn't buy anything, of course, seeing
+as I'm on a diet." She briefly avoids eye contact.
+85287: "I'm sorry," says Tilly, looking pained at not being able to help you.
+"I'm afraid I know little about that."
+85388: "Hi," says Tilly, blushing, keeping her eyes on the ground.
+85442: That would really help your chances of going out with Tilly, now,
+wouldn't it? You shake your head, wondering why on earth you even considered
+saying that.
+85553: "Er, yes," says Tilly, unwilling to let you know that she doesn't know
+what you're talking about.
+85643: "No thanks," says Tilly, smiling. "I'm on a diet." You blush, suddenly
+feeling very embarrassed. Does she think you're overweight?
+85753: "That's very kind," says Tilly, "but I've been told to cut back on my
+caffine intake." You consider this for a moment, your heart beating wildly. Is
+this a rejection? Is she secretly saying that she can't stand the sight of you,
+that she doesn't want any gifts from you?
+86034: Tilly smiles shyly back.
+86058: You don't even have the courage to kiss her, so a complete body search
+is out of the question.
+86137: You have no intention of bossing Tilly about. It is not in your nature.
+86230: Tilly peers over her book to see what's going on. You shoot her a look
+of panic as Silk playfully strolls towards you, and her face fills with worry.
+86342: Silk is baring down on you now. Tilly looks around desperately for help,
+but the library is suspiciously quiet and empty.
+87342: The old well, no longer in use, is rusty but thankfully still intact. It
+became obsolete overnight after the accidental creation of water pipes beneath
+the village (the result of a drainpipe spell misfiring), and no one cared to
+preserve it. Water shimmers at the bottom, and the crank is still in place
+87832: Most villagers use it as a wishing well these days. The village lies off
+to the southwest.
+87928: The basket is too far down the well for you to enter.
+87985: Carefully, you climb into the basket. But the weak old rope breaks under
+your weight, sending you plunging down the well. Before you have time to react
+properly, you hit the bottom, and everything goes black.
+
+When you regain
+consciousness, you find yourself tied to a bed, with a feeling that you're not
+in Sacromys Pemcoangs any more...
+88231: With care, you climb into the basket.
+88288: It would be best to find a relatively sedate way of getting down the
+well, if you must go down.
+88385: The basket is currently out of reach.
+88419: Although water appears to shimmer at the bottom of the well, you suspect
+that this is merely a bit of magic cast to fool people.
+88508: Water shimmers at the bottom of the well.
+88567: You drop the penny into the well and make a wish, something involving a
+certain librarian you know. Instead of splashing, the penny silently passes
+through the surface as if the water weren't really there; it lands beyond with
+a barely audible thud. The water must be an illusion, a spell - but why?
+88778: The penny drops down the well, through the water illusion. There is a
+barely audible thud very soon after.
+88875: down the well, expecting a splash as it hits the water. But it passes
+straight through as if the water wasn't there, and lands with a thud somewhere
+below. The water must be an illusion! But why?
+89028: down the well. It passes silently through the illusion of water and
+lands with a thud somewhere at the bottom.
+89110: The well is very deep - you'd injure yourself if you just dropped down
+it.
+89167: Life isn't that bad, surely?
+89195: You look down the well, and decide that climbing down it is something
+beyond your capabilities.
+89266: The crank is used to lower or raise an object such as a bucket.
+89534: Unfortunately, there is no rope around the crank at the moment.
+89665: You think about it for a moment, and come to the conclusion that it
+wouldn't work. You would only be able to turn the crank until it was no longer
+within reach, and then you'd be stuck.
+89846: You turn the crank a little.
+89987: You turn the crank awhile, but nothing of any note happens.
+90039: A strange impression has been made in the dirt near the well.
+90084: The impression of a double-sizer's footprint has been made in the dirt
+near the well.
+90158: On closer inspection it seems to be some sort of footprint. But it is no
+ordinary footprint - this is twice the size of the average Sacromys Pemcoangs
+foot, and could only have been made by a double-sizer.
+90303: The print was made by a foot belonging to a double-sizer - though you
+haven't heard of any sightings of such people in the village.
+90426: It's not within reach.
+90535: Having not paid for the length of old rope, your conscience orders you
+to leave it behind as you depart from the shop.
+90630: Edna glances at Silk but seems neither surprised nor frightened.
+"Haven't seen one of you double-sizers for a long while," she muses.
+90761: Edna takes the rope and examines it. "Money for old rope?" she says,
+chuckling. "Maybe not. Tell you what - my kettle's on the blink and I'm gasping
+for a drink. If you can get me some tea, I'll give you the rope."
+90920: Edna examines the rope. "No, I'm afraid I can't buy that. It's too
+tatty."
+90986: Edna takes one look at the spell and shakes her head. "I'm sorry - I
+don't deal in spells. Odds and ends only, me."
+91096: Edna takes the tea gratefully. "That old rope is yours now if you want
+it," she says between taking sips from the jar.
+91181: Edna's eyes light up. "Tea! You're a mind reader!" she says, taking the
+jar of tea gratefully. "Tell you what, you can have the old rope if you want,
+in exchange."
+91304: Edna examines the jar. "I'm afraid it's not useless enough for this
+shop", she says apologetically.
+91384: Edna examines what you offer. "Hmm, nice length of rope, that.
+Unfortunately, I only stock useless items here."
+91472: "What a pretty penny," comments Edna. "But I prefer exchanges."
+91618: "You want the rope?" asks Edna. "Well, I couldn't possibly accept money
+for old rope, but I could really do with a nice cup of tea. Or mug, or
+whatever. I ain't fussy!"
+91745: "The rope's yours now," says Edna.
+91781: "Drew Tungshinach? Pah! Spent all day writing spells for those wretched
+Magic Weaver contraptions. He and his sort ought to get out more."
+91891: "Silk, my dear?" asks Edna. "Silk? Sorry. We've got none of that here."
+91957: "Lovely, aren't they?" says Edna proudly. "They're my pride and joy. But
+they're not for sale."
+92040: Edna frowns. "There's nothing to tell." You gather that she would rather
+you minded your own business.
+92120: "Digga, eh?" chuckles Edna. "Digga's a card. Must be a nightmare
+deciding what underwear to put on, I shouldn't wonder, when you're always
+changing gender. Digga's a good person deep down, though. A bit too defensive
+and self-righteous at times, but all in all a good egg."
+92326: "He can be quite annoying at times," admits Edna, "especially when he
+bombards the village with mailshots about his wonderful spell collection. I
+went there once to see it, and the only decent thing was the strength spell.
+And what's more, someone should teach him how to speak proper English!"
+92540: "Barnie's a sweet lad," says Edna. "If only the rest of the villagers
+were as nice."
+92613: "Tilly the librarian?" asks Edna. "She's not seeing anyone if that's
+what you mean."
+92685: Edna points over to the west. "There's a statue of old Sam Cragone, the
+founder of the village, over in the village centre. Some people find the name
+Sacromys Pemcoangs quite strange and bulky, but I think it's an anagram. For
+example, you can derive 'Sam Cragone' from it, but I can't work out what the
+remaining letters may stand for."
+92951: "I would absolutely kill for a nice drink of tea," says Edna firmly.
+93002: "Very nice tea, thank you," says Edna.
+93033: "Can't help you there," says Edna.
+93077: "Hello m'dear," says Edna, not bothering to look up.
+93118: Edna looks confused but doesn't reply.
+93176: "You want the rope?" asks Edna. "Hmm, lets see... I couldn't really
+accept money for old rope, but I'd be willing to exchange it for a nice drink
+of tea."
+93293: "It's yours if you want it," says Edna. "You've already paid for it."
+93356: Edna gives you a funny look. "You'll be throwing me a stick and saying
+'fetch' next!"
+93466: Edna lifts the jar to her lips and takes a long gulp of the tea.
+93524: Edna drinks the last of the steaming tea and wipes her mouth. "Ahh, that
+was lovely," she says, and puts the jar down.
+93660: Amongst all the junk is a tatty old length of rope, which doesn't look
+particularly strong.
+93725: You can't see anything of any particular importance amongst all the
+junk.
+93820: "Money for old rope?" chuckles Edna. "I don't think so. But I'd kill for
+a cup of tea... or a mug or something. I'm not fussy."
+93921: You don't need to buy the length of old rope - it is yours already.
+93979: Edna leaps at you and slaps your arm. "No no no no no no no! Don't touch
+my lovely brooms! They're not for sale!" You can only wonder why they are on
+display in the shop, in that case.
+94150: An orchestral arrangement of a frantic pop song fills the air, but you
+can't see the source.
+94246: The salesman, like most, is only trained for very limited customer
+participation in his little demonstrations, and doesn't react.
+94337: There are no questions you need to reply to.
+94515: The salesman hovers nearby, eager to make a sale.
+94566: The salesman takes one look at Silk and wimpers. "Erm," he says almost
+breathlessly. "Do excuse me, but I think it's time for my coffee break!" He
+promptly legs it.
+94760: The salesman approaches you silently. "Does Madam require any
+assistance?" he asks.
+94845: He continues without bothering to listen for a reply. "In our store we
+have the largest selection of top-of-the-range Magic Weavers you are likely to
+find in the village of Sacromys Pemcoangs."
+95008: "How about a demonstration?" the salesman asks, clapping his hands
+together with enthusiasm. "Does Madam have a spell of her own she would like to
+try out, or shall we use a spell from here?"
+95213: "Do you have a spell we could use?" the salesman prompts.
+95273: "Not to worry," assures the salesman. "I have an orchestra spell here...
+somewhere..." He spends a moment searching through some papers, and pulls out a
+yellowing scroll. "Soon have this up and running," he says cheerily.
+95454: The salesman takes the strength spell, looking a little surprised. "Oh
+wow," he says. "I haven't seen one of these spells for absolutely ages. We'll
+have it up and running in a jiffy!"
+95616: The salesman feeds the orchestra spell into one of the brand new magic
+weavers, and almost instantaneously, miniature fireworks explode above it,
+signifying success. "How about that!" enthuses the salesman.
+95823: Gina Grasshopper's "La La... More Tea, Vicar"
+95872: Faith Alive's "Don't Ye Stop Moving"
+95913: The Nice Belles' "If You Want To Be My Husband"
+95961: Wood Pulp's "Peasants"
+95990: Desert's "Don't Look Back in Bangor"
+96029: Karen Minone's "I Should Be So Fortunate"
+96072: Mad Donna's "Like A Clergyman"
+96106: Burley Bossy's "Gold Flinger"
+96138: Turn Left's "I'm Too Desirable"
+96220: The salesman feeds the strength spell into one of the brand new magic
+weavers, and almost instantaneously, miniature fireworks explode above it,
+signifying success. "How about that!" enthuses the salesman.
+96394: Suddenly a spherical green blur materialises in mid-air. "That's the
+strength magic," explains the salesman, prompted by your worried look. "Just
+put any item into it to make that item stronger."
+96563: The salesman looks at you blankly as you attempt to offer him the spell.
+96623: The salesman smiles kindly at you. "Madam is kind, but we already have a
+spell."
+96693: The salesman looks at the penny you offer him with disbelief. "I'm
+afraid that even the cheapest of our range of Magic Weavers is going to cost a
+lot more than that."
+96836: . "I'm sorry," he says, looking genuinely apologetic. "We're not allowed
+to accept that as currency, and we're not allowed to accept bribes."
+96954: "Hello Madam," he beams.
+96996: The salesman raises his eyebrows "Spell from here? So you don't have a
+spell of your own?"
+97063: "I am not entirely sure what Madam is trying to say," he says.
+97117: "Erm," says the salesman, confused. "I'm afraid I haven't been trained
+to answer questions. I only do demonstrations and sales. If you'd like to come
+back tomorrow, our customer questions manager should have returned from his
+holiday by then."
+97299: Don't do that. The poor chap is only trying to do his job.
+97353: The salesman, like most, is only trained for very limited customer
+participation in his little demonstrations, and doesn't react.
+97444: The salesman just smiles, looking a little confused.
+97500: You practice your usual dance routine (that is, to bounce up and down
+frantically) with the salesman.
+97597: The sound isn't coming from any of the weavers.
+97632: The Magic Weavers are silent.
+97753: The salesman prevents you from touching the models.
+97799: The illusion is insubstantial and beyond your reach.
+97843: The rope and the basket are the only means of getting back up the shaft.
+You mustn't touch it!
+97917: It might be best if you didn't tamper with the rope while it provides
+your only way of getting back up the shaft.
+98033: You remain paralysed to the spot, caught in a mixture of fear and a
+desire to satisfy your curiosity.
+98121: You make a break for the north exit. Silk tries to stop you, but you
+dive under her legs and quickly scramble to your feet before she can stop you.
+"Come here, you little pipsqueak!" she screams furiously.
+98281: You listen carefully to what Silk is saying.
+98327: Drew tries to focus on your words, but he seems too tired to respond.
+98381: You peck poor Drew on the cheek. The corners of his mouth twitch in the
+faintest ghost of a smile, but he gives no other response.
+98479: That would be unnecessary. Drew isn't a threat to you at the moment.
+98591: No matter how hard you try, the chains just won't give.
+98719: must be all of six foot, with legs that seem to go on forever. She is
+quite possibly the most beautiful woman you have seen, but with hint of cruelty
+in her features. She wears a shiny blue bodystocking that appears to have been
+sprayed on.
+98932: Silk, tiring of these games, makes a lunge for you and grabs you by the
+hair before you can escape. "You've caused me quite a lot of trouble," she says
+thoughtfully. "It seems only fitting that I make you suffer as a consequence."
+99106: What happens next is far too horrible to convey in words.
+99152: Her nasty smile fades as a group of Secret Service guards pours in from
+the west doorway. "How tedious," she sighs, and sends them all flying with some
+of her devilish magic. They smack into various walls, slump to the floor and
+remain still.
+
+ "Time to leave, I think," she says. "I've had enough fun for
+one day." Before she goes, she gives you an almighty slap in the face, knocking
+you senseless. When you awake, it is far too late to stop her or save the
+spellmaker.
+99491: Her nasty smile fades when she realises that a crowd of villagers has
+gathered here, fearful of her but angry of the way she is treating you. "Or
+maybe not," adds Silk hastily. "This village is too boring to bother with."
+Before she leaves, she gives you an allmighty slap in the face, knocking you
+senseless. When you awake, it is far too late to stop her or save the
+spellmaker.
+99792: Your jaw almost drops as you watch Silk climb out of the shaft of the
+well, having not even broken into a sweat. "You don't get away that easily,"
+she purrs.
+99920: Silk appears from the shaft of the well, having climbed down the rope.
+"I'm not going to let you get away, little pipsqueak," she giggles horribly.
+100040: Silk soon catches up, making a show of walking slowly.
+100223: "Well," purrs a silky-smooth voice from nearby, "what do we have here?"
+You turn to see who spoke. A woman, twice as tall as you, with classical good
+looks, shiny blonde hair and a body stocking that could well have been sprayed
+on, leans seductively against the wall by the side of the east exit.
+100449: ,
+The woman slinks towards you. "Oh, where are my manners?" she says.
+"I'm Silk. Drew and I have been so bored down here, just the two of us. Isn't
+that right, Drew honey?" Drew moans quietly, trying to turn his head away from
+Silk.
+100631: "Well, Mattie," says Silk with mock sincerity. "It is Mattie, isn't it?
+Well, Mattie, we knew you'd been put on the case, but we didn't quite expect
+you to get this far. Still, what's life without a few surprises?"
+100799: Panic begins to rise within you as you realise that Silk is now
+standing between you and the north exit. Fortunately, Silk appears not to have
+noticed this reaction. "I might as well tell you what's been going on, since
+you've done so well to get this far. And, of course, since you won't be going
+any further."
+101027: "To the east of this cavern," explains Silk with a gleeful expression
+on her face, "is a passageway that leads to Plantasitoy. You are aware of
+Plantasitoy, I take it?" Indeed you are. It is a great town not too far away,
+where the Magic Weavers are said to be the best in the area, and there are a
+surplus of fantastic and dazzling spells written by teams of experts.
+101295: Silk continues. "When Plantasitoy was first set up, a number of years
+ago, we were aware of the quality of the spellmakers within Sacromys Pemcoangs
+and the other surrounding villages. We immediately hatched a plot to steal them
+away from you, one by one, over time, so that you wouldn't grow too suspicious.
+And now, of course, our work is almost done in this village. Old Drew here is
+the last spellmaker on our list. We will brainwash him and force him to write
+spells for our own magic weavers."
+101653: Silk's smile broadens. "And now, it is time to deal with you, my little
+friend." She starts moving, very slowly and deliberately, towards you.
+101765: She is getting very close now. You wonder if you should do something.
+101821: Silk is almost upon you. You must act fast!
+101864: Silk lifts you by your lapels with ease, moving your face up to hers.
+"Goodbye, little pipsqueak," she whispers, and suddenly you are being flung
+against a wall. Your head hits the hard rock surface with a crack, and then
+everything fades away to nothing...
+102152: does not even acknowledge that you have spoken. She wishes you to know
+that she is in total control, and to reply to you would go against that.
+102257: Yeah... as if...
+102282: Silk doesn't look the romantic type.
+102332: The idea of a superstrong mint is tempting, but it would hardly help
+your mission.
+102411: You drop the old rope into the magic. With a sudden flash of green
+light, the magic vanishes, and a revitalised length of rope drops to the floor.
+102514: You don't see any point in making that any stronger.
+102559: Well, you've always wanted a strong arm or two, but on the other hand
+you don't trust magic enough to use it on yourself.
+102655: Perhaps discarded by one of the fleeing crowds, a wicker basket lies
+unattended nearby.
+102794: You can't put tea in the basket - it would just run through the holes.
+Besides, it would make the basket sticky.
+102892: The basket is currently out of reach.
+102930: It would be best to leave the basket as it is for the time being,
+seeing as it is the only way you can get back up the well shaft.
+103025: You will have to get the rope first.
+103175: A green door lies open very close by, the doorway leading nowhere as
+far as you can tell.
+103240: A green door stands unsupported very close by, well away from any
+walls.
+103302: The door isn't open.
+103341: voice call out somewhere on the other side. "Come in!"
+103391: You haven't even had your first date yet! That reminds you of the old
+joke. What does a lesbian bring with her on her second date? A removal van. Har
+har.
+103507: Never! How could you even contemplate it?
+103544: Tilly smiles at you.
+103596: Cashpound the questions at this stage," she points out kindly.
+103701: Now's not the time to be ordering Tilly around!
+103742: Tilly smiles back, warmly.
+103923: , by the way, has had to pop out on official business - very hush hush,
+apparently - but he wanted me to welcome you back. Now, what were his special
+instructions again...? Ah yes. Going out the door quits the game, but RESTORE,
+RESTART and UNDO are left to your own discretion. If there's anything you want
+to know about the game, just ask. I can't guarantee I'll know the answer, but
+you can always try."
+104261: Cashpound with a sigh, "this was written with the third annual IF
+competition in mind. People generally either loved it or hated it. A lot of
+people were put off by the fantasy setting - an 'oh no, not another dwarf
+village' reaction. Others complained that the puzzles had no reason or
+motivation, and that the ending was crap. This is true, unfortuntely; very
+little thought or design went into it. But there we are."
+104569: Cashpound starts off on a little philosophical rant about how life is
+merely energy or interaction of energy, but he stops when he realises that he's
+boring you.
+104689: "Well, there's a debug mode, if that's what you mean. With all this
+talk of weavers, the password is the name of a very famous one: someone who'd
+no doubt be very pleased to learn that there are no aliens in this game. Once
+the debug mode is on, 'runaway' skips the prologue and 'downwell' jumps to the
+part where you discover what has happened to Drew."
+104965: Cashpound, rubbing his chin. "Don't know too much about him, really - I
+get the impression that he's ashamed of us. I understand he's 23, and that he
+graduated from the University of Continual Embarrassment, or something like
+that (one of the old polys anyway), in the summer. After about six months of
+dossing around, some organisation took pity on him and gave him a job. Maybe
+this means we won't be seeing any more terrible games like this one. We can but
+hope."
+105368: secretary as you know. I spend most of my days lusting over secret
+agent Jane Vond. Never seem to get anywhere, though she's always promising
+she'll take me out to dinner one day."
+105507: Cashpound considers this. "I understand that the author was attempting
+to break new ground by including a gay character in a work of IF, but without
+having the character's homosexuality as a major plot point."
+105682: Cashpound, raising a finger. "Basically just your typical Catwoman
+clone. Who is she? She's an enemy agent working for the Plantasitoy secret
+service."
+105800: "It's a new town, which sprung up recently a few miles away. Very
+popular, very busy. Of course, it might also be an anagram."
+105932: Cashpound, rapidly changing the subject. Obviously he doesn't want to
+talk about that.
+106038: Cashpound with one eye on her. "Obviously she's her own person."
+Evidently, he is too polite to talk about Tilly in her presence.
+106140: "The town? What would you like to know about the town?" How about its
+bulky name, for a start, you offer. "Well, Sacromys Pemcoangs is an anagram. I
+think. Something to do with the far-too-clever-for-its-own-good allegory thing.
+Your standard dull fantasy village."
+106405: cashpound. "They're just cardboard cutouts, as is usual with IF, and
+just sit there doing nothing much, which is also fairly typical."
+106531: Cashpound, "apparently thought it was funny to make a cow the most
+intelligent and mature being in the village. Small things please small minds,
+methinks. Apparently, with regard to coding, the cow was the largest object in
+the game. Doesn't say much about the game, really, does it?"
+106767: Cashpound. "I've never been any good with them. Probably something
+tedious."
+106863: Cashpound. "Very hush hush."
+106927: cashpound with a shrug. "I hear that the author is a bitter, twisted
+type, so maybe he was trying to get back at someone."
+107059: Cashpound. "Imagine that! My favourite was Madame L'Estrange, even
+though it was fairly buggy. A Bear's Night Out was good, too."
+107174: cashpound, a little embarrassed. "I'm afraid I haven't got any answers
+for that."
+107241: Some magical force prevents you from attacking him.
+107283: He's not really your type, for reasons you ought to have grasped by
+now.
+107374: Cashpound.
+107462: didn't react to it (as a joke), so the author put in a response (as
+another joke). Bless him."
+107547: Cashpound. "You've lost me."
+107591: Cashpound frowns at you. He obviously doesn't like taking orders, which
+is unfortunate considering his line of work.
+107721: is currently trying to tell you exactly that. Just listen to what he
+has to say.
+107787: Erm. Oh dear. It's the end of the game, see, and if you haven't figured
+out what's going on yet, then something must have gone dreadfully wrong
+somewhere...
+107904: You are Mattie, an agent of the secret service and member of the dwarf
+village Sacromys Pemcoangs. The village relies heavily on magic, which is
+formed by feeding spells into 'magic weaver' devices. While there are plenty of
+good magic weavers around, new spells are in short supply, and the villagers
+are getting restless. Your task is to hunt down the last great spellmaker to
+disappear - one Drew Tungshinach. He couldn't have just walked off without
+someone noticing, so what's happened to him?
+108258: "The Lost Spellmaker" was written for the Third Annual Interactive
+Fiction competition, where it was placed 8th.
+108566: . He regrets to announce, however, that he cannot accept any proposals
+of marriage he may receive on this account, and he is not interested in hearing
+about yet another 'get rich quick' scheme or 'naughty girls' web site, thank
+you very much.
+110000: There is no reply.
+110036: There is no reply.
+110232: Congratulations! You have completed your mission and scored one
+political point into the bargain. Whoops, sorry, no, the *game* has scored one
+political point. But well done anyway!
+110462: Control yourself!
+110477: That wasn't designed to be tasted.
+110551: Nothing happens. Perhaps there is a special door around here somewhere
+already.
+110613: You utter the magic word, but nothing happens. Nothing happens! You
+begin to panic. What's going on here?
+110700: As if by magic, a puff of smoke erupts from the ground back on Thurman
+Street to the southwest. It quickly disperses, and appears to have left a large
+rectangular object behind.
+110828: A yellow puff of smoke erupts from the ground, and soon disperses. In
+its place is a green door, looking particularly out of place as it is not
+attached to any walls.
+110955: A few members of the crowd cough and wave the smoke away from their
+faces, but otherwise everyone ignores the dazzling special effect that has
+occurred right under their noses.
+111124: wisher. "Goodness! Where on earth did all this smoke come from? The
+place will smell of sulphur! The Reverend will be furious! And... what's that
+door doing there?"
+111252: Digga isn't impressed. "The yellow smoke thing is so old hat."
+111306: Barnie claps his hands excitedly. "That was good! Do it again, Mattie!
+Aw, please!"
+111378: Silk chuckles. "My, they're not still using the old 'smoke and door'
+spell in this town, are they? How quaint."
+111468: Ignoring the smoke, Edna examines the door. "Nope," she says
+eventually. "This is too useful for my shop. You'll have to find somewhere else
+to sell it."
+111586: ohn
+The Reverend looks jealous for a moment. "My possession of spells
+is much greater, naturally," he bluffs.
+111672: "Anyone would think that a bit of exercise would kill you," mutters
+Daisy. "Magically transporting doors to people - now I've seen everything."
+111784: Tilly stifles a giggle, evidently amused by your magic casting.
+111854: You can't pour that.
+111877: That's not a verb I recognise.
+111910: You're not in the prologue any more.
+111937: Prologue skipped!
+113113: Cashpound what you wish. West quits, and UNDO, RESTORE and RESTORE work
+as well.
+
+<Now, back to the game!>
+113223: You've already made a wish.
+113244: It's traditional to drop a penny down a well before making a wish.
+113291: You wish that you were two feet taller and a lot prettier.
+113334: You will have to give the individual instructions needed for making
+that.
+113386: You smile. Isn't life a dream?
+113418: You smile. Isn't life a dream?
+113448: You smile insanely at the inanimate object.
+113506: That would be very silly.
+113530: You pat yourself on the head and murmur "Good girl" to yourself.
+113614: You can't untie that.
+113639: You are already within yourself (allegedly).
+113702: That wouldn't do you much good.
+113736: The cheat/debug mode is now on.
+113764: The cheat/debug mode is now off.
+113793: That's not a verb I recognise.
+113831: This action is unavailable, as Silk has already been encountered.
+113964: You are now in the 'end game' section.
+114036: You are not holding any rope.
+114070: A mystical hand, seemingly made of thousands of tiny sparkling stars,
+sweeps down from above. Before you can do anything, it prods you in the ribs,
+and a hollow voice echoes "It's not you!" The hand flies off again, quickly
+disappearing from sight.
+114255: You knock gently on your chest. There is no reply.
+114296: That would be impolite.
+114315: Nothing happens.
+114335: You boogie around for a while, not feeling in the least bit
+embarrassed.
+114391: The inanimate object doesn't wish to dance with you.
+114554: A surreal idea.
+114571: A surreal (and mildly worrying) idea.
+116404: You can't go that way.
+116480: It is pitch dark, and you can't see a thing.
+116512: As good-looking as ever.
+116672: A small pepermint-flavoured sweet made of icing sugar.
+116712: Only the best is good enough for the main room of the Secret Service
+headquarters. The walls are oak-panelled, and covered with photographs of
+important-looking people; the floor sparkles so much that you suspect it has
+been enhanced with the aid of a spell; and the equipment is all
+top-of-the-range, including the Magic Weaver in the corner. The only exit is to
+the west.
+117212: It is the most powerful and advanced Magic Weaver you have ever seen.
+The Secret Service get all the best equipment first.
+117300: It looks like something to do with boring bureaucracy.
+117444: They bustle about, not quite used to shopping, but picking up the
+basics.
+117496: This charming little shop is a pretty close approximation of what you
+imagine Heaven to be. The shelves are crammed full of jars of mints,
+gobstoppers, chocolate mice and all manner of other delicious things. Behind
+the main counter you see sherbet dips, jelly babies and exotic toffees. Life
+doesn't get much better than this. Thurman Street lies out to the east.
+117752: Barnie might not be terribly bright but he is quite possibly the nicest
+person in the village, always eager to please, and thoroughly loyal to his
+friends.
+117860: Although the Reverend means well, he has a tendency to irritate the
+local population by constantly talking about his cottage and the splendid
+collection of spells contained within. He is also reknowned for his poor
+command of the English language (you spent many sleepless nights wondering what
+on earth a 'lebsian' was) and the way he is always provoking Digga.
+118140: The villagefolk here look as if they don't get out much. They must be
+weaver geeks, forced to find some other form of entertainment what with the
+lack of decent new spells, and this argument is just that.
+118284: The founder of the community, one Sam Cragone, is faithfully depicted
+by the stone monument, staring proudly at, erm, a brick wall across the way.
+The original intention had been for the statue to stand at one end of the
+village, looking down to the other end, but the architects got it wrong, so
+here he is now.
+118504: As brick walls go, this one looks like a prime specimen. However, it
+doesn't look particularly remarkable.
+118580: Thurman Street runs here from the north and fades away into a dirt
+trail that leads southwest into a field. Houses are well spaced out at this
+quiet end of the road - one that stands out is the Reverend's cottage to the
+southeast, smoke gently trailing from a small chimney pot at the top.
+118780: A signpost has been implanted in the ground next to the cottage.
+118824: "The Reverend is, regrettably, away at present."
+118864: "The Reverend welcomes all visitors with a cup of tea and a chat."
+118912: The crowds of shoppers are particularly large in this part of the
+village, though you see no shops that appeal to you, and one - the Health Store
+- you find especially repulsive. Thurman Street meets with Rigg Street to the
+northeast, and runs off to the southwest.
+119100: Horrible, horrible place. You don't want anything to do with it.
+119148: One shiny new Sacromys Pemcoangs penny.
+119180: Just off the village of Sacromys Pemcoangs, which is to the northeast,
+lies this field, the ownership of which has been disputed for centuries. It is
+nothing more than a large grass-covered plain, and does not even possess
+religious or magical significance, but a great deal of hostility arises
+regarding it nevertheless.
+119404: It looks as green and unappetising as grass should look.
+119444: Daisy spends most days chewing cud or sleeping like the lady of leisure
+she is. She has a very carefree life, no doubt helped by the fact that the
+entire population of the village are vegans.
+119600: The Reverend's famous spell collection has apparently grown so large
+that he has had to store some of the spells here in his living room.
+119696: Looks very comfortable.
+119716: The fire burns furiously, occasionally snapping and crackling. As you
+look closer, you realise that it isn't actually burning anything - it must be
+fuelled by magic.
+119832: The cow munches thoughtfully on grass.
+119984: It is all in a language unreadable by most people, but the title in
+bold text proclaims it to be a spell of strength.
+120064: Thurman Street, from the southwest, and Rigg Street, from the
+southeast, meet here at the north end of the village, in front of the great
+library. Stone statues of lions stand guard at either side of the entrance;
+they are said to have been treated magically to guard the precious books inside
+from any evil spirits. As long as they guard your true love within, you will be
+happy.
+120332: Magically treated or not, the statues look impressive.
+120372: In days of old, Rigg Street would be packed with crowds swarming around
+the spell markets. Alas, they are no more, the supply of spells having dried up
+many moons ago, and the road is quiet. Rigg Street meets with Thurman Street to
+the northwest, and runs down to the southeast. The old village well is along a
+dirt trail to the northeast.
+120612: Alas, they are all closed until the evening. Shame, that.
+120656: This is the high-class section of town, where all the rich merchants
+buy their goods and spend their evenings. The Rouge Rill restaurant is
+especially noted for its fine cuisine and pricing well out of your league. The
+only thing open at the moment is the Magic Weaver Showroom to the west, with
+top-of-the-range weavers in the window reading old spells at lightning speed.
+Rigg Street goes off to the north.
+120948: It is closed at the moment, which is just as well because you could
+never afford to eat there.
+121016: The building may be grand but there is precious little space for books.
+Only a few hundred have been squeezed onto the shelves, dealing mainly with
+local history, mechanics of the magic weavers and 'sure-fire' ways of writing
+working spells (which never are in practise). The exit lies to the south.
+121224: Oh, how you long to tell Tilly how you feel. Her silken hair, her
+delicate nose, that coy manner she adopts when talking to you... But when it
+comes down to it, why would she like a dumpy, plump girl such as yourself?
+121380: None of the books here could help you with your quest, you fear.
+121428: It looks as water should look.
+121452: Every possible item you will never have any use for can be found in
+this shop. In addition, the proprietor seems to have a thing about brooms;
+there is an extremely large range of them on offer, of all different colours,
+sizes and materials, hanging from racks on the ceiling. Negotiating your way
+around the shop is understandably quite difficult. The exit is to the west.
+121712: Unlike the others in the village, Edna has reverted to childhood in her
+old age: her energy, her enthusiasm for little things, the fact that she enjoys
+the commercial breaks more than the actual plays at the theatre. She is also an
+avid collector of brooms, which may seem odd, but then why do people collect
+garden gnomes or stamps?
+121944: Old Edna potters about nearby.
+121966: Edna runs her hands along her beloved broom collection and watches them
+sway with a look of pure joy.
+122038: Edna searches through the junk as if looking for something specific. A
+few moments later she wanders away, her search unsuccessful.
+122132: Edna extracts a curious-looking item of junk from the pile and gives it
+a good dusting before returning it to its place.
+122216: Edna whistles a few bars of an advertising jingle.
+122252: Edna chuckles at the memory of an old joke, but doesn't choose to share
+it with you.
+122312: A length of old rope lies among the junk.
+122344: Just a tatty length of old rope.
+122368: What a huge collection of brooms! Spectacular to see, but not much help
+on your quest.
+122432: For people with plenty of money and good taste, why not buy a Sacromys
+Pemcoangs-made top-of-the-range Magic Weaver? All the latest high speed models
+are on sale here, outshining other models by virtue of the electrifying
+twinkliness they produce when rapidly weaving the spells into magic.
+Unfortunately, new spells are in short supply, and the weavers are not being
+pushed to their limits. A doorway to the east leads out to Rigg Street.
+122740: The salesman is clearly a smooth operator in his expensive silken tunic
+and pointed shoes with the fashionable curl at the tip. His constant smile
+actually looks genuine, as if he is happy with his lot.
+122884: All so very wonderful. All so very out of your price range.
+122928: From here, a circular shaft leads up to the top of the well, with
+bright daylight pouring down. A ghost image of the 'water surface' illusion can
+be seen partway up the shaft; it was only meant to be convincing when looked
+down upon. A gloomy passageway leads south.
+123116: From here, the illusion can only be made out by a kind of heat-shimmer
+effect, making the view of the rest of the shaft and the top of the well blur
+and contort.
+123228: The rope hanging from the shaft of the well, is tied to the basket.
+123276: This large dome-shaped area carved out of the rock appears to be some
+sort of half-way storage point. Passageways run off to the north and east, with
+nothing of particular interest here in the middle... with the possible
+exception of Drew Tungshinach, chained to a wall.
+123468: You have a feeling that the passageway would lead far out of your way.
+You decide against going that way.
+123544: Drew looks exhausted, his spirit broken. He barely has the strength to
+look at you.
+123604: Poor old Drew. What torments, what indignities has he suffered down
+here? His lips are cracked; a purple bruise stains his left cheek.
+123708: Incredibly, a green spherical blur hangs in mid-air almost expectantly.
+123760: It is mainly transparent, and looks almost like the blur you get in
+your eyes when you stare at a strong light for too long. The difference with
+this is that it is set, and doesn't follow the movement of your eyes.
+123908: A strong length of rope.
+123932: A fairly large and strong wicker basket.
+123960: Tilly, the most gorgeous librarian in the world, stands attentively at
+your side.
+124020: Tilly stands proudly by your side.
+124044: A fair-haired young man.
+124110: Many thanks to the following people, for various reasons:
+
+Martin
+Braun, Andrew Clover, Michael Alexander Cumings-Steen, Charles Doughty,
+Jonathan Fry, Paul Janzen, Howard Liu, Douglas McNeil, Graham Nelson, Stephen
+Robert Norris, Paul O'Brian, Gareth Rees, Leisa ReFalo, Cody Sandifer, Nate
+Schwartzman, Christine Simoes Tilden and G. Kevin Wilson.
+124686: ...which means that you do not have to pay for it. It also means that
+you are not allowed to charge more than a nominal fee for distribution. So
+there.
+
+"The Lost Spellmaker" is copyright (c) Neil James Brown. There is no
+warranty supplied with this game. All characters, places and events are
+fictional - similarities with real life are coincidental. Well, more or less.
+125080: Wisher about the tea while you are holding it?
+125374: mint-fiction after the close of the Third Annual Interactive Fiction
+competition...
+
+"Cute. I liked it."
+
+"I like a bit of a challenge in a puzzle,
+but some were a bit obscure..."
+
+"...other than the protagonist, I may have
+liked the hint system best."
+
+"...it's a little disappointing to find [Digga]
+is a red herring. Not as disappointing, though, as the whole ending..."
+
+"Cool
+randomized title screen."
+
+"Mattie is surely destined to become the most
+significant gay icon of the 21st century..."
+
+(Okay, I made that last one up.)
+126426: he former is a short game I knocked up for my degree project (believe
+it or not), and the latter is a demonstration of my moveclass Inform library
+file. Well, I've taken up enough space with this, so I'll sign off now. Go and
+have a lie down in a darkened room, give your eyes a rest, that's what I think
+you should do. See ya. <<
+

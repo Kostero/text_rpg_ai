@@ -1,0 +1,908 @@
+19254: Nothing to do!
+19289: o. You have won
+19450: fhn[Your interpreter does not provide "undo". Sorry!]
+19547: Please give one of the answers above.
+19578: It is now pitch dark in here!
+19605: I beg your pardon?
+19623: dxn[You can't "undo" what hasn't been done!]
+19665: ehn[Can't "undo" twice in succession. Sorry!]
+19737: Sorry, that can't be corrected.
+19766: Think nothing of it.
+19787: "Oops" can only correct a single word.
+19821: It is pitch dark, and you can't see a thing.
+19872: As good-looking as ever.
+19896: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+19959: You can hardly repeat that.
+19984: You can't begin with a comma.
+20012: You seem to want to talk to someone, but I can't see whom.
+20087: To talk to someone, try "someone, hello" or some such.
+20155: I didn't understand that sentence.
+20225: I didn't understand that number.
+20254: You can't see any such thing.
+20281: You seem to have said too little!
+20310: You aren't holding that!
+20334: You can't use multiple objects with that verb.
+20374: You can only use multiple objects once on a line.
+20414: I'm not sure what "
+20449: You excepted something not included anyway!
+20485: You can only do that to something animate.
+20520: That's not a verb I recognise.
+20550: That's not something you need to refer to in the course of this game.
+20604: You can't see "
+20647: I didn't understand the way that finished.
+20742: Nothing to do!
+20759: There are none at all available!
+20833: Sorry, you can only have one item here. Which exactly?
+21793: Please answer yes or no.
+21819: Are you sure you want to quit?
+21855: Are you sure you want to restart?
+21887: Failed.
+21907: Restore failed.
+21924: Ok.
+21942: Save failed.
+21957: Ok.
+21975: The game file has verified as intact.
+22007: The game file did not verify as intact, and may be corrupted (unless you
+are playing it with a very primitive interpreter which is unable properly to
+perform the test).
+22137: Transcripting is already on.
+22194: Transcripting is already off.
+22243: Score notification on.
+22264: Score notification off.
+22289: You have visited:
+22319: Objects you have handled:
+22344: None.
+22730: You are carrying nothing.
+22779: Taken.
+22790: You are always self-possessed.
+23175: You're carrying too many things already.
+23359: Dropped.
+23469: Removed.
+23558: You can't put something on top of itself.
+23635: You lack the dexterity.
+23716: Done.
+23915: You can't put something inside itself.
+24006: Done.
+24305: Wrahn seem interested.
+24524: You can only get into something freestanding.
+24646: But you aren't in anything at the moment.
+24760: You'll have to say which compass direction to go in.
+24862: You can't go that way.
+25048: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+25150: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+25238: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+25552: Darkness, noun. An absence of light to see by.
+25683: But it's dark.
+25700: You find nothing of interest.
+25736: But it's dark.
+25827: You find nothing of interest.
+26997: . Not bad.
+27015: That was a rhetorical question.
+27042: This dangerous act would achieve little.
+27076: Nothing practical results from your prayer.
+27112: The dreadful truth is, this is not a dream.
+27149: That seems unnecessary.
+27172: Keep your mind on the game.
+27197: What a good idea.
+27216: You smell nothing unexpected.
+27243: You hear nothing unexpected.
+27268: You taste nothing unexpected.
+27303: Keep your hands to yourself!
+27328: You feel nothing unexpected.
+27353: If you think that'll help.
+27379: Digging would achieve nothing here.
+27446: You jump on the spot, fruitlessly.
+27479: You would achieve nothing by this.
+27508: There's nothing suitable to drink here.
+27541: But there's no water here to carry.
+27572: Oh, don't apologise.
+27594: Real adventurers do not use such language.
+27629: Quite.
+27640: Violence isn't the answer to this one.
+27673: There's not enough water to swim in.
+27704: There's nothing sensible to swing here.
+27768: You achieve nothing by this.
+27856: You wave, feeling foolish.
+28006: You are unable to.
+28025: Nothing obvious happens.
+28048: That would be less than courteous.
+28086: Is that the best you can think of?
+28115: That's not a direction.
+28138: Not that way you can't.
+28170: Keep your hands to yourself.
+28195: You achieve nothing by this.
+28229: Futile.
+28241: You lack the nerve when it comes to the crucial moment.
+28293: You talk to yourself a while.
+28320: This provokes no reaction.
+28348: There is no reply.
+28367: Nothing is on sale.
+28386: Your singing is abominable.
+28412: I don't think much is to be achieved by that.
+28449: Time passes.
+28464: You aren't feeling especially drowsy.
+42291: That's not something you can take.
+50482: It's a long way down.
+50504: Your voice echoes weirdly up and down the shaft.
+50595: The sea; and stone; and springtime-fields.
+50698: That jacket's awfully warm in this heat.
+50740: You clamber out onto the roof.
+50768: The window is shut, and thus blocks your passage.
+50811: You sit down and play INFIDEL for a few minutes, but you're stuck at 360
+points.
+50878: Simply a sheet of polished glass; it is unframed. Your reflection moves
+flat and two-dimensional, as if you -- or a flipped, spun, and flattened you --
+have been captured in the glass.
+51071: Wait. The smudge has moved towards the center of the mirror.
+51121: Odd. The smudge has vanished from the mirror.
+51220: As you reach for the mirror, you freeze: the world behind your
+reflection has begun to move, to change. There you are, reaching for the
+mirror; but behind is a dim blur of light and dark, tall verticals and thick
+horizontals, a hole of vertigo and an unmoving gravity.
+
+You spin, but all that
+is behind you is the familiarity of your room. When you look back, the mirror
+is unchanged.
+51542: Again, you reach for the mirror. The blur returns, and sharpens as your
+hand draws closer. You see a dim deep shaft, falling down endlessly.
+
+You touch
+the glass: it feels cool and slick. Then the smudge leaps at you, growing,
+shifting. You try to draw away, but it runs up your arm, over your body,
+through your very consciousness --
+51832: -- And you emerge on the very edge of space. Reeling, you fight for
+balance. For a stretched instant you think of falling, but finally you regain
+equilibrium, to find yourself cowering on a narrow ledge, inches away from an
+endless pit.
+52039: The glass feels slick under your fingers, but nothing else happens.
+52127: The window, dirty and scratched, is open.
+52158: The window, dirty and scratched, is closed.
+52207: Outside, it is an autumn evening, dusk creeping in and the light growing
+dim.
+
+The main campus lies to the east, up a steep hill. A short piece of roof
+covers the porch, with a leaf-crowded gutter.
+52375: Through the window you see the inside of your room.
+52439: With a grunt and a heave, you manage to lift it open.
+52483: The window slams shut, nearly bashing your fingers.
+52541: Try as you might, you can't do it. It must be jammed in the frame.
+52598: You smash the glass, driving your arm through the pane. A splinter of
+window slashes its way up your arm and through an artery. A slow cold seeps
+through your body, and you fall, slowly, away from the world...
+52752: Through the window, you see other houses, and beyond those, the athletic
+fields.
+52818: Gratefully, you crawl back inside.
+52847: The window is closed.
+52866: You come out of the closet.
+53113: You shiver as you remove the jacket.
+53169: The jacket pockets are empty.
+53259: Putting a lit torch in the jacket somehow strikes you as a bad idea.
+53313: You can't put the jacket in its own pocket!
+53350: There is a light switch next to the stairs.
+53414: This room is used for storage: cardboard boxes bleeding onto the floor,
+rusty flat-tired bikes, and other junk dating to the distant past.
+53520: A cluttered desk rests in a cramped corner.
+53556: The desk has been moved away from the wall.
+53594: The desk belongs to the janitors, who come down here every six months or
+thereabouts. Papers and clutter cover most of it. You leaf through them
+quickly, but don't find anything interesting.
+53734: There's about a six-inch gap between the desk and the wall.
+53779: There's about an eighteen-inch gap between the desk and the wall.
+53850: You manage to tug the desk another foot away from the wall, revealing a
+dark hole!
+53909: You can't move the desk any further; it seems to be stuck.
+53991: The gap isn't wide enough to see anything.
+54022: Behind the desk you can see a dark hole in the wall.
+54089: around you as you enter. A sense of speed, and distance, and a curious
+pain all surge through you, and then --
+54219: -- Then you are elsewhere. Sun makes you squint, and you hear the crash
+of surf, shrills of gulls, and all around there is loss.
+54440: falls into the shaft, away from sight. You listen, but never hear it
+strike bottom.
+54568: It is too cold to move. You curl up, shivering, on the cold metal of the
+ledge. Everything grows black, and warm, and peacefully quiet...
+54680: Your whole body is shivering with the cold.
+54759: You're starting to feel the ache of the cold.
+54802: It's pretty cold in here.
+54826: You find yourself carrying something you weren't before.
+54878: You clamber down the rungs.
+54908: You notice that a thin horizontal line runs around the shaft between the
+levels.
+54974: You crawl up the rungs to the next level.
+55010: You clamber further down the rungs.
+55044: Another line runs around the shaft, separating the levels.
+55094: You crawl up the rungs to the next level.
+55134: It's a long way down.
+55156: Your voice echoes weirdly up and down the shaft.
+55274: You hold your breath and squeeze into the crack. For a terrifying
+second, you think you are trapped -- but you manage to push through to the
+other side.
+55402: You hold your breath and squeeze into the crack. For a terrifying
+second, you think you are trapped -- but you manage to push through to the
+other side.
+55520: You can't fit through the crack carrying anything.
+55563: The crack has widened, and permits easy movement.
+55600: The crack is absurdly narrow; you don't see how you'll fit.
+55671: You manage to roll the wheel into the crack and through.
+55735: You manage to roll the wheel into the crack and through.
+55794: You manage to shove the rod through the crack.
+55850: You manage to shove the rod through the crack.
+56007: Something must have been jarred outside, for the crack is now entirely
+too narrow.
+56071: The crack has widened with all the movement, and you fit through easily.
+56131: You squeeze through the crack again, and again, you are almost trapped.
+But you make it, and breathe a sigh of relief.
+56230: You squeeze through the crack again, and again, you are almost trapped.
+But you make it, and breathe a sigh of relief.
+56319: You can't fit through the crack carrying anything.
+56378: The control panel has three dials on it.
+56503: As you set the final dial to zero, the control panel sparks!  Smoke
+pours from the edges and a series of coughing explosions can be heard behind
+the panel.
+
+Meanwhile, you feel the room shift around you, as if it were moving
+somehow. Then there is a deep click -- the sound of something settling, with a
+grateful finality -- and all is silent.
+56772: None of the dials will move.
+56875: The dial seems to be stuck.
+56982: You feel a sense of great weight above you.
+57033: The sphere radiates cold. Your hand slips through its surface for a
+moment, and you jerk it back.
+57115: The sphere expands around you, hungrily, as you enter it. For a second
+you understand what nothing really means, as you are annihilated, your
+existence forgotten. Then something -- or someone -- creates you again, and you
+are pulled to somewhere --
+57348: -- You scrape your knees as you fall. Wind caresses your face, and the
+smell of dry grass fills your breath. It is a summer afternoon, and you are
+sitting on the side of an empty road.
+57513: -- Then you are elsewhere. Sun makes you squint, and you hear the crash
+of surf, shrills of gulls, and all around there is loss.
+57702: Something has been added to your inventory.
+57751: You hear the cries of gulls, and the pounding of surf.
+57794: The trail dips down gently here, through wildflowers and scrub, as it
+continues to the northeast. The air is sweet with late-spring warmth. A
+weathered frame of wood stands by the side of the path, with weeds enshrouding
+its base.
+57964: You have uncovered a hole underneath the frame.
+58006: The frame consists of four posts, arranged in a two-foot square. Four
+two-by-fours connect the posts at their tops. A metal rod runs through holes in
+two of the two-by-fours. One end of the rod is bent to form a handle.
+58177: A segment of rope, three feet long, dangles from the rod.
+58225: A long rope has been tied to the rod, and lies coiled underneath.
+58281: A long rope has been wound up around the rod.
+58321: A long rope has been tied to the shorter segment of rope. The excess
+coils up on the ground.
+58395: A long rope has been tied to the shorter segment of rope. The two have
+been wound up around the rod.
+58533: The long rope, tied to the shorter rope, dangles down a hole underneath
+the frame.
+58621: You find a hole in the ground, under the center of the frame.
+58666: You find nothing further.
+58701: The rod, though rusted, is still sturdy.
+58749: You turn the rod a few times. It creaks, and rust rains down into the
+weeds.
+58814: You turn the rod, and wind the long rope up around it.
+58892: You turn the rod, and unwind the long rope into the hole.
+58938: You turn the rod, and unwind the long rope.
+58981: You turn the rod, and wind the ropes up around it.
+59057: You turn the rod, and unwind the ropes into the hole.
+59101: You turn the rod, and unwind the ropes.
+59155: You turn the rod, and wind the rope back out of the hole.
+59221: You turn the rod, and wind the ropes back out of the hole.
+59296: You turn the rod, and unwind the long rope into the hole.
+59369: You turn the rod, and unwind the ropes into the hole.
+59419: The rope is tied tightly to the rod. Its other end is frayed, as if cut
+with a dull instrument.
+59491: The rope is about three feet long. One end is frayed, as if cut with a
+dull instrument.
+59566: It's tied to the rod.
+59595: With some effort, you untie the rope from the rod.
+59650: The rope is already tied to the rod.
+59683: You tie the rope back around the rod.
+59803: The light bar fades to black as it falls.
+59834: As you bring the light bar near the hole, you notice that it flickers
+and fades. Maybe it wouldn't be a good idea to drop it down there.
+59974: You feel around in the dark hole, and find something:
+60096: The light bar is out of your reach.
+60134: You untie the bar from the long rope and take it.
+60188: E\rvapnYou tie the light bar to one end of the rope.
+60231: That would do you no good.
+60273: You untie the light bar from the rope.
+60314: You leap forward off the ruins, and run north, through the tall grass of
+the plains. Energy strums through your veins, and you feel nearly godlike.
+
+All
+right, just kidding. Actually, you can't go north.
+60461: You can't go that way.
+60482: About fifteen or twenty feet of good, sound rope.
+60524: The light bar is tied to one end of the rope.
+60583: The rope is tied to the metal rod.
+60637: The rope is tied to a shorter segment of rope that dangles from the rod.
+60704: It's out of your reach.
+60762: It's already tied to the rod.
+60815: You tie the rope to the metal rod. The end disappears into the hole in
+the ground.
+60892: You tie the rope to the metal rod. The other end coils up on the ground.
+60974: It's already tied to the old rope.
+61031: You tie the rope to the shorter segment. The end of the long rope
+disappears into the hole in the ground.
+61124: You tie the rope to the shorter segment. The other end of the long rope
+coils up on the ground.
+61206: You tie the light bar to one end of the rope.
+61286: You untie the light bar from the rope.
+61322: It's not tied to anything.
+61367: You untie the rope from the rod.
+61400: You untie the rope from the rod, unwinding it first.
+61447: You untie the rope from the shorter rope.
+61486: You untie the rope from the shorter rope, unwinding it first.
+61539: You untie the rope from the rod and pull it up out of the hole.
+61594: You untie the rope from the shorter rope, pulling it up out of the hole.
+61655: You untie the rope from the rod, unwinding it first.
+61702: You untie the rope from the shorter rope, unwinding it first.
+61768: The light bar flickers, and grows dimmer.
+62002: You stumble around in the dark, but get nowhere.
+62043: A plipping noise, like water on rock, echoes from all around.
+62104: As you leave the cave, the light bar glows fitfully back to life.
+62176: As you leave the cave, the light bar glows fitfully back to life.
+62254: You stumble around in the dark, but get nowhere.
+62301: It's out of your reach.
+62355: the window, somehow. The other side is cold, and bitter: you jerk your
+hand back, quickly.
+62573: -- the window. A coldness washes over your body, penetrating your skin,
+your cells, your very fabric of being. Then, with a jerk and a twist, you are
+thrust away --
+62750: -- You scrape your knees as you fall. Wind caresses your face, and the
+smell of dry grass fills your breath. It is a summer afternoon, and you are
+sitting on the side of an empty road.
+62915: -- And you emerge on the very edge of space. Reeling, you fight for
+balance. For a stretched instant you think of falling, but finally you regain
+equilibrium, to find yourself cowering on a narrow ledge, inches away from an
+endless pit.
+63127: Again, you find yourself with something new.
+63192: You grab a branch, and haul yourself up.
+63234: With the grace of a squirrel, you clamber down to earth.
+63286: The outcrop's shadow cools this side of the road. Across the asphalt is
+a grassy field, rippled by wind.
+63369: A tunnel leads south into stone.
+63398: You scrabble up the outcrop.
+63431: You scrabble up the outcrop.
+63466: You are halfway up the outcrop. Above, it steepens and becomes
+unclimbable. The air is hot up here.
+63546: A tunnel now leads into the rock beneath you.
+63604: You dig around in the loose rock for a while. After a few minutes, you
+uncover something metallic, protruding from the rock itself.
+63707: You find nothing further among the rock.
+63738: A lever protrudes from the side of the outcrop.
+63802: The lever moves down with a click. Immediately, the outcrop shudders:
+you lose your balance and tumble down, through dust and flying rock.
+
+When you
+clamber to your feet and shake the dust from your eyes, you see that a tunnel
+now leads south into the outcrop.
+63994: The lever moves with a click, but nothing further happens.
+64049: It's too far away.
+64162: With a sigh, the torch burns down and out.
+64207: You are trapped in the darkness.
+64238: The torch begins to sputter and fade.
+64301: You'd best wrap this up quickly.
+64418: But the torch is already lit!
+64441: You can't reignite the torch.
+64490: The gel sticks to your fingers, but you manage to scrape some of the
+wall.
+64567: The device sticks in the groove for a second, then falls out.
+64621: The wheel fits, but won't stay in the groove.
+64747: The device fits neatly into the groove and holds fast. The machine
+rumbles for a moment, but then is still.
+64834: You've already put some grease in the groove.
+64875: You smear some of the grease into the groove.
+64957: As you push the bump, it rises from the side of the machine, and then
+sinks back in. As it disappears, the groove deepens slightly.
+65076: You screw one end of the rod firmly into the hub of the wheel. They fit
+together seamlessly.
+65158: You screw the other end of the rod into the wheel's hub. They fit
+together seamlessly.
+65306: You can't screw the rod to that.
+65353: You screw one end of the rod into the circle. They fit together
+seamlessly.
+65425: You screw the other end of the rod into the circle. They fit together
+seamlessly.
+65521: You screw the other end of the rod into the circle. They fit together
+perfectly.
+65583: You can't seem to take it apart.
+65629: You screw the other end of the rod into the wheel. They fit together
+perfectly.
+65691: You can't seem to take it apart.
+65722: The device is assembled already.
+65752: You can't seem to disassemble it in any way.
+65790: The device has been attached to the side of the machine.
+65839: As you turn the device, the machine belches to life. Smoke billows from
+pipes, gears mesh, pulleys turn, and valves open and close frantically.
+
+Then,
+beams of azure light spill forth from holes in the sides of the machine. They
+wash over you, bathing you in iridescence. You feel your mind slipping away,
+into a trance-like state, a stupor, sleep...
+66313: The device is assembled already.
+66343: You can't seem to disassemble it in any way.
+66387: Outside seems much more appealing.
+66417: You step outside into the fading sunlight of a dusky autumn evening.
+Fallen leaves crackle underfoot, and the trees are glorious oranges and
+yellows.
+
+You shake your head: what just happened is unclear. It seems like a
+dream in the last seconds before waking; but you cannot be sure. Images remain
+behind, of ruins tossed aside like blocks, and eternal descending....
+
+Never
+mind, you tell yourself firmly, and set off towards campus. Maybe some of your
+friends are here early.
+66811: At the moment, even the simplest questions confuse you.
+66985: It is now pitch dark. I wouldn't wander around if I were you.
+67035: You stumble down a slope and break your neck!
+67122: Some amusing things to try in OF FORMS UNKNOWN include:
+
+     Going any
+direction but down from the tree.
+     Typing CHEAT or WIN.
+     Using magic
+words, such as XYZZY or PLUGH.
+     Going north from Top of Ruins.
+
+There may
+be others, but they are left as an exercise for the player.
+67375: Summer on a college campus is rarely exciting, and this year is no
+exception. Your fellow students won't be returning for three more weeks, and
+the endless grind of your job at the computer center is not anyone's idea of
+entertainment.
+
+Yesterday was the first of September, and autumn is moving in.
+But the long drag of classes won't start for weeks. Restless would be one way
+to describe your mood; bored sick would be another.
+
+Last night, you had odd
+dreams: a circle, turning endlessly, and carrying you on its back across
+strange lands; yourself grown double, and dueling with cold-blazing swords; and
+others, stranger yet.
+
+Then the alarm went off, and you emerged into another
+mundane day. Maybe something will come along to entertain you....
+67970: There's no score in this game.
+68075: Season:
+68295: is written by Chis Markwyn, and is freely made available to all. It is
+my entry in the 1996 Interactive Fiction Competition.
+ 
+This is a game of
+medium difficulty: clear thought and logical thinking should help you finish it
+succesfully. Unclear thought and illogical thinking may be more fun, but will
+get you nowhere in
+68529: OF FORMS UNKNOWN.
+68555: If you are really stuck, type "help" and you will be given a menu of
+hints to choose from.
+68779: How are you going to do that?
+68806: How are you going to do that?
+68854: How are you going to do that?
+68878: You vent your frustrations.
+68902: Not here.
+69172: Hints have been disabled.
+69202: Hints disabled.
+69227: Once hints are disabled, they cannot be turned on again.
+69268: Help has not been disabled.
+69445: was begun on 24 September 1996, and finished on 14 October. It is
+heavily influenced by, and indebted to, Andrew Plotkin's masterful game SO FAR,
+which I finished on 23 September. Don't, however, expect it to be much like SO
+FAR. In final content, it is far different.
+
+OF FORMS UNKNOWN has a troubled
+design history. Originally, it began as a game trying to emulate SO FAR:
+psychological, allegorical, with a non-traditional plot. However, time
+constraints from schoolwork and other responsibilities and the approaching
+deadline of the contest (despite the several delays of that deadline) didn't
+allow time enough for me to do what I wanted with the plot.
+
+So OF FORMS
+UNKNOWN became a standard solve-the-puzzle game. In places, this gives the game
+a schizophrenic feel, and accounts for the lack of plot or motivation for the
+player. Had I more time, I might have tried to repair the plot and fit it
+better to the new style. But since I already did all the work for the main
+puzzles, I don't want to see it go to waste. Therefore I decided to go ahead
+and enter it in the competition.
+70268: You'll find out.
+70352: Whoops. Time for a new hint section. (No, not a very original puzzle --
+but it moves the game along.)
+70444: TURN ON LIGHT.
+70493: Someone left a key in the gutter.
+70601: Time for a new hint section!
+70640: Go exploring.
+70681: See the question about the alcove.
+70854: Put your objects in the pockets. Then go through the crack.
+71094: A-ha!
+71116: ENTER THE SPHERE.
+71256: Walk towards it.
+71453: TURN THE ROD to lower it down the hole.
+71543: There's not much else to do, besides pick things up.
+71626: See the question about the frame.
+71681: Try SOUTH.
+71764: PULL THE LEVER.
+71826: It's a nice view.
+71882: Well, no, I haven't either.
+72076: Now you can put the device into the groove.
+72163: See the next question.
+72222: Just GO EAST.
+75024: Score:
+75032: Moves:
+75040: Time:
+75048: You can't go that way.
+75148: The catwalks are the only way you can move.
+75180: It's a long way down.
+75196: The ruins are too rough to climb.
+75220: There's no way to go down.
+75240: You wander through the ruins and end up where you started.
+75280: Clutter and mess spread their way across the floor of your smallish room
+in Wall House, just west of the main campus. A door leads south to the hall,
+another west to the closet. Windows face east and north. Your desk sits against
+one wall, next to the north window.
+75468: The window is closed.
+75488: A simple wooden desk, supplied by the generous people of the college. It
+functions as a useful flat surface on which to pile things.
+75628: still runs gamely. You've been working on your paper on it, in between
+playing INFIDEL.
+75696: Your old computer sits on the desk.
+75724: A mirror hangs on the west wall, by the closet door.
+75764: A black -- or is it? The color seems to shift and ripple -- smudge that
+is embedded, somehow, in the glass itself.
+75848: There is something distinctly odd about your image, captured in spun
+glass and light. It looks disconnected from the world behind, as if it did not
+belong; or, perhaps, it is the world that is out of place.
+76076: The window is relatively clean and fully closed.
+76112: You stand, shivering and gingerly balanced, on the roof outside of your
+room. A window to the west leads back inside.
+76196: The only way back is west.
+76216: Your few clothes hang here dejectedly in this walk-in closet, your
+room's only luxury. A bare lightbulb on the ceiling provides light.
+76312: A warm jacket hangs here from a hook.
+76340: Olive green, with lots of pockets, and well-lined.
+76388: The peeling paint on the walls creates a elegant counterpoint to the
+stained greenish carpet. Stairs lead down, and your room is north.
+76484: The front door leads you east and outside, while stairs go up and down.
+76536: You can't bear the thought of facing the outside world yet again.
+76584: Boxes, furniture, and other clutter make this dingy basement
+claustrophobic. Stairs lead up.
+76650: Simple, really. One way is on, the other off.
+76688: There is a light switch next to the stairs.
+76720: A hole: an entrance into nothingness. It gapes, dark and inviting,
+offering just enough space to enter.
+76796: Nothing that's good for anything.
+76820: A chipped wooden door, unpainted and rough.
+76852: A closed wood door blocks your passage.
+76880: The basement door stands ajar.
+76904: Packed with leaves and filth; no-one seems to clean it.
+76948: Metal, with a faded label reading STORAGE ROOM.
+76992: Someone lost a key in the gutter.
+77016: A giant shaft, over fifty feet wide. It stretches up and down beyond the
+limit of vision. The walls glow, somehow, with a soft, pervasive light.
+77120: You cling to the side of a vast shaft that rises and falls beyond sight.
+A narrow ledge is all that keeps you from falling. Narrow catwalks running
+northwest and southwest provide the only egress.
+77256: The ledge here is slightly wider, and a recess in the shaft wall allows
+you some range of motion. Catwalks span the shaft to the south and southeast.
+77360: Rungs embedded in the shaft wall lead up and down. The wall here is
+scarred and pitted. To the north and northeast, catwalks run.
+77452: You climb for a long time, but no more ledges appear. Eventually, the
+rungs disappear, and you are forced to retreat.
+77536: They seem sturdy, embedded as they are in the hard metal of the shaft.
+You tug on one, and it holds.
+77608: The catwalks are made from some transparent, metallic substance. They
+glitter placidly in the soft light that comes from all around. At their widest,
+they are a few feet across; at the narrowest, a mere handspan.
+77760: The ledge is wider than any on the level above; you can almost relax.
+Catwalks lead northeast and east, and rungs lead upwards.
+77852: The edge of this ledge is chipped and scarred; in some places it appears
+almost melted. You can scramble over the catwalks to the southwest and
+southeast.
+77960: Worn metal rungs go downwards here. Catwalks stretch to the northwest
+and west.
+78016: These catwalks are made of dull metal, hard-edged and solid. They
+stretch across the shaft, a uniform two feet in width.
+78104: The rungs lead up and down from this ledge. You can take the catwalks to
+the north and northwest.
+78172: The rungs go down forever, it seems. You tire and climb back to the
+ledge.
+78228: This ledge is the widest you have seen, with nearly enough room to lie
+down on. Catwalks go to the south and southwest.
+78312: The walls of the shaft are scraped smooth here, though unpolished.
+Catwalks lead away both northeast and southeast.
+
+A narrow passage -- not much
+more than a crack -- leads west.
+78440: It's a long way down.
+78456: The catwalks are made from polished marble, and stretch in elegant arcs
+across the depths. They are breathtakingly narrow, perhaps three finger-widths
+across.
+78568: This tiny alcove, not more than a few feet in diameter, is cramped to an
+extreme. You feel almost buried alive. The only exit is a narrow crack running
+east.
+78680: A control panel of some sort is embedded in the west wall.
+78720: The control panel is black and burnt-out.
+78752: The panel has been charred and warped; none of the dials will move.
+78800: You stand on what appears to be the bottom of the shaft. Above, the
+walls stretch to the vanishing point and beyond. There seems to be no way up. A
+wide crack leads west, and a ladder leads down into a hole.
+78948: A dim passageway stretches out of sight to the east. There is a ladder
+here, leading up.
+79012: The passage from the west ends here in a perfectly square room. The
+walls and angles have been worked until they are near-perfect.
+79104: In contrast, a dead black sphere floats dead-center.
+79144: The sphere seems to suck in light. It is absolutely black, as if denying
+the very possibility of light, or brightness, or color.
+79234: Waves crash endlessly against the beach far below as you stand on the
+edge of a cliff, looking out across the steel-gray ocean to the west. Headlands
+stretch to the north along the shore, and a structure of some sort, built of
+great stones, rests on the furthest. A trail winds northerly towards the
+structure, and a treacherous path leads down to the shore.
+
+Birds wheel about,
+overhead the structure.
+79520: Sea gulls, you think.
+79536: The ocean stretches endlessly to the west, always rolling towards you.
+79588: The weeds are tall, and hide the ground around the frame.
+79628: The rod is half an inch in diameter. It has been rusted by wind and
+rain.
+79684: It's a long, narrow shaft that leads as far down as you can see.
+79732: A trail from the southwest ends here at the base of a gently steepening
+hill, rising to the northwest. The top of the ruined structure -- for you can
+now see it is indeed in ruins -- peeks over the top of the hill; the sun glows
+behind it, casting odd shadows across the land.
+79928: Clouds pearl the sky above. The hills continue to the north; on the next
+the ruins loom. A trail winds back downward and southeast.
+80024: The ruins before you stretch towards the sky, but fail. They lie in
+shambled heaps, as if toppled by great tremors, or wrecked by war. Amazingly,
+an archway still stands, beckoning to the northwest.
+80172: They hint at the shape of a fortress; oddly familiar, as if you had seen
+them in a dream.
+80236: Tumbled blocks of stone lie scattered all around, as if left here by
+some careless child. Paths wind through them in many directions, and an arch
+leads out to the southeast.
+80356: A path from the north meets a path from the northeast here. Three
+blocks, stacked in an arch, create a shadowed recess to the south.
+80448: The recess is too small to enter.
+80472: The hole is dark, and only a foot or so wide.
+80504: It is a thin bar of some strange glowing substance; hard to the touch,
+yet flexible. It casts pale light in a ring around you.
+80596: You stand in the middle of an east-west junction. The ruins look
+climbable to the north.
+80660: The path dead-ends here in a cramped cul-de-sac. The only way back is
+west.
+80716: The stone is uneven beneath your feet, and you must steady yourself to
+keep your balance. North, a plain stretches to the horizon, curving west around
+the ocean.
+80828: A coil of rope has been left here on the stone.
+80864: The tips of breakers tickle your toes as you squish through the sand.
+The sun gleams purple-red off the crests of waves. The beach stretches far to
+the south; to the north you can just make out a cave, or hole, in the side of
+the cliff.
+81032: You walk for a while, but don't get much of anywhere.
+81072: The endless ocean stands in your way.
+81100: Darkness filters from the cave before you and casts a pall over this
+sliver of beach. A cliff rises nearly vertical above you.
+81188: Into the cave or south; those are your options.
+81224: Dim light filters in through a narrow crack to the northeast; you just
+might be able to squeeze through. A steady plipping noise echoes from the walls
+around you, and the air is chill and damp.
+
+You can see a glow through the
+crack in the wall.
+81396: A cramped bubble of air in the side of the cliff. A crack in the wall to
+the south provides a way out. Above, a few haggard beams of light trickle down
+from a hole in the ceiling.
+
+A light bar, tied to a rope, dangles through the
+hole above you.
+81568: The hole is at least twenty feet out of your reach.
+81604: It dangles through the hole.
+81628: Impossibly, an opaque window floats here in mid-air.
+81668: A simple wooden frame encloses a sheet of black glass. The glass
+distorts the light, like old stained glass, or oil on a pond.
+81756: A four-lane road, split in two by a wood-and-metal divider, runs
+northeast to southwest here. You stand on the north side, on a narrow strip of
+grass. A grassy field, dotted by trees, lies behind you. The other side of the
+road is bordered by a steep outcrop.
+81940: The road continues on for quite a ways, and you don't get much of
+anywhere.
+81996: The road climbs a steep hill to the southwest. You consider climbing it,
+but turn back.
+82060: Grass and weeds surround you with the dry smell of a summer afternoon.
+Insects buzz and chirp invisibly around you. A road passes by to the south, and
+a tall tree breaks the field just northwest.
+82196: The field runs on forever.
+82216: A wild oak, branches all a-twist, spreads its shade over this small part
+of the field. To the south, a road wends its way through the land.
+82316: The road is back to the south.
+82340: You sit on a wide branch of the oak, some ten or so feet off the ground.
+To the south, you can see the road. It runs to the horizon to the northeast,
+and climbs a hill to the southwest. The field stretches all around.
+82492: You can't climb any higher.
+82512: Down seems more likely.
+82532: Old and wild, the tree stands sturdily amidst the lesser vegetation.
+82580: Fossiliferous limestone, you think. It looks climbable.
+82620: The asphalt is cracked and potholed. Waves of heat shimmer in the
+mid-day sun.
+82676: The divider splits the road in two. The wood has begun to splinter and
+the metal to rust, but it is still sturdy.
+82756: The outcrop is too steep above you.
+82784: Fossiliferous limestone, you think. Your feet slip on the loose rock,
+and you are constantly forced to shift your balance, or fall.
+82876: It's a metal lever, a few inches long and a quarter of an inch wide. It
+seems to be embedded deep in the solid rock of the outcrop.
+82968: The field across the road stretches to the horizon. Trees spread above
+the grass, their branches moving with the wind.
+83052: This small tunnel leads south through damp rock, and north to sunlight.
+83104: A torch burns here on the wall.
+83128: Steps, rudely carved from the stone, lead down. A narrow passage winds
+off to the east.
+83192: A nondescript little room off the main tunnel. The only way out is west.
+83244: Some greasy gel sticks to the walls.
+83272: Thick and opaque, it looks sticky.
+83300: Out of place is the best term to describe this room. A vast machine
+fills most of this high cavern. You can slip around it to the southeast or
+southwest.
+83408: Behind the machine, there is a little more space, and you can breathe
+more easily.
+83468: There is a shallow groove on this side of the machine.
+83508: It's a circle nearly a foot in diameter and a half-inch deep. There is a
+bump in its center.
+83576: It just pokes out of the side of the machine.
+83608: A riot of tubes, wires, gears, pulleys and valves, all thrown together
+as if by some mad mechanic. You have no idea what it's supposed to do, or even
+how it works. You can tell, however, that it no longer functions, for it merely
+squats in the cavern like a carcass.
+83796: A thin wheel, perhaps a foot in diamter, wrought of some light but tough
+metal. Four spokes run from a central hub to the outside.
+83888: The hub is threaded clockwise.
+83912: The spokes radiate from the hub at ninety-degree angles, dividing the
+wheel neatly into quadrants.
+83980: The rod is made of strong steel. Both ends are threaded clockwise.
+84032: This odd device consists of a metal circle (threaded clockwise) from
+which four hinged dowels stretch.
+84104: A solid piece of metal, grooved with threads on the interior.
+84148: Carved from a light-colored wood, and linked to the circle with tiny
+metal hinges.
+84206: A thin wheel, wrought of some light but tough metal. Four spokes run
+from a central hub to the outside.
+
+A steel rod has been screwed into the hub.
+84314: This odd device consists of a metal circle (threaded clockwise) from
+which four hinged dowels stretch.
+
+A steel rod has been screwed into the
+circle.
+84428: The construction consists of a steel rod joining a metal wheel to a
+smaller metal circle. Four dowels descend from the circle to the wheel, where
+they fit into previously unnoticed slots.
+84560: The front door leads you east and outside, while stairs go up and down.
+84612: Yourself; but beyond that, all is unclear.
+84848: That Time will come and take my love away.
+84902: "Help" will give you a menu of topics to choose from, including clues as
+well as general information about the game. (But you should know that already
+if you're reading this.) "Help off" will disable hints for the remainder of the
+game.
+
+"About" or "info" gives a general overview of the game.
+
+"Quotes on" or
+"quotes" will enable the printing of the boxed quotations that pop up every so
+often. "Quotes off" turns them off. By default, they are on.
+85228: Several people deserve to be thanked here: Julian Arnold, Andrew
+Plotkin, and Greg Falcon, who provided me with answers to my naive questions on
+rec.arts.int-fiction; Graham Nelson, for writing such a wonderful program as
+Inform; my girlfriend, Nicole Maxwell, for not making fun of me; and the whole
+crowd on r.a.i-f, who I first encountered three years ago, and kept my love for
+these games alive.
+
+Bugs were reported by Carl Muckenhoupt.
+
+OF FORMS UNKNOWN
+makes use of Graham Nelson's Newmenus.h library module.
+85808: Why don't you ask the game?
+85828: Examine it closely.
+85844: Strange mirror, eh?
+85860: Maybe you could clean off that smudge...
+85892: Interesting. Look at the mirror again.
+85920: The smudge has moved. Try cleaning it again.
+85952: What usually turns on lights in a house?
+85980: There should be a key somewhere.
+86004: Check out the windows in your room.
+86032: Have you looked at the desk?
+86052: There's a gap between it and the wall.
+86080: Maybe there's something behind it.
+86108: Try moving the desk.
+86124: Aha! There's a strange hole.
+86148: Try entering it.
+86160: In a shaft, evidently.
+86180: They seem to demarcate the levels.
+86204: Maybe they do more than that...
+86228: The crack's awfully narrow...
+86252: You can't get through it if you're carrying anything.
+86292: There are two solutions to this puzzle.
+86320: Maybe you could push something through?
+86348: Try ROLLing or PUSHing objects through the crack.
+86388: The other solution has to do with an object from the house.
+86432: It's the jacket.
+86448: Have you noticed its pockets?
+86472: They can hold an awful lot of stuff.
+86500: Have you tried going through the crack while wearing the jacket?
+86544: You can fit!
+86556: Examine the panel.
+86572: Do the dials make you think of anything?
+86600: Do the numbers remind you of anything?
+86628: Three numbers...
+86672: Have you mapped out the shaft accurately?
+86704: The levels are not aligned, you'll notice.
+86736: Perhaps the numbers reflect that somehow.
+86768: They are angles, 120 degrees apart...
+86820: Could you align the levels somehow?
+86848: Try changing the setting on one of the dials.
+86880: Try setting the dial to 0.
+86900: The shaft shakes. What could that mean?
+86932: Try setting all three dials to 0.
+86956: Same thing you do with the other odd things in this game.
+86996: Bundle up!
+87004: Slip into something nice and warm!
+87028: WEAR THE JACKET.
+87048: Might as well go see.
+87064: Don't read on until you've been to the beach.
+87100: There's a dark cave down there, and no way to light it.
+87140: Have you mapped this region thoroughly?
+87208: Have you looked at the base of the frame?
+87240: The weeds conceal a hole.
+87260: What if there were another room in the cave, directly below the frame?
+87312: What if you could lower something down there to light it?
+87352: Have you been to the ruins?
+87372: Have you found the long rope?
+87396: Have you looked in the recess?
+87420: Maybe you could lower the light bar down the hole...
+87460: You could tie it to the long rope.
+87484: You can then tie the long rope to either the rod or the old rope.
+87532: You can wander around.
+87548: You can search the recess.
+87568: That light bar will come in handy.
+87592: Have you found the rope?
+87612: Have you found a light source?
+87636: You can't take the light bar into the cave.
+87668: Maybe you could get it there another way...
+87700: Make sure you look both ways.
+87724: There doesn't seem to be much traffic.
+87752: You can examine it.
+87768: You can climb it.
+87784: You can dig around in it.
+87804: Wow, a lever!
+87816: Any good adventurer knows what to do with one of those.
+87856: You can examine it.
+87872: You can climb it.
+87888: But you can't dig it.
+87904: You can play with the gel.
+87924: It sure is sticky!
+87940: Have you seen anywhere you could use it?
+87968: Have you looked at both sides of the machine?.
+88004: Have you examined the groove?
+88028: Do you have anything that might fit there?
+88060: Strange objects keep appearing in your inventory.
+88096: They must have some purpose.
+88116: Try putting the wheel in the groove.
+88188: You might be able to put the objects together.
+88220: Try screwing the rod to the wheel and the device.
+88256: Now you're getting somewhere! Can you put the new device in the groove?
+88308: No? Did you notice the bump in the middle of the groove?
+88348: Did you try pushing it?
+88368: The groove sinks into the machine. Interesting.
+88404: Have you put the machine in working order?
+88436: Maybe you could do something with the device.
+88468: It is a wheel, after all.
+88488: Try turning it.
+88500: Well, you're back in your house.
+88524: Try moving around.
+88540: A walk outside does sound nice, doesn't it?
+

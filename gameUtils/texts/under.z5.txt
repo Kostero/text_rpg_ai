@@ -1,0 +1,324 @@
+11494: Nothing to do!
+11529: o. You have won
+11787: Please give one of the answers above.
+11818: It is now pitch dark in here!
+11845: I beg your pardon?
+11863: dxn[You can't "undo" what hasn't been done!]
+11905: ehn[Can't "undo" twice in succession. Sorry!]
+11977: Sorry, that can't be corrected.
+12006: Think nothing of it.
+12027: "Oops" can only correct a single word.
+12061: It is pitch dark, and you can't see a thing.
+12112: As good-looking as ever.
+12136: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+12199: You can hardly repeat that.
+12224: You can't begin with a comma.
+12252: You seem to want to talk to someone, but I can't see whom.
+12327: To talk to someone, try "someone, hello" or some such.
+12395: I didn't understand that sentence.
+12465: I didn't understand that number.
+12494: You can't see any such thing.
+12521: You seem to have said too little!
+12550: You aren't holding that!
+12574: You can't use multiple objects with that verb.
+12614: You can only use multiple objects once on a line.
+12654: I'm not sure what "
+12689: You excepted something not included anyway!
+12725: You can only do that to something animate.
+12760: That's not a verb I recognise.
+12790: That's not something you need to refer to in the course of this game.
+12844: You can't see "
+12887: I didn't understand the way that finished.
+12982: Nothing to do!
+12999: There are none at all available!
+13073: Sorry, you can only have one item here. Which exactly?
+14033: Please answer yes or no.
+14059: Are you sure you want to quit?
+14095: Are you sure you want to restart?
+14127: Failed.
+14147: Restore failed.
+14164: Ok.
+14182: Save failed.
+14197: Ok.
+14215: The game file has verified as intact.
+14247: The game file did not verify as intact, and may be corrupted (unless you
+are playing it with a very primitive interpreter which is unable properly to
+perform the test).
+14377: Transcripting is already on.
+14434: Transcripting is already off.
+14483: Score notification on.
+14504: Score notification off.
+14527: You have visited:
+14555: Objects you have handled:
+14580: None.
+14964: You are carrying nothing.
+15013: Taken.
+15024: You are always self-possessed.
+15409: You're carrying too many things already.
+15593: Dropped.
+15703: Removed.
+15792: You can't put something on top of itself.
+15869: You lack the dexterity.
+15950: Done.
+16149: You can't put something inside itself.
+16240: Done.
+16539: Wrahn seem interested.
+16758: You can only get into something freestanding.
+16880: But you aren't in anything at the moment.
+16994: You'll have to say which compass direction to go in.
+17096: You can't go that way.
+17282: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+17384: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+17472: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+17919: But it's dark.
+17936: You find nothing of interest.
+17972: But it's dark.
+18063: You find nothing of interest.
+19233: . Not bad.
+19251: That was a rhetorical question.
+19278: This dangerous act would achieve little.
+19312: Nothing practical results from your prayer.
+19348: The dreadful truth is, this is not a dream.
+19385: That seems unnecessary.
+19408: Keep your mind on the game.
+19433: What a good idea.
+19452: You smell nothing unexpected.
+19479: You hear nothing unexpected.
+19504: You taste nothing unexpected.
+19539: Keep your hands to yourself!
+19564: You feel nothing unexpected.
+19589: If you think that'll help.
+19615: Digging would achieve nothing here.
+19682: You jump on the spot, fruitlessly.
+19715: You would achieve nothing by this.
+19744: There's nothing suitable to drink here.
+19777: But there's no water here to carry.
+19808: Oh, don't apologise.
+19830: Real adventurers do not use such language.
+19865: Quite.
+19876: Violence isn't the answer to this one.
+19909: There's not enough water to swim in.
+19940: There's nothing sensible to swing here.
+20004: You achieve nothing by this.
+20092: You wave, feeling foolish.
+20242: You are unable to.
+20261: Nothing obvious happens.
+20284: That would be less than courteous.
+20322: Is that the best you can think of?
+20351: That's not a direction.
+20374: Not that way you can't.
+20406: Keep your hands to yourself.
+20431: You achieve nothing by this.
+20465: Futile.
+20477: You lack the nerve when it comes to the crucial moment.
+20529: You talk to yourself a while.
+20556: This provokes no reaction.
+20584: There is no reply.
+20603: Nothing is on sale.
+20622: Your singing is abominable.
+20648: I don't think much is to be achieved by that.
+20685: Time passes.
+20700: You aren't feeling especially drowsy.
+33835: Thank you.
+42155: You lean over the edge and try to peer under the bed, but the blood
+rushes to your head and your eyes refuse to focus.
+42243: You find your Ruby Poo underoos.
+42277: You don't find anything else.
+42507: That, or it has something to do with never changing your underwear.
+42986: But, if you want to chance it anyways, then on your head lies the blame.
+43110: No way, go put some underwear on.
+43154: It's stuck to the broom.
+43346: down. A warm glow comes from the toaster.
+43416: They are asleep. Apparently they have built a nest in your toaster.
+43532: Heheheh.
+43550: Why bother?
+43598: It has already been pushed!
+43628: Gently, so as not to wake the fearsome socks, you push down the lever.
+43691: You push down the lever.
+43860: Toast anyone?
+43897: The lever pops up with a cheery snap.
+43959: Toast anyone?
+43990: The socks leap from the toaster in a flash, fastening themselves onto
+your body with their terrible elastic mouths. You struggle mightily in their
+grip, but to no avail. Gradually, the venom from their bite drags you down into
+oblivion.
+44233: No thanks.
+44258: The shoes hop out of the fridge.
+44331: A frantic pounding comes from within the fridge.
+44370: The pounding grows weaker.
+44396: The pounding stops.
+44435: Lacking anything remotely resembling common sense, you down the
+glowstick in one gulp.  A tingling, crawling sensation flutters across your
+skin as the room begins to shrink.  Looking down at your hands, you see them
+twist into hideous claws as fur sprouts from your body. Bursting through the
+roof of your house, you find that you now stand fifty feet tall, a hairy
+monstrosity vaguely resembling a werewolf.  You feel a tickling feeling in your
+throat and cough.  Flame shoots out of your mouth, destroying a nearby home in
+the process.  People point and shout as a terrible anger takes hold of you, and
+you begin to crush and burn the city to the ground.
+     Abruptly, you notice a
+tiny figure looking up at you in horror, and your mind registers the name
+'Cindy.'  You reach down and pick her up screaming.  An idea trickles through
+your chemically deranged brain, and you head for the convenience store where
+you bought the first glowstick.
+     Eight weeks later, after having destroyed
+twelve major cities, thirty-two suburbs, and New Jersey, the two of you build a
+nest out of scrap metal left over from the army vehicles you've destroyed and
+settle down to raise a family.  The rest of the world, having tried every
+weapon known to man and giving you no more than slight indigestion from the
+atomic bombs, realizes that fifty-foot-tall, egg-laying, fire-breathing
+werewolves are just something they're going to have to learn to live with.
+45491: yhm
+As you walk out onto the floor, you step on a sharp, rusty nail. 
+You try to scream, but your jaw has already frozen up, and you quickly succumb
+to tetanus.
+45617: The shoes protect your feet from the various sharp, rusty items.
+45690: You hear a faint knock at the front door, followed by the sounds of it
+opening, and a scream!
+     "Hang on, Cindy! I'm coming!" you shout.
+45814: These items look to be a breeding ground for tetanus. You always meant
+to sweep up down here, but now *sniff* it's too late.
+45918: A moment of silence for your dearly departed broom, please.
+45974: You can't seem to catch it.
+46014: The moth, seeing the delicious looking shirt and pants, makes a beeline
+for the living clothes.  The clothes make a break for the door, but the moth is
+upon them before they can get away.  It darts inside the shirt.  The clothes go
+wild and start beating at themselves, but the moth is apparently eating
+whatever makes them move, for they slow down and crumple to the ground.  A
+rather fat moth flies out, and weaves its way outside, with a final dip in its
+flight as though to say, "Thanks for dinner, buddy!"  You resolve to throw away
+all your mothballs.
+     "W-What was that?" stammers Cindy.
+     "I'll tell you
+on the way to dinner.  Right now, let me finish getting dressed.  It's been a
+long day."
+46574: The moth flutters into the jar.
+46688: The moth flutters around in the jar.
+46726: Moths can't talk.
+46745: Moths can't talk.
+46767: The moth seems suitably impressed.
+46798: You miss.
+46954: You and Cindy walk out to the car, and drive to a nice little Italian
+bistro.  You explain the whole sordid affair to her over garlic bread and wine,
+while waiting for your meal.  You pause periodically to allow her to gasp in
+fear as you tackle the nine-foot killer Underoos, the ravenous mutant shoes,
+the horrible socks, and after embellishing only somewhat, you arrive at the
+point where you rescued her.  She leans forward, gazing into your eyes.
+    
+"My hero." she murmurs, and kisses you gently on the lips.
+     Abruptly, a
+wolf whistle, followed by a crude "Hot Momma!" pipes from between your legs.
+  
+  "That better be my underoos." you think to yourself, heading for the
+bathroom....
+47469: The shoes bolt out into your bedroom.
+47509: The shoes hop into the kitchen.
+47550: The shoes flee into the fridge.
+47581: The shoes hop around in circles.
+47614: The shoes huddle back into the rear of the fridge.
+47658: They hop playfully out of reach.
+47704: They just stink is all.
+47730: The shoes don't respond.
+47824: Isn't that cute?
+47846: The shoes seem suitably impressed.
+47919: They snarl menacingly, and you decide not to risk your hand in the
+attempt.
+48109: You look accusingly at your underoos, but they only belch up a
+Rubbermade sticker.
+48350: Finally, you begin spinning the broom handle over your head, and change
+its momentum into a tremendous blow that hurls the underoos across the room to
+lie still by your bed.
+48482: You have nothing appropriate to attack with.
+48522: The underoos don't respond.
+48549: The underoos just growl at you.
+48581: The underoos just growl at you.
+48664: Wheoweo! Wanh WANH Wanh!
+48798: Where are your socks?
+48822: The suit doesn't respond.
+48847: The suit doesn't say much.
+48941: The suit ignores you.
+48962: This is Cindy, your girlfriend.
+48998: She is currently being held captive by your shirt and pants.
+49056: Cindy is here, looking grateful.
+49102: Much as you long to press your lips against her full red counterparts,
+getting that close right now might incite the shirt to kill her.
+49242: She seems happy to see you.
+49324: My hero." she murmurs in your ear.
+49358: Inflamed with desire, you crush her against yourself, and the two of you
+raise the temperature in the room with your passion. Gasping, she pulls out of
+the kiss and looks you in the eye. "We don't really HAVE to go out tonight, do
+we?"
+     Picking her up and carrying her towards the bedroom is all the answer
+she needs.  A pity that all your efforts getting dressed are going to be wasted
+though.
+49654: She seems distracted.
+49675: Cindy has never been much for words.
+49709: She seems distracted.
+49730: No way, she's your girlfriend!
+49764: osnctrd,
+
+Yesterday, as you were walking through Central Park, a
+meteorite crashed nearby, bathing you in cosmic radiation.  It only made the
+twelth page of the paper, under Dear Abby.  Of course, if anyone could have
+foreseen the awful effects of that accident, it surely would have been a front
+page story.  But there was no way for you, or anyone else, to predict that the
+result of that accident would be....
+50068: You walked into the slavering fangs of a lurking sock.
+50489: You can't spray that!
+50900: Dirty Mutant.
+50917: Shoeless Kong.
+50934: Gamera Wearing Matching Socks.
+50963: Well Groomed Werewolf.
+50986: Fashion Hound of the Baskervilles.
+51017: Sharp Dressed Mothra.
+51040: Easter Egg Godzilla.
+51067: Dirty Underwear.
+51086: Shoeless Joe.
+51103: Color Coordinated.
+51122: Well Groomed.
+51139: Fashion Hound.
+51156: Sharp Dressed Man.
+51177: Easter Egg Guru.
+51195: Plus, you found the secret ending!
+53528: The Underoos That Ate New York!
+53820: Score:
+53828: Moves:
+53836: Time:
+53844: You can't go that way.
+54096: To the east is a hallway, that, as you even more fuzzily recall, leads
+to the kitchen.
+54160: This is your bed.
+54320: Naaah.
+54328: It's just a closet door.
+54348: Assorted, but unimportant.
+54412: This particular ki' chun has a toaster, a fridge, a hallway leading
+west, a dark passageway leading down into the cellar, and a hallway leading
+north to the entryway of your home.
+54540: There is a broom leaning against the counter.
+54582: There is a rubbermade sticker on the end of it, near the bristles.
+54778: I wouldn't wake those socks up if I were you....
+54994: Probably toxic as can be, too.
+55284: The moth flutters around your glowstick, seeming to like it quite a bit.
+55336: A moth flutters around.
+55458: The front door leads north. The kitchen lies south.
+55544: The exit lies back to the east.
+55616: Worse yet, they stink something fierce.
+55648: Your shoes are here, hopping about and smelling terribly.
+55688: Your relationship with your underoos may never be the same, but at least
+you can wear them again.
+56106: Watch out world!
+56120: Ordinary old socks, now that you've vanquished them.
+56170: They must've suffocated in the fridge. Oh well, they're wearable once
+more, at any rate!
+56236: Your shirt and pants are here, holding Cindy hostage with a knife.
+56284: Your shirt and pants are here, holding Cindy hostage with a knife.
+56344: Damn, when did clothes figure out the difference between a butter knife
+and a butcher knife?
+56412: Your shirt, recently disarmed.
+56440: Your pants, recently disarmed.
+56478: You are likely to be eaten by a sock.
+

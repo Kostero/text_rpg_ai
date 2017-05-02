@@ -1,0 +1,573 @@
+22109: Nothing to do!
+22144: o. You have won
+22228: It is now pitch dark in here!
+22321: Sorry, that can't be corrected.
+22405: As good-looking as ever.
+22439: You can hardly repeat that.
+22466: You can't begin with a comma.
+22593: You can't see any such thing.
+22631: You aren't holding that!
+22675: I'm not sure what "
+22727: That's not a verb I recognise.
+22880: Nothing to do!
+23799: Please answer yes or no.
+23827: Are you sure you want to quit?
+23876: Failed.
+23919: Ok.
+23941: Save failed.
+23958: Ok.
+24008: Transcripting is already on.
+24078: Transcripting is already off.
+24138: Score notification on.
+24163: Score notification off.
+24184: ep.
+You have visited:
+24220: Objects you have handled:
+24247: None.
+24645: You are carrying nothing.
+24706: Taken.
+24717: You are always self-possessed.
+25331: Dropped.
+25399: fme kyp.
+But they aren't
+25455: Removed.
+25598: You lack the dexterity.
+25689: Done.
+25971: Done.
+26204: Wrahn seem interested.
+26855: You can't go that way.
+27140: avkjz    i.
+On
+27497: You find nothing of interest.
+27630: You find nothing of interest.
+27786: dme kyo.
+They don't
+27944: dme kyo.
+They don't
+28342: kyo.
+They seem
+28813: . Not bad.
+28833: That was a rhetorical question.
+28897: That seems unnecessary.
+28922: Keep your mind on the game.
+28972: You smell nothing unexpected.
+29001: You hear nothing unexpected.
+29030: You taste nothing unexpected.
+29067: Keep your hands to yourself!
+29094: You feel nothing unexpected.
+29121: If you think that'll help.
+29248: Oh, don't apologise.
+29284: Quite.
+29367: You achieve nothing by this.
+29467: You wave, feeling foolish.
+29584: kyo.
+Those are
+29647: Nothing obvious happens.
+29701: That's not a direction.
+29726: Not that way you can't.
+29762: Keep your hands to yourself.
+29789: You achieve nothing by this.
+29826: Futile.
+29859: You talk to yourself a while.
+29886: This provokes no reaction.
+29962: Your singing is abominable.
+31997: [Advanced to "noun" token:
+47817: " of "
+47856: " list of "
+47938: " has no "time_left" property
+47968: The object "
+48028: The room "
+48042: " has no "description" property
+58473: Trace off.
+59271: Nothing is in scope.
+59407: Wide Awake.
+59424: Lucid.
+59435: Having Doubts.
+59452: Starting To Wonder.
+59473: Happy To Be Here.
+59490: Expendable.
+59534: You don't see that here.
+59798: You can't go that way.
+60587: he's not stirring at all. Maybe
+61253: You already did.
+61380: You're not holding it.
+61464: You're not holding it.
+62666: . That'll be $75."
+62982: It's white.
+63062: You don't need to any more.
+63320: It's just a chair.
+63398: It's just a desk.
+63550: You don't have $75.
+63669: See.
+63855: . That'll be $75."
+64088: You already did that.
+64241: It is empty.
+64307: It's too heavy to carry.
+64480: All there is is garbage.
+64505: There's way too much to carry.
+64550: Don't.
+64721: The call is quite loud now...
+64757: You're getting a call...
+64810: You're not holding that.
+64841: There's none left.
+64972: "Whatta YOU want?"
+65459: "Get outta my store."
+65572: You got $200 worth a stuff?"
+65614: . Worth $75 on any city street.
+65958: He smiles.
+66021: "Sorry, that's mine."
+66372: You kill everyone in the bank.
+66400: You already shot everyone.
+66583: There's a gun in it.
+66602: It's empty.
+66678: Jteucrjvcxn
+Simple as that.
+66731: You don't have a gun.
+66878: Bang. That was fun.
+66897: Bang.
+67122: You don't have any money.
+67156: The slot is just a hole.
+67289: You don't have to go right now.
+67322: No.
+67655: It's just a door.
+67774: You already did.
+67878: The lid is down.
+68274: You lift the toilet seat lid.
+68297: The lid is already up.
+68526: Keep wishing.
+68546: You can't push that.
+68566: You can't read that.
+68586: You can't sanctify that.
+68610: This can't be helped.
+68630: No hints here.
+68646: You can't write on that.
+68679: You miss.
+68715: You miss.
+68730: You can't map this.
+68750: You can't hide under that.
+68962: That reveals nothing.
+68982: You're not tired.
+69002: Wuss.
+69058: You can't pull that down.
+69158: You can't fire that.
+69216: You can't fly here.
+69257: You're landed.
+69272: There's nowhere to land.
+69302: Don't put that in your mouth.
+69406: Don't kick that.
+69422: You can't make that from that.
+69450: You can't roll that up.
+69474: You can't unroll that.
+69512: You can't raise that.
+69534: I don't really want to do that.
+69562: You can't hold that down.
+69590: You can't hold that up.
+69611: You don't have a gun.
+69634: You can't release that.
+69762: That's not worth anything.
+69901: You don't have to right now.
+69938: You can't tip that over.
+69981: You don't owe anything.
+72915: in" or "notin
+72931: opmhas" or "hasnt
+73073: }" at end of "objectloop
+75216: Score:
+75224: Moves:
+75232: Time:
+75238: You can't go that way.
+75482: [Your interpreter does not provide "undo".  Sorry!]
+75572: Please give one of the answers above.
+75600: [You can't "undo" what hasn't been done!]
+75638: [Can't "undo" twice in succession. Sorry!]
+75678: "Oops" can only correct a single word.
+75710: It is pitch dark, and you can't see a thing.
+75746: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+75808: You seem to want to talk to someone, but I can't see whom.
+75852: To talk to someone, try "someone, hello" or some such.
+75894: I didn't understand that sentence.
+75956: I didn't understand that number.
+75982: You seem to have said too little!
+76010: You can't use multiple objects with that verb.
+76046: You can only use multiple objects once on a line.
+76084: You excepted something not included anyway!
+76116: You can only do that to something animate.
+76148: That's not something you need to refer to in the course of this game.
+76198: I didn't understand the way that finished.
+76232: There are none at all available!
+76256: Sorry, you can only have one item here. Which exactly?
+76412: Are you sure you want to restart?
+76438: The game file has verified as intact.
+76468: The game file did not verify as intact, and may be corrupt.
+76512: Attempt to begin transcript failed.
+76538: Attempt to end transcript failed.
+76568: You're carrying too many things already.
+76598: You can't put something on top of itself.
+76632: You can't put something inside itself.
+76662: That would scarcely empty anything.
+76720: You can only get into something free-standing.
+76754: But you aren't in anything at the moment.
+76812: You'll have to say which compass direction to go in.
+76852: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+76948: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+77032: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+77120: Darkness, noun.  An absence of light to see by.
+77208: This dangerous act would achieve little.
+77238: Nothing practical results from your prayer.
+77272: The dreadful truth is, this is not a dream.
+77304: Digging would achieve nothing here.
+77330: You jump on the spot, fruitlessly.
+77358: You would achieve nothing by this.
+77386: There's nothing suitable to drink here.
+77418: But there's no water here to carry.
+77448: Real adventurers do not use such language.
+77480: Violence isn't the answer to this one.
+77510: There's not enough water to swim in.
+77540: There's nothing sensible to swing here.
+77570: That would be less than courteous.
+77598: Is that the best you can think of?
+77626: You lack the nerve when it comes to the crucial moment.
+77668: I don't think much is to be achieved by that.
+77702: You just sit here and wait for something that's not gonna happen until
+you do it.
+77762: You aren't feeling especially drowsy.
+78114: Best choices are all from the same group.
+78316: Try typing "showverb" and then the name of a verb.
+78388: Property value not routine or string: "
+78416: Entry in property list not routine or string: "
+78536: " can only be used as a player object if it has the "number" property
+78798: You're sitting at a desk in a crowded classroom. You have no idea what
+class this is, and you have no books, paper, pens or anything.
+
+All you're
+wearing is a t-shirt that you can't pull down far enough. No one seems to
+notice.
+78970: The theory of dying in your sleep causing death in real life is still
+unproven. Well, it's true.
+79156: There's nothing but a blurry void in that direction.
+79216: "Hey!" The driver shouts. "Wake up!" 
+
+You shake yourself awake and find
+yourself looking at a scruffy guy with a cigar in his mouth sitting in the
+driver's seat of the taxi. You look yourself over. You have all your clothes
+on. You don't know if you really screamed, but you don't care to ask either.
+
+
+The driver arches his eyebrows. "You UP now? The fair's $9.00. I ain't got
+all day."
+79510: You're sitting in a taxi with an impatient, cigar-smoking driver.
+79598: The driver looks at you again. "Well go on, get outta my cab! I got more
+fairs to get!"
+79666: You grab your bag and get out of the cab. As you do,
+79708: the driver says, "Hope you ain't plannin on doin nuthin for the rest of
+your young life after visitin this place!" He starts laughing as he pulls away.
+79816: He's scruffy-faced and smoking a cigar.
+79856: It's a black leather bag.
+79882: It's open to the want ads. One of the listings is circled. It says: 
+
+  
+              RESEARCH PARTICIPANTS
+
+    Volunteers needed to participate in
+experiment at
+80020: . Will be compensated 
+    for time and regarding expenses. Please call
+
+    333-3333 for details.
+80100: Dear Participant, 
+
+    Thank you for your expressed interest in our
+research study. This letter 
+    is just to reiterate what we discussed in our
+phone conversation. 
+
+    The experiment will include multiple subjects, and
+will involve induced 
+    sleep and monitoring of brain waves over an
+approximate three hour 
+    period. Our goal is to prove the possibility of
+shared dream experiences, 
+    hence the need for multiple test subjects. You
+will be assigned a bed in 
+    in the laboratory alongside the other
+participants, and given a dosage of 
+    a substance which will quickly induce
+sleep. You will each have the 
+    approximated time frame to find one or all
+of the other participants in 
+    your dream. You will all exchange notes upon
+awakening. If any are equal, 
+    the experiment will be a success. 
+
+    The
+experiment will be conducted at
+80862: You take the ten out of your bag and hand it to the driver.
+80906: You pick up the ten and hand it to the driver.
+80944: He doesn't offer you any change. You probably shouldn't bother.
+81038: You stayed up all night to prepare yourself for today. It didn't figure
+you'd be able to get through it on a full night's sleep, so knocking out in the
+cab was expected. Good thing you didn't do your own driving.
+81192: The street is north, and east of here is a grove of what look like
+orange trees.
+81248: The building is southwest. That's why you're here.
+81324: to be able to enter the facility and finish the game. Sorry bout that.
+:-(
+81378: You're in a huge, fenced-in grove of trees east of the institute. Some
+two hundred orange trees are rooted here, all arranged in perfect rows and
+columns. Out of season, however, the oranges aren't ripe for picking. It is
+nice here, though. The only usable trail exits west.
+81576: There's a carving on the center most tree.
+81606: There's a carving on it.
+81640: is a big vending machine. There's a coin slot and
+81712: . There's a sign on it which reads:
+82102: !!" 
+
+Everybody starts chasing you and laughing at you, trying to poke
+and prod you in your underwear. You run down the street as fast as you can, but
+you can't get away from them. You turn the corner and run down another street.
+There's a whole bunch of people coming from that direction too, laughing and
+pointing at you. You stop and turn around. The first group is right there.
+
+
+You curl up into a little ball on the sidewalk. 
+
+"Aaaahhhaaaa!!!
+Aaaaahhhaaaaaa!!!" They're right in your ear. "Ooooohhhoooo!!" You try to plug
+them. They start poking you and pulling on your shirt. "Heeeyyy, little
+82684: And short. It goes down just past your belly button.
+82722: You pull down one side and the other side goes up.
+82760: That would be stupid considering your situation.
+82860: You're sitting in a crowded classroom with no books, paper, pens, or
+pencils. All you're wearing is a t-shirt.
+82942: You're standing in a classroom with just a t-shirt on.
+82988: Your face is red and the exit is east.
+83016: The bell rings. Everyone gets up and heads for the door. No one says a
+word to you or even looks your way.
+83092: Trying to keep yourself covered, you get out of the chair and head for
+the door. You wonder why everyone's being so polite pretending you're not
+naked.
+83228: The hard floor is kind of cold and your bare heels thump.
+83268: Glass doors to the north lead outside.
+83296: You're standing on a unrecognizable city sidewalk. You may have once
+lived around here, but it's not quite the same right now. The door you just
+walked out of is now a brick wall with an advertisement painted on it. The
+sidewalk continues east. To the west is nothing but a blurry void.
+83498: There's no reason for you to go anywhere with no underwear on now.
+83548: There's a brick wall with an advertisement there.
+83584: It's a picture of a gleeming teeth guy smiling and waving. Across the
+bottom are musical notes, and words in big blue letters: 
+
+      No matter what
+ya wanna do, Chemical thirst is good for you...
+83728: A man is standing at a mobile cart that has steam coming out from under
+a closed metal lid. He's wearing an apron and holding
+83816: He smiles at your approach. 
+
+"So, what shall it be? Panties, or
+skivvies?"
+83992: . You make a frantic grab for them, but the salesman yanks them out of
+your reach. "Whoa there,
+84062: "Sorry? Didn't catch that. Was that 'panties' or 'skivvies'?"
+84116: This is a busy intersection, with all kinds of people standing and
+walking by.
+84172: No one's saying anything to you or even staring.
+84208: To the south is a small store with no windows, just a glass door with a
+sign on the inside. Another building is across the street to the east, casting
+a shadow on the northern sidewalk.
+84362: There's a garbage can on the corner next to the traffic light pole.
+84414: It's the same rusty, metal mesh garbage can you'd see on any city
+sidewalk. It's
+84476: been tipped over. The garbage is spilled all over the sidewalk.
+84520: It looks like garbage, smells like garbage and feels like garbage.
+84568: You tip the garbage can over. All the garbage spills onto the sidewalk,
+including a full, unopened
+84640: . A rat was also in there. It scurries away and into a runoff in the
+curb.
+84694: You push the can and it slides across the pavement a few inches.
+84742: How are you going to do that exactly?
+84772: It's tipped over. All the garbage is on the sidewalk.
+84812: It's about half full. With garbage.
+84844: It looks like garbage, smells like garbage, feels like garbage, and
+sounds like garbage.
+84948: near the bottom. It falls down deeper into the can.
+85016: Your bladder bursts. Your insides fill with undigested cranberry juice
+and homeless blood. It takes a long time, but eventually you die.
+85114: You don't care about anything else anymore...
+85152: Your ears are ringing and your eyes are yellow...
+85190: You're not really thirsty right now.
+85220: You drink the whole bottle down at once. You're thirst is quenched.
+85270: You reach way into the can, and a rat jumps out from underneath the
+garbage and tries to bite your hand. You yank it back.
+85358: This is a little shop with pants all over the shelves, hanging on racks,
+and under the glass counter.
+85432: A man is standing behind the counter.
+85462: The proprietor looks you up and down.
+85494: "Hey! Who're you comin in here with no shoes on?! Go on, get outta
+here!"
+85554: "YOU again?! Go on, get outta here! Don't come back till you put some
+shoes on!"
+85620: "They cost $200 a pair. Or equal trade."
+85656: "Hey! Whattaya think YOU'RE doin? You buy em or trade for em, see?"
+85712: . "You wanna sell that or trade it for somethin?"
+85748: "I'll give ya 75 dollars for this. Deal?"
+
+>
+85788: He opens a drawer behind the counter and hands you a $75 bill. "Okay,
+here's your money. Now get outta my store."
+85900: "This gun's worth about 75 dollars. That'll get ya about two thirds of a
+leg on a pair a pants. Deal?"
+
+>
+85982: He opens a drawer pulls out a pair of scissors, then takes a pair of
+pants off the wall behind him and cuts off most of one of the legs. "Okay,
+here's your pant leg. Now get outta my store."
+86120: "That ain't worth nothin in my store."
+86150: You hand the proprietor the gun. He looks it over, checking the balance
+and sight line. He looks up at you.
+86230: He hands the gun back to you. "Fine. Take it. And get outta my store."
+86354: He's standing behind the counter. You can only see him from the waist
+up, but he looks pretty normal.
+86432: One pair a pants for $200 or equal trade. No bargains.
+86476: "My name's Legs. You got a problem with that? If so, get outta my store
+right now."
+86540: "I buy stuff, trade for stuff, and sell pants."
+86620: . "Yeah, well, you haven't told what you want yet. Panties, or
+skivvies?"
+86676: from you and holds it up to the sun, front and back. Then he looks at
+you. "That'll do it. Here ya go." He puts the bill in his apron pocket and
+hands you the
+86792: . Then he packs up his stand and pushes it away on down the sidewalk.
+86860: It's a cut-off two thirds of a pant leg. Worth $75 on any city street.
+86916: The underwear salesman takes the partial pant leg from you and holds it
+up to the sun, front and back. Then he looks at you. "The heck am I supposed to
+do with this?" He hands it back to you.
+87054: To the south of this cold sidewalk is a building with big letters
+painted on the window: 
+
+     -- 75 DOLLARS -- 
+
+There's a garbage can across
+the street to the west, and a pleasant park is east.
+87208: He's wearing a skull stretched around his head, and can seeee you
+looking at him.
+87268: Though his eyes are not injured, he appears blind, as they aren't
+focused on anything. He's holding a skull in his lap.
+87354: His head shifts slightly and he smiles. "Oh, hello strangers."
+87404: The beggar seems pleased you asked. "Oh, yes. This is wonderful. Watch."
+He stretches the skull like rubber and slips it over his head. 
+
+His features
+start to change. In a few seconds he looks 50 years younger, and no longer
+blind. 
+
+He widens his eyes with his fingers and blinks. "I can seeeee youuu...
+I can seeeee youuu...."
+87650: "I can seeee youuu... I can seeee youuu...."
+87690: "I can seeee youuu... I can seeee youuu...."
+87812: You stretch the skull like rubber and slip it over your head.
+87864: This is a bank. The tellers are east, and southwest is a stairway going
+up to the next floor.
+87936: A security guard sitting on a chair near the door is asleep on his hand.
+87986: He's an old, fat guard, sitting on a chair near the door. He's a asleep
+on his hand, and his gun holster isn't snapped.
+88084: Strapped to the guard's belt is a holster.
+88158: The guard dies in his sleep and evaporates into thin air. You won't be
+so lucky.
+88218: You shoot the bulletproof glass. The bullet bounces back and goes in
+your right eye.
+88282: You fire the gun at the teller. The bullet bounces off the bulletproof
+teller-window glass and goes in your left eye.
+88368: You shoot the salesman in the stomach. He looks down at the bullet hole.
+He looks up at you. "You can shoot me all you want. You ain't getting these
+underpants till I get my $75."
+88502: You shoot the proprietor in the chest. He looks down at the bullet hole.
+He looks up at you. "You gonna buy some pants or what?"
+88598: You shoot the host in the smile. It goes away, along with the rest of
+him. The hostess screams. The crowd applauds. You won the game. Choose your
+prize.
+88714: You shoot the gun point blank at the beggar. His body twists out of the
+line of fire instantaneously, then he smiles. "Nice try, Junior. But you ain't
+gettin this skull."
+88840: In a fit of depression your raise the gun underneath your chin, close
+your eyes, and pull the trigger. You notice no change. That's because you
+notice nothing in the universe at all anymore.
+88976: There's a bored looking woman standing behind the window. Next to her
+89070: It looks just like a teller window. It doesn't have a hole to speak
+through, though. She must really hear well.
+89154: She looks bored standing there next to all those $75 bills and that
+really valuable computer.
+89224: She shouts, "SORRY?! DIDN'T CATCH THAT!"
+89288: There's a whole stack of them. Right next to the bored woman who really
+isn't paying very much attention to what's going on around her.
+89384: The window is between you and the money.
+89414: You're on the roof of a huge skyscraper. The building sways back and
+forth in the heavy wind. It could fall down any second.
+89506: You look down. The ground far below you gets closer and closer as the
+skyscraper falls over. You have a heart attack and die.
+89598: There's a slot for, you guess, inserting coins.
+89740: This is a very pleasant park with trees, benches, children playing, and
+people jogging on a jogger's track. The bank is west, and there are public
+bathrooms to the southeast if you have to go.
+89878: A guy wearing brown pants with holes all over them is walking into the
+restroom jingling something in his pocket.
+89958: You're plenty tired and thirsty already.
+89990: You jog a few laps around the track. When you're done, you're sweaty and
+thirsty.
+90052: It's a pleasant jogging track with joggers jogging around it.
+90096: You can't just stand on a track full of pleasant joggers.
+90148: You walk into the public restroom. On the east side of the room are
+three doors that say "Door Number One" (northeast), "Door Number Two" (east),
+and "Door Number Three" (southeast). The exit to the park is northwest.
+90314: A man with a microphone and plastic smile is standing in front of the
+doors. He gestures toward you. "And heeeeeere's our next contestaaant!" You
+hear a crowd applauding and try to pull your shirt down. 
+
+A woman with
+sparkley teeth and a glitter dress grabs you by the arm and brings you over to
+stand next to the emcee. She hands you a card with a numbered list on it. She
+squeaks, "And heeeere are your answerrrs! Good luu-uck!" You tell her you just
+want to use the bathroom but she walks away.
+90672: This is a pleasant public restroom, with three stalls on the east side.
+90724: He's got microphone and a plastic smile.
+90754: The host blocks your way. "Hooooo! You can't choose a prize till you've
+won the gaaaame!
+90824: What is the most fearsome predator of Itsy-Bitsy Spider?!"
+90868: How many sides on a seven-sided triangle?!"
+90900: What is behind Door Number Four?!"
+90928: What was the correct answer to question number one?!"
+90968: What is the manufacturer's name on your answer card?!"
+91008: What will happen if you can never answer one of my questions?!"
+91056: How does your bladder feel right now?!"
+91086: He's had enough. You won the game.
+91116: You tag the host on the chin. He's crashes against the wall and drops
+his microphone. He slides down the wall and ends up on his butt, cross-eyed and
+still smiling.
+91234: She poses and smiles at you the exact same way she poses and smiles to
+every single other person she ever sees.
+91348: There's an ebony toilet in this room, with a seat heater, fluffy cover,
+and a brass flusher.
+91416: You pee. Your eyes start watering wonderfully. This is the greatest
+feeling you've ever felt in your whole entire life. You go and go and go and
+go. 
+
+When you're done and can see better, you notice a glint on the floor
+under the stall divider.
+91590: You get closer, and see that it's a quarter.
+91628: It's an ebony toilet with a soft, heated seat, a fluffy lid cover, and a
+brass flusher.
+91728: It's a quarter.
+91742: You drop the quarter in the machine, and it spits out a pair of tap
+shoes just your size.
+91808: You drop the quarter in the machine, and it spits out a pair of tap
+shoes just your size.
+91872: You don't have anything to shoot.
+91898: You don't have anything to shoot.
+91926: You'll have to do that yourself.
+91954: You'll have to do better than that.
+91984: You raise your hand. No one calls on you.
+92016: You like to think you're a decent person. Find someplace appropriate.
+92068: You have absolutely no reason to do that now.
+

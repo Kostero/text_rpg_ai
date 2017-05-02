@@ -1,0 +1,247 @@
+11665: Nothing to do!
+11700: o. You have won
+11784: It is now pitch dark in here!
+11811: I beg your pardon?
+11875: Sorry, that can't be corrected.
+11904: Think nothing of it.
+11957: As good-looking as ever.
+11989: You can hardly repeat that.
+12014: You can't begin with a comma.
+12128: I didn't understand that number.
+12175: You aren't holding that!
+12272: That's not a verb I recognise.
+12311: You can't see "
+12422: Nothing to do!
+12439: There are none at all available!
+13368: Please answer yes or no.
+13394: Are you sure you want to quit?
+13439: Failed.
+13459: Restore failed.
+13476: Ok.
+13494: Save failed.
+13509: Ok.
+13553: Transcripting is already on.
+13619: Transcripting is already off.
+13677: Score notification on.
+13698: Score notification off.
+13721: You have visited:
+13749: Objects you have handled:
+13774: None.
+14160: You are carrying nothing.
+14209: Taken.
+14220: You are always self-possessed.
+14867: Dropped.
+15013: Removed.
+15152: You lack the dexterity.
+15233: Done.
+15499: Done.
+15738: Wrahn seem interested.
+16529: You can't go that way.
+17204: But it's dark.
+17221: You find nothing of interest.
+17257: But it's dark.
+17377: You find nothing of interest.
+18658: . Not bad.
+18676: That was a rhetorical question.
+18730: That seems unnecessary.
+18753: Keep your mind on the game.
+18778: What a good idea.
+18797: You smell nothing unexpected.
+18824: You hear nothing unexpected.
+18849: You taste nothing unexpected.
+18884: Keep your hands to yourself!
+18909: You feel nothing unexpected.
+18934: If you think that'll help.
+19043: Oh, don't apologise.
+19064: Oh my.
+19075: Quite.
+19144: You achieve nothing by this.
+19232: You wave, feeling foolish.
+19401: You are unable to.
+19420: Nothing obvious happens.
+19470: That's not a direction.
+19493: Not that way you can't.
+19525: Keep your hands to yourself.
+19550: You achieve nothing by this.
+19583: Futile.
+19612: You talk to yourself a while.
+19639: This provokes no reaction.
+19667: There is no reply.
+19686: Nothing is on sale.
+19705: Your singing is abominable.
+19739: Time passes.
+22728: [Advanced to "noun" token:
+48109: " of "
+48148: " list of "
+48229: " has no "time_left" property
+48259: The object "
+48319: The room "
+48333: " has no "description" property
+67345: Trace off.
+68523: Nothing is in scope.
+68814: "Scruffy don't care."
+68933: "Scruffy don't know nothin'."
+71507: in" or "notin
+71523: opmhas" or "hasnt
+71665: }" at end of "objectloop
+73844: Score:
+73852: Moves:
+73860: Time:
+73868: You can't go that way.
+74200: Please give one of the answers above.
+74228: [You can't "undo" what hasn't been done!]
+74264: [Can't "undo" twice in succession. Sorry!]
+74304: "Oops" can only correct a single word.
+74332: It is pitch dark, and you can't see a thing.
+74364: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+74424: You seem to want to talk to someone, but I can't see whom.
+74468: To talk to someone, try "someone, hello" or some such.
+74508: I didn't understand that sentence.
+74568: That thing is either not in the area, or does not need to be referred
+to.
+74620: You seem to have said too little!
+74644: You can't use multiple objects with that verb.
+74680: You can only use multiple objects once on a line.
+74716: You excepted something not included anyway!
+74748: You can only do that to something animate.
+74780: That's not something you need to refer to in the course of this game.
+74828: I didn't understand the way that finished.
+74860: Sorry, you can only have one item here. Which exactly?
+75012: Are you sure you want to restart?
+75036: The game file has verified as intact.
+75064: The game file did not verify as intact, and may be corrupt.
+75108: Attempt to begin transcript failed.
+75136: Attempt to end transcript failed.
+75160: You're carrying too many things already.
+75192: You can't put something on top of itself.
+75224: You can't put something inside itself.
+75252: That would scarcely empty anything.
+75308: You can only get into something free-standing.
+75344: But you aren't in anything at the moment.
+75376: You'll have to say which compass direction to go in.
+75416: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+75512: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+75596: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+75772: This dangerous act would achieve little.
+75800: Nothing practical results from your prayer.
+75832: The dreadful truth is, this is not a dream.
+75864: Digging would achieve nothing here.
+75892: You jump on the spot, fruitlessly.
+75920: You would achieve nothing by this.
+75944: There's nothing suitable to drink here.
+75972: But there's no water here to carry.
+76000: You briefly feel rage... but you choose not to act on it.
+76044: There's not enough water to swim in.
+76072: There's nothing sensible to swing here.
+76100: That would be less than courteous.
+76124: Is that the best you can think of?
+76148: You lack the nerve when it comes to the crucial moment.
+76188: I don't think much is to be achieved by that.
+76220: You aren't feeling especially drowsy.
+76570: Best choices are all from the same group.
+76772: Try typing "showverb" and then the name of a verb.
+76840: Property value not routine or string: "
+76868: Entry in property list not routine or string: "
+76988: " can only be used as a player object if it has the "number" property
+77250: *** WELCOME TO THE ROBODUDE INTERFACE ***
+
+You will be updated to the
+Main Robodude Computer in: YOU WILL NEVER BE UPDATED
+
+Incoming message: Listen
+kid, whether you can hear this or not, I don't know. Nor do I care. You've
+failed as a Robodude unit. The kids won't play with you. So you're useless. And
+you know what a useless Robodude becomes, don't you?
+77568: VISUAL REPORT: This seems to be a cleared area within the huge mounds of
+scrap metal where the new roboduds are thrown into. The scrap metal mounds
+continue to the north while to the east a "settlement" of broken roboduds has
+formed.
+77736: Massive walls of discarded roboduds prevent your passage.
+77776: The scrap metal here has a rusted, dilapitated look to it. Because the
+metal used in RoboDudes is easily malleable, most of it is in sheets. It
+surrounds you in huge piles which prevent you from seeing the outside world...
+if such a thing exists.
+77952: The door looks impossible to penetrate, but there is a tiny opening at
+the left side of it which looks like a keyhole.
+78036: The northeast passage is blocked by a huge iron door.
+78076: There is a passage to the northeast where a door once stood.
+78120: VISUAL REPORT: The scrap metal has been piled into a large mountainous
+structure. Bits and pieces of discarded roboduds lie scattered across the area.
+You swear you can hear the electronic wane of discarded roboduds amidst the
+metal.
+78288: Massive walls of discarded roboduds prevent your passage.
+78328: The mountain stretches as far as your visual units can detect; it seems
+majestic in a hopeless sort of way. As you look only halfway up the mountain
+you see corpses of roboduds who have tried to climb the mountain--and have
+failed.
+78488: ITEM REPORT: A discarded RoboDude pamphlet lies amidst the dirt.
+78940: VISUAL REPORT: An entrance to the dilapidated village faces you now. The
+architecture seems vaguely similar to that of the Old West, except with
+metallic alloy buildings instead of wood ones. The difference is minute.
+79100: The entrance says, in shakily written letters, "Rusty Robot Repository".
+79156: The buildings are poorly constructed; some have fallen over while others
+have burn marks on them, for some unknown reason.
+79244: VISUAL REPORT: He seems to be the Viking model of RoboDudes, with what
+seems to be an axe attached to one arm. He is sitting on a rocking chair, but
+he is missing both his legs.
+79380: Scruffy the robodud sits here on a porch.
+79412: "Scruffy was beaten by one of them fact'ry workers. I surpose it was
+because of Scruffy's stubborness. Oh well. Scruffy will die the way Scruffy
+lived." He looks at you remorsefully.
+79544: "Scruffy thinks you don't seem too bad. But Scruffy cannot surmise why
+you are here, howsever."
+79616: "Scruffy were am supposed to be a Viking RoboDude. Howsever Scruffy did
+not appreciate that career change. That's prob'ly why..." He looks away.
+79724: "This were am all the roboduds used to live. Then, they all started
+dyin'. Seems that Scruffy's the only robodud remainin' here. But Scruffy cannot
+leave on account of Scruffy's debilitatin' condition."
+79872: "Scruffy were supposed to be a Viking RoboDude. But Scruffy could not
+pronounce the word fjord. But Scruffy still has the optional Warrior Axe
+attachment. Scruffy spends his time all day sharpenin' it.
+80020: "Scruffy has watched many roboduds try for years to penetrate that there
+door. Rumour has it it leads to an underground tunnel which leads to that them
+fact'ry. There's another rumour that Scruffy heard. It states that there is an
+object that serves as a key somewhere in the junkyard. Scruffy advises against
+searching for it." He looks around hastily.
+80268: "Scruffy do not care for outsider stories."
+80300: "Scruffy did not request that most foul action. Don't do it again,"
+Scruffy scowls.
+80364: "Scruffy likes them shiny things."
+80392: "Scruffy can not move on account of Scruffy's unusable legs, remember?"
+80444: "Scruffy do not understand what yer talkin' 'bout."
+80484: "Ahh, Scruffy don't like your backtalk."
+80516: VISUAL REPORT: It looks like the roboduds had formed a civilization
+within the walls of their broken comrades, but something happened-- eerie
+silence surrounds you now. The buildings are all boarded up--except for one to
+the north.
+80688: The buildings are all boarded up, preventing your passage.
+80990: There was an.."
+
+It's too late. Junior has died.
+81032: VISUAL REPORT: This tavern is in extremely poor condition, with broken
+glass everywhere, as well as broken robots and burn marks. The lingering smell
+of alcohol and fire leaves a pungent smell in your smell receptacle.
+81192: The glass is everywhere; from windows, bottles, robots-- you name it,
+it's on the ground.
+81260: Junior lies here, cracked and broken.
+81288: Junior lies here, still warm to the touch. His circuits and wiring are
+visible through his wounds. His legs looks like they were partially chopped
+off.
+81440: You sneakily enter the factory, where you hear two humans with lab coats
+talking. "I can't believe he claimed five men! How'd he get the mentality to do
+that?" the first one says.
+
+"Your guess is as good as mine. All the programming
+was sound, it just seemed to be sociopathic and violent. It's truly biza-- what
+the hell? There he is! That's the one!!" Both men whip towards you and stare
+you down.
+
+You feel it. The same feeling from before. But before you can act on
+it, Scruffy and two security guards step forward. Scruffy says, in clean
+English, "That's the one. Take him out." You glare at Scruffy in a fit of rage
+just as the security guards raise their guns...
+

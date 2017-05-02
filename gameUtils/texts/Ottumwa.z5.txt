@@ -1,0 +1,761 @@
+16316: There is no reply.
+16384: Nothing is on sale.
+16842: Dropped.
+16899: . Not bad.
+18027: Wrahn seem interested.
+18542: Done.
+18591: You are carrying nothing.
+18676: Keep your mind on the game.
+18701: You hear nothing unexpected.
+19765: But it's dark.
+19782: You find nothing of interest.
+19810: Quite.
+19840: Nothing to do!
+19875: o. You have won
+19958: It is now pitch dark in here!
+19985: I beg your pardon?
+20049: Sorry, that can't be corrected.
+20078: Think nothing of it.
+20131: As good-looking as ever.
+20163: You can hardly repeat that.
+20188: You can't begin with a comma.
+20302: I didn't understand that number.
+20331: You can't see any such thing.
+20367: You aren't holding that!
+20463: That's not a verb I recognise.
+20501: You can't see "
+20611: Nothing to do!
+20628: There are none at all available!
+21039: That was a rhetorical question.
+21066: Score notification off.
+21089: Score notification on.
+21118: Objects you have handled:
+21143: None.
+21616: You have visited:
+21810: You are unable to.
+21829: Nothing obvious happens.
+21879: That's not a direction.
+21902: Not that way you can't.
+22049: You lack the dexterity.
+22130: Done.
+22178: Please answer yes or no.
+22204: Are you sure you want to quit?
+22363: Removed.
+22394: Failed.
+22413: Restore failed.
+22430: Ok.
+22440: You achieve nothing by this.
+22472: Save failed.
+22487: Ok.
+22594: There is no score in this story.
+22632: Transcripting is already off.
+22698: Transcripting is already on.
+22764: But it's dark.
+22884: You find nothing of interest.
+23184: Your singing is abominable.
+23218: You smell nothing unexpected.
+23245: Oh, don't apologise.
+23273: Keep your hands to yourself.
+23298: You achieve nothing by this.
+23527: Taken.
+23538: You are always self-possessed.
+24061: You taste nothing unexpected.
+24095: You talk to yourself a while.
+24122: This provokes no reaction.
+24148: What a good idea.
+24174: Futile.
+24203: Keep your hands to yourself!
+24228: You feel nothing unexpected.
+24253: If you think that'll help.
+24499: Time passes.
+24523: That seems unnecessary.
+24619: You wave, feeling foolish.
+49656: You don't see anything unusual.
+70490: Someone asks "Who was it?"
+70544: "Dirt, dirt, and more dirt."
+71059: You have nothing to compare to.
+71328: You have no DNA sample to input.
+71455: You're not a thief!
+71818: With what?
+71862: Shouldn't you be wearing gloves?
+71915: Shouldn't you be wearing gloves?
+71981: Shouldn't you be wearing gloves?
+72010: With what?
+72215: "Hi, how are you?"
+72281: "Do you have anything for me?"
+72425: Helga says "Bye!"
+72579: How are you?"
+72782: "Good Bye, Chief!"
+73924: "I'm just looking."
+73964: "Do you sell fishing licenses?"
+74407: "Hi! What are you doing here?"
+74576: He replies "Hello!" and smiles.
+75449: Sometimes it contains clues.
+75639: Good luck!
+77586: With what?
+77598: What would you like to magnify?
+77625: You're big enough already.
+77698: With what?
+77719: Your prints are on file already.
+77768: fydlhn says "I'd rather not!"
+77830: With what?
+77842: What would you like to swab?
+77867: That won't be necessary.
+80309: in" or "notin
+80325: opmhas" or "hasnt
+80467: }" at end of "objectloop
+82600: A Police Department Forensics Analyst story. 
+Copyright 2008,2009 by
+David A. Faught.
+82832: Score:
+82840: Moves:
+82848: Time:
+82856: You can't go that way.
+82964: Violence isn't the answer to this one.
+82992: This dangerous act would achieve little.
+83020: I don't think much is to be achieved by that.
+83080: Digging would achieve nothing here.
+83108: There's nothing suitable to drink here.
+83136: That would scarcely empty anything.
+83164: You can only get into something free-standing.
+83236: But you aren't in anything at the moment.
+83268: But there's no water here to carry.
+83324: You can't put something inside itself.
+83352: You jump on the spot, fruitlessly.
+83380: You would achieve nothing by this.
+83432: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+83528: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+83612: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+83724: You see nothing unexpected in that direction.
+83988: Please give one of the answers above.
+84016: [You can't "undo" what hasn't been done!]
+84052: [Can't "undo" twice in succession. Sorry!]
+84092: "Oops" can only correct a single word.
+84120: It is pitch dark, and you can't see a thing.
+84152: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+84212: You seem to want to talk to someone, but I can't see whom.
+84256: To talk to someone, try "someone, hello" or some such.
+84296: I didn't understand that sentence.
+84356: You seem to have said too little!
+84380: You can't use multiple objects with that verb.
+84416: You can only use multiple objects once on a line.
+84452: You excepted something not included anyway!
+84484: You can only do that to something animate.
+84516: That's not something you need to refer to in the course of this game.
+84564: I didn't understand the way that finished.
+84596: Sorry, you can only have one item here. Which exactly?
+84696: Nothing practical results from your prayer.
+84752: That would be less than courteous.
+84776: Is that the best you can think of?
+84800: You can't put something on top of itself.
+84832: Are you sure you want to restart?
+84856: Attempt to end transcript failed.
+84880: Attempt to begin transcript failed.
+84908: You aren't feeling especially drowsy.
+84936: Real adventurers do not use such language.
+84968: There's not enough water to swim in.
+84996: There's nothing sensible to swing here.
+85024: You're carrying too many things already.
+85056: You lack the nerve when it comes to the crucial moment.
+85124: You'll have to say which compass direction to go in.
+85164: The game file has verified as intact.
+85192: The game file did not verify as intact, and may be corrupt.
+85236: The dreadful truth is, this is not a dream.
+85296: There are no exits.
+85366: What would you like to say?
+85390: You can't think of anything to say.
+85420: You decide not to say anything after all.
+85460: You don't have money to spare for that.
+85488: "You don't really need more than one, do you?"
+85524: You sip the steaming hot drink until it's gone. You feel very satisfied
+and energized.
+85588: You sip the steaming hot drink until it's gone. You feel a little
+buzzed.
+85640: You gulp down the steaming hot drink and burn your mouth and throat in
+the process. You feel a little buzzed and have to use the bathroom.
+85988: "Sometimes the kids use the field for extreme croquet games. The polo
+people chase them off." an officer says, "If they forget a wicket it can damage
+a horse. The stakes are dangerous too." 
+
+"Here's some gloves" says the officer
+as he hands you a pair of latex gloves.
+86188: The curious crowd, pressing towards the field, makes that impossible.
+86322: You hear a pony nearby whinnie nervously. It smells of fresh hay and
+sweaty horses.
+86380: The club house of the Ottumwa Country Club.  The interior space is all
+paneled in medium-toned wood, with lots of large windows for great views of the
+outdoors, especially to the south. Today the polo players and fans are all
+around, swapping dirt. There are a few golfers having a drink at the bar, which
+is the one dark corner in the whole place, having the large floor-to-ceiling
+neutral colored curtains drawn.
+
+The starting holes for the front nine and back
+nine of the golf course are clearly visible to the south.  The entrance from
+the highway circles around to the southwest, and there is a worn blacktop path
+to the east.
+86930: Go back to the club house."
+86952: The young officer says "Listen you, I told you once. Go back to the club
+house before you get in trouble."
+87030: "OK, troublemaker, now you're in real trouble. I asked you nice, but you
+just couldn't listen." 
+
+And with that the officer seizes you, turns you around
+and handcuffs you.  Then he drags you over to a nearby squad car and roughly
+stuffs you in the back seat.
+87244: It appears well-maintained, but empty at the moment. The tee box for the
+first hole is to the right and the start of the tenth hole is to the left. The
+club house is just a short walk to the north.
+87714: The exit is to the west.
+87732: You have just finished dressing after a good night's sleep and morning
+toiletries. 
+
+Enter "CREDITS" to see the game credits, or "HELP" if you want
+information on how to play.
+88198: showing some of the action.
+
+People are everywhere, sitting, talking,
+watching the arcade action, or playing.
+88278: A small hand-scrawled sign on the door says "Gateway to southeast Iowa?
+There is no southeast!"  Curious.
+88526: It appears to be a bit understaffed, as you can only see one sales clerk
+for the whole store.
+88592: You are standing in front of a small unremarkable red-brown brick
+building.
+88692: Department Forensics Laboratory."
+88834: It doesn't look good for your future as a forensics analyst!
+88876: A nice little lab - it seems well equipped, though not quite as well as
+your regular work place. This is the kind of place where you can do good work.
+89176: The exit is to the north.
+89288: asks "Did you hear about the body they found on the polo field?"
+89336: Someone else asks "Did they find out who it is yet?"
+89376: "How did it happen?" someone asks.
+89404: You hear someone say "That Artie is such a prankster!"
+89534: There is a small embossed plate on it that says "Property of Iowa State
+University"
+89712: There is a little electrical smell in the air.
+89950: As you switch on the large machine, the lights in the lab dim. Then you
+hear a hissing sound from behind the machine.  The hissing sound gets louder
+and the wall behind the machine bursts into flames, as the lights in the lab
+flicker out.  You quickly look around the unfamiliar lab for a fire
+extinguisher or a red emergency button on the wall, but can't see clearly
+because of the growing cloud of smoke.  You drop to the floor on your hands and
+knees and head towards the outside door.
+90288: A large carrying case with a variety of powders in jars and brushes,
+along with a stack of self-sticking clear strips. There is also a standard ink
+pad, a stack of blank cards, a jar of hand cleaner and paper towels.
+90440: A binary microscope with adjustable everything.
+90476: The back light at the bottom is so strong, it could blind a snake.
+90522: A large screen monitor with a keyboard, both attached to some hidden
+processing power.  All kinds of database searches display their results
+instantly here, including fingerprint matches, bullet striation matches,
+criminal records and DNA profiles.
+
+ It looks like it has voice recognition
+capability.
+90736: It might be useful to turn it on first.
+90764: Before you can blink, the database identifies the two fingerprints from
+the mallet handle as belonging to "Argyle, Artemus."
+
+A brief moment later the
+print from the modified head of the mallet is matched to "Cookoo, Charles."
+90930: Instantly the database matches the fingerprints from the dead body to
+"Cranky, John."
+90996: You might try scanning in some fingerprints for comparison.
+91038: You do a criminal records search on "Argyle, Artemus" and the database
+instantly responds with one Drunk and Disorderly charge and a list of paid
+parking tickets.  The Drunk and Disorderly charge was dropped after he paid for
+the damages to the Ottumwa Country Club.  This incident occurred after his team
+won a nationally-televised polo match.
+91286: You do another criminal records search, this time on "Cookoo, Charles,"
+and find that he has been charged with assault by a few different people, but
+has always gotten off with fines and time served.  He has never done hard time
+in prison.
+91652: The City of Ottumwa Police Department network firewall prevents you from
+searching the public Internet from this secure terminal.
+91744: You place the fingerprints from the modified mallet in the scanner
+input, they are scanned in and displayed on the large screen. You key in the
+identification for the prints as "unknown."
+91876: You place the fingerprint card from the dead body in the scanner input,
+they are scanned in and displayed on the large screen.
+91964: You key in the identification for the prints as "John Doe 31415."
+92084: Maybe you could use the fingerprint kit to get some.
+92390: You put the form in the prepaid envelope, seal it, and put it in the
+delivery service box built into the wall by the front door.
+92480: There are saddles and bridles hanging around, and a collection of polo
+mallets and balls in the corner. One particular mallet draws your attention.
+92616: It's strong and flavorful!
+92690: Yum!
+92708: Expresso combined with lots of steamed milk, can be flavored with syrup,
+a lighter combination and tasty!
+92844: Fine inline skates with long wheel base and big wheels for offroading.
+92892: Large metal croquet mallets with angled face to launch the ball. Some of
+the more expensive models have a CO2 assisted strike.
+92984: Assorted safety gear, including helmets, elbow pads and knee pads.
+93064: It says that it costs $50 for 1 day and $100 for 5 days.
+93112: The checkbox for 5 days is checked.  Nice!
+93148: "You don't really need more than one, do you?"
+93444: Here you go."
+93864: It looks somewhat half-moon shaped and about 3 inches across.
+93908: Inside the half-moon shaped wound, you notice the imprint of some tiny
+letters. It looks like "XYZZY".
+93988: A photocopy of a sales receipt for a CO2-assisted croquet mallet. The
+Sporting Goods Store sold the mallet to Artemus Argyle 3 weeks ago.
+94206: Dept" on the breast pocket. There seems to be a key in the pocket.
+94256: A typical door key on a ring with a simple white tag that says
+"Forensics Lab".
+94360: You're not allergic to latex.
+94416: It has a deadbolt lock.
+94436: A white door with no unusual features.
+94464: A body lying face down on the field.  There are several apparent wounds
+and a lot of blood, soaking into the grass and dirt around the body.
+
+An
+officer says "Nobody seems to know him and nobody saw anything.  It figures!"
+94662: He is fully clothed in blue jeans, a t-shirt and athletic shoes.
+You
+examine the clothing carefully, looking for identification or other hidden
+objects, but don't find anything.
+94828: Using the ink pad, you do a nice clean set of prints of all ten fingers
+on a standard print file card.
+94950: Looking closer, you see that the head of the mallet has been replaced
+with a CO2-assisted angle-faced croquet mallet head! There may be something
+very tiny on the head.
+95234: There appear to be several smudges of blood across two of the letters.
+95428: Artemus Argyle seems to have smudged the prints when he grabbed the
+mallet.
+95588: . Your work is rewarded and you lift two nice prints from the handle and
+another off the modified head.
+95668: A round plastic stick about 6 inches long with a small oval cotton tip
+stuck tightly to one end.
+95736: But you may need this to collect evidence!
+96364: The lines look pretty long. Maybe later.
+96478: The sheets are rumpled from having been slept in.
+96540: It's been painted several times.
+96592: It's been painted several times.
+96616: You are wearing simple jeans, walking boots and a Led Zeppelin t-shirt.
+96740: The prices are reasonable.
+96760: Next to each of the large windows, there are large floor-to-ceiling
+neutral colored curtains. Most of them are drawn wide open.
+96852: Just on old, well used shovel.
+96876: Just on old, well used brush.
+96900: Just on old, well used paint.
+96986: The field appears to be about 200 yards wide by 300 yards long with a
+pair of uprights about 20 feet apart in the middle of each end.
+97260: They all appear to be with the Ottumwa City Police Department.
+97308: The 3 inch wide, highly visible yellow plastic tape is strung around the
+entire polo field. It has the words "CRIME SCENE DO NOT CROSS" printed on it in
+large black letters every few feet.
+97640: A plain white plastic sheet, draped over the entire body to cover it.
+97720: A large stainless steel cart used for moving people in the supine
+position. This one has no padding.
+97824: Helga Hoozits is a plump, cheerful woman, dressed in light blue scrubs
+decorated with little white daisies.
+97900: The coroner says "You don't belong in here. Please see the receptionist
+out front."
+97964: Helga pauses from sorting internal organs to give you a cheery wave with
+a bloody gloved hand.
+98028: The coroner says "Hello, it's a fine day for golf! Except for this poor
+fellow. See you again soon!"
+98164: "Looks like cause of death was a strong blow to the side of the head,
+but I can't tell what the weapon was."
+98244: "Thank you so much for getting the autopsy report so quickly."
+98306: Come see me again soon!"
+98324: Stanley Stronghan is a large, stern man, strong and loyal, but fair and
+understanding.
+98442: Our local specialist just quit a couple of months ago, and we have a
+situation here at the country club. We would sure appreciate your help with
+this case."
+98570: What can I do for you?"
+98650: If you hurry, you can examine the body out on the polo field before it
+is transported."
+98712: "What are you waiting for?" the Chief asks.
+98748: "Help me close this case and I'll show you where the best fishing in the
+county is," says the Chief.
+98820: The Chief says "Sorry you couldn't help us."
+98856: "Where do you think you're going?" the Chief asks sternly.
+98900: "Where is the key to the forensics lab, Chief?"
+98936: The Chief replies "You might want to take a closer look at the vest."
+98988: "Chief, I think you should bring in George Bent for questioning."
+99076: "Go get me some hard evidence."
+99100: "Chief, I think you should bring in Curly Cranky for questioning."
+99188: "Go get me some hard evidence."
+99212: "Chief, I think you should bring in Shirley Swirl for questioning."
+99300: "Go get me some hard evidence."
+99324: "Chief, I think you should bring in Fred Funque for questioning."
+99486: What have you been doing out there? Why are you wasting my time?"
+99536: "Chief, I think you should bring in Helga Hoozits for questioning."
+99698: What have you been doing out there? Why are you wasting my time?"
+99748: "Chief, I think you should bring in Artemus Argyle for questioning."
+99886: I don't think we will need your help any more. Sorry."
+99928: "I don't think you have identified the murder weapon yet," says the
+Chief.
+99984: "I don't think you have identified the dead body yet," says the Chief.
+100036: "I don't think you have tied the murder weapon to an alleged murderer
+yet," says the Chief.
+100104: "You haven't shown me why Artie Argyle is a more likely suspect than
+Charlie Cookoo," the Chief says.
+100330: I think I can give him a pretty good alibi."
+100364: "Chief, I think you should bring in Charlie Cookoo for questioning."
+100416: "I don't think you have identified the murder weapon yet," says the
+Chief.
+100472: "I don't think you have identified the dead body yet," says the Chief.
+100524: "I don't think you have tied the murder weapon to an alleged murderer
+yet," says the Chief.
+100592: "You haven't shown me why Charlie Cookoo is a more likely suspect than
+Artie Artemus," the Chief says.
+100668: "Okay, let's go get him," the Chief says, and heads for the door. You
+go with the Chief as he collects Charlie Cookoo and takes him to the Police
+Station.  In the interrogation room, the Chief shows Charlie the modified polo
+mallet and says "Your prints are on the murder weapon, Charlie."
+100882: Charlie breaks down and admits that he killed John Cranky last night at
+the polo field.  The Chief asks "Why did you do it, Charlie?" Charlie replies
+"He was trying to take away my girl, Curly." The Chief sadly shakes his head as
+he says "Curly is his sister, Charlie." Charlie lowers his eyes as he says
+"Somehow he found out about my criminal record and then he wouldn't let me see
+her anymore."
+101238: "I'll give you a call when the trial comes up so you can come back and
+testify to the evidence you've collected."
+101556: "Sir, can I ask you some questions?"
+101584: "I don't know nothin" he spits out and quickly turns away.
+101628: "You could be a big help in this investigation."
+101804: "I think he had a mallet in his hand, but somethin' didn't look right
+about it."
+101888: Thanks for your help."
+101908: "Means nothin' to me," he says, and continues on his way.
+101952: Artemus Argyle is a tall, handsome man in good physical shape. He is
+still wearing tan English-style riding pants and smells like a wet horse.
+102052: "Sir, can I ask you some questions?"
+102080: "Surely, fire away," he says carefully, as his eyes scan the room
+behind you.
+102152: Contact my office for an appointment," he says, and turns away from
+you.
+102204: "You could be a big help in this investigation."
+102240: Artie glances at the modified polo mallet, then stares and his eyes
+widen.
+102294: Before you can pull it away, Artie grabs the handle of the modified
+polo mallet, and says "What an interesting mallet!  But this is an illegal
+modification. You were asking me about helping your investigation."
+102448: "How could I help?" he asks. "I don't know anything about it."
+102500: "Sir, can I ask you about this receipt?"
+102576: Yes, I often buy equipment there.
+102604: Charlie Cookoo is in constant motion, like a puppy or a monkey playing.
+He jumps from person to person in the store, chatting and joking, making sure
+that each and every customer finds what they're looking for.
+102752: "Hi, do you sell any extreme croquet gear?"
+102908: It's great exercise."
+102928: "What about the CO2-assisted mallets?"
+103106: that's a little odd because the polo players don't buy much of their
+gear here." Ripping off the paper rolling out of the register, he adds "Here is
+a copy of the receipt."
+103228: Yes, we have a full selection of croquet mallets.
+103264: "Just let me know if there is anything else I can help you with."
+103312: "Yes, we sell state fishing licenses."
+103412: The coffee house does a great business when she's working.
+103486: The menu is there on the wall, but I'd be happy to explain all your
+choices."
+103600: "Do you know a man named Artemus Argyle?"
+103632: "That Artie is such a kidder, but he's handsome," she says. "I might go
+out with him if he weren't the boss."
+103716: Curly Cranky slouches around, contrary to the extremely fit frame she
+has. She moves like a cat and is dressed all in black tight-fitting clothes.
+103820: "Hi! Can I ask you some questions?"
+103848: Curly seems a little upset and says "My brother John was supposed to
+meet me at the polo field around dusk yesterday for a quick game of extreme
+croquet, but at the last minute I couldn't go so I called his cell phone and
+left a message."
+104016: She turn away from you, tossing over her shoulder the words "I don't
+talk to strangers."
+104100: Are you okay?"
+104178: I don't know where he is and I'm starting to get worried."
+104416: i guess it's okay if we loan you out this time. Too bad about your
+vacation though."
+104498: We'll talk about the vacation later."
+104528: He replies "They want to see you up at the country club."
+104584: You never told me what you are doing here."
+104616: He replies "Hi!" and just smiles.
+104654: What are you still doing here?"
+104680: Your trusty magnifying glass.
+104704: You're never without your trusty magnifier.
+104736: The plastic zip-shut type of bag, with a red fold-over seal.
+104780: But you may need this to collect evidence!
+104812: You are wearing simple jeans, walking boots and a Led Zeppelin t-shirt.
+104936: The place: Ottumwa, Iowa, population about 25,000 and the county seat
+of Wapello County since 1844. It is historically known as the gateway to
+southeast Iowa because of its access to the Des Moines River and to the
+railroad. 
+
+You have come here for a well-deserved vacation, to relax away from
+the pressures of your job in the big city.  By trade, you are a skilled
+forensics analyst working for the police department, but today you are planning
+on getting in some good fishing. You need to get a fishing license from the
+local sporting goods store.
+105332: The general idea is to examine evidence that will indicate if a crime
+has been committed, and use any such evidence obtained to help convict any
+potential criminals.
+
+For example, in a potential murder, you need to identify
+the body and would want to know the cause of death determined by the coroner or
+medical examiner. If the cause of death indicates that it is a murder then you
+would try to identify the murder weapon, the alleged murderer, and tie the two
+together.
+
+Motive, means, and opportunity.
+
+You may need to talk to some people
+more than once to get them to open up a little.
+105740: You should look more closely at some pictures or a mallet.
+105780: You may need to fingerprint the dead body or search for fingerprints in
+the database.
+105840: You may need to fingerprint a mallet or search for fingerprints in the
+database.
+105896: Maybe a criminal records search in the database would be helpful.
+105944: Is there anyone else that should be seriously considered as a suspect?
+106054: There may be another hint available after talking to the Chief.
+106098: As you approach the large club house at the country club, you remember
+back to a time in high school when you attended a dance at a place like this. 
+Dressed up in a dark suit and striped white shirt, with a red tie and the
+incongruous black sneakers, you were sitting in the back of the black stretch
+limosine that you and your friends rented for the evening, jostling back and
+forth, laughing and talking excitedly about who would be here and who they were
+with.  The bright lights of the entryway to the country club contrast to the
+dark interior of the limo, and as you pull up to the door the brightness
+sparkles against the windows, almost magical.  You look over at your date,
+beautiful in her blue-green gown and faux-fur wrap, and ...
+106614: You drift back to the dance and remember the low light of the room, the
+music of Big Ben's Brownout Band, hired for the event, filling the room around
+you along with the sounds of the other couples on the dance floor, talking and
+giggling, drawing closer to each other during the slow songs.  As you sway
+around the room, a few faces appear and disappear in the darkness of the tables
+around the dance floor.  You look down at the bright, beautiful face of your
+date. She is holding closely to you and has her eyes closed.  You lean towards
+her ear, and start to say ...
+107018: You warmly remember standing outside in the dark, cool air, holding
+your date close and whispering to each other. The sound of the band drifts
+across the distance separating you from the club house, and as you look in that
+direction, there are pools of light around each lightpost along the path. You
+gingerly kiss for the first time and suddenly your whole being is buzzing with
+electricity.  You try to steady yourself, and lean towards her again.  She
+lightly holds you back, and says "Let's go back inside.  I'm thirsty and it's
+getting late."
+107406: Ah, fond memories!  Maybe you should try to find out whatever happened
+to Janet Jumble.
+107836: has sharp hearing and replies "Well, you could try closing your eyes,
+but then you'll miss all the good parts."
+108100: ays "We treat each unfortunate person that shows up here with the
+utmost respect.  We are often the last ones that can speak on their behalf."
+109106: You think back to the familiar surroundings of the large lab where you
+work in the big city with its dozens of people working on hundreds of cases. 
+Where each piece of equipment is located in each room, who is the subject
+expert on various technical and social case aspects ... Then you think "Why am
+I doing this?  I'm supposed to be on vacation!"
+109356: You remember your days at the Police Academy and the forensics training
+unit that your class went through.  Because of your college background in
+sociology, psychology, and biology, you thought "This is a snap!" and
+voraciously consumed every crumb of forensics knowledge that the instructors
+and text books could provide.
+109584: You think about some of the cases you have worked on and how much you
+have helped bring closure to victims and their relatives, and about how many
+criminals have been prosecuted based on the evidence you have collected,
+processed, and testified about.
+109760: You remember the Medical Examiner's words during your academy field
+trip to the morgue "We treat each unfortunate person that shows up here with
+the utmost respect.  We are often the last ones that can speak on their
+behalf."
+109922: Artie was only guilty of trying to cheat at polo, but Charlie knew
+about the modified mallet and must have used gloves when he actually committed
+the murder.  Charlie knew that Artie had handled the mallet (it was Artie's
+mallet after all) and Charlie hoped that putting it back with the other gear
+after the murder would divert the investigation away from himself.
+110206: The game you are playing is a work of Interactive Fiction.  In
+interactive fiction you play the main character of a story.  You type commands
+which determine the actions of the character and the flow of the plot.  Some IF
+games include graphics, but most do not: the imagery is provided courtesy of
+your imagination.  On the other hand, there's a wide range of action available:
+whereas in other games you may be restricted to shooting, movement, or
+searching items you can click on with a mouse, IF allows you a wide range of
+verbs.
+110606: The first thing you want to do when starting a game is acquaint
+yourself with your surroundings and get a sense of your goal.  To this end, you
+should:
+110766: Get an idea of what sort of place you're in.  Usually the description
+will tell you two important things: where the exits from the room are, and what
+the objects are that you can interact with.  Type LOOK if you want to see the
+room description again.
+110972: Individual descriptions of items can help you out.
+111022: Information about your character may be important.
+111074: Sometimes you'll be holding something important.
+111120: Move from room to room, and check out every location available.
+111176: Examine every object mentioned in room descriptions, and everything in
+your inventory.  Examine yourself, too. Look inside all closed containers. 
+Open all doors and go through them.  If anything is locked, that's probably a
+puzzle, and you should try to get it unlocked.
+111392: If the game mentions an interesting texture, odor, or sound, try
+SMELLing, TOUCHing, LISTENing, etc.
+111492: If you *still* can't figure out what to do, try opening windows,
+looking under beds, etc.  Sometimes objects are well-hidden.
+111596: Look back at things you've already seen; sometimes this will trigger an
+idea you hadn't thought of.
+111700: Things that are described in great detail are probably more important
+than things that are given one-liners. Play with those objects.  If a machine
+is described as having component parts, look at the parts, and try manipulating
+them.   Likewise, notice the verbs that the game itself uses.  Try using those
+yourself.  Games often include special verbs -- the names of magic spells, or
+other special commands.  There's no harm in attempting something if the game
+mentions it.
+112046: If you have something in mind that you want to do, but can't get the
+game to respond, try alternative wordings.  Often synonyms are provided.  Game
+designers usually try to anticipate all the synonyms you are likely to come up
+with, but they may not have thought of yours.
+112254: Sometimes an action doesn't work, but *does* produce some kind of
+unusual result.  These are often indications that you're on the right track,
+even if you haven't figured out quite the right approach yet.  Pressing the red
+button alone may only cause a grinding noise from inside the wall, so perhaps
+pressing the blue and *then* the red will open the secret door.
+112554: Sometimes there is a system in play that does not operate in the normal
+world -- a kind of magic, for instance, or technology we don't have on
+modern-day earth.  If you've been introduced to such a system in the game, ask
+yourself how you might apply it to the situations that are still causing you
+problems.
+112796: Are there extra windows besides the main window?  What's going on in
+those?  Check out the status bar, if there is one -- it may contain the name of
+the room you're in, your score, the time of day, your character's state of
+health, or some other important information.  If there's something up there,
+it's worth paying attention to that, too.  When and where does it change?  Why
+is it significant?  If the bar is describing your character's health, you can
+bet there is probably a point at which that will be important.
+113192: Mysteries, romances, and thrillers all have their own types of action
+and motivation.  What are you trying to do, and how do conventional characters
+go about doing that?  What's the right sort of behavior for a detective/romance
+heroine/spy?
+113382: Two heads are usually better than one.
+113416: Try typing HINT, HELP, INFO, ABOUT:
+113612: mint-fiction.  For best results, put the name of the game you want help
+with in the subject line; then leave a page or so of blank "spoiler space" (so
+that no one will read about where you got to in the game unless they've already
+played it), and describe your problem as clearly as possible.  Someone will
+probably be able to tell you how to get around it.
+113864: Email the author:
+113878: If you're stuck somewhere that just makes no sense at all, it's
+possible that you're facing a bug.  If you think you are, you should email the
+author (politely) to report the problem and ask for a way around it.
+114212: The following commands control the game itself:
+114250: There are various kinds of Interactive Fiction(IF) in the world.  Some
+of them put more emphasis on solving puzzles; some want to move you through a
+coherent plot of some kind; some want to offer you something to explore.
+114414: In games with a lot of challenging puzzles, you can expect to spend a
+fair amount of time wandering around trying to figure out what you should do
+next; this is part of the fun.  (If you like that sort of thing, anyway.) When
+you start a game, you can usually get a sense fairly early on of what kind of
+game it is and what the author expects you to do.  Read the opening text
+carefully: it may tell you things about the character you are playing, your
+goals within the game, and so on.
+114756: If the game tells you to type ABOUT or INFO the first time you play,
+you should always do so: this information may include special commands or other
+material without which you won't be able to finish.  This is like the game
+manual in a commercial game, so don't ignore it.
+114978: In order to communicate with the game, you will need to enter
+instructions beginning with imperative verbs -- as though you were giving
+orders to someone else to carry out.  For instance, >CLOSE THE DOOR or >LOOK
+UNDER THE RUG.
+115162: You may use articles ("the" and "a"), but you do not need to.  >CLOSE
+DOOR will also work for the game's purposes.
+115258: Most of the actions you can perform in the world of IF are brief and
+specific.  >WALK WEST or >OPEN DOOR are likely to be provided.  >TAKE A JOURNEY
+or >BUILD A TABLE are not.  Things like >GO TO THE HOTEL are on the borderline:
+some games allow them, but most do not. In general, abstract, multi-stage
+behavior usually has to be broken down in order for the game to understand it.
+115594: At any given time, you are in a specific location, or room.  When you
+go into a room, the game will print a description of what you can see there. 
+This description will contain two vital kinds of information: things in the
+room you can interact with or take, and a list of exits, or ways out.  If you
+want to see the description again, you may just type LOOK.
+116190: In some locations, IN and OUT will also be useful.
+116234: Most IF games are set in a world made up of rooms without internal
+division.  Movement between rooms is possible; movement within a room does not
+always amount to anything.  >WALK OVER TO THE DESK is rarely a useful sort of
+command.  On the other hand, if something is described as being high or out of
+reach, it is sometimes relevant to stand on an object to increase your height. 
+This kind of activity tends to be important only if prompted by the game text.
+116584: Throughout the game there will be assorted objects that you can do
+things with.  Most importantly, you may TAKE or GET items, and (when you are
+tired of them) DROP them again.  INVENTORY (abbreviated I) will list the items
+you are currently holding.
+116774: There are usually assorted things you may do with these objects. OPEN,
+CLOSE, WEAR, EAT, LOCK, and UNLOCK are especially common.
+116888: Occasionally, you will find that the game does not recognize the name
+of an object even though it has been described as being in the room with you. 
+If this is the case, the object is just there for scenery, and you may assume
+that you do not need to interact with it.
+117074: Containment: One thing that IF does tend to model thoroughly is
+containment.  Is something in or on something else?  The game keeps track of
+this, and many puzzles have to do with where things are -- in the player's
+possession, lying on the floor of the room, on a table, in a box, etc.
+117306: From time to time you will meet other people and creatures. You will be
+unable to converse with the people in plain English; instead, you may use the
+command >TALK TO CHARACTER, and the game will decide what you should say at
+this juncture.
+117488: Other characters in IF games are sometimes rather limited.  On the
+other hand, there are also games in which character interaction is the main
+point of the game.  You should be able to get a feel early on for the
+characters -- if they seem to respond to a lot of questions, remember what
+they're told, move around on their own, etc., then they may be fairly
+important.  If they have a lot of stock responses and don't seem to have been
+the game designer's main concern, then they are most likely present either as
+local color or to provide the solution to a specific puzzle or set of puzzles. 
+Characters in very puzzle-oriented games often have to be bribed, threatened,
+or cajoled into doing something that the player cannot do -- giving up a piece
+of information or an object, reaching something high, allowing the player into
+a restricted area, and so on.
+118106: There are a few simple commands for controlling the function of the
+game itself.  These are:
+118388: Some online sources of introductory help for IF games include:
+118624: For more information about IF, the IF community, and other games to
+play, you should also try:
+119002: mint-fiction."  You will be presented with a long list of things that
+people are already talking about. If you've never read this newsgroup before,
+you should look for a thread with the word "FAQ" in the title, and read it:
+this will give you instructions about how to post without breaking any of the
+community's rules of etiquette.  (They're not especially fussy, but following
+them will get you prompter and more polite assistance.)
+119310: Once you've done that, you may post a new message with a clearly
+labelled subject (like "[HINT REQUEST] Jigsaw" or "Looking for Mystery Games").
+ Afterwards, wait a few hours and check the newsgroup again to see whether
+anyone has an answer for you.
+119938: You may be able to get more specific hints by entering "help hints"
+again.
+120012: Here is a list of topics that you can get some help with.
+For example,
+if you don't know how to get started with the game, enter "help intro",
+or if
+you would like a list of verbs you could try, enter "help verbs".
+120340: This game makes use of several Interactive Fiction community
+contributed libraries to make life easier
+for me, the author, and for you, the
+player.  They are:
+120458: (slightly modified) gtalk by Greg Boettcher, Krister Fundin, and Mark
+J. Tilford, and
+120576: Thanks to Dan Shiovitz and Parham Doustdar for their feedback on
+earlier versions
+of this game.
+120648: Also many thanks to Graham Nelson for making the great Inform compiler
+available,
+and to the rest of the IF community for their many great
+contributions.
+
+Thank you all for making the creation of this little story an
+enjoyable time, and I
+hope that someone has at least as much fun playing it as
+I had writing it.
+120872: You can't think of anything to say.
+120900: To talk to someone, please type TALK TO PERSON.
+120944: says "That's a little too close!"
+121032: What would you like to fingerprint?
+121194: Not very sanitary and useless to use it again.
+121412: You fiddle around for a while and accomplish nothing unusual.
+121752: give" or test "has" or "hasnt" with a non-attribute on the object
+121800: , but it is longer than 2 bytes so you cannot use "."
+

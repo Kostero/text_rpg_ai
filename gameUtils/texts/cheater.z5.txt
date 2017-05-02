@@ -1,0 +1,233 @@
+8986: Score:
+9000: Moves:
+9040: Time:
+9731: /   Csdba KpmTo repeat a command like "frog, jump", just say "again", not
+"frog, again".
+9816: You can hardly repeat that.
+10146: You can't begin with a comma.
+10209: You seem to want to talk to someone, but I can't see whom.
+10300: To talk to someone, try "someone, hello" or some such.
+12140: I didn't understand that sentence.
+12250: I didn't understand that number.
+12282: You can't see any such thing.
+12315: You seem to have said too little!
+12347: You aren't holding that!
+12376: You can't use multiple objects with that verb.
+12416: You can only use multiple objects once on a line.
+12495: You excepted something not included anyway!
+12533: You can only do that to something animate.
+12571: That's not a verb I recognise.
+12601: That's not something you need to refer to in the course of this game.
+12657: You can't see "
+12702: I didn't understand the way that finished.
+12823: There are none at all available!
+15756: Sorry, you can only have one item here.  Which one exactly?
+22260: Only you can do that!
+25798: At the moment, "it"
+25870: and "me" means
+25897: exn** Player objects must have "number" prop **
+31325: M.
+36209: Trace off.
+36829: Nothing is in scope.
+36944: Nothing to do!
+36960: . You have died
+37238: Please give one of the answers above.
+37298: I beg your pardon?
+37316: dxn[You can't "undo" what hasn't been done!]
+37358: ehn[Can't "undo" twice in succession. Sorry!]
+37432: Sorry, that can't be corrected.
+37462: Think nothing of it.
+37484: "Oops" can only correct a single word.
+37555: Please answer yes or no.
+37575: Are you sure you want to quit?
+37609: Are you sure you want to restart?
+37635: Failed.
+37652: Restore failed.
+37665: Ok.
+37680: Save failed.
+37691: Ok.
+37706: The game file has verified as intact.
+37733: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+37908: Transcripting is already off.
+37931: End of transcript.
+37953: Score notification on.
+37975: Score notification off.
+37999: You have visited:
+38046: None.
+38271: You are carrying nothing.
+38314: Taken.
+38326: You are always self-possessed.
+38446: You already have that.
+38534: That isn't available.
+38577: That's hardly portable.
+38601: That's fixed in place.
+38625: You're carrying too many things already.
+38701: Already on the floor.
+38723: You haven't got that.
+38766: Dropped.
+38811: But it isn't there now.
+38830: Removed.
+38911: You can't put something on top of itself.
+38989: You lack the dexterity.
+39069: Done.
+39111: You need to be holding it before you can put it into something else.
+39191: Alas, it is closed.
+39213: You'll need to take it off first.
+39243: You can't put something inside itself.
+39333: Done.
+39375: That isn't in your possession.
+39398: First pick that up.
+39692: That's not something you can enter.
+39760: You can only get into something on the floor.
+39874: But you aren't in anything at the moment.
+39983: You'll have to say which compass direction to go in.
+40084: You can't go that way.
+40243: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+40345: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+40433: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+40850: But it's dark.
+40863: You find nothing of interest.
+40896: But it's dark.
+40986: You find nothing of interest.
+41014: You can't see inside, since it is closed.
+41113: That doesn't seem to be something you can unlock.
+41155: It's unlocked at the moment.
+41183: That doesn't seem to fit the lock.
+41237: That doesn't seem to be something you can lock.
+41303: First you'll have to close it.
+41331: That doesn't seem to fit the lock.
+41385: That's not something you can switch.
+41417: That's already on.
+41461: That's not something you can switch.
+41493: That's already off.
+41539: That's not something you can open.
+41571: It seems to be locked.
+41593: It's already open.
+41701: That's not something you can close.
+41733: It's already closed.
+41777: You're not wearing that.
+41825: You can't wear that!
+41847: You're not holding that!
+41871: You're already wearing that!
+41921: That's plainly inedible.
+41954: Not bad.
+41970: That was a rhetorical question.
+41998: This dangerous act would achieve little.
+42032: Nothing practical results from your prayer.
+42068: The dreadful truth is, this is not a dream.
+42106: That seems unnecessary.
+42156: What a good idea.
+42176: You smell nothing unexpected.
+42230: You taste nothing unexpected.
+42310: You feel nothing unexpected.
+42336: Digging would achieve nothing here.
+42368: Cutting that up would achieve little.
+42400: You jump on the spot, fruitlessly.
+42434: You would achieve nothing by this.
+42464: There's nothing suitable to drink here.
+42498: But there's no water here to carry.
+42530: Oh, don't apologise.
+42552: Real adventurers do not use such language.
+42588: Quite.
+42600: Violence isn't the answer to this one.
+42634: There's not enough water to swim in.
+42666: There's nothing sensible to swing here.
+42700: You can't usefully blow that.
+42754: No, you can't set that.
+42778: No, you can't set that to anything.
+42841: But you aren't holding that.
+42906: It is fixed in place.
+42928: You are unable to.
+42948: That would be less than courteous.
+42973: Nothing obvious happens.
+43002: Is that the best you can think of?
+43032: That's not a direction.
+43051: Not that way you can't.
+43101: You achieve nothing by this.
+43132: Futile.
+43139: You lack the nerve when it comes to the crucial moment.
+43188: You talk to yourself a while.
+43211: This provokes no reaction.
+43239: There is no reply.
+43259: Nothing is on sale.
+43305: I don't think much is to be achieved by that.
+43343: Time passes.
+43359: You aren't feeling especially drowsy.
+43463: It's stuck fast to the wall.
+43495: The pillars are too smooth to climb.
+43533: You can't toast that.
+43560: You can't reach it.
+43592: You can't reach it.
+43700: You can't reach it.
+43748: You can't reach it.
+43777: Neat! It bounces!
+43839: You fall to your death on the hard floor forty feet below.
+44054: And all you had to do was to cheat on a game...
+44089: You can't leave without the toaster!
+44123: "Whatever".
+44151: "I bought that rope from a fully reputable gardening catalog."
+44203: "It's really cool!"
+44220: "Whatever," says Walter.
+44246: You're dishonest, but you don't have it in you to kill.
+44310: "Well, gosh, boss..."
+44378: "Whatever," says Walter.
+44404: Why?
+44454: Walter is suddenly distracted by a dust mote and doesn't hear you.
+44639: Thank you.
+
+
+    It is the year 2753.  You are engaged in a contest, a
+race across the galaxy to acquire the Toaster of Battle Creek Michigan (the
+last functioning toaster in the known universe, and therefore extremely
+valuable.)
+
+    You like to win.  To ensure your success in this competition,
+you sabotaged the starships of the other participants.  Now you alone (or at
+least you and your faithful assistant Walter) have discovered the cavern of the
+Toaster.  Gloatingly, you ordered Walter to lower you into the cave...
+
+    But
+your rope snapped, and now you're trapped here - perhaps forever...
+45413: You eventually fall into a pit.
+45826: " in the version listing.  I've found them quite useful, and I'm sure
+you would too.
+46160: " that denotes that those debugging verbs are active.  Experiment with
+the ones I listed to find out what they do.  Once you've done that, the rest is
+simple.
+46286: An Annoying Adventure
+Copyright (c) 1996 by Wesley Osam.
+46360: You can't go that way.
+46436: It is pitch dark, and you can't see a thing.
+46468: As good-looking as ever.
+46932: This is one of the largest caverns you have ever been in.  The ceiling
+is forty feet up, and the walls are quite a ways away.  The ceiling is
+supported by massive pillars formed from stalactites and stalagmites.  The
+phosphorescent moss that lines the walls provides a dim glow.  Mysterious
+carvings have been left on one wall.  There is an opening to the east.
+
+    In
+the center of the cave stands the object of your quest:  The massive,
+thirty-foot pedestal on which the legendary Toaster of Battle Creek has stood
+for centuries.
+47304: The ceiling is too high to reach.
+47328: It's thirty feet high, round, and perfectly smooth.
+47420: You don't know what couses it, but you're grateful for the light it
+provides.
+47476: The pillars which hold the roof up are formed from stalactites and
+stalagmites.
+47606: What makes it special is that it is the only one still known to exist.
+47746: It's labeled "ACME Rocket Pack."
+47776: The skeleton of a coyote.
+47848: This is a small, featureless room with no exits apart from the one to
+the west.
+47904: Just a red rubber ball.
+47924: Mysteriously, a red rubber ball is sitting on the floor.
+47984: There's a large hole in the floor leading back down to the cavern, and
+the exit is to the north.
+48136: Walter is here, looking pleased to see you.
+

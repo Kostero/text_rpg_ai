@@ -1,0 +1,548 @@
+12574: Score:
+12588: Moves:
+12628: Time:
+12809: [You can't "undo" what hasn't been done!]
+12850: ke     gpm[Your interpreter does not provide "undo". Sorry!]
+12917: [Can't "undo" twice in succession. Sorry!]
+13099: Sorry, that can't be corrected.
+13134: Think nothing of it.
+13157: d."Oops" can only correct a single word.
+13504: Dia KpmTo repeat a command like "frog, jump", just say "again", not
+"frog, again".
+13585: You can hardly repeat that.
+13909: You can't begin with a comma.
+13972: You seem to want to talk to someone, but I can't see whom.
+14063: To talk to someone, try "someone, hello" or some such.
+15895: I didn't understand that sentence.
+16002: I didn't understand that number.
+16034: You can't see any such thing.
+16067: You seem to have said too little!
+16099: You aren't holding that!
+16128: You can't use multiple objects with that verb.
+16168: You can only use multiple objects once on a line.
+16247: You excepted something not included anyway!
+16285: You can only do that to something animate.
+16323: That's not a verb I recognise.
+16353: That's not something you need to refer to in the course of this game.
+16409: You can't see "
+16454: I didn't understand the way that finished.
+16575: There are none at all available!
+19429: Sorry, you can only have one item here.  Which one exactly?
+25216: Only you can do that!
+28346: At the moment, "it"
+28418: and "me" means
+28445: exn** Player objects must have "number" prop **
+33517: M.
+38484: Nothing to do!
+38500: . You have died
+38680: fhn[Your interpreter does not provide "undo". Sorry!]
+38778: Please give one of the answers above.
+38838: I beg your pardon?
+38895: Please answer yes or no.
+38915: Are you sure you want to quit?
+38949: Are you sure you want to restart?
+38975: Failed.
+38992: Restore failed.
+39005: Ok.
+39020: Save failed.
+39031: Ok.
+39046: The game file has verified as intact.
+39073: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+39248: Transcripting is already off.
+39271: End of transcript.
+39293: Score notification on.
+39315: Score notification off.
+39339: You have visited:
+39386: None.
+39611: You are carrying nothing.
+39654: Taken.
+39666: You are always self-possessed.
+39786: You already have that.
+39874: That isn't available.
+39917: That's hardly portable.
+39941: That's fixed in place.
+39965: You're carrying too many things already.
+40041: Already on the floor.
+40063: You haven't got that.
+40106: Dropped.
+40151: But it isn't there now.
+40170: Removed.
+40251: You can't put something on top of itself.
+40329: You lack the dexterity.
+40409: Done.
+40451: You need to be holding it before you can put it into something else.
+40531: Alas, it is closed.
+40553: You'll need to take it off first.
+40583: You can't put something inside itself.
+40673: Done.
+40715: That isn't in your possession.
+40738: First pick that up.
+41032: That's not something you can enter.
+41100: You can only get into something on the floor.
+41214: But you aren't in anything at the moment.
+41323: You'll have to say which compass direction to go in.
+41424: You can't go that way.
+41638: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+41740: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+41828: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+42121: Darkness, noun. An absence of light to see by.
+42243: But it's dark.
+42256: You find nothing of interest.
+42289: But it's dark.
+42379: You find nothing of interest.
+42407: You can't see inside, since it is closed.
+42506: That doesn't seem to be something you can unlock.
+42548: It's unlocked at the moment.
+42576: That doesn't seem to fit the lock.
+42630: That doesn't seem to be something you can lock.
+42696: First you'll have to close it.
+42724: That doesn't seem to fit the lock.
+42778: That's not something you can switch.
+42810: That's already on.
+42854: That's not something you can switch.
+42886: That's already off.
+42932: That's not something you can open.
+42964: It seems to be locked.
+42986: It's already open.
+43094: That's not something you can close.
+43126: It's already closed.
+43170: You're not wearing that.
+43218: You can't wear that!
+43240: You're not holding that!
+43264: You're already wearing that!
+43314: That's plainly inedible.
+43345: . Not bad.
+43363: That was a rhetorical question.
+43391: This dangerous act would achieve little.
+43425: Nothing practical results from your prayer.
+43461: The dreadful truth is, this is not a dream.
+43549: What a good idea.
+43569: You smell nothing unexpected.
+43623: You taste nothing unexpected.
+43703: You feel nothing unexpected.
+43729: Digging would achieve nothing here.
+43761: Cutting that up would achieve little.
+43793: You jump on the spot, fruitlessly.
+43827: You would achieve nothing by this.
+43857: There's nothing suitable to drink here.
+43891: But there's no water here to carry.
+43923: Oh, don't apologise.
+43945: Real adventurers do not use such language.
+43981: Quite.
+43993: Violence isn't the answer to this one.
+44027: There's not enough water to swim in.
+44059: There's nothing sensible to swing here.
+44093: You can't usefully blow that.
+44171: No, you can't set that to anything.
+44234: But you aren't holding that.
+44299: It is fixed in place.
+44321: You are unable to.
+44341: That would be less than courteous.
+44366: Nothing obvious happens.
+44395: Is that the best you can think of?
+44425: That's not a direction.
+44444: Not that way you can't.
+44494: You achieve nothing by this.
+44525: Futile.
+44532: You lack the nerve when it comes to the crucial moment.
+44581: You talk to yourself a while.
+44604: This provokes no reaction.
+44632: There is no reply.
+44652: Nothing is on sale.
+44698: I don't think much is to be achieved by that.
+44736: Time passes.
+44752: You aren't feeling especially drowsy.
+45070: "The Magic Toyshop" is an entry in the 1995 interactive fiction
+programming competition. It isn't a serious story by any means, but you might
+have fun playing with some of the gadgets herein. Thanks to Michael Kinyon for
+finding bugs and offering suggestions.
+
+"The Magic Toyshop" is copyright (c)
+1995 by Gareth Rees, and may be freely distributed and used under the terms of
+version 2 of the GNU General Public Licence or, at your option, any later
+version.
+
+Some of the ASCII graphics can be turned off using the command
+"plain" and on again using "pretty". There are hints provided in the game.
+45513: Special effects turned off.
+45541: Special effects turned on.
+45569: Help turned on.
+45589: Help turned off.
+45695: No reply.
+45809: You were looking for a birthday present for your niece Isabelle, that
+was it. The toy stores along Regent Street were blaring out pop music and the
+window displays were garish scenes of animated computer violence. But down a
+dim Victorian arcade you came across a different kind of toyshop, with a
+peeling rocking-horse behind a grimy window. Perhaps in here, you thought...
+46277: "I'm right out of puzzles at the moment," says Catharine.
+46656: "Welcome," says the young woman, "My father usually runs the store, but
+I'm afraid he isn't here today and I'm looking after the store. My name is
+Catharine."
+46819: a.
+An oak chest stands open
+47111: "You are a sweet thing," she says.
+47146: You punch her in the face. She screams and falls to the floor. One hand
+shielding her cheek, she looks up with frightened eyes at you towering over
+her. "I thought -" she starts, and then you want no more of this, and turn to
+flee. Your foot catches on the open chest, which wasn't at all where you were
+expecting it to be, and you tumble into it. The lid shuts with a reassuringly
+final thud.
+47480: "But you haven't even tried to solve that puzzle on your own!" exclaims
+Catharine. "I think you ought to have a go first, and then if you get stuck,
+maybe I can help you."
+47618: "You've already solved that," says Catharine. "I don't think you need
+any help from me."
+47716: "I don't think I should give you any more help with that," says
+Catharine. "If I gave the game away, it would only spoil your fun!"
+47852: "Good afternoon," says Catharine.
+47884: "Looking to leave, already?" says Catharine. "But you only just
+arrived!"
+47946: "I'm sure that we have just the thing for your niece," says Catharine.
+48004: "A lovely shop, isn't it?" says Catharine. "My father and I, we do feel
+under pressure to modernise, but we're resisting as much as we can. We feel
+that the best puzzles and games are the ones you have to work at; ones which
+don't give instant gratification. Yes, I know that's a bit patronising, but
+there you are."
+48243: "Pleased to meet you," says Catharine, shaking your hand.
+48331: You get down on hands and knees to attempt this task, when Catharine
+stamps on your hand and you yelp in pain. "I'm sorry," she says. "What are you
+doing down there? Have you lost your cuff-link?" You stand up, shame-faced.
+48564: You should try picking it up first.
+48602: You can't make out much inside the box. Maybe you could just try to
+empty it.
+48688: Something rattles inside the box.
+48726: You give the box a vigourous shake, and you hear a satisfactory rattle.
+48798: Catharine opens the chest and roots around inside it. "I wonder if your
+niece would like something like this?" she says. "It's quite old, but I think
+it still works." She closes the chest and shows you a small cardboard box. She
+holds it up to her ear and shakes it. "Sounds like it's all there. It does
+require some assembly, though," she adds, and hands the box to you.
+49222: You bring the two gadgets together, and after a bit of fiddling you make
+them fit, but without you to hold them together they immediately fall apart
+again.
+49342: You bring the two gadgets together, and they adhere. The resulting
+object looks not at all like a car, and quite a lot like a mouse.
+49538: "Keep that stuff off me!" says Catharine. "I know it's supposed to be
+non-toxic, but you never know with these things, and I'd rather be safe than
+sorry."
+49693: and in seconds it evaporates. It looks like the description of the
+amazing properties of the glue was accurate.
+50002: Nothing happens.
+50413: "But we're in the middle of a game!" Catharine exclaims.
+50610: into the centre square. "Try playing me at noughts and crosses," she
+says to you. "But I warn you, I'm unbeatable!"
+50868: "You can't play there," Catharine gently admonishes you. "That square's
+already occupied."
+51073: Use a letter to indicate which edge to draw: "play a", for example.
+51129: You're not playing a game at the moment.
+51170: Try using a number from one to nine.
+51251: "Well done," says Catharine. "You appear to have won. That's definitely
+three in a row you have there. And to think that I considered myself
+unbeatable! It just goes to show that you can always learn something new about
+a game." She tidies the paper away.
+51854: "Your move," she says.
+51880: "I won!" exclaims Catharine. "You see, I'm unbeatable at noughts and
+crosses! But
+51952: "It's a draw," says Catharine. "You don't play so badly. But you'll need
+to play better than that to beat me!
+52156: "Your move," she says.
+52199: You're not quite sure why you never noticed the sundial before.
+52246: It's a square pedestal of stone, with markings for the hours. The gnomon
+52458: apm. On the sundial
+52531: You attempt to screw the gnomon into the sundial, but it won't fit.
+After some examination, you realise that this is because the screw threads of
+the gnomon and the sundial have opposite chirality.
+52675: The filed-down gnomon fits into the hole, but the fit isn't good, and it
+wobbles. You take it out, dissatisfied with your efforts.
+52798: The filed-down gnomon fits into the hole and adheres.
+52842: It's the part of a sundial that casts the shadow. Made of metal, there
+is a long screw on one end
+52916: . The screw thread has been filed off
+52992: "You might like to have a go at this problem," says Catharine. She
+reaches into a pocket and extracts a strange metal object. "It's a gnomon," she
+says, handing it to you. "It's the missing part of that sundial over there. Can
+you repair it?"
+53224: You place the mushroom on the sundial. As the tip of the shadow falls
+across the mushroom, a white door appears in the mushroom's stalk. An inch-high
+man in shorts and t-shirt walks through the door and stares up at you, aghast,
+before turning on his heels and exiting through the door, which vanishes as
+soon as it closes. He left something behind, though.
+53475: You can't do that to a shadow.
+53538: That seems rather a dangerous thing to attempt.
+53578: Futile.
+53590: You've already filed down the gnomon.
+53622: The disk from the Towers of Hanoi set isn't a particularly good file,
+but you make do, and with a lot of effort you manage to file down the gnomon's
+screw thread.
+53743: A wooden board, bearing three pegs.
+54197: It's easier to play with the Towers of Hanoi when they're on the floor.
+54262: You should say which peg you want to put it on.
+54297: There's only room for the three pegs.
+54353: Catharine rummages around in the chest and extracts a large wooden board
+on which three pegs are set. Three metal disks, each with a hole in the middle,
+are threaded onto the left peg. "This puzzle is called the Towers of Hanoi,"
+she says. "The idea is to move the three disks from the left peg to the right
+peg in only six moves, without putting a disk on top of a smaller one, and only
+picking up the top disk from a peg. Here, have a go."
+54901: "You've had your six moves," says Catharine, "and it doesn't look as
+though you've managed to move the stack successfully. It's back to the
+beginning for you." She collects up the disks and puts them back on the left
+peg.
+55088: "You don't seem to be getting the hang of this," she says. "Perhaps you
+should try a different game."
+55170: "The rules are really very simple," she says, "One disk at a time, and
+never put a larger disk on a smaller one."
+55260: "There's nothing to be gained from cheating like                    
+that," she says.
+55645: You can only put disks on the peg.
+55734: is made of metal, with a very rough surface: it is painful to run your
+finger across it. There is a hole in the middle
+55825: . It is on
+56103: "You can only take the top disk from a peg," says Catharine.
+56213: "You can only have one disk at a time," says Catharine.
+56511: ," says Catharine, "but putting
+56622: Taken.
+57245: "But we're in the middle of a game!" Catharine exclaims.
+57570: for me. I'll let you start, but since it's an advantage to start, if we
+get two boxes apiece then I win. And I warn you, I'm unbeatable."
+57853: "You can't play there," Catharine gently admonishes you. "That edge has
+already been drawn."
+58063: The squares are numbered from 1 to 9, with 1 at the bottom left and 9 at
+the top right. To play, type "play o at 1", or just "play 1" for short.
+58177: You're not playing a game at the moment.
+58235: Try using a letter from A to L.
+58309: "You get another move," says Catharine.
+59021: "The game is over," says Catharine. "You scored
+59162: I won! I told you I was unbeatable! But I'll give you another chance."
+She tidies away the finished game and brings out a new piece of paper, and
+draws a grid of nine dots on it. "I'll let you start again."
+59327: It seems that you won. Well, my. I was sure that Mister Conway said that
+my symmetry strategy would never fail. Still, we live and learn." She tidies
+away the finished game.
+59454: "Your move," she says.
+59492: You feel silly talking to the hole.
+59539: Pkke es 5nThe hole is dark inside.
+59632: . The loaf encounters an obstacle, which you push as far into the hole
+as you can.
+59708: . The loaf encounters an obstacle, and there is an angry hiss. Alarmed,
+you retrieve your bread.
+59837: You put the robot mouse into the hole.
+59866: Nothing is to be gained by this.
+59913: The mouse emits a querulous, unhappy bleep.
+59959: The mouse bleeps with annoyance.
+59994: The mouse wheels spin, but can't get a good enough grip to move.
+60051: The mouse emits a low-pitched bleep.
+60090: The mouse just squeezes through the hole, and disappears from view.
+Unfortunately you can't very easily talk to it now...
+60278: , and then almost looks proud as a magnet cuts out and something metal
+drops off the underside of the mouse onto the floor. The lost key is found!
+60422: From somewhere inside the hole, you hear a disconsolate bleep.
+60828: From somewhere inside the hole, you hear a sharp hiss, and a long
+drawn-out high-pitched squeal, and then the robot mouse comes flying out of the
+hole at high speed, looking somewhat the worse for wear.
+60995: "Ah, I should have explained some things," says Catharine. "There's a
+maze inside the wainscot in the form of a four-by-four grid of intersections,
+and my key is at the northwest corner. There's a robot cat in the maze too.
+When the robot mouse starts at the southeast corner, the robot cat goes to the
+northwest corner. Every time you give an instruction to the mouse and it moves
+from one intersection to the next, the robot cat moves too. I hope this helps."
+61382: "That's a pretty robot mouse you have there," says Catharine. "Looks
+like just what I need. You see, I dropped my key through the floorboards from
+the attic, and it's fallen into the wainscot somewhere. Perhaps if you could
+send the mouse into that mousehole over there, then it could find my key."
+61658: Catharine looks at the shadow on the sundial. "It looks like it's
+tea-time," she says. "Perhaps you would care to join me in some food?" She
+opens the chest, picks up a wicker hamper, and closes the chest again.
+61831: You've never really been fond of raw egg.
+61862: You're not certain if the egg is raw or cooked, and it would be nice to
+find out before you broke it.
+61948: The egg wobbles distinctly in your hand; it's clearly raw.
+62200: ' kxnbut Catharine leaps backwards to avoid it. "Mind where you point
+that thing!" she says.
+62361: The already-charged rod explodes! Your hand is somewhat singed.
+62411: The rod charges with etherial power, drawn up from the earth through ley
+lines...
+62487: The egg is still too hot too to hold.
+62522: The egg doesn't wobble at all: it's clearly hard-boiled.
+62594: Nothing happens.
+63093: "But we're in the middle of a game!" Catharine exclaims.
+63168: Catharine open the chest and extracts another piece of paper and four
+small pieces. The paper has a three-by-three grid of squares on it, like a
+noughts and crosses game. Catharine places two pieces at the left and two
+pieces at the bottom.
+
+"This is a game called Dodgems," she says. "You have the
+pieces at the bottom, and I have the pieces at the left. You can move your
+pieces up, left or right, and I can move mine up, down, or right. Your aim is
+to get both your pieces off the top of the board before I get mine off the
+right hand side."
+63827: "You can't move your pieces left off the edge of the board," says
+Catharine.
+63904: "You can't move your pieces right off the edge of the board," says
+Catharine.
+63972: "You can't move a piece any more once it's left the board," says
+Catharine.
+64107: "You're not allowed to move a piece onto another piece," says Catharine.
+"There's no capturing in dodgems."
+64292: ixn
+"You win!" says Catharine. "A splendid performance." She clears away
+the paper and the pieces.
+64545: Move is losing, considering responses:
+64746: Result: MoveScores looks like:
+64802: "I'm stuck," says Catharine. "Which means that you lose."
+65141: "I win!" she says. "However, I am feeling generous today and I shall
+give you another chance." She rearranges the pieces to their starting
+positions.
+65308: "Oops. I appear to have boxed you in," she says.
+65352: "Your move," she says.
+65422: "You're not allowed to move your pieces downwards," says Catharine.
+65475: a.
+An oak chest stands open
+65550: There's a little screen and keypad on the side of the chest.
+65765: The screen reads "
+65792: Input:
+65839: Output:
+65908: You climb into the chest, which turns out to be full of drapery: large
+engulfing folds of cloth. You struggle to be free of them, and pulling the last
+one aside, you find yourself walking down a Victorian arcade. Looking around,
+you see no sign of the toyshop, but clutched in your hands, you find a wrapped
+parcel with a tag saying "To Isabelle, on her birthday." You are unsure of how
+you acquired it, but you are somehow sure that Isabelle will enjoy it...
+66246: Nothing happens.
+66367: screen and a keypad with six keys: "1" to "5" and "send".
+
+"Aha!" says
+Catharine, "You've found the combination lock to the chest. You probably won't
+get very far with it unless I give you some hints, so here goes.
+
+"Some
+combinations are said to generate other combinations according to certain
+rules. When you enter a combination, the chest either beeps, or displays the
+generated combination on the screen. If a combination generates itself, then
+the chest opens."
+66715: You can't see any such thing.
+66748: The keys are "1" to "5" and "send".
+66784: The chest beeps, but your digit doesn't appear on screen. Perhaps you've
+reached the limit on the size of input.
+66899: You can't see any such thing.
+66963: The chest beeps at you.
+67016: There's a series of clicks from somewhere inside the chest, and the lid
+pops open.
+67559: You can't see anything to type on.
+67591: Use for example "type 123" to type a string of digits and press "send".
+67692: The only numbers on the keypad are "1" to "5".
+67794: A fun game for all the family
+by Gareth Rees
+New players should type
+"help"
+67876: You can't go that way.
+67952: It is pitch dark, and you can't see a thing.
+67984: As good-looking as ever.
+68028: Who knows what might be hidden in the dark rafters and shadowy corners
+of this emporium?
+68088: You turn to leave, but alarmingly you are unable to find a way out.
+68140: She is a young woman, in her late teens perhaps. She is wearing a white
+crinoline dress with a hoop skirt, and her long black hair is tied into a
+pigtail.
+68248: "It's a little trifle, I admit," says Catharine, "but you might like it,
+and so might your niece. I don't want to tell you what it is until you've made
+it, as that would spoil the surprise".
+68388: "I did say it would need some assembly," says Catharine. "Doesn't glue
+usually come with these models? I wonder where it's got to?"
+68500: The box is very faded, perhaps as a result of lying unpurchased on a
+shelf for too many years. You can make out the words "Airfix" and "voice
+activated", and a picture of something that might be a model car.
+68648: It's a piece of metal, covered on one side with what looks like a piece
+of grey carpet. Who knows what it could be for?
+68732: It's a piece of metal with four rubber wheels. Who knows what it could
+be for?
+68788: A little tube with a nozzle on one end. Writing along the side reads
+"Super Safe Wonder Glue! Sticks only metal. Completely non-toxic and safe for
+all other materials."
+68962: Catharine.
+68972: "It's such a simple game to master," says Catharine, "that you have no
+chance of beating me without cheating."
+69068: "The word `chirality' means handedness," says Catharine. "It refers to
+the sense in which a spiral coils, clockwise or anticlockwise."
+69168: "The only thing stopping you is the screw thread on the gnomon," says
+Catharine. "If it weren't for that, it would be easy."
+69260: "Can you find a way to reflect the gnomon?" asks Catharine. "Remember, a
+reflection in three dimensions is a rotation in four dimensions." She giggles.
+69372: "If you can't reflect the screw thread," says Catharaine, "maybe you
+could find a way to file down the gnomon so it fits?"
+69480: The gnomon casts a shadow across the sundial. The tip of the shadow just
+reaches the marking for tea-time.
+69556: "The usual solution is recusive," says Catharine. "For example, to move
+a stack of three disks from the left peg to the right peg, first move a stack
+of two disks to the middle peg, then move the big disk, then move the stack of
+two again.
+69724: "I said the usual solution is recursive," says Catharine, "but you'll
+see if you take the trouble to work it out that three disks take seven moves to
+transport. So you'll have to be cleverer than that to move them in six.
+69880: "The usual recursive solution is in fact minimal," says Catharine. "So
+you'll have to cheat to do better than that."
+69968: "If you could move two disks at a time," says Catharine, "it would be
+easy, but the rules only allow you to pick up the top disk from a stack."
+70100: "Did you never play dots and boxes when you were a child?" asks
+Catharine. "Many children play it, but few continue to have any interest in it
+when they grow up, which I think is a shame, because it's full of interesting
+tricks: struggles for control, sacrifices and lots of game theory."
+70316: "I can offer you a few hints about how the cat works," says Catharine.
+"First, the cat only moves after the mouse has moved successfully."
+70416: "The cat's strategy," says Catharine, "is always to move so as to
+minimise the distance between it and the mouse."
+70500: "If the cat's strategy doesn't provide a unique move," says Catharine,
+"then it moves to the intersection occupied by the mouse at the end of the last
+turn, if possible. Otherwise, it chooses randomly among the moves that bring it
+closest to the mouse."
+70680: "If you think about what I've said," says Catharine, "and play with some
+counters on paper, you'll realise that it's just a parity problem. The cat is
+always an even number of moves away from the mouse at the end of its turn, and
+the cat can always reduce this number if the mouse doesn't retreat."
+70892: "Now, if the mouse didn't start an even number of moves away from the
+cat," says Catharine, "the game would be a very different thing altogether."
+71000: A little hole in the wainscot of the west wall, such as might have been
+made by mice.
+71060: A little mouse clad in fake grey fur, with four rubber wheels.
+71116: Lying where the mouse dropped it is a small brass-coloured key.
+71160: Brass is of course a non-magnetic copper-zinc alloy, so presumably this
+key also contains iron.
+71232: "This isn't really a puzzle," says Catharine. "It's just tea-time. If
+you want to make a puzzle out of it, try eating the egg."
+71328: Catharine says, "If you haven't played Infocom's wonderful game
+`Trinity' by Brian Moriarty, you're going to have problems with this puzzle."
+71436: "In the game `Trinity'," says Catharine, "part of the action takes place
+on the surface of a giant sundial covered with mushrooms, each mushroom
+representing a mushroom cloud from the explosion of an atomic bomb."
+71588: "The shadow from the gnomon was important too," says Catharine. "When it
+touched a mushroom, magical things would happen."
+71680: Catharine says, "You need to have played Graham Nelson's marvellous game
+`Curses' too, or else you'll struggle."
+71768: "In the game `Curses'," says Catharine, "There are a number of magic
+wands that can be charged by striking and discharged by pointing them at
+things."
+71888: A wicker picnic hamper.
+71908: A long, thin loaf of French bread.
+71940: A featureless mahogany rod, whose purpose is oblique. It is about the
+size of a matchstick.
+72024: "Dodgems was invented by mathematician Colin Vout," says Catharine.
+"It's one of the more interesting games that can be played on a noughts and
+crosses board."
+72140: "I can't offer you much in the way of strategy," says Catharine, "except
+that it isn't always wise to move a piece off the board when it can be blocking
+your opponent's pieces instead."
+72272: "A final hint," says Catharine. "The northeast corner of the board is a
+good square to aim for."
+72506: plus 1. For example, the number 12345 generates the number 2346."
+72652: , but with its first digit removed. For example, since we know that 123
+generates 24, then 2123 generates 4."
+72930: repeated. For example, since 123 generates 24, then 4123 generates
+2424."
+73052: generates the reversal of Y. For example, since 1234 generates 235, then
+51234 generates 532."
+

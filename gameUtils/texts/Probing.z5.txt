@@ -1,0 +1,601 @@
+15433: Nothing to do!
+15468: o. You have won
+15552: It is now pitch dark in here!
+15579: I beg your pardon?
+15643: Sorry, that can't be corrected.
+15672: Think nothing of it.
+15725: As good-looking as ever.
+15757: You can hardly repeat that.
+15782: You can't begin with a comma.
+15896: I didn't understand that number.
+15925: You can't see any such thing.
+15961: You aren't holding that!
+16003: I'm not sure what "
+16055: That's not a verb I recognise.
+16094: You can't see "
+16202: Nothing to do!
+16219: There are none at all available!
+17129: Please answer yes or no.
+17155: Are you sure you want to quit?
+17200: Failed.
+17220: Restore failed.
+17237: Ok.
+17255: Save failed.
+17270: Ok.
+17314: Transcripting is already on.
+17380: Transcripting is already off.
+17438: Score notification on.
+17459: Score notification off.
+17482: You have visited:
+17510: Objects you have handled:
+17535: None.
+17919: You are carrying nothing.
+17968: Taken.
+17979: You are always self-possessed.
+18512: Dropped.
+18622: Removed.
+18761: You lack the dexterity.
+18842: Done.
+19108: Done.
+19319: Wrahn seem interested.
+19900: You can't go that way.
+20460: But it's dark.
+20477: You find nothing of interest.
+20513: But it's dark.
+20604: You find nothing of interest.
+21732: . Not bad.
+21750: That was a rhetorical question.
+21804: That seems unnecessary.
+21827: Keep your mind on the game.
+21852: What a good idea.
+21871: You smell nothing unexpected.
+21898: You hear nothing unexpected.
+21923: You taste nothing unexpected.
+21958: Keep your hands to yourself!
+21983: You feel nothing unexpected.
+22008: If you think that'll help.
+22117: Oh, don't apologise.
+22147: Quite.
+22216: You achieve nothing by this.
+22304: You wave, feeling foolish.
+22454: You are unable to.
+22473: Nothing obvious happens.
+22523: That's not a direction.
+22546: Not that way you can't.
+22578: Keep your hands to yourself.
+22603: You achieve nothing by this.
+22636: Futile.
+22665: You talk to yourself a while.
+22692: This provokes no reaction.
+22720: There is no reply.
+22739: Nothing is on sale.
+22758: Your singing is abominable.
+22792: Time passes.
+45643: It's not as small as that.
+45705: It is permanently open.
+45858: "Look, I have a job to do here."
+45977: The official seems unimpressed.
+46535: The officer seems unimpressed.
+46595: You extract a single match.
+46616: There are no more matches.
+46637: You already have a match.
+46705: The match is almost burned out.
+46793: You can't quite reach the vent.
+46925: The officer seems unimpressed.
+46985: It currently contains nothing.
+47094: The torch's batteries are flat.
+47249: Nothing happens.
+47278: It's locked.
+47315: Nothing happens.
+47350: James does not understand.
+47412: He seems unimpressed.
+47459: He doesn't want that.
+47510: You'd better not touch it.
+47547: It's already open.
+47589: Dropped.
+47708: Nothing happens.
+47895: "I've no idea what's going on."
+47967: The officer seems unimpressed.
+47998: James does not understand.
+48068: The engineer seems unimpressed.
+48244: Gutter Scraping.
+48267: Lowly Ensign.
+48288: Career Person.
+48309: Hero-Type Guy.
+48332: Rescue Ranger.
+48349: Void Wanderer.
+50886: An Epic Sci-Fi Adventure by Ben Croshaw.
+51076: Score:
+51084: Moves:
+51092: Time:
+51100: You can't go that way.
+51432: Please give one of the answers above.
+51460: [You can't "undo" what hasn't been done!]
+51496: [Can't "undo" twice in succession. Sorry!]
+51536: "Oops" can only correct a single word.
+51564: It is pitch dark, and you can't see a thing.
+51596: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+51656: You seem to want to talk to someone, but I can't see whom.
+51700: To talk to someone, try "someone, hello" or some such.
+51740: I didn't understand that sentence.
+51800: You seem to have said too little!
+51824: You can't use multiple objects with that verb.
+51860: You can only use multiple objects once on a line.
+51896: You excepted something not included anyway!
+51928: You can only do that to something animate.
+51960: That's not something you need to refer to in the course of this game.
+52008: I didn't understand the way that finished.
+52040: Sorry, you can only have one item here. Which exactly?
+52192: Are you sure you want to restart?
+52216: The game file has verified as intact.
+52244: The game file did not verify as intact, and may be corrupt.
+52288: Attempt to begin transcript failed.
+52316: Attempt to end transcript failed.
+52340: You are carrying too much to hold.
+52364: You can't put something on top of itself.
+52396: You can't put something inside itself.
+52452: You can only get into something freestanding.
+52484: But you aren't in anything at the moment.
+52516: You'll have to say which compass direction to go in.
+52556: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+52652: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+52736: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+52912: This dangerous act would achieve little.
+52940: Nothing practical results from your prayer.
+52972: The dreadful truth is, this is not a dream.
+53004: Digging would achieve nothing here.
+53032: You jump on the spot, fruitlessly.
+53060: You would achieve nothing by this.
+53084: There's nothing suitable to drink here.
+53112: But there's no water here to carry.
+53140: Real adventurers do not use such language.
+53172: Violence isn't the answer to this one.
+53200: There's not enough water to swim in.
+53228: There's nothing sensible to swing here.
+53256: That would be less than courteous.
+53280: Is that the best you can think of?
+53304: You lack the nerve when it comes to the crucial moment.
+53344: I don't think much is to be achieved by that.
+53376: You aren't feeling especially drowsy.
+53464: This is the place you have lived in for the last month and a bit. It was
+all you could afford with the small pay you gleaned from countless rubbish
+jobs. Looking back, you should have looked harder. The walls are unpapered, the
+floor uncarpeted, and the room itself only contains a narrow, hard bed, a
+dresser and a small television. The front door is to the west.
+53724: The television came with the room, and is shot to hell. It only gives
+you seventeen channels.
+53792: You have better things to do than ogle the box.
+53832: This bed has granted you many sleepless nights.
+53872: The socks would only come back to haunt you.
+53904: The comb is turquoise and is divided into narrow- and wide-teeth
+sections. Isn't technology wonderful?
+53980: A mailbox is screwed to the wall by the door.
+54012: This is where letters sent from the receiver downstairs ends up - as
+long as they're yours. Then again, that hasn't always been a necessary factor.
+54116: It is addressed to you, and has apparently come from the Bureau of
+Interstellar Employment! Hooray!
+54188: The letterhead proclaims it to be from the Bureau of Interstellar
+Employment.
+54270: Connery's chief ensign has recently passed away, and we require someone
+with your skills to take his place. The Connery is a scout ship surveying the
+Federation borders and is currently in orbit around Triton waiting for you, so
+please repair with all haste to your nearest Teleportation Centre with all your
+necessary luggage. Show this letter to the attendant to be sent to your
+posting. On behalf of the Bureau of Interstellar Employment, allow me to
+congratulate you."
+54600: You are traversing a squalid, dirty hallway connecting a multitude of
+squalid, dirty apartments. Similar hallways snake off in all directions, but
+the welcome exit door is to the north. Your apartment lies east.
+54748: This place is like a maze. If you went that way you'd only get lost.
+54800: The label on the side boasts that this drink can make you clever, sporty
+and popular. You have found this not to be the case.
+54888: You are not desperate enough to imbibe whatever bacteria-laden fluid
+lurks in the darkness.
+54952: What! Put that through this tiny little hole?
+54988: An artificial sun shines down on this litter-strewn street on the
+city-moon of Triton. An endless queue of hovercars speed along tarmac to the
+north and east, blocking access in those directions. The pavement continues
+west, and a grotty little apartment complex squats to the south.
+55184: You blunder straight into the path of a passing hovercar. Your head is
+crushed under the massive force of air pressure under the vehicle.
+55280: You begin to cross the road, and are narrowly missed by a speeding
+hovercar.
+55336: Roads covered in endless streams of traffic surround you. Smog gets in
+your face and causes you to cough. The pavement becomes a little more swept as
+you approach the more swanky district - that is, the people here actually have
+doormats. The pavement heads back east, and to the west is a government
+building - the Teleportation Centre.
+55572: You blunder straight into the path of a passing hovercar. Your head is
+crushed under the massive force of air pressure under the vehicle.
+55668: You begin to cross the road, and are narrowly missed by a speeding
+hovercar.
+55724: The only newspaper in circulation on Triton, the tabloid is nothing but
+scaremongering and sensationalism.
+55800: Lucky people go INTO the teleportation centre - unlucky people come OUT.
+This is where people who have earned the money are beamed into an orbiting
+spaceship, and where new arrivals who need some cheap accommodation are sent
+from the passenger freighters. To the north is one of many teleportation
+capsules.
+56016: The interior of this place is very impressive. The rooms themselves are
+huge, with sparkly clean walls and carpeted floors. You are standing in the
+main area, where passengers are beamed up and down. To the north is one of many
+teleportation capsules.
+56192: The booth is pear-shaped, just big enough to admit a full-grown man, and
+connected to an intricate network of wires and cables.
+56284: The teleportation booth is meant for people, not that.
+56324: Scowling behind his desk is a uniformed customs official.
+56364: The man returns your stare down his nose. Clearly he gives the
+impression that you are the least important thing to have crawled in off the
+streets.
+56500: "If you've been assigned to a spaceship, show me the relevant
+documentation and you're away."
+56568: "If you've been assigned to a spaceship, show me the relevant
+documentation and you're away."
+56636: I wouldn't try to cross the man if I were you.
+56784: Connery is waiting for you, ENSIGN McSondheim," he says with barely
+concealed dislike. "Step into the booth, press the 'ready' button and I'll do
+the rest."
+56904: The teleportation booth is poorly lit by the small window in the door to
+the south, and coupled with the extremely small space in creates a terrific
+sense of claustrophobia. The curved reflective walls cast twisted images of
+yourself.
+57064: You see the control room through the window.
+57096: The panel by the door has only one, illuminated button.
+57136: You press the button, and watch as the official enters a set of
+co-ordinates and pulls a lever on his control desk. There is a brief whirring
+of machinery before the tiny chamber fills with what looks like smoke and snow,
+you feel the surface beneath your feet disappear, and quickly be replaced with
+another.
+57352: You are teleported to... nowhere. You have become a cloud of atoms
+doomed to float around space forever. Needless to say you don't survive the
+process.
+57612: Connery. A door is set in the north wall, and a porthole is in the east.
+57664: Oh, sure.
+57672: You don't understand the panel. That's not your job.
+57712: Stars on a black background twinkle at you. Dull, but at least it's not
+Triton.
+57772: Jacob Matthews, Captain of the Connery, is standing here heroically.
+57824: Discovered new worlds, been to hell and back, became a legend - none of
+these things have happened to Captain Matthews, because he commands a piddling
+little routine scoutship.
+57948: Discovered new worlds, been to hell and back, became a legend - none of
+these things have happened to Captain Matthews, because he only commands a
+piddling little routine scoutship.
+58162: connery. I'm sure this will be an excellent start to your interstellar
+career. Your shift isn't for another six or seven hours, so why don't you go
+and recuperate in your quarters." With that, he hands you a keycard and leaves
+the room.
+58328: You're far too unimportant to go bothering the Captain now!
+58372: It looks like a credit card, only bigger.
+58404: This is a nondescript corridor on board the fairly small scoutship. The
+walls are lined with conduits, pipes and cables you could never understand.
+There is a door here stencilled with the name 'Ensign Second Class Martin
+McSondheim.' Another corridor leads south.
+58592: You don't have anywhere else to go.
+58620: The door is devoid of handles, knobs or keypads. There is no obvious way
+of opening it.
+58684: There's no visible way of opening it.
+58712: There is a panel built into the wall by the door.
+58748: There is nothing on the panel but a small slot.
+58784: There aren't any buttons - just a slot.
+58814: You insert your keycard in the obvious slot, jiggle it about, and the
+door ju-jungs open. You step inside, grinning.
+58900: What? Put that in a keycard slot? Are you silly?
+58936: Your quarters are pokey, but a damn sight better than the apartment on
+Triton. It's divided into the Lounge, Sleeping and Bathroom Area, although the
+latter two are more or less the same. A soft-looking bed with nice shiny sheets
+is in the Sleeping Area, and the lounge area contains a low metal coffee table
+and a single chair. There is a door to the south.
+59192: The lounge area doesn't really live up to that name.
+59232: The bed looks warm and inviting.
+59256: You lie on your soft, warm bed, curl up and go to sleep. It'll be a few
+hours before you'll need to work. 
+
+Thus began your new job on the Connery. It
+was an easy life - for a few hours a day you sat in front of the console panels
+on the Bridge and do much easier things than were practised on the simulator at
+the Academy. Then, one day, you were working perfectly happily when it
+happened. It would change your life forever.
+59564: You hear something move in the darkness...
+59596: You flail around but, apart from a chittering sound, nothing happens.
+59646: You hear a tiny chitter of triumph.
+59674: You hear whatever creatures inhabit the darker areas of the ship crawl
+out into the room.
+59738: Something brushes against your leg. You kick outwards but nothing
+connects.
+59794: You just have time to sense a large crowd of thingies approaching before
+you are stripped to your bones by nocturnal spaceship-dwellers!
+59892: Since you work during the night shift, you and the commanding officer
+are the only two people here. The room is wide, circular, and dominated by a
+massive viewscreen showing a repetitive view of stars. In the centre of the
+room the Captain's chair is positioned, and in front of the screen sits and
+array of consoles. A door at the south end of the room leads away from the
+bridge.
+60156: You can't leave! You've got work to do!
+60188: The console area is split into four stations - navigation,
+communication, science and tactical. They are covered in touch-sensitive pads
+which control the ship.
+60300: You're already performing the correct routine with the controls.
+60346: A beep makes you start. The console seems to think that something is
+near the ship, but it soon disappears, so you pay no further heed.
+60444: The computer reports a malfunction in Engineering, but, as before, the
+signal disappears. You wonder if you should get it checked.
+60538: Odd - a red light is flashing on and off on the console. This would
+normally mean that red alert has been sounded. Maybe you should ask the
+Commander about it.
+60656: Stars. That's about it.
+60676: First Officer Commander Stephen Richards is here, taking command.
+60724: Since it's the night shift, the Captain is currently in bed and his
+First Officer has taken command.
+60796: Commander Richards does not understand.
+60824: "This ship's a beaut, isn't she? I'm sure it'll look good on my resume
+when I try to find work somewhere else."
+60908: "He's a fine officer, and an example to us all."
+60944: "You've done a good job since you arrived. If you find a better job, I'd
+be happy to write a statement about you.
+61026: You point out the flashing light, and ask Commander Richards if he
+sounded red alert. He replies to the negative, and tries to cancel red alert.
+Nothing happens. 
+
+    "Odd," he says, "the Captain's console doesn't seem to
+be responding. I hope he doesn't make me pay for that." 
+
+    Then you notice
+that none of your controls are working either. You point this out, and the
+Commander becomes more and more anxious. 
+
+    He taps his communicator.
+"Engineering, this is the bridge." There is no response. "Engineering,
+respond." Still, a stony silence. 
+
+    You notice that lights are winking off
+irregularly on your control panel. "It seems that electrics systems are
+shutting off one by -" you are interrupted by the persistent humming of the
+engine suddenly stopping and the lights turning off.
+61604: You have nothing to say about that.
+61632: "I don't know anything about that."
+61660: The commander has no interest in your sordid life.
+61696: Don't try to upset him, he could get you fired.
+61732: You picked it up on shore leave a few weeks ago, and it bears the name
+of a bar in which you met a woman with whom you totally failed to get off with,
+or even talk to. You keep the matchbook as sentiment, and there can't be many
+matches left.
+61900: If you want to get a match out, try "OPEN MATCHBOOK".
+61948: The match flares with a small amount of smoky light.
+61984: Your fingers burn on the flame and you are forced to put the match out.
+Seeing no further use for it, you throw the match away.
+62076: Plunged into darkness, the Bridge is suddenly a lot less appealing.
+Consoles seem to leap out at you, the Captain's chair has become a silhouette
+of something poised to pounce. You can just make out the exit door to the south
+and a ventilation shaft above you.
+62260: The doors have stopped working. Perhaps the power has been shut off.
+62308: The door will not open if the electrics are down, and is shut far too
+tightly to prise open.
+62372: The ventilation system circulates air around the ship. The shafts are
+just about big enough to admit a man.
+62446: By standing on the chair you are able to yank open the ventilation shaft
+and crawl inside. Commander Richards shouts up at you to go to engineering to
+find out what happened.
+62572: First Officer Commander Stephen Richards is here, looking worried.
+62624: The Commander seems tense. From what little light there is here you see
+that his face is damp with sweat.
+62700: Commander Richards does not understand.
+62728: "I don't know what's going on. One of us will have to go to engineering
+and find out what's going on. Since I'm the senior officer, I delegate you."
+62840: "Jesus, Martin, is this really the time or the place?"
+62884: "Jesus, Martin, is this really the time or the place?"
+62928: Don't try to upset him, he could get you fired.
+62964: You are crawling on your hands and knees through the ship's ventilation
+system. What little light filters in from emergency lighting in various parts
+of the ship only lets you see in your immediate vicinity. The shaft continues
+north.
+63128: You are crawling on your hands and knees through the ship's ventilation
+system. What little light filters in from emergency lighting in various parts
+of the ship only lets you see in your immediate vicinity. The shaft continues
+north.
+63292: You are crawling on your hands and knees through the ship's ventilation
+system. What little light filters in from emergency lighting in various parts
+of the ship only lets you see in your immediate vicinity. The shaft continues
+south, and below you is a closed panel which presumably swings aside.
+63496: The panel is closed.
+63512: You kick downwards, and the panel suddenly bursts open and you tumble to
+the floor below, bruising your bum.
+63588: You are perched on an unsafe gantry high above an empty cargo bay. Using
+modern technology it hovers in mid-air but no-one seemed to see fit to put a
+fence round it. A rope ladder leads down, and there is a control panel in
+reach.
+63748: Ha, no. The vent is too high to reach.
+63780: That would not be the best idea.
+63804: A huge magnetic crane lurks above.
+63828: Hanging from the ceiling is the magnetic crane, used for moving heavy
+metal things around.
+63892: The crane contains a big metal crate.
+63920: They must control the magnetic crane.
+63946: The crate crashes down onto the platform, which promptly shatters into
+millions of rusty metal bits. As the crate tumbles into darkness, as does the
+power pack for the hovering gantry, and you are thrown off. Fortunately you are
+spared a hideous bloody death when your flailing hand grabs the side of a
+ladder which goes up the side of the shaft. Counting your blessings, you begin
+to descend.
+64220: The crane begins to emit a low buzzing noise as you activate the
+electromagnet.
+64276: The metal crate leaps up and sticks to the crane in an almost balletic
+movement.
+64332: Nothing else transpires, so you turn it off to save power.
+64376: This superfluous cargo bay was purchased as part of a two-for-one offer,
+and contains very little. It is not really a room in itself - merely a rusty
+platform positioned a long way up a disused coolant shaft. A rope ladder leads
+up to a gantry.
+64548: It's a standard disposable ship-issue hand-held torch. These ones gobble
+up battery power notoriously fast.
+64624: Your torch appears to be dimming.
+64652: The torch goes out. These disposable things last fifteen minutes and the
+batteries can't be replaced, but at least they don't eat into the budget.
+64756: A heavy metal crate is positioned here. The floor underneath seems to
+sag alarmingly, but remains in one piece.
+64836: With a great amount of effort, you succeed in pushing the crate into
+more or less the centre of the platform.
+64912: There's no way you could or would move that again.
+64948: When ship engines were much bigger and less ecumenical, they often
+required coolant systems which would stop the components and emissions from
+overheating or reacting catastrophically. This shaft is part of that system,
+but since the engine was upgraded it has fallen into disuse and is now used as
+a storeroom when the crew has things to store. There is a hatch to the east.
+65204: You are in a section of corridor on the engineering deck of the ship. A
+storeroom is to the west, and the corridor heads south and east.
+65300: You are in a section of corridor on the engineering deck of the ship.
+The actual engineering area is to the south, while a door marked with a snake
+coiled around a staff is the east. Otherwise the corridor goes back west.
+65452: The door appears to be locked.
+65476: Next to the door is a panel.
+65496: It looks similar to the one outside your quarters - except this one
+doesn't even have a slot.
+65562: Sickening yourself slightly, you press the disembodied palm against the
+panel, and after a couple of clicks and beeps the door slides aside. You step
+in, and the door closes behind you.
+65696: You push your hand against the panel. Nothing happens.
+65736: You are in a section of corridor on the engineering deck of the ship. To
+the west are a pair of lift doors, and the corridor leads north.
+65832: You approach the doors, but they don't open. Not surprising, seeing as
+this isn't Star Trek and will only open when you press the button.
+65932: The button is marked with an 'up' arrow. This is the lowest point in the
+ship.
+65988: You push the button and, after a few seconds, the lift doors hum open
+and you step in. Naturally the doors close afterwards.
+66076: It would appear to be the remains of someone's lunch.
+66116: You try to eat it, but it transmutes into a shape-changing chameleonic
+life form and bites your face off. No, I tell a lie, you eat it and instantly
+die from food poisoning, the sandwich having been on the floor in the
+engineering deck for seven and a half years.
+66300: You crouch slightly under a section of fallen ceiling, and look around
+at the tableau. It looks like there was some kind of explosion. Debris is
+everywhere, the walls and floor are black and charred, and some unidentifiable
+black lumps lie around in awkward angles. You hope they are not what you think
+they are.
+66516: The scene of devastation remains consistent on the far side of the
+engineering area, but not as extreme. Identifiable bodies litter the floor, the
+computer banks to the sides have been destroyed by flying shrapnel. Archways
+lead north and east.
+66684: James Frotz, the Chief Engineer, is unconscious on the floor.
+66732: He seems to be in a pretty deep sleep. He's not going to be brought
+round by being shouted at.
+66800: Chatting to someone rather requires them being conscious.
+66840: Chatting to someone rather requires them being conscious.
+66880: I think you have to seek his permission.
+66908: You administer the stimulant. James stirs and wakes after a few seconds,
+then looks at you with sudden concern. "Martin!" he says. "We thought everyone
+upstairs was dead! We had a warp core breach - I don't think anyone else
+survived down here, but the powers off!" His hands search the debris until he
+finds a small, glowing rock, which he presses into your hand. "The backup
+generator is still online, but you'll need this to start it up. I'll meet you
+on the bridge." With that, he rises unsteadily to his feet and leaves the room.
+67288: Dumdeedium, a highly unstable but non-radioactive element, is used to
+power most federation starships.
+67360: As soon as you touch the highly unstable element there is a massive core
+breach. You are instantly killed, and the rest of the crew drop dead a few
+hours later due to life support failure. Congratulations, you have just brought
+about the extinction of the Connery.
+67544: You retrieve the chunk of dumdeedium. Well, maybe it needs polishing.
+67596: Yes, you've guessed it, this part of engineering is in a similar state
+of disarray to everywhere else. Once again debris is spread all over the floor
+and there are archways to the north, south and west.
+67736: Spread extremely evenly over the floor is a mangled corpse.
+67780: Judging by what tiny shreds of clothing remained, whoever this was was a
+member of the medical staff.
+67852: There is nothing on the hand which suggests who it belongs to.
+67896: Judging by the wide circle of soot around this area, this is where the
+explosion came from. In the centre of the circle is the burnt-out husk of the
+warp core, in which you see little glowing bits of metal and tendrils of power
+going back and forth over the mangled components. Archways to the west and
+south lead to other sections of engineering.
+68136: The air above the ultra-hot core is still wavering with heat haze.
+68184: Placed logically near the engineering section, the medical unit is a
+circular room with recovery bunks all round the walls. The centre of the room
+is occupied by a vast table. Strangely, there doesn't seem to be anyone here. A
+door is to the west.
+68356: Judging by the label, the syringe contains a strong stimulant.
+68400: It looks like the Captain's confidential medical report. "Captain
+Matthews is in perfect shape." Well, that was worth keeping secret.
+68500: It's a child-proof safety bottle. The label reads 'aspirin'.
+68548: No amount of tugging opens the bottle.
+68576: Good idea. By throwing the bottle against the hard floor, you cause the
+bottle to crack open.
+68644: You quickly take the tablet, and find the weird humming noise a lot more
+bearable.
+68704: Aspirin in the 23rd century is more advanced than you think. When it
+finds no pain or illness to combat in your body, it combats your immune system
+instead. You roll around in pain for an hour before losing the battle.
+68856: This surprisingly small room contains the backup generator. It's not as
+powerful as the main generator and only supplies power for light, life support
+and the most necessary electronic systems. A control panel is situated next to
+it, and an archway lies north.
+69036: At the foot of the generator is a circular compartment.
+69076: You flick the switch, the generator starts up, and slowly but surely the
+emergency lighting comes on. That means you can turn your torch off, by the
+way.
+69184: Plunging the ship back into no-electricity-world would cause chaos -
+people stuck in lifts, engines backfiring, dispensing machines going doolally -
+and you'd probably be the recipient of some stern words and a pink slip.
+69340: Although it is recommended that you don't use the lifts in an emergency
+power situation, they are the only way to really get around the ship. There're
+always the vents, as long as you don't mind being minced to death every now and
+again. The lift is small, but oddly cosy.
+69530: You push the button and, after a few seconds, the doors open, and you
+step out. The doors close again.
+69608: There's nothing for you on level one. Perhaps you should go to the
+bridge now that power is restored.
+69680: There's nothing for you on level two. Perhaps you should go to the
+bridge now that power is restored.
+69752: You push the button and, after a few seconds, the doors open, and you
+step out. The doors close again.
+69828: You stop when you see Commander Richards and James Frotz standing in the
+corridor.
+69888: The humming noise has become as loud and high as it's going to.
+69932: A flash of white engulfs the corridor, and you feel the floor beneath
+your feet taken away. Your two colleagues disappear into an ever-expanding
+void, and you are left alone. Never before have you felt so lonely.
+70084: First Officer Commander Stephen Richards is here, looking worried.
+70136: The Commander seems tense. From what little light there is here you see
+that his face is damp with sweat.
+70212: Commander Richards does not understand.
+70240: "Jesus, Martin, is this really the time or the place?"
+70284: "Jesus, Martin, is this really the time or the place?"
+70328: Don't try to upset him, he could get you fired.
+70364: Chief Engineer James Frotz is here, also looking worried.
+70408: In this slightly better light you see that his suit is slightly burned
+off in places, and his skin is dirty with smoke fumes.
+70496: "Never mind that, what are we going to do?"
+70528: "Never mind that, what are we going to do?"
+70560: Don't try to upset him, he could get you fired.
+70594: You stare at the viewscreen in surprise. There, not fifty kilometres
+from the ship, is the most curious of things. It looks like a lump of plastic
+which has been held over flame for a bit then chewed for a while, except
+unpleasantly organic.
+
+"We think it's doing an offensive probe on us," says
+Commander Richards. "That's where it shuts down all the ship's power as it
+scans our systems."
+70876: You suddenly become aware of a low humming noise, gradually increasing
+in pitch.
+70932: The humming becomes unpleasantly loud and high-pitched. It's giving you
+a slight headache.
+70996: The noise is becoming unbearable, making your head pulse and ache
+intolerably.
+71052: The Commander and the Chief Engineer are much more experienced and have
+much more experience than you, so they have the mental power to block out this
+intrusion. You, however, are just a rookie, and the sound causes you to suffer
+a major brain haemorrhage.
+71232: You see nothing, not because there is no light, but because there is
+nothing to see.
+71292: You float in that direction for a bit.
+71320: Your stomach turns as you are wrenched from the void...
+
+Look out for
+the next instalment of Offensive Probing!
+71404: You see nothing. Not because there is nothing to see, but because there
+is no light.
+

@@ -1,0 +1,681 @@
+10872: Your mind appears to be blank today.
+10935: [You can't "undo" what hasn't been done!]
+10976: kec   gpm[Your interpreter does not provide "undo". Sorry!]
+11043: [Can't "undo" twice in succession. Sorry!]
+11225: Sorry, that can't be corrected.
+11260: Think nothing of it.
+11283: d."Oops" can only correct a single word.
+11602: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+11675: You can hardly repeat that.
+11905: You can't begin with a comma.
+11962: You seem to want to talk to someone, but I can't see whom.
+12053: To talk to someone, try "someone, hello" or some such.
+13694: I didn't understand that sentence.
+13801: I didn't understand that number.
+13833: You can't see any such thing.
+13866: You seem to have said too little!
+13898: You aren't holding that!
+13927: You can't use multiple objects with that verb.
+13967: You can only use multiple objects once on a line.
+14046: You excepted something not included anyway!
+14084: You can only do that to something animate.
+14122: That's not a verb I recognise.
+14152: That's not something you need to refer to in the course of this game.
+14208: You can't see "
+14253: I didn't understand the way that finished.
+14374: There are none at all available!
+17177: Sorry, you can only have one item here. Which one exactly?
+25398: At the moment, "it"
+25474: and "me" means
+25501: exn** Player objects must have "number" prop **
+26078: Your "body" is a crude model, textured with some type of rock, almost as
+if you were a golem.
+26159: You cannot smell, this is virtual reality.
+26195: You hear a constant electric hum in the distance.
+26238: You cannot taste, this is virtual reality.
+26276: You get no response.
+26298: You really wish you could, but you don't have a body at the moment to
+sleep in.
+26360: Violence is impossible in that way while in virtualspace.
+30957: M.
+35780: Nothing to do!
+35796: . You have died
+35976: fhn[Your interpreter does not provide "undo". Sorry!]
+36074: Please give one of the answers above.
+36171: Please answer yes or no.
+36191: Are you sure you want to quit?
+36225: Are you sure you want to restart?
+36251: Failed.
+36268: Restore failed.
+36281: Ok.
+36296: Save failed.
+36307: Ok.
+36322: The game file has verified as intact.
+36349: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+36524: Transcripting is already off.
+36547: End of transcript.
+36569: Score notification on.
+36591: Score notification off.
+36615: You have visited:
+36662: None.
+36887: You are carrying nothing.
+36930: Taken.
+36942: You are always self-possessed.
+37062: You already have that.
+37150: That isn't available.
+37193: That's hardly portable.
+37217: That's fixed in place.
+37241: You're carrying too many things already.
+37317: Already on the floor.
+37339: You haven't got that.
+37382: Dropped.
+37427: But it isn't there now.
+37451: You'll need to take it off first.
+37476: Removed.
+37557: You can't put something on top of itself.
+37635: You lack the dexterity.
+37715: Done.
+37757: You need to be holding it before you can put it into something else.
+37837: Alas, it is closed.
+37859: You'll need to take it off first.
+37889: You can't put something inside itself.
+37979: Done.
+38021: That isn't in your possession.
+38044: First pick that up.
+38338: That's not something you can enter.
+38406: You can only get into something on the floor.
+38523: But you aren't in anything at the moment.
+38592: You are on your own two feet again.
+38624: You'll have to say which compass direction to go in.
+38725: You can't go that way.
+38884: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+38986: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+39074: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+39367: Darkness, noun. An absence of light to see by.
+39489: But it's dark.
+39502: You find nothing of interest.
+39535: But it's dark.
+39625: You find nothing of interest.
+39653: You can't see inside, since it is closed.
+39752: That doesn't seem to be something you can unlock.
+39794: It's unlocked at the moment.
+39822: That doesn't seem to fit the lock.
+39876: That doesn't seem to be something you can lock.
+39942: First you'll have to close it.
+39970: That doesn't seem to fit the lock.
+40024: That's not something you can switch.
+40056: That's already on.
+40100: That's not something you can switch.
+40132: That's already off.
+40178: That's not something you can open.
+40210: It seems to be locked.
+40232: It's already open.
+40340: That's not something you can close.
+40372: It's already closed.
+40416: You're not wearing that.
+40464: You can't wear that!
+40486: You're not holding that!
+40510: You're already wearing that!
+40560: That's plainly inedible.
+40591: . Not bad.
+40609: That was a rhetorical question.
+40637: This dangerous act would achieve little.
+40671: Nothing practical results from your prayer.
+40707: The dreadful truth is, this is not a dream.
+40795: What a good idea.
+40815: You smell nothing unexpected.
+40869: You taste nothing unexpected.
+40949: You feel nothing unexpected.
+40975: Digging would achieve nothing here.
+41007: Cutting that up would achieve little.
+41039: You jump on the spot, fruitlessly.
+41073: You would achieve nothing by this.
+41103: There's nothing suitable to drink here.
+41137: But there's no water here to carry.
+41169: Oh, don't apologise.
+41191: Real adventurers do not use such language.
+41227: Quite.
+41239: Violence isn't the answer to this one.
+41273: There's not enough water to swim in.
+41305: There's nothing sensible to swing here.
+41339: You can't usefully blow that.
+41417: No, you can't set that to anything.
+41480: But you aren't holding that.
+41545: It is fixed in place.
+41567: You are unable to.
+41587: That would be less than courteous.
+41612: Nothing obvious happens.
+41641: Is that the best you can think of?
+41671: That's not a direction.
+41690: Not that way you can't.
+41740: You achieve nothing by this.
+41771: Futile.
+41778: You lack the nerve when it comes to the crucial moment.
+41827: You talk to yourself a while.
+41850: This provokes no reaction.
+41878: There is no reply.
+41898: Nothing is on sale.
+41944: I don't think much is to be achieved by that.
+41982: Time passes.
+41998: You aren't feeling especially drowsy.
+42120: Score:
+42263: That's not something you need to refer to in the course of this game.
+42312: You can't see any such thing.
+42427: That's just scenery.
+42463: You are contained.
+42489: The only exit is down.
+42506: You are contained.
+42529: The only exit is down.
+42546: You are contained.
+42567: Your virtual hand fades for a moment, and as you take your arm back,
+reappears.
+42629: Attacking a virtual fence with a virtual body is pointless.
+42722: You find nothing of interest.
+42745: Beyond the door, you can see nothing but black.
+42783: You are contained.
+42831: Nothing seems to happen.
+42855: Nothing seems to happen.
+42948: It resembles the type that opens with some sort of password, although
+going through the entire dictionary to open it would take an inordinate amount
+of time.
+43061: Out of the corner of your eye you see a piece of paper suddenly appear
+on the ground. Very odd. Any anomalous material in a containment grid should
+immediately set off an alarm, but there is no sound.
+43211: Your best efforts yield nothing.
+43245: O HnYou can't do that.
+43290: The paper is sucked into the fence structure and disappears.
+43338: It feels more like a piece of plastic than a piece of paper because of
+its virtual nature.
+43415: It has the word "lxprog" imprinted on it.
+43451: It is blank.
+43467: It has the word "flood" imprinted on it.
+43498: It has the word "ivory" imprinted on it.
+43542: The paper gives off a brief flash of light.
+43585: The paper gives off a flash of light that lasts about five seconds.
+43642: A disembodied voice announces, "Location program complete, intruder has
+been located, sentac pulse now active."
+
+The world becomes liquid and void,
+without form...
+43796: In the distance you can hear the sound of metal shifting.
+43888: You hear a popping noise from far above.
+43924: For half a second you hear a crackling noise.
+43964: Something just made a sound like a mouse dying.
+44004: An intense burst of white noise disappears as quickly as it came.
+44056: A sound like creaking floorboards can be heard from far above.
+44118: An streak of void splits across the room, breaking the cube into parts.
+It cries out, and in a fading voice says, "goodbye.....".
+44220: You hear a distorted voice announce "lxprog complete." The view becomes
+thin, and the last thing you see before you black out is snow. 
+
+You can
+vaguely feel and hear the sensations and sounds of being grabbed and carried,
+of voices in confusion, and of a gigantic explosion, but the first time you
+truly awake is at...
+44451: a.
+You see a tall man sitting next to a tree.
+
+The man notices you
+awaking and motions for you to stay seated. "The transfer to your real body has
+put you through much strain, especially since I had to speed up the program a
+little."
+
+You have the extreme urge to say something, but your mouth is unable
+to move. Your entire body is exhausted.
+
+"I know what you want to ask. You want
+to know why I saved you. I thought perhaps I could get someone to understand
+the true nature of the war, and after such a situation you may understand
+without me even telling you."
+
+The man studies you in silence for a few
+moments, and then says, "You see, the war between the Kaden and Souden is not a
+real war, for a just cause, or even a lost cause, but a cycle. The impact of
+the loyalty transfer programs has been that the war is merely a transfer of
+people from one loyalty to the other, repeatedly, so much that their identity
+is lost. The war is a collection of toy soldiers marching back and forth across
+a line, and slowly dying out. You are all fighting yourselves, each other, all
+on the same side."
+45222: "But you may still not understand until you know who created the cube,
+which died in saving you at the base."
+
+The tall man pauses for a moment to
+catch his breath, then speaks very slowly:
+
+"
+45394: A voice of unknown location announces: "Maintenance level manual
+checking now active."
+45471: The cube says, "I have received a message of unknown origin. It says:
+spidlower."
+45545: A voice announces: "Maintenance level 2 active."
+45589: A voice announces: "Maintenance level 3 active." You are feeling
+somewhat sleepy, even though sleep here is impossible.
+45684: A wave on unconsciousness overcomes you...
+45746: The cube looks concerned. "The execution of lxprog has been halted.
+Something is stopping the program from running."
+45847: Your body seems to be getting less stable.
+45887: Spots and pieces of void are appearing on your virtual skin.
+45939: Your body has almost completely faded away.
+45980: Fragments of nothing crowd your vision, and the world fades away...
+46043: Going through the sky seems to have put a strain on your body.
+46095: Spots and pieces of void are appearing on your virtual skin.
+46147: Your body has almost completely faded away.
+46188: Fragments of nothing crowd your vision, and the world fades away...
+46260: A voice without direction or origin announces "Scanning program
+initiated for sector 482."
+46339: "Scan in process for sector 482."
+46373: "Scan in process for sector 482."
+46407: "Scan in process for sector 482."
+46452: a   i,
+"Scan of sector 482 complete."
+46489: "WARNING: INTRUDER ALERT, ACTIVATING SENTAC PULSE."
+46556: The world becomes liquid and void, without form...
+46609: You can't go that way.
+46641: You can't go that way.
+46673: You can't go that way.
+46710: The cube looks concerned. "The execution of lxprog has been halted.
+Something is stopping the program from running."
+46804: The cube says, "I have received a message of unknown origin. It reads:
+spidlower."
+46874: Light bounces off glassy walls in every direction for a dazzling effect.
+Crystals protrude from the wall at odd angles. Sparks of electricity are passed
+back and forth. The entire room vibrates and hums like a large electric
+generator.
+47046: Portals are placed to the north and south as well as the ceiling and
+floor.
+47099: Portals are placed in all the main directions.
+47137: Very nice looking. It is hard to believe that they aren't real.
+47205: The rock emits a loud warbling noise and vanishes. In its place appears
+a red cube, rotating slowly clockwise, with a humanlike face on each side so no
+matter where you are standing a face can be seen.
+
+The expressions of the faces
+change together, like they are connected by a giant string; the mouths are
+moving rapidly, as if speaking, but they make no sound.
+47462: A floating red cube, slowly rotating clockwise. Molded into each side,
+like a child's lump of clay, is a humanlike face, complete with facial
+expressions and moving lips.
+47588: It looks like it is trying to say something, but the words don't come
+out.
+47641: It smiles as it sees you watching it.
+47682: The cube moves its lips slightly but it seems unable to talk.
+47741: The cube can't move.
+47758: "I don't understand."
+47819: The cube moves its lips slightly but it seems unable to talk.
+47869: "I'm not sure exactly which model you mean but they are used mainly for
+maintenance."
+47941: "Hello, although I've already met you before."
+47989: "I am neither male nor female."
+48025: "I am neither male nor female."
+48057: "I know not of the essence of my existence."
+48097: "Nice simulation, don't you think?"
+48150: "It's just some practice words to get setup. Apparently my designer
+thought the words I used would be appropriate, although I don't know where they
+came from."
+48276: "I was created by a human of whom I can recognize the face and voice but
+not the name."
+48350: "Humanity created me, that is all I know."
+48390: "I'm as confused on this one as you."
+48426: "Except for the one that had the circuit board, I think they are all
+empty, although I may be wrong."
+48510: "Nice simulation, don't you think?"
+48548: The cube nods its head, not in understanding, but acknowledgment.
+48602: "Word meaning "electric charge" in some language, although I cannot
+remember what."
+48672: "Word meaning "electric supply" in some language, although I cannot
+remember what."
+48742: "I wouldn't know, I'm not actually alive."
+48777: "I'm not sure about that."
+48844: The circuit board vanishes as it gets near the cube. 
+
+The cube begins
+talking in a wavering tone. "System has been activated, now calibrating voice
+control."
+
+After a short pause, the cube begins speaking some words, with each
+word the inflection changing slightly: "In nova fert animus mutatas dicere
+formas corpora di coeptis nam vos mutastis et illas adsirate meis primaque ab
+origine mundi ad mea perpetuum deducite tempora carmen."
+
+The humanfaced cube
+pauses, and begins speaking again, this time in a voice that is both masculine
+and feminine.
+
+"Ah, that's much better now. My voice calibration that I had
+stored got erased somewhere along the line, but I'm back to normal now. How may
+I service you?"
+49352: The cube looks offended, but unhurt.
+49384: The cube looks very confused.
+49412: "Very strange that you think I am a cat."
+49457: The cube looks at the circuit board in anticipation.
+49501: "That is what is halting lxprog. You need to get rid of it."
+49546: The cube has no reaction.
+49589: O HnYou can't do that!
+49608: An invisible force stops the object from entering.
+49664: O HnYou can't do that!
+49683: An invisible force stops the object from entering.
+49727: Your best efforts yield nothing.
+49758: O HnYou can't do that!
+49777: An invisible force stops the object from entering.
+49823: The portal has ceased to exist.
+49855: The portal has ceased to exist.
+49897: You can't go that way.
+49916: The only exits are to the north and south.
+49950: A flat plain of black sand sprouts dark obelisks reaching to the sky.
+The sky itself is a mixture of stars, real and unreal--fractal images along
+with glowing dots shine softly together.
+50086: Two portals, black voids in the landscape, are to the north and south.
+50137: Large groups of black are slowly eating the room apart.
+50183: You can't go that way.
+50202: The only exits are to the north and south.
+50249: The Nothing consumes you.
+50295: The spaces where the spider, loop, and portals were expand slightly.
+50355: Black spots begin to dot the walls.
+50391: Patches of nothing begin to form in mid-air.
+50435: Stars of black now mingle with stars of white in equal number.
+50539: The view has become almost completely dark.
+50581: Nothingness is close to absorbing you.
+50622: The surface is sticky, allowing you to reach the apex.
+50680: The spider won't let you near it.
+50709: A ragged yet cheerful looking doll, with a dark face.
+50779: As you reach out to take the loop, you feel your body solidify and
+become much more stable.
+50844: Much too large to take.
+50887: You feel your body solidify and become much more stable.
+50933: "Loop" is a somewhat innacurate term, but it is the only word that comes
+to mind when looking at this topological nightmare. Bands of dull and bright
+metal twist and bend around each other to form something like a large circular
+cage. An almost magnetic force compels you towards it.
+51147: The spider backs away from you.
+51179: "Error, query not in programming."
+51211: "Error, not understood, command not in syntax list."
+51272: "Commands for your security level: none."
+
+After a short pause, the
+spider emits a few beeps and says, "Processing new special command."
+51373: "Commands for your security level: ERASE, STATUS."
+51430: "Error, access denied."
+51459: "Erase procedure begun...error, illegal object, warning system active,
+sentac pulse active..."
+
+The world becomes liquid and void, without form...
+51577: "Erase procedure begun...complete, successful."
+51626: "Erase procedure begun...complete, successful."
+51673: "Erase procedure begun...complete, successful."
+51805: eotegtdotdwte,"Erase procedure begun..."
+
+The spider begins moving
+quickly in patterns, like a ballet dancer hanging over an electric web.
+
+The
+metal loop and spider suddenly cease to exist. A large void forms in its place.
+The portals disappear as well. Black inky space begins to fill all corners of
+the room.
+52053: "Error, access denied."
+52079: "Error, only single word command."
+52111: "Status normal, all systems check clean."
+52144: "Status normal, all systems check clean, 52% of resources are being
+used."
+52203: "Error, access denied."
+52323: The spider turns to face a different direction.
+52362: A flat plain of black sand lies below you, and starry fractal sky above.
+The sky looks so realistic and close you feel you could almost reach out and
+touch
+52474: exnit. Patches of black threaten you from every direction.
+52538: You can't reach it.
+52584: You raise your hand, and, as in a childhood fantasy, touch the sky. As
+you do so, you are sucked into it...
+52687: You really have lost your mind.
+52727: You really have lost your mind.
+52754: High above you on various platforms, machines clatter and clang,
+shifting connected parts in constant motion, like the inner workings of a giant
+mechanical beast. The walls and floor are textured with ridged metal; the
+ceiling is a dull gray.
+52930: A portal is implanted in the floor.
+52957: There is no exit.
+52979: You can't go that way.
+53018: A portal forms itself in the middle of the floor.
+53071: You hear explosions coming from a disconnected universe.
+53119: ixm
+You can faintly hear planes overhead. Apparently, the assault is
+underway.
+53189: The sound of gunfire resonates from afar.
+53231: The room shakes, and the view is briefly distorted. The main power to
+the computer system is failing.
+53392: A gauge attached to a spinning crank briefly makes a loud warbling
+noise.
+53450: A gadget attached to the ceiling glows briefly and makes a popping
+noise.
+53508: Exposed wires in the wall spark, making a crackling noise.
+53616: Static and white noise are briefly emitted from a television display.
+53672: A giant chain shifts to a new position, making a sound like creaking
+floorboards.
+53803: You can't reach the duplicator from here.
+53841: The duplicator announces, "Duplication of this object is restricted."
+53911: The duplicator announces, "Error in duplication, standby...". The widget
+has disappeared off the blue pad and reappeared in the storage bin.
+54024: The duplicator pauses for a moment, then announces, "Error, no item in
+duplicator."
+54108: The duplicator announces, "Command placed in queue."
+54158: The duplicator announces, "Queue already full."
+54217: The duplicator announces, "Standby, reset of logic initiating."
+54285: The duplicator announces, "Logic reset."
+54318: The duplicator announces, "Logic reset."
+54381: The duplicator announces, "Error in duplication, standby...". You are
+suddenly moved to the storage bin.
+54473: Another duplicate of yourself forms on the other pad. Since you are both
+in the same condition, you attain a condition of split consciousness.
+54593: The duplicator activates, and you see a duplicate of yourself formed on
+the blue pad. As the integrity of your duplicate surpasses the one in your
+current virtual body, your consciousness is transferred. Your old body, still
+on the green pad, quivers, and then explodes; not an explosion of fire, but of
+ice. The effect causes a shimmering curtain of ice to rise where your body once
+was, and slowly disappear.
+54887: The duplicator announces, "Duplication of this object is restricted."
+54957: The duplicator announces, "Error in duplication, standby...". The widget
+has disappeared off the blue pad and reappeared in the storage bin.
+55070: The duplicator pauses for a moment, then announces, "Error, no item in
+duplicator."
+55146: That would be an interesting trick.
+55197: An invisible force repels you. The pad seems to have a pre-set limit of
+one thing at a time.
+55274: That would be an interesting trick.
+55325: An invisible force repels you. The pad seems to have a pre-set limit of
+one thing at a time.
+55418: You can't reach the storage bin from here.
+55457: It is far too large to do that.
+55506: You can't reach the widget from here.
+55549: The widget bounces off the duplicator, but it doesn't activate.
+Apparently only objects with the animate flag can activate it.
+55666: You can't reach the portal from here.
+55703: That would be an interesting trick.
+55746: Many plain boxes with numbers printed on them fill this room. The
+ceiling, floor, and walls are a simple dull gray. A low pitched whine can be
+heard from somewhere high in the room. Black rectangles allow exit to the east
+and west.
+55920: You can faintly hear a beeping sound from somewhere in the room.
+55965: You can distinctly hear a beeping sound from somewhere among the boxes.
+56034: You can faintly hear a beeping sound from one of the boxes.
+56113: Xn.
+56138: You can faintly hear a beeping sound from one of the boxes.
+56217: Xn.
+56227: Simple cardboard boxes, numbered and in order, from 0001-9999. They are
+visual representations of storage locations of data. Even though they look
+small, each box has the memory capacity of a large library.
+56378: There are too many of them to be used collectively.
+56478: All the boxes are bolted to the floor.
+56512: The boxes automatically close after they are used.
+56572: You need to specify a box number from 0001 to 9999!
+56621: O HnThe box is empty.
+56645: The box is empty.
+56666: You find a circuit board inside, and take it.
+56704: The box is empty.
+56724: The box is empty.
+56763: You find a sphere inside, and take it.
+56907: The Kaden finally realized you were spying and locked your mind essence
+in a digital cell. Normally the Kaden would already be at work analyzing your
+mind to run the loyalty transfer program, but you haven't felt anything at all
+in the last five hours. The delay is unnerving, since the mind can survive in
+virtual space for a limited amount of time before it destroys itself. Your
+companions, the Souden, should be close to beginning the assault now, although
+since they know nothing of your predicament survival is still doubtful.
+57739: You don't need a password anymore.
+57771: The door does not respond to your command.
+57810: The door begins sliding open, but stops halfway.
+57851: You don't need a password anymore.
+57883: The door does not respond to your command.
+57932: The door slides open the rest of the way.
+58003: The cube moves its lips slightly but it seems unable to talk.
+58073: "Reactivating lxprog...it worked, the program is now running again."
+58138: "I already told you, the program has been halted, you need to locate
+whatever is halting it and get rid of it."
+58227: "I'll try to restart, since you insist...still unable, and now the halt
+program has raised in intensity."
+58311: "There's no point in trying to activate again, you have to get rid of
+whatever is halting lxprog."
+58390: "The program is already running."
+58443: The cube gives a blank stare momentarily, and then says, "Some type of
+program has been activated, it will take an unknown amount of time to
+complete."
+58593: Nothing seems to happen.
+58648: The cube looks confused.
+58672: The cube smiles.
+59154: The cube frowns.
+59167: "None of the rest of the boxes have anything useful in them, as far as I
+know."
+59226: You get no response.
+59246: A hollow voice says, "Trying to get a cute response, are we?"
+59494: mcom.
+
+A full hint system is available with 'help' or 'hint'. To turn it
+off to avoid temptation, type 'unhint', but be warned, it cannot be turned back
+on again afterwards. Also, if your computer cannot handle the various quotes
+and the hint menu, type 'plain' to enter plain text mode, and 'pretty' to turn
+regular mode back on.
+
+Special thanks go to Richard Barnett, Jim Newland, and
+Gareth Rees for programming help, as well as Michael Kinyon, Bernd Schmidt, and
+Aileen Dyer for playtesting. Also, thanks to Catherine Mori and Earl Dille for
+help with the Latin text.
+
+Release 2 fixes a small bug with the door and a
+mistake in the credits.
+
+Release 3 relaxes some of the time pressures, and adds
+some more description to some of the objects to make the puzzles easier.
+
+For
+the curious, works of literature and culture indirectly/symbolically used in
+the game are: Mourning Becomes Electra, Billy Budd, Snow Crash, The Neverending
+Story, Anti-Ice, The Legend Lives!, Burning Chrome, Ovid's Metamorphoses, Earth
+2, and the old arcade game Tempest.
+60275: Your virtual body's integrity appears to be normal.
+60317: Your virtual body has degenerated slightly.
+60353: Your virtual body is broken in fragments.
+60389: Your virtual body has almost totally faded away.
+62157: (7/7) PUT WIDGET ON BLUE PAD. TOUCH DUPLICATOR. TOUCH DUPLICATOR. STAND
+ON GREEN PAD.
+62398: You can't do that.
+62414: You can't do that.
+62442: No point in that.
+62461: Hints have been turned off.
+62492: Text is now plain.
+62519: Text is now pretty.
+63012: You can't go that way.
+63280: The Door would still be there, even if the Door was not.
+63548: No taste is so acquired as that for someone else's quality of mind.
+63628: What is mind but motion in the intellectual sphere?
+63888: Ourobouros survives by endlessly consuming its own tail.
+63996: gives us a sense of mastery over experience. To represent something
+64092: it, thus making it one's own. But with this appropriation comes the
+64252: -- Heinz R. Pagels, The Dreams of Reason
+64312: It is pitch dark, and you can't see a thing.
+64344: The design of virtual space can be almost anything, but in this case the
+room is merely a small cube surrounded by an electric fence, with lines of blue
+against black crossing the floor and ceiling. A large square door is inset into
+the floor, slightly off the center, sending the design of the entire room into
+asymmetrical confusion.
+64576: It's a glowing blue grid high above your head.
+64612: A glowing blue grid with a door and panel off center.
+64652: That is just the shape of the room.
+64680: They glow with electrical intensity. You surmise the only purpose of
+them is to add shape to the mostly black room, keeping those contained within
+the grid from going insane. It still happens occasionally, though.
+64828: Simulated of both metal and electricity, it somewhat resembles a row of
+Jacob's Ladders placed side by side intertwined with strips of bronzed metal,
+but the virtual image flickers so rapidly it is hard to tell. Beyond it is
+nothing but black.
+64996: Green surrounds your vision from this vantage point, on the top of a
+plateau. High above you, the stars shine brightly, and the two moons cast their
+glow all over the surface of the field.
+65128: Pieces glitter and bounce around playfully.
+65160: The design is the same as the walls.
+65188: The design is the same as the walls.
+65216: They occasionally light up the crystals in brief bursts.
+65256: They are rectangular, breaking the realistic illusion the room creates.
+65308: A rock far too much in the shape of a cube to be natural, if it was real
+at all.
+65364: A flat piece of metal, with one side covered with a pattern of wires.
+65412: It is a simple metallic sphere, emitting a loud noise.
+65452: Tightly packed and slightly reflective.
+65480: A dazzling array of color and shape.
+65508: They fill the sky in no particular pattern.
+65540: Jagged shapes of vague form.
+65560: Imprinted in black, and reaching for the sky.
+65592: They are to the north and south.
+65616: A spider constructed of chrome and glass, with long legs that are
+multi-jointed. It is carrying a doll.
+65692: Tightly packed and slightly reflective.
+65720: They fill the sky in no particular pattern.
+65752: Jagged shapes of vague form.
+65772: Imprinted in black, and reaching for the sky.
+65804: A dazzling array of color and shape.
+65832: Utter black space, expanding like a cloud of dust.
+65868: Utter black space, expanding like a cloud of dust.
+65904: Dull gray, with no texture at all.
+65932: Made out of somewhat reflective ridged metal.
+65964: All different varieties, and of unknown purpose.
+66000: They are hanging in midair without support.
+66032: It is now dark.
+66044: It is now dark.
+66056: They are hard to see when they aren't sparking.
+66092: You are unable to see the gadget when it is not glowing.
+66132: It's too far away to see closely.
+66156: Made out of somewhat reflective ridged metal.
+66188: It is used to make it easy to duplicate objects in the virtual
+environment. An object is placed on the green pad, the duplicator is touched,
+and a duplicate of the object on the green pad appears on the blue pad.
+66336: A flat green pad.
+66352: A flat blue pad.
+66364: A large bin made of chrome and glass.
+66392: A generic program without modelling is called a "widget". This one is
+incomplete, which is why it looks like a plain rectangular box.
+66488: A plain black portal, leading down.
+66516: The only exits are to the east and west.
+66544: Dull gray, with no texture at all.
+66572: Dull gray, with no texture at all.
+66600: Dull gray, with no texture at all.
+66628: They are simply portals textured with a regular black.
+67048: (1/6) Wait for a few turns. Something might come up.
+67092: (2/6) Try looking at the paper. Maybe someone is trying to tell you
+something.
+67152: (3/6) It's a password to the door. Try saying the word on the paper.
+67324: (1/12) Look around. There may be an item somewhere that can help the
+cube.
+67564: (6/12) The cube is using facial expressions to try to point you to the
+correct number. Is there a pattern?
+68580: (5/8) It isn't loud enough. Can you think of a way to make it louder?
+68788: (3/6) Using the spider will allow you to be detected. You need to use
+something else.
+68932: (1/7) It will not destroy the same way as the paper. However, it is a
+legal object.
+69036: (3/7) The spider is controlled with commands. How could you get a list?
+69120: (5/7) Do it twice. Your unknown friend made some changes after the first
+time.
+

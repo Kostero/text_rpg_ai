@@ -1,0 +1,2185 @@
+25841: Nothing to do!
+25876: o. You have won
+25960: It is now pitch dark in here!
+25987: I beg your pardon?
+26051: Sorry, that can't be corrected.
+26080: Think nothing of it.
+26133: As good-looking as ever.
+26165: You can hardly repeat that.
+26190: You can't begin with a comma.
+26304: I didn't understand that number.
+26333: You can't see any such thing.
+26369: You aren't holding that!
+26411: I'm not sure what "
+26463: That's not a verb I recognise.
+26502: You can't see "
+26610: Nothing to do!
+26627: There are none at all available!
+27537: Please answer yes or no.
+27563: Are you sure you want to quit?
+27608: Failed.
+27628: Restore failed.
+27645: Ok.
+27663: Save failed.
+27678: Ok.
+27722: Transcripting is already on.
+27788: Transcripting is already off.
+27846: Score notification on.
+27867: Score notification off.
+27890: You have visited:
+27918: Objects you have handled:
+27943: None.
+28327: You are carrying nothing.
+28376: Taken.
+28387: You are always self-possessed.
+28920: Dropped.
+29028: Removed.
+29167: You lack the dexterity.
+29248: Done.
+29514: Done.
+29734: Wrahn seem interested.
+30373: You can't go that way.
+30933: But it's dark.
+30950: You find nothing of interest.
+30986: But it's dark.
+31077: You find nothing of interest.
+32205: . Not bad.
+32223: That was a rhetorical question.
+32277: That seems unnecessary.
+32300: Keep your mind on the game.
+32325: What a good idea.
+32344: You smell nothing unexpected.
+32371: You hear nothing unexpected.
+32396: You taste nothing unexpected.
+32431: Keep your hands to yourself!
+32456: You feel nothing unexpected.
+32481: If you think that'll help.
+32590: Oh, don't apologise.
+32620: Quite.
+32689: You achieve nothing by this.
+32777: You wave, feeling foolish.
+32927: You are unable to.
+32946: Nothing obvious happens.
+32996: That's not a direction.
+33019: Not that way you can't.
+33051: Keep your hands to yourself.
+33076: You achieve nothing by this.
+33109: Futile.
+33138: You talk to yourself a while.
+33165: This provokes no reaction.
+33193: There is no reply.
+33212: Nothing is on sale.
+33231: Your singing is abominable.
+33265: Time passes.
+46614: You're in jail.
+46757: Oh, if only...
+47054: Sheer luck help me!
+58129: The glass is currently empty.
+58776: a,. They might be useful."
+59114: "Yes, I have it safe."
+59139: "Yes, I have them safe."
+60784: here. You know. Dr. Todd.
+60857: Dr. Todd peers around.
+60938: Dr. Todd points off into space.
+61263: It's glowing serviceably.
+61284: It's not currently on.
+61769: "Certainly. Glad to oblige."
+62943: Definitely not your type.
+63659: You light one match.
+63705: You're out of matches.
+63847: The toothpaste tube is closed.
+64542: But you haven't got a glass!
+64681: fegj,. It might get sticky.
+64753: The glass is already full.
+64785: The glass is already full.
+65002: Nobody answers.
+65024: The door is open.
+65088: The door is open.
+65287: The door is open.
+65367: The door is open.
+65463: It's bolted to the floor.
+65700: Unwillingly you put them back.
+66160: The room service cart is here.
+66711: Pop!
+67259: The door is already open.
+67359: The door is already open.
+67850: Mildred Nottinghaus is asleep.
+68318: "Who can sleep now!"
+68562: Mildred Nottinghaus is asleep.
+68682: He's a great man. In his way.
+69163: The television is already on.
+69203: The television is already off.
+69323: The bathroom door is closed.
+69390: Nobody answers.
+69453: The door swings open.
+70000: We need to find that."
+70125: Not worth the trouble.
+70569: Nothing happens.
+70831: "My mom's going to be so mad!"
+71080: Mikey listens enthusiastically.
+71343: The television is already on.
+71383: The television is already off.
+71510: The up button is lit.
+71527: It features the letter U.
+71570: The up button is lit.
+71587: The up button is unlit.
+71694: The down button is lit.
+71713: The down button is unlit.
+71754: The down button is lit.
+71773: The down button is unlit.
+71964: The elevator's in motion.
+71985: The elevator isn't here yet.
+72016: The elevator door is open.
+72037: The elevator is here.
+72154: It's metal. Your knuckles hurt.
+72230: The elevator doors close.
+72341: You're out of matches.
+72773: And I mean it."
+73268: The cops wave you away.
+73393: Mercouri says nothing.
+73574: "Offended am I!"
+73673: "Alliteration elevates all..."
+73800: "Offended am I!"
+74727: You're already at that floor.
+74758: The vending machine is not here.
+75214: You're already at that floor.
+75704: They're standing right here!
+75765: The cops are on their way.
+75839: They're standing right here!
+76029: You extinguish the candle.
+76186: You'll need to be more specfic.
+76386: You can't accuse that.
+76406: Poor you.
+76466: The game is always winnable.
+76701: What a strange request.
+79200: in" or "notin
+79216: opmhas" or "hasnt
+79358: }" at end of "objectloop
+80604: A Todd and Hagerston Mystery
+Copyright (c) 2004 by Reese Warner.
+81036: det. Vukovich present to arrest him and keep you out of trouble.
+81084: for finding the correct murderer, having the goods on him, with Det.
+Vukovich present to arrest him, and keep you out of trouble, plus a little
+something to celebrate with.
+81668: Score:
+81676: Moves:
+81684: Time:
+81692: You can't go that way.
+82024: Please give one of the answers above.
+82052: [You can't "undo" what hasn't been done!]
+82088: [Can't "undo" twice in succession. Sorry!]
+82128: "Oops" can only correct a single word.
+82156: It is pitch dark, and you can't see a thing.
+82188: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+82248: You seem to want to talk to someone, but I can't see whom.
+82292: To talk to someone, try "someone, hello" or some such.
+82332: I didn't understand that sentence.
+82392: You seem to have said too little!
+82416: You can't use multiple objects with that verb.
+82452: You can only use multiple objects once on a line.
+82488: You excepted something not included anyway!
+82520: You can only do that to something animate.
+82552: That's not something you need to refer to in the course of this game.
+82600: I didn't understand the way that finished.
+82632: Sorry, you can only have one item here. Which exactly?
+82784: Are you sure you want to restart?
+82808: The game file has verified as intact.
+82836: The game file did not verify as intact, and may be corrupt.
+82880: Attempt to begin transcript failed.
+82908: Attempt to end transcript failed.
+82932: You're carrying too many things already.
+82964: You can't put something on top of itself.
+82996: You can't put something inside itself.
+83024: That would scarcely empty anything.
+83080: You can only get into something free-standing.
+83116: But you aren't in anything at the moment.
+83148: You'll have to say which compass direction to go in.
+83188: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+83284: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+83368: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+83544: This dangerous act would achieve little.
+83572: Nothing practical results from your prayer.
+83604: The dreadful truth is, this is not a dream.
+83636: Digging would achieve nothing here.
+83664: You jump on the spot, fruitlessly.
+83692: You would achieve nothing by this.
+83716: There's nothing suitable to drink here.
+83744: But there's no water here to carry.
+83772: Real adventurers do not use such language.
+83804: Violence isn't the answer to this one.
+83832: There's not enough water to swim in.
+83860: There's nothing sensible to swing here.
+83888: That would be less than courteous.
+83912: Is that the best you can think of?
+83936: You lack the nerve when it comes to the crucial moment.
+83976: I don't think much is to be achieved by that.
+84008: You aren't feeling especially drowsy.
+84096: You're flopping around in the oversized staff uniform. The sleeves are
+so long you can barely use your hands, and if it weren't for your superhuman
+dexterity, you'd probably fall over on your face if you tried to take a step.
+Uh, you don't have superhuman dexterity.
+84284: You're dressed like you were woken up in the middle of the night. That
+may be because you WERE woken up in the middle of the night. As Dr. Todd would
+no doubt say, there's a logical explanation for everything.
+84436: Try as you might you don't find a credit card. You ARE just an
+impoverished graduate student. Maybe you don't have one.
+84524: It is tempting. It'd put an end to Dr. Todd's whole silly adventure if
+you just fell asleep in front of the hotel fireplace. Still it'd be bad for
+your back.
+84640: It's just too creepy falling asleep here with a dead body next door.
+84688: Some shut-eye would be nice, but the Great Xavio might show up and turn
+you into a frog if he found you sleeping on his couch.
+84776: "Oh, very well," Mildred Nottinghaus says, "Your apology is accepted.
+But you shouldn't go around accusing people of murder. It's not polite."
+84884: "Mercouri the Magnificent is not amused. Apology not accepted."
+84932: Looking at the locked staff locker reminds you that your great-uncle
+Basset, now retired, is probably the most famous bank robber in Canadian
+history. Well, it's a distinction of sorts. He'd probably know how to get this
+lock open in a jiffy.
+85104: The brainiac thought occurs to you that maybe Dr. Todd has a credit
+card. You could ask him for it.
+85176: What better way to look like you belong in a hotel than to ask for a
+room? Now that's thinking!
+85244: She's knitting a sweater standing up. That can't be comfortable. If you
+brought her a chair, that'd be a nice thing. That's the nice Canadian in you.
+But more importantly maybe she'd appreciate it.
+85388: You think about where you can get a chair. Stealing one out of the lobby
+would bring this whole adventure to a bad end.
+85472: It occurs to you that if you rented a room, you could probably
+discreetly move the chair out of there.
+85544: That's been an awful of lot thinking going on here. Maybe you should
+think somewhere else. Get a fresh perspective on things.
+85632: This fog is so thick that it could hide easily hide all manner of
+things. Maybe it's worth searching.
+85704: You could always register at the hotel to get a room key.
+85744: If you needed a light to see by, you could probably just ask the
+concierge for a match.
+85804: You finally realize that what Dr. Todd is asking you to do is prove that
+a magician's trick was actually a trick.
+85884: "Hagerston. At last! I'm glad to see that my lessons on the benefit of
+the logical method have finally begun to reach you. Let us think together. I'm
+sure that we'll find that thinking will be useful throughout the course of our
+adventure."
+86056: "Hagerston, I'm very glad to see you in a positive, affirmative mood."
+86108: "I am disappointed to note that your usual cynicism and despair has
+returned."
+86164: "Hagerston, I prefer that we use the process of logic to achieve our
+ends. Were divine intervention even possible, I would not like to rely on it."
+86272: You are unable to push the cart while you are folded up inside it.
+86320: "Hagerston, is it logical to attempt to swim in that bathtub? I admit
+that it is rather over-sized. But I must point out that it is utterly lacking
+in water. I fear that my teaching has not done you as much good as I should
+have hoped."
+86488: "Hagerson, is it at all logical what you are doing to my credit card?"
+86540: That doesn't fit. It's a room key slot.
+86572: The light on the room key slot next to the jacuzzi door blinks red for a
+moment, but nothing else happens.
+86648: The light above the slot flashes green, and you hear the door's lock
+click.
+86704: Once you've inserted the room key, you can probably push the button for
+one of the executive suite floors.
+86780: Once you've inserted the room key in the slot, you can probably push the
+button for one of the executive suite floors.
+86864: It's a champagne glass, and while you don't know much about such things,
+the weight suggests that it must be leaded. Probably expensive. Quite possibly
+fragile.
+86986: Your violent actions break the champagne glass you are carrying.
+87036: The champagne glasses are leaded crystal and look quite fragile. You
+can't safely carry two of them.
+87108: You'll need to open the bottle first before filling any glasses.
+87156: The glass calls out for some sort of sparkling beverage. Sadly you don't
+have any.
+87216: The Farfalla is one of the grand old San Francisco hotels. Not the sort
+of place you'd go on your own. But then you're not here because you wanted to
+be. It's eight stories of still pretty much gleaming white marble, and no doubt
+a room costs as much a night as your apartment does for the month.
+87424: It was founded in 1898 by Luigi Fornoni and this is the second building
+to bear the name. The first was destroyed in 1906 and Signor Fornoni rebuilt in
+an even grander style. You'd got that far on the brass plaque when Dr. Todd
+showed up. It was more than you really wanted to know.
+87630: There's a thick fog out tonight.
+87658: The door into the hotel is south.
+87688: You can't leave now: that would be leaving the scene of the crime.
+You're already in enough trouble as it is.
+87768: "Hagerston, while it is true that we have proven to ourselves that this
+magician has engaged in trickery, nevertheless, is it logical for us to leave
+yet? I think not. We must bring home to him that what he has been performing
+is, in fact, illogical!"
+87944: You're still not sure why you agreed to this adventure, but if you tried
+to leave now, Dr. Todd would no doubt tell you it was illogical to begin
+something and not finish it.
+88068: The brass plaque tells you about Signor Fornoni, the second construction
+of the hotel, the San Francisco fire and earthquake. You're sure after reading
+this time you'll remember. Well, pretty sure.
+88212: You initial instincts were right: it really was more than you wanted to
+know.
+88284: "Hagerston, I hope you haven't already lost the penlight I gave you.
+That would be most illogical."
+88360: He hands you the penlight. "Hagerston, really, shouldn't you think to
+bring the basic tools for this sort of adventure?"
+88448: "Hagerston, I'm troubled. I'm sure you believe, as I do, in the
+rationality of the world around us. There is no device that can convert a
+single rose into a bouquet of lilies or a one dollar bill into a one thousand
+dollar bill. And yet this magician, this so- called Great Xavio claims to have
+a device that can do just that. I saw him this evening performing, that is
+spouting his mystical mumbo-jumbo, and it's just wrong to confuse people in
+that way. I believe we should undertake to prove that what I saw transpire this
+evening was a fraud, and I will need your assistance to do so. I have waited
+until this hour with the logical assurance that we will therefore appear less
+suspicious."
+88936: "Hagerston, when we first came here tonight, our purpose was to unmask
+the trickeries used by this so-called Great Xavio. But now our most logical
+course of action is to find the necessary evidence to unmask this killer and
+with that evidence in hand," he actually points to his head at this point, but
+that doesn't really surprise you, "ACCUSE him or her of this heinous crime. I
+shall take it upon myself to tabulate the evidence that we find. Feel free to
+ask me any time what evidence we have currently accumulated."
+89304: "Hagerston, I'm troubled. I'm sure you believe, as I do, in the
+rationality of the world around us. There is no device that can convert a
+single rose into a bouquet of lilies or a one dollar bill into a one thousand
+dollar bill. And yet this magician, this so- called Great Xavio claims to have
+a device that can do just that. I saw him this evening performing, that is
+spouting his mystical mumbo-jumbo, and it's just wrong to confuse people in
+that way. I believe we should undertake to prove that what I saw transpire this
+evening was a fraud, and I will need your assistance to do so."
+89720: "My credit card, what I have done with it? This is very important, I've
+now lost my credit card. We must apply the logical method to the finding of my
+credit card. This is our most important goal!"
+89864: He hands you his credit card. "Hagerston, I trust you will pay me back
+for any charges you incur while it is in your possession?"
+89956: "I'm not at all sure that the system of credit, as it is constituted in
+the United States today, is at all logical. Perhaps you are right that we
+should give this some thought."
+90084: "Really, Hagerston, these blue books are the representation of some
+student's honest efforts in the study of logic. Shouldn't you treat the with a
+little more respect than to just lose them like that?"
+90228: He looks at the blue book in a puzzled way for a moment before he hands
+it to you. "I wondered what had happened to that."
+90316: "Hagerston! Do you think it at all logical to grope around in my
+pockets! Wouldn't it be more logical to ask me for the object you wish?"
+90414: Dr. Rex Excalibur Todd, Professor of Computer Science, Symbolic Logic,
+and Analytic Philosophy (and some other stuff you forget at the moment--it is
+the middle of the night) at the University of California at Berkeley. He's tall
+and thin and is currently dressed in orange corduroy pants and a houndstooth
+jacket, whose pocket is bulging with junk. Should you ever actually write your
+thesis, this is the guy who has to approve it. As a consequence you have an
+unfortunate tendency to do what he tells you.
+90776: "Well, Hagerston, I'm glad to see you're here in order to accomplish our
+mission."
+90840: "Hagerston, you're welcome. And I must say that I'm glad to see that
+you, too, find the use of the ordinary forms of politeness to be logically
+sound."
+90952: "Hagerston, is that a logical question to undertake at the moment?"
+91000: "Hagerston, there is no doubt that the parsing of the English language
+is difficult feat, and it is probably the case that I am at fault.
+Nevertheless, I would suggest that it is logical that you make yourself clearer
+so that we can in fact communicate what information we might wish."
+91200: "I've nothing left in my pocket."
+91260: . Let me know if it can help you."
+91288: . Let me know if these can help you."
+91352: "Hagerston, our mission has now logically devolved to finding this
+dastardly murderer and accusing him of the crime with the evidence to back up
+our statements."
+91464: "The gentleman you speak of, Hagerston, is directly in front of us.
+Perhaps it is best if we put our questions directly to him."
+91556: "Hagerston, I suspect I find him just as puzzling as you did. No doubt
+he is another one of these devious and illogical magicians."
+91652: "I believe he is another one of these magicians, Hagerston. Perhaps you
+are better informed? No? Well, then, I assert he is a magician, and as such, is
+assumed devious until proven otherwise.
+91792: Have you noticed how he generally alliterates in his conversation?"
+Questions, questions, questions. Which, by now, you know better than to try to
+answer.
+91904: "Hagerston, I believe we need to examine those three elements essential
+to demonstrating the solution to a murder. Could you remind me of what they are
+again?" 
+You're not really sure what he's talking about, but then that's often
+the case. You try a guess, "Motive, means, and opportunity?" 
+"Yes, thank you
+Hagerston, that's it exactly. I rely on your remarkable knowledge of the facts
+and figures of this world we live in. Part of the job of being a man of action,
+as you are, is to remain well-informed. I must commend you on your success in
+doing so. Also we might consider what evidence we have accumulated. If you ask
+me at any point, I will attempt to logically sum up the evidence as best as I
+can."
+92408: "Hagerston, what would you argue are the classic motivations for murder?
+I should certainly include the acquisition of wealth, professional rivalry, and
+irritation of long-standing. Of course, murder is never logical, so it most
+difficult for me to truly entertain this question."
+92604: "Well, Hagerston, I believe the means in this case is clear. It remains
+sticking in the body. Perhaps further examination can tell us more about the
+subject, though."
+92724: "Perhaps in some ways, this is the most interesting of the three
+categories, Hagerston. Who had the opportunity to come upon the late Great
+Xavio? We must further investigate this crucial question."
+92868: "Hagerston, I'm certain I have read in the most reliable of sources of
+the general usefulness of towels."
+92944: "Never fear, Hagerston, it is a simple charge that you have given me,
+but I intend to fulfill it admirably. I will carry the tray."
+93114: You're not sure what it is about money that makes it illogical to carry
+any, but something must be, because he never does. Perhaps carrying a credit
+card is what's logical. Hah! It couldn't be mere heedlessness on the part of
+the august Dr. Todd. No. Certainly not.
+93308: "Is it reasonable on your part, Hagerston, to continuously ask me for
+money when you know that I have already given you what I have? I trust you
+wouldn't suspect me of holding out on you. We are engaged in this adventure
+together. That would be most illogical of me."
+93500: "I have often wondered what exactly is the logical basis for the use of
+money in our society. Perhaps, as you suggest, now is a good time to give some
+thought to this interesting question."
+93632: "Hagerston, I am disappointed. If I am a competent teacher of logic,
+then you, my student, would understand the use of
+93720: . But still you find it necessary to ask me about
+93832: "Hagerston, perhaps with the use of this staff uniform we could pretend
+to making a room service delivery to the Great Xavio. A careful analysis of the
+situation suggests to me that, once we are inside his room, we will have a much
+better chance of proving that he is, as I am certain he is, a fraud."
+94044: "It seems rather large, doesn't it? I suggest to you that overlargeness
+in uniforms is not a rational idea."
+94124: "Hagerston, I will cheerfully summarize all the evidence that I think we
+have collected if you periodically ask me about evidence."
+94216: "Well, Hagerston, it does seem to me that we are nearing the end of our
+adventure. I believe we can now find the murderer and accuse him with his
+heinous crime."
+94332: "I am glad to see that you value my help, Hagerston. There have been
+times during your years as my student when I have thought you didn't give
+proper respect to my mastery of the logical method. For now, I suggest we enter
+the hotel. But I will be glad to offer my advice whenever you ask." Somehow,
+you suspect he will offer his advice even unasked. But it is nice to know you
+can ask if you want to.
+94616: "Hagerston, as I am uncertain of your knowledge of Italian, perhaps it
+is not inappropriate of me to point out that this gentleman," he gestures to
+the concierge, "previously indicated that a room service delivery was being
+made to the third floor? If that information was perfectly obvious to you, may
+I both commend your scholarship and ask that you not be offended?"
+94876: "Hagerston, have we asked the concierge about this Great Xavio yet? I
+think in any case that would be a reasonable beginning."
+94968: "This fog seems particularly thick to me, Hagerston. Logically, I think,
+we might benefit from searching it."
+95048: "Hagerston, may I suggest that if we looked like we were delivering room
+service, she might be more inclined to let us in? The application of logic
+indicates this is a feasible plan."
+95176: "I believe I heard that large man in the lobby say on the phone that
+there was a room service delivery to the third floor."
+95264: "Rigorous thought, which I believe you should employ in your own behalf,
+Hagerston, suggests to me that we might find a staff uniform in a staff area.
+Such places are, I believe, often found in the basement of the larger hotels."
+95428: "Unfortunately, at the moment Hagerston, I have nothing further to
+suggest. Perhaps we should explore, gather more facts to which we may apply
+ourselves? Exploring and the gathering of facts are, I think, your particular
+area of expertise."
+95600: "Hagerston, analysis of the problem suggests to me that searching the
+bar might provide us with something lost by a guest of the hotel. As you are no
+doubt aware, the drinking of alchohol can lead to sub-optimal behavior."
+95756: "I believe I brought along something useful for just this situation.
+Yes, I have a penlight and a blue book in my pocket. If you like, I could give
+you either one."
+95876: "Hagerston, if you wish to see a door open, it never hurts to try simply
+knocking."
+95936: "It may be that I can offer some logical suggestions as to our proper
+course at different times. But for now, I have nothing to suggest. It is time
+for the person of action (that's you, you know) to act!"
+96084: "Prosecco is an Italian champagne. Well, that's a bit imprecise, really.
+You do agree that it's always best to be precise?" You know better than to
+interrupt him at such a moment. It's a question that needs no answer. "Rather
+than a true champagne, it in fact is a sparking wine produced by the Charmat
+method." He examines the bottle for a moment. "And this is actually a rather
+good vintage. As you are no doubt aware, Hagerston, champagne is often drunk to
+celebrate the successful completion of an arduous task."
+96452: "You can't certainly trust me on this point, Hagerston. I have examined
+the bottle closely, and I have deduced it will be a lovely beverage."
+96556: Prosecco, an Italian champagne, is a lovely beverage.
+96596: "You are referring to that rather enormous man behind the counter? I
+believe he is an employee of the hotel. No doubt he could rent us a room, or
+perform other useful functions."
+96724: "Frankly, Hagerston, my rational faculties are now leading me to
+consider him a suspect."
+96788: "As an employee of this establishment, he must surely be dismayed by
+this evening's events."
+96856: It is good that we think about this logically, Hagerston. I believe we
+have found the following piece
+96928: "I believe we must search for evidence to prove who it was who did this
+murder, Hagerston. Even the profoundest logical mind can't work without
+evidence. Evidence serves as the premises from which the logical detective
+makes his deductions."
+97216: This is the guy who's going to approve (or not) your thesis. However
+justified, an attack seems unwise.
+97292: Ick. There's got to a better way to butter him up.
+97332: He takes the credit card you offer him. "Well, yes, Hagerston, perhaps
+it is best that I keep my credit card."
+97416: "Well, Hagerston, perhaps I will take this tray, at least until we can
+find a location to return it to."
+97492: "Well, yes, Hagerston, perhaps I shall keep this lovely bottle of
+Prosecco for now. We won't need it until a later moment of celebration, should
+there be one."
+97608: "Hagerston, these champagne glasses are lovely, and no doubt quite
+fragile. Do you think it at all logical that I should try juggling them in this
+way? Perhaps if you were to find me some sort of tray, I might be able to
+properly carry several champagne glasses."
+97792: Dr. Todd sips the prosecco. "Ah, Hagerston, as a logical examination of
+the label had told me: it's a marvelous beverage. The uses of logic are
+manifold. I must thank you." He finishes the prosecco, and then smacks his lips
+in a manner that strikes you as not at all logical.
+97992: Dr. Todd drinks the mimosa. "Excellent, Hagerston. As you see, even the
+production of cocktails can be improved by the proper application of the
+logical method."
+98108: "Hagerston, thank you." Dr. Todd downs the juice in one long pull. "That
+will restore the energy that all my brain work our quest has consumed."
+98216: "Well, perhaps I am best-suited to carrying the champagne glass. You
+after all are the man of action."
+98292: "Hagerston, aren't you in fact the man of action? And aren't I the
+logical apparatus? I think it's best if you keep whatever any useful objects we
+accumulate."
+98408: It just feels too weird ordering Dr. Todd around.
+98444: "Remember, Hagerston, I am the man of logic. It is my part to perform
+logical deductions and then tell you of my results. You are the man of action.
+Therefore you do things. There may be moments when you wish to ask me
+something, and at those times I will put my logical machine," he taps the side
+of his head at this point, "to work in your behalf."
+98692: "Hagerston, after having logically considered the matter, I believe you
+can get along without that."
+98764: "But you already have that object, Hagerston. Your request is, I'm
+afraid, utterly illogical."
+99044: "Hagerston, I grant that the parsing of the English language is a
+difficult subject, and it may be that I am at fault, but isn't it logical that
+you make yourself clearer?"
+99168: "Hagerston, I believe that we should keep together. With my mastery of
+the logical method, and your flair for action, we work best as a team."
+99272: "Hagerston, I really don't think there's room for both of us to get
+under the table cloth."
+99340: "Hagerston, while I think I see where your going with this plan, I'm
+afraid it won't work if I crawl inside the room service cart right in front of
+this woman. Perhaps we need to push the cart away and do it somewhere else."
+99500: "Well, Hagerston, I suppose this might be successfully sneaky in some
+way. I trust you have a plan." Dr. Todd crawls into the lower part of the room
+service cart. He's fairly invisible.
+99636: "Let us examine this closely, Hagerston. Is it logical for me to wear
+this uniform? As you can readily notice by a simple application of your nose,
+the uniform is not clean. In fact, I'd go so far as to say it smells fairly
+terrible. Now your clothes are already dirty and further are the sort of
+clothes that can easily be washed, while I am wearing clothes that to be
+cleaned must be taken to the dry cleaners at some expense. Therefore, I suggest
+to you that if one of us is to wear the uniform, it is more logical that you
+should wear it." Ick. Logic. What is about logic that it never works out in
+your favor?
+100068: Dr. Todd crawls out from under the room service cart. "Hagerston, I'm
+sure you won't mind if I do a few of my yoga exercises now. At my age, I get
+stiff more easily." Dr. Todd proceeds to cross his eyes in an attempt to look
+at the tip of his nose. At least, that's what you think he's doing.
+100280: "But, really, Hagerston, is what you suggest our most logical course of
+action?"
+100340: "Hagerston! That is not a charge you should bandy about lightly. Is it
+logical to think that I should commit the murder of this magician? Well, now
+that mention it, perhaps it is a thought worth considering. It's true that I
+did think that he was corrupting the minds of innocents, hoodwinking them into
+doubts about the merit of the logical process. That would account for my
+motive. It is also true that you do not know where I was at the time of the
+murder, which must have been earlier this evening. In fact, I can assure that I
+do not have a, what is the proper word?" Alibi, you suggest. "Yes, that's it,
+Hagerston, I do not, in fact, have an alibi. Perhaps, through the use of logic
+I can yet convince you that it was not I who murdered this magician. Let us
+apply ourselves." 
+Augghh. You should have just kept your mouth shut.
+100936: No crime has been committed that you know of.
+100968: Dr. Todd crawls out from under the room service cart. "Hagerston, as
+you know it's a perfectly logical action to toot one's own horn. If you do not
+do it yourself, then who will? Consquently, I do say that my plan to get in
+this room by the use of the room service trolley was exceptional."
+101176: "Hagerston! That's the Great Xavio! While it's true I thought he was a
+dangerous fraud, he isn't any longer, and we must apply the logical method to
+finding his murderer. When we have found the culprit and the evidence we need,
+we must ACCUSE that nefarious villain. We have no higher priority! I shall take
+it upon myself to tabulate the evidence that we find. Feel free to ask me any
+time what evidence we have currently accumulated."
+101490: "Look, Hagerston, towels! A whole pile of them! They are an object
+universally useful. I strongly suggest you take one."
+101582: "This is it, this iron chest. Hagerston! We have found his so-called
+Magic Multiplier. Now it is incumbent upon us to determine exactly how this
+fraudulent device operated."
+101710: "Hagerston! You see the pernicious effect of this magician! This young
+man is now concerned with ghosts after having seen this villain's magical show.
+You need not worry, young man, I am not a ghost. I am a logician."
+101870: "Ah, Hagerston, a vending machine. Let us see. No. It doesn't offer
+batteries. I must say, I consider that most illogical. Batteries are always a
+very useful item.
+101996: Fortunately, I thought ahead to put fresh batteries in the penlight
+which I earlier gave you."
+102064: Dr. Todd says, "I'm glad we're making progress in this way."
+102112: "Hagerston," Dr. Todd asks, "Do you think this is a logical direction?"
+You know better than to answer that question.
+102202: "I'm glad you see the importance of exposing the mystery of the Great
+Xavio," Dr. Todd says. You're not sure you do see the importance, but you're
+here now.
+102320: Dr. Todd is one step behind you.
+102346: Dr. Todd's corduroys rustle at your side.
+102380: Dr. Todd stares at you quizzically.
+102408: Dr. Todd is still at your side. Annoyingly.
+102442: Dr. Todd pushes his glasses up his nose.
+102476: Dr. Todd looks over his glasses at you.
+102506: Dr. Todd taps his right temple thoughtfully.
+102542: Dr. Todd is muttering something about "
+102576: Nobody thinks that orange corduroys go with a houndstooth jacket. You
+close your eyes rather than look at the combination.
+102788: "Hagerston! I would appreciate it if you would keep your hands out of
+my pockets! Please ask me for anything you wish that you think I might have.
+That, I would suggest, is the most logical course of action."
+102936: You always knew Dr. Todd had a penchant for overwrought clothing, but
+this houndstooth jacket is really too much. The lapels suggest it was made in
+about 1975, and no, he didn't buy it in a thrift shop. No doubt, he's owned it
+since then. His jacket pocket seems to be bulging with junk. Probably blue
+books from three years ago.
+103172: "Hagerston! May I suggest that politeness is actually logical? If you
+are interested in what possessions I have, shouldn't you simply ask about
+them?"
+103280: "Hagerston! I would much prefer that you ask me about my possessions
+rather than groping about in my pockets."
+103360: The pocket of Dr. Todd's houndstooth jacket is bulging with junk.
+103408: The jacket pocket is stretched slack from years of carrying more things
+than any human being needed.
+103476: Dr. Todd's glasses seem surprisingly hip. The sort of thing Mastroianni
+would have worn in the fifties.
+103552: "Hagerston, it seems unlikely that my prescription would in any way
+benefit you; at the same time, it definitely eases my ability to get around if
+I'm wearing my glasses."
+103676: There's a small green metallic penlight here, glowing serviceably.
+103724: There's a small blue metallic penlight here.
+103756: There's a small green metallic penlight here.
+103788: There's a small green metallic penlight here, glowing serviceably.
+103836: You could examine it more closely if you were to ask Dr. Todd to give
+it to you.
+103896: It's a small green metallic penlight.
+103924: Some poor student's blue book. It's already been filled in and it's
+just waiting for Todd to grade it. You note the course number. Dr. Todd hasn't
+taught that course in two years.
+104054: It really is one of the grand hotels. The floor is colored marble,
+there are fluted columns supporting the ceiling, the ceiling is high and
+painted a deep blue.  There are two awfully comfortable-looking wing chairs and
+a side table grouped around an unlit fireplace. 
+
+There's a darkened bar to the
+east. The elevator lobby is further to the south.
+104300: The fluted columns are a white marble and feel cool to the touch.
+They're topped with a square capstone.
+104376: You try it again. They really are cool to the touch.
+104416: This wing chair is at the left of the fireplace. It's large and
+comfortably padded. It would probably be very easy to fall asleep in.
+104510: Dr. Todd says, "Hagerston, Is it reasonable we should sit around in
+this way? If we're going to prove this magician a fraud, I think it's best we
+do it before morning."
+104640: This wing chair is at the right of the fireplace. After some
+consideration you decide it looks just a little less comfortable than the one
+on the left.
+104744: Dr. Todd says, "Hagerston, Is it reasonable we should sit around in
+this way? If we're going to prove this magician a fraud, I think it's best we
+do it before morning."
+104868: The marble top of this small side table features the logo of the hotel:
+either a butterfly or a Rorschach blot, you're not really sure which.
+104968: And that's the same as was on the knife in the body! Of course! It was
+the hotel logo on that knife.
+105040: The famed pink pages. The San Francisco Chronicle's arts and
+entertainment section, printed on pink newsprint. You notice that the cover
+features The Great Xavio.
+105160: The article on the Great Xavio ends enthusiastically. 'Don't miss this
+show!' it says, 'The Great Xavio is in town for two nights performing all his
+and your favorite magic tricks, including his signature show-stopper, the Magic
+Multiplier. This is the trick which turns a flower into a bouquet for the
+prettiest girl in the audience, then turns a single cookie into a giant cookie
+to the delight of all the children, and finally turns a simple one dollar bill
+into a genuine one thousand dollar bill for some lucky member of the audience.
+You'll be amused, amazed, and you just might make a profit. What could be
+better? As of this writing, there are still a few tickets available. $$$.' At
+the end of the review, you see an image of a little man jumping out of his seat
+with excitement.
+105720: The fireplace isn't currently lit, which is a pity. You could imagine
+pleasantly toasting your toes if you were sitting in the chair in front of the
+lit fireplace.
+105836: "Well that's an easy request." Max hands you a paperclip. "Let me know
+if there's something else I can do for you."
+105924: He searches in his desk for a minute. "Oh, dear. That's quite
+surprising. I'm really all out of paperclips."
+106148: vero? Subito, signore." He turns his attention back to you, "I'm sorry.
+I hadn't meant to speak Italian to you."
+106236: He hands you a book of matches. "I hope you're not planning on smoking
+in the lobby."
+106300: "We seem to be in short supply tonight. I'm sorry."
+106340: "I'm sorry, I'm now out of those."
+106368: "Are you staying at our hotel? No? We do give out complimentary
+toiletries, but only to guests. I'm sure you understand."
+106460: "Always like our guests to have clean teeth!"
+106496: "I'm sorry. One per customer per day. Brushing your teeth too often is,
+you know, unhealthy. You can brush away the enamel." He gives you a broad
+smile. His teeth are perfect.
+106624: "Are you staying at our hotel? No? We do give out complimentary
+toiletries, but only to guests. I'm sure you understand."
+106864: vero? Subito, signore." He turns his attention back to you, "I'm sorry.
+I hadn't meant to speak Italian to you.
+106950: Yes, he's here. He's in 801. But I'm afraid I can't connect you to him
+any more this evening. He asked not to be disturbed."
+107048: You tell Max that you found the Great Xavio dead in his suite's
+bathroom. "You found him!
+107116: You were in room 607, weren't you?
+107144: What were you doing in Xavio's room? I'm going to have to keep you
+here. I'm calling the cops right away. This doesn't look very good for you." He
+says it almost gleefully.
+107272: "Yes, it's a great tragedy. He was a regular customer of this hotel and
+normally quite a sound sleeper. What may I ask is your connection to him?"
+107380: His tag says Max Zlotzky, Concierge. His suit is stylish and fits him
+well. His blonde hair is neat and trim. He's smiling at you. Despite all that,
+he looks more like heavyweight champion of the world than he does a concierge.
+107544: "Glad to help. I'm just doing my job."
+107576: "I'm going to have to get back to you on that. I'm afraid I don't have
+it here."
+107636: "I'm glad to do whatever I can for you."
+107668: "I'm here to help, though I'm afraid I can't do much with that
+request."
+107724: "Now that's a puzzler. Never had a request like that before."
+107772: "You sure know how to keep a good concierge running."
+107812: "Could you check back with me in the morning on that? There's just
+nothing I can do at this hour."
+107884: "I must apologize in advance. The regular concierge will be back in the
+morning. I'm just a substitute."
+107960: "That's George Mercouri. I believe he styles himself Mercouri the
+Magnificent. He's a rival to the Great Xavio. He's been rather difficult this
+evening, but fortunately that's mostly a problem for Xavio's bodyguard."
+108120: "I believe there may be some candles in the bar. I don't have any here.
+But if you really need one, just go ahead and take one."
+108212: "Some requests I can only fill if you've rented a room with us. I'm
+sure you understand."
+108280: "Yes, I believe there was a young boy named Mikey who wanted to see
+Xavio earlier this evening."
+108352: "Well, yes, what do you need? I have nail files, toothpaste, let's see,
+soap and hair products are, of course, already in your room. Unfortunately I'm
+out of toothbrushes."
+108480: "Oh, oh. I just don't know what will be done about refunds for the
+Great Xavio's coming show. I will be sure to look into that for you."
+108580: "I'm sure you understand that I can't do much to get you tickets to
+anything at this hour. I'll be glad to assist in the morning. In particular,
+may I recommend that you try to see the Great Xavio's act? A fine performer and
+he's currently staying at our hotel."
+108768: "Oh, I'm afraid I don't do the hiring here. If you were to come back
+during the day, you could find out for sure, but I don't believe they're
+looking for anyone at the moment."
+108896: "This lobby was really in the grand old style, I think."
+108940: "I'm afraid our jacuzzi isn't in working order at the moment. It's not
+currently open. Of course, it wouldn't be open at this hour anyway. The gym is
+open, however."
+109064: "We pride ourseles on keeping the gym open at all hours. You can never
+be too fit. I like to go down and lift weights on my break myself."
+109164: "Who are you to appoint yourself the police of everything. I don't have
+to account for myself to you! In any case, that woman was guarding the Great
+Xavio's suite all night. I think you should be asking her such questions."
+109324: "Yes. They're all over the building now."
+109356: "They are on their way now, I believe."
+109388: "Is there a police matter that you know of?"
+109420: "We pride ourselves on our reuben sandwich, you know. I'm quite fond of
+it myself."
+109484: "I believe you will find that already in your room. It's normally at
+the side of the bathroom sink."
+109556: "Normally, I'd be able to help, but I'm afraid we're all out. Be sure
+to ask me again in the morning and I'll rustle something up."
+109656: "I'm sorry, I'm afraid the bar is closed at this hour."
+109700: "What's your point? Are you about to accuse me of murder?"
+109744: "May I ask what you were doing poking around in my staff locker? That's
+reprehensible. Xavio had asked me to watch over that bundle of bills for him. I
+thought it would be safe there. I see I was wrong." He strikes you as somehow
+nervous, however.
+109924: "Isn't he the gentleman who's with you? I believe he's standing there
+right next to you."
+109992: "I'm sorry. I'm afraid you have the wrong sort of hotel, and I'm the
+wrong sort of concierge."
+110206: vero? Subito, signore." He turns his attention back to you, "I'm sorry
+I hadn't meant to speak Italian to you.
+110292: It's a great hotel. It's over a hundred years old!"
+110332: Farfalla is Italian for butterfly, you know." He points to a design in
+the floor. "That's our logo. Many people think it's a bow tie, but it's not."
+110444: He looks at you nervously. "I'm sorry, our letter opener disappeared
+earlier this evening. I don't know where it is."
+110532: You show the staff uniform to Max. He looks at you suspiciously.
+"Excuse me, where did you find that? That shouldn't have been left lying
+around."
+110640: "Well, yes, actually, the entrance to our restaurant is outside and to
+the left. But I'm afraid it's closed now."
+110724: "George Mercouri. Yes, he's been sneaking around the hotel all evening.
+He's some sort of rival to the Great Xavio. I don't know. But his behavior has
+been very suspicious. I heard a report of him in the basement."
+110884: "Yes, we stock a very nice prosecco in our bar. Unfortunately it's
+closed for the evening."
+110952: "Yes, she's the Great Xavio's bodyguard. An odd choice, I think. But
+maybe the fact that he picked her is just a sign of his, I shouldn't say it,
+but it's well-known, his parsimoniousness. I hope she's good at what she does,
+because there have been several attempts this evening to sneak into his room,
+with that rival magician, George Mercouri, being the most persistent."
+111224: "I'm glad to do whatever I can for you."
+111256: "I'm here to help, though I'm afraid I can't do much with that
+request."
+111312: "Now that's a puzzler. Never had a request like that before."
+111360: "You sure know how to keep a good concierge running."
+111400: "Could you check back with me in the morning on that? There's just
+nothing I can do at this hour."
+111472: "I must apologize in advance. The regular concierge will be back in the
+morning. I'm just a substitute."
+111548: He's big. So far he doesn't seem mean, but you'd hate to provoke him.
+111600: He runs Dr. Todd's credit card through the machine. "If you'll just
+sign here..." Todd scrawls the three initials of his three names each followed
+by an illegible flat line. "Thank you. Here's your roomkey. Your room is 607,
+on the sixth floor."
+111784: Max Zlotzky looks at you at little strangely, but then says in his most
+professional voice, "I believe we have already successfully completed the
+transaction."
+111896: "Well, why, thanks." Max looks at you a little suspiciously, but
+accepts the staff uniform. "I don't know why that was left lying around."
+112000: He looks at you a little strangely, but then in his best professional
+voice says, "I'm afraid that won't be enough to rent a room here. In any case
+we prefer to have a credit card for this transaction."
+112144: "Oh, I'm sorry. We're not actually allowed to take tips. Please don't
+be offended. It's corporate policy."
+112228: "I'm sorry, but the hotel staff is not allowed to accept gifts. But I
+appreciate the offer."
+112296: "Glad to help. I'm just doing my job."
+112328: "That's an utterly ridiculous charge. You have no evidence to back up
+that unsubstantiated charge.
+112400: If you weren't a guest of the hotel, I'd have you thrown out on the
+spot. As it is I'm going to call up my manager." He steps into a back office.
+112508: Who are you anyway? You're just snoops. I'm going to phone the police
+at once." He steps into a back office.
+112588: And is never heard from again. It seems he WAS the murderer, and your
+ill-timed accusation made him nervous enough to flee. Successfully. You're
+stuck trying to explain to the San Francisco police officers why you broke into
+the hotel and tipped off a murderer.
+112844: . He screams, "You!" but doesn't say anything else, leaps over the
+counter and hurls himself at you.
+112920: Two of the San Francisco cops appear suddenly and stop him before he
+can do any damage to you, wrestling him down, finally slapping the cuffs on
+him. Dr. Todd says, "Well, our outing this evening provided a very satisfactory
+demonstration of the uses of the logical method, don't you agree, Hagerston?"
+One of the San Francisco cops tries to drag you off to the police station, but
+Det. Vukovich waves him off, "It's alright. I know these two. They're nuts, but
+they're alright. They'll be there for the trial if you need them."
+113300: Dr. Todd's pops open the bottle of prosecco, and pours it into the
+three fancy champagne glasses, which he is still carrying on the silver tray.
+George Mercouri appears out of a dark corner, holding his own champagne glass,
+which Dr. Todd also fills. Dr. Todd proposes a toast: "To another fine
+accomplishment of the logical method." Clink, clink. "We have achieved the
+capture of this murderer through the most splendid and fastidious application
+of the logical method. In particular, Hagerston, allow me to commend your
+excellent performance."
+113688: You thank Det. Vukovich gratefully, and go home to get the little bit
+of sleep you can. 
+Dr. Todd says to you as you're walking out the door, "That
+was an estimable display on our part of the proper use of the logical method,
+wouldn't you agree, Hagerston? If only we had accoutrements suitable for a
+celebration, I should call it a perfect evening."
+113940: Two of the San Francisco cops appear suddenly and stop him before he
+can do any damage to you, wrestling him down, finally slapping the cuffs on
+him. Dr. Todd says, "Well, our outing this evening provided a very satisfactory
+demonstration of the uses of the logical method, don't you agree, Hagerston?"
+But the San Francisco cops insist on dragging you down to the station as well
+where you try to explain why you had broken into the Great Xavio's hotel room;
+it's late morning by the time you convince them of your harmlessness, though
+not your innocence. No sleep for you, but at least the murderer didn't escape.
+Not as satisfactory as you might like, but if Todd's happy, you're happy.
+114428: He bowls you over, but then decides against acting on his desire for
+revenge just then. Fortunately, because he'd managed to knock you over
+completely and you crack your head against the marble floor of the lobby. You
+were out cold. You wake up in a hospital, where they keep you for three days
+'for observation' before they decide you aren't any less sane than you were
+before. You agree, you think. The good news is that by the sheer dead weight of
+your body falling on him, you apparently managed to break his leg. Dr. Todd
+comes to your hospital bed late the next day, "Hagerston, I am glad to report
+that through our effort, yours physical and mine mental, we were able to ensure
+that this vile killer was caught and he will be punished for his crimes."
+115024: . Immediately a couple of cops show up in the lobby, and look
+suspiciously at Max Zlotzky. He snarls back, "But that doesn't prove a thing.
+If that's all you've got, I'll walk." But he looks worried. 
+"Hagerston, he's
+right. We need to find more evidence. I can see that these fine officers will
+ensure he does not leave the premises now."
+115272: "Mmm? I'm sorry. I don't understand your request." But you think he
+looks at you little strangely. Of course, you were acting a little strange.
+115380: It's an ordinary book of twenty matches. It features the Hotel Farfalla
+logo--which is the same as was on the murder weapon!
+115472: A plain, blue book of matches featuring the Hotel Farfalla logo.
+115518: By its light, you spot a candle on a nearby table.
+115560: You put it out before it burns your finger.
+115644: This small nail file is actually made out of metal; it's not just one
+of those cheap cardboard types. Another mark of a classy hotel.
+115740: It's a small tube of toothpaste. Now if you could only get home and
+brush your teeth.
+115800: "Hagerston, while I am certain that good dental hygiene is a logical
+activity, we have a mission! Brush your teeth later." Moreover, you don't
+actually have a toothbrush.
+116032: You don't have the room key for any of the rooms on this wing, and you
+don't want to wake anyone up.
+116102: The basement elevator lobby is quiet at this hour. There's a vending
+machine marked out of order. 
+
+A swinging door to the west is marked 'Staff
+Only.' There's a hallway that leads north. A glass door to the east leads to a
+small workout room. The door to the one working elevator is to the south.
+Beside it are the buttons that make it go.
+116348: "Hagerston, I think it's important we keep our wits about us and not
+walk into walls."
+116412: The slot at the side of the gym door is precisely sized to receive a
+room key.
+116468: The opening at the bottom of the vending machine is the place where
+your purchases drop.
+116532: In it, you see the following items:
+116558: This vending machine seems rather poorly stocked. Presumably they'll
+fill it up again in the morning. At the bottom is the opening from which you
+take your purchases. Currently the vending machine has in it the following
+objects for sale (the button to get the object in question is listed before and
+the price after the object):
+116820: "Fix your bicycle now!" the label proclaims. "This kit includes: one
+inner tube, an extra valve cap, a tire lever, and a spare spoke."
+116920: It's a small rectangular patch for an inner tube. Black. It's not, in
+fact, very interesting.
+116992: It really is a tire valve cap. Now if only you had the bicycle.
+117040: "Hagerston, do you mind if I take that? I lost mine a few weeks ago,
+and I've been worried that I might get a flat." Whether you minded or not, he
+just did so.
+117156: This is what Great Uncle Basset said you needed. Probably the rest of
+the bicycle repair kit is junk for now.
+117236: A bicycle spoke is reputed to be a long metal rod, and that's what this
+looks like.
+117296: The mimosa is a mixture of a sparkling wine and orange juice and offers
+as a pleasant, if somewhat deleterious, beverage for breakfasts.
+117392: An omelette aux fines herbes and a slice of ripe canteloupe would have
+gone just perfectly with that mimosa.
+117468: There's nothing in your glass. Dreaming of mimosas are we?
+117512: But you're glass doesn't contain a mimosa.
+117548: "Genuine 100% Orange Juice," the label reads.
+117588: "Hagerston, do you find that the ordinary vending machine orange juice
+is improved by consuming it from an expensive champagne glass? Logic suggests
+to me that it might, but I have not yet reasoned out all the possibilities.
+Perhaps your empirical experience can confirm my hypothesis?" You ignore him
+and drink the orange juice. But now that he's mentioned it you wonder. The
+orange juice does seem to taste better.
+117880: "Hagerston, I'm glad to see that you're consuming nutritious beverages,
+and not soda all the time. That is good, logical behavior."
+118008: "Hagerston, are you certain that the proper way to make a mimosa is to
+put the sparkling wine in the glass first? I think this is a question that may
+require logical investigation." You are quite sure that you don't have a clue
+whether the orange juice or the champagne should go first when making a mimosa.
+118220: You pour the orange juice into the champagne glass.
+118256: The label blares, "CHOCOLATE" and not much else. But, of course, what
+more do you need to know?
+118516: The jacuzzi door is frosted; outside you can see the elevator lobby,
+sort of.
+118572: The door to the jacuzzi opens. "Advance, agents of adventure! Mercouri
+the Magnificent murmurs welcome."
+118648: You insert your room key in the slot, but the indicator light flashes
+red briefly, and nothing else happens.
+118724: The jacuzzi door is locked. However, next to it there is a slot for
+your room key that might do something.
+118800: You insert your key in the slot next to the jacuzzi door. The indicator
+light flashes red briefly and nothing else happens.
+118888: "Hagerston! That's exactly the pragmatic spirit I expect of you. A good
+effort. But maybe our best course of action is to acquire a room key of some
+sort."
+119000: The gym door is glass; through it, you can see the a couple of exercise
+machines. There's a slot at the side of the door to insert your room key.
+119104: The gym door is glass; outside you can see the elevator lobby for the
+floor.
+119160: The door to the gymnasium swings shut again.
+119192: You insert your key in the slot next to the gym door. The door swings
+open.
+119248: The gym door is locked. However, next to it there is a slot for your
+room key that might do something.
+119320: You insert your key in the slot next to the gym door. The door swings
+open.
+119376: "Hagerston! That's exactly the pragmatic spirit I expect of you. A good
+effort. But maybe our best course of action is to acquire a room key of some
+sort."
+119488: The staff room is surprisingly dingy for such a grand hotel. The cover
+over the fluorescent light fixture is cracked. Two benches are bolted into the
+floor. There's a locker on the west wall. 
+
+A swinging door to the east leads
+back to the basement lobby. A door to the south leads outside to the loading
+dock.
+119708: Two benches are bolted to the middle of the concrete floor in here.
+They're made of some sort of tough and inexpensive wood. You were never very
+good in shop class.
+119824: That's not something you can sit down on. Really. They're that
+uncomfortable.
+119884: The fluorescent light fixture is cracked and there's no bulb in it;
+consequently the only light in the room comes from under the swinging door to
+the east. It is, however, enough light to see by.
+120024: The padlock to Max's staff locker looks pretty secure to you. It
+requires a key of some sort, which you don't have.
+120108: You attempt to pick the padlock, but really, you don't have first clue
+how to go about it. Now if you knew an expert lockpicker, maybe you could get
+somewhere. Well, in fact you do. Your great-uncle Basset was the top safeman in
+all of Canada's bank-robbing history. It's not every family that's got talent
+like that.
+120336: Stuck on the front of the locker is a "Hello, My Name Is..." badge,
+with the name of Max Zlotzky the concierge written on it. It's secured by a
+huge padlock.
+120456: You haven't got a key for the huge padlock at its front.
+120496: You attempt to pick the padlock, but really, you don't have first clue
+how to go about it. Now if you knew an expert lockpicker, maybe you could get
+somewhere.
+120608: You attempt to pick the padlock, but really, you don't have first clue
+how to go about it. Now if you knew an expert lockpicker, maybe you could get
+somewhere. Well, in fact you do. Your great-uncle Basset was the top safeman in
+all of Canada's bank-robbing history. It's not every family that's got talent
+like that.
+120836: In searching the locker, you find a wad of thousand dollar bills. A
+shiver of shock or greed or something runs down your back.
+121080: Now we must confront this perfidious Xavio with his patent flummery!
+121128: Well, you think to yourself, this ought to satisfy Dr. Todd.
+121174: "Mercouri the Magnficent," says Mercouri the Magnificent, "Also agrees
+with this astute assessment."
+121252: You feel a momentary urge to snatch the money and run and look no
+further. But when you do look, your initial impulse is only strengthened. It's
+a wad, maybe a hundred of them, of one thousand dollar bills, held together by
+a rubber band. You've never had so much money in your life. You're not even
+sure that you really believed so much money existed.
+121500: You fondle the wad of one thousand dollar bills rather lovingly.
+121548: Finally Dr. Todd says, "Hagerston, I believe you should return those to
+their current location. Until we understand their exact history, and who has
+rightful possession of them, I believe it's best that they remain there."
+121708: But whose are they? If you were only sure they were really ill-gotten
+gains. While a jail cell might give you the peace and quiet to get your thesis
+done, they probably wouldn't have an outlet for your laptop.
+121856: "Hagerston, I ask you: is it at all reasonable to assume that vending
+machine will take one thousand dollar bills?"
+121940: The staff uniform reads 'Hotel Farfalla' on a patch over the pocket.
+It's an off-white, about eight sizes too large, and smells terrible.
+122040: You see a pile of dirty clothes here.
+122068: The uniform is off-white. A small patch reads 'Hotel Farfalla.'
+122116: You see a pile of dirty clothes here.
+122144: As you look at the pile of clothes, you realize it's a staff uniform. A
+small patch reads 'Hotel Farfalla.'
+122224: It's pretty vile, really. It really ought to go straight to the
+laundry.
+122276: Somebody scrubbed a bit at the cuff of the left sleeve, but you notice
+that there's still a bit of blood on it.
+122356: Once you get the uniform on, you realize it's enormous. Andre the Giant
+might feel comfortable in it, but you don't.
+122440: It's clear that when they first built this hotel, they didn't plan a
+real gym. This one is squeezed in. There's an exercise bike, a rowing machine,
+and a stairmaster. There's a small table near the door.
+122588: "Hagerston, hurling yourself against the walls does not strike me as a
+logical course of action."
+122656: The exercise equipment is relatively modern, and no doubt you should
+get more exercise.
+122716: Exercise at this hour is utterly unappealing.
+122748: "Hagerston, while I think the idea of exercise is logical, at the
+moment we have a mission!"
+122816: The table has elegant metal legs and a marble top. It's round. So when
+you stagger off the stairmaster, sweating, you damage neither yourself nor the
+table.
+122928: The table is too small to support the weight of a person.
+122972: A plain white towel, approximately four foot by two foot.
+123012: A short dimly lit hallway with patterned carpet.
+
+Back to the south is
+the basement's elevator lobby. To the north is the glass door to the jacuzzi.
+123120: The carpet's thickness makes this hallway very quiet. The pattern in
+the carpet looks like repeated moths, something you don't particularly want in
+your carpet. No, they must be butterflies. Of course, that seems to be the logo
+of the hotel.
+123292: The same as was on the letter opener thrust in the Great Xavio's body!
+Of course! It was the hotel logo on the letter opener.
+123384: The slot at the side of the jacuzzi door is precisely sized to receive
+a room key.
+123440: The jacuzzi itself takes up most of the room. There's a dial timer on
+the wall to start the bubbles, except there's no water in the jacuzzi.
+
+You can
+go south back to the short hallway.
+123572: The timer goes from zero to fifteen minutes.
+123604: You turn the jacuzzi dial to ten minutes. "Hagerston, perhaps you
+wished to conduct an experiment with the jacuzzi by turning the dial to on. But
+as logic would no doubt have told you before you undertook this useless
+experiment, with no water in the jacuzzi, nothing was going to happen." He's
+right this time: nothing did happen.
+123836: You turn the jacuzzi dial to ten minutes. "Hagerston, perhaps you
+wished to conduct an experiment with the jacuzzi by turning the dial to on. But
+as logic would no doubt have told you before you undertook this useless
+experiment, with no water in the jacuzzi, nothing was going to happen." He's
+right this time: nothing did happen.
+124068: The loading dock faces on a dimly lit alley. A particulary thick fog
+has settled in, making the whole alley seem unreal.
+124152: It's tempting to sneak off into the fog. But you're in big trouble
+already and leaving the scene of the crime would probably end you up in jail
+for life...
+124264: "Hagerston, doesn't it seem more logical to pursue our goals here
+inside the hotel, where we know, at least recently, the Great Xavio was
+staying?"
+124372: It's a particularly thick fog this morning, which could hide all manner
+of sins, but unfortunately not Dr. Todd. It won't burn off now until ten this
+morning. An hour at which you plan to be soundly asleep.
+124520: The fog is cold and thick. Waving your arms around in it in an attempt
+to search it feels foolish until you accidentally grab somebody in a long blue
+cape and a rakish Three Musketeers hat. "Hold thy hands off me. I am Mercouri
+the Magnificent!"
+124696: The loading dock is raised from the alley at a height to make it easy
+for a truck to off-load its deliveries. Thick bunches of fog prevent you from
+seeing much into the distance.
+124818: floor of the hotel. It looks pretty much the same as all the other
+non-executive suite floors. No doubt up there, where the executives stay,
+there'd be something to see.
+
+There's the door to the one working elevator to
+the south and some buttons to make it go.
+125004: The room service trolley is a large metal cart on wheels. It is draped
+by a white linen cloth. There's really a considerable amount of room underneath
+it.
+125112: You've peeked out from underneath the table cloth to look around the
+room.
+125164: And, of course, you're hiding underneath the white linen tablecloth.
+125244: You're worried that it might look suspicious if you were to push the
+room service cart into the main lobby.
+125320: It rolls quite smoothly across the floor. You could no doubt push it in
+any direction you chose.
+125388: You can think of no possible plan that you're willing to undertake
+where you're squeezed in with Dr. Todd underneath the room service cart. Ewww.
+125492: . Also you can sense the glare of Dr. Todd's houndstooth jacket from
+under the cart.
+125556: You can sense the glare of Dr. Todd's houndstooth jacket from under the
+cart.
+125612: You can't search the trolley very effectively from inside it.
+125656: Flexing your superhuman muscles, you prepare to lift the room service
+cart. "Hagerston," Dr. Todd says, "Given that this object has wheels, would you
+not agree the more rational course of action is to push the object, rather than
+attempt to lift it?"
+125836: You squeeze yourself into the lower part of the cart. You can see the
+outside world by peeking from under the white table cloth that covers the cart.
+Probably nobody can see you.
+125960: You push the room service cart ahead of you.
+125992: The table cloth is white linen, spotlessly clean and beautifully
+ironed.
+126044: Todd did have his silly notion of sneaking in to the Great Xavio's room
+by means of this cart. He is the genius and you're just the flunky. While it
+still doesn't seem like a great idea, you leave the tablecloth in place.
+126200: "Hagerston! I've got an idea! If you were to find a hotel uniform and I
+were to crawl underneath the cart, we could get into the Great Xavio's room by
+pretending to be room service! Isn't that a logical approach to our problem?"
+Like expecting somebody to order room service at three in the morning is
+logical. Hmmph. At any rate you leave the tablecloth.
+126452: The label says prosecco. You stare, mesmerized, as the lovely, tingly
+bubbles escape.
+126516: The bottle looks like a champagne bottle. The cork looks like a
+champagne cork. But the label says prosecco, denominazione di origine
+controllata, and some other things in Italian. It's hard to see through the
+thick glass of the bottle, but you think you see bubbles.
+126776: "Hagerston, we have not yet accomplished our mission this evening. Is
+not a celebration premature at this point? If you were to open that bottle,
+would that not be what is commonly referred to as counting one's flightless
+birds before they have emerged from their protective enclosures?"
+126976: There's just no way you can put the cork back into the bottle.
+127020: Holy hand grenades, Batman! Those tasty bubbles almost by themselves
+makes this whole noxious adventure worth it.
+127100: "Hagerston, if you will drink the prosecco contrary to my logical
+advice, may I at least suggest you POUR it in to a glass?"
+127192: You feel rather gauche drinking from the bottle so you only have a
+taste. But it's better champagne than any you've ever had on a grad student
+budget.
+127296: You'd have to open the bottle to drink the champagne.
+127336: The bottle of prosecco isn't open.
+127364: The champagne glass is already filled. If you were to pour any more in,
+you'd be wasting the prosecco.
+127436: "Hagerston, are you certain that the proper way to make a mimosa is to
+put the orange juice in the glass first? I think this is a question that may
+require logical investigation." You are quite sure that you don't have a clue
+whether the orange juice or the champagne should go first when making a mimosa.
+127648: Sadly you're out of the prosecco, so you can't make mimosas any longer
+this morning.
+127708: The champagne glass is already filled. If you were to pour any more in,
+you'd be wasting the prosecco.
+127780: You fill the champage glass with the prosecco. The bubbles effervesce
+in a way that's just too inviting.
+127856: "Hagerston! Was it logical to drink that entire bottle of champagne
+yourself? Won't that impair your abilities as a man of action?" You dont' feel
+impaired. In fact, you actually feel wonderful. But even in your wonderful
+state, you do have doubts about how long it will last.
+128084: . You decide to save it until you get a proper champagne glass.
+128128: floor of the hotel. It looks pretty much the same as all the other
+non-executive suite floors. No doubt up there, where the executives stay,
+there'd be something to see.
+
+There's the door to the one working elevator to
+the south and some buttons to make it go. To the north is a small maintenance
+closet.
+128342: This tiny maintenance closet is mostly full of uninteresting junk and
+clutter. It's very crowded.
+
+A rapid exit to the south is recommended.
+128444: A metal file of about seven inches long.
+128472: An old-fashioned wooden push broom. Still a very useful device, though
+not one you're very likely to use.
+128548: "Hagerston! You'd look ridiculous pushing that broom around. Is it at
+all logical to look ridiculous in such a way?" You have to admit you agree.
+128652: The executive floors certainly are pretty fancy. The elegant gold
+plaque next to the elevator door indicates that this is the
+128738: floor in three different numbering systems and braille. Spiffy. And the
+buttons to control the elevator have a certain sparkle they didn't have on
+other floors.
+
+The door into the elevator is south.
+128880: Well, the executive floors are pretty fancy. The elegant gold plaque
+next to the elevator door indicates that this is the
+128964: floor in three different numbering systems and braille. Spiffy. And the
+buttons to control the elevator have a certain sparkle they didn't have on
+other floors.
+
+The elevator door is to the south.
+129104: The room you rented is to the east.
+129132: The door is real wood, not plywood. On the wall at its side is a slot
+for your room key.
+129196: The door is real wood, not plywood. They just don't make things like
+that like they used to.
+129264: You insert your key in the appropriate slot. The light flashes green,
+and you hear the door's lock click.
+129340: The door is locked. However, next to it there is a slot for your room
+key that might do something.
+129412: You insert your key in the appropriate slot. The light flashes green,
+and you hear the door's lock click.
+129488: The light flashes red for a second and nothing happens.
+129528: "Hagerston! That's exactly the pragmatic spirit I expect of you. A good
+effort. But maybe our best course of action is to acquire a room key of some
+sort."
+129640: The slot at the side of the 607 door is precisely sized to receive a
+room key.
+129696: Well, the executive floors are pretty fancy. The elegant gold plaque
+next to the elevator door indicates that this is the
+129780: floor in three different numbering systems and braille. Spiffy. And the
+buttons to control the elevator have a certain sparkle they didn't have on
+other floors.
+
+The elevator door is to the south. The door to 801 is to the
+east.
+129944: "Did the great man order room service again? He had a reuben sandwhch
+at one o'clock in the morning. If I eat something just before I go to bed, it
+goes straight to my hips. No wonder he's looking a little pudgy. And here I
+thought he was planning to sleep!" You smile and try to look like you're an old
+hand at room service deliveries.
+130184: "Hey, wait a minute, who are you?" She gestures to Dr. Todd. "You can't
+go in there." Since Dr. Todd seems to insist on going in with you, Mildred
+Nottinghaus blocks the door to the both of you. You whisper to her that you'll
+go away, try to ditch him, and then come back.
+130388: Mildred Nottinghaus says, "I'm afraid I can't let you in there. He's
+signed all the autographs he's going to sign this evening."
+130484: It's an unexciting hotel hall carpet. It's gray. Fortunately it has
+been vacuumed recently.
+130552: "What? Has the great man ordered room service again this evening? No
+wonder he's looking a little pudgy. Well, you just go on and push the cart on
+through east."
+130668: "You aren't getting in to see him tonight. There's been autograph
+hounds and his rival Mercouri hanging about all night, and he needs some rest
+before his show tomorrow. He may not pay me enough, but this is what he pays me
+to do."
+130832: "I'm sorry, he won't be signing any more autographs this evening. He's
+gone to sleep and he particularly asked that I not let anyone in. May I suggest
+you buy tickets for tomorrow night's show? People have been trying to get in
+all night. I hope you're the last. I'm getting a little sleepy myself."
+131048: You tell Mildred Nottinghaus that you've just found the body of the
+Great Xavio murdered. "Dead! Murdered! I've been here all night. This can't
+have happened. It just can't. George Mercouri's been hanging around the hotel
+this evening. He's been trying to steal Xavio's best tricks for his own show.
+It must be him. Or some autograph hound. But if what you say is true I'd better
+call the cops."
+131340: "He was a great man. If he just wasn't so cheap. It's his cheapness
+that's got him into this mess."
+131416: "He ordered room service earlier, around midnight, I think it was. I
+can't be sure, but it might have been that nice young man at the front desk who
+brought it up. The one with the funny name."
+131556: Mildred Nottinghaus is slumped against the wall, whether from
+exhaustion, despair, or worry, you're not sure.
+131636: Standing outside the door of the Great Xavio's penthouse suite is a
+woman of about sixty-five. She's gray-haired, but looks fit. She's wearing
+jeans and an embroidered sweatshirt. There's a canvas bag on the floor next to
+her, and from it a blue strand of yarn leads to her knitting needles. She
+appears to be knitting a child's sweater. Uncomfortable thing to do standing
+up, you'd think.
+131912: Mildred Nottinghaus is sleeping peacefully on the chair you were so
+kind to bring her. The sweater she was knitting has fallen to the floor.
+132012: Her knitting needle has almost fallen out of her hand.
+132060: i've got nothing to say to you. You think I'm a murderer."
+132104: Mildred weeps quietly and ignores you.
+132132: Mildred looks at you with mild puzzlement, then returns to her
+knitting.
+132184: "Well, of course I don't have an alibi. Ridiculous. I could have popped
+in there at any time. I don't think you're a very nice young man."
+132288: "Yes, that Mercouri certainly had a motive. That's all I've got to say
+on that."
+132352: "Well, I suppose I'll have to arrange refunds for tomorrow night's
+show. If I get my hands on that Mercouri, I'll strangle him myself."
+132456: "Actually, now that I think about it, tomorrow's show is sold out."
+132508: "There are no tickets remaining for tomorrow night's show."
+132552: You tell Mildred that you found a small boy in Xavio's suite. "What!
+I've been watching for that Mercouri villain all night and a child sneaks in?
+I'm going to have to fire myself."
+132684: Mildred Nottinghaus rubs a tear from her eye. "He could be cheap, but I
+liked the guy. And these cops are so brutal with all their questions. I hope
+they find whoever did it. And by whoever, I mean George Mercouri"
+132840: "It's a sweater for my grandniece Mary. She's my sister Emily's
+youngest daughter's child. It's a little tough to knit standing up, but it's
+got to be done by tomorrow. Little Mary turns five tomorrow. She's so cute."
+Mildred Nottinghaus tells you more about Emily, Mary, and other family members
+whose names you don't even try to remember. She offers to show you pictures.
+You gently decline.
+133128: "Well, I suppose I'll have to find a new job now. Fortunately, I've got
+a few dollars socked away. Maybe I'll go live with my niece in Las Vegas."
+133240: "I work as Mr. Xavio's bodyguard. It's a job. I'm good at it. I think
+he should have given me a raise after I learned karate, but he can be pretty
+cheap."
+133356: "George Mercouri thinks he may be magnificent, but there's no way his
+show will ever rival that of the Great Xavio. Try as he might to steal all the
+Xavio's tricks, Xavio's got a few tricks of his own."
+133504: "Xavio's death is just what Mercouri wanted all along. He said he was
+just trying to master the tricks in order to perform them better. But now he
+doesn't have a rival at all, does he? He doesn't have to worry about how well
+he performs them at all, does he? I've been watching for him in particular all
+night, and I don't see how he got in. He must have though."
+133764: "There's just been all sorts of people trying to get in here tonight.
+Autograph hounds, mostly. I'm just so exhausted. I wish I could sit down for a
+minute. But that Mercouri is sneaky. He's the worst. I've got to be on the
+watch for him constantly."
+133948: "It's a job. But it is a low-paying job. I don't really want to say
+anything bad about him, but, well, he's a little cheap. You should see how it
+hurts him to give away that one thousand dollar bill every night. But even he
+has to admit it's a good gimmick. Now if only he'd given a few more of them to
+me."
+134168: "Oh, Xavio always stays here when he's performing in town. It's a great
+hotel, don't you think? Now all they need is a chair for the hallway."
+134272: "Hmm? Oh, no thank you, dear. It would only make me sleepy."
+134320: "Oh, well, it's not so much that I really want to sleep. If I just had
+a chair that I could sit on for a little while, I'd be OK. I do have to stay
+awake to watch out for Mercouri."
+134456: "Oh, well, I could talk about my family all night long. You're a very
+nice young person to listen so patiently. But I'm sure you have things to do."
+134564: "I enjoy it. It keeps the hands busy when you have to stay awake. But
+it is easier if you have a chair."
+134640: "Mmmm, dear, I'm not really sure I understand what you're talking
+about. Be so kind and explain it to me more clearly."
+134728: "Have you ever heard of Mrs. Pollifax? I warn you that, like her, I
+know karate."
+134792: She is a grandmother, right? Attacking her seems like an easy thing to
+do. You should be able to just overpower her and then waltz into the room to
+find whatever it is that Todd thinks you should find. All that seemed true, so
+it's a little puzzling why you're lying here on the floor with a sore Adam's
+apple.
+135012: This time it's her foot that moves faster than you. It connects with
+your chin and you're on the floor.
+135088: You're not sure what hit you, and now it doesn't matter any more, does
+it?
+135144: "Why that's very considerate of you. It'll allow me to rest my feet and
+get my sweater done that much faster." Mildred Nottinghaus sits down in the
+chair and in ten minutes is sound asleep.
+135280: She takes her knitting needle back, but glares at you suspiciously.
+135328: "I'm going to have to refuse that. I trust you didn't mean that by way
+of a bribe."
+135392: You tell Mildred Nottinghaus that you've just found the body of the
+Great Xavio murdered. "Dead! Murdered! I've been here all night. This can't
+have happened. It just can't. George Mercouri's been hanging around the hotel
+this evening. He's been trying to steal Xavio's best tricks for his own show.
+It must be him. Or some autograph hound. But if what you say is true I'd better
+call the cops."
+135682: "I know. It's a tragedy. We're going to find his murderer, whoever it
+was." She glares at you.
+135760: "What? Has the great man ordered room service again this evening? No
+wonder he's looking a little pudgy. Well, you just go on and push the cart on
+through east."
+135876: Mildred is busy talking to one of the policemen and can't be bothered.
+135928: Mildred seems to be listening, but really she's concentrating on her
+sweater.
+135984: You wake Mildred Nottinghaus and tell her that you've found Xavio
+murdered. "Dead? Murdered! Who are you? Did you sneak in there while I was
+asleep? I'm calling the cops right now!"
+136120: She's had a long night, and you did bring her the chair. Why not let
+her use it?
+136180: Mildred Nottinghaus is already awake.
+136208: "Well, aren't you a sweet young thing."
+136240: I'm sure she'll have pleasant dreams now.
+136272: "Accuse me of murder will you! I was loyal to Xavio. What you've said
+is just not right! There's not a spot of evidence. I don't think you're such a
+nice young man after all."
+136400: "Hagerston, this young lady is correct." Mildred Nottinghaus rather
+beams at being referred to as a young lady. "On what basis do you offer such a
+charge? While she may have thought he didn't pay enough, now she won't have a
+job at all. And if she'd intended to steal from him, she would have had several
+opportunities when he was not present. I'm afraid you're not being logical at
+all."
+136680: Mildred Nottinghaus' canvas bag is full of yarns of various color.
+136728: Really. You don't know the first thing about knitting.
+136876: The sweater's only half-finished, and it's far too small for you in any
+case.
+136932: Mildred's knitting needle is a long, narrow piece of metal. It's pointy
+at one end, and has a knob at the other.
+137012: You gently ease the knitting needle from Mildred's grasp and pocket it.
+137064: She's busy knitting the sweater with it. She'd probably stab you if you
+tried to take her knitting needle now.
+137142: This is the main room of the suite they've rented to the Great Xavio.
+You had no idea hotel rooms could be this lavish. You descend two stairs to a
+sunken living room with three couches, each longer than the last, and any one
+of which is large enough for you to stretch out on and fall asleep. There's a
+television you couldn't even get in your apartment, unless you knocked out a
+wall. There's a minibar bigger than your bathroom. (Well, alright that's an
+exaggeration, but not much.) Grad school just doesn't seem as much fun as it
+used to.
+
+There are three doors to other rooms: the northwest to the master
+bedroom, the south to the guest bedroom, and the north to the bathroom.
+137622: Dr. Todd turns to you and asks, "Hagerston, is it logical that they
+call this a hotel room when it's got at least four rooms?"
+137720: "Hagerston, since we got in by pretending that we were employees of
+this establishment, I suggest we take the cart with us in case we need to
+return, utilizing the same deceit. In general, as you know, I am opposed to
+deceit, but in this case I have deduced, that the means of deceit do, in fact,
+justify the ends."
+137944: "Hagerston, is it logical to walk into walls? Doesn't all the evidence
+of the scientific method indicate to us that we can, in fact, not pass through
+walls? And aren't there four perfectly reasonable exits from this room, to the
+northwest, to the west, to the north, and to the south? Isn't that a
+sufficiency of valid exits? I claim that it is."
+138190: Dr. Todd looks at you sadly, "Hagerston, let us examine in which
+position we think best. I would contend we think best on our feet, because it
+forces us to be alert."
+138312: This is the longest of the couches. It could seat all the friends you
+have, with a little room left over for Dr. Todd.
+138396: This couch is mid-sized by the standards of the suite. Even still when
+you fall asleep on it, you won't have to curl up at all.
+138488: This couch is nearly laughable in its very smallness. It could probably
+only hold six people.
+138556: Your initial impression was that this minibar was bigger than your
+bathroom. Well, maybe not. But it is definitely bigger than your kitchen.
+138656: "Hagerston! I hope you don't plan to try to open that minibar in order
+to take something from it. That would be theft, a most illogical activity."
+You're not sure exactly how it is that theft is illogical, but then you don't
+make the rules, do you?
+138832: It is bigger than your kitchen, and maybe even your bathroom. Sure, if
+you were a superhero, you might be able to move it, but you're just ordinary
+old Hagerston.
+138948: A flat screen television of truly astounding proportions.
+138988: At this hour it seems to be all infomercials.
+139020: "Hagerston, thank you for that. Don't you consider that the watching of
+television a most illogical activity?"
+139100: This silver trays seems a little too elaborate for the reuben sandwich
+that's on it.
+139160: The logo in the exactly center of the tray--it's the same as was on the
+knife in Xavio's body!
+139228: This rather elaborate silver tray held a reuben sandwich when you first
+saw it. Its center features the hotel logo
+139380: auerkraut, and Russian dressing, all piled on light rye, and grilled.
+Tasty, in principle. And you'd read recently where fermented foods like
+sauerkraut were good for you. But this particular sandwich has been there a
+couple of hours, and doesn't look all that appealing.
+139572: It smells like a reuben sandwich, only less so.
+139608: You take a bite. It's cold and a little greasy at this point, but it's
+not bad.
+139668: It was still pretty good, and probably would have been very good a
+couple of hours ago.
+139728: The bathroom door is a solid piece of oak. Signor Fornoni did not skimp
+on the costs for his hotel. The knob, while still elaborate, is more recent.
+It's a round piece of brass with a tiny hole in the center.
+139876: The bathroom door is locked, it appears, from the inside.
+139920: Turns out the tiny hole in the doorknob is actually an emergency
+release mechanism for the door.
+139988: You don't actually see a keyhole exactly in the door. Unless the tiny
+hole in ther center of the doorknob is supposed to be one.
+140080: There's blood stains on the door handle. You decide you'd better not
+touch it.
+140136: The knob to the bathroom door is a solid piece of brass with a tiny
+hole in the center.
+140196: The hole in the center of the door knob is smaller in diameter than a
+pencil.
+140252: The bedroom door is solid oak.
+140276: There's a door to the guest bedroom which is closed.
+140316: The door to the guest bedroom is open.
+140344: A scared voice responds, "Who's there? You're not a ghost are you?" You
+hear the sound of furniture being pushed away from the door.
+140440: There seems to be furniture piled up against the door on the inside.
+You let go of the handle instantly. There must be somebody inside.
+140536: It's not so much that it's locked, as somebody seems to have piled
+something up against the door.
+140604: This is the suite's master bedroom. The bed is enormous and charmingly
+sleep-worthy. A window faces north. 
+
+The door back to the suite's living is to
+the southeast. There's a walk-in closet to the east.
+140752: "Wow," is really all you can say. You contemplate its vast acres of no
+doubt sleep-enticing comfort.
+140874: Though it appears not to have been slept in this evening, perhaps
+you're right to climb in. I will join you. It may give us some notion of his
+thought processes." You leap out of the bed. Will no one rid you of this
+meddlesome professor?
+141044: This old-fashioned window is spotlessly clean, offering a good view
+this high up.
+141104: You look out the window. Off to the northwest a few headlights shine
+their way across the Golden Gate bridge.
+141184: You tug at the window, but you can't seem to open it. It must have been
+painted shut.
+141246: A hotel suite with a spare bedroom! If somebody came to visit you at
+your apartment, they'd better bring their own sleeping bag.
+Should you wish to
+leave this room, you may do so to the north.
+141384: A large nondescript dresser. Not very interesting at all.
+141428: Amazing. You can't budge it. Mikey must have been really terrified to
+have moved it in front of the door.
+141504: Nothing of interest inside. You close it up again.
+141540: The first thing you notice is a dead body. Dead bodies do have a habit
+of drawing one's attention. And there's a knife sticking out of his chest.
+Let's recap: you've just broken into a hotel room, in the middle of the night,
+where you've discovered a dead body. Ooh, boy. You're in big trouble now.
+
+You
+take a deep breath and look around. The rest of the bathroom is just as fancy
+as the rest of the suite. The faucet looks like it's real gold. But it's all
+undisturbed. In fact it looks like while this guy was dying he probably crawled
+in here and locked the door behind him. 
+
+The door back to the living room is
+to the south.
+141988: "Hagerston! This is a crime scene! Do you think it's wise to take
+evidence from a crime scene?"
+142060: You decide you'd better not touch anything. It might be evidence.
+142108: "Hagerston, logically speaking shouldn't we leave the evidence
+undisturbed to assist in efforts of the prosecutor?"
+142192: You decide you'd better not touch anything. It might be evidence.
+142240: This is the first time you've actually seen the magician. It seems he
+was a small blonde-haired man with an over-elaborate mustache. You don't know
+what his stage costume looked like, but he'd look fairly dapper in his gray
+silk pajamas, if it weren't for the knife in his chest and the coagulated blood
+around it.
+142460: Yick. Blood. Ooh. Gross. After getting all that out of your system, you
+look at it more closely:
+142536: It's really just a letter opener. It can't be very sharp. It must have
+taken somebody strong to use this as a murder weapon. You recognize that it has
+the hotel logo of a butterfly on its handle.
+142676: It's really just a letter opener. It can't be very sharp. It must have
+taken somebody strong to use this as a murder weapon. There's some logo on the
+handle that looks like a bow tie. It seems like you've seen that somewhere
+recently, but you're not sure.
+142860: It looks fancy. Even if it's not real gold, it's probably pretty
+valuable.
+142916: Sure, taking the gold faucet, selling it, and leaving the country is a
+plan, of sorts. But you'd need a wrench.
+142996: The shower is covered in a pretty blue tile. If you had a bathroom you
+were redecorating, you might consider it. Like even.
+143084: The toilet is white porcelain.
+143108: What? You think you're Marcel Duchamp now? Guess again. You're still
+plain old Hagerston.
+143176: Just the thought of looking at all that blood gives the willies, but
+you steel yourself. It's coagulated and mostly dried up. He must have been
+killed a while ago.
+143290: You know, this walk-in closet may be bigger than your apartment. The
+light turned on in some mysterious high-tech way the moment you entered.
+
+The
+exit from the closet (though you could just move in here) is to the west.
+143448: The Great Xavio's street clothes. Xavio's taste in day wear runs to
+designer labels and tailored shirts.
+143524: They're stylish, but they're not your size.
+143556: The Magic Multiplier is a large iron chest with brass bound corners.
+There's a metal funnel on top that leads into its dark interior. No other way
+into it is apparent.
+143676: The Magic Multiplier is a large iron chest with a funnel on top; after
+you pressed the button it's now open to the front.
+143816: The Magic Multiplier is a large iron chest with a funnel on top; after
+you pressed the button it's now open to the front.
+143904: The Magic Multiplier is a large iron chest. You had earlier noted a
+small almost hidden button at its base.
+143980: Poking around in the interior of the box, you discovered a hidden
+compartment. "Hagerston! Don't you see? This is clear proof that this Magic
+Multiplier is just a trick! Here are the one dollar bills that he claimed had
+been converted into one thousand dollar bills. Since they are still in the box,
+he must have had a separate supply of one thousand dollar bills somewhere.
+144244: And we've already found them. This has been excellent work."
+144292: Wadda ya know? The magician's trick was a trick. Dr. Todd will be
+thrilled. Maybe you ought to tell him he can get out of the room service cart.
+144396: There's nothing left inside the Magic Multiplier's hidden compartment.
+144492: Searching the outside of the Magic Multiplier reveals a small button,
+previously hidden.
+144556: The Magic Multiplier turns out to be quite solid. Your toe throbs
+painfully.
+144612: "Hagerston, that object is metallic. Does it seem at all logical to
+attempt to burn it?"
+144676: While you probably could lug the thing off, it's heavy. You'd be pretty
+conspicuous. Your back would hurt. It doesn't seem worth it.
+144772: The funnel in the top of the Magic Multiplier leads into the darkness
+of its interior.
+144832: You try to reach your hand into the funnel, but it doesn't fit.
+Whatever was deposited in there is lost in the interior of the Magic
+Multiplier.
+144936: You try to reach your hand into the funnel, but it's no go. Whatever
+has been dropped in there is lost in the interior of the Magic Multiplier.
+145040: "Hagerston! That's the suit he wore this evening as he was perpetrating
+his mumbo-jumbo."
+145108: The Great Xavio's performance suit is black silk, has wide lapels and
+deep pockets.
+145168: Inside the lining of the left cuff, you find a hidden one thousand
+dollar bill.
+145224: "Hagerston! Don't you see? This is proof that it was all mumbo-jumbo!
+After he took a one dollar bill from a member of the audience, he substituted
+it with a one thousand dollar bill--you know, Hagerston, that among the
+demimonde, a one thousand dollar bill is frequently known as a Cleveland, from
+that notable president pictured on it," You roll your eyes, something you do
+frequently in the presence of Dr. Todd. "That very plausibility made the trick
+all the more dastardly. We've done a very good thing here, Hagerston." You sigh
+with relief.
+145616: You have a good feeling about this.
+145644: This probably qualifies as evidence. You'd better not take it.
+145692: You don't want to take the magician's suit. If he found out, he'd
+probably turn you into something unspeakable.
+145796: "Don't you think the responsible thing to do, Hagerston, is to leave
+that bill there? It could very well be considered evidence. Our knowledge of
+its existence is the most important fact." Only Dr. Todd could think that the
+knowledge of a thousand dollar bill's existence was more important than its
+possession, but you do leave it there.
+146036: The magician would probably turn you into a toad if you started
+stealing from him.
+146092: Oh! It does feel good. It feels much better than a thousand times as
+good as the stuff you normally have in your wallet.
+146180: Genuine United States of America greenbacks. Value one dollar.
+146228: The machine spits out your dollar bill in disgust.
+146264: The machine cheerfully accepts your money.
+146300: The small button blends into the brass coloring quite effectively. You
+really had to look closely to find it.
+146376: The front side of the Magic Multiplier swings open.
+146416: Mikey is probably about 15, but looks 11, wears glasses, and hasn't
+combed his hair. He looks terribly scared.
+146498: "Hagerston, I hope you don't mind if I crawled out of the room service
+trolley and followed you up here. Whatever plan you were following seemed to me
+to be taking too long.
+146624: There's a smallish boy here who says his name is Mikey. He looks about
+11, though you hope he's at least a little older. He wears glasses, and hasn't
+combed his hair since who knows when. He looks terribly scared when you first
+see him, but then he points at Dr. Todd. "I saw you at the Great Xavio's show
+tonight! You asked him if he wasn't ashamed to, to, to proffer all that
+mumbo-jumbo. You're not a ghost."
+146924: "I heard a low moaning sound coming from the bathroom. It sounded like
+a ghost, so I locked myself in here, by pushing the dresser in front of the
+door."
+147032: "I think magic is neat! Especially that multiplier thing."
+147076: "I just wanted to get his autograph after the show, but he didn't see
+me because I'm so small. So I found out which hotel he was staying at by
+calling them up, and coming here. I got here before he did! But then I fell
+asleep on the bed here, and was only woken up by the ghost. My mom's going to
+be so mad!"
+147296: "You really want to go in the bathroom? That's where the ghost is!
+You're very brave. But if you want to go in the bathroom, well, it's one of
+those doors that locks from the inside, but you can still open it from the
+outside by sticking something thin into the center of the door knob, like a
+paperclip or a hairpin. But I'm going to stay here."
+147544: "Do you really think it's all mumbo-jumbo? That Magic Multiplier box
+that turned the little cookie lead into a giant cookie--that seemed pretty
+impossible! And the cookie tasted good, too. I think he must be in league with
+Sauron! Anyway, there's a ghost in his bathroom. I heard it!"
+147752: "I'm sorry. I don't have a paperclip. But are you sure you really want
+to go in the bathroom? Aren't you afraid of the ghost?"
+147848: "I'll be 15 my next birthday! Everybody says I'm very young for my
+age."
+147904: "That was such a cool trick--that Magic Multiplier. It changed that
+little bitty cookie into a giant one. That was so cool."
+147996: "I don't think she's a very good guardian. She let me in when the Great
+Xavio wasn't even here, and forgot I was here. And she let in the room service
+guy when Xavio was asleep already. I smelled the food. I'm hungry! All I've
+eaten this evening is part of that giant cookie. My mom's gonna kill me."
+148216: "I'm really hungry. Do you have a sandwich or some other food you can
+give me?"
+148276: "Thanks for the phone. She's still mad, but it's better."
+148320: Mikey looks at you a little puzzled. "I don't understand. You're not
+turning into a ghost are you?"
+148396: "Oh, thanks. I was so hungry." He scarfs it down in about two seconds.
+You wonder how he stays so undersized.
+148476: He rips the wrapper off the chocolate bar and wolfs it down in one
+bite. "I was, like, so hungry. I missed dinner! My mom's going to to be so mad.
+148584: You wouldn't have a cellphone, would you? I really should call my mom."
+148640: He twists off the orange juice's cap and pours it down. "Thanks a lot.
+I was afraid to leave to get something to drink because of the ghost.
+148740: Can I borrow your cellphone, I mean, if you've got one? My mom's going
+just kill me if I don't call her."
+148820: Mikey takes your cellphone for a moment and calls his mother.
+Embarassed, you try not to listen in, but it's not hard to tell she's pretty
+angry. He hangs up and gives you the phone back. "Thanks. Whew. That wasn't as
+bad as I feared. And it was good I called her.
+149012: You know I noticed that Mildred Nottinghaus was doing a lot of
+knitting. I bet you could get her knitting needle and open the bathroom door
+with it."
+149120: If you really, really wanted to get into the bathroom and fight the
+ghost, you could probably ask at the front desk for a paperclip. I bet that's
+all you'd need to get in."
+149244: Have you seen that Mercouri the Magnificent? He's magic! He hangs out
+in the smoke and fog and it's like he's not there, but he's right next to you!
+I'd search any fog banks you find and maybe you'll find him!"
+149400: You try to break it to him gently, but that turns out to be impossible.
+"He's dead. You mean the ghost I was hearing was the Great Xavio dying! Oh, no!
+I'll never get his autograph now."
+149540: "It's terrible what happened. And my mom's going to be so mad at me.
+And for what? I didn't even get his autograph."
+149626: "Me? Murder? I'm scared." 
+"Hagerston, is this at all logical? Didn't
+you notice that the murder weapon was a letter opener? Such a dull blade
+suggests at least adult strength was required to commit the murder."
+149784: Mikey follows you into the suite's lounge.
+149816: "Do you mind if I eat that sandwich. I'm so hungry. I haven't had
+anything to eat since I had a little bit of the giant cookie. It was awfully
+good, but I had to share it with all the other kids."
+149960: He scarfs it down in about two bites. You wonder how he can remain so
+undersized.
+150020: "Do you think it's safe in here?"
+150046: It's quite a nice room really, with a desk, a television, and a very
+comfy-looking bed. There's a window on the north wall. There's a bathroom to
+the south. 
+
+You can go back to the hall by going west.
+150196: You don't actually need to use it the facilities now.
+150236: There's no way you're actually going to crawl out on that ledge. No
+possible hairbrained scheme of Dr. Todd can get you to do that.
+150332: There's no way you're actually going to crawl out on that ledge. No
+possible hairbrained scheme of Dr. Todd can get you to do that.
+150428: There's no way you're actually going to crawl out on that ledge. No
+possible hairbrained scheme of Dr. Todd can get you to do that.
+150524: It's a standard issue hotel room desk.
+150552: The small sign reads, "Complimentary toiletries available from the
+concierge. Please ask at the desk below."
+150632: It's a straight-backed chair on wheels.
+150664: You push the chair back and forth across the carpeted floor. If it
+weren't the middle of the night you could call up some friends for a game of
+office bowling.
+150776: That's going to look an awful lot like you're trying to steal the
+chair. Probably a bad idea.
+150844: The chair's a little too large to carry. It is on wheels, though. If,
+for some unintelligible reason you wanted to, you could probably push it.
+150948: You try out the chair. It's good for your posture, and if it weren't
+the middle of the night you might use it to write a few pages on your thesis.
+151052: You push the chair along ahead of you.
+151080: It's a queen-sized bed and it does look comfortable.
+151120: "Hagerston. Don't you go near that bed. We're engaged in a serious
+business here."
+151184: It's a good-sized color television.
+151212: At this hour it seems to be all infomercials.
+151244: You sensibly turn the television off.
+151272: The hotel's old enough that it's a window you can actually open.
+151320: You look out the window, and just momentarily, it seems you can see a
+man in a big floppy hat and a long cape. You look again and he's gone, if he
+was ever there. He just disappeared into the wisps of fog that lurk outside the
+window.
+151484: You look out the window. There's a thin ledge, just barely possible as
+a space to stand if what you saw wasn't a mirage. Looking out further to the
+northwest you can see a few cars crossing the Golden Gate bridge.
+151636: Nothing like a breath of fresh air.
+151664: "Hagerston, I agree, the fog feels a little chilly tonight. It's
+logical that you should close the window. We wouldn't want to catch a cold from
+the night air."
+151780: It's six floors up. You're just not going to do it. If that really was
+a person you saw out there, they can just have the ledge all to themselves.
+151884: The ledge is incredibly thin, and if you really did just see somebody
+there, the person must have been truly fearless--or insane.
+151974: There are three elevators here, though two are marked closed for
+cleaning. There are two elevator call buttons for up and down. An indicator
+light shows which floor the elevator is currently at.
+
+The door to the elevator
+is to the south. You can return to the lobby to the north.
+152172: "Hagerston, let us examine the course of action you are about to
+undertake. Isn't it likely that the concierge will be familiar with all the
+employees of this hotel? And isn't it true, that by wearing the uniform of the
+hotel, you are attempting to pass for an employee of this establishment? Do not
+these two suppositions contradict one another? If you agree with my premises,
+then I am sure you, too, will come to the clearly logical conclusion that to
+enter the hotel lobby while wearing the staff uniform is a bad idea."
+152536: You're sleepy, but not so sleepy as to start walking into walls.
+152582: The elevator poings and the door opens.
+152614: The elevator poings and the door opens.
+152668: to 8. A quick glance shows the elevator is at the
+152704: The elevator is nondescript and boringly modern, but probably safer
+than the original elevators. At its side there's an up button, as well as a
+floor indicator.
+152816: The elevator is nondescript and boringly modern, but probably safer
+than the original elevators. At its side there is a down button, as well as a
+floor indicator.
+152932: The elevator is nondescript and boringly modern, but probably safer
+than the original elevators. There are buttons for the basement, the lobby, and
+the first through eighth floors. The buttons for the top three floors are
+surrounded by a gold box. A discreet note suggests that you insert your key in
+the adjacent slot for the executive suite floors.
+153176: The elevator is nondescript and boringly modern, but probably safer
+than the original elevators. At its side there are up and down buttons, as well
+as a floor indicator.
+153296: You use your superhuman strength to pry the elevator doors apart! Oh,
+wait--you don't have superhuman strength...
+153378: The elevator has buttons for 8 floors. A sign above the bank of buttons
+says, 'For executive suite floors, please insert room key.' A gold box
+highlights each of the top three floors.
+
+The door to exit the elevator faces
+north.
+153582: or the Lobby, and 2 through 8 for the floors above. The buttons for 6,
+7 and 8 are surrounded by a little gold box to indicate that they are executive
+suite floors. Ooh, la, la. There's a slot here which, if you insert your room
+key, you can press the button to go to the executive suite floors.
+153792: A slot at the top of the bank of buttons. It's just about the width of
+a hotel room key.
+153854: The hotel has an old wood bar with a mirror behind it and a couple of
+bar stools. There's also a couple of tables. It's closed and, except for the
+light you're carrying, dark now. 
+
+The hotel lobby is to the west.
+154008: There are probably candles on every table in the bar, but you noticed
+this one. It's hardly been used at all.
+154088: You light the candle with one of your matches.
+154120: You can't light the candle with that.
+154148: The old wooden bar is stained and burnt in numerous locations.
+154192: You find a hotel room key inside an envelope. Somebody must have
+forgotten it here. You decide to take it. There's no telling which room it goes
+to, however. There's also a champagne glass.
+154328: The mirror behind the bar is slightly warped and even pitted in one
+place. It must be original to the hotel. It's amazing it lasted this long.
+154428: You find nothing of interest. Unfortunately, that also includes
+yourself.
+154480: The tables and chairs in the bar area are a mismatched lot. Most of the
+tables have a candle on them.
+154552: There are several stools lined up at the bar. They have a too short
+back and no cushion. Chances are you couldn't successfully fall asleep in one.
+154656: If you carried the barstool back through the lobby, you'd look mighty
+suspicious. You decide to just leave it there.
+154740: Now you recognize the design on the knife: it's the Hotel Farfalla
+logo!
+154792: A plastic rectangle with a magnetic strip on one side. On the other it
+features the Farfalla Hotel logo, which you identify as a butterfly. The room
+number isn't printed anywhere. Somebody lost it, but you have no way of telling
+what room they are in.
+154968: Your cellphone is neither as small nor as feature-laden as you might
+like. At least it was cheap. You have pre-programmed a couple of quick dial
+numbers, 1 for Dr. Todd at his office, and 2 for Dr. Todd at home. Your mother,
+back home in Ontario, is 3. Det. Vukovich of the Berkeley police force is 4.
+
+
+Why you actually have the phone number of a homicide detective on the
+Berkeley police force preprogrammed into your cellphone is a long and
+uncomfortable story that you can't really explain, and prefer not to think
+about. It has to do (what in your life doesn't?) with Dr. Todd.
+155388: You hear a Muzak version of Queen's 'We Are The Champions' coming from
+the vicinity of your right pocket.
+155468: "Hagerston, I suggest to you that it is logical to answer your
+cellphone when it rings in that way. Or, in fact, in any way."
+155560: Your poor, sad, far too thin wallet. Alas for the life of a graduate
+student.
+155616: What? You suddenly think a credit card is mysteriously going to appear
+in here? Fat chance. You're an impoverished graduate student. Now if you were a
+rich professor...
+155740: Once again you discover that it does not contain the picture of some
+fantastically good-looking significant other.
+155820: That doesn't fit in your billfold.
+155848: Your University of California at Berkeley student identification. It
+reads D. Hagerston. Even in the middle of the night you can't bear to look at
+the picture.
+156236: whether your, or (better) Dr. Todd's presence, is irritating him.
+156288: Det. Vukovich thumps in. "Hagerston," he bellows. "This had better be
+good. Or I will personally arrest you for malingering.
+156384: " He looks at the corpse. "Alright, this is good. I just hope the two
+of you did nothing more to this stiff than find him. I'm out of my jurisdiction
+here. I'm going to call up the locals. I'd better stay here at least until they
+come."
+156556: Maybe you'd better lead me to this body of yours." He jerks his thumb
+at Dr. Todd, "Sure, he could try to prove things to me logically, but I'm an
+empiricist. I like to see things for myself."
+156698: "Alright, Hagerston, this wasn't a false alarm. I don't have
+jurisdiction here, so I got to call up the locals. Hang on." He whips out his
+cellphone and calls somebody. "They're on their way. I'll guard the crime
+scene. And don't you wander very far away. You're in enough trouble as it is."
+156916: Vukovich seems to know Pollacks and greets him, then turns to you.
+"Alright, Hagerston, this wasn't a false alarm. I see somebody's already called
+the local boys, but I'll just stick around here to see if I can help. Don't
+leave the building. The two of you are in enough trouble as it is."
+157128: Det. Vukovich is suspiciously waiting for you to show him something.
+157176: Detective Vukovich merely grunts at you. "Hagerston," Dr. Todd says, "I
+think it's better if we pursue our own course and then ACCUSE the perpetrator
+of this vile deed. Let Detective Vukovich work in the way he knows best."
+157344: Det. Vukovich has been sucked into the bustle of police work. Whenever
+you draw his attention he glares at you, then goes back to it.
+157440: Det. Vukovich glares at you. "Hagerston. Is this some sick joke of
+yours? You're just in the way. Hey, Morning Star," he waves over a Native
+American cop, "Take these two down to the station and keep them there until I
+say they can get out."
+157620: Some otherwise non-descript detectives from the San Francisco police
+force. Their badges read Hooke and Pollacks. They look more likely to haul you
+down to the police station than to help you out.
+157760: The cops appear and you explain to them that you discovered the dead
+body of the Great Xavio. They tell you not to leave the premises, but
+afterwards they pay no more attention to you and start immediately examining
+the body.
+157916: You explain to the cops that you were a little hasty in calling and
+that really there's nothing wrong. They scowl a bit, but take it surprisingly
+well. "That's alright. That's our job. We're here to help. Don't hesitate to
+call if you've got real trouble." They go back to their normal nighttime
+business.
+158136: A couple of San Francisco homicide detectives walk in. One of them,
+Hooke, asks you suspiciously, "How'd the two of you get in here in the first
+place?"
+Before you can even think of a sensible excuse, Dr. Todd has begun to
+answer him. If it really is an answer. "Isn't it true that I am his professor?
+And that Hagerston here is my student? Isn't it therefore logical that we
+should arrive together in pursuit of a pedagogical goal?"
+"Get a load of these
+two, Pollacks," he shakes his head. "Alright, get out of here, but don't leave
+the hotel, until we talk to you."
+158552: The detectives glare at you suspiciously on their way to start their
+investigation.
+158612: Hooke jingles his handcuffs in a significant way.
+158648: Pollacks barks at you, "What are you doing in here? Get out of the
+way!"
+158704: "Give me some room here," Hooke glares. "But don't leave the building."
+158760: The cops are busy going about their work and wave you away.
+"Hagerston," Dr. Todd says, "I think it's better if we pursue our own course
+and then ACCUSE the perpetrator of this vile deed."
+158900: The cops are too busy with the body of the Great Xavio to pay you much
+mind.
+158956: The cops suspiciously watch Max Zlotzky and pay no attention to you.
+159004: Hooke looks at you in disbelief. "You gonna accuse one of us of murder?
+Alright, buddy, I don't know who you are or what you're doing around here, but
+you're in the way. You're going in to the station." Hooke drags both you and
+Dr. Todd down to the station, where you neither eat nor sleep for another
+twelve hours.
+159232: Two beat officers from the San Francisco police force. The short one's
+name Clubb, and the tall one is Pyke. They don't look very friendly.
+159336: One of them, you think it's Pyke, grunts, then the other says, "Shut
+up. We're keeping an eye on this guy."
+159420: Clubb looks at you in disbelief. "You gonna accuse one of us of murder?
+Alright, buddy, I don't know who you are or what you're doing around here, but
+you're in the way. You're going in to the station." Hooke drags both you and
+Dr. Todd down to the station, where you neither eat nor sleep for another
+twelve hours.
+159648: "Locked locks could I loosen lightly. But not for you. Offended am I!"
+159704: You explain about the locker and padlock you saw in the staff room.
+"Well, Mercouri the Magnificent can make minced meat of a simple padlock. Lead
+the way to this locker of yours and I will liberate it!"
+159848: "Mercouri the Magnificent smiles a smile of satisfaction."
+159892: There's a man here dressed in a long, midnight blue cape, and a hat
+that wouldn't have been out of place in a Three Musketeers movie. Underneath
+all the sartorial flourish, though, he's actually quite petite.
+160040: With a bright flash and a cloud of smoke, the caped man disappears! You
+hear, "Mysterious magician melts away," after he's gone.
+160136: "Awful accusations advanced about others annoy if verity has vamoosed.
+Offended am I!"
+160198: "Hagerston," Dr. Todd looks at you glaringly, "This gentleman is right.
+Is it logical to loosely bandy about accusations of murder? Isn't it correct
+that we should first attempt to establish evidence of guilt before making such
+serious accusations? Hagerston, I am disappointed by your failure to understand
+the logical method and apply it properly. It is almost a reflection on my
+teaching."
+160478: With a swish of his cape and a sudden flash, Mercouri the magnificent
+disappears!
+160540: "Mercouri the Magnificent's mind is maimed by your muddle."
+160584: With a bright flash and a cloud of smoke, the caped man disappears! You
+hear, "Mysterious magician melts away." after he's gone.
+160680: "Mercouri the Magnificent's mind is maimed by your muddle."
+160724: "Mercouri the Magnificent can magick much: pigeons produced, locked
+locks loosened, voices invisibly ventriloquized, scarves sneakily supplied,
+lovely ladies levitated..."
+160848: "Pointed parallels polish the periods of speech..."
+160888: Dr. Todd looks at you, "Hagerston, I rely on your facility with words.
+Is it logical to confuse assonance and alliteration in this way?" You shrug,
+hopefully knowingly.
+161012: "The xanthous Xavio is at the zenith of his trade. By comparison I am a
+mere zero in a zoot suit. But better will I be!"
+161200: Nevertheless, I deem he did not do the devilish deed."
+161240: His innocent appearance enabled his entry."
+161272: "This concierge contributes no capacious quantity to the upkeep of the
+hotel. Seems to this self suspicious."
+161352: "Mercouri the Magnificent's mind is maimed by your muddle."
+161396: "Mercouri the Magnificent's mind is multiplied by what you mention."
+161448: With a bright flash and a cloud of smoke, the caped man disappears! You
+hear, "Mysterious magician melts away." after he's gone.
+161544: With a bright flash and a cloud of smoke, the caped man disappears! You
+hear, "Mysterious magician melts away." after he's gone.
+161640: With a bright flash and a cloud of smoke, the caped man disappears! You
+hear, "Mysterious magician melts away." after he's gone.
+161736: With a bright flash and a cloud of smoke, the caped man disappears! You
+hear, "Mysterious magician melts away." after he's gone.
+161832: "Ah, Mercouri the Magnificent will master this momentarily!" He pulls
+two small wires from inside his cape and sets to work. It only takes him a
+couple of minutes and the locker is unlocked.
+161968: Like you need a description of your own mother. Well, she'd probably
+tell you, you haven't been home anywhere often enough recently, so maybe you
+do.
+162076: The greatest bank robber in Canadian history, a man of many disguises,
+a genial raconteur at parties, and your mother's father's younger brother. Yes,
+he's your great-uncle Basset.
+162208: Now you recognize the design on the knife: it's the Hotel Farfalla
+logo!
+162260: A plastic rectangle with a magnetic strip on one side. On the other it
+features the Farfalla Hotel logo, which you identify as a butterfly. The room
+number isn't printed anywhere. If you didn't know it was for room 607, you'd
+have no way of finding out.
+162444: You need both your hands to carry the tray when you've got things on
+it. You're not going to be able to do much of anything that way.
+162540: "Hagerston, do you think it logical to move around rooms in the
+darkness?"
+162596: You'd hate to strain your eyes squinting in the dark. Eyestrain is
+already a problem staring at computers all day.
+162676: You'd been soundly sleeping, comfortably, soundly sleeping, when Dr.
+Todd called. He's your thesis adviser, and as such, he holds unconscionable
+power over you, which he uses for, well, whatever he likes, really.
+"Hagerston," he'd said. (You do have a first name, but no, nobody ever uses
+it.) "You do think it's important we apply our brains in a logical way, and not
+yield to mumbo-jumbo and mystification?" You acknowledged this was true. With
+Dr. Todd, a bad idea. The result was you agreed to meet him in front of the
+Hotel Farfalla at 3 AM. There was some reason, perfectly logical according to
+Dr. Todd, for this request, but you can't for the life of you now remember what
+it was.
+
+[First time players may want to type ABOUT]
+163220: "Hagerston, may I suggest that it is more logical to press the floor
+button from inside the elevator?"
+163292: "Hagerston, I'm glad to see that you believe in practice, but really
+isn't an elevator a perfectly logical and easy to use apparatus?"
+163388: The button's light flashes briefly, but nothing happens.
+163480: The vending machine says, "Thank you." Your purchase is delivered in
+the opening.
+163580: It's a talking vending machine. It says, "That item is sold out."
+163632: "Hagerston, may I suggest that it is more logical to press the floor
+button from inside the elevator?"
+163704: Use call or dial to operate your cellphone.
+163784: First inserting your room key in the slot, you push the button.
+163880: The button's light flashes briefly, but nothing happens.
+163972: Try dialing a number or the name of one of preprogrammed contacts
+you've set up in your phone.
+164040: Where have you left your cellphone?
+164068: Detective Vukovich is in the building!
+164096: You've already called him. Nothing to do now but wait.
+164136: The phone rings and nobody answers. You have a bad feeling about this.
+164186: You dial his number, but then hang up immediately. Detective Vukovich
+already thinks you're a bit of a clown--and maybe he's right. You feel a bit
+like Stan Laurel to Todd's Oliver Hardy. Except he's the thin one, and oh,
+well, we could all lose a few pounds.
+164378: You decide you have to call up Detective Vukovich. "Hagerston, what in
+hell are you doing calling me up in the middle of the night?" You realize you
+don't really have an answer. "Todd put you up to this didn't he? Don't answer
+that. I know the answer." He hangs up.
+164574: "Hagerston, you got something to tell the a cop, you call 911. It's the
+middle of the night. And you tell Dr. Todd, because I know he put you up to
+this, that the next time I see him on the streets of Berkeley I will personally
+arrest him for something, anything--loitering, jaywalking, being a public
+nuisance. I will find a charge. Go home and go to bed. Now. Quit calling me."
+164854: You decide to call Det. Vukovich. He is a homicide detective, after
+all. The phone at the other end rings a very long time, an alarmingly long
+time, before Vukovich grunts into his receiver. You'd almost hung up, and then
+after he answers, you babble, "He's dead. They killed him." Vukovich must have
+recognized your voice because he barks, "What? Professor Todd's dead?" He
+sounded almost hopeful. That thought--pleasant as it may be--brings you to
+coherence, and you explain how and why you found the body of The Great Xavio.
+Explaining, you realize your story makes no sense at all, that you had broken
+into a hotel in the middle of the night to prove that a magician was performing
+magic tricks, but since Vukovich knows Todd, too, he doesn't question it. He
+says he's on his way.
+165420: Detective Vukovich is on his way!
+165448: "Hagerston, does it seem logical for you to call me when you can see
+that I'm right here in front of you?"
+165524: You call up your mom and explain about the locked staff locker and how
+you need to get into it. "Well, it just so happens Uncle Basset is here at the
+moment. I'll put him on. He can probably help." You wait a moment and then your
+great-uncle Basset comes to the phone. "Trying to break into something in the
+middle of the night, eh? Following in my footsteps, are you, lad? It was a good
+career for me, and whenever you lose your job, you get room and board at the
+Queen's expense. Not bad, eh?" He's always like that. 
+
+You explain the padlock
+to him. "What you need's a bicycle spoke and a file. Find those and call me
+back, eh. I can probably talk you through it."
+166004: You call up your mom and she puts Great Uncle Basset on the line. "Ah,
+my boy, it makes me feel young again, just to have my hand in, even vicariously
+like this. I'm so glad you called." In no time at all, he's talked you through
+the process of picking the lock. Maybe all those stories about bank robbing
+weren't just so much hooey. "Isn't it a good feeling when it comes open, eh?"
+166280: Your great uncle Basset picks up the phone. "You don't have the tools
+yet, my boy. Can't do a job without the proper tools, eh, now can you? Give me
+a call back when you're ready. I'm looking forward to it."
+166432: You tell your mom about how that miserable Dr. Todd has woken you up in
+the middle of the night in order to pursue some miserable goose chase, and how
+you haven't got any sleep, and it's all so pointless, and he's ruining your
+life. She makes a few sympathetic noises, then finally says, "Hagerston," even
+your mom calls you Hagerston now, and it feels a little weird, but there it is,
+"Do you know what time it is here?" and then hangs up. Maybe even mom can't
+make this one better.
+166776: You've already called them. Nothing to do now but wait.
+166868: You've already called them. Nothing to do now but wait.
+166908: You tell the dispatcher that you've just found a body in the Hotel
+Farfalla, and that it looks like murder. The dispatcher tells you that she's
+sent several officers on their way immediately.
+167044: You make up a story that doesn't seem very convincing about why the
+police should come to the hotel. It works anyway. The dispatcher promises that
+two of San Francisco's finest are on their way.
+167180: "Hagerston, don't you think that with the proper application of the
+logical method, we can solve these problems ourselves? Is there any need to
+seek outside information?"
+167300: Three digit phone numbers are pretty much limited to 911 and 411.
+167352: If you'd read the contract, you might have an idea how much you're
+going to get charged for long distance calls. As it is, you decide you can't
+afford it.
+167464: International calls! Who can afford that on a grad student's budget!
+167516: You don't want to call up some stranger. It's the middle of the night!
+167568: "Hagerston, the book of matches is not currently on fire. And I'm sure
+you will agree with me, that's a good thing."
+167656: "Hagerston, really, do you think that's a logical action at this time?"
+167708: That's not something you can knock.
+167736: "Excuse me, sir, but haven't you already rented a room from us for this
+evening?"
+167936: vero? Subito, signore." He turns his attention back to you, "I'm sorry.
+I hadn't meant to speak Italian to you.
+168024: Yes, I have a lovely room available on the sixth floor, one of the
+executive suite floors. If I could just see your credit card?"
+168116: I'll just need to see a credit card."
+168180: People are generally a mystery, aren't they?
+168212: Unlocking generally requires a key of some sort.
+168248: You begin to stretch, but Dr. Todd interrupts, "Hagerson, while I do
+think it is logical that you attempt to shed a few pounds, we currently have a
+mission." You scowl at Dr. Todd, but he's always been blithely impervious to
+your scowls.
+168420: You do a few jumping jacks. OK, enough of that.
+169584: mcom. I'd love to hear any comments you have.
+169618: Have you found the hints? There's two ways to get suggestions. Try
+THINKing in different locations or situations. Also try, ASK TODD FOR HELP, and
+he might have something to say, depending on where you are. Do you still want
+to see the walkthrough?
+
+>
+170802: CCUSE MAX OF MURDER
+Well, that leaves you one point short of the
+maximum, but then there's always that last lousy point...
+
+You can also try
+ALTERNATE to get the other walkthrough.
+173016: In-game hints are available, but you've got to find them.
+173058: Thanks to my beta testers: Jess, Barry, John, and Mom. 
+
+Version two
+was much improved by the reviews after the 2004 IF Competition. Thanks all.
+
+
+Version three incorporated more post competition reviews. Particular thanks
+are due to Andrew Krywaniuk.
+173248: "Hagerston, I am disappointed on two counts: first, that you have even
+attempted to acquire such a dubious skill. Is it logical to learn how to pick
+locks when the process is, as it reasonably should be, illegal? But second,
+having decided to learn such a logically dubious skill, you have done so badly.
+That is definitely not the sign of my instruction."
+173500: "Finding a file is feasible on the first floor." Just that message, and
+then whoever it was hung up.
+173572: "Finding a file is feasible on the fifth floor." Just that message, and
+then whoever it was hung up.
+173644: "Festering falsities are flung only by foes. Friends are we not, but
+foemen forever!" That was it and then he hung up. The dial tone tone returns to
+your phone. Who could that be? you wonder.
+173784: "Stupid statements of suspicion sap sociability."
+173820: "Offended was I, but aggression allievates anger against awful
+accusation."
+173876: You answer your cell phone. "Perseverance pays premiums.
+Congratulations on coup I could not accomplish." Just that, and then the caller
+disconnected.
+173984: There's nobody on the line. All you hear is a dial tone.
+174028: You hear a voice from behind the door to the extra bedroom to the
+south, "Who's there? Are you a ghost?"
+174104: You hear the sound of furniture being moved away from the door.
+174148: "Why, Hello Hagerston. Is it true that we haven't yet greeted each
+other this evening?"
+174216: Nobody responds to your friendly greeting.
+

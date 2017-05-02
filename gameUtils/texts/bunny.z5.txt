@@ -1,0 +1,531 @@
+17045: Nothing to do!
+17143: It is now pitch dark in here!
+17211: Sorry, that can't be corrected.
+17236: Think nothing of it.
+17278: As good-looking as ever.
+17301: You can hardly repeat that.
+17324: You can't begin with a comma.
+17428: I didn't understand that number.
+17453: You can't see any such thing.
+17485: You aren't holding that!
+17580: You can't see "
+17685: Nothing to do!
+17700: There are none at all available!
+18396: Please answer yes or no.
+18420: Are you sure you want to quit?
+18463: Failed.
+18483: Restore failed.
+18500: Ok.
+18518: Save failed.
+18533: Ok.
+18550: Transcripting is already on.
+18580: Transcripting is already off.
+18623: Score notification on.
+18644: Score notification off.
+18787: You are carrying nothing.
+18832: Taken.
+18843: You are always self-possessed.
+19080: Dropped.
+19167: Wrahn there now.
+19184: Removed.
+19317: You lack the dexterity.
+19394: Done.
+19645: Done.
+19905: Wrahn seem interested.
+20539: But it's dark.
+20556: You find nothing of interest.
+20588: But it's dark.
+20677: You find nothing of interest.
+21492: That was a rhetorical question.
+21546: That seems unnecessary.
+21567: Keep your mind on the game.
+21588: What a good idea.
+21607: You smell nothing unexpected.
+21630: You hear nothing unexpected.
+21653: You taste nothing unexpected.
+21684: Keep your hands to yourself!
+21707: You feel nothing unexpected.
+21730: If you think that'll help.
+21828: Oh, don't apologise.
+21856: Quite.
+21921: You achieve nothing by this.
+22002: You wave, feeling foolish.
+22134: You are unable to.
+22151: Nothing obvious happens.
+22199: That's not a direction.
+22220: Not that way you can't.
+22248: Keep your hands to yourself.
+22271: You achieve nothing by this.
+22302: Futile.
+22331: You talk to yourself a while.
+22356: This provokes no reaction.
+22378: There is no reply.
+22395: Nothing is on sale.
+22414: Your singing is abominable.
+22446: Time passes.
+36237: You can't go that way!
+36255: Wheeeeee!
+36285: You can't get that!
+36300: You already have that!
+36313: You carrying too much!
+36340: You don't have that!
+36363: You see nothing unusual.
+36549: What's that?
+36564: You are in total darkness.
+45523: The coffin is open.
+45594: The coffin is closed.
+45662: Are you crazy?
+45684: It is much too heavy.
+45864: A rope leads down the damp well.
+45964: You don't have that!
+46078: It's too dark down there.
+46227: The rope rises from the well.
+46282: It already is!
+46320: It already is!
+46334: The rope rises from the well.
+46392: It is too far away.
+46423: You find a carrot.
+46436: You see nothing unusual.
+46572: You climb up the rope.
+46853: The ooze blocks your path.
+47024: The cobwebs block your path.
+47072: It isn't lit!
+47174: It is not well polished.
+47201: It is attached to the wall.
+47355: It is bolted to the wall.
+47383: The bunny won't let you!
+47448: Nothing happens.
+47490: The roof caves in on you.
+47640: The bucket is filled with water.
+47661: The bucket is empty.
+47678: There is a bucket here.
+47730: It already is full!
+47755: The bucket fills with water.
+47787: The bucket is empty.
+47808: You empty the bucket.
+47835: The bucket is empty.
+48006: The lamp lets out a light glow.
+48027: The lamp has been turned off.
+48075: The lamp lets out a warm glow.
+48103: The lamp turns off with a click.
+48152: It fits rather nicely.
+48188: It's already lit!
+48203: It refuses to go out.
+48253: You leap over the stream.
+48456: It is surrounded by gravestones.
+48481: It is in the roof.
+48540: It is surrounded by gravestones.
+48661: I'm not so sure about that.
+48689: The bunny bites you in defense.
+48719: The bunny refuses your offer.
+48793: The skeleton repels your attack.
+48821: The vampire decides to fang you.
+48850: The vampire ignores your attack.
+48904: I'm not so sure about that.
+49212: Now using the graphics font.
+49310: You can't do that!
+49346: You can't do that!
+49466: You can't do that!
+49489: You don't have that!
+51670: Z-code version:
+51692: Release number:
+51720: Serial number:
+51758: Game flags:
+51985: Interpreter flags:
+52182: Fonts available:
+53322: Have you looked at everything?
+53427: The rope looks rather worn out.
+53469: Wear the cross from the coffin.
+53572: It might be flameable.
+53764: Perhaps not.
+53973: WEST. WEST. SOUTH. SOUTH. SOUTH
+54021: SOUTH. SOUTH. SOUTH
+54053: WEST. SOUTH. SOUTH. SOUTH
+54093: WEST. SOUTH. SOUTH. SOUTH
+54157: WEST. SOUTH. SOUTH. SOUTH
+55042: L. Ross Raszewski
+56938: Novice Adventurer.
+56961: Graveyard Explorer.
+56982: Adventurer.
+57001: Monster Basher.
+57022: Expert Adventurer.
+57045: Exterminator.
+57060: Bunny Slayer.
+59876: Score:
+59884: Moves:
+59892: Time:
+59900: You can't go that way.
+60088: [Your interpreter does not provide "undo". Sorry!]
+60168: Please give one of the answers above.
+60192: [You can't "undo" what hasn't been done!]
+60224: [Can't "undo" twice in succession. Sorry!]
+60260: "Oops" can only correct a single word.
+60288: You seem to want to talk to someone, but I can't see whom.
+60324: To talk to someone, try "someone, hello" or some such.
+60364: I didn't understand that sentence.
+60412: You seem to have said too little!
+60432: You can't use multiple objects with that verb.
+60460: You can only use multiple objects once on a line.
+60492: You excepted something not included anyway!
+60520: You can only do that to something animate.
+60544: That's not something you need to refer to in the course of this game.
+60588: I didn't understand the way that finished.
+60616: Sorry, you can only have one item here. Which exactly?
+60728: Are you sure you want to restart?
+60752: You can't put something on top of itself.
+60776: You can't put something inside itself.
+60828: You can only get into something freestanding.
+60856: But you aren't in anything at the moment.
+60884: You'll have to say which compass direction to go in.
+60916: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+61004: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+61080: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+61160: Darkness, noun. An absence of light to see by.
+61236: This dangerous act would achieve little.
+61264: Nothing practical results from your prayer.
+61292: The dreadful truth is, this is not a dream.
+61320: Digging would achieve nothing here.
+61344: You would achieve nothing by this.
+61368: There's nothing suitable to drink here.
+61392: But there's no water here to carry.
+61416: Real adventurers do not use such language.
+61448: Violence isn't the answer to this one.
+61472: There's not enough water to swim in.
+61496: There's nothing sensible to swing here.
+61520: That would be less than courteous.
+61544: Is that the best you can think of?
+61564: You lack the nerve when it comes to the crucial moment.
+61600: I don't think much is to be achieved by that.
+61628: You aren't feeling especially drowsy.
+61742: The following modules were provided by Inform developers who were
+prepared to share their work with others:
+61936: To repeat a command like "bunny, jump", just say "again", not "bunny,
+again".
+61988: Sorry, but I don't know that verb. When the programmer thought of it, he
+was either asleep, out of it, ticked off at the world, or out to lunch.
+62080: You can't go that way!
+62100: You are at a coffin in a graveyard, with walls to the north, east, and
+west. A blue mist hangs over the graveyard.
+62164: The coffin is open with a vampire in it!
+62188: The vampire, unfortunately, gives you a nasty bite.
+62224: It is carved of marble.
+62240: As you open the coffin, a vampire reaches out!
+62272: The coffin slams shut in the vampire's face.
+62304: You are in a graveyard surrounded by walls. There is fog here so dense
+you can barely see 2 meters in front of you. A hole in the east wall allows
+exit from this gloomy place.
+62404: You are in a graveyard with a stream to the south. Walls surround the
+other directions, but a hole in the west wall allows passage. It is very cool
+here.
+62488: You are in a dark graveyard. A wall covered with moss is to the west, a
+coffin is in sight to the north, and an empty well lies in the middle of all
+the fog.
+62576: It has a pole connected to some rope and a wooden crank. The well is
+dark and empty.
+62632: As you attempt to climb down the rope, it snaps, and you plunge down the
+well.
+62680: You make your way down the rope.
+62704: It is cracking, but usable.
+62720: The pole turns, and the rope goes down into the well.
+62752: It has many holes in it.
+62768: It doesn't look very sturdy.
+62788: The rope goes down into the well.
+62812: It is too far away to get a good look at.
+62840: You are in a carrot field in the middle of a graveyard. Fog is all
+around you. A wall is to the north, too high to climb.
+62908: You are in a foggy graveyard. A stream is to the north, a field can be
+seen to the west, and all the rest only fog can be seen. The stream looks
+shallow enough to cross.
+63004: You are at the bottom of an empty well. The surrounding cracks are
+rather big, and a crevice to the south is big enough for you to go through. A
+rope hangs down allowing you to climb up.
+63116: It doesn't look very sturdy.
+63136: You're too heavy to climb up the well.
+63164: It is full of cracks.
+63176: It is big enough for you to go through.
+63196: You are in a walled graveyard. A black wall is to the south.
+63228: A gaping hole is in the middle of all the gravestones.
+63260: Many tombstones are in this area--so many, in fact, you have to climb
+over some of them.
+63354: around you. A large hole surrounded by gravestones leads down into
+gloom. A skeleton that was guarding the hole faces toward you,
+63508: The skeleton pushes you away from the hole.
+63536: You are at the corner of a walled graveyard. Walls connect to the south
+and east, and mist hangs over the sky like a prowler. A chill runs through your
+back.
+63628: You are in a large crevice in a well. Small amounts of water trickle
+down the sides. Exit can be reached to the north.
+63700: You are in a dark maze.
+63712: You have a nervousness about this passage, but you trudge on, and end up
+getting killed in a cave-in.
+63772: You are in a very dark tunnel. The tunnel heads to the east, while a
+hole in the ceiling allows exit from the darkness.
+63840: You are in a tunnel of extreme darkness. You can barely make out exits
+to all directions except up and down.
+63904: You are in a damp maze.
+63916: You are in a dank maze.
+63928: You are in a very long tunnel streaching endlessly to the east and west.
+Your feet ache as you walk down it.
+63988: You are in a medium-size room covered with slime from ceiling to floor.
+Your feet stick to the slippery ground.
+64056: Some grey ooze guards the westward corridor.
+64088: It is big, ugly, and slimy.
+64104: The ooze expands, forcing you to postpone your jump.
+64136: The ooze dramatically grows, splattering you with a deadly force.
+64176: The ooze dissolves the torch, lighting it instantly. The ooze melts away
+into nothing.
+64232: The ooze lets out a splatter with killing force.
+64264: You are in a dreary maze.
+64276: You are in a maze.
+64284: You are in a devlish maze.
+64300: You are in a large marble room with torch holders everywhere. However,
+pretty much all of them are empty. You can leave to the
+64416: The are blocking the east passage.
+64436: The cobwebs light and burn into dust.
+64460: You are in a seeminly dead end, with the only exit to the west, but a
+shattered mirror shows a passage to the east.
+64528: You are in a dead end, with a large mirror covering the east wall, and
+an exit to the west.
+64576: It is broken into shards, and there is a passage behind it.
+64612: The mirror breaks into little pieces, revealing a passage to the east.
+64664: You are in a large chamber that is sparsely furnished except for a
+throne bolted to the east wall. Sitting next to the throne is a bunny which
+looks very much like the vampire bunny you are looking for. A passage exits
+west from this very unfriendly place.
+64796: You are in a large chamber that is sparsely furnished except for a
+throne bolted to the east wall. Two passages allow exit -- one to the east, one
+to the west.
+64872: You are in a large chamber that is sparsely furnished except for a
+throne bolted to the east wall. A passage exits west from this barren place.
+64948: You go through the tunnel and end up outside the graveyard. When you
+realize where you are, you hurry along the path back into town, overcome with
+joy, shouting the news. People rush out of their houses to greet you with a
+hero's welcome.
+65084: It is bolted to the east wall.
+65100: As you sit on the throne, a passage opens to the east! Since the throne
+is uncomfortable, you stand up again.
+65168: You sit on the throne and you get blown away by a....hold it....that was
+another adventure. Nothing happens so you stand up again.
+65296: west wall. The lever seems to be pretty worn from use.
+65332: It is rusty, but useable.
+65348: You hear a loud `clunk' to the south.
+65376: You are in a very sandy room with an exit to the north and a hole in the
+roof. You feel a little nervous that the ceiling will cave in on you.
+65456: You are in a extremely sandy room with the only exit going north. You
+feel a little nervous that the ceiling will cave in on you.
+65528: It looks a little too wormy to be edible.
+65556: You take a bite of the apple and feel a strange shiver running through
+the body. You gasp for breath as you clutch your throut. You fall down, the
+apple rolling out of your limp hand.
+65660: You take a bite out of the apple and spit it out.
+65688: The apple is splashed with water.
+65708: The apple is splashed with water.
+65728: Shouldn't you be pouring this on the Vampire?
+65756: It looks nice and juicy.
+65776: The carrot is splashed with water.
+65796: The carrot is splashed with water.
+65816: You munch a little out of the carrot and suddenly feel your lungs
+bursting. You collapse on the ground, carrot clutched in your cool hand.
+65900: Mmmmmnn...the carrot is delicous. You gobble the whole thing up.
+65944: It is fairly shiny.
+65956: It has some writing on it.
+65976: It says, "Pushing is better than pulling".
+66008: It does not have any ink.
+66028: It is rough and tarnished.
+66044: You slide the cross off your neck.
+66064: It is burning fairly slowly.
+66080: Many are old and rotted, and some which are blank make you shiver.
+66120: You see nothing unusual.
+66136: Though it has no life in it, it looks shallow enough to cross.
+66180: You sip the water, and feel very sick. You lungs turn inside out, your
+breath stops, and you fall on the floor, dead.
+66252: As you enter the stream, your mouth gets a little water in it. Suddenly
+you have convulsions, choke, and drown.
+66320: It is lifeless and stale.
+66336: Shouldn't you be pouring this on the Vampire?
+66364: There are enough of them.
+66380: It allows exit from the darkness.
+66402: The skeleton allows you to enter.
+66428: It looks extremely vicious for its small size.
+66460: The vampire bunny nibbles a little on your leg.
+66488: The bunny manages to bite your leg.
+66508: The bunny moves, avoiding the splash of water.
+66536: The bunny gobbles up the carrot but is not satisfied.
+66568: The bunny gobbles the carrot up, makes a startled gasp, and dies. The
+bunny disappears into a black fog.
+66632: It looks pretty bony.
+66648: The water flies through the skeltal body.
+66672: It looks at you with an unnerving gaze.
+66696: The vampire screams and gently dissolves in the stream of water.
+66736: The graphics font is now turned off.
+66760: No hints are available at this time.
+66784: Now using large statusline (with compass rose).
+66816: Now using compact statusline (without compass rose).
+66852: A technical bunny hops on to your keyboard. "Your game file is correct.
+Bye!"
+ She disappears with a wink.
+66922: A technical bunny hops on to your keyboard. "It appears that your game
+file did not verify as intact, and may be corrupted. Bye!"
+ She disappears with
+a wink.
+67056: Sorry, no hints are available at this time.
+67350: Timed keyboard input available?
+67368: Screen height:
+68556: The following commands are used in this game:
+68592: - This will repeat your previous command. You can abbreviate
+68652: - This command fully describes a location only the first time you enter
+it. On subsequent visits, only the name of the location and any objects present
+will be described. See also
+68804: - This will give you a list of what your character is carrying and
+wearing. You can abbreviate
+68884: - This command will give you a full description of your location. You
+can abbreviate
+69032: and the correct word. For example, if you typed
+69104: and were told "[I don't know the word 'dragob']" you could type
+69204: - This lets you stop playing. If you want to save your position before
+quitting, you must use the
+69376: - This saves a "snapshot" of your current position on your storage disk.
+You can return to a saved position in the future using the
+69476: - This command tells your printer to begin making a transcript of the
+story. A transcript may aid your memory, but is not necessary. Many
+interpreters will save the transcript to your storage disk as a text file, read
+your interpreters instruction manual for details.
+69652: - This command gives you your score and a ranking based on that score.
+Note that your score and the number of moves used can also be found on your
+status line at the top of the screen.
+69780: - Displays only the name of a place you have entered, even if you have
+never been there before. In this mode, not even objects are described. Of
+course, you can always get a full description of your location and the items
+there by typing
+69948: mode, the blank line between turns will be eliminated. This mode is
+meant for players who are familiar with the geography. See also
+70064: - This command tells your printer to stop making a transcript. If your
+interpreter is saving the transcript to a text file, then it will stop writing
+to the file.
+70176: - Gives a complete description of each location, and the objects in it,
+everytime you enter the a location, even if you've been there before. See also
+70300: - This will verify that your game file is correct. It is rather unlikely
+that anything could be wrong with the file itself, but it never hurts to check.
+You can abbreviate
+70426: - This command responds by showing you the release number, serial
+number, and other important information for your copy of the story. Please
+include this information if you ever report a "bug" in the story.
+70560: - Causes time in the story to pass. Since nothing happens untill you
+type a sentence and press RETURN (or ENTER), you could leave your computer,
+take a nap, then return to the story to find that nothing has changed. You can
+use
+70720: to make time pass in the story without doing anything. For example, if
+you met a sorceress, you might
+70852: to see where it goes. You can abbreviate
+70892: The following are abbrevations for moving around.
+70960: Be sure to read the "Special Commands" section for additional commands.
+71006: The following commands are used in this game:
+71156: . You will see a list of questions available at that point in the game
+that you can ask. Just follow the directions at the top of your screen to see
+the hint of your choice.
+71292: - Normally, the game will notify you whenever your score changes. You
+can turn off this notification feature by using the
+71480: Be sure to read the "Basic Commands" section for additional commands.
+71524: Too bad the water is deadly. Have you tried leaping over the stream?
+71568: The stream does look rather shallow.
+71592: You do have something to carry water in don't you?
+71620: Perhaps pouring some water on him might do the trick.
+71652: Doesn't running water destroy vampires?
+71680: Perhaps if that rope were lowered into the well.
+71708: Have you ever used a well? Really? I haven't, but I have seen them on
+television a few times. Do you know how they work?
+71788: DROP ALL EXCEPT LAMP. TURN ON LAMP. DOWN
+71840: Maybe if you were lighter, the rope wouldn't break.
+71872: Perhaps you have gained a little weight lately.
+71900: DROP LAMP next UP then DROP ALL now DOWN you should be able to figure it
+out from there.
+71972: Climbing up the rope with too many items would cause it to break.
+72012: If you haven't found one yet, keep looking.
+72040: Perhaps a holy symbol of some sort?
+72060: Perhaps there is an object he is afraid of?
+72084: Do you really need a hint for this one?
+72112: That which can be pulled, could also be pushed.
+72144: Did you read the paper in the graveyard?
+72164: That was a hint, in case you didn't notice.
+72192: You better be careful, breaking that big mirror could lead to seven
+years bad luck!
+72244: Perhaps it is really just a dead end.
+72384: Perhaps if you soaked the carrot in the stream first it would help.
+72424: That stream above ground was rather nasty wasn't it?
+72460: He sure liked that tasty carrot didn't he. You sure are nice to the
+bunny.
+72504: Now, where would one find a carrot?
+72528: He might like a nice freash carrot.
+72552: Perhaps the cute and fluffy bunny is hungry.
+72612: Where does one usually find a carrot?
+72640: I wonder why that throne is bolted to the wall?
+72668: Use this section only as a last resort. This is a step-by-step solution
+to The Night of the Vampire Bunnies. This will complete the game, but will miss
+many areas. It is recomended that you first try to play through the game on
+your own.
+73364: Use this section only as a last resort. The information below may give
+away the answers to puzzles you have not yet solved.
+73748: I have tried to keep this port as close to the QBASIC version as I
+could, but seeing as how I've never compiled the QBASIC source, there might be
+a few differences. Below are the items that did make the port, those that
+didn't, and those that are of my own creation.
+73932: Nearly all the game text, including system responses. 
+
+  Ability to use
+commands such as
+74032: The "New game or undo" text when you lose. I decided to stick with the
+standard "Restart, Restore, or Quit" text.
+74136: Most of the additions are the result of my having already coded them up
+for another game. I didn't see any reason to remove them from my "game
+skeleton" as I don't belive they detract from the game. 
+
+  The larger status
+line based on the code by Joachim Baumann that adds a compass rose to the
+status line. I took this and made better use of available space then the
+orignal did. 
+
+  Online hints. They aren't very good, but they might be of help
+to someone. 
+
+  This set of menus. 
+
+  A Prefs menu. This will allow you to set
+some of the game prefs from a menu. It's more of a toy then a useful menu, but
+I found it easier to set the prefs here. About the Graphics font choice, if
+your interpreter supports font three, commonly referred to as the "graphics
+font", but you don't like them, you can turn them off here. 
+
+  A "System Info"
+menu. This will give you some information about your interpreter and this game
+file. It is at best a toy, but I thought it was interesting. 
+
+  Various other
+forms of Inform stuff that I can't quite remember at the moment. 
+
+  I had to
+make some game text where none existed in the QBASIC source. I have tried to
+adapt it from other game text when available.
+74866: And special thanks to all those who sent in bug reports.
+74992: :  First public release. Most likely full of bugs.
+76448: :  Commodore 64 bug fix and email address change. 
+  (971205)  Fixed
+font 3 bug that messed up Commodore 64 interpreters. Turns out I switched two
+lines by mistake (oops). 
+  (971205)  Updated my email address in the notes
+menu section.
+76922: The voice still echoes in your head. "Remember--if the bunny is not dead
+by midnight, the countryside will be ruled by evil." 
+
+  You shiver as you
+think of the people dead in the street with bite marks on their neck. The
+cattle dead by the hundreds. The stories of a rampaging vampire bunny. A chill
+runs up your spine. 
+
+  And lastly, you remember the strangeness of the
+graveyard the last time you saw it. The misty fog surrounding it. And now
+you're in the graveyard, alone, armed only with your apple and your trusty
+quill pen.
+

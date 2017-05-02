@@ -1,0 +1,722 @@
+13465: Nothing to do!
+13500: o. You have won
+13584: It is now pitch dark in here!
+13611: I beg your pardon?
+13675: Sorry, that can't be corrected.
+13704: Think nothing of it.
+13757: As good-looking as ever.
+13789: You can hardly repeat that.
+13814: You can't begin with a comma.
+13928: I didn't understand that number.
+13957: You can't see any such thing.
+13993: You aren't holding that!
+14035: I'm not sure what "
+14087: That's not a verb I recognize.
+14126: You can't see "
+14234: Nothing to do!
+14251: There are none at all available!
+15161: Please answer yes or no.
+15187: Are you sure you want to quit?
+15232: Failed.
+15252: Restore failed.
+15269: Ok.
+15287: Save failed.
+15302: Ok.
+15346: Transcripting is already on.
+15412: Transcripting is already off.
+15470: Score notification on.
+15491: Score notification off.
+15514: You have visited:
+15542: Objects you have handled:
+15567: None.
+15953: You are carrying nothing.
+16002: Taken.
+16013: You are always self-possessed.
+16546: Dropped.
+16654: Removed.
+16793: You lack the dexterity.
+16874: Done.
+17140: Done.
+17360: Wrahn seem interested.
+17999: You can't go that way.
+18559: But it's dark.
+18576: You find nothing of interest.
+18612: But it's dark.
+18703: You find nothing of interest.
+19831: . Not bad.
+19849: That was a rhetorical question.
+19903: That seems unnecessary.
+19926: Keep your mind on the game.
+19951: What a good idea.
+19970: You smell nothing unexpected.
+19997: You hear nothing unexpected.
+20022: You taste nothing unexpected.
+20057: Keep your hands to yourself!
+20082: You feel nothing unexpected.
+20107: If you think that'll help.
+20216: Oh, don't apologize.
+20246: Quite.
+20315: You achieve nothing by this.
+20403: You wave, feeling foolish.
+20553: You are unable to.
+20572: Nothing obvious happens.
+20622: That's not a direction.
+20645: Not that way you can't.
+20677: Keep your hands to yourself.
+20702: You achieve nothing by this.
+20735: Futile.
+20764: You talk to yourself a while.
+20791: This provokes no reaction.
+20819: There is no reply.
+20838: Nothing is on sale.
+20857: Your singing is abominable.
+20891: Time passes.
+44187: Not without an invitation.
+44208: Leave the villagers alone.
+44280: What would you do up there?
+44458: You pass out from exhaustion.
+44523: A pair of trousers.
+44559: You won't need them now.
+44591: You can't just run around naked!
+44663: You can't just run around naked!
+44723: The cool touch of metal.
+44792: Definitely.
+44891: Your mouth is covered!
+44969: That doesn't make any sense.
+45101: Never in your life.
+45135: "Kan namaa hic asem paa?"
+45217: Lyca is already here!
+45309: Or rather, the other way round.
+45454: What, with your bare hands?
+45592: The werewolf growls at you.
+46100: You are already on the hammock.
+46127: Get your clothes off first.
+46190: But you aren't on the hammock!
+46233: But you aren't on the hammock!
+46301: You can't reach it from here!
+46433: He is wearing a wolf fur!
+46598: Not while you're tied to it.
+46638: You can't reach it from here!
+47248: The shaman is in plain sight.
+47290: You can't run away now.
+47414: You can't run away now.
+47867: You've had it for some time.
+47945: Life doesn't work that way.
+47987: That wouldn't be very polite.
+48022: You have no reason to do so.
+48069: That isn't a suitable weapon.
+48178: There's no need to.
+48195: You're going as fast as you can.
+48222: You'll have to be more specific.
+48250: That doesn't make any sense.
+48274: You growl, bristling your fur.
+48298: You're a wolf, not a dog.
+48458: Turns:
+51244: in" or "notin
+51260: opmhas" or "hasnt
+51402: }" at end of "objectloop
+52916: Score:
+52924: Moves:
+52932: Time:
+52940: You can't go that way.
+53272: Please give one of the answers above.
+53300: [You can't "undo" what hasn't been done!]
+53336: [Can't "undo" twice in succession. Sorry!]
+53376: "Oops" can only correct a single word.
+53404: It is pitch dark, and you can't see a thing.
+53436: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+53496: You seem to want to talk to someone, but I can't see whom.
+53540: To talk to someone, try "someone, hello" or some such.
+53580: I didn't understand that sentence.
+53640: You seem to have said too little!
+53664: You can't use multiple objects with that verb.
+53700: You can only use multiple objects once on a line.
+53736: You excepted something not included anyway!
+53768: You can only do that to something animate.
+53800: That's not something you need to refer to in the course of this game.
+53848: I didn't understand the way that finished.
+53880: Sorry, you can only have one item here. Which exactly?
+54032: Are you sure you want to restart?
+54056: The game file has verified as intact.
+54084: The game file did not verify as intact, and may be corrupt.
+54128: Attempt to begin transcript failed.
+54156: Attempt to end transcript failed.
+54180: You're carrying too many things already.
+54212: You can't put something on top of itself.
+54244: You can't put something inside itself.
+54272: That would scarcely empty anything.
+54328: You can only get into something free-standing.
+54364: But you aren't in anything at the moment.
+54396: You'll have to say which compass direction to go in.
+54436: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+54532: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+54616: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+54792: This dangerous act would achieve little.
+54820: Nothing practical results from your prayer.
+54852: The dreadful truth is, this is not a dream.
+54884: Digging would achieve nothing here.
+54912: You jump on the spot, fruitlessly.
+54940: You would achieve nothing by this.
+54964: There's nothing suitable to drink here.
+54992: But there's no water here to carry.
+55020: Real adventurers do not use such language.
+55052: Violence isn't the answer to this one.
+55080: There's not enough water to swim in.
+55108: There's nothing sensible to swing here.
+55136: That would be less than courteous.
+55160: Is that the best you can think of?
+55184: You lack the nerve when it comes to the crucial moment.
+55224: I don't think much is to be achieved by that.
+55256: You aren't feeling especially drowsy.
+55344: You don't have a suitable weapon.
+55368: That's hard to do without the appropriate vocal chords.
+55408: You curse heartily, and feel much better.
+55438: The center of this small village is a roughly circular clearing in the
+jungle-forest that covers most of this island. A gigantic tree stands in the
+middle, reaching hundreds of feet up into the cool night air. The huts of the
+villagers are strewn around the clearing's border, close to the jungle.
+A large
+stone circle contains charred wood from
+55746: "Ranil! Remember to be back on the Dagon tomorrow at sunrise! Unless you
+want to lose a month's pay, that is," you hear Quartermaster Gerhardsen shout
+in your direction. You nod, and he waves at you and disappears out of sight.
+55912: You didn't come here to scale trees.
+55938: As you start to walk, you sense movement from the corner of your eye.
+You turn around only to see the most amazingly beautiful woman walking directly
+towards you. You seem to recall her name as "Lyca".
+
+"Hello," you say, somewhat
+sheepishly. She smiles at you and reaches for your hand, gently pulling you
+towards what seems to be her hut.
+56180: As you begin to walk away, Lyca sighs and leaves. You return to the
+ship, unfulfilled.
+56244: The huts are built of wood and seem to be held together with the vines
+that grow everywhere around here. Still, they look comfortable and stable
+enough.
+56352: The hut is built of wood and seem to be held together with the vines
+that grow everywhere around here. Still, it looks comfortable and stable
+enough.
+56460: Most definitely the largest tree you've ever seen. You suspect it has a
+special meaning for the villagers.
+56536: You didn't come here to scale trees!
+56568: Several big round stones have been laid out to form an exact circle.
+Inside are the glowing remains of tonight's bonfire, when the villagers
+prepared a boar for their guests.
+56692: Several big round stones have been laid out to form an exact circle.
+Inside are the glowing remains of tonight's bonfire, when the villagers
+prepared a boar for their guests.
+56812: The wood is still hot, and besides, you'd get your clothes all dirty.
+56868: Upon closer inspection, you notice a rope slung over the branch the
+platform was built under! Looks like this is a kind of gallows, though the
+state of the structure seems to indicate it hasn't been used for a long time.
+57112: You don't need it, and you can't reach it from down here, anyway.
+57160: A dense jungle-forest covers most of this island.
+57196: You are Ranil Kuami, 22, black, and sailor aboard the "Dagon".
+57376: Your left ear is decorated by a small gold ring, and your dreadlocks are
+tamed by a headband.
+57444: You're beginning to feel tired, and there is not much you can do but
+wait for the next day.
+57508: You're beginning to feel very tired.
+57536: You're feeling very exhausted. You need sleep, and soon!
+57580: You can barely keep your eyes open.
+57608: Your clothes are lying in a heap on the floor.
+57640: You've decided to wear your best shirt and trousers on this occasion,
+along with your leather boots, the left of which hides your favourite knife.
+57744: Your knife is hidden in your left boot.
+57772: You quickly step out of your clothes and discard them.
+57812: Your trusty knife that has aided you in many a fight against humans as
+well as certain inhabitants of the oceans.
+57892: You're trying to get a girl, not gut her.
+57924: You've decided to wear your best shirt and trousers on this occasion,
+along with your leather boots.
+57996: You quickly step out of your clothes and discard them.
+58040: Your talisman lies here. You feel vulnerable without it.
+58080: A strange stone, shaped like a deformed pentagram, hangs on a thin chain
+around your neck.
+58144: Your trusty knife that has aided you in many a fight against humans as
+well as certain inhabitants of the oceans.
+58224: That would be very foolish indeed.
+58248: A small golden ear ring that you had pierced while on Tortuga.
+58292: Your hands are tied behind your back!
+58320: It's already pierced through your earlobe.
+58352: You can hardly reach that with hands tied behind your back.
+58396: You'd have to tear the ring out of your earlobe.
+58432: Lie back, relax, enjoy -- you have no choice, anyway.
+58472: His arm pins yours to your side, and since they're also tied behing your
+back, you can't get free.
+58542: Desperately, you try and bite the guard's hand. You manage to get the
+side of his hand between your teeth and sink them in. The guard curses loudly,
+pulling his hand back, and the attention focuses on you.
+
+Angrily, the injured
+villager shoves you off the platform. You fall two or three feet, suspended in
+mid-air by the rope around your neck.
+
+Shoving the Elder aside, Aten runs to
+you and quickly cuts you loose. You try to say something, but only manage a
+croak before the shaman shouts something on the top of his lungs.
+
+You and Aten
+watch in horror as as the villagers fall to the ground, and rise as wolves!
+
+As
+you turn and flee blindly towards the ship, you hear the screams of poor
+Gerhardsen behind you as he is being torn to shreds...
+59072: Aten is running next to you, breathing heavily.
+59108: You desperately try to get someone's attention, but only lose some of
+your precious air.
+59172: All you can do is make him lose his balance - and that would make you
+lose your balance, which isn't good when one has a rope slung around their
+neck.
+59276: You can't reach him from up here.
+59300: You have more urgent things to worry about than that, like getting some
+air.
+59356: The argument is becoming more heated, with everyone shouting at everyone
+else. You struggle for air, but the guard's hand clamps your mouth and nose
+even tighter.
+59472: Suddenly, the shaman throws his hands in the air, shouting something
+like "Andal" at the top of his voice. It is dead silent for a moment. You
+desperately try to get someone's attention, but the shaman is currently at
+everyone's mind.
+59638: Aten suddenly remembers you and looks in your direction. He lets out a
+shout and starts climbing the stairs when the shaman shouts another word.
+
+All
+hell breaks loose. You stare in disbelief as the villagers fall to the ground,
+and rise as wolves! The hands of the guard holding you turn to paws as he falls
+on you, pushing you off the platform. You fall two or three feet, suspended in
+mid-air by the rope around your neck. Struggling, you try to find a foothold
+somewhere, anywhere, but fail. As the world goes dark around you, you
+helplessly watch your friends being torn to shreds, and then the wolf-pack
+heads off, towards the Dagon...
+60092: Lyca is the most beautiful woman you have ever seen. Her skin is as dark
+as yours, her hair almost reaches the ground. What fascinates you most are her
+piercing dark eyes, but nose and lips are equally well-formed
+60326: This isn't the time for idle chatter!
+60356: You do not speak her language, and she seems more interested in you than
+in idle chatter, anyway.
+60426: You allow Lyca to lead you into her hut...
+60464: A wild, exotic smell that arouses and excites you.
+60500: You move closer to kiss her, but she stops you, pointing at what seems
+to be her hut. Quickly, she drags you there...
+60588: Better get in bed - or rather, the hammock - first.
+60628: Lyca begins tugging on your arm, towards her hut. This is one determined
+young lady!
+60688: Lyca looks at you, frowning, then asks you something. You don't
+understand her, but the gist seems to be "Are you coming, or not?"
+60784: Lyca sighs and turns to walk away.
+60808: Lyca finally has enough of your undecidedness, and heads off to find
+someone else. You return to the ship, unfulfilled.
+60892: What was once a beautiful woman has turned into a frightening wolf. She
+(funny you still think of that monster as "she") is around three feet tall, her
+bristled fur a deep black, her yellow eyes staring maliciously at you.
+61048: Boldly, you fling yourself at the wolf, burying your knife in her flank.
+Unfortunately, this only increases her anger, and a quick wipe of her paw sends
+you tumbling to the ground. The next thing you feel is her claws tearing your
+abdomen open, and then unconsciousness kindly takes you.
+61248: As you gather up the clothes in a ball, the wolf jumps at you, he mass
+of her body knocking you to the floor. The next thing you feel is her claws
+tearing your abdomen open, and then unconsciousness kindly takes you.
+61400: Desperately, you throw the knife at the wolf, but she reacts with
+surprising speed, evading it. Then she jumps at you, the mass of her body
+knocking you to the floor. The next thing you feel is her claws tearing your
+abdomen open, and then unconsciousness kindly takes you.
+61592: As you gather up the clothes in a ball, the wolf jumps at you, he mass
+of her body knocking you to the floor. The next thing you feel is her claws
+tearing your abdomen open, and then unconsciousness kindly takes you.
+61742: Desperately, you throw the talisman at the wolf. She reacts with
+surprising speed, but not fast enough. You watch in amazement as her fur seems
+to catch fire and she emits a blood-curling howl, throwing her mass around,
+coming for you.
+
+But the pain slows her down and you manage to bury your knife
+in one of her eyes before she can tear you apart. You quickly jump back and out
+of her reach as she crumples to the floor, lifeless, and manage to hit your
+head on a wooden beam, knocking yourself out...
+
+[Strike any key to
+continue...]
+62124: You open your eyes and stare along the shaft of a spear pointed directly
+at your throat. On the other end you make out two upset villagers. You are
+pulled to your feet, an unitelligible stream of words coming from the men. One
+grabs you by the hair and turns your head where the dead wolf lies.
+
+Your eyes
+widen in shock. There lies Lyca, but not the wolf-thing; it is the human Lyca,
+blood-streamed, the knife still stuck in her eye.
+
+Looking back at the guards,
+you know it's senseless to try and explain yourself. Pure hatred is in their
+eyes, and one gestures across his throat with a finger. Then, they brutally
+drag you off to a hut standing seperate from the others, throw you inside and
+block the door from the other side.
+
+As you pick yourself up, you notice you're
+wearing your talisman again. Strange.
+62700: That wouldn't make a suitable weapon.
+62728: Now that is the best idea you've ever had.
+62760: The Lyca-thing seems to have recovered and stares at you with
+unconcealed lust for murder in her eyes.
+62832: The wolf jumps directly at you, this time not attempting to go for your
+throat. You brandish your knife feebly, but she sinks her teeth into your arm
+while the mass of her body knocks you to the floor. The next thing you feel is
+her claws tearing your abdomen open, and then unconsciousness kindly takes you.
+63044: Lyca motions at you to take off your clothes and begins to do so
+herself.
+63096: Lyca is now almost completely undressed. You feel silly standing there
+in full clothes.
+63160: Lyca is now completely naked, and even more breath-takingly beautiful.
+She frowns at you, and impatiently motions at you to undress again.
+63260: Losing her temper, Lyca moves in and all but tears your clothes off you,
+grinning. Before you know it, you're as nude as she. She looks you up and down,
+then smiles and motions you toward the hammock.
+63404: Lyca nods approvingly, then smiles and motions you toward the hammock.
+63456: Sighing and rolling her eyes, Lyca shoves you towards the hammock.
+63504: Lyca puts her hands on your chest and pushes you back on the mat with
+surprising strength.
+63572: Lyca kisses you passionately, still moving slowly, teasingly.
+63616: You close your eyes, shuddering with pleasure, as Lyca runs her tongue
+over your throat, her movements in perfect synchronity with the caress, her
+breathing faster.
+63818: --
+
+You open your eyes and are frozen in terror for a second. What sits
+on you is no longer a woman, but a large wolf!
+
+Lyca -- the
+63920: -- howls in ecstasy and you in pain as her claws dig deeply into your
+wrists and ankles. Her muzzle moves toward your throat
+64008: , and you prepare for a quick death. Her muzzle touches your talisman,
+and she suddenly howls again, an inhuman scream, and her paws loosen the death
+grip on you. You both lose your balance and fall out of the hammock. While the
+wolf-thing paws at her muzzle, you quickly grasp for your clothes and pull your
+knife from its hidden sheath in your boot.
+64352: Lyca's hut is small, but comfortable. Apart from a few flower
+arrangements, it is entirely undecorated.
+64532: Lyca stares at you in disbelief as you turn to leave and return to the
+ship.
+64584: Unfortunately, the wolf-thing is between you and the door.
+64628: It's really too late to leave now.
+64656: Lyca's clothes lie here in a heap.
+64684: You have other things on your mind right now.
+64716: Bouquets of exotic flowers, most of which you've never seen before in
+your life, decorate the hut.
+64788: Leave the flower arrangements alone.
+64816: A large hammock skillfully crafted out of vines hangs from the ceiling.
+64868: Not while a wolf is about to kill you.
+64896: Lyca jumps on the hammock, landing directly on you. Her hands close
+tightly around your wrists, her thighs sit on yours, effectively pinning you to
+the mat as she slowly begins making love to you. You are completely surprised
+at her fierceness at first, but that doesn't take longer than a few seconds.
+65108: Not while Lyca is sitting on you.
+65132: Not while Lyca is sitting on you.
+65156: Not while Lyca is sitting on you.
+65180: This hut is bare except for an uncomfortable-looking wooden frame,
+around which vines have been wound to produce a sort of bed. There are no
+windows, so it's rather dark.
+65300: You won't leave that easily.
+65324: You will want to do that on the bed; even if it looks uncomfortable,
+it's better than the floor.
+65396: You close your eyes, and quickly fall asleep.
+65460: The sound of the door being opened awakes you with a start. In come the
+village Elder and the intimidating shaman, accompanied by the two guards. The
+Elder says something to one of the guards.
+65600: He quickly moves behind you, restraining your hands with rope, then
+helps you to step into your trousers.
+66018: gerhardsen! Aten!" you shout in relief.
+
+"Don't worry, Ranil, we'll have
+you out of there in no time," comes Gerhardsen's response. He stands in front
+of the Elder, taller by almost a head, and begins shouting at him, with Aten
+translating. The shaman answers back, and soon they are engaged in heated
+conversation.
+
+Suddenly, you notice something about the shaman that makes you
+flinch:
+66300: As you open your mouth to join the argument, the guard next to you
+reacts swiftly, wrapping one arm around your torso and covering your mouth and
+nose with the other hand, smothering you.
+66432: The gag effectively stifles your screams.
+66464: The door is very sturdy and wedged on the outside with a large wooden
+bar.
+66516: You're tied to the wooden frame and can't reach the door.
+66560: Looks very uncomfortable, but it'll have to do.
+66596: "Eya! Nun dak urug urugne tar fessan!"
+66626: You hear the door being unbolted and two guards step in. They quickly
+wrestle you to the floor and tie your hands behind your back, then dump you on
+the bed and tie your feet to the wooden frame. "Dak urug!"
+
+They march out
+again and you hear the door being rebolted.
+66816: Again, the door opens, and a rather angry guard comes in. You try to
+resist, but he pries your jaws apart and stuffs some cloth in your mouth, then
+fixes it with a wide strip of what you recognize as the remains of your best
+shirt, which he knots tightly behind your neck. After slapping you so hard your
+head begins to spin, he leaves again, and the door is bolted again.
+67076: "Have you gone completely mad?" shouts Aten as you suddenly stop in your
+tracks. And then, the wolves are upon you...
+67164: You don't want to stop for that now, but the mere thought distracts you
+enough; you almost fall over a tree-root, and lose a few precious seconds.
+67268: Again, your thoughts stray, and this time, you do fall. The wolves are
+upon you in no time, and tear you to shreds.
+67352: Trees, some of them several hundred feet tall, line the narrow trampled
+path you are running along. They block most of the sunlight; it's hard not to
+accidentally stumble or fall over some hidden bump in this twilight.
+67504: The forest is less dense here, and you can see the sun standing high,
+dazzling you, but also illuminating your path. Treacherous vines lie across the
+ground, forcing you to concentrate even more on where you step.
+67652: You have reached the edge of the forest, and can see the Dagon anchoring
+in the bay. Only a few yards to go!
+67728: Aten leads the way with you close behind. You can hear the panting of
+the wolves, hot in pursuit.
+67798: The path is well-trodden here, and you manage to pick up more speed. The
+distance to the ship seemed much smaller yesterday evening...
+67896: For a second, Aten glances over his shoulder at you, but that is already
+too much. He stumbles over a tree-root and falls. You only just manage to jump
+over him.
+
+You feel bad, but you do not stop running. You know you can't help
+him, the wolves would get you both. "RUN!" he shouts after you, and then his
+screams fill your ears, a cold rage rising in you.
+68154: You are very exhausted by now, and the wolves, only temporarily
+distracted by Aten, gain on you again.
+68230: Finally, you reach the shore. The boat lies here, but you don't have the
+time to set it afloat. Instead, you jump directly into the cold water, swimming
+a safe distance from the shore. The wolves break out of the woods but they stop
+at the water, howling and hissing. It seems they are afraid of it; and you swim
+towards the Dagon unhindered.
+
+Quickly, strong hands pull you out of the water
+and you are escorted into the Captain's cabin.
+
+You quickly explain what
+happened; and though the story doesn't even sound convincing to yourself,
+Captain Davids believes you.
+
+"I have heard of werewolves in these parts, but a
+whole village? This evil must be stopped. I have the suspicion that this shaman
+you spoke of is the cause of this evil... if we manage to destroy him, maybe
+the others will be saved, too."
+
+You nod; it didn't seem that the villagers had
+any idea of what was going on when they were gathered to lynch you.
+
+"I have an
+idea. It is very dangerous, but it might work. In my library are certain old
+books; and one of them describes a salve that can transform a man into a wolf
+for some time."
+
+You nod grimly. "Let me do it."
+
+"Ranil! It is very dangerous!
+If you stay in wolf-form too long, you might not be able to ever become human
+again; and I do not know if your strength can match that of the shaman. But I
+can see in your eyes that you are determined to do it, and so I shall prepare
+everything. 
+
+"I know it is only morning, but you must go and sleep now, for
+you will need all your strength later. I shall wake you around midnight."
+
+
+Again, you nod, and leave for your hammock in the ship's hold as Davids pulls
+a black-bound leather tome out of his book case. You lie down and quickly fall
+into a troubled sleep.
+
+[Strike any key to continue...]
+69504: Shortly after midnight, Davids gently shakes you awake.
+
+"I have
+prepared the salve, Ranil. I have to warn you again - it is very dangerous to
+stay in wolf-form too long. Are you sure you really want to do
+this?
+
+"Yes."
+
+Davids tells you to remove your clothes, then proceeds to rub
+the salve into your body. "I'm afraid his is going to hurt. Here," he hands you
+a piece of wood, "bite down on this."
+
+At first, you feel nothing. Then, a
+tingle runs over your skin, and then the pain hits you. You fall to the floor,
+your teeth grinding into the wood, your vision dimmed. Your breath comes in
+short gasps, and an explosion of pain makes you pass out for a few
+seconds.
+
+When you can think clearly again, you open your eyes. Everything is
+dark, except for a large red blotch in the center of your vision. You inhale
+deeply and an impossible number of sensations stream from all sides.
+
+Wood,
+salve, clothes, skin, flesh,
+70204: You try to rise, but find you are too weak yet. Davids quickly holds
+your muzzle in both hands and ties some rope around it.
+
+"Sorry, boy, but I
+can't have you kill anyone yet."
+
+You growl at him, but he grabs you by the
+nape of the neck and leads you to one of the boats. It is quickly lowered and
+Davids rows you over to the shore. As you jump on the beach, Davids removes the
+rope and quickly makes for the Dagon again.
+
+"Kill him. And be back in two
+hours, or it may be too late."
+70558: The ship lies eastwards, and you continue to run in that direction.
+70612: You can't produce human sounds in this shape.
+70644: That's not possible in this shape.
+70732: You are a big wolf, black as the night.
+70820: You don't want to attract the attention of the other wolves.
+70864: The Dagon's crew won't hear you from here.
+70896: You let out a triumphant howl, and soon see the small boat rowing
+towards you. At the bow stands Davids, a musket in his hand. The boat stops a
+few feet from the shore, and the Captain aims at you.
+
+"Sorry, Ranil, but this
+is necessary for our safety."
+
+He pulls the trigger, and a glittering cloud
+engulfs you. Blinding pain, and then nothing.
+
+[Strike any key to continue...]
+71174: You awake looking into the worrying face of Captain Davids.
+
+"Thank God,
+I thought I'd lost you. Sorry for the silver treatment; it was the only way ro
+make sure you wouldn't kill us."
+
+You smile, exhausted. "You could have told me
+before it hurts that much."
+
+Davids opens his mouth, but you stop him with a
+gesture. "Don't worry. I've survived, haven't I? More important is: have I done
+it?"
+
+Davids nods and responds, but his words are lost on you as you fade back
+to sleep.
+71536: The many different scents on the beach are overwhelming, but there is
+one that is stronger and more evil than all the others.
+71624: You can't go back to the ship now; you have a mission.
+71664: You don't know where to go, and time is precious.
+71700: You are back on the beach where you began your adventure as a wolf. You
+hope that you arrived back in time to return to human form.
+
+The ship lies to
+the east, anchored a safe distance away from the shore.
+71844: You find yourself shying away from the water... you will have to get the
+attention of the crew some other way.
+71924: The wolf in you wins the battle against the rest of your human identity.
+You run back into the woods, looking for something -- anything -- to still your
+hunger.
+72040: It smells salty.
+72052: You don't have time for that now.
+72076: You guess this is the shaman's scent.
+72104: You put your muzzle to the ground and follow the strong scent to the
+northeast, until you arrive at a...
+72180: Since the scent follows both trails, you have to be more specific.
+72228: The path forks here. Inexplicably, the shaman's scent follows both
+trails, still strong along the northeast and barely tangible to the northwest.
+Your wolf-sense warns you of danger along the first path.
+72370: Ignoring the warnings of your wolf-sense, you follow the path to the
+northeast. The scent intensifies, and soon you see the shape of the shaman
+before you.
+
+Suddenly, the feeling of danger becomes even stronger - this is
+too easy. There must be a trap here, somewhere.
+72564: You follow the scent along the northwestern trail, but it is soon lost
+in the undergrowth and you are forced to return to the fork.
+72656: A circular clearing has been cut in the heart of the forest. The ground
+is even; a large stone altar stands here, covered with... stuff; you can't make
+anything out past the shaman's scent.
+72848: Desperately, you try to turn your mind off the inviting meal that lies
+before you, ready to take.
+72916: With an almost superhuman effort, you block the smell of blood and run
+along the path back to the beach as fast as you can...
+73004: That isn't the way back to the Dagon.
+73032: It smells evil; the thought of going near it makes your fur bristle.
+73084: You don't dare go near the altar.
+73108: You can't make out anything but a roughly human-shaped red blotch, but
+he smells evil, his scent blocking everything else out.
+73196: The shaman stands here with his back turned to you.
+73232: You can see the shaman here.
+73252: You tense your muscles, then hurl your body at the shaman with a mighty
+jump, and land only a feet away from him. He whirls around as you touch the
+ground, clearly not having expected this. As he curses, you see about ten
+villagers emerge from the woods.
+73428: You run to attack the shaman, and suddenly sky and earth swap places as
+you run over a certain spot, springing a hidden trap that catches you in a
+tight net!
+
+Smiling, the shaman turns around and motions into the woods. Ten
+men emerge, and you are quickly lowered to the ground and tightly wrapped up
+with rope. Helplessly, you growl, snarl and snap at everyone that comes too
+close, but the net prevents you from actually hurting someone.
+
+The shaman
+begins stroking your fur, talking all the time, and irritation soon turns to
+pleasure. After an hour, you have forgotten any ties to your former human
+existence. The shaman orders the villagers to release you and offers you a
+large, bloody steak; you greedily devour it, then lay contentedly at the heel
+of your new master.
+73968: Several villagers lie here, unconscious.
+73998: Ignoring the inviting smell of the villagers with a mighty effort, you
+jump at the shaman yet again. He tries in vain to protect himself with his
+staff, and as he begins shouting the word of transformation, you tear out his
+throat, spilling blood all over yourself. Somewhere in the back of your mind, a
+voice from your human existence tells you to leave, and now!
+
+You look around
+to see the villagers lie there like dead, an inviting smell of fresh blood
+stimulating your hunger...
+74336: You have already torn his throat out.
+74364: The smell of human flesh and blood makes you unconsciously lick your
+fangs.
+74416: Several villagers are here, ready to attack you.
+74452: You throw yourself at the villagers, immediately killing one of them.
+The smell of blood makes you go into a killing frenzy, but you are no match for
+that many. Soon, your flank is pierced by a spear, and then, the humans are all
+over you...
+74622: You tear the throat of one of the unconscious villagers open and drink
+the blood from his jugular. Soon, you are in a murderous frenzy, tearing the
+villagers to shreds out of sheer lust.
+
+After minutes, you stop. That was
+great! Now, where to find some more prey?
+74810: Seeing you do not react in any way, the villagers quickly kill you.
+74860: "HERE BE DRAGONS" is what the rutter said, but the small island turned
+out to be free of those animals after all. Instead, you landed near a tiny
+village full of friendly natives.
+
+Aaah, shore leave! You can't remember when
+the last time was you could relax, take a night off and stroll through town to
+pick up a girl or two. It turned out your friend Aten speaks a dialect not
+unlike that of the villagers, and so he joined your captain, who's with the
+village elder at the moment.
+
+"Too bad for him," you think, grinning, "guess he
+won't be getting any tonight."
+
+You, on the other hand, are intent to.
+75524: You're on a mission - no time for that.
+75556: You're trying not to have to do that tonight.
+75616: I'd like to see that. Actually, no, I'd not.
+75652: You're too out-of-breath at the moment.
+75684: You're not an animal, despite what some white folk seem to think.
+75732: You're not an animal, despite what some white folk seem to think.
+75810: This game may not be redistributed on electronic media (diskette,
+CD-ROM, etc.) without the explicit written permission of the author.
+
+This game
+may not be sold at all without the explicit written permission of the
+author.
+
+You will want to play this game on an interpreter that supports full
+color for the original experience.
+
+Thanks to Jon Blask, Jason Dyer, Simon
+Stapleton and Dan Shiovitz for testing!
+76112: Self-mutilation is not the answer.
+

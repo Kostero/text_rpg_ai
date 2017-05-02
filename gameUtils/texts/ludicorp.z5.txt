@@ -1,0 +1,710 @@
+34729: Nothing to do!
+34764: o. You have won
+34866: It is now pitch dark in here!
+34893: I beg your pardon?
+34957: Sorry, that can't be corrected.
+34986: Think nothing of it.
+35039: As good-looking as ever.
+35071: You can hardly repeat that.
+35096: You can't begin with a comma.
+35210: I didn't understand that number.
+35239: You can't see any such thing.
+35275: You aren't holding that!
+35316: I'm not sure what "
+35368: That's not a verb I recognise.
+35406: You can't see "
+35513: Nothing to do!
+35530: There are none at all available!
+36434: Please answer yes or no.
+36460: Are you sure you want to quit?
+36505: Failed.
+36524: Restore failed.
+36541: Ok.
+36558: Save failed.
+36573: Ok.
+36617: Transcripting is already on.
+36683: Transcripting is already off.
+36741: Score notification on.
+36762: Score notification off.
+36785: You have visited:
+36813: Objects you have handled:
+36838: None.
+37220: You are carrying nothing.
+37269: Taken.
+37280: You are always self-possessed.
+37805: Dropped.
+37911: Removed.
+38048: You lack the dexterity.
+38129: Done.
+38393: Done.
+38612: Wrahn seem interested.
+39242: You can't go that way.
+39795: But it's dark.
+39812: You find nothing of interest.
+39848: But it's dark.
+39938: You find nothing of interest.
+41057: . Not bad.
+41075: That was a rhetorical question.
+41129: That seems unnecessary.
+41152: Keep your mind on the game.
+41177: What a good idea.
+41196: You smell nothing unexpected.
+41223: You hear nothing unexpected.
+41248: You taste nothing unexpected.
+41283: Keep your hands to yourself!
+41308: You feel nothing unexpected.
+41333: If you think that'll help.
+41441: Oh, don't apologise.
+41471: Quite.
+41540: You achieve nothing by this.
+41627: You wave, feeling foolish.
+41776: You are unable to.
+41795: Nothing obvious happens.
+41845: That's not a direction.
+41868: Not that way you can't.
+41899: Keep your hands to yourself.
+41924: You achieve nothing by this.
+41957: Futile.
+41985: You talk to yourself a while.
+42012: This provokes no reaction.
+42040: There is no reply.
+42059: Nothing is on sale.
+42078: Your singing is abominable.
+42112: Time passes.
+55519: Master of the WORLD!
+66314: Nothing obvious happens.
+66334: Nothing obvious happens.
+66354: Nothing obvious happens.
+66374: Nothing obvious happens.
+66394: Nothing obvious happens.
+66414: Nothing obvious happens.
+66434: Nothing obvious happens.
+66454: Nothing obvious happens.
+66474: Nothing obvious happens.
+66494: Nothing obvious happens.
+66562: Punching that would be silly.
+66962: Pardon?
+66994: Not likely.
+67227: You're not thirsty.
+67309: You drink the (cold) coffee.
+67606: A brown paper punch card.
+67636: It has not yet been punched.
+68513: The vault door is closed.
+68790: To the south is a small door.
+68828: The angry robot blocks your way.
+68921: You can't reach that high!
+68977: It's fixed in place.
+69092: Nothing happens.
+69184: Don't be silly - That wont fit!
+69237: It's already started!
+69276: You'd have to start it first!
+69466: It's stuck fast!
+69558: It's just a paper tray.
+69583: It's currently open.
+69603: It's currently closed.
+69632: Inside lies a sheet of paper.
+70503: Sisxm It is currently open.
+70540: It is currently closed.
+70578: The cartridge slot is not open!
+70626: A tray for holding paper.
+70706: It is currently closed.
+70743: The paper tray is not open!
+70776: The paper fits in perfectly.
+70806: It's a simple LED.
+70825: Kcopm It is now off.
+70852: It is glowing brightly.
+70874: It is blinking.
+70986: Yummy!
+71262: A small round drain.
+71285: It is now full, thanks to you.
+71369: eow. The clingfilm did the job!
+71419: You hear a trickling noise.
+71518: It's stuck fast!
+71830: "MALFUNCTION - INPUT NOT PARSED"
+71875: "MWA HA HA - PUNY HU-MAN!"
+72034: Urgh!
+72045: Urgh - no way!
+72090: Urgh - smells nasty.
+72244: Don't pick the flowers!
+72307: You climb down the shelves.
+72467: You win - you rock at this game!
+74791: in" or "notin
+74807: opmhas" or "hasnt
+74949: }" at end of "objectloop
+76488: Score:
+76496: Moves:
+76504: Time:
+76512: You can't go that way.
+76844: Please give one of the answers above.
+76872: [You can't "undo" what hasn't been done!]
+76908: [Can't "undo" twice in succession. Sorry!]
+76948: "Oops" can only correct a single word.
+76976: It is pitch dark, and you can't see a thing.
+77008: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+77068: You seem to want to talk to someone, but I can't see whom.
+77112: To talk to someone, try "someone, hello" or some such.
+77152: I didn't understand that sentence.
+77212: You seem to have said too little!
+77236: You can't use multiple objects with that verb.
+77272: You can only use multiple objects once on a line.
+77308: You excepted something not included anyway!
+77340: You can only do that to something animate.
+77372: That's not something you need to refer to in the course of this game.
+77420: I didn't understand the way that finished.
+77452: Sorry, you can only have one item here. Which exactly?
+77604: Are you sure you want to restart?
+77628: The game file has verified as intact.
+77656: The game file did not verify as intact, and may be corrupt.
+77700: Attempt to begin transcript failed.
+77728: Attempt to end transcript failed.
+77752: You're carrying too many things already.
+77784: You can't put something on top of itself.
+77816: You can't put something inside itself.
+77844: That would scarcely empty anything.
+77900: You can only get into something free-standing.
+77936: But you aren't in anything at the moment.
+77968: You'll have to say which compass direction to go in.
+78008: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+78104: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+78188: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+78364: This dangerous act would achieve little.
+78392: Nothing practical results from your prayer.
+78424: The dreadful truth is, this is not a dream.
+78456: Digging would achieve nothing here.
+78484: You jump on the spot, fruitlessly.
+78512: You would achieve nothing by this.
+78536: There's nothing suitable to drink here.
+78564: But there's no water here to carry.
+78592: Real adventurers do not use such language.
+78624: Violence isn't the answer to this one.
+78652: There's not enough water to swim in.
+78680: There's nothing sensible to swing here.
+78708: That would be less than courteous.
+78732: Is that the best you can think of?
+78756: You lack the nerve when it comes to the crucial moment.
+78796: I don't think much is to be achieved by that.
+78828: You aren't feeling especially drowsy.
+78914: It's nearly christmas 2003, and Ludicorp still haven't released GNE.
+Something must be going on at the Ludicorp offices...
+79016: Cutting that up would achieve little.
+79044: You don't have anything to shoot with.
+79072: You should decide what to fire at first...
+79104: That's not something you can uncoil.
+79132: You'll have to be a bit more explicit than that.
+79224: Some nice, clear, fresh water.
+79260: Cold, weak, coffee. Probably some nescafe crap.
+79296: It has been punched with the message "
+79328: You are standing outside a medium sized, new-looking office block. Blue
+glass rises majestically above you, and off to the east and west. To your north
+is the main entrance. To the south is the main carpark.
+79476: The carpark is large and mostly empty - perhaps the size of a football
+field. Surely there should be more cars here. You parked over in the south east
+corner. The office building lies to the north. Signs point at a delivery bay to
+the west.
+79644: The open gate reveals the delivery bay to the west. There is some sort
+of control panel mounted by the side of the gate. The carpark lies to the east.
+79748: A large gate blocks the delivery bay to the west. There is some sort of
+control panel mounted by the side of the gate. The carpark lies to the east.
+79852: The gate is closed. Climbing it would mean slicing yourself to death on
+the razor wire.
+79916: You slice your neck on the razor-wire running along the top of the gate.
+79968: The main entrance to the building is plush and opulent. And locked. The
+lights are off and the doors are securely locked. It looks like someone left in
+a hurry. The only way out is back south.
+80104: The main entrance to the building is plush and opulent. And locked. The
+lights are off and the doors are securely locked. Through the toughened glass
+you can see a half finished cup of coffee (or perhaps tea - no accounting for
+taste) sitting on the receptionists desk. It looks like someone left in a
+hurry. The only way out is back south.
+80344: You are standing to the east of the office building's facia. There are
+thick bushes to the south and a gravel path leads east to west.
+80440: You are standing to the west of the office building's facia. Thick
+bushes block your way to the south and a gravel path leads east to west.
+80536: You're standing in the south east corner of the carpark.
+80576: You are concealed in a thick clump of bushes. The office building is
+barely visible to the north.
+80644: Secluded by thick bushes, you are standing at the top of a stone
+stairwell, set into the floor. It smells of damp, and moss grows on the steps.
+80744: You are standing at the bottom of a stone stairwell. Moss grows all
+around you. A low passage leads north east.
+80824: You are in a concrete room with a low ceiling. Thick black cables run
+from ducts in the walls. There is a small yellow label on the duct. A low
+tunnel leads south west.
+80944: You are in a damp corner where the front of the office building meets a
+low brick building, with no windows, which runs south.
+81032: The low building is a storage shed of some kind. You can enter the door
+to the east, or continue down the pathway which leads north to south down the
+edge of the building. Dense bushes lie to the west.
+81172: At the end of the path lies a clearing in the bushes, containing an old
+abandoned well, covered in wild plants. You estimate it to be about 5 meters
+deep and about a meter in diameter. There are footprints in the dirt next to
+the well - someone has been here recently. The path leads north, between thick
+bushes.
+81392: You are lodged at the bottom of the well, your feet against one side and
+your back against the other. You can't help but think these stains will never
+come out. Yuck. Below you is a few inches of murky water.
+81540: You are sitting inside your car. It smells a bit.
+81576: You might need to open the door first.
+81604: The bikeshed is big and dusty. Nobody actually rides a bike to work -
+that would be madness - but they have a bikeshed anyway. You suspect that
+employees come out here to smoke. Bushes block your passage to the south - the
+only path leads east.
+81776: The delivery bay is empty and unlocked - the entrance into the building
+is open to the north. The gate to the carpark leads east.
+81868: You are standing is a huge storage shed. The door out leads west.
+81916: The storeroom contains lots of huge boxes on palettes, wrapped in
+industrial strength clingfilm. To the south is the delivery bay. A door leads
+north, into the building.
+82036: You are at the west end of a very long east-west corridor. Doors lead
+north and south.
+82100: You are in a very long east-west corridor. A stairwell is visible to the
+north.
+82156: You are in a very long east-west corridor. The reception lobby lies to
+the south and a door to the north leads outside.
+82240: You are in a very long east-west corridor. A door leads north.
+82288: You are at the east end of a very long east-west corridor. A door leads
+south.
+82344: You are standing in the opulent reception lobby. A doorway leads north
+into the corridor. The main door lies to the south. The huge receptionist's
+desk takes up about half of the room.
+82476: The door is locked.
+82492: The garden is beautiful - hundreds of bright flowers, big tall trees and
+a massive marble fountain in the center. A door to the south leads back into
+the building, which encloses the garden to the west. The garden continues
+north, with a shed to the east.
+82672: The garden is beautiful - hundreds of bright flowers, big tall trees and
+a HUGE paper tree in the center. A door to the north leads into the building,
+which encloses the garden to the west. The garden continues south and east.
+82832: You are sitting up in the branches of a giant paper tree. The only way
+from here is back down the way you came.
+82912: The garden is beautiful - hundreds of bright flowers and big tall trees.
+The building blocks the way east and north. The garden continues west, with a
+shed to the south.
+83032: A door to the south leads into the garden. A water cooler sits
+invitingly in the corner. More doors lead east and west.
+83116: You are cramped into a small security office. The only exit is the door
+to the north.
+83176: You are in a dusty shed in the corner of the central garden. Doors lead
+north and west.
+83240: The copier room doesn't contain any windows, and vibrates slightly with
+fluorescent light. A big copier sits quietly in the corner. Doors lead east and
+west.
+83352: You are standing in the stationary cupboard. Wooden shelves stretch high
+above you. Doors lead south and west.
+83432: It was a dangerous climb, but you're now on the top shelf of the
+stationary cupboard. The only way is down.
+83508: A generic office. Desks and chairs are scattered around. Each desk has a
+computer on it. Doors lead north and south.
+83592: A generic office. Desks and chairs are scattered around. Each desk has a
+computer on it. Doors lead north and west.
+83676: A generic office. Desks and chairs are scattered around. Each desk has a
+computer on it. Doors lead east and south.
+83760: A carpeted stairwell, with wide steps leading upwards. A corridor lies
+to the south.
+83820: You are standing in a well-lit room with a huge vault door in it.
+83868: It is currently open, allowing passage to the north.
+83908: It is currently closed, blocking the way north.
+83944: There is a small keypad to the side of the vault door. Doors lead south
+and east.
+84004: You are in a narrow corridoor, running north to south.
+84044: The kitchen a spacious and hi-tech. Reminds you of Dotcom-era
+extravegance. There are alot of cupboards, topped by a marble counter. Doors
+lead east and south.
+84160: You are standing in a small cloakroom, with doors leading north and
+west.
+84212: A carpeted stairwell, with wide steps leading both up and down. A
+corridor lies to the south.
+84280: The landing is a wide open space just beyond the stairwell (which lies
+to the north). You can see the carpark through the huge glass wall to the
+south. A door leads east.
+84400: This area is evidently some sort of project space - there are several
+chairs scattered around, with a big whiteboard on the south wall. A window to
+the north looks down into the garden. Doors lead east and west.
+84548: A hidden crawlspace has been revealed to the south.
+84584: You are in a crawl space which you figure must be directly above the
+entrance hall. It's very dusty - you think it's probably not used much, if
+anyone even realises it's here. The only exit is north into the project space.
+84740: You are in a short hallway running east to west. You can see the garden
+through a window in the north wall.
+84816: You are standing in a corner office. It's quite plain, with a computer,
+desk and chair. Doors lead north and west.
+84900: You are standing in a waiting room, ouside the board room to the north.
+A water cooler lies in wait for thirsty visitors. Doors lead south and west.
+85004: You are in a small printing room. A large printer stands against the
+wall.
+85056: You are standing in a grand board room. A long oval table occupies most
+of the space, surrounded by high-backed chairs. A large plasma screen hangs on
+the wall. Doors lead north and south.
+85188: The whole rooms seems to revolve around a large card punching machine in
+the center. Doors lead west and south.
+85268: As with all good "new economy" companies, Ludicorp has devoted a room
+entirely to storing chocolate. Doors lead east and west.
+85360: A generic office. Desks and chairs are scattered around. Each desk has a
+computer on it. Doors lead east and west.
+85444: A generic office. Desks and chairs are scattered around. Each desk has a
+computer on it. Doors lead south and east.
+85528: A generic office. Desks and chairs are scattered around. Each desk has a
+computer on it. Doors lead north and west.
+85612: You are in a small clean bathroom. Cubicles line the wall. The exit is
+to the east, and a tiny doorway leads south.
+85696: You are in a very slim gangway running north to south. The way to the
+south is especially narrow.
+85764: You are carrying too much to fit through the gangway - try dropping some
+items.
+85820: You are in a dusty cupboard. The only door leads north, through a narrow
+gangway.
+85880: You are carrying too much to fit through the gangway - try dropping some
+items.
+85936: A carpeted stairwell, with wide steps leading both up and down. A
+corridor lies to the south.
+86004: You are standing in a neat and tidy room just out off the stairwell to
+the north. Doors lead east and west. A large window to the south offers a
+stunning view.
+86116: You are standing in a small, curved, corner room, looking out across the
+city. Doors lead north and east.
+86192: The stockroom contains stacks of old boxes piled along the walls. Doors
+lead north and south.
+86260: You are in some kind of waste disposal room. A large, scary-looking
+machine stands against the north wall.
+86336: You are in what is probably a company games room. An old arcade game
+sits on the north wall, next to a window overlooking the garden. A pool table
+takes the centre of the room. Door lead east and west, with a balcony to the
+south.
+86496: The balcony is a simple concrete construction, towering over the
+entrance below. It's a long way down. You shiver slightly as a cold breeze
+blows past you.
+86608: You try to climb down, over the balcony, but a gust of wind hits you and
+you lose your balance. You fall to your death.
+86692: A wide room with round table surrounded by chairs. A window to the south
+shows a good view of the carpark, while the northern window has a great view of
+the garden. Doors lead east and west.
+86824: You're in a plush ante-room, with a water cooler in the corner. You
+suspect the door to the north leads to some important places. Another door
+leads west to the meeting room.
+86948: You're in a small maintainence room, with doors leading north and south.
+A huge duct runs along one wall, with a small pipe above it.
+87044: You are standing in the Eric Control Centre, a long, narrow room, with a
+huge console down the east wall. Operator chairs sit in front of the console
+nonchalantly. A window to the west provides a nice view of the garden. Doors
+lead north and south.
+87220: The server-room throbs with power. Rack after rack of expensive looking
+servers are lined up along the walls. A door leads south and the room continues
+to the west.
+87336: The server-room throbs with power. Rack after rack of expensive looking
+servers are lined up along the walls. The room continues to the east.
+87436: To the west, the outer door of the airlock lies open.
+87476: To the west is the outer door for an airlock. It is currently closed.
+87556: The airlock is small and white. The inner door
+87620: to the east. There is a small creditcard sized slot next to the inner
+door.
+87732: A giant, angry robot blocks your way to the south.
+87768: The airlock lies east with it's inner door open.
+87804: You are standing in a small store room behind the robot chamber to the
+north.
+87860: A carpeted stairwell, with wide steps leading downwards. A door onto the
+roof lies to the west.
+87928: You are standing on top of the office building on the west side. You can
+continue round the roof to the north east and south east. To the east is the
+stairwell.
+88040: You are standing on top of the office building on the north side. You
+can continue round the roof to the south east and south west.
+88132: You are standing on top of the office building on the east side. You can
+continue round the roof to the north west and south west. All water on the roof
+funnels to this side and runs down a small drain set in the floor.
+88284: You are standing on top of the office building on the south side. You
+can continue round the roof to the north east and north west.
+88376: You are standing at the bottom of a vast, black tower, which hums and
+throbs with hidden power. A door is visible about ten metres above you.
+88476: A ladder leans against it, allowing you to climb to the door.
+88520: You lean the ladder against the tower - you should be able to reach the
+door now.
+88580: You are standing at the top of the ladder, facing a door to your west,
+which leads into the tower.
+88648: You are standing is what must be a lobby - it's a large circular room,
+the full cross section of the tower (allowing for the foot-thick walls. The
+room is entirely empty. To your east, a door leads out of the tower. A ladder
+leads upwards.
+88820: You are now in the tower's central control room. Papers lay scattered
+about in a haphazard fashion. A door to the north is locked. It seems like a
+fairly sturdy iron door. A ladder leads down into the lobby.
+88968: The door is locked shut.
+88988: A simple iron-rung ladder, fixed to the wall.
+89024: It's a heavy looking iron door. Why wintermute would have such a thing
+in his evil tower is beyond you.
+89096: The heavy metal door swings open to reveal the Ludicorp crew, dirty and
+hungry.
+89154: "Thankyou", cries stewart, "We've been trapped in the tower for over six
+months now."
+89222: "While we were developing the game, robot Cat went mad and imprisoned us
+in the tower."
+89290: "Unluckily for us, the game has become sentient and pretended to be us
+while we've been trapped here. There was no way we could escape on our own."
+89400: "So, err, how did you survice with no water?" you ask, before noticing
+the missing water cooler bottles in the corner of the room. You are wondering
+about how they survived with no food when you notice that Jason is suspicously
+absent...
+89568: It's a simple metal control panel with a single button and a speaker
+grill. Probably some sort of intercom.
+89644: The button is now lit up - looks like it's working.
+89684: It looks like this button should be illuminated, but it's not.
+89728: The button beeps, but the gate motor whines and doesn't move. Bah.
+89776: The gate slides open, making a nasty grinding noise. It doesn't sound
+like it'll close again.
+89844: A rather large electrical fuse. Rated 32 Amps.
+89880: There is a big diesel generator in the corner of the room, which is now
+running.
+89938: There is a big diesel generator in the corner of the room, connected to
+the cables.
+90000: The generator is now running, thanks to the fuse you found. You gather
+that it's generating power and sending it down the thick black cables to
+somewhere in the building.
+90120: The generator is dusty but appears to be in working order. Looks like
+it's missing a fuse though.
+90216: When you plug the fuse into the generator, it springs to life with a
+gentle hum.
+90272: The fuse is stuck in the generator pretty firmly - it's not coming out.
+90324: You can't see any way to do that.
+90348: You can't see any way to do that.
+90376: Your car is a small black, nondescript saloon. The MOT is due soon.
+90428: From out here? That would be some trick.
+90460: The car is heavy and you are weak - you curse your feeble body.
+90512: A long wooden ladder.
+90528: You're sick of carrying that thing around. You decide to just leave it
+here after all.
+90592: It's too heavy to lift from up here!
+90620: A stack of simple earthenware pots (Plant pots have a hole on the
+bottom, so can't carry water!).
+90712: It's so neatly coiled - you decide not to mess it up.
+90752: A small brass statue of a dragon.
+90776: A genie appears. "Leave me alone!" it exclaims, before promptly
+vanishing.
+90832: A long steel key, with a complex twisted metal end.
+90868: A stainless steel cupboard, with a heavy door containing a well worn
+lock.
+90920: A small patch of extremely strong clingfilm.
+90952: A very sharp knife. The blade sparkles as if edged in diamond.
+90996: A previously sharp knife. The blade is now blunt.
+91032: A small white polystyrene cup.
+91056: A brillian marble fountain with lots of complicated water jets. The jets
+aren't on right now, but the base of the fountain is still filled with water.
+91160: A blue ballpoint pen. Suitable for writing with.
+91232: It's a flimsy plastic lid, for blocking out light while copying.
+91280: A row of LEDs with worn out labels, which blink at you patiently.
+91352: This tray is only designed for blank paper!
+91384: A sheet of plain white paper.
+91408: You change your mind at the last moment - such a shame to dirty the
+paper.
+91460: You change your mind at the last moment - such a shame to dirty the
+paper.
+91512: A small electronic keypad with the digits 1 to 9 on it. A certain code
+evidently opens the vault door. To enter a code, use 'press button #' (where
+'#' is 1-9) to enter your code then 'press button enter' to finish. The 'enter'
+buttons resets a wrong sequence.
+91744: The vault door is made of solid steel. You estimate it's about 2 feet
+thick. Nobody's is going to be breaking through this door in a hurry!
+91844: The door is too heavy to move by hand.
+91872: The white board is about 6 feet long and 4 feet high.
+91912: It's covered in your inane scribblings.
+91944: It's been recently cleaned - there's no writing anywhere on it.
+91992: There is a board marker resting on the tray at the bottom of the
+whiteboard.
+92048: You can't write on a whiteboard with a ballpoint!
+92084: You write on the whiteboard. Very exciting. Just like being at school.
+92136: As you press the marker against the whiteboard, it shifts slightly. You
+move it aside to reveal a hidden crawlspace to the south.
+92228: An ordinary black board marker.
+92250: A cartridge of black toner for a Canon-Packard-Epson 10,000. You shake
+it and it sounds full.
+92372: A slot suitable for a toner cartridge.
+92400: The toner cartridge sits neatly in place.
+92432: The toner cartridge slots in to place with a click.
+92468: That wont fit - the slot was designed for a toner cartridge.
+92512: That wont fit - the tray was designed for blank paper.
+92552: A round button, ripe for pressing.
+92580: The printer beeps at you patiently.
+92608: When you press the button, the printer springs into life. The paper you
+put in it runs through, printing out something which must have been sent to the
+printer previously. You pick up the sheet of paper, now complete with a
+message.
+92808: MEMO TO ALL STAFF
+-----------------
+
+I've had to change the vault
+combination again - i think she guessed it.
+
+The new combination is
+
+    1 7 3
+9
+
+
+thanks, Wintermute.
+92960: You suspect that the message on the paper is important - you don't want
+to write over it.
+93032: e00g) bar of Cadbury's Dairy Milk. Quality british chocolate. You are
+impressed.
+93120: A large waste disposal machine, with a hole on top for putting things
+in.
+93172: The machine defiantly bites itself shut on your hand until you desist.
+93220: The machine resists all attempts to close it.
+93284: The outer door is thick, toughened steel with a small circular window in
+it.
+93340: Through the window you can see an immaculate white room.
+93380: Through the window you can see back into the server room.
+93420: The outer door cannot be opened while the inner door is open.
+93464: There is a hiss as the air around you is sterilised.
+93500: The inner door is thick, toughened steel.
+93532: The inner airlock door cannot be closed manually.
+93568: The airlock's inner door can only be unlock via it's electrical system.
+93620: An electronic card reader slot, designed to take credit-card sized
+security passes.
+93680: The machine spits the card back at you and the inner door closes with a
+clunk.
+93736: The slot returns the card angrily - the airlock requires that the outer
+door be closed to open the inner door.
+93812: The slot return your card and the inner door swings slowly open.
+93856: A small plastic card, about the same size as a credit card. It has
+"AIRLOCK" printed in small type on the front, and a magnetic strip on the back.
+93964: A simple wooden table.
+93980: A bunch of keys on a small plastic keyring.
+94012: You can see something shiny stuck down it.
+94044: The drain is already full - no need to fill it further.
+94084: rises and floats a plastic card to the top of the drain. You take it.
+94136: A copper pipe, coming from the ceiling, with a small hole in it.
+94184: There is a wet patch below the hole.
+94212: The hole has been sealed using a patch of weapons-grade clingfilm.
+94260: The patch of clingfilm fits perfectly over the hole in the pipe, bonding
+chemically with it.
+94324: A large air duct, which hums gently.
+94460: You can't punch a card unless you're holding it.
+94496: You might need to find a card punching machine to do that.
+94536: That card has already been punched - find a blank one.
+94576: The card is now punched with the code "
+94604: It's a machine for dispensing punch cards. You suspect that the blue
+button on the front of it is for this purpose.
+94684: You can't dispense any more cards right now - why not use some of the
+ones you have?
+94744: The machine dispenses a blank card, which you pick up.
+94784: A small round blue button. Try pressing it?
+94816: A very large robot blocks your way. To the south. It looks angry.
+94864: The robot is about 15 feet tall (by your reckoning) with glowing red
+eyes. It has a small slot on it's front. Above the slot is a small plaque.
+94968: You can't fit that into the slot.
+94992: You insert the card into the robot and it whirs and clicks.
+95036: "SYSTEM DEACTIVATED" booms the robot. A hidden side door opens and the
+robot walks out. The door seals shut behind it.
+95132: "MALFUNCTION" booms the robot. "PROGRAM NOT ACCEPTED".
+95192: The bullet pings off the robot's armoured casing.
+"PUNY HUMAN!"
+95248: The robot is 15 a foot tall metalic beast. Think again.
+95408: |   Built By S. Butterfield   |
+95528: It's an old stone well. You estimate it to be about 5 meters deep and
+about a meter in diameter. You could probably get down it ok, but you'd get
+pretty dirty. Besides, it doesn't look inviting.
+95668: The water is brown and foul-smelling. You dare not touch it.
+95712: The bushes consist of some kind of super-weed-thicket thing that trained
+scientists would not be able to classify. It exists purely to impede your
+progress.
+95820: The bushes in that direction are far too thick. You'd need a bulldozer,
+or some sort of tactical thermonuclear weapon to get through.
+95944: A pretty tough looking gate, topped with mean-looking razor-wire.
+95996: The inside of your car is about as exciting as the outside was. Not
+very.
+96124: A simple metal grill on the intercom panel conceals a speaker.
+96168: You once heard that dust was made of 90% dead human flesh. Yuck.
+96252: The footprints lead in circles.
+96276: You're no Alan Titchmarsh, but you think it's ivy of some sort.
+96324: The office is a large glass building, about 3 floors high.
+96368: They're just boxes.
+96384: Not likely - the clingfilm holds them shut.
+96416: It's some sort of clingfilm wrap. It appears to be made of a substance
+similar to transparent steel. There's no way you can tear it with your hands.
+96520: With a little effort, you cut a patch of clingfilm off. The blade of the
+knife doesn't look well though - the clingfilm has blunted it completely.
+96624: You're not holding the knife - try picking it up first.
+96664: The knife can't cut anything in it's current state.
+96704: Maybe if you were superman you could tear the clingfilm. Although you
+doubt superman could handle this stuff.
+96780: A very old, very large tree, which appears to have white paper for
+leaves.
+96832: They're pretty and summery. But it's almost winter. This makes no sense.
+96888: The trees are tall pines, improbably growing in this enclosed garden.
+They don't look climbable.
+96956: Wooden shelves, built from solid pine.
+96984: The desks are all wood and tubular steel office numbers.
+97024: The chairs are pretty boring. Boring and heavy.
+97060: The last thing you need at this point is to lug a bunch of chairs
+around.
+97112: On closer inspection, the computers are actually docking stations.
+You'll need to find the laptops to go with them for them to be of any use.
+97224: The cupboards are just like normal kitchen cupboards, only more
+expensive.
+97276: A beautiful piece of solid marble - very expensive you imagine.
+97320: It's one of those fancy water coolers that chills your water to near
+zero degrees. It's empty though.
+97392: The desks is large and made of solid mahogany. Very expensive and very
+heavy. It seems a little over the top for a receptionist.
+97484: The main doors are huge glass affairs, with ornately carved golden
+handles. They are locked shut.
+97552: The leaves are single sheets of A4 paper.
+97584: The pages/leaves are just out of your reach.
+97616: You can see the carpark quite clearly - your car is parked in the south
+east corner.
+97676: The window covers the entire wall, with thick glass. Probably bullet
+proof.
+97772: You get a good view of the garden through the window - the grand
+fountain and the ancient paper tree.
+97844: They're pretty standard chairs.
+97868: The last thing you need at this point is to lug a bunch of chairs
+around.
+97920: Made from four pieces of beautifully interlocking walnut, the table is a
+splendor to behold. It's shiny enough to see your face in.
+98132: The chairs are too big to fit out of the door. You consider how they got
+in here - was the office built around them perhaps?
+98220: A 52-inch slice of techno-joy. You drool slightly as you feel it's sleek
+lines.
+98280: It's bolted to the wall. Besides, it weighs about twice as much as much
+as you do.
+98340: The cubicles are simple formica constructs.
+98372: The view of the city is amazing. Well, as far as views of Canada are
+ever amazing...
+98436: The boxes are old and full of rubbish.
+98464: You can't see the point in taking the boxes.
+98496: You open the boxes and find nothing of interest.
+98532: An old style arcade game - it's r-type, your favourite.
+98576: Damn - you died. You need more practice at this...
+98616: A full sized pool table in perfect condition. You can't see any balls or
+cues though.
+98676: That'll be tough with any balls or cues.
+98708: It's a round wodden table, with six legs. Looks expensive.
+98752: They're pretty standard chairs.
+98776: The last thing you need at this point is to lug a bunch of chairs
+around.
+98828: The giant console seems to exist purely for monitoring and controlling
+Eric while he is outside the office. Eric must be some sort of super-human
+CSS-Robot!
+98940: They're pretty standard chairs. Which somehow give off an air of
+nonchalance.
+98996: The last thing you need at this point is to lug a bunch of chairs
+around.
+99072: achines. Sooooo loooooovvvley. You drool all over them.
+99112: They're screwed into the racks, and you don't have a screw driver with
+you. Shame.
+99172: It's a dark tower of evil.
+99192: The sides of the tower are completely smooth - how do you hope to climb
+them?
+99246: A bunch of technical documents. Some snippets catch your
+eye:
+
+game_engine->start();
+cat_robot->desist();
+core->debug();
+
+You suspect
+these pieces of code might come in useful.
+99396: No point is removing them - you've already memorised what they say.
+

@@ -1,0 +1,511 @@
+10085: Nothing to do!
+10120: o. You have won
+10220: It is now pitch dark in here!
+10247: I beg your pardon?
+10311: Sorry, that can't be corrected.
+10340: Think nothing of it.
+10393: As good-looking as ever.
+10425: You can hardly repeat that.
+10450: You can't begin with a comma.
+10564: I didn't understand that number.
+10593: You can't see any such thing.
+10629: You aren't holding that!
+10671: I'm not sure what "
+10723: That's not a verb I recognise.
+10762: You can't see "
+10870: Nothing to do!
+10887: There are none at all available!
+11797: Please answer yes or no.
+11823: Are you sure you want to quit?
+11868: Failed.
+11888: Restore failed.
+11905: Ok.
+11923: Save failed.
+11938: Ok.
+11982: Transcripting is already on.
+12048: Transcripting is already off.
+12106: Score notification on.
+12127: Score notification off.
+12150: You have visited:
+12178: Objects you have handled:
+12203: None.
+12589: You are carrying nothing.
+12638: Taken.
+12649: You are always self-possessed.
+13182: Dropped.
+13292: Removed.
+13431: You lack the dexterity.
+13512: Done.
+13778: Done.
+13989: Wrahn seem interested.
+14570: You can't go that way.
+15130: But it's dark.
+15147: You find nothing of interest.
+15183: But it's dark.
+15274: You find nothing of interest.
+16402: . Not bad.
+16420: That was a rhetorical question.
+16474: That seems unnecessary.
+16497: Keep your mind on the game.
+16522: What a good idea.
+16541: You smell nothing unexpected.
+16568: You hear nothing unexpected.
+16593: You taste nothing unexpected.
+16628: Keep your hands to yourself!
+16653: You feel nothing unexpected.
+16678: If you think that'll help.
+16787: Oh, don't apologise.
+16817: Quite.
+16886: You achieve nothing by this.
+16974: You wave, feeling foolish.
+17124: You are unable to.
+17143: Nothing obvious happens.
+17193: That's not a direction.
+17216: Not that way you can't.
+17248: Keep your hands to yourself.
+17273: You achieve nothing by this.
+17306: Futile.
+17335: You talk to yourself a while.
+17362: This provokes no reaction.
+17390: There is no reply.
+17409: Nothing is on sale.
+17428: Your singing is abominable.
+17462: Time passes.
+40491: After a slight detour ...
+41748: Give him the beer.
+41845: Unwrap the gouda.
+41971: DUCK or JUMP ASIDE.
+42000: BLINK or KICK THE DUST.
+42097: STAND UP.
+42146: That was easy.
+42187: SOMERSAULT or KICK THE WALL.
+42241: JEPOS, HELP will also work.
+42452: WEEP will also do the trick.
+43092: DANCE.
+43394: Hop along, now.
+43902: I'd do that.
+44040: LOOK UNDER THE BED.
+44201: Now GO WEST, young man.
+47308: Score:
+47316: Moves:
+47324: Time:
+47332: You can't go that way.
+47624: Please give one of the answers above.
+47652: [You can't "undo" what hasn't been done!]
+47688: [Can't "undo" twice in succession. Sorry!]
+47728: "Oops" can only correct a single word.
+47756: It is pitch dark, and you can't see a thing.
+47788: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+47848: You seem to want to talk to someone, but I can't see whom.
+47892: To talk to someone, try "someone, hello" or some such.
+47932: I didn't understand that sentence.
+47992: You seem to have said too little!
+48016: You can't use multiple objects with that verb.
+48052: You can only use multiple objects once on a line.
+48088: You excepted something not included anyway!
+48120: You can only do that to something animate.
+48152: That's not something you need to refer to in the course of this game.
+48200: I didn't understand the way that finished.
+48232: Sorry, you can only have one item here. Which exactly?
+48384: Are you sure you want to restart?
+48408: The game file has verified as intact.
+48436: The game file did not verify as intact, and may be corrupt.
+48480: Attempt to begin transcript failed.
+48508: Attempt to end transcript failed.
+48532: You're carrying too many things already.
+48564: You can't put something on top of itself.
+48596: You can't put something inside itself.
+48652: You can only get into something freestanding.
+48684: But you aren't in anything at the moment.
+48716: You'll have to say which compass direction to go in.
+48756: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+48852: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+48936: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+49112: This dangerous act would achieve little.
+49140: Nothing practical results from your prayer.
+49172: The dreadful truth is, this is not a dream.
+49204: Digging would achieve nothing here.
+49232: You jump on the spot, fruitlessly.
+49260: You would achieve nothing by this.
+49284: There's nothing suitable to drink here.
+49312: But there's no water here to carry.
+49340: Real adventurers do not use such language.
+49372: Violence isn't the answer to this one.
+49400: There's not enough water to swim in.
+49428: There's nothing sensible to swing here.
+49456: That would be less than courteous.
+49480: Is that the best you can think of?
+49504: You lack the nerve when it comes to the crucial moment.
+49544: I don't think much is to be achieved by that.
+49576: You aren't feeling especially drowsy.
+49764: Have you tried dialing room service?
+49792: Okay, have you tried to vomit?
+49816: I guess you'll have to try to make a cup of coffee then.
+49856: You may or may not have noticed that, with all the components there are
+to this coffeemaker, there's no pot or cup for coffee to run into. You'll need
+to find something to catch the coffee.
+49988: The whiskey bottle in your inventory ought to do it, but it needs to be
+empty first.
+50048: You can only get rid of the whiskey in the bathroom sink.
+50088: Before pouring water into the coffeemaker, it needs to be open. Before
+turning it on, you need to close it again.
+50168: You really ought to replace that used filter with a new one.
+50212: The old filter can only be dumped, once again, in the bathroom. There's
+a box of new filters in the closet. You could try using the towel for a filter,
+but frankly, I'd advise against it.
+50348: Can't open the packet? Try biting it.
+50376: Make sure you empty the packet into the filter rather than the basket,
+or you'll make the coffeemaker overflow.
+50456: Once you have a new filter in the basket and fresh grounds in the new
+filter, just slide the basket into the coffeemaker.
+50540: Not that simple? Have you examined the basket?
+50576: You need to hold the handle, then line up the basket. It may take a few
+tries, in your condition.
+50648: Don't forget to put the bottle in the coffeemaker before you turn it on.
+50700: Clean it up.
+50712: With the towel.
+50724: And don't dawdle.
+50740: If you haven't ruined your filter, you can still make coffee. Hope it's
+the right kind.
+50804: Complete the sobering-up process, then we'll talk about it.
+50848: Ride the elevator down to the lobby and go outside, of course.
+50892: Oops, forgot about Ralph. Well, how about examining that glass door in
+the vestibule?
+50956: That was it.
+50968: What now? Try examining the stars you see from the balcony.
+51012: That's a weird one. Examine that.
+51038: How do I sober up?
+     How do I make coffee?
+     What do I do about
+the mess?
+     How do I overcome my writer's block?
+     How can I get some
+fresh air?
+51188: How do I sober up?
+51204: How do I make coffee?
+51220: What do I do about the mess?
+51244: How do I overcome my writer's block?
+51272: How can I get some fresh air?
+51300: You're the author! Don't you know?
+51328: When you run into names from your fantasy series, you can remember them.
+51380: Important names to remember right now are Kyub, the House, Sephyr and
+the Rebellion. Those might give you some idea of what to do.
+51476: Exploring around a bit should also help.
+51504: Oh, and go back to the cliff and examine the plain from time to time.
+51556: Nothing you need to know about now.
+51584: I'd make a map of them before I did anything else, if I were you.
+51632: They're a five-room maze, and you have five objects ...
+51676: You haven't got five objects? Haven't you looked in the cupboards?
+51724: Oh, you didn't realize there were two antechambers? Well, there are.
+51776: The fifth item is inside the sock.
+51800: Drop a different item in each room and try all possible exits from that
+room. You'll have a map in no time.
+51876: Now let's talk about the fixtures. You noticed that you could put things
+in them, right?
+51940: And you noticed that putting an item in a fixture causes something to
+happen in another room?
+52004: The fixtures control the weather in the rooms they affect. For instance,
+putting the sandbag in the fixture northwest of the left antechamber turns the
+room east of the left antechamber into a flooded room.
+52148: But the room the swizzle stick controls will only open if the stick is
+in the correct fixture.
+52212: One of the fixtures has a sun carved under it. Figure out which fixture
+controls that room and put the swizzle stick in it.
+52300: The other four fixtures need to be occupied as well.
+52340: That's right, you can't take the objects from the cupboards outside the
+House of Kyub.
+52404: They'll be back in their proper cupboards once you return, however.
+52452: I'd say you were sticking around too long.
+52484: Don't say "wait" in the Frozen Room or Stormy Room.
+52524: Alternatively, if you've been playing with the lodestone, see the
+lodestone clues.
+52584: If you've made a map, it shouldn't be a problem.
+52620: Say you came to the Flooded Room by going east from Gray Room 1 (or
+whatever you called it on your map), and your map tells you that you can return
+to Gray Room 1 by going west. Go west.
+52756: Which Gray Room did this use to be?
+52784: All the exits from that Gray Room are still in place. Just go in the
+opposite direction from the exit you want to take.
+52868: Try dropping it on the floor and spinning it.
+52900: Try turning it in various directions.
+52928: The lodestone only works when inserted into one of the fixtures. Do
+that, then, say, point it north.
+53000: It attracts lightning.
+53016: Don't go on unless you've gotten into the Balmy Room.
+53056: You have a choice, as the inscription on Kyub's casket tells you: you
+can block the army from getting here, or you can use the lightning to transport
+the caskets to a hidden place.
+53184: Then again, you could just destroy the army.
+53216: But as the author of this story, you haven't decided yet whether the
+army is good or bad.
+53280: The army needs to ford the stream before it can reach the House Of Kyub.
+53332: The stream is located roughly southeast of here.
+53368: If you hit the bridge they're building, they can't cross.
+53412: Point the lodestone southeast.
+53436: And where in this maze of rooms is the Balmy Room located, in case you
+want to try the other choice?
+53508: Go outside the House and examine the weather.
+53540: Point the lodestone northeast.
+53564: Of course, in this case the army is still on its way here, so you need
+to discover a way out before they show up.
+53644: Don't go on unless you've been to the Balmy Room.
+53684: You can destroy the army by using the lodestone.
+53720: They're on the "southern plain." Point the lodestone south.
+53764: Okay, maybe that was a tad hasty. See the lodestone clues.
+53808: Sure, if your interpreter supports it. Type UNDO.
+53848: You mean in the game? Actually, you can, but not right now.
+53892: When you get to a location that has green lines of rock, you can use
+them to return here and change your choice if you want to.
+53980: Both "right" choices are equal in value for your education, however.
+54032: Yes, once you've saved Kyub and Sephyr from the rebel invasion.
+54080: There are two ways of doing that: consult the lodestone hints.
+54124: A glittering necklace appears outside the House.
+54160: Pick it up.
+54172: You'll lose it immediately, but should you ever return to these parts,
+you'll have it again.
+54240: You'll also have something to type on your laptop back at the hotel.
+54288: What am I supposed to do here?
+     What are these lines of rock?
+    
+What's the deal with all these gray rooms?
+     Hey! My possessions
+disappeared!
+     How come I keep getting killed by the weather?
+     The
+Flooded Room is a bit annoying!
+     The Blustery Room is even more annoying!
+ 
+   How exactly does the lodestone work?
+     What can I do about the army?
+    
+Can I take my choice back?
+     Is there a way out of this place?
+54628: What am I supposed to do here?
+54652: What are these lines of rock?
+54676: What's the deal with all these gray rooms?
+54708: Hey! My possessions disappeared!
+54732: How come I keep getting killed by the weather?
+54768: The Flooded Room is a bit annoying!
+54796: The Blustery Room is even more annoying!
+54828: How exactly does the lodestone work?
+54856: What can I do about the army?
+54880: Can I take my choice back?
+54900: Is there a way out of this place?
+54928: It's somebody's hotel room. Leave and go to your own!
+54968: You can't? You can't do much here, can you?
+55004: Except look at things.
+55020: And read things. Read the letter.
+55048: It's Ralph's room, and now you know a bit more about his point of view.
+55100: Wait a few turns and you'll automatically be transported back to the
+balcony on your floor.
+55164: What's this about?
+55204: What's this about?
+55224: Did you read the letter he was writing?
+55252: He wants to know how it feels to be a guest.
+55284: Particularly, how it feels to have a minibar with beer in it.
+55328: You have no idea.
+55344: Neither do I.
+55356: But we both might be able to come up with one a little later.
+55400: You obviously want to return to RANS and accumulate more story ideas.
+55452: But first you should deal with Ralph. Don't go on till you have.
+55500: The minibar was helpful in the lobby. Perhaps it'll help with this
+problem too.
+55556: How do I get past Ralph?
+     How do I cross the street?
+     What now?
+55628: How do I get past Ralph?
+55648: How do I cross the street?
+55668: What now?
+55680: Am I surprised?
+55880: If she's threatened by a single sword, HIT THE SWORD or PROTECT JEPOS.
+55948: If it's several swords, only PROTECT JEPOS will be successful.
+56004: Don't try to escape it by struggling. You'll only make it worse. But
+why?
+56060: Your enemies are holding onto the net by its edges and wrapping it
+around you.
+56116: And you're still bent over, so they have leverage.
+56152: JUMP ONTO THE CART or PUSH JEPOS.
+56192: SLIDE ON THE OIL or HIT THE OIL.
+56232: BALANCE ON THE APPLES or FALL DOWN.
+56276: ATTACK THE GRIM MAN to wear him down a bit, or SALUTE him.
+56332: If he's waiting for you to speak, SPEAK TO HIM.
+56376: SUMMON JEPOS.
+56396: Well, use your imagination. There are a number of, shall we say, R-rated
+alternatives.
+56460: On the other hand, you could spend the time asking Jepos about things
+that've caught your notice. Your score won't be affected either way.
+56560: Once Kamendro and the Warrior show up, the best thing to do is WAIT and
+listen to their entire conversation.
+56640: You could try startling them so they leave the alley.
+56680: But you don't want to make a lot of noise.
+56712: You have in your possession something that wouldn't make much noise if
+it fell. They've been discussing it, in fact.
+56796: THROW THE NECKLACE.
+56820: You want to pick up that pocket doorway, don't you?
+56860: Unlike other games with portable exits, this one shouldn't be dropped.
+56912: You either want to give it to Jepos or tell Jepos to enter it. Your
+choice.
+56968: But you need to be someplace quieter than the alley.
+57004: Take the pocket doorway, then type OUT.
+57036: You've got your hands on your knees and your head toward the pavement
+...
+57088: VOMIT.
+57096: And the green ones are pulsating.
+57120: Touch them or stand on them and you'll be transported back to the House
+of Kyub, before the army builds its bridge.
+57204: This is your chance to see what would've happened if you'd made the
+other "correct" choice about the army.
+57280: It won't affect your score, however.
+57308: To return to the Red Game, touch or stand on the red lines.
+57352: That's up to you.
+57368: But let me point out, this will screw Jepos up for the rest of her life,
+whereas you understand this is all just taking place in a book.
+57464: The chivalrous thing would be to do it yourself. Feel chivalrous?
+57512: Kill Kamendro in his sleep.
+57532: Of course, it'd be nice if you had something to kill him with.
+57576: Take Jepos's sword before entering the doorway.
+57612: Then you need to find the evidence of his collusion with the Rebellion.
+57664: It's behind the mirror. Pick it up, then drop it out the window.
+58084: Help! I keep getting killed in the street battle!
+58160: To prevent Jepos being stabbed:
+58184: To escape the net:
+58260: To survive the swordfight:
+58356: What am I supposed to do in the alley?
+58400: How does the pocket doorway work?
+     What should my reaction to the
+horrific spectacle be?
+     Here's some of those lines of rock again!
+     Who
+should do the dirty deed?
+     What should I do in Kamendro's quarters?
+58584: How does the pocket doorway work?
+58608: What should my reaction to the horrific spectacle be?
+58648: Here's some of those lines of rock again!
+58680: Who should do the dirty deed?
+58704: What should I do in Kamendro's quarters?
+58740: This is another peek into someone's life that might affect your progress
+in the real world.
+58804: Listen to the message attentively.
+58830: What am I doing here?
+58868: What am I doing here?
+58888: The man on the answering machine was upset about the traffic just like
+you are.
+58944: He wished the street dancers were still performing in front of the
+hotel.
+58996: Maybe other people in the cars going by feel the same way.
+59036: You can ask him things.
+59056: You can smell him.
+59072: You can check out his junk.
+59092: Don't go on unless you've been to his humble abode.
+59132: He lives in filth.
+59148: Perhaps if he had something he could clean himself up with, he could
+begin to put his life back together.
+59220: But how likely is that? Anyway, it isn't your responsibility.
+59268: Give him the towel. Even if you've turned it into an indescribable
+object, it's bound to be cleaner than anything he possesses.
+59360: Unfortunately, it's a hotel towel, and Ralph won't let you carry it out
+the door.
+59420: But you now have something you can hide it in.
+59452: Take the duffel bag again. Nothing weird will happen this time, I
+promise.
+59508: Well, you're right.
+59524: Return to the hotel.
+59540: Ralph is sleepy, so you can now get a closer look at the plant.
+59584: Go ahead and pick that up, bad boy.
+59610: Okay, so how do I cross the street already?
+     How can I interact with
+the loathsome bum?
+     Well, I know there's got to be another exit around here
+somewhere!
+59752: Okay, so how do I cross the street already?
+59784: How can I interact with the loathsome bum?
+59816: Well, I know there's got to be another exit around here somewhere!
+59868: You seem to be on your way to market.
+59896: Take a breather. Sit under it.
+59920: Aren't you curious about that whispering?
+59952: Then go ahead, listen to it or examine it.
+59984: It's almost as if it had a mind of its own!
+60016: It seemed to be whispering before.
+60040: Try talking to it.
+60056: You'll be able to open it only at the proper time.
+60092: It's entirely up to you ...
+60116: But your education has progressed far enough that you can now modify
+events in a radical way.
+60180: If you choose Peace, the rebellion will have already been defeated.
+60228: If you choose War, it'll still be going on, but everyone will know what
+they're fighting for.
+60296: Because you're now mature enough to accept the consequences of your
+actions?
+60352: Because the lines of rock only work on the past, and there are no blue
+lines in the Market Fair?
+60420: Because you have a greater magic: SAVE and RESTORE.
+60464: Only as a source of information.
+60488: You can ask him for news of the rebellion, Jepos, Sephyr etc.
+60536: His answers will differ depending on which version of the contest you're
+in.
+60592: You don't.
+60604: And if you haven't found anyone (or anything) that might know, restore
+and go find one.
+60668: It's the blue book. Consult that topic.
+60700: Wait your turn, then open the book. It'll put the words in your mouth.
+60752: If you chose War, however, you don't deserve to win the contest. You'll
+need to do a bit more to redeem yourself.
+60836: Brass lantern? Which game are you playing?
+60868: Okay, okay. Well, for right now, just take it.
+60904: Well, you could look her over and talk with her a bit if you're not
+sure.
+60956: Her heart seems to be in the right place. What could be the harm?
+61004: Where am I?
+     What can I do with the oak tree?
+     Why can't I open
+this book?
+     Which category should I sign up for?
+     Why can't I change my
+choice in this segment?
+     Is Tringle important?
+     How do I know what to
+recite?
+     What do I do with the brass lantern?
+     Should I help the crone?
+61256: Where am I?
+61268: What can I do with the oak tree?
+61292: Why can't I open this book?
+61316: Which category should I sign up for?
+61344: Why can't I change my choice in this segment?
+61380: Is Tringle important?
+61396: How do I know what to recite?
+61420: What do I do with the brass lantern?
+61448: Should I help the crone?
+61472: Unlike previous "dream" experiences, you can examine everything you see
+around you.
+61532: What should I do here?
+61568: What should I do here?
+61592: That's a tough one. Um ...
+61616: Try WRITE THE NOVEL.
+61640: You can read it now, by the way.
+61664: In your investigation of this area, was there anything you couldn't see
+because it was too dark?
+61732: That's the sort of circumstance where a light source comes in handy.
+61780: Ask her what time it is?
+61800: Sorry. So what would catch her interest?
+61832: "Mizopolitan" seems to be a magazine of the type favored by
+receptionists in offices.
+61892: Have you seen one anywhere?
+61912: If not, consult the above question.
+61940: You need to show her the magazine ...
+61984: Show her the second article and the fourth article (in whatever order).
+62036: Then show her the third article.
+62060: You just may have discovered that you shouldn't show her either of the
+others.
+62114: How do I write my novel?
+     Quit being coy and tell me why I have this
+lamp!
+     How do I get Judy to give me the time of day?
+62232: How do I write my novel?
+62252: Quit being coy and tell me why I have this lamp!
+62288: How do I get Judy to give me the time of day?
+

@@ -1,0 +1,139 @@
+9993: Nothing to do!
+10028: o. You have won
+10111: It is now pitch dark in here!
+10138: I beg your pardon?
+10202: Sorry, that can't be corrected.
+10231: Think nothing of it.
+10284: As good-looking as ever.
+10316: You can hardly repeat that.
+10341: You can't begin with a comma.
+10455: I didn't understand that number.
+10484: You can't see any such thing.
+10520: You aren't holding that!
+10561: I'm not sure what "
+10613: That's not a verb I recognise.
+10651: You can't see "
+10758: Nothing to do!
+10775: There are none at all available!
+11679: Please answer yes or no.
+11705: Are you sure you want to quit?
+11750: Failed.
+11769: Restore failed.
+11786: Ok.
+11803: Save failed.
+11818: Ok.
+11862: Transcripting is already on.
+11928: Transcripting is already off.
+11986: Score notification on.
+12007: Score notification off.
+12030: You have visited:
+12058: Objects you have handled:
+12083: None.
+12465: You are carrying nothing.
+12514: Taken.
+12525: You are always self-possessed.
+13050: Dropped.
+13156: Removed.
+13293: You lack the dexterity.
+13374: Done.
+13638: Done.
+13857: Wrahn seem interested.
+14487: You can't go that way.
+15040: But it's dark.
+15057: You find nothing of interest.
+15093: But it's dark.
+15183: You find nothing of interest.
+16302: . Not bad.
+16320: That was a rhetorical question.
+16374: That seems unnecessary.
+16397: Keep your mind on the game.
+16422: What a good idea.
+16441: You smell nothing unexpected.
+16468: You hear nothing unexpected.
+16493: You taste nothing unexpected.
+16528: Keep your hands to yourself!
+16553: You feel nothing unexpected.
+16578: If you think that'll help.
+16686: Oh, don't apologise.
+16716: Quite.
+16785: You achieve nothing by this.
+16872: You wave, feeling foolish.
+17021: You are unable to.
+17040: Nothing obvious happens.
+17090: That's not a direction.
+17113: Not that way you can't.
+17144: Keep your hands to yourself.
+17169: You achieve nothing by this.
+17202: Futile.
+17230: You talk to yourself a while.
+17257: This provokes no reaction.
+17285: There is no reply.
+17304: Nothing is on sale.
+17323: Your singing is abominable.
+17357: Time passes.
+43515: in" or "notin
+43531: opmhas" or "hasnt
+43673: }" at end of "objectloop
+45144: Score:
+45152: Moves:
+45160: Time:
+45168: You can't go that way.
+45412: [Your interpreter does not provide "undo". Sorry!]
+45500: Please give one of the answers above.
+45528: [You can't "undo" what hasn't been done!]
+45564: [Can't "undo" twice in succession. Sorry!]
+45604: "Oops" can only correct a single word.
+45632: It is pitch dark, and you can't see a thing.
+45664: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+45724: You seem to want to talk to someone, but I can't see whom.
+45768: To talk to someone, try "someone, hello" or some such.
+45808: I didn't understand that sentence.
+45868: You seem to have said too little!
+45892: You can't use multiple objects with that verb.
+45928: You can only use multiple objects once on a line.
+45964: You excepted something not included anyway!
+45996: You can only do that to something animate.
+46028: That's not something you need to refer to in the course of this game.
+46076: I didn't understand the way that finished.
+46108: Sorry, you can only have one item here. Which exactly?
+46260: Are you sure you want to restart?
+46284: The game file has verified as intact.
+46312: The game file did not verify as intact, and may be corrupt.
+46356: Attempt to begin transcript failed.
+46384: Attempt to end transcript failed.
+46408: You're carrying too many things already.
+46440: You can't put something on top of itself.
+46472: You can't put something inside itself.
+46500: That would scarcely empty anything.
+46556: You can only get into something free-standing.
+46592: But you aren't in anything at the moment.
+46624: You'll have to say which compass direction to go in.
+46664: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+46760: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+46844: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+46932: Darkness, noun. An absence of light to see by.
+47020: This dangerous act would achieve little.
+47048: Nothing practical results from your prayer.
+47080: The dreadful truth is, this is not a dream.
+47112: Digging would achieve nothing here.
+47140: You jump on the spot, fruitlessly.
+47168: You would achieve nothing by this.
+47192: There's nothing suitable to drink here.
+47220: But there's no water here to carry.
+47248: Real adventurers do not use such language.
+47280: Violence isn't the answer to this one.
+47308: There's not enough water to swim in.
+47336: There's nothing sensible to swing here.
+47364: That would be less than courteous.
+47388: Is that the best you can think of?
+47412: You lack the nerve when it comes to the crucial moment.
+47452: I don't think much is to be achieved by that.
+47484: You aren't feeling especially drowsy.
+47572: You are in a small room with no visible exits. You must escape!
+47620: The wall finally falls down from the beating you've been giving it, and
+sunlight shines through! You've escaped!
+

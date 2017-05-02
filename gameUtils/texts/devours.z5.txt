@@ -1,0 +1,859 @@
+65568: There is no reply.
+65636: Nothing is on sale.
+66075: Dropped.
+66132: . Not bad.
+67070: Wrahn seem interested.
+67542: Done.
+67591: You are carrying nothing.
+67676: Keep your mind on the game.
+67701: You hear nothing unexpected.
+68645: But it's dark.
+68662: You find nothing of interest.
+68690: Quite.
+68720: Nothing to do!
+68755: o. You have won
+68857: It is now pitch dark in here!
+68884: I beg your pardon?
+68948: Sorry, that can't be corrected.
+68977: Think nothing of it.
+69030: As good-looking as ever.
+69062: You can hardly repeat that.
+69087: You can't begin with a comma.
+69201: I didn't understand that number.
+69230: You can't see any such thing.
+69266: You aren't holding that!
+69307: I'm not sure what "
+69359: That's not a verb I recognise.
+69397: You can't see "
+69504: Nothing to do!
+69521: There are none at all available!
+69932: That was a rhetorical question.
+69959: Score notification off.
+69982: Score notification on.
+70011: Objects you have handled:
+70036: None.
+70442: You have visited:
+70617: You are unable to.
+70636: Nothing obvious happens.
+70686: That's not a direction.
+70709: Not that way you can't.
+70856: You lack the dexterity.
+70937: Done.
+70985: Please answer yes or no.
+71011: Are you sure you want to quit?
+71131: Removed.
+71162: Failed.
+71181: Restore failed.
+71198: Ok.
+71208: You achieve nothing by this.
+71240: Save failed.
+71255: Ok.
+71363: There is no score in this story.
+71401: Transcripting is already off.
+71467: Transcripting is already on.
+71533: But it's dark.
+71623: You find nothing of interest.
+71893: Your singing is abominable.
+71927: You smell nothing unexpected.
+71954: Oh, don't apologise.
+71982: Keep your hands to yourself.
+72007: You achieve nothing by this.
+72236: Taken.
+72247: You are always self-possessed.
+72672: You taste nothing unexpected.
+72706: You talk to yourself a while.
+72733: This provokes no reaction.
+72759: What a good idea.
+72785: Futile.
+72814: Keep your hands to yourself!
+72839: You feel nothing unexpected.
+72864: If you think that'll help.
+73071: Time passes.
+73095: That seems unnecessary.
+73191: You wave, feeling foolish.
+88139: You have no source of flame.
+88164: You sing out a few clear notes.
+98920: You sing out a few clear notes.
+98962: Time unravels...
+99499: A piercing siren rings out.
+99538: The siren wails.
+99672: You cannot do that from here.
+100190: Time unravels...
+100226: Time unravels...
+100262: Time unravels...
+100520: It does not fit in the lock.
+100693: It does not fit in the lock.
+100795: The door is locked.
+101015: Time until detonation:
+101115: You reset the timer.
+101132: The timer is not currently set.
+101295: That's already on.
+101704: It is not clear what you mean.
+101744: It is not clear what you mean.
+101784: It is not clear what you mean.
+102162: Nothing obvious happens.
+102210: Nothing obvious happens.
+103005: It is already fixed.
+103728: Nothing happens.
+103820: You are in complete darkness.
+103925: Click. Nothing happens.
+104094: You are in complete darkness.
+104552: Time unravels...
+107318: My God! It's full of stars.
+107521: You cannot find the lock.
+107665: There is no score in this game.
+109500: Time unravels...
+113989: Time unravels...
+114043: Time unravels...
+115272: Time unravels...
+115329: Time unravels...
+115388: Time unravels...
+115484: Time unravels...
+115543: Time unravels...
+115633: Time unravels...
+116555: Time unravels...
+117264: Time unravels...
+117455: Time unravels...
+117594: Time unravels...
+117831: Time unravels...
+118050: Time unravels...
+118227: Time unravels...
+118308: A piercing siren rings out.
+118595: Time unravels...
+118710: Time unravels...
+118767: Time unravels...
+118808: Time unravels...
+118875: Time unravels...
+118920: Time unravels...
+118965: Time unravels...
+119269: Time unravels...
+119363: Time unravels...
+120113: Time unravels...
+120164: Time unravels...
+120628: This thing all things devours:
+120842: This thing all things devours:
+121129: Success. Final, lasting success.
+121825: You do not have the key.
+121860: You do not have the key.
+121909: You do not have the key.
+121944: You do not have the key.
+122136: That didn't take long.
+122167: Time passes.
+122240: That didn't take long.
+122259: Time passes.
+122343: That didn't take long.
+122374: Time passes.
+122810: You shout loudly.
+122870: Time unravels...
+125282: in" or "notin
+125298: opmhas" or "hasnt
+125440: }" at end of "objectloop
+126742: Written for IFComp 2004 by half sick of shadows.
+This is the
+post-competition release.
+It is in the public domain and may thus be freely
+copied or modified.
+First-time players should type 'about'.
+127048: Score:
+127056: Moves:
+127064: Time:
+127072: You can't go that way.
+127180: Violence isn't the answer to this one.
+127208: This dangerous act would achieve little.
+127236: I don't think much is to be achieved by that.
+127296: Digging would achieve nothing here.
+127324: There's nothing suitable to drink here.
+127352: That would scarcely empty anything.
+127380: You can only get into something free-standing.
+127452: But you aren't in anything at the moment.
+127484: But there's no water here to carry.
+127540: You can't put something inside itself.
+127568: You jump on the spot, fruitlessly.
+127596: You would achieve nothing by this.
+127648: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+127744: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+127828: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+127940: You see nothing unexpected in that direction.
+128204: Please give one of the answers above.
+128232: [You can't "undo" what hasn't been done!]
+128268: [Can't "undo" twice in succession. Sorry!]
+128308: "Oops" can only correct a single word.
+128336: It is pitch dark, and you can't see a thing.
+128368: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+128428: You seem to want to talk to someone, but I can't see whom.
+128472: To talk to someone, try "someone, hello" or some such.
+128512: I didn't understand that sentence.
+128572: You seem to have said too little!
+128596: You can't use multiple objects with that verb.
+128632: You can only use multiple objects once on a line.
+128668: You excepted something not included anyway!
+128700: You can only do that to something animate.
+128732: That's not something you need to refer to in the course of this game.
+128780: I didn't understand the way that finished.
+128812: Sorry, you can only have one item here. Which exactly?
+128912: Nothing practical results from your prayer.
+128968: That would be less than courteous.
+128992: Is that the best you can think of?
+129016: You can't put something on top of itself.
+129048: Are you sure you want to restart?
+129072: Attempt to end transcript failed.
+129096: Attempt to begin transcript failed.
+129124: You aren't feeling especially drowsy.
+129152: Real adventurers do not use such language.
+129184: There's not enough water to swim in.
+129212: There's nothing sensible to swing here.
+129240: You're carrying too many things already.
+129272: You lack the nerve when it comes to the crucial moment.
+129340: You'll have to say which compass direction to go in.
+129380: The game file has verified as intact.
+129408: The game file did not verify as intact, and may be corrupt.
+129452: The dreadful truth is, this is not a dream.
+129512: You jump on the spot, fruitlessly.
+129540: You can hear nothing but a soft electric hum.
+129572: It is not clear what you are trying to refer to with 'all'.
+129614: your former self hears the muffled sounds of your singing.
+
+Something
+of an anticlimactic way to kill so many millions of people...
+129712: Like most automatic doors, this one closes of its own accord.
+129756: You swing the crowbar firmly into the door. It shudders, a star of
+cracks reaching out from the point of impact, but the glass stays in place.
+129856: You don't have anything heavy enough to smash the door with.
+129898: The door slides open with a soft rattle.
+129932: The automatic door softly slides closed.
+129960: You swing the crowbar firmly into the door, but it barely leaves a
+mark.
+130012: You don't have anything heavy enough to break the door with.
+130054: On the other side of the door, your former self hears you turn the key
+in the lock.
+130116: On the other side, your former self sees the door open in front of her.
+130168: On the other side, your former self sees the door close in front of
+her.
+130220: Try as you might, none of your keys will unlock the door.
+130260: You swing the crowbar firmly into the door, but it barely leaves a
+mark.
+130312: You don't have anything heavy enough to break the door with.
+130388: A length of steel pipe filled with powder and fused with a digital
+timer. Not your most elegant piece of work, but it will hopefully do the job.
+130490: You have not yet set the timer.
+130518: On the timer's small LED screen, the number 0 blinks out at you.
+130672: To set the explosive device, you need to specify a number of seconds,
+for example, with 'set timer to 30'.
+130806: Your timer only accepts between 1 and 100 seconds.
+130864: Natalie Williams.
+Deutsch Lab.
+Doctoral Student, MIT
+
+On the right is a
+familiar photo of you, back when you wore your hair long. A black magnetic
+stripe runs the width of the reverse.
+131004: The slot emits a small beep and your card is rejected.
+131042: You swipe your card through the slot, and hold your breath.
+131088: Perfect. Just as you'd hoped. The bastards hadn't even thought to
+disable your card.
+131152: The slot emits a small beep and your card is rejected.
+131208: A curved black crowbar.
+131244: A small metallic-blue flashlight.
+131268: A thin beam of icy light shines forth.
+131296: The switch clicks, but no light is forthcoming. It looks as if you will
+need two batteries.
+131360: The switch clicks, but no light is forthcoming. Not surprising
+considering flashlights usually need batteries.
+131438: As you remove the battery, the light fails.
+131492: A sized battery.
+131542: length of ribbon cable. It will do nicely.
+131576: There is nothing here that you could attach the cable to.
+131616: You cannot attach the cable to that.
+131676: Your research notes. The hundred or so pages here comprise everything
+you have written so far. It would not be easy for someone else to turn the
+scribbles herein into another working prototype, but it may just be possible.
+131832: You look determinedly at the thick bundle of papers, but there is no
+way that you could eat more than a couple of pages. You had better think of
+something a little more sensible.
+131956: There are about a hundred pages and there is no way that you could tear
+them up in time.
+132040: A well worn brass key. It opens the various equipment rooms in the
+complex.
+132120: A bright steel key. It unlocks the door to the Deutsch lab, downstairs.
+132196: She looks strangely familiar.
+132228: Dark hair frames a warm face. Despite the anxiety written now in your
+tense brow, the confidence of youth and vibrancy of intellect are clear. There
+is a depth in your clear green eyes.
+132356: A skeleton key. And I thought they were make-believe!
+132396: The floor is covered by a thin carpet in a dark but warm gray.
+132440: You cannot see what lies in the darkness.
+132472: Shadows fill the corners of the rooms like old cobwebs.
+132512: The building has modern but ultimately shallow feel. There is a
+preoccupation with surfaces and textures. Almost everything is coloured with
+dark, yet somewhat warm, shades of gray, darkened further by the midnight
+gloom.
+132668: Most of the overhead lights are currently off, leaving the complex in
+dim half-light.
+132728: Switching on the overhead lights would alert security to your presence,
+and besides, you can see clearly enough in the gloom.
+132816: You are already at the top of the stairs.
+132848: A thin icy beam that cuts through the darkness.
+132884: You look young, bright and proud of your new position at the lab.
+132932: It is the type of magnetic stripe found on the back of a regular credit
+card, but is used to open the automatic doors in the building.
+133024: A darkened foyer, presided over by a security desk near the north wall.
+Floating above it in the capacious darkness is a small landing. A set of stairs
+both rises up to meet it and stretches downwards into the dark.
+133172: The only exits are the automatic doors to the north and south, and the
+staircases up and down.
+133384: There are also four buttons, labeled 'basement', 'first', 'second' and
+'alarm'.
+133448: These screens flash images from the corridors and grounds of the
+complex.
+133500: On one of the screens you see your former self approaching the complex.
+133552: On one of the screens you see your former self in the first floor
+corridor.
+133604: On one of the screens you see your former self in the second floor
+corridor.
+133660: On one of the screens you see your former self in the basement
+corridor.
+133712: A discrete black button carefully labeled 'alarm'.
+133748: The button is set into a vertical surface, making it impossible to
+place objects on top of it.
+133816: A small black button carefully labeled 'first'.
+133852: The button is set into a vertical surface, making it impossible to
+place objects on top of it.
+133920: A small black button carefully labeled 'basement'.
+133956: The button is set into a vertical surface, making it impossible to
+place objects on top of it.
+134024: A small black button carefully labeled 'second'.
+134060: The button is set into a vertical surface, making it impossible to
+place objects on top of it.
+134128: The landing above is lost in shadow.
+134156: The grounds are empty and still on this frosty night.
+134196: A cramped space at the bottom of the stairs. A corridor can be seen to
+the north through the automatic door, and the stairs lead back up to the foyer.
+134300: The only exits are north and up.
+134340: You cannot see the foyer properly from here.
+134372: A small landing, hanging in the still darkness above the foyer.
+134416: The only exits are north and down.
+134456: From the shadowy landing, you can just make out your former self alone
+in the foyer.
+134516: From the shadowy landing, you can see much of the empty foyer
+stretching out below you.
+134576: A long north-south corridor, much the same as those on the other
+floors.
+134628: Three gray doors line the eastern wall. The first two have small glass
+windows, peering into darkened laboratories. The third
+134716: is plain and leads to a small equipment room. All three are closed.
+134764: The only exits are the three doors lining the corridor (south-east,
+east and north-east) and the automatic door back to the foyer (south).
+134880: A gray door with a small glass window, looking into a darkened lab. A
+small plaque reads: 'Saunders Lab'.
+134960: A gray door with a small glass window, looking into a darkened lab. A
+small plaque reads: 'Pooley Lab'.
+135036: You can't see anything of interest through the glass.
+135076: The embedded window does not open.
+135100: The embedded window does not open.
+135124: You swing the crowbar firmly into the small window, but it barely
+leaves a mark.
+135184: You don't have anything heavy enough to break the window with.
+135228: There are three doors on the eastern wall of the corridor, the first
+two (to the south-east and east) lead to the Saunders and Pooley labs. The
+third (to the north-east)
+135352: leads to a small equipment room. To the south, the plate glass
+automatic door to the foyer
+135416: A long north-south corridor, much the same as those on the other
+floors.
+135468: Three gray doors line the eastern wall. The first two have small glass
+windows, peering into darkened laboratories. The third
+135580: is plain and leads to a small equipment room. All three are closed.
+135630: At the north end is an open door leading to the Deutsch lab.
+135676: At the north end a fourth door leads to the Deutsch lab.
+135720: The only exits are to the Deutsch lab (north) the three doors lining
+the corridor (south-east, east and north-east) and the automatic door back to
+the landing (south).
+135856: A gray door with a small glass window, looking into a darkened lab. A
+small plaque reads: 'Bostrom Lab'.
+135932: A gray door with a small glass window, looking into a darkened lab. A
+small plaque reads: 'Wallace Lab'.
+136008: There are three doors on the eastern wall of the corridor, the first
+two (to the south-east and east) lead to the Bostrom and Wallace labs. The
+third (to the north-east)
+136132: leads to a small equipment room. At the north end is the
+136216: A long north-south corridor, much the same as those on the other
+floors. Three plain gray doors line the eastern wall.
+136300: The only exits are to the balcony (north) the three doors lining the
+corridor (south-east, east and north-east) and the automatic door back to the
+landing (south).
+136470: Brown'.
+136480: A simple gray door. A small plaque reads: 'Prof Butterfield'.
+136528: A plain gray door. A small plaque reads: 'Conference Room'.
+136656: brown and Professor Butterfield's offices. The third (to the
+north-east) leads to the conference room. At the north end is the
+136790: The lab is order and chaos. By the dim blue-green light of a few
+swirling screen savers, you can see the cluttered benches of your colleagues,
+frozen in the mess of academic creativity. Frozen exactly as they were when
+badges were flashed, when we looked on in disbelief as they took control of the
+lab. Yours however, is clean. The books and papers are in neat stacks. They
+have been working here.
+
+Nearby, against the north wall is the prototype, a six
+foot cylinder of brushed steel cladding. The door has been taken off and is
+nowhere to be seen. They have been working on it too. You wince at the sight.
+137218: To the south, the door to the lab lies open.
+137254: To the south, the door to the lab stands closed.
+137294: The lab is order and chaos. By the dim blue-green light of a few
+swirling screen savers, you can see the cluttered benches of your colleagues,
+frozen in the mess of academic creativity. Yours however, is clean. The books
+and papers are in neat stacks. They have been working here.
+
+Nearby, against
+the north wall is the prototype, a six foot cylinder of brushed steel cladding.
+They have been working on it too. The door has been taken off and is nowhere to
+be seen.
+137624: To the south, the door to the lab lies open.
+137658: To the south, the door to the lab stands closed.
+137696: The only exits are to the south and in to the prototype.
+137752: You had built the prototype to get a strong negative result, to show
+that the standard model of Quantum Mechanics led to demonstrably false claims
+involving reverse causation. You were mistaken. One by one, your experiments
+showed your preliminary calculations to have been correct. When the military
+removed you from your project, only one aspect remained untested  -- an aspect
+you had been loath to test before you could predict the results -- inconsistent
+observation.
+
+What would happen if anomalies were observed by those in the
+original time-line? Your prior experiments had heavily shielded the prototype
+from outside interaction to avoid the very possibility. And as the calculations
+came out time and again, that is the only reason you are alive today. When an
+observer in the original time-line has an anomalous observation, the wave
+function of the temporally relocated object collapses and the relocation
+retrospectively fails, preserving chronological consistency. There is just one
+side effect: total transformation of the object's mass into a burst of photons
+-- pure energy.
+
+You tried to tell them over and again. They assumed you were
+merely jealous of the takeover. Now, the night before their scheduled 'first
+main experiment', you have come to put an end to it all. To destroy your
+prototype and avoid tomorrow's nightmare.
+
+The prototype itself is a six foot
+tall, four foot wide cylinder, clad with brushed steel. The frame and door were
+fitted with quantum shielding to prevent decoherence of the wave function, but
+now the door has been removed and any use of the machine is potentially
+disastrous.
+138878: The prototype is a six foot tall, four foot wide cylinder clad with
+brushed steel. The frame and door were fitted with quantum shielding to prevent
+decoherence of the wave function, but now the door has been removed and any use
+of the machine is potentially disastrous.
+139066: On close inspection, it appears that an attempt is in progress to move
+the control panel so that it can be operated from the inside. As it is, the
+prototype is currently not functioning, but you think you could probably
+complete the modification within a minute or two.
+139256: The prototype has been modified so that the only way to operate it is
+to enter it and use the internal control panel.
+139336: You will need to complete the partial modifications to use the
+prototype.
+139388: The prototype has been modified so that the only way to operate it is
+to enter it and use the internal control panel.
+139468: You will need to complete the partial modifications to use the
+prototype.
+139520: The prototype has been modified so that the only way to operate it is
+to enter it and use the internal control panel.
+139600: You will need to complete the partial modifications to use the
+prototype.
+139650: You begin work completing the modifications...
+139688: After a minute or so, you are done.
+139716: After a few moments, you realise that completing the modification will
+require a ribbon cable to connect the components. You know the type of cable
+well, but don't have any in the lab right now. Still, the equipment room in the
+corridor should have one.
+139892: It won't be enough to smash the prototype by hand as there are too many
+circuits buried away inside that would not be harmed. Besides, that is why you
+brought the bomb.
+140008: It wont fit. Obviously. What were you thinking? It is a prototype
+chrono-transference device, not some kind of TARDIS.
+140100: Your bench has clearly been used recently, and not by you.
+140142: Your bench has clearly been used recently, and not by you. Your books
+and papers are neatly piled to one side, leaving the largest expanse of bare
+desk you have ever seen here.
+140268: You suddenly notice that your research notes are not here. You were
+sure they would be -- and would thus be destroyed in the blast. This is bad.
+Very bad.
+140380: A few texts on Quantum Mechanics and String Theory that have served you
+very well.
+140440: A collection of photocopied journal papers that you had been reading a
+few weeks ago.
+140500: You suddenly notice that your research notes are not here. You were
+sure they would be -- and would thus be destroyed in the blast. This is bad.
+Very bad.
+140612: Abstract, organic shapes leave glowing phosphor trails as they swirl
+around and through themselves.
+140680: The usual academic mess -- open books, coffee stained mugs, sprawling
+papers -- frozen in time.
+140752: You cannot see the control panel clearly from here, and would need to
+enter the prototype.
+140816: You cannot see the control panel clearly from here, and would need to
+enter the prototype.
+140880: You would have to enter the prototype to do that.
+140916: The interior of the prototype is cramped and dark. On the wall you see
+the control panel with a small LED timer set to
+141000: seconds, and a silver button. Through the open hatch you can see some
+of the Deutsch lab.
+141068: The interior of the prototype is cramped and dark. On the wall you can
+see the half-installed control panel. Through the open hatch you can see some
+of the Deutsch lab.
+141200: The only exit is out to the Deutsch lab.
+141304: To set the control panel, you need to specify a number of seconds, for
+example, with 'set panel to 75'.
+141380: You won't be able to set the control panel until you complete the
+modifications.
+141436: You quickly type the number in to the control panel.
+141472: The prototype's control panel only accepts between 1 and 500 seconds.
+141524: You won't be able to set the control panel until you complete the
+modifications.
+141580: You will need to complete the partial modifications to use the
+prototype.
+141632: A silvered button.
+141648: The control panel emits a small beep and the number '0' flashes out at
+you. Perhaps you should set it first.
+141728: You hold your breath and activate the prototype.
+141764: You pause for a moment after pressing the button, carefully
+resynchronizing yourself with the five second turn increments.
+141848: You hold your breath and activate the prototype.
+141884: The button won't work until you complete the modifications.
+141928: The button is set into a vertical surface, making it impossible to
+place objects on top of it.
+141996: You can't make out much of interest from here, just a few benches under
+the shifting blue-violet-green light.
+142076: The interior of the prototype is clad in smooth brushed steel.
+142120: By the thin blue-white beam of your flashlight, you see the crowded
+shelves of the equipment room.
+142190: To the west, the door to the corridor lies open.
+142230: To the west, the door to the corridor stands closed.
+142272: It is almost completely dark. Some faint light spills in from the west
+through the open door, allowing you to just discern the outlines of a series of
+shelves. By the door is a light switch.
+142408: The only exit is westwards, back to the corridor.
+142488: The fluorescent lights flicker hopefully, strobing rapidly across the
+scattered equipment. Then darkness. You blink away the after-images and are
+left with only the faint torchlight.
+142616: The fluorescent lights flicker hopefully, strobing rapidly across the
+scattered equipment. Then darkness. Nothing but a few fleeting after-images of
+the cluttered room.
+142734: By the flickering fluorescent lights, you see the crowded shelves of
+the equipment room.
+142798: To the west, the door to the corridor lies open.
+142838: To the west, the door to the corridor stands closed.
+142880: By the thin blue-white beam of your flashlight, you see the crowded
+shelves of the equipment room.
+142950: To the west, the door to the corridor lies open.
+142990: To the west, the door to the corridor stands closed.
+143032: It is almost completely dark. Some faint light spills in from the west
+through the open door, allowing you to just discern the outlines of a series of
+shelves. By the door is a light switch.
+143168: The only exit is westwards, back to the corridor.
+143248: The lights come on after a brief flicker.
+143280: The lights flicker briefly, then go out, leaving you in the faint
+torchlight.
+143336: The lights flicker briefly, then go out, leaving you in the darkness.
+143388: The shelves are filled with assorted lab equipment, but nothing of use
+to you now.
+143448: You cannot make out any of the objects on the dark shelves.
+143492: The fluorescent tubes flicker brightly.
+143520: You can just make out a dark fluorescent tube in the ceiling above.
+143568: A wide balcony, looking out over the sleeping city. Below you, a lawn
+slopes gently away into the gloom, a few silhouetted trees marking the edge of
+the modest grounds. Above, the clear sky is a deep black, dusted with glinting
+stars.
+143732: The only exits are the door back to the corridor (to the south) and the
+window into the conference room (to the south-east).
+143820: The only exit is the door back to the corridor (to the south).
+143872: The floor is covered in white tiles.
+143900: The trees are some kind of tall conifer, cypress perhaps. You have fond
+memories of dozing under them one afternoon last summer.
+143992: The grounds are little more than a well-kept lawn and a few tall trees,
+but every night the security guard has to give them a brief inspection.
+144092: There is no sign of the security guard.
+144120: The stars are a beautiful spray of glinting jewels in the blackness
+above.
+144172: Outside, it is one of the finest fall nights you can recall.
+144216: Before you, lie the rooftops and skyscrapers of your home town. Here
+and there a small yellow light glows, but for now Boston sleeps.
+144312: A rather slick but soulless affair. A large table of dark polished wood
+takes pride of place and is surrounded by a half-dozen chairs.
+144408: The only exits are the door to the west and the window to the north.
+144472: A rather slick but soulless affair.
+144500: A large round table of dark polished wood.
+144532: Each chair is of a rather elegant, modern design in the same dark wood
+as the table.
+144592: Outside the lab, the street is quiet.
+144628: The waiting place for unrealised items.
+144662: Through the open doors, you can see the quiet grounds. On the right
+hand side is a green button.
+144734: plate glass sliding doors, through which you can see the quiet grounds.
+On the right hand side is a green button.
+144816: To the south is a set of automatic doors leading out into the inky
+night.
+144868: To the south is an open set of automatic doors leading out into the
+inky night.
+144922: The main doors open onto the night.
+144950: Outside, your former self darts quickly towards the main doors. When
+she sees them open, she breaks her stride and lets out a shocked gasp.
+145052: The main doors softly slide closed.
+145104: You cannot open the door with that.
+145208: In the shadows stands your past self.
+145236: On the right hand side is a slot for an ID card.
+145324: In the shadows stands your past self.
+145352: On the right hand side is a green button.
+145384: In the north wall is a closed automatic door.
+145416: To the south is a closed automatic door, leading back to the foyer.
+145464: In the north wall is an open automatic door.
+145496: To the south is an open automatic door, leading back to the foyer.
+145544: You cannot open the door with that.
+145572: There is no obvious way to get the automatic door to open.
+145612: You press the button marked 'first'.
+145724: There is no obvious way to get the automatic door to open.
+145812: In the shadows stands your past self.
+145840: On the right hand side is a slot for an ID card.
+145932: In the shadows stands your past self.
+145960: On the right hand side is a green button.
+145992: To the north is a closed automatic door.
+146020: To the south is a closed automatic door, leading back to the landing.
+146068: To the north is an open automatic door.
+146096: To the south is an open automatic door, leading back to the landing.
+146144: You cannot open the door with that.
+146172: You would need you ID card to do that.
+146252: You would need you ID card to do that.
+146328: In the shadows stands your past self.
+146356: On the right hand side is a slot for an ID card.
+146456: In the shadows of the landing stands your past self.
+146494: On the right hand side is a green button.
+146528: On the north wall lies a closed automatic door.
+146564: To the south is a closed automatic door, leading back to the landing.
+146612: On the north wall lies an open automatic door.
+146644: To the south is an open automatic door, leading back to the landing.
+146692: You cannot open the door with that.
+146772: There is no obvious way to get the automatic door to open.
+146812: A green button beside the door.
+146836: Nothing happens -- the button must be broken.
+146872: The button is set into a vertical surface, making it impossible to
+place objects on top of it.
+146940: A narrow slot to the right of the door. The doors are coded so that
+only those with legitimate business can use their card to gain entrance.
+147036: A simple gray door.
+147052: A simple gray door.
+147068: A gray door with a small glass window, looking into the darkened lab.
+147116: A gray door with a small glass window, looking into the darkened
+corridor.
+147196: In the shadows you can see your past self.
+147260: In the shadows you can see your past self.
+147292: To the south, the door to the upstairs corridor stands closed.
+147336: At the north end of the corridor is a closed glass door leading out to
+the balcony.
+147396: To the south, the door to the upstairs corridor lies open.
+147440: At the north end of the corridor is an open glass door leading out to
+the balcony.
+147496: You swing the crowbar firmly into the door. It shudders, cracks
+reaching out from the point of impact, but the glass stays in place.
+147592: You don't have anything heavy enough to smash the door with.
+147636: The remains of a plate glass window that has been smashed in with
+something heavy. Large shards of glass still protrude from the edges, framing
+the murky interior of the conference room.
+147764: A plate glass window looking into the murky interior of an conference
+room.
+147816: The remains of a plate glass window that has been smashed in with
+something heavy. Large shards of glass still protrude from the edges, framing
+the starry night beyond.
+147932: A plate glass window looking out into the starry night.
+147972: Against the stars, you can just make out the silhouette of your past
+self.
+148028: To the south-east is a large, tinted glass window.
+148064: To the north is a large plate glass window, amazingly intact.
+148108: To the south-east, lie the shattered remains of a window, opening into
+a murky conference room.
+148176: To the north, lie the shattered remains of a window, open to the starry
+night.
+148232: The window appears to be locked from the inside.
+148268: You cannot get the window open with that.
+148300: The window is already thoroughly broken.
+148328: You swing the crowbar firmly into the window and it shatters with a
+loud crash.
+148384: You don't have anything heavy enough to smash the window with.
+148428: You're in.
+
+The plan now is simple: go to your lab, plant the bomb, and
+run. The prototype will be destroyed. The military will have no way to continue
+the experiment. No-one will die.
+
+The guard is out securing the grounds. The
+building is empty. You have six minutes.
+148630: the guard gives the inside corridors a last look before heading out. A
+small sound from the Deutsch lab. He turns.
+148716: Error: unknown door status needing to be set for some reason.
+148760: Back in the Deutsch lab, the debris from the prototype lies smoldering
+on the floor and no past self appears.
+148838: Elsewhere, your past self enters the foyer and smells the bitter smoke
+from a recent explosion.
+148908: You hear muffled singing from somewhere in the building.
+148948: You hear muffled shouting from somewhere in the building.
+149300: From the chilly balcony, your former self looks through the glass door
+and sees you in the shadowed corridor.
+149376: From the upstairs landing, your former self looks through the glass and
+sees you in the shadowed corridor.
+149450: From the second floor corridor, your former self looks through the
+glass door and sees you in the shadowy landing.
+149532: From within the foyer, your former self looks through the glass door
+and sees you in the shadowed corridor.
+149608: From the landing above, your former self looks down and sees you.
+149656: From the first floor corridor, your former self looks through the glass
+door and sees you.
+149720: From the basement landing, your former self looks through the glass
+door and sees you in the shadowed corridor.
+149798: From the basement corridor, your former self looks through the glass
+door and sees you in the shadowy landing.
+149878: From the second floor corridor, your former self looks through the
+glass door and sees you on the chilly balcony.
+149960: From within the darkened conference room, your former self looks out
+and sees you on the chilly balcony.
+150132: In the basement equipment room, your past self switches on the light
+but there is no flicker, for it has already blown.
+150216: This is one of the all time most embarrassing ways to destroy the city
+of Boston.
+151000: Someone appears beside you in the cramped chamber. Soft hair and
+anxious eyes. It is you.
+151066: you see your former self standing before you. Hearing your soft
+footfall, she turns. Horror fills her eyes.
+151146: You turn at the sound of footsteps. It is you.
+151184: Error, former self saw player but neither had moved.
+151224: , your eyes catch upon a figure coming towards you. She pauses, fear
+all about her.
+151284: Hunched inside the prototype, your former self sees you through the
+open hatch.
+151340: As your past self looks around, her eyes catch on something inside the
+prototype.
+151562: A quick noise from behind, then a strong grip on your wrist. The guard
+is back -- time has slipped away from you.
+151648: As the siren shrieks out around you, you catch a glimpse of movement. A
+sudden jolt, then you are wrestled to the ground. Security has arrived.
+151780: It is a large drop and you are not at all sure that you could make it
+without serious injury.
+151846: You hit the ground hard and collapse. Your right ankle sears with pain.
+Before you can stand, you see the security guard running swiftly towards you.
+151982: handcuffs you and forces you into a dark sedan. You speed through the
+chill Boston night, head held in your hands, almost oblivious to the blur of
+the suburbs rushing past.
+152238: The months that follow are a nightmare. Solitary confinement, sleepless
+nights, merciless interrogations. Eventually, you are taken before a civilian
+court and tried for treason. A drawn-out trial, a guilty verdict, prison.
+Ambitions falter and then fade. Still, as the months and then years pass, they
+do not bring the disaster you had so feared and you cling, anxiously,
+longingly, to the dream that it was you who brought this about, that your
+sacrifice was not in vain.
+152574: The days that follow are a nightmare. Solitary confinement, sleepless
+nights, merciless interrogations. All that keeps you going is the small hope
+that your actions were not in vain.
+152706: With your research notes at hand, the military scientists painstakingly
+rebuild the prototype and prepare it for testing.
+152792: The bomb detonates. A wall of force rips through the room with savage
+power, killing you immediately.
+152866: The bomb detonates. You are knocked to the floor by the force of the
+explosion and your ears ring.
+152938: Stunned, you lie prone on the floor as the siren wails and the reek of
+smoke stings your nostrils.
+
+Before you recover your senses, security is upon
+you.
+153050: Across town, the bomb detonates. The explosion tears into your former
+self and she falls lifeless to the ground.
+153188: Across town, the bomb detonates. Your former self is brought to her
+knees by the sudden blast, the horror of understanding written in her eyes.
+153368: The night beckons you from the open doors, but as you rush forwards to
+meet it your hopes fail you -- security has arrived.
+153456: The night beckons you from the open doors, but as you rush forwards to
+meet it your hopes fail you. With the siren shrieking out around you, security
+has arrived.
+153570: You slip out into the night, darting quickly through the Cambridge
+shadows until you reach the quiet corner where you left your car. Exhausted,
+you gently start the cold motor and roll off towards the interstate.
+153720: Days, months, years run by. You find a new name, a new life. Fresh
+challenges are gladly met and life proceeds with full force in its new and
+welcome direction. Only now and then do you stop on a chill starry night and
+wonder whether you were right, what really would have happened.
+153920: Days, months, years run by. You find a new name, a new life. You travel
+abroad. Eventually, you look again at your time-stained research notes and
+think of the possibilities.
+
+The inconsistencies are the key; the freed energy.
+Maybe now, without the shadow of military interests, you could make something
+of this.
+154148: Days, months, years run by. You find a new name, a new life. Fresh
+challenges are gladly met and life proceeds with full force in its new and
+welcome direction. Only now and then do you stop on a chill starry night and
+wonder whether you were right, what really would have happened.
+154348: Days run by. You find a new name, begin a new life. You hope, pray,
+that all you have done will stop them, that the catastrophe will not come.
+154452: With your research notes at hand, the military scientists painstakingly
+rebuild the prototype and prepare it for testing.
+154536: Morning finds you in a truck-stop cafe, near Woodstock, NY. You sit
+there, anxiously watching the morning news as you sip your bitter coffee.
+154640: Morning finds you in a truck-stop cafe, near Woodstock, NY. You sit
+there, anxiously watching the morning news as you sip your bitter coffee.
+154884: Casualties will number in the millions and martial law has been
+declared.
+154936: The military is mobilizing for war with the as yet unknown enemy.
+154982: this morning a catastrophe of unprecedented scale occurred. An immense
+explosion -- that could only have been atomic in nature -- tore through the
+city and suburbs of Boston MA, destroying all in its path. Casualties are
+expected to number in the millions. The President has declared a state of
+emergency across the nation and the military is mobilizing for a possible war
+with the as yet unknown enemy.
+155268: Success and, perhaps, a new hope.
+155980: Written by half sick of shadows for IFComp 2004.
+Beta tested by Stephen
+Bond.
+Special thanks go to those who submitted detailed bug reports and
+suggestions during the competition, notably: Peter Eckersley, Oliver Nash, Hugo
+Thorvaldsen and Evin Robertson.
+
+No rights are reserved by the author: this
+work is in the public domain and may be freely copied and modified.
+156248: The ending will now be in the original, interleaved, style.
+156292: The ending will now be in the standard style.
+156324: It is not clear what you are trying to do.
+156356: You would need to be near the prototype to do that.
+156392: You would need to be near the prototype to do that.
+156428: It is not clear what you are trying to do.
+156484: You hit the ground hard. Maybe you should have used the stairs.
+156532: There is nothing to jump down to.
+156556: There is nothing to climb down to.
+156580: That doesn't seem to be something you can lock.
+156616: That doesn't seem to be something you can unlock.
+156652: You will have to be more specific about your action.
+156772: If you could do that, you wouldn't have built the prototype.
+156816: Indeed you pause for slightly longer than you had planned, carefully
+resynchronizing yourself with the five second turn increments.
+156908: If you could do that, you wouldn't have built the prototype.
+156952: If you could do that, you wouldn't have built the prototype.
+156996: Indeed you pause for slightly longer than you had planned, carefully
+resynchronizing yourself with the five second turn increments.
+157088: your former self hears the muffled sounds of your shouting.
+
+Something
+of an anticlimactic way to kill so many millions of people...
+157184: The button is set into a vertical surface, making it impossible to hold
+it down with another object.
+157256: It is not clear what that is supposed to accomplish.
+157292: The challenge has already been initiated.
+157322: The game is now in its most challenging form. Three key elements have
+been changed to make success considerably more difficult. This challenge is not
+required for a successful completion of the game. It is just here for those
+who, upon finishing, wish there was a little bit more.
+
+If you do want to take
+up the challenge, then remember to initiate this mode each time you begin play.
+157592: The challenge can only be initiated in the first turn.
+157632: The game is now at its standard difficulty.
+157960: give" or test "has" or "hasnt" with a non-attribute on the object
+158008: , but it is longer than 2 bytes so you cannot use "."
+

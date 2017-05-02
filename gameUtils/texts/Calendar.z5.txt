@@ -1,0 +1,278 @@
+23124: Nothing to do!
+23159: o. You have won
+23245: It is now pitch dark in here!
+23272: I beg your pardon?
+23336: Sorry, that can't be corrected.
+23365: Think nothing of it.
+23418: As good-looking as ever.
+23450: You can hardly repeat that.
+23475: You can't begin with a comma.
+23589: I didn't understand that number.
+23618: You can't see any such thing.
+23654: You aren't holding that!
+23695: I'm not sure what "
+23747: That's not a verb I recognise.
+23785: You can't see "
+23892: Nothing to do!
+23909: There are none at all available!
+24759: Please answer yes or no.
+24785: Are you sure you want to quit?
+24830: Failed.
+24849: Restore failed.
+24866: Ok.
+24883: Save failed.
+24898: Ok.
+24942: Transcripting is already on.
+25008: Transcripting is already off.
+25066: Score notification on.
+25087: Score notification off.
+25112: You have visited:
+25142: Objects you have handled:
+25167: None.
+25551: You are carrying nothing.
+25600: Taken.
+25611: You are always self-possessed.
+26176: Dropped.
+26282: Removed.
+26419: You lack the dexterity.
+26504: Done.
+26772: Done.
+26991: Wrahn seem interested.
+27679: You can't go that way.
+28232: But it's dark.
+28249: You find nothing of interest.
+28285: But it's dark.
+28375: You find nothing of interest.
+29494: . Not bad.
+29512: That was a rhetorical question.
+29566: That seems unnecessary.
+29589: Keep your mind on the game.
+29614: What a good idea.
+29633: You smell nothing unexpected.
+29660: You hear nothing unexpected.
+29685: You taste nothing unexpected.
+29720: Keep your hands to yourself!
+29745: You feel nothing unexpected.
+29770: If you think that'll help.
+29878: Oh, don't apologise.
+29908: Quite.
+29977: You achieve nothing by this.
+30064: You wave, feeling foolish.
+30213: You are unable to.
+30232: Nothing obvious happens.
+30282: That's not a direction.
+30305: Not that way you can't.
+30336: Keep your hands to yourself.
+30361: You achieve nothing by this.
+30394: Futile.
+30422: You talk to yourself a while.
+30449: This provokes no reaction.
+30477: There is no reply.
+30496: Nothing is on sale.
+30515: Your singing is abominable.
+30549: Time passes.
+63184: [5: otherwise say "   "]
+63416: [5: otherwise say "   "]
+63648: [5: otherwise say "   "]
+63880: [5: otherwise say "   "]
+64253: [7: say "[line break]"]
+64481: [7: say "[line break]"]
+64709: [7: say "[line break]"]
+64937: [7: say "[line break]"]
+72983: [4: say "[line break]"]
+73076: [6: say "[line break]"]
+73169: [8: say "[line break]"]
+73610: [1: say "I[apostrophe]m"]
+73670: [1: say "it[apostrophe]s"]
+73730: [1: say "I[apostrophe]d"]
+78081: Actions listing on.
+78101: Actions listing off.
+87304: You can't move nothing.
+87342: You can't divide by zero.
+91554: You must name an object.
+91582: You may not name an object.
+91626: You must supply a noun.
+91655: You may not supply a noun.
+91684: You must name an object.
+91738: You must supply a second noun.
+98837: Identification number:
+102086: in" or "notin
+102102: opmhas" or "hasnt
+102244: }" at end of "objectloop
+103764: Score:
+103772: Moves:
+103780: Time:
+103788: You can't go that way.
+104128: Please give one of the answers above.
+104156: [You can't "undo" what hasn't been done!]
+104192: [Can't "undo" twice in succession. Sorry!]
+104232: "Oops" can only correct a single word.
+104260: It is pitch dark, and you can't see a thing.
+104292: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+104352: You seem to want to talk to someone, but I can't see whom.
+104396: To talk to someone, try "someone, hello" or some such.
+104436: I didn't understand that sentence.
+104496: You seem to have said too little!
+104520: You can't use multiple objects with that verb.
+104556: You can only use multiple objects once on a line.
+104592: You excepted something not included anyway!
+104624: You can only do that to something animate.
+104656: That's not something you need to refer to in the course of this game.
+104704: I didn't understand the way that finished.
+104736: Sorry, you can only have one item here. Which exactly?
+104888: Are you sure you want to restart?
+104912: The game file has verified as intact.
+104940: The game file did not verify as intact, and may be corrupt.
+104984: Attempt to begin transcript failed.
+105012: Attempt to end transcript failed.
+105036: You're carrying too many things already.
+105068: You can't put something on top of itself.
+105100: You can't put something inside itself.
+105128: That would scarcely empty anything.
+105184: You can only get into something free-standing.
+105220: But you aren't in anything at the moment.
+105252: You'll have to say which compass direction to go in.
+105292: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+105388: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+105472: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+105648: This dangerous act would achieve little.
+105676: Nothing practical results from your prayer.
+105708: The dreadful truth is, this is not a dream.
+105740: Digging would achieve nothing here.
+105768: You jump on the spot, fruitlessly.
+105796: You would achieve nothing by this.
+105820: There's nothing suitable to drink here.
+105848: But there's no water here to carry.
+105876: Real adventurers do not use such language.
+105908: Violence isn't the answer to this one.
+105936: There's not enough water to swim in.
+105964: There's nothing sensible to swing here.
+105992: That would be less than courteous.
+106016: Is that the best you can think of?
+106040: You lack the nerve when it comes to the crucial moment.
+106080: I don't think much is to be achieved by that.
+106112: You aren't feeling especially drowsy.
+110764: [1: say "[fixed letter spacing]"]
+110898: a    10 then say " "]
+110968: [8: say "[variable letter spacing]"]
+111008: [1: say "[fixed letter spacing]"]
+111142: a    10 then say " "]
+111212: [8: say "[variable letter spacing]"]
+111252: [1: say "[fixed letter spacing]"]
+111386: a    10 then say " "]
+111456: [8: say "[variable letter spacing]"]
+111496: [1: say "[fixed letter spacing]"]
+111630: a    10 then say " "]
+111700: [8: say "[variable letter spacing]"]
+112534: [3: say "Valid years are 1 to 9999."]
+112608: [13: say "Old Style (Julian) calendar? "]
+112870: [3: say "Valid years are 1 to 9999."]
+112994: [13: say "Old Style (Julian) calendar? "]
+113486: [3: say "Valid years are 1 to 9999."]
+113528: [11: say "Old Style (Julian) calendar? "]
+113682: [3: say "Valid years are 1 to 9999."]
+113724: [11: say "Old Style (Julian) calendar? "]
+113878: [3: say "Valid years are 1 to 9999."]
+113920: [11: say "Old Style (Julian) calendar? "]
+114074: [3: say "Valid years are 1 to 9999."]
+114116: [11: say "Old Style (Julian) calendar? "]
+114270: [3: say "Valid years are 1 to 9999."]
+114312: [11: say "Old Style (Julian) calendar? "]
+114466: [3: say "Valid years are 1 to 9999."]
+114508: [11: say "Old Style (Julian) calendar? "]
+114662: [3: say "Valid years are 1 to 9999."]
+114704: [11: say "Old Style (Julian) calendar? "]
+114782: [16: say "All right, then; New Style."]
+114846: 52 then say "Here is the [italic type]New Style[roman type] calendar
+for September 1752:[line break]"]
+114958: 52 then say "If you were looking for the Old Style calendar of this
+month, you should know that the English speaking world switched to the New
+Style calendar on the 14th of September 1752. So the only two dates before the
+switch would be (Old Style) Tuesday the 1st and Wednesday the 2nd. Eleven dates
+(the 3rd through the 13th) were skipped when the switch was made."]
+115232: [26: otherwise say "[line break]"]
+115346: [4: say "Valid years are 1 to 9999."]
+115388: [12: say "Old Style (Julian) calendar? "]
+115582: [3: say "Valid years are 1 to 9999."]
+115624: [11: say "Old Style (Julian) calendar? "]
+115778: [3: say "Valid years are 1 to 9999."]
+115820: [11: say "Old Style (Julian) calendar? "]
+115898: [1: say "All right, wise guy (or gal), just for you I wrote special
+code to allow for the October 1582 changeover."]
+116076: [10: say "[line break] ---There! Satisfied?[line break]"]
+116182: [1: say "Because [i-m] 28 years old and I live with my parents and have
+no job and no girlfriend, and as I write this [i-m] sitting in a house with no
+entertainment to speak of. And [i-m] writing this on a Sunday (as you can tell
+by the serial number: 070805 = August 5, 2007) and there is nothing to do on a
+Sunday, at least this early in the morning, and [it-s] either this or use porn
+and [i-d] rather not use porn on a Sunday if I can find something else to do,
+even something as lame as this. So there."]
+116662: [3: say "Yearly calendars are only available for years from 1753 to
+9999. If you don't like it, write your own program."]
+116838: [7: say "[fixed letter spacing]    January [n][line break]"]
+116936: [11: say "[fixed letter spacing]    February [n][line break]"]
+117116: [15: say "[fixed letter spacing]     March [n][line break]"]
+117180: [18: say "[fixed letter spacing]     April [n][line break]"]
+117244: [21: say "[fixed letter spacing]      May [n][line break]"]
+117308: [24: say "[fixed letter spacing]      June [n][line break]"]
+117372: [27: say "[fixed letter spacing]      July [n][line break]"]
+117436: [30: say "[fixed letter spacing]    August [n][line break]"]
+117500: [33: say "[fixed letter spacing]   September [n][line break]"]
+117566: [36: say "[fixed letter spacing]    October [n][line break]"]
+117634: [39: say "[fixed letter spacing]    November [n][line break]"]
+117702: [42: say "[fixed letter spacing]    December [n][line break]"]
+117770: [45: say "There. All finished."]
+117920: Rules tracing is now switched on. Type "rules off" to switch it off
+again, or "rules all" to include even rules which do not apply.
+118016: Rules tracing is now switched to "all". Type "rules off" to switch it
+off again.
+118076: Rules tracing is now switched off. Type "rules" to switch it on again.
+118128: Scene monitoring is now switched on. Type "scenes off" to switch it off
+again.
+118184: Scene monitoring is now switched off. Type "scenes" to switch it on
+again.
+118384: Too many procedural rules acting all at once.
+118418: Too many rulebooks in simultaneous use.
+118450: Too many timed events are going on at once.
+118616: Too many activities are going on at once.
+118646: Tried to abandon an activity which wasn't going on.
+118686: Tried to end an activity which wasn't going on.
+118724: You can't remove nothing from play.
+118752: Tried to access property for a value which didn't fit:
+128312: I didn't understand that sentence.
+129346: You may not name a second object.
+129374: You may not supply a second noun.
+129402: You must name something more substantial.
+129434: You must name something more substantial.
+129764: rather not use porn on a Sunday if I can find something else to do,
+even something as lame as this. So there.
+129844: sitting in a house with no entertainment to speak of. And
+130048: All right, then; New Style.
+130072: All right, wise guy (or gal), just for you I wrote special code to
+allow for the October 1582 changeover.
+130234: Despite the introductory text, this is not a work of interactive
+fiction. It is an abuse of the programming language Inform 7. More
+specifically, it is a calendar viewer. Try, for example, typing "jan 1970" or
+"august 2007" or "year 2008". Individual months from January of A.D. 1 to
+December 9999 can be viewed, but the yearly calendar function is only available
+for years from 1753 forward.
+130546: If you were looking for the Old Style calendar of this month, you
+should know that the English speaking world switched to the New Style calendar
+on the 14th of September 1752. So the only two dates before the switch would be
+(Old Style) Tuesday the 1st and Wednesday the 2nd. Eleven dates (the 3rd
+through the 13th) were skipped when the switch was made.
+130808: In case you are wondering what possessed me to create such a
+monstrosity as this calendar viewer, type "why".
+130920: Old Style (Julian) calendar?
+130976: There. All finished.
+130992: Valid years are 1 to 9999.
+131014: Yearly calendars are only available for years from 1753 to 9999. If you
+don't like it, write your own program.
+131100: You'll have to say which compass direction to go in.
+131488: give" or test "has" or "hasnt" with a non-attribute on the object
+131536: , but it is longer than 2 bytes so you cannot use "."
+

@@ -1,0 +1,430 @@
+13409: Nothing to do!
+13444: o. You have won
+13528: It is now pitch dark in here!
+13555: I beg your pardon?
+13619: Sorry, that can't be corrected.
+13648: Think nothing of it.
+13701: As good-looking as ever.
+13733: You can hardly repeat that.
+13758: You can't begin with a comma.
+13872: I didn't understand that number.
+13901: You can't see any such thing.
+13937: You aren't holding that!
+13979: I'm not sure what "
+14031: That's not a verb I recognise.
+14070: You can't see "
+14178: Nothing to do!
+14195: There are none at all available!
+15105: Please answer yes or no.
+15131: Are you sure you want to quit?
+15176: Failed.
+15196: Restore failed.
+15213: Ok.
+15231: Save failed.
+15246: Ok.
+15290: Transcripting is already on.
+15356: Transcripting is already off.
+15414: Score notification on.
+15435: Score notification off.
+15458: You have visited:
+15486: Objects you have handled:
+15511: None.
+15895: You are carrying nothing.
+15944: Taken.
+15955: You are always self-possessed.
+16488: Dropped.
+16598: Removed.
+16737: You lack the dexterity.
+16818: Done.
+17084: Done.
+17295: Wrahn seem interested.
+17876: You can't go that way.
+18436: But it's dark.
+18453: You find nothing of interest.
+18489: But it's dark.
+18580: You find nothing of interest.
+19708: . Not bad.
+19726: That was a rhetorical question.
+19780: That seems unnecessary.
+19803: Keep your mind on the game.
+19828: What a good idea.
+19847: You smell nothing unexpected.
+19874: You hear nothing unexpected.
+19899: You taste nothing unexpected.
+19934: Keep your hands to yourself!
+19959: You feel nothing unexpected.
+19984: If you think that'll help.
+20093: Oh, don't apologise.
+20123: Quite.
+20192: You achieve nothing by this.
+20280: You wave, feeling foolish.
+20430: You are unable to.
+20449: Nothing obvious happens.
+20499: That's not a direction.
+20522: Not that way you can't.
+20554: Keep your hands to yourself.
+20579: You achieve nothing by this.
+20612: Futile.
+20641: You talk to yourself a while.
+20668: This provokes no reaction.
+20696: There is no reply.
+20715: Nothing is on sale.
+20734: Your singing is abominable.
+20768: Time passes.
+43653: Grandmaster ACD Owner!
+43678: Junior ACD Owner.
+43711: Owner.
+43722: Experienced ACD Owner.
+44270: OK.
+44322: OK.
+44414: Woof! Woof!
+44716: Woof!
+44727: Woof!
+44826: How the flock did they get here?
+44999: Mmmmmm, liver.
+45038: It is wiser to heed the sign.
+45091: Why would you want to do that?
+45140: A surreal idea.
+45478: Your pen is out of ink.
+45658: Mmmmmm, raw sewage.
+45703: Outside you can see some weeds.
+45767: With what? Your bare hands?
+46195: It smells like a tree.
+46618: Have Fun !!
+49632: An Interactive Heeling
+Copyright (c) 1998 by Mr. WiggleButt.
+
+
+
+
+New
+players should type "HELP"
+49872: Score:
+49880: Moves:
+49888: Time:
+49896: You can't go that way.
+50140: [Your interpreter does not provide "undo". Sorry!]
+50228: Please give one of the answers above.
+50256: [You can't "undo" what hasn't been done!]
+50292: [Can't "undo" twice in succession. Sorry!]
+50332: "Oops" can only correct a single word.
+50360: It is pitch dark, and you can't see a thing.
+50392: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+50452: You seem to want to talk to someone, but I can't see whom.
+50496: To talk to someone, try "someone, hello" or some such.
+50536: I didn't understand that sentence.
+50596: You seem to have said too little!
+50620: You can't use multiple objects with that verb.
+50656: You can only use multiple objects once on a line.
+50692: You excepted something not included anyway!
+50724: You can only do that to something animate.
+50756: That's not something you need to refer to in the course of this game.
+50804: I didn't understand the way that finished.
+50836: Sorry, you can only have one item here. Which exactly?
+50988: Are you sure you want to restart?
+51012: The game file has verified as intact.
+51040: The game file did not verify as intact, and may be corrupt.
+51084: Attempt to begin transcript failed.
+51112: Attempt to end transcript failed.
+51136: You're carrying too many things already.
+51168: You can't put something on top of itself.
+51200: You can't put something inside itself.
+51256: You can only get into something freestanding.
+51288: But you aren't in anything at the moment.
+51320: You'll have to say which compass direction to go in.
+51360: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+51456: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+51540: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+51628: Darkness, noun. An absence of light to see by.
+51716: This dangerous act would achieve little.
+51744: Nothing practical results from your prayer.
+51776: The dreadful truth is, this is not a dream.
+51808: Digging would achieve nothing here.
+51836: You jump on the spot, fruitlessly.
+51864: You would achieve nothing by this.
+51888: There's nothing suitable to drink here.
+51916: But there's no water here to carry.
+51944: Real adventurers do not use such language.
+51976: Violence isn't the answer to this one.
+52004: There's not enough water to swim in.
+52032: There's nothing sensible to swing here.
+52060: That would be less than courteous.
+52084: Is that the best you can think of?
+52108: You lack the nerve when it comes to the crucial moment.
+52148: I don't think much is to be achieved by that.
+52180: You aren't feeling especially drowsy.
+52266: If you're going to swear, use a f***ing swear word.
+52356: Amateur ACD owner. Perhaps you should consider a different breed, or
+maybe some nice goldfish.
+52996: Its your typical red barn. There is a ladder here, which leads up to the
+hayloft
+53088: There are several bales of hay lying about. It looks like this might be
+a good place to hide something, since nobody seems to have been up here for
+quite some time.
+53252: You are standing at the edge of a small pond. The light breeze blowing
+today ripples the surface and makes this a very tranquil area. Towards the
+center of the pond you can see circular ripples which are being made by some
+fish feeding near the surface. Nearby you can see some tracks in the mud that
+were apparently made by the sheep when they come here to drink. There is also
+some other evidence that the sheep stop by here regularly also (namely sheep
+poop)
+53568: A large wooden sign stands besides the pond of cool water.
+53664: Small dark brown and black pellets, some are damp and glossy, while
+others have been here some time and are dried out by now.
+53780: The fish are cold, slimy and appear to be eating insects at the surface.
+53832: The flies are being eaten by the fish.
+53864: Crystal clear, probably drinkable.
+53892: You take a few sips and find the water refreshing.
+53928: The only thing you will get is wet if you don't use a container.
+53976: A long asphalt strip, leading north to Freeblewhizz Road. On the curb
+near the end of the drive is your mailbox.
+54056: Your mailbox is a typical rural type mailbox, which surprisingly happens
+to be located at the end of your driveway. It is green and is attached to a
+post that is about 4 feet high.
+54182: Congratulations
+
+You have been chosen as the winner of a fully trained
+Australian Cattle Dog (you lucky devil). To receive this wonderful prize valued
+at -50000 dollars (dog, food, vet bills, and assorted damages included, taxes
+and registration are extra and will be the responsibility of the owner), all
+you have to do is complete the attached paperwork.
+54442: What would you like your dog's name to be ?
+54478: What color would you like your dog to be ?
+54514: (programmers note)
+ Please answer all questions in order, unless you
+want a dog named "blue" who happens to be colored "Quincy"
+54612: Among the controls that are positioned around the dashboard is a large
+red on/off switch. You realize now, that the artificial woodgrain panels look a
+little cheesy in an electric vehicle, but are glad that you spent the extra
+money on the optional glovebox and the personalized license tags which read
+"COWDOG-1".
+54836: The red car sits here, its motor still running. Making the pleasing
+humming sound of a electric vehicle
+54908: A red "Lectro Car" is parked here.
+54936: Hummm!
+54944: Hrumm!
+54952: Hrummpamm!
+54992: The car rolls very slowly as you push it.
+55024: The ignition switch is a small red knob.
+55056: This is the pen that your Great Grandfather Charlie gave you. The last
+time you saw it was when you registered the car. You must have left it here.
+55744: The key is small and made of brass, it looks like it might be for a
+padlock or something.
+55888: This is Freeblewhiz Road, which happens to be the main road in this tiny
+burgh. The road continues to the north and you can see your driveway back to
+the south. You have just passed milemarker 001
+56028: You just passed milemarker 002 on Freeblewhizz Road. This just happens
+to be the junction of Freeblewhizz & Whizbang.
+56200: You just passed milemarker 003, ahead to the north is a barnyard.
+56248: Whizbang Road mile marker 001.
+56272: You are at the very end of Whizbang Road. There is a narrow path off to
+the south.
+56332: Unfortunately, you did not get the 4 wheel drive version of the "Electro
+Car", so you will have to get out and walk.
+56416: You are walking along a very pleasant path through a wooded area. The
+path continues to the south, and to the north you can see the end of WhizBang
+Road
+56524: You are walking along a very pleasant path through a wooded area. The
+path continues to the south.
+56592: You are walking along a very pleasant path through a wooded area. The
+path comes to a fork here, leading from the north to distinct trails leading
+southeast and southwest.
+56712: The path widens a bit here and continues along a northwest / southeast
+trail.
+56768: The path widens a bit here and continues along a northeast / southwest
+trail.
+56824: You are standing on the edge of a large open field. There are paths
+leading out of this area to the northwest, northeast and the west.
+56984: You are standing on the edge of a large muddy ditch. It smells pretty
+bad here. Far off to the west you can see a wooded area.
+57116: You are on Whizbang Road, which happens to run east and west through
+this area. It is a rather plain road covered in asphalt and in an apparent
+contradiction to it's name, there is absolutely nothing spectacular to look at
+here, in fact the road is sort of boring. You are currently at mile marker 2
+57324: You are on Whizbang Road, which happens to run east and west through
+this area. It is a rather plain road covered in asphalt and there is absolutely
+nothing spectacular to look at here. Off to the west you can see a small
+building.
+57552: yroaming, running and retching). However in recent years the facility
+has fallen into a state of disrepair, and is currently overgrown with weeds.
+The front door and window both appear to have been nailed shut. Off to the
+south you can see a wooded area.
+57728: Inside you can see some broken appliances.
+57788: You can't. The window is nailed shut
+57816: You already broke it with the frisbee, closing it would serve no useful
+purpose.
+57872: The windows are already sealed tight.
+57984: A bright pink frisbee, about 12 inches in diameter.
+58024: The frisbee sails off into the distance.
+58180: Wigglebutt's was once a single room schoolhouse for dogs. Most of the
+room has been trashed by visiting dogs, but for some odd reason, there is a
+refrigerator against the wall, which appears to be still running (odd, since no
+one has paid the electric bill for about 3 years).
+58410: Why would you want to do such a stupid thing ?
+58448: The refrigerator is a large, white side by side model.
+58488: An ice cold bottle of beer. It sure would taste good right now
+58640: You are in a small wooded area, there are several trees here, mostly
+oaks, with a few maples. It is fairly quiet here, but you can hear a chattering
+noise high above in the trees.
+58904: The tree is very large, and you would need a chainsaw or an axe first.
+58956: It smells like a tree, but vaguely reminds you of waffles.
+59000: It is a very tall tree, and if you did climb it, you might fall and hurt
+yourself.
+59060: The oak trees reach high above you sunlight gently shines through the
+branches and dapples the ground beneath your feet. The chattering noise seems
+to be coming from this tree
+59180: The tree is very large, and you would need a chainsaw or an axe first.
+59232: It is a very tall tree, and if you did climb it, you might fall and hurt
+yourself.
+59292: The animal appears to be small and gray. It has 4 feet attached to it's
+body and a long bushy tail
+59364: The squirrel looks at you and makes a chattering noise.
+59528: Well as fully trained as they get anyway....
+59656: Frankly, your bare hands will do the job.
+59688: Look I know you got this game from the Internet, but beastiality is
+pretty sick.
+59746: "It's a Dogs Life" is a text adventure game. You interact with the game
+by typing phrases like EXAMINE SHEEP or EAT COOKIE and the game will respond by
+describing the world around you and the results of your actions.
+60134: In some locations IN or OUT work. You can also ENTER or CLIMB things.
+60342: You can tell the game to always give the full description by entering
+VERBOSE.
+60404: You interact with the environment in many ways. You GET items to pick
+them up and DROP items to put them down. You can also PUT items IN things or
+GET items FROM others. Fairly complex sentences are possible, for example GET
+THE HAMMER FROM THE TOOL BOX THEN HIT THE WINDOW WITH THE HAMMER is a valid
+input (assuming that there happens to be a tool box with a hammer in it
+nearby).
+60718: You may encounter people or other creatures while exploring the world of
+the game. You can ask these people questions by typing ASK person ABOUT topic
+and tell them things by saying TELL person ABOUT topic. You can also SHOW them
+things. You can ask them to do things with PERSON, COMMAND. For example, to ask
+a character named Jack to get the keys type JACK, GET THE KEYS.
+61080: ) To get a list of everything you are carrying type INVENTORY (or I).
+Some other useful commands you can try are PUSH, SEARCH, SHAKE, THROW, RUB,
+KICK, CLIMB or READ. A part of any text adventure is learning what words the
+game knows "It's a Dogs Life" knows hundreds of common words (and a few not so
+common and X-rated ones), so feel free to try anything.
+61886: General Appearance
+
+The general appearance is that of a sturdy, compact,
+symmetrically-built working dog. With the ability and willingness to carry out
+any task however arduous, its combination of substance, power, balance and hard
+muscular condition to be such that must convey the impression of a great
+agility, strength and endurance. Any tendency to grossness or weediness is a
+serious fault.
+62166: Characteristics
+
+The utility purpose is assistance in the control of
+cattle, in both wide open and confined areas. Ever alert, extremely
+intelligent, watchful, courageous and trustworthy, with an implicit devotion to
+duty, making it an ideal dog. Its loyalty and protective instincts make a
+self-appointed guardian to the stockman, his herd, his property. Whilst
+suspicious of strangers, must be amenable to handling in the show ring.
+62474: Head
+
+The head, in balance with other proportions of the dog, and in
+keeping with its general conformation, is broad of skull, and only slightly
+curved between the ears, flattening to a slight but definite stop. The cheeks
+are muscular, but not coarse nor prominent, the underjaw is strong, deep and
+well- developed. The foreface is broad and well filled in under the eye,
+tapering gradually to a medium length, deep and powerful muzzle. The lips are
+tight and clean. The nose is black irrespective of the color of the dog.
+62844: Teeth
+
+The teeth should be sound, strong, and regularly spaced, gripping
+with a scissors-like action, the lower incisors close behind and just touching
+the upper. Not to be undershot nor overshot.
+62986: Eyes
+
+The eyes should be oval shaped of medium size, neither prominent
+nor sunken, and must express alertness and intelligence. A warning or
+suspicious glint is characteristic. Eye color is dark brown.
+63132: Ears
+
+The ears should be of moderate size, preferably small rather than
+large, broad at the base, muscular, pricked and moderately pointed (not spoon
+nor bat eared). Set wide apart on the skull, inclined outwards, sensitive in
+their use, and firmly erect when alert. The inside of the ear should be fairly
+well furnished with hair.
+63368: Neck
+
+The neck is of exceptional strength, muscular, and of medium
+length broadening to blend into the body and free from throatiness.
+63466: Forequarters
+
+The shoulders are broad of blade, sloping, muscular and
+well angulated to the upper arm, and at the point of the withers should not be
+too closely set. The forelegs have strong round bone, extending to the feet
+without weakness at the pasterns. The forelegs should be perfectly straight
+viewed from the front, but the pasterns should show a slight angle with the
+forearm when regarded from the side.
+63756: Hindquarters
+
+The hindquarters are broad, strong and muscular. The rump
+is rather long and sloping, thighs long, broad and well-developed, with
+moderate turn to stifle. The hocks are strong and well let down. When viewed
+from behind, the hind legs, from the hocks to the feet, are straight and placed
+neither close nor too wide apart.
+63994: Feet
+
+The feet should be round and the toes short, strong, well-arched
+and held together. The pads hard and deep, and the nails must be short and
+strong.
+64110: Body
+
+The length of the body from the point of the breast bone, in a
+straight line to the buttocks, is greater than the height at the withers, as 10
+is to 9. The topline is level, back strong, with ribs well sprung and ribbed
+back. (Not barrel ribbed.) The chest is deep and muscular, and moderately
+broad, loins are broad, deep and muscular with deep flanks strongly coupled
+between the fore and hindquarters.
+64404: Tail
+
+The set on of the tail is low, following the contours of the
+sloping rump, and at rest should hang in a slight curve of a length to reach
+approximately to the hock. During movement and/or excitement it may be raised,
+but under no circumstances should any part of the tail be carried past a
+vertical line drawn through the root.
+64636: Coat
+
+The weather resisting outer coat is moderately short, straight and
+of medium texture, with short dense undercoat. Behind the quarters the coat is
+longer, forming a mild breeching. The tail is furnished sufficiently to form a
+good brush. The head, forelegs, hind legs from hock to ground, are coated with
+short hair.
+64864: Color (Blue)
+
+The color should be blue or blue-mottled with or without
+other markings. The permissible markings are black, blue or tan markings on the
+head, evenly distributed for preference. The forelegs tan midway up the legs
+and extending up the front to the breast and throat, with tan on jaws; the
+hindquarters tan on inside of hind legs, and inside of thighs, showing down
+from the front of the stifles and broadening out to the outside of the hind
+legs from hock to toes. Tan undercoat is permissible on the body providing it
+does not show through the blue outer coat. Black markings on the body are not
+desirable.
+65298: Color (Red Speckle)
+
+The color should be a good even red speckle all
+over including the undercoat (not white or cream) with or without darker red
+markings on the head. Even head markings are desirable. Red markings on the
+body are permissible but not desirable.
+65488: Size
+
+The desirable height at the withers to be within the following
+dimensions: Dogs 18 to 20 inches. Bitches 17 to 19 inches. Dogs or bitches over
+or under these specified sizes are undesirable.
+65634: Movement
+
+Soundness is of paramount importance. The action is true,
+free, supple and tireless, the movement of the shoulders and forelegs with the
+powerful thrust of the hindquarters, in unison. Capability of quick and sudden
+movement is essential. Stiltiness, loaded or slack shoulders, straight shoulder
+placement, weakness at elbows, pasterns or feet, straight stifles, cow or bow
+hocks, must be regarded as serious faults.
+

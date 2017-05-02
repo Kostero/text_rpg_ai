@@ -1,0 +1,655 @@
+24057: Nothing to do!
+24202: It is now pitch dark in here!
+24229: I beg your pardon?
+24293: Sorry, that can't be corrected.
+24322: Think nothing of it.
+24370: You can hardly repeat that.
+24395: You can't begin with a comma.
+24437: You can't talk to #o#.
+24488: I didn't understand that number.
+24517: You can't see any such thing.
+24553: You don't have that.
+24593: I'm not sure what "
+24645: That's not a verb I recognise.
+24684: You can't see "
+24792: Nothing to do!
+24809: There are none at all available!
+25123: No such object exists.
+25146: No such room exists.
+26227: There is no reply.
+26246: Violence won't help matters.
+26311: Nothing is on sale.
+26574: Dropped.
+26699: qxn#A# eat#s# #o#. Not bad.
+26832: That isn't possible.
+27433: You'll have to open #o# first.
+27749: But there's no liquid here.
+28179: That was easy.
+28223: No movement to continue!
+28843: Keep your mind on the game.
+28875: That would be difficult.
+29072: Wdoxn#A# lock#s# #o#.
+29351: But it's dark.
+29402: That was a rhetorical question.
+29632: Aqxn#A# #has# better things to do.
+29727: There is no reply.
+29885: Nothing obvious happens.
+29957: Not that way #a-s# can't.
+30230: Please answer yes or no.
+30256: Are you sure you want to quit?
+30301: Failed.
+30321: Restore failed.
+30338: Ok.
+30387: Save failed.
+30402: Ok.
+30509: Transcripting is already off.
+30575: Transcripting is already on.
+30641: But it's dark.
+30914: Oh, don't apologise.
+30984: And so's your mother!
+31005: There's nowhere to do that here.
+31198: Taken.
+31546: Taking #o# is impossible.
+31567: What a fascinating concept.
+31663: This provokes no reaction.
+31688: You'll have to do that yourself.
+31724: Futile.
+31745: That would be pointless.
+31776: That might not be appreciated.
+31834: If you think that'll help.
+32021: Time passes.
+32061: That seems unnecessary.
+32093: Hi!
+46835: Weohn
+#A# enter#s#.
+66539: Press a key to exit.
+67913: You can't see any such thing.
+68553: What fruit?
+69537: Biggs' lifeless body lies here.
+69983: Biggs cries, "Oww. My leg!!".
+70364: Biggs smells funny.
+70863: The bear giggles.
+71320: Sometimes it's fun to giggle!
+71365: You can't see any such thing.
+71478: You can't see any such thing.
+71512: How would you use those here?
+71650: Exits are:
+71720: Topic parsing error.
+73340: in" or "notin
+73356: opmhas" or "hasnt
+73498: }" at end of "objectloop
+75456: Array overflowed with formatted text.
+75696: Score:
+75704: Moves:
+75712: Time:
+75720: You can't go that way.
+75976: [Your interpreter does not provide "undo". Sorry!]
+76064: Please give one of the answers above.
+76092: [You can't "undo" what hasn't been done!]
+76128: [Can't "undo" twice in succession. Sorry!]
+76168: "Oops" can only correct a single word.
+76196: It is pitch dark, and you can't see a thing.
+76228: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+76288: You seem to want to talk to someone, but I can't see whom.
+76332: To talk to someone, try "someone, hello" or some such.
+76372: I didn't understand that sentence.
+76432: You seem to have said too little!
+76456: You can't use multiple objects with that verb.
+76492: You can only use multiple objects once on a line.
+76528: You excepted something not included anyway!
+76560: That can only be done to something animate.
+76592: That's not something you need to refer to in the course of this game.
+76640: I didn't understand the way that finished.
+76672: Sorry, you can only have one item here. Which exactly?
+76844: This dangerous act would achieve little.
+76908: Digging would achieve nothing here.
+76936: There's nothing suitable to drink here.
+76992: You'll have to put #o# down first.
+77020: Darkness, noun. An absence of light to see by.
+77124: But #a-s# #is#n't in anything at the moment.
+77160: There don't appear to be any exits.
+77188: But #he's# not on #o# at the moment.
+77368: You'll have to say which compass direction to go in.
+77512: That's not a place #a-s# #has# been.
+77604: is now in its normal "brief" printing mode, which gives long
+descriptions of places when they are first entered.
+77684: is now in its "verbose" mode, which always gives long descriptions of
+locations.
+77744: is now in its "superbrief" mode, which always gives short descriptions
+of locations.
+77804: First #a-s# will have to close #o#.
+77856: That would be less than courteous.
+77880: Is that the best you can think of?
+78144: Are you sure you want to restart?
+78168: Attempt to end transcript failed.
+78192: Attempt to begin transcript failed.
+78292: That would hardly be appropriate.
+78316: There's nothing sensible to swing here.
+78500: The game file has verified as intact.
+78528: The game file did not verify as intact, and may be corrupt.
+78952: As good-looking as ever.
+79040: You are standing amidst the snow covered trees of Burly Forest, looking
+upward to the mountain you're delaying climbing.
+79196: Chickening out? That's okay. This game was probably boring anyway. Why
+not go down to your local Tandy store and see what kinds of new products are
+available?
+79308: The snow covered trees of Burly forest dot the otherwise uneventful
+landscape.
+79364: Rocky holds push their way out of this incline here and there, making it
+a little less of an incline and a little more of a climb. The foot of the
+mountain is a fair way down from here. Up above you, you can see a nice (much
+more comfortable) plateau you'd rather be standing on.
+79560: The mountain is impassable in that direction.
+79604: From here, it feels as though you could reach down and touch the foot of
+the mountain. But you'd rather not.
+79680: It's rather cloudy here.
+79698: The cloud cover here has become quite dense.
+79736: A cluster of dark clouds has gathered over the sky here.
+79776: Clouds shift away, revealing a clear blue sky.
+79812: Dark clouds move in overhead, obscuring the otherwise clear sky.
+79860: Up above you is a much flatter point where the mountain plateaus.
+79908: It's rock hard and stone-like.
+79932: You're using the holds to climb your way up (or down) the mountain.
+They're deceptive in size, and can often shelter plant life, animals and
+sometimes Tandy computers inside them.
+80060: You're using the holds to climb your way up (or down) the mountain.
+They're deceptive in size, and can often shelter plant life and animals inside
+them.
+80168: The metal tweezers are cold to the touch and look ... useful.
+80212: Sort of an intersection of treacherous climbs, this plateau disappears
+into a more rubble-like path around both the east and west sides of the
+mountain. A brief sigh of lack of accomplishment falls upon you as you look up
+to see how much of the mountain you've yet to climb. You know, you could always
+go back down.
+80432: The mountain is impassable in that direction.
+80484: Although mostly rubble, the path looks quite easy to cross.
+80528: This is certainly the more rocky side of the mountain. However, you're
+not terribly sure about the narrow ledge you're now standing on. It looks as
+though it could collapse at any moment. You'd much rather be east or west of
+here, where the ledge widens out.
+80712: This is certainly the more rocky side of the mountain. A large amount of
+the ledge here has collapsed, making it harder to cross to either the east or
+west.
+80820: The mountain is impassable in that direction.
+80864: Just your average red cloth. Never know when it might come in handy.
+80916: This is a rather odd little mountain village, nestled in what seems like
+a small valley. Huts gather in a circle around the coals of an unlit open
+fireplace. You can't continue your climb here, you'll have to head back east to
+the plateau.
+81082: The natives here seem almost scared of you.
+81118: You seem to have interrupted some sort of tribal dance. Silence falls
+upon the village as dozens of eyes turn to you and your injured companion
+Biggs.
+
+Calmly, what appears to be a witchdoctor of the tribe approaches Biggs.
+Examining his leg, the witchdoctor takes a small fruit from around her neck and
+squeezes it over the wound. Almost magically, Biggs' gaping wound closes up
+tight, saving his life. Shocked and amazed, you watch as Biggs stands up on
+both legs and appears perfectly healthy.
+
+Over the coming weeks, you spend much
+time in the village, learning the language and customs of the tribal people.
+Eventually, you manage to communicate your amazement at the witchdoctor's
+lifesaving act and convince the tribesmen to allow you to take several of the
+miracle fruits back home with you. You arrive to unsurpassed fame as the
+discoverer of both a long lost civilisation and a miracle cure for severe
+bleeding of the leg. Biggs stays with the village after falling hopelessly in
+love with the witchdoctor.
+81826: It appears you've walked in on the weekly human sacrificial ceremony of
+the mountain natives. There aren't many natives here (possibly because of their
+weekly sacrifices), but they look fierce and stereotypically bone-nosed. One
+particularly fierce looking native stands and blocks your path back east. He
+then utters some jibberish which sounds not unlike "Any last words?".
+82096: There's a big, bulky native guard blocking your path.
+82136: The mountain is impassable in that direction.
+82168: The borders of the village prevent you from travelling in that
+direction.
+82218: Unable to hold back the natives any longer, and figuring that nobody's
+going to hear you at this point, you start screaming like a girl! After that,
+the natives invite you to visit their god. So, they put you on their God
+visiting table and perform a few special rituals which tickle!
+82420: Unable to hold back the natives any longer, and figuring that nobody's
+going to hear you at this point, you start screaming like a girl! How
+humiliating, being sacrificed to the heathen god of the mountain natives.
+82572: The huts are primitive, but a viable shelter for the native people of
+these parts. The roofs of them are thatched.
+82652: The fireplace looks recently used. One patch of it is still smouldering.
+82704: The plateau looks like a good place to be right now.
+82740: For all it's worth, they seem to add a sense of culture to the place.
+82808: Tall, thin trees surround this clearing on the mountainside. Every now
+and then brightly coloured fairies flicker amongst them. The almost forest area
+gives way to a path leading up the mountain and thins out to both the east and
+west.
+82970: Tall, thin trees surround this clearing on the mountainside. Every now
+and then flashing lights will flicker amongst their trunks. There's something a
+little strange about this area. It couldn't be fairies, they don't exist, do
+they? The almost forest area gives way to a path leading up the mountain and
+thins out to both the east and west.
+83212: Faintly, you can here peculiar voices singing merrily, "We live on top
+of a magic tree, magic tree, magic tree!".
+83300: The mountain is impassable in that direction.
+83332: The mountain is impassible in that direction.
+83364: The mountain is impassible in that direction.
+83396: Hmm... looking carefully downwards, you manage to find a navigatable
+route. Awkwardly, you tumble down...
+83476: You talk to the flickering lights, but they don't talk back.
+83520: Beautiful specimens of pine trees dot the surrounds of this clearing.
+83568: You could have sworn you saw something flicker in the trees.
+83616: The path to the east ends in a small cave. Cautiously, you enter. Before
+you stands the most amazing sight! It's stacked to the cave ceiling with
+glories gold trophies of assorted kinds! Golden bricks, vases and lamps just to
+name a few. You can see twinkling lights in a clearing back to the west.
+83826: Suddenly, masses of bright light swarm in from the west. Before you have
+time to react, the lights take all the non-gold bits out of your body and turn
+you gold. As the world fades away to black, you can't help but think how fun
+this is!
+83996: Suddenly, masses of bright light swarm in from the west. Before you have
+time to react, the lights drill painfully through your body. As the world fades
+away to black, you hear a harmonious chant over and over:
+
+Pesky human
+adventurer;
+You'll become our treasure!
+
+It appears you weren't the first to
+make this mistake.
+84228: Your ring glows brightly for a fleeting moment. You feel reassured.
+84276: This cave only has one exit to the west.
+84304: It must be the mountain air playing tricks on your eyes. You're sure you
+saw something flicker.
+84372: Piles of fabulous treasures are stacked here.
+84404: The piles of shiny vases, gold bricks, lamps and other trophies just
+make you want to take them. Take them!
+84480: As you reach for the treasure, you feel a strange sensation tingle up
+your right forearm. Looking down you notice that your hand has stiffened and
+turned to gold! As you stand there helpless, you
+84616: .
+
+It appears you may look but not touch, regarding the cave of riches.
+84668: Besides, why do you need all that silly gold when you've got a Tandy?
+84724: This area is certainly well hidden. Up above you, you can barely make
+out the clearing from where you came. Other than that, you can't really say
+much about this secret enclave. The view is magnificent.
+84868: The mountain is *really* impassable in that direction.
+84912: Below you is a running river of icy cold water. Shards of icebergs float
+downstream.
+84972: Above you, you see the deceptive hidden path you travelled along to get
+here from the clearing above.
+85044: This curious looking tree bares a single small, round fruit.
+85088: The curious looking tree is completely bare.
+85120: The curious little fruit seems to glow in your hand. You sense that it
+is either very magical, or dangerous and should be dropped. Or both!
+85220: The curious little fruit glows rhythmically.
+85252: As you eat the glowing fruit, you feel refreshed and renewed inside, as
+if by some magical force. Before you realise, you've eaten the entire fruit.
+Boy, that really tasted delicious!
+85384: You already picked the only fruit from this tree.
+85420: You deftly pluck the single fruit from the tree.
+85454: As you squeeze magical juice from the fruit, the liquid is absorbed by
+Biggs' leg. Amazingly, you watch as Biggs' leg is completely healed before your
+eyes. Even more surprisingly, Biggs appears completely healed as he gets up
+from the ground.
+85630: As you squeeze magical juice from the fruit, the liquid is absorbed by
+Biggs' leg. Amazingly, you watch as Biggs' leg is completely healed before your
+eyes. Even more surprisingly, Biggs appears completely healed as he gets up
+from your arms.
+85804: You squeeze the glowing juices from the fruit. The fruit disappears as
+the juices fall to the ground. You feel as though you might have missed
+something. Never mind, we just won't tell anyone about this.
+85948: Strange, after you squeeze the fruit, the villagers approach you as
+though they aren't scared anymore. Wait a minute, they *aren't* scared anymore!
+They close in...
+86074: It appears they've decided to include you in their weekly human
+sacrificial ceremony. One particularly fierce looking native stands and blocks
+your path back east. He then utters some jibberish which sounds not unlike "Any
+last words?".
+86260: You're standing along an obvious trail between the grove below and the
+top of the mountain above. It's a little rocky here, but not unclimbable. Well,
+not for an over inflated ego such as your own. A flat, passable track branches
+off here to the east.
+86436: The mountain is impassable in that direction.
+86468: Wide and flat, the branching track looks very easy to navigate.
+86512: Climbing up the mountain, you notice that there's very little mountain
+left to climb. In fact, pretty soon there's none. At last! You've conquered
+Burly Mountain. See, it wasn't that hard, was it? Actually, maybe it was a
+little to easy. Nah, let's bask in the glory.
+86720: Many winter snowfalls have taken their toll on this traverse. Hard,
+easily grippable rock has given away to a mostly smooth icy surface. Stray from
+the path here, and you'll most likely fall to your icy death. You shudder as
+you imagine sliding helplessly downward.
+86904: Gripping the rock with all your might, you attempt to scale the iced up
+rocks. Unfortunately, your foot slides awkwardly, causing you to plummet
+happily through the sky to a trampoline below. You have so much fun bouncing
+all day, you just can't be bothered climbing anymore.
+87096: Gripping the rock with all your might, you attempt to scale the iced up
+rocks. Unfortunately, your foot slides awkwardly, causing you to plummet
+through the sky to the ground below. Twitching on the ground, physical injuries
+overcome you.
+87264: You nearly slipped and fell. You can't go that way from here.
+87308: Piles of snow litter the otherwise dangerously flat ice.
+87364: You feel like you've climbed most of the mountain up here, and in
+reality, you probably have. Just above you, you can see what appears to be the
+highest point of Burly Mountain. Below you lies a slippery slope which looks
+dangerously icey. To the west is a well-beaten walking trail.
+87564: The mountain is impassable in that direction.
+87596: You'd like to climb higher, but you're afraid that the large brown bear
+wouldn't agree with that course of action.
+87676: It's just about within your reach.
+87704: You'll need to get rid of that pesky bear first, however.
+87748: The slope below is a death trap waiting to take you express down the
+mountainside.
+87804: Covered in loose stones, the walking trail leads west and slopes
+downward.
+87856: At last, you've finally done it. You've scaled the entirety of Burly
+Mountain! You take in the absolutely awe inspiring views of Burly's smaller
+peaks that surround you. But all too soon, you long for home and the chance to
+tell all of your peers how you scaled the toughest mountain terrain ever seen
+by man! (Even if it wasn't that tough anyway. *wink*)
+88112: Oh, and somewhere along the line Biggs was invovled. I don't know...
+carrying all of your supplies and rations. Something trivial like that.
+88236: The mountain is impassable in that direction.
+88268: This brisk little path extends from east to west, sloping downward to
+the west. The path is flat and easy to navigate. It's almost impossible to
+believe that it wasn't manmade. Turning to the east, looking over the plateau
+gives you an excellent view of the mountain range.
+88460: The plateau to the east looks out over lush valleys and forests below.
+88508: The mountain is impassable in that direction.
+88550: You're standing midway along an oddly flat walking trail. In the centre
+of the trail here are three stone monuments. All three are are roughly cube
+shaped, but worn with time. How silly the look just sitting here, fixed in
+place. The trail continues out to both the east and the west.
+88752: The odd little seats are fixed obstacles along this mountain path.
+88800: Not at all marvellous, the stone monuments sit at about the height of
+three awkward little seats. In fact, you could probably sit on them.
+88896: You sit down on one of the three stone monuments.
+88932: There is a slight rumble from around the monuments.
+88970: The earth shakes a little near the monuments.
+89006: There is a pronounced rumbling from near the monuments.
+89048: The entire area begins shaking violently! Biggs fervently graps one of
+the monuments, and you to the same. The rock is thrown and smashed!
+
+As the
+mild earthquake subsides and the monuments finish their rumbling, you pick
+yourself up, dust yourself off and make out to Biggs that you planned things
+that way. Looking down, you notice a brass ring that wasn't there before.
+89312: Revealed from your meddling with matters arcane, this ring seems to hold
+a certain unseen power. Engraved on the band are the words, "TO PROTECT".
+89444: The mountain is impassable in that direction.
+89476: This brisk little path extends from east to west, sloping downward to
+the west. The path is flat and easy to navigate. It's almost impossible to
+believe that it wasn't manmade. To the west, you can see a mountain ridge.
+89632: Looking west, you see this walking trail intersect with an upper ridge
+of the mountain.
+89692: You shout madly at Biggs' corpse, hoping he's just unconcious, but to no
+avail.
+89752: Biggs replies, "This is all your fault, Hikerson!".
+89792: Biggs replies, "I hope there's a decent cure for gaping leg wounds.".
+89844: "I promise I won't stumble again.", Biggs pledges.
+89928: .", Biggs replies. Biggs in now sitting on one of the monuments.
+89976: "Alright, I'll get off. Sitting here is boring anyway.", claims Biggs.
+90032: "I'm a little bit hungry.", says Biggs.
+90108: . Though, legends say that fairies are attracted by laughter.", Biggs
+suggests.
+90168: "I suggest we head upward", notes Biggs.
+90232: "I'm probably more tired than you are.", says Biggs.
+90272: Biggs seems a little more comfortable on the monuments, but still in
+obvious pain.
+90332: Biggs is so happy to be adventuring, he's writhing all over the ground!
+What a funny fellow.
+90400: Biggs is writhing along the ground in pain, struggling to move.
+90448: Biggs is sitting here, legs crossed.
+90476: Biggs is standing by you, always supportive.
+90508: Biggs is standing here, tired and impatient.
+90540: Biggs isn't as active as he used to be. Maybe because he's so busy in
+hiking companion heaven. Gee you'll miss him!
+90624: Biggs has a really BIG boo-boo on his leg! If you don't fix it soon,
+Biggs might start to cry.
+90696: On all of your mountain climbing expeditions, you've always taken Biggs.
+He's reliable, almost maintenance free, but most importantly, he's your best
+friend. Golly gosh, he's just such a good friend and quite the
+conversationalist.
+90864: Biggs' lifeless body lies motionless on the ground. In a way, you're
+kind of glad to be free from all that constant chatter and nagging. In fact, in
+you're glad in every way! More glory for
+91000: Biggs' leg is torn and battered, but other than that, he seems his usual
+impatient, nagging self. His eyes look pale though, and he's lost a lot of
+blood. You feel as though you should do something to help.
+91148: On all of your mountain climbing expeditions, you've always taken Biggs.
+He's reliable, almost maintenance free, but most importantly, he's ugly. Thin
+and lanky with a wirey moustache, he looks rather like a ringmaster. It's safe
+to say that as far as looks go, he poses absolutely no competition to you.
+(Rather important for when you're chasing after highly attractive native girls
+of the mountains of the world.)
+91444: You kick Biggs' corpse a little. Come on! He was painful to have around.
+91500: "Oww!", cries Biggs, "Sir, that hurts. Above the waist, please!".
+91556: You can't carry Biggs' corpse. It feels far too morbid an act. Besides,
+he
+91612: With a superhuman effort, you struggle, but manage to carry all of Biggs
+weight.
+91672: Biggs chuckles, "You know there's know need of that sir, I'm perfectly
+capable of moving myself around!".
+91750: Biggs asks you gaspingly to help quickly.
+91784: Biggs moans, "Where? Is that you mother?". He must be delusional!
+There's not much time.
+91856: Biggs stops breathing. *sigh* Oh well. You give him a big kiss and say
+"I'll miss you Biggs!", or something like that. Biggs says, "I'll miss you too,
+91976: .", *croak*. Oh boy, this'll make a great story for the folks back home
+when you return. You leave his lifeless body to rest on the ground.
+92082: Biggs breathing becomes more shallow. You give Biggs a slight shake to
+get him talking (complaining) again. Nothing. "Biggs!", you cry, "Biggs!!".
+Biggs' eyes roll back in his head. Your only companion on this hike died in
+your own arms! Oh boy, this'll make a great story for the folks back home when
+you return. You leave his lifeless body to rest on the ground.
+92352: You turn to Biggs to check on him. His leg is twitching a little less
+than usual, he must be really sleepy. Oh well, you turn away and let him have a
+snooze.
+92466: You turn to Biggs to check on him. His leg is twitching a little less
+than usual, perhaps the pain has finally settled down. Oh wait! He's not
+breathing either! Oh no! Poor Biggs' leg wound was fatal! Perhaps you should
+have done more to help him. Nah, who needs him?
+92664: Biggs is his usual indefensible self.
+92692: Poor old Biggs follows you, panting heavily.
+92726: "Hoo, we're going to be boiled in oil by these natives, I can just feel
+it, sir", Biggs hypothesises.
+92804: Biggs seems more nervous than you are. Of course he's more nervous,
+you've got a brilliant escape plan! Haven't you?
+92890: You're pretty sure Biggs has messed himself.
+92926: Biggs exclaims, "Hoo boy! I sure love climbing!".
+92968: Biggs seems more than a little puffed.
+92996: Biggs pants, "We sure have climbed a lot today sir, haven't we?".
+93048: "I think I lost my sense of adventure back there. We'll have to turn
+'round!", Biggs declares.
+93120: With somewhat undue eagerness, Biggs races past you. Clumsily, he slips
+and tumbles on the ledge. Suddenly piles of big cushy foam rocks tumble down on
+him. He giggles, "This tickles! Oh drat, my leg!".
+
+Oh dear, it appears Biggs
+has got a nasty boo-boo on his leg. Bother!
+93324: With somewhat undue eagerness, Biggs races past you. Clumsily, he slips
+and tumbles on the ledge. Suddenly piles of rocks cascade down upon him. He
+screams in agony as shards of the mountain tear apart his leg!
+
+Hmm... you
+can't decide whether you should assist Biggs with his now broken leg or go on
+to claim greater glory for your "solo" expedition.
+93576: The small pink fairy that you seem to have befriended flutters aimlessly
+amongst the clearing.
+93644: "There should be more colours! Oh, and balloons, everyone likes
+balloons!", the fairy replies.
+93716: "Talking is boring! Let's play tickles.", the fairy suggests.
+93764: The fairy notes, "Humans, of all the creatures on Earth, are generally
+fatter.".
+93824: The fairy says, "Why, I talk to the flowers all the time!".
+93872: "There should be more colours! Oh, and balloons, everyone likes
+balloons!", the fairy replies.
+93944: "While we're standing here, the world is going round and round and
+round.", claims the fairy.
+94012: The fairy replies, "You seem like a nice enough fellow, come visit our
+magical treasure cave to the east any time!". Wow. You sure are a charmer.
+94120: The fairy says, "Why, I talk to the flowers all the time!".
+94224: . I don't know, maybe you're sick.
+94252: Take a ball of light. Give it a little too much mental freedom and
+you've got a fairy. It's so sparkly!
+94328: Take a ball of light. Give it a little too much mental freedom and
+you've got a fairy. It's twinkling often enough to make you sick.
+94424: , brown bear blocks your path upward. The thing takes up the entire
+climbable path and looks like it's either insanely mad or in severe pain.
+94524: Now, now. We don't want to hurt the poor bear.
+94560: Nice try. Was that a touch of bravery or stupidy? You lunge at the bear
+with all your might. In turn, the bear takes your face off with one effortless
+swipe. (Ouch!)
+94680: Upon closer inspection, you notice that the bear's foot has a small
+splinter in it. No wonder it's so mad.
+94756: If only you had some sort of surgical equipment.
+94792: The bear takes a swipe at you! Lucky miss. You're uninjured.
+94838: It gives Biggs a big happy wave.
+94866: It's claws nip Biggs on the nose.
+94894: Suddenly, the bear speaks! "Hey, aren't you bored of just hanging around
+this mountain? Let's go to our local Tandy store!", he suggests. So off you all
+trot, merrily down to the Tandy store.
+
+When you arrive, the shopkeeper says
+that bears aren't allowed in Tandy stores. He smiles and escorts the bear down
+to the rug factory (where the shopkeeper says he'll have a much better time).
+What an adventure!
+95188: The brown bear strikes you directly in the throat, incapacitating you,
+and knocking you to the ground, lifeless. It seems it tired of you just hanging
+around it's rocky plateau.
+95312: Burly Mountain isn't the biggest of the big mountains. Gosh golly darn
+it, it's not even the biggest of the smaller mountains. It's really not that
+tough a climb at all, considering. But being the rich, young, egocentric,
+expert bragger Gary Hikerson, you'll be happy to pretend it was. That is, once
+you get back down safely, of course.
+
+Yes indeed, you've never been one to let
+any obstacle stand in the way of your prospective fame. Well, that was until
+you found yourself standing at the foot of this exceptionally large mountain
+that you haven't even begun to climb...
+95722: Burly Mountain isn't the biggest of the big mountains. Hell, it's not
+even the biggest of the smaller mountains. It's really not that tough a climb
+at all, considering. But being the rich, young, egocentric, expert bragger Gary
+Hikerson, you'll be happy to pretend it was. That is, once you get back down
+safely, of course.
+
+Yes indeed, you've never been one to let any obstacle stand
+in the way of your prospective fame. Well, that was until you found yourself
+standing at the foot of this dirty great big mountain that you haven't even
+begun to climb...
+96122: Oh, and with you is your good friend Biggs! My goodness, you're just so
+lucky to have him.
+96192: Oh, and with you is your lesser, uglier and much shorter companion
+Biggs. Enough said. Now, on with the show!
+96340: Your shining smile, your chiseled chin. No wonder all the girls just
+can't resist you.
+96404: Your shining smile, your chiseled chin. No wonder all the girls just
+can't resist you, and Biggs too!
+96480: Your shining smile, your chiseled chin. No wonder all the girls just
+can't resist you, especially when pitched against Biggs, your companion.
+96580: Different coloured fairies swarm around the trees merrily as you giggle,
+but no more are brave enough to show themselves.
+96664: As you gigle heartily, the flashing lights become more frequent, until
+one of them flies towards you and gives you a big boo-boo on your nose. You are
+struck with such force that topple merrily to the ground and don't hurt
+yourself at all.
+
+A small glowing pink fairy inquires, "Hello?". "Boys have boy
+germs!", she notes.
+96896: As you gigle heartily, the flashing lights become more frequent, until
+one of them flies towards you and bumps you smack in the nose. You are struck
+with such force that you immediately hit the ground.
+
+A small glowing pink
+fairy inquires, "Hello?". "You look handsome!", she notes.
+97100: Insanity sets in as you giggle to yourself.
+97132: "What're you gigglin' about?", asks Biggs.
+97168: You deftly attempt to pluck the splinter out of the bear's foot with
+your hand. The bear's a bit grumpy so he *censored* *censored* *censored*.
+Anyway, you all sit down afterwards in text adventure heaven and have a nice
+tea party.
+97340: You deftly attempt to pluck the splinter out of the bear's foot with
+your hand. The bear deftly attempts to thank you with a clean swipe of its
+claws across your face.
+97456: Success! Immediately after pulling the splinter from the bear's body
+with the tweezers, the bear calms down. It takes an almost friendly approach to
+you as it scuttles down the mountainside. Golly you're brave.
+97604: The world seems strangely altered.
+
+A hollow voice says, "Loof.".
+97656: The world feels strangely normal.
+97680: Nothing is normal in the world of Tandy!
+97712: Nuts! I, er... you were enjoying that.
+97744: Success! Immediately after pulling the splinter from the bear's body
+with the tweezers, the bear calms down. It takes an almost friendly approach to
+you as it scuttles down the mountainside. If only the folks back home coould
+see you now. Oh, how you'd brag!
+97928: , an avid mountaineer and extremely er, self-confident. Paired with your
+companion Biggs, your goal is to scale Burly Mountain.
+
+Sounds easy? It can be.
+The idea of Mountain is to provide many paths (most of them deaths) in order to
+frustrate the player. Really. It's the most insane thrill ride of guessing the
+verb you'll ever have. Plus, it's got plenty of replay value, albeit at the
+cost of violating the player's bill of rights.
+
+So get stuck in, put your
+hiking shoes on, and turn the air conditioner up to high (for realism) for ...
+Mountain!
+98726: ".
+
+Some special commands exist to help you control gameplay, such
+as:
+SAVE                                    RESTORE
+RESTART                    
+            QUIT
+UNDO                                    HELP
+SCORE            
+                      FULL SCORE
+VERBOSE                                
+BRIEF
+(Just to name a few.)
+
+Finally, remember that you can use a variety of
+English structures to form commands. Even the following are valid:
+TAKE THE
+BALL AND THE BAT
+DROP ALL EXCEPT THE WALLET
+
+Most importantly, (for those
+familiar with other games) Mountain does *not* use the "ordering" system
+of:
+COMMANDER, TAKE THE HELM
+Instead, these orders can be replaced with the
+simpler command:
+TALK TO COMMANDER
+
+And of course, if you're stuck, you can
+always have a guess.
+99370: Warning, this section contains spoilers! If you don't want the game
+absolutely ruined forever, don't move your eyes below this point!
+
+Possibly the
+most straight-forward way to complete your hike is to get past the brown bear.
+How, you ask? It's problem is not that it's angry, but that it has a sore foot.
+What you need to solve this problem is a pair of tweezers or somesuch with
+which to remove the splinter. Where would you find such a thing? I don't know,
+look around (and inside) some of the alpine scenery.
+
+Vague, eh? Well, sorry,
+that's your lot as far as hints and tips go.
+99816: , but he'd like to thank:
+
+Graham Nelson -- for being God and for
+Inform!
+Anson Turner -- for the Platypus library (you rock!)
+John Sherwood --
+No sane person would try the sequences of commands _he_ did.
+John Bardinelli --
+the beta testin', bug findin', report submittin' MACHINE!
+Beta Tester(s) I
+Forgot -- Apologies, but you never got back to me in time.
+
+This story file may
+be distributed freely.
+100308: This game does not have any footnotes.
+

@@ -1,0 +1,603 @@
+10622: Score:
+10636: Moves:
+10676: Time:
+11377: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+11452: You can hardly repeat that.
+11782: You can't begin with a comma.
+11845: You seem to want to talk to someone, but I can't see whom.
+11936: To talk to someone, try "someone, hello" or some such.
+13810: I didn't understand that sentence.
+13920: I didn't understand that number.
+13952: You can't see any such thing.
+13985: You seem to have said too little!
+14017: You aren't holding that!
+14046: You can't use multiple objects with that verb.
+14086: You can only use multiple objects once on a line.
+14165: You excepted something not included anyway!
+14203: You can only do that to something animate.
+14241: That's not a verb I recognise.
+14271: That's not something you need to refer to in the course of this game.
+14327: You can't see "
+14372: I didn't understand the way that finished.
+14493: There are none at all available!
+17424: Sorry, you can only have one item here.  Which one exactly?
+25802: At the moment, "it"
+25874: and "me" means
+25901: exn** Player objects must have "number" prop **
+26703: That's not something you can drink.
+26735: is now in its "brief" printing mode, which gives long descriptions of
+places never before visited and short descriptions otherwise.
+26833: is now in its normal "verbose" mode, which always gives long
+descriptions of locations (even if you've been there before).
+26927: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+31625: M.
+36176: Nothing to do!
+36192: . You have died
+36472: Please give one of the answers above.
+36532: I beg your pardon?
+36550: dxn[You can't "undo" what hasn't been done!]
+36592: ehn[Can't "undo" twice in succession. Sorry!]
+36666: Sorry, that can't be corrected.
+36696: Think nothing of it.
+36718: "Oops" can only correct a single word.
+36789: Please answer yes or no.
+36809: Are you sure you want to quit?
+36843: Are you sure you want to restart?
+36869: Failed.
+36886: Restore failed.
+36899: Ok.
+36914: Save failed.
+36925: Ok.
+36940: The game file has verified as intact.
+36967: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+37142: Transcripting is already off.
+37165: End of transcript.
+37187: Score notification on.
+37209: Score notification off.
+37233: You have visited:
+37280: None.
+37505: You are carrying nothing.
+37548: Taken.
+37560: You are always self-possessed.
+37680: You already have that.
+37768: That isn't available.
+37811: That's hardly portable.
+37835: That's fixed in place.
+37859: You're carrying too many things already.
+37935: Already on the floor.
+37957: You haven't got that.
+38000: Dropped.
+38045: But it isn't there now.
+38064: Removed.
+38145: You can't put something on top of itself.
+38223: You lack the dexterity.
+38303: Done.
+38345: You need to be holding it before you can put it into something else.
+38425: Alas, it is closed.
+38447: You'll need to take it off first.
+38477: You can't put something inside itself.
+38567: Done.
+38609: That isn't in your possession.
+38632: First pick that up.
+38926: That's not something you can enter.
+38994: You can only get into something on the floor.
+39146: But you aren't in anything at the moment.
+39255: You'll have to say which compass direction to go in.
+39356: You can't go that way.
+39515: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+39617: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+39705: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+40122: But it's dark.
+40135: You find nothing of interest.
+40168: But it's dark.
+40258: You find nothing of interest.
+40286: You can't see inside, since it is closed.
+40385: That doesn't seem to be something you can unlock.
+40427: It's unlocked at the moment.
+40455: That doesn't seem to fit the lock.
+40509: That doesn't seem to be something you can lock.
+40575: First you'll have to close it.
+40603: That doesn't seem to fit the lock.
+40657: That's not something you can switch.
+40689: That's already on.
+40733: That's not something you can switch.
+40765: That's already off.
+40811: That's not something you can open.
+40843: It seems to be locked.
+40865: It's already open.
+40973: That's not something you can close.
+41005: It's already closed.
+41049: You're not wearing that.
+41097: You can't wear that!
+41119: You're not holding that!
+41143: You're already wearing that!
+41193: That's plainly inedible.
+41226: Not bad.
+41242: That was a rhetorical question.
+41270: This dangerous act would achieve little.
+41304: Nothing practical results from your prayer.
+41340: The dreadful truth is, this is not a dream.
+41378: That seems unnecessary.
+41428: What a good idea.
+41448: You smell nothing unexpected.
+41502: You taste nothing unexpected.
+41582: You feel nothing unexpected.
+41608: Digging would achieve nothing here.
+41640: Cutting that up would achieve little.
+41672: You jump on the spot, fruitlessly.
+41706: You would achieve nothing by this.
+41736: There's nothing suitable to drink here.
+41770: But there's no water here to carry.
+41802: Oh, don't apologise.
+41824: Real adventurers do not use such language.
+41860: Quite.
+41872: Violence isn't the answer to this one.
+41906: There's not enough water to swim in.
+41938: There's nothing sensible to swing here.
+41972: You can't usefully blow that.
+42050: No, you can't set that to anything.
+42113: But you aren't holding that.
+42178: It is fixed in place.
+42200: You are unable to.
+42220: That would be less than courteous.
+42245: Nothing obvious happens.
+42274: Is that the best you can think of?
+42304: That's not a direction.
+42323: Not that way you can't.
+42373: You achieve nothing by this.
+42404: Futile.
+42411: You lack the nerve when it comes to the crucial moment.
+42460: You talk to yourself a while.
+42483: This provokes no reaction.
+42511: There is no reply.
+42531: Nothing is on sale.
+42577: I don't think much is to be achieved by that.
+42615: Time passes.
+42631: You aren't feeling especially drowsy.
+42891: That's not something you need to refer to in the course of this game.
+42940: You can't see any such thing.
+43079: That's just scenery.
+43126: You're ready to find some aspirin.
+43173: You're a homefree treasure-hunter.
+43225: You're filthy rich, if you can get out of the house...
+43271: You're close, but not quite done yet...
+43307: You're making progress; keep it up!
+43367: You are teetering on the verge of a discovery...
+43435: In this short sample game, you are exploring your great uncle's house.
+He was a treasure hunter, and you entered in hopes of finding some of his
+valuables. Unfortunately, the house is very old; the lounge door jammed shut
+unexpectedly....
+43620: it's just something you keep handy, for your incipient ulcer. The label
+says "Doctor Tung's Epicene Digestive Remedy!"
+43714: The bottle is closed.
+43757: The bottle is open, but empty.
+43808: Xnone tiny purple pill.
+44244: You swallow the pill. A wave of warmth soothes the turmoil of your
+innards. Once again, you are terribly, terribly grateful to Dr. Tung and his
+weird little herb shop.
+44370: You swallow the pill -- probably a good idea, after the things you've
+been eating.
+44578: The old, warped door creaks peculiarly as you approach.
+45052: you are standing in your great uncle's bedroom. There is an antique bed
+on one side of the room, and a lot of antique furniture on the other.
+45163: To the south is the door you entered by.
+45202: The door to the south is closed.
+45227: Light shines through a window to the north.
+46147: you stretch up and look out the window. There's nothing out there but
+the fire escape ladder.
+46348: . It has been moved to reveal a passage to the east.
+46412: ornate and well-crafted, it has small bits of ivory embellishing its
+edges. Fake books on all subjects stand on the shelves, filling it completely
+46561: . The bookcase looks like it's floating about two inches off the ground.
+46619: It has been moved to reveal a passage to the east.
+46669: you run a finger along the side of the bookcase. When you reach the
+bottom, you notice slide-rails under the case.
+46757: the bookcase is too big for you to carry. But it rattles slightly as you
+tug it.
+47194: Warily, you enter the inky blackness....
+47344: Among the fake books is a loose book.
+47376: There is a hole in the row of fake books.
+47475: . You feel a loose book among the fake books.
+47617: the spine is labelled "Murphy's Laws of Interactive Fiction."
+47691: the book is labelled "Murphy's Laws of Interactive Fiction." It runs
+through a list of funny truths about interactive fiction. Perhaps you'll read
+the Laws later.
+47828: Law #1: Examine everything, maybe even twice.
+47883: Law #2: Any sentence that can be misunderstood, will.
+47942: Law #3: Twisty little passages are always alike.
+47989: Law #4: Take anything that isn't nailed down.
+48158: Wow! The book whispers in your ear: "Getting pretty desperate, aren't
+you?
+48275: Yeah, that's right!  You don't need no stinking book!
+48627: slowly, you push one finger into the darkness, followed by your hand,
+then your arm up to your shoulder... You feel around; there must be a sizable
+room back there. Too bad that bookcase is blocking the way in.
+48921: A very large green plant sits in a pot in the corner of the room.
+48970: A dirt-filled pot sits in the corner of the room.
+49062: But wait, there's something hidden in the pot... a rusty key! You take
+it and weigh it thoughtfully in your hand.
+49407: you stick your tongue in the pot. Not bad.
+49513: sure, why not? It goes down smooth. Well, smoothish.
+49626: Whoa, Man... You are now high as a kite!
+49687: you're no gardener. Just stuffing the plant back in won't help.
+49736: you can't. The pot is full of dirt.
+49911: But wait, there's something hidden in the pot... a rusty key! You take
+it and weigh it thoughtfully in your hand.
+50005: it bounces back and scratches your finger... Ow!
+50059: The plant looks strange to you.
+50377: with sensitive listening equipment, it is possible to hear the thoughts
+of flora. You have no such equipment.
+50461: you stick your tongue on the plant. It's revolting.
+50837: Xnyou've found treasure!
+51084: You guess that it's where your uncle kneeled to hide his journal under
+the bed.
+51244: it's the brass lantern your uncle has taken on so many of his
+adventures. It has dulled only slightly over the years.
+51332: It's somewhat damp now, however.
+51627: one if by land, two if by sea... You would have made a great Paul
+Revere, but you'd need one more lamp.
+51790: You fumble over the lamp's surface; it takes a few moments before you
+feel the switch.
+51853: The lantern starts humming as it lights up.
+52328: the bedroom is beyond the door to the north. You cannot make out much of
+what's inside.
+52401: man, you're touching everything in sight today... Good!
+52571: you've already had one bad experience with doors jamming closed. Better
+not.
+52678: A scratching sound in the rafters unnerves you.
+52720: Shadows flicker in the dim light.
+53604: this lounge is incredibly plain. The only homey touch is a plush chair.
+An archway leads north, to the hallway. To the south
+53701: is the old trophy room, but the door jammed shut when you entered the
+lounge. You've been searching for a way out ever since.
+54231: It contains only water.
+54284: There is a fish in it.
+54670: The little red fish moves to the side of the bowl opposite to where you
+touched it.
+54745: .  The fish flops out of the bowl.
+55076: Besides, the bottle is closed.
+55608: the lantern dies. You think you just broke it.
+55791: Hnyou are sitting in.
+56145: you tickle the fish. You swear you can hear it laughing.
+56241: The fish begs you with his glassy eyes not to eat him. 
+Do you still
+want to? >
+56928: The fish wriggles excitedly. Its new life out of water doesn't seem to
+bother it at all.
+57051: ow! You prick your finger on the broken glass. Best leave it alone.
+57105: You climb down the ladder and your imagination soars with thoughts of
+what you're going to do with the money from the crown....
+
+  Suddenly rough
+arms slam you against the side of the house! "He's found it," mutters a low
+voice. "Let's go." Something cracks against your head, and your head cracks
+against the wall, and you barely see a golden Minoan sceptre clatter to the
+ground beside you as you fall. "You never saw the crown. Keep this and be
+happy," growls the voice. "And don't go asking questions -- if you know what's
+good for you." And then you are alone.
+
+  Your stomach hurts.
+58090: Whaa? Oog.
+58120: oiivhre. W'guh.
+
+FHWIUOI rwevh TREYERY TWET WE mneggh!
+58180: Mmmm... MmmmMMMMmmm... Omm....
+58226: Coming down....
+58395: This is a small game to get you started playing Interactive Fiction. It
+has only a few rooms and a few simple puzzles.
+
+    Most of the conventions in
+this game are applicable to all IF. There are many differences between games,
+of course. Other games created with Inform, Graham Nelson's excellent adventure
+language, are very much like this one. Games created with other languages, such
+as TADS, differ in some details, although the differences are small and not
+particularly dangerous.
+58765: Welcome to the world of Interactive Fiction. If this is your first time
+playing an IF game, you'll want to read this section to get acquainted with the
+basics quickly.
+58891: If you've played IF before, you can still benefit from reading the rest
+of this, because it will (probably) reaffirm everything you're thinking about
+how to work this game; and who couldn't use a little positive affirmation once
+in a while?
+59069: If the last IF game you played had a two-word parser, reading this will
+help waylay the embarrassing feeling you get when the parser doesn't understand
+sentences like "LOOK CHICKEN" (which should be written "LOOK AT CHICKEN" or
+"EXAMINE CHICKEN".)
+59277: In an IF game, you are put in the position of the protagonist of an
+interactive story. The game prints out a description of your location, along
+with descriptions of objects in the vicinity and what they are doing.
+59789: Commands are written as though you are ordering a troop brigade around.
+For instance:
+59885: This will cause you to look at the fish; the fish's description will be
+displayed. Another way of stating this is:
+59999: (Notice that you can omit the word "THE" -- the game doesn't mind. Also,
+you don't have to use all upper-case for commands. The examples in this section
+are printed in upper-case for visibility, but you can use any capitalization in
+your commands, or none.)
+60275: are allowed. The shortest way to state LOOK AT THE FISH, then, is:
+60427: Here's an in-depth look at a few of the more important verbs in most IF
+games:
+60491: NORTH, SOUTH, EAST, WEST, UP, DOWN, IN, OUT, NORTHEAST, NORTHWEST,
+SOUTHEAST, SOUTHWEST:
+60963: GET (or TAKE): This causes you to pick up an object. Once you do, you'll
+carry it wherever you do -- the object is "in your inventory."
+61127: Yes, "inventory" is a terrible word, but nobody's thought of a better
+one. You'll often want to check your inventory, which is why the next command
+has a one-letter abbreviation:
+61263: TAKE INVENTORY (or INVENTORY or just I): Prints a list of the objects
+which you are carrying.
+61353: DROP: Places an object which you are carrying down on the ground.
+61409: ENTER: Go inside (or through) an object.
+61451: EXIT (or GET OUT or GET UP): Leave an object which you are inside or on
+top of.
+61559: FISH a little shorter, if you've already used the fish in a command.
+61615: Example:
+61674: Taken.
+61698: Under closer inspection, the hullaballooza is rounder than you thought
+it would be.
+61764: The IT in the second command is a nice shorthand for "the object that I
+referred to in the last command I typed." You can keep using IT instead of the
+actual name of an object until you need to refer to a different object.
+61928: That covers the quick tutorial; there's a list of other commands in the
+next section of the help.
+62006: Happy Adventuring!
+62072: ty" are objects available for you to use, either in the room or your
+inventory. This is not a list of every command! Every game recognizes a few
+special actions that only make sense in that setting. Experiment, and use your
+imagination.
+62569: Here are several useful system commands -- commands that control the
+game itself, rather than telling your character what to do.
+63107: When you're new to IF, it's easy to type a command which the game
+doesn't understand. If you do, you'll get some kind of complaint. This is a
+list of the more common complaints, and what to do about them.
+63263: This is by far the most common message seen by new and experienced
+players alike. It means one of three things:
+
+    1) You tried to refer to an
+object using a word that the game doesn't recognise.
+    2) The author has
+mentioned an object which, sadly, isn't really defined in the game, and you
+tried to refer to it.
+    3) You made a spelling mistake.
+63530: Try using a different word -- preferably the word that the game itself
+used. (If you can't find a word that works, it's the author's fault -- see #2.
+That object probably isn't important.)
+63678: Part of your input was understood, but the game choked on some other
+part. This is usually caused by putting words after verbs that don't need
+objects... like LOOK.
+
+    LOOK HORSE
+
+    I only understand you as far as
+wanting to look.
+63869: Rephrase your command.
+
+    EXAMINE HORSE
+
+    Sleek and valiant, this
+is the fabled horse of Rock City....
+64050: Try to GET the object.
+64078: The first word in a command should always be a verb. If the first word
+you typed is not recognized as a verb by the game, this message will appear.
+64195: Try a different way of stating your command.
+64237: Some verbs only work on living things. This message is shown when the
+object is not alive, and you try to do something like TALK to it.
+64348: Don't talk to rocks.
+64374: This means that the object can be looked at, but nothing can be done
+with it.
+64443: Don't worry about it; the object isn't important.
+64491: This occurs when several objects have similar names, and you typed a
+command which could refer to any of them.
+
+ Example:
+
+    GET BOOK
+
+    Which
+do you mean, the red book, the green book, or the old book?
+64660: Type a word or words that will distiguish the object you want. In the
+above case:
+
+    RED
+
+    This will tell the game that it is the red book you
+want. Or, you could just retype the whole command:
+
+    GET RED BOOK
+65335: hive/programming/inform6 directory. If you have a web browser, go to:
+65547: ) whose presence can be felt everywhere, as he took our sloppy code and
+made numerous beneficial changes. He also contributed to the game's atmosphere
+with changes in the prose.
+66149: But you're not leaving without some treasure.
+66318: The coffee table is what we call a "red herring."
+66464: But it's fun.
+66525: You can't get the stuffing out of the chair.
+66722: But you're not leaving without some treasure.
+66887: Don't forget the lantern.
+67000: Oh, all right... EXAMINE PLANT or EXAMINE POT
+68174: A Demonstration of an Interactive Fiction Game
+  By Robert Janelle
+  and
+Brad O'Donnell
+
+For an introduction, or hints, type "help"
+68304: You can't go that way.
+68380: It is pitch dark, and you can't see a thing.
+68412: As good-looking as ever.
+68494: this north-south passage is dimly lit. The hardwood floor creaks wearily
+with age. Backed against the west wall is a small coffee table. Your great
+uncle's old bedroom lies to the north, and the south archway leads to the
+lounge.
+68734: beyond the southern arch is the lounge, where you came in. From here,
+all you can make out is a large chair.
+68814: you have never been in this hallway before today. It is lit by the south
+opening leading to the lounge.
+68890: this coffee table is bolted to the floor. Nothing is on it because the
+glass top has been removed.
+68980: You can't go that way.
+69304: As you enter the bedroom, the door slams shut!
+69556: Dude.
+69564: Your stomach is horribly upset. If you don't do something about it soon,
+you don't know what unspeakable thing might happen....
+69656: You feel a twitch in your throat.
+69680: You feel a twitch in your nose.
+69704: You feel that same twitch in your ears... curious.
+69744: Suddenly, but with ample warning, branches burst out of all the orifices
+of your head, your skull cracks into three separate pieces, and you die.
+69846: Given your uncle's bizarre tastes in furniture, this is a rather
+tame-looking bed. It has been stripped of sheets, and four plain wooden posts
+rise all the way to the ceiling.
+
+  You notice faint marks on the floor by the
+foot of the bed -- a slightly worn spot.
+70494: a thick layer of dust covers everything in this room. There are many old
+boxes and older bags. Your uncle's bedroom lies to the west.
+70926: this ancient Minoan artifact is not only beautiful, but will also net
+you a fine price. Of course, you still have to find a way out before you can
+sell it.
+71240: This chair is very comfortable.
+71264: The fish in the fishbowl envies your comfort.
+71296: The bare walls envy your comfort.
+71320: Man, this chair is better than treasure any day!
+71404: Your stomach is horribly upset. If you don't do something about it soon,
+you don't know what unspeakable thing might happen....
+71496: You feel a bloat in your stomach.
+71520: You feel a bloat in your chest.
+71544: You feel a rumble in your abdomen... curious.
+71580: Suddenly, but with ample warning, a two-headed fish bursts out of your
+chest.
+71636: You fall to the ground, bleeding profusely, as the leviathan takes its
+revenge....
+71788: Welcome to the sample game.
+     A quick-start guide to playing.
+     A
+list of common commands.
+     A list of special control commands.
+71896: Playing this game.
+71912: Welcome to the sample game.
+71932: A quick-start guide to playing IF.
+71960: A list of common commands.
+71980: A list of special control commands.
+72008: Solution:
+72016: Solution:
+72024: Solution:
+72032: Solution:
+72040: Solution:
+72048: Solution:
+72056: Solution:
+72064: A quick explanation.
+     "You can't see any such thing..."
+     "I only
+understood you as far as wanting to..."
+     "You aren't holding that..."
+    
+"That's not a verb I recognise..."
+     "You can only do that to something
+animate..."
+     "That's just scenery..."
+     "Which do you mean, the Object
+or the Other Object?..."
+72332: Why doesn't the game understand me?
+72360: A quick explanation.
+72376: "You can't see any such thing..."
+72404: "I only understood you as far as wanting to..."
+72440: "You aren't holding that..."
+72464: "That's not a verb I recognise..."
+72492: "You can only do that to something animate..."
+72528: "That's just scenery..."
+72552: "Which do you mean, the Object or the Other Object?..."
+72622: About Inform, by Graham Nelson.
+     The authors, and special thanks.
+  
+  Permissions and conditions.
+72708: About this game.
+72720: About Inform, by Graham Nelson.
+72748: The authors, and special thanks.
+72772: Permissions and conditions.
+72792: Must've been something you ate.
+72816: You are suffering from indigestion.
+72844: Check your inventory. (Type "I" or "INVENTORY".)
+72892: You have a bottle of indigestion pills.
+72948: Perhaps you'll need to find another exit.
+72980: Is there another possible exit?
+73004: Read the room description carefully.
+73032: There is a window in the bedroom.
+73056: It is another exit.
+73070: How can I stop from dying?
+     I'm stuck in the bedroom!
+73124: General Hints...
+73140: How can I stop from dying?
+73160: I'm stuck in the bedroom!
+73180: The table doesn't have a top.
+73204: The legs are bolted down.
+73224: Too bad you don't have a screwdriver.
+73252: But you don't.
+73264: And you won't find one.
+73282: The coffee table.
+73304: Hints for in the hallway...
+73328: The coffee table.
+73344: Maybe.
+73352: You can do lots of stuff with it.
+73376: It's got a fish in it.
+73396: On second thought, the fishbowl isn't important.
+73432: You're going to need something sharp.
+73460: There is a fishbowl in the room with the chair.
+73496: What? You can't pick up the broken glass?
+73528: Is the fishbowl important?
+     Getting the stuffing out of the chair.
+73588: Hints for the lounge...
+73608: Is the fishbowl important?
+73628: Getting the stuffing out of the chair.
+73656: The trophy room door slammed shut on you before the game started.
+73704: So maybe the door-slamming isn't a total disaster.
+73740: Perhaps you'll need to find another exit.
+73772: Is there another possible exit?
+73796: Read the room description carefully.
+73824: There is a window in the bedroom.
+73848: It is another exit.
+73864: Have you examined everything in the bedroom?
+73896: Have you tried the bed?
+73916: Have you tried the bookcase?
+73936: Have you examined things in the bookcase?
+73968: Have you looked under the bed?
+73992: Have you looked under the bookcase?
+74020: There is a passage hidden in the room.
+74048: It is behind the bookcase.
+74068: You have to move the bookcase out of the way.
+74100: The door slammed shut on me...
+     Where is the treasure?
+74152: Hints for the bedroom...
+74172: The door slammed shut on me...
+74196: Where is the treasure?
+74212: Examine everything.
+74228: That's it: the key is found by examining everything.
+74266: I can't find the key to the chest...
+74304: Hints for getting the treasure...
+74332: I can't find the key to the chest...
+74360: Playing this game.
+     Why doesn't the game understand me?
+     About
+this game.
+     General hints...
+     Hints for in the hallway...
+     Hints
+for the lounge...
+     Hints for the bedroom...
+     Hints for getting the
+treasure...
+74560: Playing this game.
+74576: Why doesn't the game understand me?
+74604: About this game.
+74616: General Hints...
+74632: Hints for in the hallway...
+74656: Hints for the lounge...
+74676: Hints for the bedroom...
+74696: Hints for getting the treasure...
+

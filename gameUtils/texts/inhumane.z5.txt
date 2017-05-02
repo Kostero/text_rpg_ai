@@ -1,0 +1,695 @@
+12145: Score:
+12159: Moves:
+12176: Time:
+12342: [You can't "undo" what hasn't been done!]
+12383: ke    gpm[Your interpreter does not provide "undo".  Sorry!]
+12448: fpm[Can't "undo" twice in succession.  Sorry!]
+12625: Sorry, that can't be corrected.
+12660: Think nothing of it.
+12683: d."Oops" can only correct a single word.
+12892: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+12965: You can hardly repeat that.
+13195: You can't begin with a comma.
+13252: You seem to want to talk to someone, but I can't see whom.
+13343: To talk to someone, try "someone, hello" or some such.
+14984: I didn't understand that sentence.
+15091: You can't see any such thing.
+15124: You seem to have said too little!
+15156: You aren't holding that!
+15185: You can't use multiple objects with that verb.
+15225: You can only use multiple objects once on a line.
+15304: You excepted something not included anyway!
+15342: You can only do that to something animate.
+15380: That's not a verb I recognise.
+15410: That's not something you need to refer to in the course of this game.
+15466: You can't see "
+15511: I didn't understand the way that finished.
+15632: There are none at all available!
+15662: I didn't understand that number.
+18418: Sorry, you can only have one item here.  Which one exactly?
+26002: At the moment, "it"
+26074: and "me" means
+26101: exn** Player objects must have "number" prop **
+26448: All right, be that way.
+26480: It is very dark. Before you can do anything, something begins gnawing on
+you.
+26567: You are holding nothing.
+26615: A wimp like you will never get that done.
+26738: You must be quite a brain to get that one open.
+26778: It is open, shmuck.
+26800: Wheeee! That was fun. Let's do it again sometime.
+26844: You must have had a moronicity spell cast on you.
+26884: That won't push.
+26919: That won't push.
+26937: Why don't you just pick it up?
+26970: You're not likely to get that closed, O massive mental moron.
+27020: It is shut!
+27036: Time passes... Waiting... Waiting... Dozing...
+29889: M.
+34486: I beg your pardon?
+34549: Nothing to do!
+34565: . You have died
+34874: Please give one of the answers above.
+34968: Please answer yes or no.
+34988: Are you sure you want to quit?
+35022: Are you sure you want to restart?
+35048: Failed.
+35065: Restore failed.
+35078: Ok.
+35093: Save failed.
+35104: Ok.
+35119: The game file has verified as intact.
+35146: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+35321: Transcripting is already off.
+35344: End of transcript.
+35366: Score notification on.
+35388: Score notification off.
+35625: You are carrying nothing.
+35668: Taken.
+35680: You are always self-possessed.
+35800: You already have that.
+35888: That isn't available.
+35931: That's hardly portable.
+35955: That's fixed in place.
+35979: You're carrying too many things already.
+36055: Already on the floor.
+36077: You haven't got that.
+36120: Dropped.
+36165: But it isn't there now.
+36189: You'll need to take it off first.
+36214: Removed.
+36233: You need to be holding it before you can put it on top of something
+else.
+36289: You can't put something on top of itself.
+36367: You lack the dexterity.
+36447: Done.
+36489: You need to be holding it before you can put it into something else.
+36569: Alas, it is closed.
+36591: You'll need to take it off first.
+36621: You can't put something inside itself.
+36711: Done.
+36753: That isn't in your possession.
+36776: First pick that up.
+37058: That's not something you can enter.
+37126: You can only get into something on the floor.
+37228: But you aren't in anything at the moment.
+37297: You are on your own two feet again.
+37329: You'll have to say which compass direction to go in.
+37430: You can't go that way.
+37589: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+37691: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+37779: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+38182: But it's dark.
+38195: You find nothing of interest.
+38228: But it's dark.
+38318: You find nothing of interest.
+38346: You can't see inside, since it is closed.
+38445: That doesn't seem to be something you can unlock.
+38487: It's unlocked at the moment.
+38515: That doesn't seem to fit the lock.
+38569: That doesn't seem to be something you can lock.
+38635: First you'll have to close it.
+38663: That doesn't seem to fit the lock.
+38717: That's not something you can switch.
+38749: That's already on.
+38793: That's not something you can switch.
+38825: That's already off.
+38871: That's not something you can open.
+38903: It seems to be locked.
+38925: It's already open.
+39033: That's not something you can close.
+39065: It's already closed.
+39109: You're not wearing that.
+39157: You can't wear that!
+39179: You're not holding that!
+39203: You're already wearing that!
+39253: That's plainly inedible.
+39286: Not bad.
+39302: That was a rhetorical question.
+39330: This dangerous act would achieve little.
+39364: Nothing practical results from your prayer.
+39400: The dreadful truth is, this is not a dream.
+39438: That seems unnecessary.
+39488: What a good idea.
+39508: You smell nothing unexpected.
+39562: You taste nothing unexpected.
+39616: You feel nothing unexpected.
+39642: Digging would achieve nothing here.
+39674: Cutting that up would achieve little.
+39706: You jump on the spot, fruitlessly.
+39740: You would achieve nothing by this.
+39770: There's nothing suitable to drink here.
+39804: But there's no water here to carry.
+39836: Violence isn't the answer to this one.
+39870: There's not enough water to swim in.
+39902: There's nothing sensible to swing here.
+39936: You can't usefully blow that.
+39990: No, you can't set that.
+40014: No, you can't set that to anything.
+40077: But you aren't holding that.
+40142: It is fixed in place.
+40164: You are unable to.
+40179: Nothing obvious happens.
+40208: Is that the best you can think of?
+40238: That's not a direction.
+40257: Not that way you can't.
+40307: You achieve nothing by this.
+40338: Futile.
+40345: You lack the nerve when it comes to the crucial moment.
+40394: You talk to yourself a while.
+40417: This provokes no reaction.
+40445: There is no reply.
+40465: Nothing is on sale.
+40511: I don't think much is to be achieved by that.
+40549: Time passes.
+40565: You aren't feeling especially drowsy.
+40654: On the ground is the ancient jeweled amulet that you "borrowed" from Mr.
+Meshugge.
+40718: You venture out onto the sands and rapidly lose sight of camp.
+40774: Lying on the ground is a brass torch of the "self-igniting" type. The
+ignite button is on the handle.
+40850: There is a shovel lying here.
+40882: The torch flickers a few times and then glows steadily.
+40926: You are in Francisco Roboff's tent. The place is bare except for the
+emergency signal radio and Roboff's toilet in one corner. There is a note taped
+to the tent wall.
+41054: The toilet is open. A hole goes down the bowl into darkness.
+41109: You clamber into the toilet bowl and climb down through the roof of the
+buried pyramid. You drop to the floor.
+41216: Ecchhh! You don't have a reason to do anything like that.
+41262: You have stooped to a new low by snooping around toilet bowls. However,
+when you raise the lid, you find a dark hole going down.
+41358: "Hi. Sorry about running off so suddenly but you know how it is... With
+luck, you will die, but I want you to have something to do while you starve so
+I'll
+41473: tell you how to find the pyramid. Oh, I didn't mention that I found it
+two weeks ago? I never got in because the door is opened by putting that amulet
+of yours
+41691: You can't radio the plane now! You don't even have the coffin yet!
+41764: You have stumbled over the encampment. Sheer accident.
+41832: You have stumbled over the encampment. Sheer accident.
+41900: You have stumbled over the encampment. Sheer accident.
+41968: You have stumbled over the encampment. Sheer accident.
+42021: It falls and is lost forever in the sands.
+42097: Ok. As it slips in, the stone slab moves aside, dumping you into a pit.
+You look up and see the amulet falling into a machine that wraps it, addresses
+it to F. Roboff, and takes off on jets.
+42255: "Thanks for the amulet! It only took me a few days to make this little
+set-up. If you really want to get to the pyramid, retrace your steps back to
+camp after
+42368: the pit caves in (which should happen soon) and open my toilet. You see,
+I really found the pyramid with a mass sensor when we moved in and I built my
+42475: tent over it. The toilet conceals a secret passage down into the
+pyramid, which I have been looting for weeks. Most of the easy stuff is in my
+private safe in
+42586: Miami by now, but I left you a few goodies. Including the gold coffin,
+which I never found. When you get tired of poking around you can use the
+42689: emergency radio in my tent. It'll call a plane to pick you up. Have
+fun!
+   -Roboff."
+42758: You hear a rumbling and look up as the sides of the pit collapse. You
+manage to stay on top, and you end up in the desert again.
+42867: This room is at the peak of the pyramid. It is perfectly conical. In the
+center is a tall stone obelisk that you could probably use to get back up to
+the fake toilet. There are four stairways leaving the room at the four compass
+points.
+43035: This room is a conic surface with exits at even multiples of 90 degrees.
+In the center is a regular square pyramid with a narrow vertex angle.
+43138: You scramble up the obelisk and manage to crawl into the hole. After
+some more squirming, you reach the toilet.
+43229: The obelisk suddenly glows and a great voice speaks out of it (not the
+voice that you've been talking to already.) "Ahhh-ha! A gold rectangular solid!
+43540: About this point, your mind goes numb. You feel RAHNgons growing in your
+blood-stream. You collapse on the ground, thinking only...
+43644: I love geometry...
+I love geometry...
+43715: The obelisk is a monument to the great RAHN. The inscription starts:
+43799: and the theorems; we shalt thank RAHN. For RAHN hath said 'Between any
+two points there shalt be but one line'; and he found it good. For RAHN hath
+said
+43922: if two planes intersecteth, they shalt form but one straight line'; and
+he found it good. For RAHN hath said..."
+It goes on like this for a long time.
+44037: When you manage to break the trance, your mind is numbed and full of
+RAHN's strange commandments.
+44137: You step onto the swinging platform.
+44172: You step out of the hallway. However, the platform is to the
+44220: right now, so you plummet 65 feet and splat. What a mess.
+44323: You step off the platform to the east hall.
+44379: You step off the platform to the west hall.
+44526: There seems to be an invisible bar sticking out of the northeast wall of
+the pit. It sweeps you off the platform into the pit.
+44703: You bang your nose on the pit wall.
+44736: You step off the platform into empty space. You plummet 65 feet and
+splat into the pit floor.
+44943: You step onto the swinging platform.
+44977: You step out of the hallway. However, the platform is to the
+45025: right now, so you plummet 65 feet and splat. What a mess.
+45141: Sitting on the disk is:
+45198: The key won't stay down.
+45243: Ok. The disk sinks several feet down its shaft. This uncovers a small
+hole that sprays out gas.
+45350: The key is stuck to the disk with a dot of wax, which you pull off. Odd
+-- the key seems to have negative weight! With the lift of the key removed, and
+the extra weight of
+45489: , the disk sinks several feet down its shaft. This uncovers a small hole
+that sprays out gas.
+45574: The key is stuck to the disk with a dot of wax, which you pull it off
+of. Odd -- the key seems to have negative weight. With the lift of the key
+removed, the disk sinks a few inches. However, there is no other effect. You
+have actually survived a trap!
+45753: Ok. The disk rises a few inches as you remove the weight.
+45801: Ok. The disk dips a few inches under the extra weight.
+45846: There is an ornate iron key stuck to the ceiling here just within reach.
+45903: The key won't stay down.
+45932: That wouldn't be a good idea out here.
+45971: The key rises to the ceiling.
+45998: There is a small figure of a demon in carved gold here!
+46061: The pentacle contains:
+46106: There is a sphere of polished and faceted obsidian here!
+46170: The weight of the various bricks and cubes you are holding overbalances
+a hidden pivot in the floor. You are dumped into a pit full of snakes.
+46274: At the south wall is a large stone block with three stone disks embedded
+on top. The disks appear to be slidable up and down. Above the disks is
+suspended a glass tube stretching from wall to wall.
+46418: There is a tiny pebble on the floor.
+46469: Sitting on the left disk is:
+46528: The key won't stay down.
+46550: You shouldn't have done that. The impact on the left disk sets both side
+disks swinging, until one smashes the tube. The gas inside pours out.
+46683: With the weight on the left disk gone, and no extra weight on the middle
+disk, the disk on the right shoots up and smashes the tube. Green gas pours
+out.
+46799: The disks unbalance briefly, but the pebble weighs down the whole system
+so the tube is not touched.
+46897: Sitting on the middle disk is:
+46960: The key won't stay down.
+46999: ahmghm is too much. The middle disk drops down, and the side disks shoot
+up and smash the tube. Gas sprays out.
+47136: That was not smart. With the extra weight of the pebble removed, the
+empty side disk shoots up and smashes the tube. Gas pours out.
+47239: Ok. The pebble's small weight moves the center disk down slightly.
+47293: The disks return to their original positions.
+47353: Sitting on the right disk is:
+47412: The key won't stay down.
+47434: You shouldn't have done that. The impact on the right disk sets both
+side disks swinging, until one smashes the tube. The gas inside pours out.
+47568: With the weight on the right disk gone, and no extra weight on the
+middle disk, the disk on the right shoots up and smashes the tube. Green gas
+pours out.
+47687: The disks unbalance briefly, but the pebble weighs down the whole system
+so the tube is not touched.
+47762: There is a solid gold brick lying here!
+47794: There is a cube of solid silver lying here!
+47836: The platform slowly moves down a shaft below it. In the other alcove the
+other platform slowly moves up, counterbalancing the one you are on.
+47951: The platform moves back up to the alcove level. In the other alcove, you
+see the other platform moving back down until both of the platforms are even.
+48063: As the other platform moves down from the hole in the ceiling, you see a
+small robot standing on it. When it gets down to the floor, it looks at you,
+says
+48174: "Ex-trrr-mnnn-ate", points an arm at you, and turns you into a small
+pile of monatomic dust.
+48254: There is a huge diamond lying on the ground!
+48295: The door is open.
+48340: You see something glimmering behind the door. You'll have to close the
+door to get it.
+48406: The door is closed.
+48450: Leaving so soon? Before you open the chest?
+48496: The door slams open. It is apparently on a very strong spring. If you
+were on the other side, you would have been slammed into the wall. As it is,
+the steel door-knob slams into the inside wall.
+48644: The door slams open. You barely avoid the swinging knob. Instead, the
+steel knob hits the wall with a bang.
+
+The wall seems to be made of flint.
+48759: You reach inside the room, grab the steel doorknob, and pull. The spring
+is strong, but you eventually manage to get the door shut.
+48876: After much tugging, you manage to get the door shut. Behind it is a
+brass needle that you might use to unlock the chest.
+49006: On the ground is a long brass needle.
+49039: The chest is closed and locked.
+49062: The chest is open.
+49102: The chest contains:
+49190: There is a click and the chest lid pops open. Inside is a priceless
+dorkmid! As you stare at it, you notice the smell of coal gas leaking out.
+49294: There is an invaluable dorkmid here!
+49327: You jump over the weak spot in the center, landing on the other side of
+the chasm.
+49388: Hmmm... The other rim seems to be made of a peculiar type of rock. Some
+type of talc or damp plaster. You slide back into the pit.
+49497: The bridge appears to have a small weak spot in the middle, about two
+feet wide. You break through it and plummet. Next time try jumping or
+something.
+49606: Yuk! You have fallen into a pit full of gray sticky glue.
+49654: Each gadget has a large triggerplate and two darts sticking out. As you
+look it over, you brush the plate and the darts zock you in the hand. Ouch!
+49778: Each gadget has a large triggerplate and two darts sticking out. When
+you touch the plate, the darts zock you in the hand. Ouch!
+49874: Sitting on the floor in a clear space is a cut-crystal bowl.
+49919: The bowl contains:
+49984: As you do, several of the quartz chips spill onto the floor. Some hit
+metal gadgets, triggering them. Darts fly. Some darts hit more gadgets. More
+darts fly. After a few seconds of this, you have been punctured several million
+times.
+50154: You climb out of the pit, dripping goop. You are coated with glue.
+50210: You climb out of the pit, dripping goop. You are coated with glue.
+50266: Yuk! You have fallen into a pit full of gray sticky glue.
+50319: The door is open. A cascade of fur spills through.
+50359: The door is closed.
+50388: You can't close it for the fur.
+50423: The door swings open. A cascade of fur pours out, completely covering
+you and sticking to the glue.
+50561: Sitting on the shelf is:
+50621: If you hadn't noticed, you've been walking on glass with furry feet.
+This will produce a large static charge. The metal shelf is grounded into the
+stone wall. And iron conducts electricity...
+50827: If you hadn't noticed, you've been walking on glass with furry feet.
+This will produce a large static charge. The necklace is sitting on a metal
+shelf which is grounded into the stone wall. And silver conducts electricity...
+51042: You climb up the ladder to a hole at the top of the shaft.
+51098: On the floor is a small coin-bag made of leather. It appears to have
+something in it.
+51162: It is a bag for a matching set of fourteen 23-zorkmid coins. However,
+the set is worthless when incomplete and the bag only has
+51350: cross. You can turn the wheel by walking north or south.
+51391: Equally spaced around the rim are twelve coin-holders. Some have gold
+coins in them.
+51467: The hole is aligned with the shaft, so you climb through it and down the
+ladder.
+51528: You have rotated the wheel so that the hole is not aligned with the
+shaft. You can't go down.
+51633: The wheel rotates under your feet. You stay at the bottom, but the hole
+in the rim that you entered by has moved.
+51757: The wheel rotates under your feet. You stay at the bottom, but the hole
+in the rim that you entered by has moved.
+51864: You've already taken the coin at this position.
+51904: You're not holding the coin bag to put the coin into.
+51965: You pick up the coin and put it in your bag.
+52015: The coin-holder at your feet has a coin in it.
+52053: The coin-holder at your feet is empty.
+52091: The hole is at the bottom of the wheel. Below it is the shaft that you
+entered this room by.
+52165: The hole is slightly up the north side.
+52203: The hole is less than half-way up the north side.
+52249: The hole is half-way up the north side.
+52287: The hole is more than half-way up the north side.
+52339: The hole is almost to the top on the north side. Behind it is a hole
+from which water is pouring very fast. The water turns the wheel back to its
+original position, then pours down the hole. You are taken with it.
+52497: The hole is at the top of the wheel.
+52533: The hole is almost to the top on the south side.
+52577: The hole is more than half-way up the south side.
+52623: The hole is half-way up the south side.
+52661: The hole is less than half-way up the south side.
+52707: The hole is slightly up the south side.
+52743: The door is swinging closed.
+52767: The door is closed.
+52794: The door is apparently on a very weak spring. You open it, but it begins
+swinging shut the moment you release it.
+52908: The door has swung shut.
+53026: In walking, you have bumped into and broken some stalagmites. They are
+hollow and water starts pouring out, slowly filling the room.
+53126: In walking, you have bumped into and broken some stalagmites. They are
+hollow and water starts pouring out, slowly filling the room.
+53226: It reads "Panic Button: Push in case of flood to exit."
+53281: Click. Fear gas sprays out of the walls, causing you to panic and run
+for the locked door. You break most of the stalagmites in the rush, so the
+water is up to your chest by the time you reach the door. When you hit it, you
+break through. The water washes you down the hall and through the blades.
+53499: The Great Door is open.
+53551: You turn the iron key and the tomb door swings open. The musty smell of
+old comic books pours out.
+53662: On the floor is the solid-gold coffin that contains the bodies of the
+Lord -- and all his riches! All you have to do is get it back to the
+encampment!
+53775: Absolutely not! All you want to do is get it back to the encampment.
+53829: It's too heavy to pick up. Perhaps you could push it around.
+53881: Which way do you want to push the coffin?
+53931: You lean on the coffin, and it scrapes along the floor.
+54016: You awaken in your tent, lying on the floor, with a hangover like you
+wouldn't believe. As you lever yourself up, you notice that there is complete
+silence instead of the usual morning complaints
+54153: of the workers and Roboff's usual shouting. This can only mean one thing
+- Roboff must have finally run off on you. Panicked, you look around and see
+your amulet lying on the floor. At least
+54290: Roboff had the sense to not trigger off your alarm. Knowing him, he also
+had the sense to take the emergency radio. How the megakrip are you going to
+get out of this one?
+54427: : An Infralogic Massacre. Copyright (C) by Info
+54483: Inhumane and Infobom are trademarks of Sadistic Software, Ins.
+54613: First-time players should type "about".
+54755: Not to put too fine a point on it, I wrote this when I was about
+fifteen. In BASIC.
+54866: Furthermore, the game abounds with in-jokes so obscure that even I
+probably don't recognize all of them any more. Some of them are publically
+accessible; some less so. (Let's just say that a certain friend of mine was
+deeply, er, moved by eighth-grade geometry class.)
+55061: In doing this Inform port, I have manfully resisted the urge to improve
+the game. Spelling and punctuation errors have been fixed, but no descriptive
+text has been added. I didn't quite have the nerve to cripple Graham's Inform
+library, so the parser does not suck, but just about everything else you could
+want in a game is lacking here. Just about every movable object has no
+description. Synonyms are sparse. Variety of text is a lost cause. Get the
+idea?
+55386: Enough castigation.
+55537: Enchanter.
+55549: We would then give a "pirated" copy of this new treasure to our friends,
+crawl back into our basements, and snicker mightily.
+55638: You may get some idea of when this occurred by noting that we decided to
+call the "sequel"
+55706: Enchanter II.
+56010: ". Heh heh.
+56059: Enchanter II.
+56075: It began plausibly (or so youthful memory tells me -- probably it's
+actually as embarrassing as this game.) I imitated Infocom's Apple II
+interpreter rather well, I think, considering that I was using BASIC. The
+player began by being sent back to the ruined castle of Krill to destroy
+something in need of destruction. There was a hidden stairway under the altar
+in that nasty temple, which led down to a few underground rooms. A little more
+exploration turned up a scroll labelled "Travel through time"...
+56442: When you succumb and cast the spell, a tall blue box with a flashing
+light on top appears in mid-air, drops on you, and squashes you.
+56539: At that point, of course, everything fell apart. Your hunger and thirst
+(which had been growing earlier, in keeping with
+56641: ) became a sudden need to take a leak. (Keep in mind that I was perhaps
+fourteen.) More rooms opened up. Silly things happened, of which I cannot
+recall a single one. In the end, you acquired a "resignation code," located a
+shop, and found that the item you needed had a price equal to that code number.
+When you typed that number as part of the purchase command, the game dropped
+into the distinctive losing display of
+56957: a deeply disturbed Apple II game of the time. (Actually, it's a deeply
+disturbed game for any time. I wish I still had a copy.) The closing message,
+"You may have lost -- but we have gained," turned into Dave's name and mine,
+and that was the end of
+57145: Enchanter II.
+57163: Time passed and more Infocom games appeared. Dave and I started drawing
+up plans for a new Infobom title, a parody of
+57279: Expelled.
+57795: routines. In the end someone repairs you and you spend the rest of your
+life processing garbage. (Whatever keys you typed after that point, the letters
+appearing at the prompt always spelled out "TAKE GARBAGE <Return> PROCESS
+GARBAGE <Return> TAKE GARBAGE <Return> ..." I was rather proud of that effect.)
+58070: never really got off the ground. BASIC and my programming skills were
+not up to the task of a
+58388: Inhumane.
+58530: a role-playing supplement which you can probably still find in gaming
+stores. I had invented a decent collection of embarrassingly fatal dungeon
+traps, so I figured I might as well implement them...
+58673: This is the result.
+58692: Those were the only text-game parodies we actually worked on. Naturally,
+we had a much longer list of Infobom
+59062: as well. Shows what I remember.
+59133: by the Zarfian Interactive Fiction Rating System. It is possible to get
+stuck, but only in one place, very early in the game. However, for reasons
+which will become clear, I can't promise that you'll never die....
+59299: Well, there's Graham Nelson. You've probably heard of him by now.
+59382: You've probably heard of that too.
+59411: There's Richard Merryman, who found me the Apple II disk image of this
+game years after I lost my original, and also dug the source code and data out
+and into a sensible format.
+59624: You are floating disembodied in absolute blackness. Time passes at a
+strange, relative rate. After an infinite/infinitesmal time, you sense a
+presence near
+59735: you. A voice speaks, resounding in your head as in a hollow gourd...
+59817: come to steal my treasure. How boring. Most of it was taken by that
+other guy who had the sense to avoid the nastier traps... But I am getting
+pretty tired
+59928: of guarding what's left. I don't suppose that you have any chance of
+thinking your way through my traps, of course. But I'll let you try, and I
+won't even
+60041: vaporize you when you try to leave. In fact, I'll make you a deal. If
+you prove to me that you are an incompetent Harry Sullivan by getting yourself
+killed by
+60283: You are back in the infinite blackness. Eventually the voice returns,
+senses you disgustedly, and speaks.
+60361: q."That hardly counts as being killed by a trap, you know. Even you
+could have gotten farther into that situation.
+60460: "You already got frotzed that way once. How about something more
+original?
+60644: "Don't panic... Don't panic... Don't panic... It's not good for you...
+60940: "Good... I would have thought you knew your eighth grade science.
+61207: The voice that you heard when you died speaks. "Score? You mean how well
+you've done?
+61295: Your score is 0 out of a possible 300. This gives you the rank of Novice
+Adventurer.
+61400: You don't seem to have really gotten fooled by any traps yet. Maybe
+there is hope for you."
+61472: You've only gotten killed by one trap. Not bad."
+61514: You've been killed by two traps. That isn't really so bad."
+61564: Three deathtraps have zocked you so far. You're beginning to seem rather
+dumb."
+61628: You've stumbled into four traps. You're not looking very good."
+61682: You've been killed by five deathtraps so far. You're getting pretty good
+at dying, aren't you?"
+61758: Six traps have killed you. I am forced to the conclusion that you are a
+high-grade moron at best."
+61834: All right, you've set off seven out of nine traps. Make that a low-grade
+moron who is stoned on nitrolabe."
+61918: All right, that makes eight traps. If you manage to kill yourself on the
+last one, I'll give you the key."
+62018: That does it. I give up. You are a complete Sullivan of an imbecile.
+There is no hope for you. Here is that #%$# key; take the coffin and get out!"
+62136: You've proved yourself a hopeless imbecile. Take that #$%#% coffin and
+leave."
+62368: You don't have a shovel, genius.
+62401: Useless.
+62415: The ground is too hard for digging here.
+62449: Why? There's nothing down there, remember, genius? Remember Roboff's
+toilet? Hmmm?
+62523: You dig for about two hours, making a big hole. The hole is completely
+empty, so you spend another two hours filling it in.
+62610: You begin digging. After about two hours you strike stone! You rapidly
+clear off a stone slab about 10 feet down from the surface.
+62900: You can't go that way.
+62968: It is pitch dark, and you can't see a thing.
+63000: As good-looking as ever.
+63032: It is very dark. Before you can do anything, something begins gnawing on
+you.
+63088: You are in your tent in the encampment. The tent appears to have been
+completely cleaned out. It is very hot in here and getting hotter. The tent
+flap to the south is open.
+63208: This is the center of your camp. The entire place seems to be completely
+deserted. You can see Roboff's tent to the south and the storage tent west.
+East is open desert.
+63328: This is where the party kept all its supplies. However Roboff seems to
+have cleaned everything out that was of any use. Several arrows of Da-Glo paint
+on the wall attract your attention to the empty food and water chests.
+63484: It is an ordinary electric torch with an auto-ignite button on the
+handle.
+63536: The radio has only one button, which will start a distress/locator
+beacon.
+63588: All you can see in any direction is sand and sunlight. You are sweating
+like a pig.
+63648: You are at the bottom of the hole you just dug. The floor of the hole is
+a stone slab with a little slot in it. You can nearly smell the riches that
+must be buried beneath your feet!
+63776: What?! Leave when the riches of the pyramid await you?
+63816: You see nothing interesting about the little slot.
+63852: This is a sandy pit with stone walls. You are not likely to be able to
+climb out. The only thing here is a note taped to the wall.
+63944: Fat chance.
+63956: Stairways go down to the north, south, east, and west. Which way do you
+want to go?
+64016: The east/west corridor branches to the south here.
+64052: West is a large round pit about 65 feet deep. Running down the center of
+the pit is an axle with a platform attached at the level of this hall. The
+platform is swinging around the wall of the pit. You see another hall west
+across the pit.
+64220: You are standing on a wooden platform swinging clockwise around the pit
+wall. The floor is 65 feet down but halls leave the pit at this level on the
+east and west sides.
+64340: The pit with the swinging platform is east of this intersection. Halls
+go north and south.
+64404: In the center of this room is a stone block. There is a stone disk on
+the top surface of the block. Directly above the disk is suspended a glass
+globe just full of spiders and little snakes and scorpions. Exits are north and
+south.
+64564: The contents look nasty.
+64584: This room is full of carved demons and devils doing nasty thing to
+innocent people. There is quite a bit of gold-leaf fresco and bas-relief. Very
+nice if you don't mind the subject matter. The only exit is south.
+64736: This room is decorated in various textures of black stone. A hall leads
+north. Carved on the floor is an ornate pentacle. This room is very depressing.
+64844: The hall ends in an alcove to the south. The intersection in north.
+Odd... The floor feels a bit shaky here. Nothing to worry about though.
+64948: It seems to be filled with green gas.
+64976: The corridor goes north to the stairs and south from here. There are
+alcoves to the east and west. In the floor between the alcoves is a quartz
+window.
+65084: You can dimly see into a tiny room under this corridor. In the tiny room
+rests a huge glittering diamond!
+65160: This alcove is empty but the floor has a separate stone platform set in
+it. The platform moves slightly when stepped on but does not move up or down.
+Directly above the platform is a hole in the ceiling.
+65300: This alcove has a stone platform set in the floor. The platform shifts a
+little but does not move when you step on it. Sticking out of the platform is
+an iron crank.
+65416: You are on the crank platform at the bottom of the shaft under the
+alcove. There is an opening to the east.
+65492: This is a tiny room. The only exit is back west. You can see the quartz
+window directly above your head.
+65568: You are at the end of the hall. To the south is a wooden door with a
+steel knob on it.
+65628: This room is empty except for a small chest at one end. The only exit is
+the door to the north.
+65696: To the hall goes east from here. To the west is the stairway to the
+round room. A narrow passage leads south.
+65776: A wide chasm crosses the passage at this point. Fortunately someone has
+built a wooden bridge across it. The narrow passage continues south past the
+bridge and north to the intersection.
+65904: The hall goes east and west from here and there is a doorway to the
+north.
+65956: This is the south end of a long room. The walls and floor and ceiling
+are covered with thousands of metal gadgets that you might want to examine more
+carefully. There is a path free of gadgets to the north end of the room.
+66108: The room stretches away back south. The metal gadgets are clustered even
+more densely here.
+66172: You are in a deep pit up to your chin in sticky grayish glue. You can
+probably climb out using a rough set of handholds on the east wall. (Probably
+carved by a previous sucker.)
+66296: There's no way up on that side.
+66320: The hall ends in a door to the east. To the west is that pit of glue.
+66372: You are wading through knee-deep piles of the fur that is stuck all over
+you. The door is to the west is jammed open by more of the stuff. The hall
+continues east.
+66488: The walls of this east/west corridor are thick panes of glass over the
+normal stone blocks. So is the floor which makes it hard to walk on your furry
+feet.
+66596: The hall ends in another glass-covered wall. On this wall is an iron
+shelf bolted onto the glass. (Actually the bolts go through the glass into the
+stone wall.)
+66712: This is a landing on the stairway. You can go down to the north or up to
+the south. A passage leads east.
+66788: You are at the bottom of a ladder that goes up a shaft from here. To the
+south is the stairway up.
+66856: The hallway goes east and west here with a branch north.
+66896: The north hall ends at a door. Stretched from wall to wall and floor to
+roof in the hall are long thin metal blades that you have to worm between very
+carefully.
+67008: You are at the south end of a room. There is a door to the south. The
+floor is covered with hundreds of stalagmites.
+67092: This is the north end of the stalagmite room. On the north wall is a
+button with something written on it. The only way out is back south.
+67188: You are outside an ornate door with an ornate iron lock. The
+hieroglyphics on the door seems to indicate that it leads into the central tomb
+where the gold coffin is!
+67304: This is the antechamber to the crypt where legends say the many bodies
+of the Great Lord are buried. There is a brightly painted fresco running around
+the chamber. The Great Door is west and the sacred crypt is south.
+67456: The fresco depicts the pharaoh stepping into a tall blue box, carefully
+inspecting a large machine and a pile of trash, eating a pizza, and laughing
+his head off at someone who looks very much like you.
+67596: At last! The tomb of the many bodies! Scattered around the room are
+frescos that must represent the different bodies. The whole room is shockingly
+valuable.
+67708: The bodies depicted seems to decrease in age. The first is an old
+geezer, the second is rather younger, the third is quite young and wearing a
+scarf and a coat, etc.
+

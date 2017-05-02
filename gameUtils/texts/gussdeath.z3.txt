@@ -1,0 +1,245 @@
+7876: You can hardly repeat that.
+8141: You can't begin with a comma.
+9245: You can't see any such thing.
+9284: You aren't holding that!
+9377: That's not a verb I recognise.
+9414: You can't see "
+9530: Nothing to do!
+18824: At the moment, "it"
+18897: and "me" means
+28517: Nothing to do!
+28532: o. You have died
+28630: It is now pitch dark in here!
+28657: I beg your pardon?
+28721: Sorry, that can't be corrected.
+28750: Think nothing of it.
+28817: Please answer yes or no.
+28837: Are you sure you want to quit?
+28873: Failed.
+28888: Restore failed.
+28901: Ok.
+28914: Save failed.
+28925: Ok.
+28957: Transcripting is already on.
+29006: Transcripting is already off.
+29029: End of transcript.
+29050: Score notification on.
+29071: Score notification off.
+29094: You have visited:
+29119: Objects you have handled:
+29140: None.
+29357: You are carrying nothing.
+29399: Taken.
+29410: You are always self-possessed.
+29530: You already have that.
+29618: That isn't available.
+29660: That's hardly portable.
+29683: That's fixed in place.
+29757: Already on the floor.
+29778: You haven't got that.
+29821: Dropped.
+29839: It is unfortunately closed.
+29864: But it isn't there now.
+29883: Removed.
+29985: You lack the dexterity.
+30063: Done.
+30115: That can't contain things.
+30140: Alas, it is closed.
+30234: Done.
+30277: That isn't in your possession.
+30300: First pick that up.
+30853: You can't go that way.
+31279: But it's dark.
+31292: You find nothing of interest.
+31324: But it's dark.
+31399: You find nothing of interest.
+31494: It's unlocked at the moment.
+31562: It's locked at the moment.
+31587: First you'll have to close it.
+31655: That's already on.
+31708: That's already off.
+31763: It seems to be locked.
+31784: It's already open.
+31891: It's already closed.
+31935: You're not wearing that.
+31983: You can't wear that!
+32004: You're not holding that!
+32027: You're already wearing that!
+32077: That's plainly inedible.
+32111: Not bad.
+32126: That was a rhetorical question.
+32180: That seems unnecessary.
+32203: Keep your mind on the game.
+32228: What a good idea.
+32247: You smell nothing unexpected.
+32274: You hear nothing unexpected.
+32299: You taste nothing unexpected.
+32331: Keep your hands to yourself!
+32356: If you think that'll help.
+32377: You feel nothing unexpected.
+32458: Oh, don't apologise.
+32488: Quite.
+32526: You can't usefully blow that.
+32553: You achieve nothing by this.
+32578: No, you can't set that.
+32610: You wave, feeling foolish.
+32640: But you aren't holding that.
+32705: It is fixed in place.
+32726: You are unable to.
+32750: Nothing obvious happens.
+32787: That's not a direction.
+32806: Not that way you can't.
+32834: Keep your hands to yourself.
+32855: You achieve nothing by this.
+32884: Futile.
+32905: You talk to yourself a while.
+32928: This provokes no reaction.
+32955: There is no reply.
+32974: Nothing is on sale.
+32993: Your singing is abominable.
+33027: Time passes.
+33085: The lamp post stands here, dark.
+33116: You shimmy up the lamp post.
+33216: You slide down the lamp post.
+33407: The skylight closes with a bang.
+33729: Bang!
+34710: An exercise in Interactive Fiction. Written by Kyle Frownfelter.
+34776: You can't go that way.
+34824: It is pitch dark, and you can't see a thing.
+34856: As good-looking as ever.
+34884: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+34944: You seem to want to talk to someone, but I can't see whom.
+34988: To talk to someone, try "someone, hello" or some such.
+35030: I didn't understand that sentence.
+35086: I didn't understand that number.
+35112: You seem to have said too little!
+35138: You can't use multiple objects with that verb.
+35172: You can only use multiple objects once on a line.
+35208: You excepted something not included anyway!
+35240: You can only do that to something animate.
+35272: That's not something you need to refer to in the course of this game.
+35322: I didn't understand the way that finished.
+35354: There are none at all available!
+35378: Sorry, you can only have one item here.  Which one exactly?
+35778: Please give one of the answers above.
+35804: [You can't "undo" what hasn't been done!]
+35840: [Can't "undo" twice in succession. Sorry!]
+35878: "Oops" can only correct a single word.
+35906: Are you sure you want to restart?
+35930: The game file has verified as intact.
+35956: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+36070: You're carrying too many things already.
+36134: You can't put something on top of itself.
+36164: You need to be holding it before you can put it into something else.
+36212: You'll need to take it off first.
+36236: You can't put something inside itself.
+36292: That's not something you can enter.
+36318: You can only get into something on the floor.
+36350: But you aren't in anything at the moment.
+36380: You'll have to say which compass direction to go in.
+36418: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+36514: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+36596: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+36720: You can't see inside, since it is closed.
+36750: That doesn't seem to be something you can unlock.
+36786: That doesn't seem to fit the lock.
+36812: That doesn't seem to be something you can lock.
+36846: That doesn't seem to fit the lock.
+36872: That's not something you can switch.
+36898: That's not something you can switch.
+36924: That's not something you can open.
+36950: That's not something you can close.
+36976: This dangerous act would achieve little.
+37004: Nothing practical results from your prayer.
+37034: The dreadful truth is, this is not a dream.
+37066: Digging would achieve nothing here.
+37092: Cutting that up would achieve little.
+37118: You jump on the spot, fruitlessly.
+37144: You would achieve nothing by this.
+37168: There's nothing suitable to drink here.
+37196: But there's no water here to carry.
+37222: Real adventurers do not use such language.
+37252: Violence isn't the answer to this one.
+37280: There's not enough water to swim in.
+37306: There's nothing sensible to swing here.
+37334: No, you can't set that to anything.
+37360: That would be less than courteous.
+37384: Is that the best you can think of?
+37408: You lack the nerve when it comes to the crucial moment.
+37446: I don't think much is to be achieved by that.
+37478: You aren't feeling especially drowsy.
+37536: This is your revolver, fully loaded and ready for the job your about to
+pull off.
+37592: This is the corner of Zen street which runs to the north. Baluthar
+street is to the south.
+37656: Ignoring your mission, you walk onto Baluthar street and vanish from
+sight.
+37710: You are standing at the north end of the street, directly to the south
+of Gordan's restaurant. You could go back south.
+37794: Why? You need to find a better way to destroy Guss than that.
+37838: A single lamp post stands here, eluminating the street.
+37878: It's your normal lamp post, which stretches up to the roof of the
+restaurant.
+37932: You step back, and load the lamp post with lead. Nothing has changed
+much, except...
+37994: Shoot the lamp post without your gun? I don't think so!
+38034: You've already done enough damige to the thing already.
+38074: You already have done enough damige already. Anyway, how could you blast
+the thing if you don't have your gun?
+38152: You are clinging to the top of the lamp post, where the roof is only a
+jump away. The only other option in directions is down.
+38240: This is as far as the lamp post goes.
+38266: You can't go that way.
+38284: You can't go that way.
+38302: You fly... So high in the sky... And... Too bad the ground was cement.
+38358: Somebody stares at you from below as they pass into the restaurant.
+38404: Somebody laughs as they observe your hands gripping the lamp post.
+38450: A small child atempts to climb the lamp post twoards you, but only
+succeeds in hurting his hands.
+38518: Somebody screams, "what in the hell is that man doing up there? Call the
+nassional guard!"
+38584: You brace yourself, and swing up onto the roof.
+38618: You are on the restaurant roof, where the only exit is jumping distense
+to the lamp post, or through the small skylight down.
+38704: You jump, grabbing the lamp post on your way.
+38736: The skylight is open.
+38752: The skylight is closed.
+38770: You plummit several feet before landing on the floor of the restaurant.
+No one seems to have noticed your arrival.
+38850: Straining, you lift the skylight.
+38874: This is the restaurant that Guss was supposed to have came for the
+night. It is pretty normal, a counter in the front, a set of chairs and things
+just beyond the counter, and the exit from the restaurant to the south.
+39024: A smile splits your face as Guss's picture hits your eyes: he's standing
+next to the counter, his back turned towards you.
+39112: Through the crowd, you can't make out the skylight. You probably
+wouldn't be able to reach it anyway.
+39184: Your boss wanted you to kill Guss because he was trying to get your boss
+in trouble for the Hansen murders. Boss did it anyway, however, so he could.
+But if you pull the job off just right, Guss won't talk to anyone.
+39338: Get something that can shoot bullets before atempting this.
+39380: Pointing the gun at Guss's head, you pull the trigger. The restaurant
+goes into a frenzy as Guss collapses to the floor, blood pouring from the wound
+in his head. You are pushed blindly forward by tons of people trying to get
+out, most of them shouting things like "he's got a gun!" and "where is he?"
+Finally, you manage to get away and you disappear down a alley.
+
+The next day,
+you smile in pride when the top headline is, "Guss Forden shot and killed in
+restaurant. No leads or clues found."
+39732: Just shoot him and get it over with!
+39758: You don't want to catch Guss's attention.
+39790: Your looking for a job. 'Boss' as you know him as, picked you up one day
+and asked you if you wanted one. It was about murder, and you were scared at
+first, but when he offered you five hundred thousand bucks you told him you
+would take the risk. The car stopped at about seven o'c, and you got out, the
+gun's cold metal touching your hip. You began walking, thinking of what you are
+about to do...
+40074: The gun fires, but no damage seems to have been done.
+

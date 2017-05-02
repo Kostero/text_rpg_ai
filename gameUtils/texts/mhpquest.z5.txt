@@ -1,0 +1,421 @@
+10298: Score:
+10312: Moves:
+10352: Time:
+11045: Csdba KpmTo repeat a command like "frog, jump", just say "again", not
+"frog, again".
+11128: You can hardly repeat that.
+11458: You can't begin with a comma.
+11521: You seem to want to talk to someone, but I can't see whom.
+11612: To talk to someone, try "someone, hello" or some such.
+13486: I didn't understand that sentence.
+13596: I didn't understand that number.
+13628: You can't see any such thing.
+13661: You seem to have said too little!
+13693: You aren't holding that!
+13722: You can't use multiple objects with that verb.
+13762: You can only use multiple objects once on a line.
+13841: You excepted something not included anyway!
+13879: You can only do that to something animate.
+13917: That's not a verb I recognise.
+13947: That's not something you need to refer to in the course of this game.
+14003: You can't see "
+14048: I didn't understand the way that finished.
+14169: There are none at all available!
+17100: Sorry, you can only have one item here.  Which one exactly?
+26178: At the moment, "it"
+26250: and "me" means
+26277: exn** Player objects must have "number" prop **
+31681: M.
+36552: Nothing to do!
+36568: . You have died
+36846: Please give one of the answers above.
+36906: I beg your pardon?
+36924: dxn[You can't "undo" what hasn't been done!]
+36966: ehn[Can't "undo" twice in succession. Sorry!]
+37040: Sorry, that can't be corrected.
+37070: Think nothing of it.
+37092: "Oops" can only correct a single word.
+37163: Please answer yes or no.
+37183: Are you sure you want to quit?
+37217: Are you sure you want to restart?
+37243: Failed.
+37260: Restore failed.
+37273: Ok.
+37288: Save failed.
+37299: Ok.
+37314: The game file has verified as intact.
+37341: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+37516: Transcripting is already off.
+37539: End of transcript.
+37561: Score notification on.
+37583: Score notification off.
+37607: You have visited:
+37654: None.
+37879: You are carrying nothing.
+37922: Taken.
+37934: You are always self-possessed.
+38054: You already have that.
+38142: That isn't available.
+38185: That's hardly portable.
+38209: That's fixed in place.
+38233: You're carrying too many things already.
+38309: Already on the floor.
+38331: You haven't got that.
+38374: Dropped.
+38419: But it isn't there now.
+38438: Removed.
+38519: You can't put something on top of itself.
+38597: You lack the dexterity.
+38677: Done.
+38719: You need to be holding it before you can put it into something else.
+38799: Alas, it is closed.
+38821: You'll need to take it off first.
+38851: You can't put something inside itself.
+38941: Done.
+38983: That isn't in your possession.
+39006: First pick that up.
+39300: That's not something you can enter.
+39368: You can only get into something on the floor.
+39482: But you aren't in anything at the moment.
+39591: You'll have to say which compass direction to go in.
+39692: You can't go that way.
+39851: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+39953: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+40041: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+40458: But it's dark.
+40471: You find nothing of interest.
+40504: But it's dark.
+40594: You find nothing of interest.
+40622: You can't see inside, since it is closed.
+40721: That doesn't seem to be something you can unlock.
+40763: It's unlocked at the moment.
+40791: That doesn't seem to fit the lock.
+40845: That doesn't seem to be something you can lock.
+40911: First you'll have to close it.
+40939: That doesn't seem to fit the lock.
+40993: That's not something you can switch.
+41025: That's already on.
+41069: That's not something you can switch.
+41101: That's already off.
+41147: That's not something you can open.
+41179: It seems to be locked.
+41201: It's already open.
+41309: That's not something you can close.
+41341: It's already closed.
+41385: You're not wearing that.
+41433: You can't wear that!
+41455: You're not holding that!
+41479: You're already wearing that!
+41529: That's plainly inedible.
+41562: Not bad.
+41578: That was a rhetorical question.
+41606: This dangerous act would achieve little.
+41640: Nothing practical results from your prayer.
+41676: The dreadful truth is, this is not a dream.
+41764: What a good idea.
+41784: You smell nothing unexpected.
+41838: You taste nothing unexpected.
+41918: You feel nothing unexpected.
+41944: Digging would achieve nothing here.
+41976: Cutting that up would achieve little.
+42008: You jump on the spot, fruitlessly.
+42042: You would achieve nothing by this.
+42072: There's nothing suitable to drink here.
+42106: But there's no water here to carry.
+42138: Oh, don't apologise.
+42160: Real adventurers do not use such language.
+42196: Quite.
+42208: Violence isn't the answer to this one.
+42242: There's not enough water to swim in.
+42274: There's nothing sensible to swing here.
+42308: You can't usefully blow that.
+42386: No, you can't set that to anything.
+42449: But you aren't holding that.
+42514: It is fixed in place.
+42536: You are unable to.
+42556: That would be less than courteous.
+42581: Nothing obvious happens.
+42610: Is that the best you can think of?
+42640: That's not a direction.
+42659: Not that way you can't.
+42709: You achieve nothing by this.
+42740: Futile.
+42747: You lack the nerve when it comes to the crucial moment.
+42796: You talk to yourself a while.
+42819: This provokes no reaction.
+42847: There is no reply.
+42867: Nothing is on sale.
+42913: I don't think much is to be achieved by that.
+42951: Time passes.
+42967: You aren't feeling especially drowsy.
+43393: You discover a small gold coin.
+43456: As you rummage through the ashes of the fire you discover an old torn
+note.
+43519: You creep through the entrance to the cave.
+43567: You creep through the entrance to the cave.
+43613: As you continue along the trecherous path around the mountain, you slip
+on a small loose rock and tumble over the edge of the path, plumetting several
+thousand feet to your death on the rocks below. Due to your carelessness, your
+daughter Crystal became more and more ill as the days went by, until she
+finally died in searing agony, blinded and paralised by her illness.
+43875: The water slides down your throat, and you feel refreshed.
+43934: You step through the opening in the wall.
+43979: It is a large stone wall carved into the rock face. There is a small
+opening in it.
+44038: This large stone wall looks as if it was purposely crafted from the rock
+face for some reason. There is definately no way around it.
+44144: You step through the opening in the wall.
+44476: You thrust the knife deep into the heart of the orc. It screams and
+writhes about in agony for a few seconds and then falls dead on the floor in a
+pool of blood.
+Two other orcs run out of the nearby trees and drag the body
+away.
+44635: You have nothing with which to kill the orc.
+44703: You are already in your cottage.
+44754: In her weak state she succums to your violent actions quickly. Very soon
+Crystal lays dead in her bed. Murdered by her own father! The idea was to save
+her life, not take it.
+44903: As the coin splashes into the water of the fountain there is a bright
+flash and you see that the gold coin has become a golden flute.
+45102: You take some of the magic clover leaves.
+45151: Well Done! You have saved Crystal's life. 
+Even as you feed the clover
+leaves to your daughter, you notice her perk up. After only a few days she has
+fully recovered. You decide to keep a few of the leaves in case they are needed
+in the future.
+45335: The water slides down your throat, and you feel refreshed.
+45401: kipn
+
+Your daughter Crystal has recently become ill, but you do not know
+why. It is obvious to you that if she isn't cured soon she will die. You have
+heard stories about a magical plant which grows somewhere around this region,
+but you have never actually seen it. It is said to be able to cure any illness.
+You must set off to find it. It is your only chance to save your daughter.
+
+
+Good luck!
+46015: You listen to the sweet music it makes.
+46044: You can't play that.
+46118: Crutchlow.
+Ported from AGT to Inform, 1996.
+46180: You can't go that way.
+46256: It is pitch dark, and you can't see a thing.
+46288: As good-looking as ever.
+46332: Water drips down from the roof of the small dingy cave. It looks like
+someone  once lived here. There are bits and pieces scattered everywhere. 
+
+
+Exits: Exit.
+46448: There are bits and pieces of old clothing and broken furniture strewn
+about the cave. Anything could be hidden under them.
+46532: It is a small cave dimly lit by the light from the entrance. It looks as
+if it was once inhabited.
+46600: The forest is less dense here. There is a little light breaking through
+the treetops. A few feet away you can see the remains of a small fire. 
+
+
+Exits: East and Southeast.
+46724: On closer inspection it seems that many documents and pieces of paper
+have been burned in this fire.
+46796: Here the forest is dark and quiet. The trees tower high above you. 
+
+
+Exits: East, West, South and Southeast.
+46880: You stand at the top of one of many grassy hills. The breeze blows
+gently. From here you can see the forest to the south stretching into the
+distance, and the mountains to the east. 
+
+ Exits: East, West, South and
+Southwest.
+47042: You are at the foot of a large mountain. It is very cold and windy here.
+Set in the side of the mountain there is an entrance to a cave. A path
+continues around the mountain to the east. 
+
+ Exits: East, West, South and
+Southwest.
+47212: It is the entrance to a small dark cave.
+47240: You are travelling along a rocky mountain path. The rocks are lose and
+slippery. It would be very dangerous to continue further. 
+
+ Exits: East and
+West.
+47352: You are standing in the depths of the forest. All you can see is trees.
+
+
+ Exits: North, South, East, Northeast, Northwest and Southeast.
+47456: You are in an especially dark part of the forest. You can barely see a
+thing. 
+
+ Exits: There are exits in all directions.
+47544: You are on the North road, which takes you from the southern part of the
+forest to the mountains. It appears to be little travelled. 
+
+ Exits: North,
+South, West and Southwest.
+47674: You stand on the bank of a beautiful sparkling lake surrounded by many
+plants of all kinds. There must be well over a thousand different types of
+plant here. 
+
+ Exits: East.
+47800: The lake is very calm, around it can be seen all kinds of plants.
+47848: You have never seen so many different plants before. They have leaves of
+all shapes and sizes.
+47914: You stand on the edge of the forest. There is a vertical wall of stone
+to the west. 
+
+ Exits: South, East, Northeast and Southeast.
+48014: You are travelling through the forest. Many pairs of eyes seem to be
+watching you. 
+
+ Exits: North, South, East, West, Northeast, Southeast and
+Southwest.
+48134: You are right in the very centre of the forest. Here the trees seem 
+especially dark and threatening. In front of you is what appears to be a pit of
+some kind. 
+
+ Exits: There are exits in all directions.
+48332: bottom. It appears to be some sort of animal trap.
+48368: You are at a junction on the North road. The junction heads off east. 
+
+
+Exits: North, South, East, West, Northwest, Southwest and Southeast.
+48478: You find yourself in a small alcove just off the North road. You see a
+small ornate water fountain here. It seems to have been put here for weary
+travellers in need of a drink. 
+
+ Exits: West.
+48620: This fountain has obviously been frequented by many travellers passing
+through the region as can be seen by the worn stone sides. It is very
+decorative. It must have taken a long time to carve all of these designs into
+the bare stone.
+48784: An ornate water fountain stands here.
+48814: are standing in a small clearing on the edge of the forest surrounded by
+many large rocks and boulders. 
+
+ Exits: North, East and Northeast.
+48914: You are near the edge of the forest. The trees allow in more light here
+enabling you to see much more clearly. 
+
+ Exits: North, East, West, Northwest
+and Northeast.
+49038: You are at the edge of the forest. The forest becomes deeper to the
+north. 
+
+ Exits: North, West, East, Northeast and Northwest.
+49138: The road bends here, taking you either north or east. 
+
+ Exits: North,
+West, East and Northwest.
+49214: You are on the East road. To the south and west you can see forest. 
+
+
+Exits: West, East, South, Northwest and Southeast.
+49310: The road continues in easterly and westerly directions. To the south you
+can just make out your small cottage in a clearing. 
+
+ Exits: West, East,
+South, Southwest and Southeast.
+49442: You are standing on the east road. To the south you can see trees. The
+path continues east and west. 
+
+ Exits: West, East, South and Southwest.
+49552: You are travelling on the East road. The trees get suddenly very dense
+to the east, whereas to the west you see the road stretch into the distance. 
+
+
+Exits: West, East and Southwest.
+49684: This old sign has been here a very long time. It is badly weathered. The
+red writing on it seems to suggest it is important. Perhaps you would be well
+advised to read it.
+49804: An old sign stands at the side of the road.
+49834: This is the end of the east road. Heading east will take you deep into a
+very dangerous looking wood. You feel very wary. Going west takes you back to
+the road. 
+
+ Exits: West and East.
+49972: This creature is very ugly. He also seems a little peeved that you have
+disturbed him. Orcs aren't the best choice of creature to go around annoying.
+50076: A large angry orc blocks your path.
+50102: You can barely see anything in the small amount of light penetrating the
+thick leafy canopy above. You feel as if a hundred pairs of eyes are watching
+you. You'll be glad to leave this place. A strange carving on a tree near you
+catches your attention. 
+
+ Exits: West.
+50294: The carving looks as if it has been made with a blunt knife. It is
+difficult to read, but you work out it says something like... 
+
+               
+ 'Walls have ears'
+50414: This is a quiet peaceful place. Trees gently sway around you. The song
+of birds can be heard in the treetops. 
+
+ Exits: North, South, East, Northwest
+and Northeast.
+50538: You stand in a small clearing in the wood. Just to your south you see a
+little cottage. It is totally silent here, even the birds have stopped 
+singing. To the North is the East road. 
+
+ Exits: There are exits in all
+directions.
+50704: It is your home. The little cottage you built yourself many years ago,
+although the age doesnt show at all. You are very proud of this cottage. You
+and you daughter Crystal had lived here quite happily until she became ill.
+50860: This is a quiet peaceful place. Trees gently sway around you. The song
+of birds can be heard in the treetops. 
+
+ Exits: North, South, West, Northwest
+and Northeast.
+50982: This is a quiet peaceful place. Trees gently sway around you. The song
+of birds can be heard in the treetops. 
+
+ Exits: North and Northeast.
+51086: This is your home. A small cottage that you built for you and your
+daughter. Made from the wood of the surrounding trees, it blends in very well
+with the surroundings. The room is not well furnished. There is just a table,
+an old stove and two beds. In one of the beds lies your daughter, Crystal. Set
+in the south wall of the cottage is a small square window. 
+
+ Exits: Exit.
+51356: Through the small window you can see the trees outside and many small
+creatures scurrying about on the ground rummaging in the leaves for food.
+51456: It is a simple wooden table. It seems to be made from the same wood as
+the cottage.
+51516: There are just the two beds here. Very simple in design but very
+comfortable. In one of the beds lies your sick daughter.
+51604: This is the stove where you cook all your meals. It might not look much
+but it has served you well.
+51676: This is your daughter Crystal. She looks very ill. It wont be long now
+before she dies unless you can cure her.
+51756: Your daughter Crystal is here lying on her bed.
+51790: This is a very scenic part of the wood. The sun shines through the
+branches of the trees. Bird song can be heard all around. 
+
+ Exits: North,
+South and Northwest.
+51910: You stand at the back of your house. The view is stunning. You can see
+right to the horizon between the trees. 
+
+ Exits: East.
+52004: It is a little darker here, with the trees being taller and denser, but
+there is still plenty of light to allow many plants to grow. 
+
+ Exits: North
+and West.
+52120: A shiny new gold coin with a picture of a fountain on one side and some
+sort of plant on the other. It looks like it will come in handy.
+52216: This old torn note looks as if it has been ripped from someones diary or
+notebook. There is some writing on it.
+52296: These are the leaves of the magical clover plant. Legend has it that
+they can cure any illness if eaten.
+52372: It is a very sharp little knife. You usually use it for sharpening
+sticks but it could be a very effective weapon.
+52452: The cool clear water looks very refreshing.
+52484: It is the most beautifully crafted flute you have ever seen. Every
+detail has been perfected. It is made from pure gold.
+

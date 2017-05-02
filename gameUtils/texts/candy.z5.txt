@@ -1,0 +1,294 @@
+11694: Nothing to do!
+11729: o. You have won
+11891: fhn[Your interpreter does not provide "undo". Sorry!]
+11988: Please give one of the answers above.
+12019: It is now pitch dark in here!
+12046: I beg your pardon?
+12064: dxn[You can't "undo" what hasn't been done!]
+12106: ehn[Can't "undo" twice in succession. Sorry!]
+12178: Sorry, that can't be corrected.
+12207: Think nothing of it.
+12228: "Oops" can only correct a single word.
+12262: It is pitch dark, and you can't see a thing.
+12313: As good-looking as ever.
+12337: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+12400: You can hardly repeat that.
+12425: You can't begin with a comma.
+12453: You seem to want to talk to someone, but I can't see whom.
+12528: To talk to someone, try "someone, hello" or some such.
+12596: I didn't understand that sentence.
+12666: I didn't understand that number.
+12695: You can't see any such thing.
+12722: You seem to have said too little!
+12751: You aren't holding that!
+12775: You can't use multiple objects with that verb.
+12815: You can only use multiple objects once on a line.
+12855: I'm not sure what "
+12890: You excepted something not included anyway!
+12926: You can only do that to something animate.
+12961: That's not a verb I recognise.
+12991: That's not something you need to refer to in the course of this game.
+13045: You can't see "
+13088: I didn't understand the way that finished.
+13183: Nothing to do!
+13200: There are none at all available!
+13274: Sorry, you can only have one item here. Which exactly?
+14234: Please answer yes or no.
+14260: Are you sure you want to quit?
+14296: Are you sure you want to restart?
+14328: Failed.
+14348: Restore failed.
+14365: Ok.
+14383: Save failed.
+14398: Ok.
+14416: The game file has verified as intact.
+14448: The game file did not verify as intact, and may be corrupted (unless you
+are playing it with a very primitive interpreter which is unable properly to
+perform the test).
+14578: Transcripting is already on.
+14635: Transcripting is already off.
+14684: Score notification on.
+14705: Score notification off.
+14728: You have visited:
+14756: Objects you have handled:
+14781: None.
+15165: You are carrying nothing.
+15214: Taken.
+15225: You are always self-possessed.
+15610: You're carrying too many things already.
+15794: Dropped.
+15904: Removed.
+15993: You can't put something on top of itself.
+16070: You lack the dexterity.
+16151: Done.
+16350: You can't put something inside itself.
+16441: Done.
+16740: Wrahn seem interested.
+16959: You can only get into something freestanding.
+17081: But you aren't in anything at the moment.
+17195: You'll have to say which compass direction to go in.
+17297: You can't go that way.
+17483: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+17585: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+17673: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+17987: Darkness, noun. An absence of light to see by.
+18118: But it's dark.
+18135: You find nothing of interest.
+18171: But it's dark.
+18262: You find nothing of interest.
+19432: . Not bad.
+19450: That was a rhetorical question.
+19477: This dangerous act would achieve little.
+19511: Nothing practical results from your prayer.
+19547: The dreadful truth is, this is not a dream.
+19584: That seems unnecessary.
+19607: Keep your mind on the game.
+19632: What a good idea.
+19651: You smell nothing unexpected.
+19678: You hear nothing unexpected.
+19703: You taste nothing unexpected.
+19738: Keep your hands to yourself!
+19763: You feel nothing unexpected.
+19788: If you think that'll help.
+19814: Digging would achieve nothing here.
+19881: You jump on the spot, fruitlessly.
+19914: You would achieve nothing by this.
+19943: There's nothing suitable to drink here.
+19976: But there's no water here to carry.
+20007: Oh, don't apologise.
+20029: Real adventurers do not use such language.
+20064: Quite.
+20075: Violence isn't the answer to this one.
+20108: There's not enough water to swim in.
+20139: There's nothing sensible to swing here.
+20203: You achieve nothing by this.
+20291: You wave, feeling foolish.
+20441: You are unable to.
+20460: Nothing obvious happens.
+20483: That would be less than courteous.
+20521: Is that the best you can think of?
+20550: That's not a direction.
+20573: Not that way you can't.
+20605: Keep your hands to yourself.
+20630: You achieve nothing by this.
+20664: Futile.
+20676: You lack the nerve when it comes to the crucial moment.
+20728: You talk to yourself a while.
+20755: This provokes no reaction.
+20783: There is no reply.
+20802: Nothing is on sale.
+20821: Your singing is abominable.
+20847: I don't think much is to be achieved by that.
+20884: Time passes.
+20899: You aren't feeling especially drowsy.
+22717: [Advanced to "noun" token:
+36126: Try typing "showverb" and then the name of a verb.
+38508: Property value not routine or string: "
+38542: " of "
+38573: Entry in property list not routine or string: "
+38613: " list of "
+38648: Too many timers/daemons are active simultaneously. The limit is the
+library constant MAX_TIMERS (currently
+38775: " has no "time_left" property
+38806: The object "
+38822: " can only be used as a player object if it has the "number" property
+39007: The room "
+39021: " has no "description" property
+47337: Trace off.
+47959: Nothing is in scope.
+48246: Apm
+
+Mother has just dropped you off at your slightly eccentric Aunt
+Lidia's house, or "pad" as Lidia calls it. Auntie Lidia told you she is
+catching forty winks and not to disturb her beauty sleep. Now you can get back
+to your goal in life...
+48440: First, pretending he's Mr. Peanut, you use your vivid imagination too
+hold a mock trial for him. He's found guilty and is sentenced to digestion. You
+pop the slightly mildewed goober into your mouth, making you little screaming
+noises for Mr. Peanut the whole time.
+48643: The carpet greedily eats it.
+48666: Carefully, you get on all fours, then lower yourself into the world
+below the carpet...
+48891: Of course, it's covered with hair, but it's candy nevertheless.
+48940: Alas, nothing is found in the hairy enigma. You don't think your hand
+ever rally touched the floor. How deep is this carpet?
+49035: The carpets wall to wall.
+49080: With a delicit yank, the cotton candy is yours.
+49127: The hair is fastened to the ball like your limbs to your body. You don't
+mind much as the shaggy threads give it charecter and by no means deters your
+want to devour it.
+49271: With a quick flick of the wrist, the jawbreaker is yours!
+49322: Not one to prolounge pleasure, you stick the hairy jawbreaker into your
+pink little mouth and swallow. It almost gets stuck halfway through your
+esophigas, but you manage to get it down into your gastric juices.
+49499: You find a single forgotten chocolate covered peanut within one of the
+wrappers. Score!
+49591: The window opens to let the howling winds in. You quickly shut it.
+49644: The window isn't open.
+49671: You see a candy fish deep within the darkness under the fridge.
+49720: Not with that lock.
+49743: You reach for it, and can almost touch it, but you don't. You better
+keep drinking your milk. You think the red ones are grape flavor anyway, so you
+prolly wouldn't like it. Too sour.
+52456: An Attempt at Reliving Childhood By Rybread Celsius. '97
+THIS IS BETA
+ONE, TYPE HELP FOR INFO.
+52700: Score:
+52708: Moves:
+52716: Time:
+52724: You can't go that way.
+52890: -- Mephiskaphales, "Mephiskaphales"
+52920: The darkness is scary. You don't believe in the boogie man...but what
+it?
+52976: Just your average year old chocolate covered peanut. Covered in
+chocolate even.
+53032: Your very own stomach.
+53048: Your not quite sure what a foyer is, but you are most certain you are in
+one. Auntie has told you enough times. It's a pleasant enough room, with a
+carpet like a shaggy dog and nice wallpaper showing pictures of little fairies
+playing. To the south is the door to outside. There are also stairs leading up
+and exits to the east and west.
+53284: The door is locked from the inside. Odd. Not supposed to go outside
+anyway.
+53340: A very spirally staircase. Looking at it makes you dizzy.
+53384: The wallpaper is very pretty. There are Fairy folk playing instruments
+and dancing all around. It's all set on a generic background pattern of
+criss-crossing snakes, each eating the one in front of it. No candy here.
+53536: The door to outside, where your not supposed to go.
+53572: It reminds you of "The Shaggy Dog" by Disney. It reaches from wall to
+wall and is a remarkable 6 inches deep. It's up to your shins, and it's as if
+your wading in the carpet. It would be very easy to loose something in this
+ocean of shag.
+53744: You are in the midst of the white monster. Your sure that if you dropped
+anything it could definaintly be found here. It's not that interesting down
+here, or not what you would excpect. No Fraggles, and the roots of the shags
+are pretty nasty.
+53916: A wild patch of cotton candy has taken up root here.
+53952: Judging from the mold you'd guess that this mold is circa 1977. A good
+year for cotton candy, quite a find. Luckilly, it seems as if its roots arn't
+that deep.
+54068: A hairy jawbreaker.
+54084: Entagled in the shag is a lone jawbreaker.
+54116: This hallway contains pictures you sent your Aunt. It flows east to
+west.
+54168: On closer look, though they look like the things you did in your YMCA
+art class, they are indeed not. Some are just scribles, blank peices of paper,
+sea shells, candy wrappers, a crayon doodle, kleinex and one is just a tin can
+taped to the wall with the price tag still on it: $500. Hmm.. maybe you'll
+start an art show when you get back home.
+54416: The tin can is ancient, and simply says SPAM on it.
+54456: Fortintly you lost your cold, as this tissue looks old and too rough for
+your delicate nose.
+54520: You definantly like the doodle more than the scrible. If your eyes don't
+decieve you the single color used is your favorite: Burnt Siena.
+54620: The candy wrappers stick off the paper, teazing with their one time
+contents.
+54676: Not very pretty shells, and not a conch in sight, though the periwinkles
+are cute.
+54736: The blank peice of paper has a spotlight highlighting it.
+54776: Just some ziggy, zaggy, lines. Auntie put this one in a solid gold
+frame.
+54832: From this window you can spy the outside. It looks green. And sunny. You
+suddenly want to play Nintendo.
+54908: Your Aunt is renowned for her slim figure. She's been dieting for 48
+years and has used many methods, which can be seen lying about in this room.
+There's that Gwenni Kraig refrigerator lock she got for loosing her fourth
+pound. On the counter top is a for home use "ankle fat reduction suite", though
+it looks like a tiny lipo-sucker to your eyes. Next to it sits one of those
+long cigars that women smoke. Finally, on the floor is a knife with some
+instructions next to it. Your hopes of finding candy shrink closer to despair.
+55280: The knife looks pretty sharp. You feel like running with it while
+holding it upward.
+55416: Try as you might the fridge is impossible to open due to the blasted
+Gwenni Kraig lock. It was built to fend off four hundred pounds of raging
+estrogen, thus you are just a minor threat.
+55578: Its red in color.
+55716: Of course she never does and says its too keep skinny, though you think
+she resembles a wraith quite a bit. Of course, your not sure what a wraith is.
+55820: DEATH FOR VANITY II
+MUSIC DESTROY! 93 LYRICS FELIX VON HAVOC 93
+KNUCKLES
+TORN AND BLOODY
+FROM GOING DOWN YOUR THROAT
+NAUSEA AND STARVATION
+IN A QUEST
+FOR UNOBTAINABLE BEAUTY
+SOCIETY DICTATES
+CONFORMIST STANDARDS OF APPEARANCE
+ITS
+MODELS AND MOVIES STARS
+SURGICALLY ALTERED AND ENGINEERED
+
+EATING DISORDERS ARE
+SOCIETAL
+A PRODUCT OF PATRIARCHY
+WOMEN CONDITIONED FROM AN EARLY AGE
+PLEASE MEN
+SATISFY THEIR GAZE
+A DEADLY RACE TO KEEP UP
+WITH THE PRETTIEST GIRLS IN
+SCHOOL
+TURNS INTO A NIGHTMARE LIFE
+OF STARVATION AND BULIMIA
+
+WE MUST LEARN TO
+ACCEPT
+OUR PEERS AS WHAT THEY ARE
+RATHER THAN HOLD THEM TO
+SOCIALLY DICTATED
+FANTASY STANDARD
+WHEN PUNKS REBEL AGAINST SOCIETY
+WE MUST REBEL AGAINST ITS
+RULES AND ROLES
+
+Peer pressure and socialization drive many young women to
+starve themselves in order to CONFORM to artificial movie star standards of
+beauty. Many die as result of eating disorders and thousands more are
+physically and mentally scarred for life. While society recognizes such
+disorders as harmful the cosntant brainwashing propaganda is still allpervasive
+in the media, fashion and beauty industries.
+

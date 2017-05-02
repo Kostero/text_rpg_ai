@@ -1,0 +1,1436 @@
+36772: There is no reply.
+36840: Nothing is on sale.
+37298: Dropped.
+37355: . Not bad.
+38484: Wrahn seem interested.
+38999: Done.
+39048: You are carrying nothing.
+39133: Keep your mind on the game.
+39158: You hear nothing unexpected.
+40222: But it's dark.
+40239: You find nothing of interest.
+40267: Quite.
+40297: Nothing to do!
+40332: o. You have won
+40415: It is now pitch dark in here!
+40442: I beg your pardon?
+40506: Sorry, that can't be corrected.
+40535: Think nothing of it.
+40588: As good-looking as ever.
+40620: You can hardly repeat that.
+40645: You can't begin with a comma.
+40759: I didn't understand that number.
+40788: You can't see any such thing.
+40824: You aren't holding that!
+40920: That's not a verb I recognise.
+40958: You can't see "
+41068: Nothing to do!
+41085: There are none at all available!
+41496: That was a rhetorical question.
+41523: Score notification off.
+41546: Score notification on.
+41575: Objects you have handled:
+41600: None.
+42073: You have visited:
+42267: You are unable to.
+42286: Nothing obvious happens.
+42336: That's not a direction.
+42359: Not that way you can't.
+42506: You lack the dexterity.
+42587: Done.
+42635: Please answer yes or no.
+42661: Are you sure you want to quit?
+42820: Removed.
+42851: Failed.
+42870: Restore failed.
+42887: Ok.
+42897: You achieve nothing by this.
+42929: Save failed.
+42944: Ok.
+43052: There is no score in this story.
+43090: Transcripting is already off.
+43156: Transcripting is already on.
+43222: But it's dark.
+43342: You find nothing of interest.
+43642: Your singing is abominable.
+43676: You smell nothing unexpected.
+43703: Oh, don't apologise.
+43731: Keep your hands to yourself.
+43756: You achieve nothing by this.
+43985: Taken.
+43996: You are always self-possessed.
+44519: You taste nothing unexpected.
+44553: You talk to yourself a while.
+44580: This provokes no reaction.
+44606: What a good idea.
+44632: Futile.
+44661: Keep your hands to yourself!
+44686: You feel nothing unexpected.
+44711: If you think that'll help.
+44957: Time passes.
+44981: That seems unnecessary.
+45077: You wave, feeling foolish.
+48201: [Advanced to "noun" token:
+74889: Cn.
+75312: " of "
+75350: " list of "
+75430: " has no "time_left" property
+75460: The object "
+75519: The room "
+75533: " has no "description" property
+93797: Trace off.
+94867: Nothing is in scope.
+97002: Hooray!
+97846: Congratulations!!!
+98609: The clerk thanks you.
+98914: You're not holding it.
+99975: The hellhound is asleep...
+100178: The goblin ignores you.
+101223: The shroud no longer feels warm.
+101448: Tursk arrives.
+102407: You are not in the village shop!
+102483: You are not in the village shop!
+102515: You are not in the village shop!
+102570: You're not holding that.
+102599: You can't wield that.
+102639: You're already wielding that.
+102796: Wielded.
+102929: You're not wielding anything.
+102975: You're not wielding that.
+103014: Unwielded.
+103031: You can't use that here.
+103174: Experience:
+103195: Gold:
+103216: Food:
+105865: in" or "notin
+105881: opmhas" or "hasnt
+106023: }" at end of "objectloop
+108316: Score:
+108324: Moves:
+108332: Time:
+108340: You can't go that way.
+108448: Violence isn't the answer to this one.
+108476: This dangerous act would achieve little.
+108504: I don't think much is to be achieved by that.
+108564: Digging would achieve nothing here.
+108592: There's nothing suitable to drink here.
+108620: That would scarcely empty anything.
+108648: You can only get into something free-standing.
+108720: But you aren't in anything at the moment.
+108752: But there's no water here to carry.
+108808: You can't put something inside itself.
+108836: You jump on the spot, fruitlessly.
+108864: You would achieve nothing by this.
+108916: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+109012: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+109096: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+109208: You see nothing unexpected in that direction.
+109472: Please give one of the answers above.
+109500: [You can't "undo" what hasn't been done!]
+109536: [Can't "undo" twice in succession. Sorry!]
+109576: "Oops" can only correct a single word.
+109604: It is pitch dark, and you can't see a thing.
+109636: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+109696: You seem to want to talk to someone, but I can't see whom.
+109740: To talk to someone, try "someone, hello" or some such.
+109780: I didn't understand that sentence.
+109840: You seem to have said too little!
+109864: You can't use multiple objects with that verb.
+109900: You can only use multiple objects once on a line.
+109936: You excepted something not included anyway!
+109968: You can only do that to something animate.
+110000: That's not something you need to refer to in the course of this game.
+110048: I didn't understand the way that finished.
+110080: Sorry, you can only have one item here. Which exactly?
+110180: Nothing practical results from your prayer.
+110236: That would be less than courteous.
+110260: Is that the best you can think of?
+110284: You can't put something on top of itself.
+110316: Are you sure you want to restart?
+110340: Attempt to end transcript failed.
+110364: Attempt to begin transcript failed.
+110392: You aren't feeling especially drowsy.
+110420: Real adventurers do not use such language.
+110452: There's not enough water to swim in.
+110480: There's nothing sensible to swing here.
+110508: You're carrying too many things already.
+110540: You lack the nerve when it comes to the crucial moment.
+110608: You'll have to say which compass direction to go in.
+110648: The game file has verified as intact.
+110676: The game file did not verify as intact, and may be corrupt.
+110720: The dreadful truth is, this is not a dream.
+111074: Best choices are all from the same group.
+111328: Try typing "showverb" and then the name of a verb.
+111392: Your voice echoes emptily.
+111412: The game often tries to create atmosphere by mentioning items 'visible'
+in rooms. However, the only objects with which you can actually interact are
+those listed at the end, after the possible exits.
+111588: Property value not routine or string: "
+111616: Entry in property list not routine or string: "
+111652: Too many timers/daemons are active simultaneously. The limit is the
+library constant MAX_TIMERS (currently
+111736: " can only be used as a player object if it has the "number" property
+112100: Exits:
+112120: This is a portal between dimensions. Where it leads is unknown.
+112220: You cast heal...
+112236: Your wounds are healed somewhat.
+112268: You attack:
+112278: You missed...
+112294: You struck a solid blow.
+112406: Your ARMOR glows and you feel warm!
+112464: The dragon has fallen!
+112492: You are rewarded with experience and gold.
+112534: You have sustained a vicious blow!!!
+112598: A long time ago, when mystics, warriors and villagers 
+        with
+smelly socks roamed the land, things were great. 
+        You could slay
+dragons, beat up no-good thieves, and 
+        even go on adventures with your
+drinking buddies. To 
+        add to it all, there was a princess to chase
+after and 
+        a king to swear allegiance to. All in all, life was 
+       
+grand. 
+
+        Until one day, that is...An evil dragon has taken refuge 
+    
+   in a nearby cave. As the King's chief dragon hunter, it is 
+        up to
+you to slay the dragon dead. Good luck!
+113142: You can learn more about this project by visiting:
+113220: This project was ported cross-platform on May 15, 2003.
+Originally
+written for Win32 and Linux SuSe Professional.
+113312: Bug-fixed by: Frank Kotler, Randall Hyde, Sevag Krikorian and others.
+113548: The dead dragon lay at your feet. The king was right, it WAS a dragon
+after all (and not some guy in a clown suit). Ugh, clowns! 
+
+As your accountant
+arrives to shake you down, you struggle to remove your sword from the beast's
+belly. With blood splattered everywhere, you feel relieved of your duties.
+You'll soon retire on a nice bounty and marry the princess after all. The king
+warned her about you, but alas, you've got bigger fish to fry. You have a
+castle to take over, a wife to knock up, and kids to blame for your drinking
+problem. But over a few tankards of beer, much will disappear as the room
+returns to spinning once more. 
+
+Where is Merlin when you need his advice?
+(Drunk as usual, sheesh!) 
+
+Guy with sword 1, evil dragon 0. Time for another
+drink...
+114100: You stand over the crumpled body of the menacing dragon, your sword
+bathed in blood. It is a lonely sight to behold a once great dragon reduced to
+so little. In a way, you feel sorry for it, if only for a moment. Besides, with
+the sun now over the horizon, the taverns will be opening once again. Why waste
+spilled dragon on the greatness that is free beer?...
+114372: Much the same as yesterday.
+114392: You collapse from starvation...
+114418: Alas, not one of your better moves...
+114456: You are running out of food!
+114476: You are standing in a tavern with creaky wooden floors. Laughter and
+commotion surround you as the bartender tends to his customers. A few tables
+and chairs are visible here. A staircase heads upstairs to the second floor of
+the tavern. A sign reads "Drink Cerveza!"
+114664: Type 'HELP' for a list of commands used in HLA Adventure.
+114712: If you need help, you can also e-mail me at:
+114820: These are standard iron rations (lasting two weeks).
+114858: You eat the rations...
+114880: You feel much better!
+114896: You are standing on the upstairs hallway of the tavern. A few rooms are
+visible up ahead, the largest of which stands to the east. It appears
+unoccupied at the moment.
+115012: You are standing in the village shop. Commands here include 'BUY
+<item>', 'SELL <item>' and 'LIST'. A clerk is normally here attending to
+customers. He seems friendly enough.
+115156: To purchase the sword (for example), type: BUY SWORD
+To sell an item,
+use 'SELL' instead of 'BUY'.
+115240: The clerk isn't here to help you.
+115264: The clerk say, "Here is what we have in stock:"
+115302: The clerk says, "Take your time."
+115332: Gold:
+115344: The clerk isn't here to help you.
+115368: The clerk says, "We don't sell that here."
+115402: The clerk says, "You don't have enough money."
+115444: Gold:
+115456: You hand the clerk the gold coins. The clerk hands you the item. The
+clerk thanks you.
+115520: The clerk isn't here to help you.
+115544: The clerk says, "You aren't carrying that."
+115580: The clerk says, "Sorry, I don't know what that's worth."
+115624: The clerk says, "Sorry, that's worthless."
+115658: You hand the clerk the item.
+115682: The clerk hands you the gold coins.
+115712: Gold:
+115720: A stout clerk. He looks well fed.
+115748: The clerk says, "Well, what will it be, soldier?"
+115788: A flask of oil used with the lantern.
+115816: A small metal sword with a diamond hilt.
+115844: A dull meat cleaver, unevenly sharpened.
+115876: You are standing in a small room. It is mostly bare, save for a few
+wooden barrels. The only exit is back west.
+115956: A brass lantern with rusted hinges.
+115984: These are standard food rations, lasting two weeks.
+116020: You eat the food...
+116040: You feel better!
+116052: You are standing on a path in the middle of town. The road is quite
+muddy, and you notice wheel ruts in the ground. To the east stands a village
+shop.
+116160: You are looking down on your reflection over a deep artisan well. The
+water rises some 100 feet below ground level, and the sides are green with
+moss. You don't notice if the water contains any of the moss from the walls,
+but it looks green nonetheless!
+116350: The door is locked!
+116364: A common villager. He smiles at you briefly before passing.
+116408: The villager says, "Please, leave me alone."
+116444: You are standing in a small cathedral. Several pews adorn the room
+here, while high stained glass windows dominate the interior. An altar stands
+to the north, near the back.
+116568: You are facing a stone altar in the front of the cathedral. The nave in
+the apse extends some twenty-five feet from center to ground. A small storage
+room is east. It looks a bit bare, but this church is fairly unadorned with
+items to begin with!
+116740: You are standing inside a small storage room. It is used to store items
+pertaining to the church. However, some of these items do not even belong to
+the church! (go figure). The only exit is back west.
+116884: A coil of rope about 20' long.
+116908: You use the rope and climb up...
+116932: You use the rope and climb down...
+116960: A small wooden key.
+116974: You are standing in a large guild room. A large crescent flag with a
+star emblazoned on it drapes down from the ceiling. A few tables and chairs are
+here, as well as a large fireplace. The fire is currently burning, illuminating
+the room in a soft glow. You notice some logs on the fire, burning quietly.
+117190: Type 'HELP' for a list of commands used in HLA Adventure.
+117240: You notice a small bulletin board here.
+117268: A strong paladin wearing a metal pendant. He seems of noble blood.
+117316: The paladin laughs at you! He says, "What are you, some pathetic
+mortal?! Do us both a favor and grow a beard! Gain some weight! And strap on
+some armor, for God-sake! You won't succeed long in the Misty Mountains without
+a good buckler or helmet to protect you. And you'll need some sort of weapon,
+perhaps the firewhip, hmmm? Oh, I see, you've got SOME items on your body, but
+nothing I'd buy for a dime!"
+117616: A gleaming metal scimitar. It looks deadly.
+117648: Your SCIMITAR glows!
+The monster is smashed into atoms!
+117696: A fine suit of chain-linked armor.
+117724: A crusader shield stained with blood.
+117752: A small wooden flute. You can 'PLAY FLUTE' to hear music.
+117800: You play the FLUTE...
+A mystic sound is heard echoing throughout the
+trees.
+117860: The flute drains the enemy of energy, reviving your own!
+117924: You play the flute...
+A mystic sound is heard, echoing throughout the
+trees...
+117984: The sound is returned by the empty rustling of leaves.
+118024: The hellhound is already fast asleep.
+118052: The hellhound has fallen fast asleep.
+118078: This is a small bulletin board. It reads (briefly):
+118228: Can you find the castle?
+118452: You are standing near a stone archway. Vines grow on either pillar,
+snaking around the columns on both sides. The road into town heads north past
+an old cathedral. The cathedral itself is built on a steep hill, overlooking
+the village. Small plumes of smoke arise from the top.
+118648: It is much too dark!
+118664: You are walking down a well-lit path beyond the forest. The path heads
+north here past a stone archway. You also notice a well near the center of
+town.
+118772: A dusty path heads west for miles on end.
+118804: You are walking down a narrow path near the outskirts of the forest.
+Trees surround you to the south, with a fork in the road visible nearby. It
+appears to branch out in four directions, heading into a thick haze.
+118952: You are facing an intersection in the forest. Paths head off in four
+directions here. To the south, the forest becomes oppressive and dark. To the
+east, there is far more sunlight. A misty haze surrounds the forest, enveloping
+the area with a thick, dull smoke. Even the ground looks lifeless, as it is
+littered with rocks, leaves, and ash.
+119196: There is a portal here, pulsating white light.
+119232: A friendly wolf with yellow eyes. He seems content on watching you.
+119280: The wolf doesn't seem to understand you. It perks up a bit, though,
+when you mention the word "food".
+119392: A large hellhound with fiery eyes. It guards the entrance to the
+caverns.
+119444: The hellhound growls at you!
+119466: It growls, "Get out of here, knave! Go where you belong...like HELL!!"
+119528: The hellhound breathes fires on you!
+119632: You are engulfed in flames!
+119652: The hellhound growls angrily at you!
+119680: It screams, "You will pay with your blood, knave!"
+119720: The hellhound growls at you angrily! It barks, "So you humans have come
+here to do battle with hell itself! That's not our problem! The Devil has
+placed me here to guard this tomb and ensure that all humans are destroyed! I
+speak from the walls of hell when I Answer: GET OUT OF HERE, KNAVE!"
+119940: You are walking in a tall Redwood forest. The trees are among the
+tallest on Earth -- some reaching over 150 feet high. The forest thins out some
+to the west. Beyond the forest lies a small cottage, partially shrouded from
+view by distant trees.
+120116: You are facing a large oak tree. The branches are twisted and tangled,
+aged by the ravages of time. The limbs of the tree are low-lying and extend
+some ten feet off the ground. The tree appears climbable, although a rope may
+be needed.
+120280: You are standing on a branch high atop the forest. To the east, you
+notice a small grassroof hut. The only exit is back down (unless you can fly,
+that is!). You notice a small nest on a branch just below the hut. There
+doesn't appear to be any way to reach it, however.
+120472: You are standing inside a small grassroof hut. A few tables and chairs
+adorn the hut, while a small bookcase is visible near the back wall. The only
+exit is west.
+120588: A hobbit usually lives here.
+120608: A smoked glass bottle.
+120624: A sturdy metal battleaxe. It looks sharp and lethal.
+120664: Your BATTLEAXE vibrates! The monster is pounded into submission!
+120716: A small hobbit with furry feet.
+120740: The hobbit smiles at you. He says happily, "My name is Tarn. Normally
+we don't live in trees, but I fashioned myself a hut atop this one here. Quite
+simple, see? We don't have much time for fun and games. All we do is work,
+work, work! Isn't that what you do, too?"
+120936: You are walking in a tall Redwood forest. These trees are among the
+oldest and tallest in the world. The forest thickens somewhat to the east. An
+intersection is to the southwest.
+121064: You are walking in a tall Redwood forest. These trees are among the
+oldest and tallest in the world. To the north stands an old oak tree, aged by
+time. It appears to have several low-lying branches. You might need a rope to
+climb it, however!
+121236: A translucent specter. It haunts the surrounding forest.
+121276: The specter laughs at you! He bellows: "HAHAHAHA! What mortal do we
+have here?!" It begins to grow silent for a moment, pondering your entire
+being. "Metal won't cut through me!" he laughs.
+121420: You are walking in a tall Redwood forest. Further passage west is
+blocked by fallen trees. The only exit is back west. A cottage is visible far
+to the south.
+121532: You are standing on a broken path near an intersection. To the north
+stands a tall Redwood forest. Up ahead (to the east) lies a small cottage. It
+looks empty.
+121648: An ugly goblin with brown teeth. He looks vicious and cunning.
+121692: A sharp metal axe. It is dual bladed.
+121720: A sturdy brass helmet.
+121736: You are walking on a broken path. There is a cottage directly east
+(formerly obscured by trees). Someone obviously lives (or lived?) there.
+121836: You are standing in a small cottage. The area is mostly bare, save for
+an old bed and a small fireplace. Everything else has been moved (or stolen).
+What happened to these items remains a mystery.
+121976: A small metal dagger with a jeweled hilt.
+122008: You are standing by a small lake. The water glistens vibrantly in the
+fading sunlight, as clouds drift by on the horizon. A clearing is visible to
+the west.
+122120: You are standing in a small clearing. There is nothing around but blue
+sky. A lake is visible to the east, about one or two leagues distance. The air
+above is quite calm and peaceful.
+122248: You are standing on a grassy hillside. The grass tickles your feet as
+you walk on by. To the north, just beyond a large hill, lies a path near the
+forest.
+122356: An elf of the surrounding forest. He seems peaceful.
+122396: The elf sings a tune. "LA TA LA! Tai shee! Alkai!" The elf stops
+singing for a moment and looks you over. It says, "I grew up in these woods, a
+long time before you foolish humans ever stepped foot here! Now you invade our
+space, cut down our trees and dry up every river and stream! Go away from here,
+and don't come back!"
+122636: An elven cloak tied at the waist by a small rope.
+122672: A magical ring of protection. It glows with a soft hue.
+122712: You are walking on a path in the middle of a large forest. Trees
+surround you in all directions here, while the path continues to the south
+(leading you deeper into the forest).
+122836: You are standing on a winding road. The path heads east to west across
+the landscape. Far to the west you can see majestic purple mountains. These
+mountains rise hundreds of feet into the air, towering over the forest like
+giant statues.
+123000: You are walking down a winding road. The path heads east and west in
+both directions here. You notice a small wooden bridge to the northwest. It
+cuts across the forest like a wayward razor blade.
+123136: A warrior with flowing hair and a trim beard. He looks mean.
+123180: The warrior stops you!
+123200: He says, "You may not pass!"
+123224: The warrior looks you over. He sighs deeply. He says, "I suppose you
+want to cross this road, right? Well, only if you get past me first! Nothing
+free is easy, either!"
+123348: A long metal broadsword with a sapphire hilt.
+123380: Your BROADSWORD glows! A blast of white light zaps the monster!
+123436: A pair of full metal gauntlets.
+123460: You have reached a junction near the winding road. The path splits off
+here to the north over a small wooden bridge. It appears to go over a small
+ravine about twenty feet wide. The ravine itself isn't much, but caution should
+still be taken.
+123628: You are walking on a wooden bridge north of a junction. The bridge is
+worn and the wood splintered, suggesting an ancient time and age. A bronze
+statue is visible to the north.
+123752: The statue appears to resemble the late king, Erik of Desmark.
+123798: You are facing a bronze statue. It appears to depict a man shrouded in
+traditional priesthood garb. He is holding a bronze staff (in the shape of a
+snake). But his likeness bares a striking resemblance to the late king.
+123956: Why the late king would be wearing a tunic is beyond your vision.
+124004: You are walking on a winding road. Purple mountains surround you in all
+directions here. You notice a small cave to the northwest. The cave appears
+rather dark and misty, not a place to be wandering about without a lantern!
+124160: You are standing near a purple mountain range. The terrain becomes
+rockier to the north and west. The path slopes down to the southeast, cresting
+at a small hillside.
+124276: You are standing in a purple mountain range. The path becomes steadily
+unclimbable to the north. The only viable exit is back south (100 feet below).
+124384: You are walking in a purple mountain terrain. The rockier it becomes,
+the less steady your feet! A tumble here could spell the death of one thousand
+chickens.
+124496: You are standing south from a series of small caves. There is very
+little light here, as the sun sinks below the horizon. Better head back east,
+as the sky is quickly fading to night.
+124624: You are standing in a dark cave. Tunnels head off in all directions
+here. You notice one particularly wide cavern heading north into the darkened
+abyss.
+124732: It is much too dark!
+124748: The terrain becomes steadily unclimbable to the west. You notice a
+small Shinto shrine to the north, just across a small river. The river extends
+nearly two miles from the bottom of a small cliff.
+124884: You have reached a dead end in these purple mountains. The terrain
+becomes far too rocky to the west and north. The only way back is east (sad to
+say).
+124992: You are walking on a path heading south. You notice a decaying forest
+to the west, while small hills run east and north. Far to the south stands a
+stone castle, towering high above the forest.
+125128: You are standing on a grassy hillside. The grass tickles your feet as
+you walk on by. To the east lies a steady slope (heading downward).
+125228: You are standing on a grassy slope. It continues south towards a run at
+the bottom of the hill. The grassy plain continues westward.
+125320: You are standing in a decayed forest. Most of the trees appear to be
+dying. Twisted by age and time, there is nothing left but echoed embers. The
+trees seem to be crying out for rain, but nothing comes.
+125464: You are walking in a forest that appears to be dying. The undergrowth
+is overgrown with weeds and flattened leaves. It looks mostly dried out and
+lifeless. To the south, the forest thins out somewhat, heading into a grassy
+hillside near tall, rocky mountains.
+125644: You are standing in the middle of a forest that appears to be dying.
+Many of the trees have succumbed to waste rot. A few mushrooms litter the
+ground here, none edible.
+125764: You are on a path south of the forest. Up ahead lies a small bridge
+(traversing a tiny creek). Just beyond the bridge, the path widens near a large
+stone castle.
+125880: You are heading south on a narrow slope. The hillside steepens to the
+south, driven downward by erosion and contact metamorphism.
+125972: You are standing due south from a grassy hillside. The path winds east,
+then drops off some fifty feet into a small ravine below. You might want to
+bring along a coil of rope (to climb down the ravine).
+126116: You are walking on a gradient path descending near a small ravine. The
+descending slope of the curve leaves little to chance. Be careful!
+126212: You are standing by the western edge of a decaying forest. The path
+west is blocked by fallen trees. To the south, the forest continues to widen.
+126316: You are walking in a dying forest. It is vastly decayed and overgrown
+with weeds and mushrooms. To the east lies a stone bridge, crossing a small
+creek. The water moves at a rapid rate of speed.
+126452: This is an EVIL demigorgon! He has towering wings and strong claws!
+126502: The demigorgon grabs you!
+126524: It hisses, "Care for a DANCE?!"
+126554: The demigorgon slams you against the floor!
+126588: You turn ghostly white and whither...dead away!!
+126624: The demigorgon growls, "So you humans have come here again to taste the
+blood of the spirit?! You'll have no such satisfaction from me! I was placed
+here to KEEP YOU OUT of the woods! Yet you scum, you earthly poison, inhabit
+these lands as if they belonged to you! Not a Godly world for you to poison,
+Knave!"
+126852: You are standing on a small wooden bridge. It overlaps a small creek
+below. The water is moving rapidly to the southwest. There doesn't appear to be
+many fish swimming in the creek. Given the speed of the water, this doesn't
+surprise you much.
+127024: A savage barbarian. He craves destruction and greed.
+127062: The barbarian blocks your path!
+127088: He hisses, "This is my bridge!"
+127116: The barbarian swings at you! Luckily, he missed. He growls, "Who are
+you to bother ME inside these lands?! I am from the Clan of Desmoth, to the
+north of this world! I don't like humans, the angry little bastards of a
+forgotten mother! Someday we will destroy the humans and enslave them for the
+Mines of Minos! You will regret your very life!!!" The barbarian looks angrily
+at you again. He says, "Let's finish this the human way -- by blood!"
+127440: You have reached the end of a southern slope. The path south is blocked
+by a small ravine. The only exit is back north (up the hill). The slope stops
+abruptly here at a very large boulder.
+127572: You are standing in a cramped cell within the dungeon walls. There
+isn't much here save for a small bed and a wooden table. Carved on the table
+are the words: "IT CAME FROM THE CAVES...EATING ME ALIVE LIKE LIONS!"
+127752: You are overlooking a small ravine. The path steepens quickly into the
+rocky ravine below. A fall from this distance would prove fatal. Better to use
+caution than blind chance!
+127876: You have reached the end of the forest. The path west is further
+obstructed by fallen trees, large rocks, and sturdy undergrowth. The expansive
+growth of the forest gives way to a small clearing, opening up just ahead.
+128028: You are walking in a dying forest. The undergrowth is full of weeds,
+rocks and mushrooms. You notice a few large tree stumps towards the southeast.
+The dense undergrowth of the forest slightly shrouds your vision. A smaller
+path heads west.
+128196: You are heading south in a decayed forest. The path narrows some to the
+west here. You notice quite a few tree stumps rooted in the ground here.
+Scattered leaves cover the ground, providing slight cover from the branch and
+bramble of the forest.
+128368: You are walking on a path just south of a small bridge. A few trees dot
+the landscape, but the area remains relatively clear. A castle is south.
+128472: You are standing inside a small cell within the dungeon. It is mostly
+empty, save for a small bed and a wooden table. The table is clear.
+128568: You are standing in a darkened dungeon. There is naturally very little
+light here, as your lantern casts ominous shadows upon either wall. You begin
+to wonder why you're down here. Just what are you searching for?
+128720: You are standing inside a small cell. Unlike the others, this one is
+completely devoid of items. This strikes you as rather odd indeed. Most cells
+have at least a small bed, but no such comfort can be found inside these walls!
+128880: You have reached the end of a dying forest. To the south, fallen trees
+and large rocks parallel your path in all directions. The only visible exit is
+back north.
+128992: You have reached the end of the forest. To the south, large rocks and
+storm-tossed trees block your path in all directions. A violent storm appears
+to have recently passed over this area. In fact, you can still hear the faint
+rumblings of thunder in the far distance.
+129180: You are standing before a large, hulking stone castle. Vines grow on
+either column, spiraling upwards like a nefarious weed. To the south lies the
+main hall.
+129292: An unholy knight, he serves only those with impure hearts.
+129334: The knight bars passage south!
+129360: He growls, "I wouldn't go there if I were you!"
+129400: The knight looks you over. He says, "Aren't you a bit short for a
+fighter? No matter. If you choose to face me, choose to die!" The knight wields
+his sword, standing at the ready.
+129532: You are standing inside a darkened dungeon below the castle. There is
+very little light here, as your eyes take a moment to adjust to the
+surroundings. There are several cells here, each apparently unoccupied.
+129680: You are standing inside a small bedroom. Visitors can come and rest
+here while awaiting an audience with the king. But no one is here at the
+moment.
+129784: You are standing in a long, wide hallway inside the castle. Ceremonial
+flags hang down from either column above you. A few rooms lie to the east and
+west. A throne room is visible to the south.
+129920: You are standing inside a small library within the castle. Rows of
+shelves line the walls, containing many books and parchments. A stairwell is
+also here, descending into darkness below. Where it leads (or why it exists)
+remains a mystery.
+130088: You are standing before a large throne. Tall drapes hang down on either
+side (across stone columns). The columns support a stone archway, the apex of
+which stands wide and rotund. You notice a few jewels encrusted on either side
+of the throne.
+130260: Once honorable, this sorcerer has turned to the arts of black magic.
+130308: The sorcerer is too busy casting spells to be busy with talk.
+130352: You are in a darkened, twisting passageway within the caves. The tunnel
+drifts downward near a small crevice (like a fissure or cleft within the cavern
+wall).
+130464: You are walking in a darkened tunnel. There is a narrow crack to the
+east, but it appears impossible to reach from here.
+130548: You are heading east in a twisting passage. The tunnel narrows to the
+east, just beyond a small fissure. The tunnel widens substantially towards the
+north.
+130656: You are walking on an east-west passage near a small fissure. The
+tunnel walls become quite narrow towards the east. You can almost sense the
+walls closing in on you!
+130772: You are facing a narrow opening in the cavern wall. It appears
+inaccessible from this vantage point. Only a few feet wide, you cannot possibly
+squeeze through the opening.
+130892: You are facing a small intersection. There are tunnels heading north,
+south, and east from here. The largest tunnel heads north towards the center of
+the cave.
+131004: You have reached a narrow crack, a small opening (or cleft) within the
+cavern wall. It appears to head downward along the edge of the wall towards an
+abyss below. From somewhere, far below, you can hear the sound of rushing
+water.
+131168: You are facing a small intersection within the cavern. Tunnels head off
+in all directions here, although the eastern tunnel is blocked by a very large
+boulder. Who placed it there (and why) remains a perplexing mystery.
+131320: You have reached a narrow crack, a small opening (or fissure) within
+the cavern wall. It is far too narrow to pass through safely.
+131412: You have reached the end of the tunnel. A narrow fissure is visible to
+the south. The only exit is back to the north.
+131496: You are walking near a small junction within the caves. To the south, a
+larger tunnel opens up and gives way to a small keep. This unusual room was
+chiseled (carved) out of the surrounding stone of the cavern (a subterraneanly
+vast cavity).
+131664: You are walking in a narrow tunnel just west of the main passageway.
+The cavern is hollow and the walls are quite porous (from multiple
+interstices). As an underground enclosure, the cavern hollows out towards the
+middle and spreads westward from the main passageway.
+131848: You are standing in the middle of a large, subterraneanly vast
+passageway (tunnels head off here in multiple directions). The cavern slopes
+downward underground, heading northwest from the main passageway. The light is
+very dim here, with faint light casting shadows against either wall.
+132048: To the south lies the main entrance to the caves.
+132084: An undead skeleton. He is covered with blood and rotting flesh.
+132132: The skeleton doesn't understand you. He howls, "NOTA ROTUNDA!"
+Suddenly, you feel different! It isn't a good different, either! You get a
+funny feeling in your stomach! You feel weaker!
+132276: A metal longsword with a ruby hilt.
+132304: You are walking near an eastern junction within the caves. A series of
+tunnels head north and east from here, while a small fissure is visible to the
+south.
+132412: You are walking in a narrow tunnel, heading south past a jagged
+crevice. However, the opening is far too narrow to pass through safely.
+132508: The tunnel ahead is blocked by fallen rocks. Something (or perhaps
+someone) has caused a collapsing of the cavern ceiling. The only way back is
+south.
+132616: You are walking in a twisting passageway. The tunnel ahead widens
+somewhat before giving way to a large opening. You can't be certain, but you
+think you hear the sound of rushing water (nearby).
+132752: You have reached a dead end within the caves. There isn't much waggle
+room to be found here. The only exit is back south.
+132840: You are walking inside a narrow passageway within the caves. A large
+fissure lies ahead to the north, permitting passage.
+132924: You are walking in a narrow tunnel (just south of a large fissure). Up
+ahead, carved directly into the rock face itself, lies a small keep.
+133024: You are walking in a wide tunnel just south of a small waterfall. The
+steep descent of water cascades from a height of about twenty feet. Just beyond
+it lies a small fissure (inaccessible from here).
+133164: You are standing before a large waterfall. The water cascades downward
+into a flowing pool below. The ripples on the water move swiftly from the force
+of the waterfall. It may be possible to follow the pool east, although the
+fissure is narrow at best.
+133340: An evil vampire. He sucks the blood of unwitting victims.
+133384: The vampire looks at you and laughs! He growls, "So it is you who has
+come to vanquish me! So be it, Knave! You won't get past me without your head
+on the floor, looking up at my sword!"
+133520: The vampire BITES your neck! You feel very weak...
+133564: A large dragon with tough scales and powerful claws.
+133600: The vampire stops you!
+133620: "You may not kill the dragon!", he growls.
+133652: You still have quests left to complete!
+133680: The dragon bellows, "I am the last of my kind. And here you are, a
+dirty human, come to slay me?! I breathe fire upon trees, rustling the bad kami
+out of the poison forests and valleys of this forgotten world. I keep my peace
+inside these caves, only to be disturbed by the wretched humans which pollute
+this landscape! I was once happy in my silence here, yet you come here to make
+me miserable! I won't allow it, Knave! Prepare to feel my wrath!!!" The dragon
+moves about angrily, stomping the floor!
+134036: The dragon breathes FIRE on you!
+134134: You are burned badly!
+134156: You are standing in a small keep within the cavern walls. The room is
+impressively chiseled out of the rock face above. A few candles line the room,
+while a small table rests in the center. The only exit is back south.
+134308: You are walking in a tall Redwood forest. The forest spreads out
+towards the east, while a small clearing is plainly visible nearby. A path
+heads south from the clearing towards a rock formation. A small cottage lies to
+the southwest.
+134472: The exit south is blocked by a magical force field.
+134508: You are standing in a Redwood forest. The path you are traveling on
+ends abruptly here. The bank of a swiftly moving river is plainly visible as
+well. The river does not appear too deep, although crossing it may prove
+hazardous.
+134668: You are walking on a narrow dirt path heading east to west across a
+large forest. The surrounding area is quite beautiful, with trees providing
+ample shading. Bright light filters down from the canopy above you, crossing
+the ground. A path heads east.
+134844: You are standing in a small clearing. Two forests meet at this point: a
+tall Redwood forest, and a smaller forest comprised of spruce trees. It is
+obvious that someone (or something?) cleared the area of trees in either
+direction.
+135008: You are walking in a tall Redwood forest. To the north lies a small
+clearing. The forest thins out some to the east, while southwest of here you
+notice a swiftly-moving river. The path south takes you past the forest into a
+large hillside.
+135176: A large grizzly bear. It looks dangerous!
+135208: The bear doesn't seem to understand you.
+135240: You are on a dirt path heading south. The forest gives way here to a
+large open field. Further south, the path descends past a rocky formation
+towards a sandy beach. The breeze from the ocean becomes more obvious to the
+south.
+135400: You are walking on a dirt path just south of a large Redwood forest.
+The path heads south past a large open field. You notice a few animals grazing
+the field to the west, but elsewhere remains quite empty.
+135544: You are walking on a well-worn path near a large rock formation. The
+formation itself is largely comprised of granite and shale, although
+transformation has taken place in larger areas of the rock face.
+135684: You are walking on a well-worn path. The beach is plainly visible to
+the southeast, while a hefty rock formation extends down to the beach below. A
+slight breeze is also apparent here. The path continues east and west.
+135836: You are walking on the western edge of a large, sandy beach. The sand
+feels soft to the touch, as the minute grains sift endlessly through your
+hands. A gentle breeze swirls around you from the north. You can head east from
+here towards the middle of the beach.
+136020: You are walking on a sandy beach. The sand is mostly a mixture of gray
+and white, although muddier sections are visible near the coastline. The tide
+appears to come with regularity here. You notice a stiff breeze to the
+northeast. There are also some seashells here.
+136208: A beach bum. He appears to be drinking something.
+136244: The bum mumbles something about peace and flowers, before sinking into
+the sand with his foot!
+136312: You have reached the southern edge of the beach. Further travel south
+takes you directly into the ocean. A stiff breeze hits your front side from the
+northeast. The edge of the beach is littered with seashells. The ground has
+small borrow marks across the coastline.
+136496: You are walking on a sandy beach. It curves north here past a large
+rock formation. Waves splash up against the shore with regularity, sending
+shells well past your feet. Far to the east, you notice a tall lighthouse.
+136648: You are walking on a dirt path near a large rock formation. The beach
+is visible some fifty feet below your position. It appears just steep enough
+for you to climb down, although caution should be taken when carrying heavy
+objects.
+136808: There is a portal here, pulsating blue light.
+136840: You are walking on a sandy beach near a large rock formation. The rock
+face is jagged and unstable, although a small path ascends the base of the
+formation to the north. The ocean is directly south.
+136980: You are standing on a sandy beach. The beach extends east and west in
+both directions here. Several small rocks and seashells are also visible, while
+waves crash against the shoreline to the south.
+137116: You are walking on a sandy beach near the midline of the western coast.
+Waves splash against your feet, as the sun sinks slowly below the horizon. A
+stiff breeze has increased (from a gentle wind).
+137256: You are on a long, sandy beach. The coastline is rather flat, while a
+heavy rock formation towers above you to the south. You also notice a few palm
+trees overhanging the formation near the base of the beach.
+137400: You are walking across a long, sandy beach. Waves move in and shift
+objects up towards the south. It becomes steadily flat to the east, as the
+coastline extends to the northeast (near a tall lighthouse). The ocean is fifty
+feet to the south.
+137572: This is a large kingcrab. It has claws and several legs.
+137612: The crab crawls about, ignoring your words.
+137644: This is a small crab. It has claws and several legs.
+137684: The crab crawls about, ignoring your words.
+137716: You are standing on a sandy beach. The coastline lies in front of you,
+retreating southward. A few wayward seashells are visible to the west, while
+seaweed is strewn haphazardly to the southeast. The only exit is back north.
+137872: You are on a sandy beach just south of a large rock formation. The rock
+face looks jagged and tilts downward at an awkward angle. Several rocks have
+fallen and hit the base of the beach to the south.
+138012: You have reached the eastern edge of the sandy beach. The coastline is
+directly south from here. To the east stands a tall lighthouse, the base of
+which is finitely rotund (sort of). There are some jagged rocks towards the
+north.
+138172: The sandy beach gives way here to the eastern coastline. A shallow
+lagoon is directly east. Although crossing it does not appear to be too
+difficult, caution should be taken. The only exit is back west.
+138316: You are standing east of a small lagoon. To the west (across the
+lagoon) stands a long beach. North of the beach is a tall rock formation. You
+notice a tall lighthouse directly east. It stands over 50 feet high.
+138468: You have reached a tall lighthouse near Flora Island. The structure is
+soundly rotund, spiraling upward at a perfectly straight angle. The top of the
+lighthouse provides light for ships several kilometers out to sea.
+138620: You are walking in a woodland forest. The ground is covered with dirt,
+leaves and many small rocks. To the north lies a small path, heading east to
+west across the landscape. A rock formation stands to the south.
+138768: You are standing at the western edge of the forest. Light filters down
+from the canopy above, while forest critters scurry about the ground. A path
+heads west from here across a large open field.
+138904: You are standing in the middle of a small forest. Several trees
+parallel your path in multiple directions here. To the north lies an eastern
+path (partially obscured by trees and foliage).
+139036: You are standing in the middle of a small forest. The surrounding
+woodlands are populated by hundreds of tall spruce trees. Further to the north
+lies a well-worn path. The only exit is west.
+139172: You are walking in a small forest. The woodlands surrounding you are
+populated with hundreds of tall spruce trees. The ground is mostly bare, save
+for fallen trees and abandoned shrubbery. To the north lies a well-worn path
+(heading east).
+139340: You are facing south in a well-lit forest. Trees surround you in
+multiple directions here, while light filters down from the canopy above. A
+path breaks off here and heads north (before bending eastward).
+139484: You are walking in a well-lit forest. The surrounding area is densely
+populated with tall spruce trees. Further travel west is blocked by
+storm-tossed trees and many large boulders (which look very out of place!). The
+only exit is back north.
+139656: You are walking in a well-lit forest. Trees parallel your path in
+multiple directions here. To the south, the forest widens somewhat past a large
+rock formation. The only exit is south. (Others are blocked).
+139804: You are in the middle of a large forest. The surrounding woodland is
+overgrown with hundreds of tall spruce trees. To the west, the forest opens up
+somewhat near a small clearing. A narrow path heads south towards a large rock
+formation.
+139968: The forest ends abruptly here near the top of a large rock formation.
+The rock face is jagged and unmerciful, permitting only stunted climbing to a
+long beach below. A few seagulls stand perched at the edge of the cliff.
+140120: You have reached the limits of the forest. The eastern perimeter is
+obstructed by fallen trees and the continuation of a massive rock formation.
+The only exit is back west (unless you'd rather jump!)
+140260: You have reached the top of the lighthouse. The entire room is
+constructed of wood, rock and bronze. You notice a large pit where charred
+ashes are visible. Apparently, this is where the lighthouse is lit (not on
+fire!!).
+140420: This is eddie. He managed to get up here (somehow...)
+140464: Eddie looks up at you. He says, "I found my way inside of here by
+searching for a lost treasure. Unfortunately, my directions seem to have
+betrayed me again!"
+140580: You are ascending a spiraling staircase which heads upwards towards the
+top of the lighthouse. The staircase is well-lit, as several small lanterns
+provide ample lighting on either wall. The stairs continue up and down from
+this point.
+140744: You are standing in a tall lighthouse. A staircase is immediately
+visible, ascending upwards in a spiraling fashion. The door leading out of the
+lighthouse stands to the south. You notice small letters carved into the walls
+of the lighthouse.
+140912: You are walking on a well-worn path (heading east). A tall forest of
+spruce trees is directly north. To the west, the path breaks off near a large
+clearing and heads south. You notice a tall Redwood forest to the southwest.
+141072: You are walking on a well-worn path (heading east to west). A tall
+forest of spruce trees is directly south. The path continues to the east. You
+notice a much wider path up ahead towards the northeast.
+141216: You are standing before an intersection on a well-worn path. The path
+widens to the north past a tall forest of spruce trees. To the south, the path
+breaks off into a narrow woodland (again, mostly spruce trees).
+141368: You are facing an intersection at the end of a long path. To the north,
+the path breaks off and heads deeper into the forest. To the south, a narrow
+woodland grows (mostly spruce trees).
+141500: A no-good thief.
+141516: The thief looks nervously at you. He says, "What do you want, Knave?"
+He makes a quick move for your wallet!
+141596: You are walking in a forest of tall spruce trees. The surrounding
+woodland is comprised of hundreds of tall trees, permitting only faint light to
+reach the ground. A path lies to the south, heading east across the landscape.
+141752: You are standing in a dense forest. The forest ends abruptly here at a
+wide path (heading north). The path does not appear to be accessible from your
+vantage point. You will need to head north or south to reach it.
+141904: You are walking on a wide path near a large forest. A smaller trail
+breaks off here and heads east (past a woodland mansion). As you take notice of
+the mansion, it appears quite odd and out of place for these parts.
+142054: You are standing at the edge of a path near a large mansion. This
+wooded structure is crafted in a Victorian age design (which doesn't appear for
+another eight centuries!). Someone is either way high-tech or very obscure.
+142216: There is a portal here, pulsating yellow light.
+142252: You have reached the western perimeter of the forest. The woodland
+becomes quite sparse near the base of a swiftly moving river. On the other side
+lies a transitional forest. (You can't cross from here).
+142396: You are standing in a dark forest. The surrounding woodland is
+populated by tall spruce trees. Further travel east is obstructed by
+storm-tossed trees and dense undergrowth. To the south lies a narrow clearing
+(not really a clearing).
+142560: You are walking in a dense forest. The surrounding woodland is
+populated by hundreds of towering spruce trees (the western path is obstructed
+by fallen trees). To the north lies a swiftly moving river (sort of a mild
+departure from the flourishing forest).
+142740: You are standing in a dense forest. To the south, the forest is less
+dense, giving way to a wide path. It appears from this juncture to head west,
+although your directions are not remotely accurate. The space directly in front
+of you is obstructed by tangled undergrowth.
+142928: You are standing in a small clearing. This clearing seems very out of
+place (like someone...or something?...cleared it abruptly). To the east lies a
+wooded mansion, a two-story complex built from the ground up. A square chimney
+sits atop the mansion.
+143108: You are standing in front of a large mansion. This well-crafted, wooded
+structure seems futuristic and astutely suited for the surrounding forest.
+Someone was either a genius or from the future (or both!). The doorway heading
+into the mansion is north.
+143288: This vicious werewolf eyes you with a deadly gaze.
+143324: The werewolf blocks your path!
+143380: You sense a friendly aura around werewolf and back off!
+143420: The werewolf doesn't seem to understand you. It smells food, however!
+143472: The werewolf eyes your food, and begins following you...
+143516: Werewolf arrives.
+143530: IT HITS!!! The werewolf lands a solid blow!
+143570: The werewolf growls,"I love this game!"
+143604: But alas, it has missed the mark...
+143632: You are standing in a small bedroom just south of a long corridor. The
+room has a bed, an armoire, and a spacious closet. You also notice a large
+bearskin rug in the center of the room. A series of small lanterns provide
+ample lighting for the room.
+143808: You are standing in the main hallway of the mansion. A large mirror
+faces you on the western wall (towards the front door). The hallway extends
+past a small corridor to the north. A spacious living room lies still further
+north.
+143968: You are standing in the Master bedroom. A king-sized bed stands against
+the western wall, while a large armoire occupies the eastern corner of the
+room. A double door leads into a small bathroom to the northeast. You notice a
+chest of drawers here as well.
+144148: You are walking down a narrow corridor in the mansion. Several small
+bedrooms occupy either end of the hallway. Of particular importance is a
+spacious Master bedroom towards the west. A small bathroom stands to the north.
+144304: You are standing near a stone archway (heading west into a darkened
+corridor). Another hallway opens up the east, just past the main living room of
+the mansion. Three bedrooms occupy the western corridor, with two directly
+ahead.
+144464: You are standing in the middle of a corridor just south of the living
+room. The area opens up into a well-lit, carefully crafted room complete with a
+stone fireplace and mantle. Across the way, a sliding glass door leads to the
+backyard.
+144628: You are standing in a small mansion. A wood-burning stove stands in the
+middle, surrounded by a metal enclosure. It appears to intersect the ceiling,
+but this doesn't seem unusual to you. After all, who wants smoke in their
+mansion (not me!). A pantry lies to the north.
+144820: You are standing in the guest bathroom. You are amazed by the modern
+look of the stone basin, complete with fixtures for manipulating water. You've
+never seen such advanced plumbing before; usually it would empty into a hole in
+the ground. But not here.
+145000: You are standing in a small bedroom. This unusual room is without a bed
+of any kind. Instead, someone has taken the unusual measure of crafting a large
+hammock from leaves and bark of the surrounding forest. This is very odd
+indeed!
+145164: You are standing in a spacious living room, complete with fireplace,
+wooden mantle, and oak panel ceiling. The fireplace is constructed out of
+granite and stone, both mixed together to form a solid foundation. A wooden
+mantle rests above it.
+145332: A tall butler. He looks old and cranky.
+145362: The butler stops you!
+145384: He screams, "You're not allowed in here!"
+145416: The butler looks you over thoroughly. He says, "I don't think you
+belong in this mansion! Shoo! Get out of here!"
+145500: You are standing in a dark pantry. There is very little light here.
+Although you can barely make it out, rows of shelves line either side of the
+room. From your point of view, they appear to be densely flat. Bread lies on
+the western shelf.
+145668: You have entered a small toolshed. Light is very sparse here,
+obviously. The surrounding room is covered with dust and soot, something not
+unusual in most toolsheds. A few shelves line the walls, while a window
+overlooks a fountain to the north.
+145840: You are overlooking a small garden. Rows of flowers grow in neat
+columns across the ground. To the west stands a small toolshed. To the north,
+the garden continues near a stone fountain. The patio lies directly east of
+here.
+146000: You are standing on the outdoor patio of the mansion. The area is
+surrounded by a lawn and garden. A concrete wall encloses the lawn in both
+directions here. To the west lies a small garden. Further west, you notice a
+small toolshed.
+146164: You are standing on a grassy lawn. The grass tickles your feet as you
+traverse it. A large wall blocks passage to the south and east, while the lawn
+itself continues north. It looks well-maintained and cared for. The patio
+stands to the west.
+146336: You are standing before an impressive stone fountain. A statue rests in
+the center, upholding a tilted ornate jar. Water trickles down from the jar
+into a mottled basin below. The water appears clear and devoid of algae.
+146492: You are overlooking a small garden, just east of a stone fountain.
+Flowers grow in neat little rows across the ground. A tall olive tree grows to
+the north here, hanging over the courtyard area by some ten degrees. A lawn
+grows towards the east.
+146664: You are standing on a grassy lawn, just east of a small garden. Further
+to the west, you notice a large stone fountain. Past the statue is a rotund
+looking courtyard, and beyond it, a concrete enclosure is plainly visible.
+146820: You are walking on a grassy lawn. A garden grows to the west, just
+opposite a stone fountain. To the east, the lawn continues towards a large
+retaining wall (more like a tall enclosure). The outdoor patio stands to the
+south.
+146980: You are standing before a large olive tree in the center of a
+courtyard. The branches of the olive tree extend westward toward a tall
+enclosure wall. To the southwest stands an impressive stone fountain, from
+which water flows.
+147136: You are standing outside on a grassy lawn. The beautiful Shinden Villa
+stands before you, the heavy tile roofs and vermilion columns vividly apparent
+in the midday sun. To the west stands a narrow water source, traditional to
+esoteric practices of the Mikkyo warrior.
+147324: A simple monk, pious and forthright. He seems very peaceful.
+147368: The monk bars passage to the north.
+147396: "I'm sorry," he says, "But Kukai is not expecting anybody."
+147444: The monk is peaceful...but you attck anyway!
+147480: The monk stops praying. He looks up at you, curiously. He smiles
+briefly before saying, "Welcome to Shinden Villa. This is a peaceful villa away
+from the forests of this world. You will find only inner peace inside these
+walls, for you can take comfort in this inter-knowledge! All peace comes from
+within, and those who plant a seed shall take up root in the spring, and bare
+much fruit!"
+147756: You are facing due west near a vast water source south of Shinden
+Villa. There stands to the west a beautifully constructed wooden bridge. You
+may cross it at any time.
+147876: You are standing atop a narrow wooden foot bridge (made from zelkova)
+just in front of a narrow water source. There are small gardens to the west,
+but they are not fully accessible on foot. You must reach the Western portico
+before entering the Zen gardens of Shinden Villa.
+148068: You are waist high in a small pond just south of the Shinden Villa. To
+the north, the pond arcs in a zigzag fashion with accompanying wooden bridges
+to facilitate access across the outlets of the pond (which flow past the main
+shrine towards the east).
+148244: You are standing before the Western Portico of Shinden Villa. The entry
+point is marked by vermilion columns and above you rises impressive tile
+roofing. Beyond the entrance to the portico lies the Southern Hall, into the
+heart of the western portion of the Shinden Villa Shrine.
+148444: You are wading with bare feet in a shallow section of the Shinden pond.
+The water source ends abruptly at a large portico to the west.
+148540: You are wading nearly knee-high in a large pond just south of the
+beautiful Shinden Villa. To the east lies a small wooden foot bridge. However,
+you cannot reach it from here (without fully submerging yourself in water -- a
+'no-no' with heavy armor and a fat tummy).
+148732: You are standing on a narrow wooden bridge just west of the main
+outsource for Shinden pond. The water is fairly clean -- from what you can
+tell, anyway -- and you notice beautiful birch trees towering slightly above
+the ground level on a grassy section which separates the eastern portion of the
+pond from the western one.
+148956: You are wading chest-high in a large pond directly south of Shinden
+Villa. Your access to the northern section is cut off by a fallen bridge.
+Apparently someone has taken it upon themselves to make your life more
+difficult. Oh well.
+149120: You are wading chest-high in a large and exasperating water source just
+south of the main villa. You may follow the source of the water as it flows
+west, but be careful: Any excess items may wash away into the murky bottom
+below!
+149280: You are wading with bare feet in a shallow section of the Shinden pond.
+To the south lies a small foot bridge, but you must follow the water source
+north due to restrictions placed upon you by Kukai, the Buddhist priest who
+appears to run this place.
+149456: You are walking along a grassy section in the eastern quadrant of the
+Shinden Villa. The courtyard in front of you (yes, there is a small walkway
+heading north, lined with flowers) belies the beauty and magnificent stupor of
+the villa itself. You may head north of here into the Zen gardens.
+149660: You are facing due east near a vast water source east of Shinden Villa.
+The grass is very green in this section, especially due to the water source
+which seems to flow south of here into a large birch forest. From the northeast
+-- just beyond this Villa -- you can make out towering mountains which seem to
+raise themselves to the sky without effort. The beauty is breathtaking.
+149924: This is Kukai, founder of the Shinden Villa. He smiles at you with
+wisdom.
+149980: Kukai is peaceful...but you attack nonetheless!
+150016: He seems too busy to bother with you. He is too busy praying.
+150060: Kukai shatters you with a cosmic blow!!!
+150092: Kukai says, "I am displeased by your efforts..."
+150132: You are split nearly in half!
+150160: You are walking across a grassy area nearest the Eastern Portico. The
+path you are walking on ends abruptly in front of the portico towards the east.
+150264: You are facing east near the portico. Interestingly, the vermilion
+columns have eroded some and give evidence to the earthen material packed below
+it. Someone has been naughty.
+150388: You stand before the Eastern Portico of Shinden Villa. Three vermilion
+columns appraise your vision directly north, but much of the hard work to
+repaint them has been tarnished by some vile character who shall remain
+anonymous. Is the Inspector around, people?
+150572: You are wading through a narrow and shallow section of the water
+source. Just west of here lies a vertical stretch of buildings connected to
+each other by 'joints'. These small connecting points are actually built into
+the hallway similar to the guard house concept of Western civilization.
+150772: You are overlooking the island near a series of arched bridges. These
+bridges are high enough to allow boats to pass underneath. You also see many
+stone lanterns near the boat landing areas to the east and west. To the
+northeast, you notice the Onrin-do, a shrine of Hachi-jo. But it is not
+accessible from your vantage point, across the Ohi River.
+151020: You are standing inside the Southern Hall near the Western Portico. The
+hallway extends several feet towards the north, where it then turns sharply
+east. You notice a fishing pavilion (tsuri dono) to the south, extending from
+the edge of the pavilion down to the calm waters of the pond below.
+151228: You are walking across the Southern Hall. It extends several more feet
+before turning abruptly east. The interior of the hall is fairly simple, with
+only a few ornamental objects of note. The Western Portico, overlooking a small
+fishing pavilion, lies several feet to the south.
+151424: You have reached an abrupt turn in the Southern Hall, heading east. The
+Shinden opens up just ahead, into a brilliant expanse spanning the central
+interior of the villa. You notice several shoji screens, separating the view of
+the garden from the Shinden itself. Over 15 acres spread out from the main
+Shinden, looking silently upon mountains to the southeast.
+151680: You are inside the Shinden, the main building of the Shinden Villa and
+Gardens. Several columns of shoji separate the view of the gardens from the
+house, but they can be pushed aside at will to open up the view from inside.
+The view is what you've come to expect -- and then some! To say it is mildly
+exquisite and innately beautiful would rob the breathtaking views their due
+justice. Towards the east, the Shinden narrows into a long hallway, stretching
+towards the Eastern Portico, just beyond the Southern Hall.
+152044: This is the holy shroud of Saint Nepan, an ancient cleric of the
+temple.
+152096: The shroud feels warm!
+152112: Your SHROUD emits a Holy Light!
+The monster is blinded!
+152164: The SHROUD glows and you feel warm!
+152194: You are healed slightly.
+152216: You are facing a turn near the eastern portion of the Shinden. The
+Southern hall heads south, stopping at a narrow spring pavilion, overlooking
+the beauty of the main pond. You may also head east, into a small storage room
+(separated by shoji).
+152388: You are standing inside a small room, cut off from the rest of the
+Shinden by large shoji. It is nothing more than a sleeping area for guests.
+Where the master sleeps -- or even where the master is -- remains to you a
+mystery. The only exit is back west.
+152568: You are walking down a narrow hallway called the Southern Hall. To the
+north lies the western portion of the main Shinden, heading west. It opens up
+into a large living area, complete with removable shoji, for a better view of
+the outside gardens. The hall continues north and south from this point.
+152780: You are standing in the Southern Hall, near the Eastern Portico. The
+hall extends several feet towards the north, before turning abruptly near the
+main Shinden. A small spring pavilion is visible to the south, overlooking the
+pond several feet below. In order to fish, though, you will need to head across
+the complex to the Western Portico, where a fishing pavilion is present.
+153048: You are walking through an orchard of apple trees. Large trees grow in
+tall rows as far as the eye can see. Looking up, you notice a large apple tree
+by the side of the main path. It has low-lying branches and looks climbable,
+although caution should be taken. The orchard extends westward near a small
+forest (heading south).
+153276: You have entered into an impossibly large and dark cavern just below
+the main forest. It is obviously quite dark inside, with very little light
+illuminating the darkness ahead. From what you can see, the cavern slopes to
+the south somewhat before branching into smaller tunnels in either direction.
+The air is quite foul here.
+153500: You are standing at an intersection inside a vast network of small
+caves. Several tunnels head off in all directions here (some of them quite
+narrow and dark). A larger tunnel heads south, possibly towards a pool of
+water. You hear the sound of water dripping nearby. Could water be far off, you
+wonder?
+153712: This is Tursk, an adventurer from out of town. He might prove useful.
+153764: You sense a friendly aura around Tursk and back off!
+153804: He nods briefly at you before passing. "Move along, friend, I haven't
+got much time, you hear? Wait...I see that you are carrying something which I
+desire most! If you'll let me follow you, I can help you to defeat the evil
+within these cavern walls! For a price!" Tursk may follow you at any time
+now...
+154026: Tursk looks closely at your shield...
+Tursk says, "That shield was once
+mine...I shall follow you now!"
+154108: Tursk goes berserk, charging the enemy!
+154138: HE HITS!!! Tursk lands a devastating blow!
+154180: Tursk screams, "Taste my blade, foolish one!"
+154216: But alas, he has missed the mark...
+154244: You are crawling on your stomach in a dusty, terribly narrow passageway
+just east of the main cavern. You may be able to double back and enter the main
+cavern (to the west), but it looks risky at best! The air is almost suffocating
+here, and you feel dizzy and out of breath! The only obvious exit appears to be
+back south (unless you want to crawl even further...
+154500: At last you reach the end of this narrow passageway! You thought it
+would never end! Looking out, you notice a small turnoff to the east (heading
+north into darkness). The light appears to dance off the walls of this tunnel,
+as if alive by itself! You wonder what magic lives beyond the darkness ahead?
+154712: You have reached a small turnoff in the twisted passageway. It appears
+to head north into a small room. Or is it a keep of some sort? You can barely
+make out small candles flickering in the misty darkness in front of you. Who
+lit these, and why do they still burn in this suffocating world? As you ponder
+these mysteries, you feel an overwhelming urge to head north.
+154968: You have entered into a small keep illuminated by several small
+candles. The flames appear to dance in unison, as if moved by an unseen hand!
+The air is remarkably thick here, as mist drifts throughout the room
+seamlessly. You can't see much in here, although it appears to be a small
+treasure room of some sort. Perhaps you can drop things here for points?
+155216: The surrounding mist seems to envelop your being!
+155252: Your health has increased somewhat.
+155280: A wooden buckler. Useful as a shield.
+155308: You are crawling in a narrow tunnel (sloping sharply downward). It
+feels like a dusty trail of rocks and debris, although you can't be sure in
+this darkness! The tunnel winds south several hundred feet. You feel a sinking
+feeling as you climb down! This wasn't in the manual for the 'Greater
+Adventurer'! Who coded this room, anyway?
+155548: You are crawling on your belly inside a dark tunnel. You can barely
+move inside this thing! As you crawl slowly to the east, you notice a small
+rock barring any further passage. It appears to have obstructed any view of the
+remaining tunnel. You'll have to find another way towards the outer entrance of
+this cavern...
+155772: You are facing a large, jagged rock within the cavern. It has blocked
+off the entrance to the east and is not easily moved. You wonder what might of
+magic moved it here, but that's the least of your problems now! It appears as
+though this entire tunnel is collapsing! You'll have to get out before it
+entombs you inside...forever!
+156004: You are standing before a large pool of water. It gleams oddly in the
+faded light of this cavern (as if enchanted by something). The pool extends
+into a large waterfall to the east. It splashes down into the water below with
+effortless ease. The waterfall cascades down from a small crack in the rock
+above. A small tunnel is also here (heading west into darkness).
+156260: This nearly invisible spectre guards the surrounding tomb.
+156404: You are standing inside a small waterfall just east of a mystical pool.
+The water splashes down in front of you from above, cascading down from the
+nearby rock. You hear a loud rushing sound as the waterfall nearly engulfs you!
+If it weren't so dangerous being inside, you'd feel downright giddy! The only
+exit is back west (out of the waterfall).
+156648: A shadowy creature moving about the darkness. It looks like death!
+156696: The lich laughs at you! He barks, "You are not allowed in these worlds!
+And yet you pollute this world like it was your own son! No one has given you
+that power, yet you take it as your world and seek death upon it still! That's
+NOT the way, Knave!!!" The lich seems very angry!
+156898: You have reached a narrow tunnel deep within the cavern. It appears to
+be unknown to anyone, as the walls are not marked in any discernible way. You
+wonder where it leads (if anywhere)? The tunnel slopes to the south, before
+heading into darkness ahead. Spooky!
+157088: The tunnel continues south.
+157108: You are walking in a narrow tunnel (scaling upward some 200 feet). It
+appears to head to an upper level within the caverns. Thankfully, you can reach
+it by continuing the path towards the west. It slopes upward, requiring some
+effort, but you'll manage. A rope will do little good here, as you can't see a
+way to climb up...
+157344: The tunnel extends upward some 200 feet.
+157376: A magical valkyrie with flowing red hair. It has an impish look to it.
+157428: The elfish woman looks at you curiously. She says, "Why do you come to
+these woods? What manner of magic hath driven you here? Do you seek the elder
+dragon, Elmar? Elmar rests in a cave deep within the bottom of this world! You
+will not find Elmar merely by looking at a map! No, Elmar can only be found
+FROM WITHIN!"
+157664: The tunnel slopes south [100 feet]...
+157700: The tunnel slopes south [150 feet]...
+157736: The tunnel slopes south [200 feet]...
+157772: The tunnel slopes south [250 feet]...
+157808: The tunnel slopes south [stopping at 300 feet]. A smaller tunnel is
+visible south of here.
+157880: The tunnel heads east from here. There are only two visible exits here:
+north and east. Any other direction is halted by large vampires (only
+joking...) =).
+157996: The tunnel slopes east [250 feet]...
+158032: The tunnel slopes slightly east [265 feet]...
+158072: The tunnel stops abruptly here (near a small keep). You notice faint
+light dancing against the walls nearby. The light appears to be alive,
+prompting a question: What manner of magic lit this suffocating darkness? And
+what makes it work?
+158240: A keep stands to the east here.
+158264: You are standing inside a sacred keep. It is slightly darkened, lit up
+by small candles nearby. There isn't much here at the moment, but perhaps you
+can find a use for this room in the near future? The only exit is back west.
+158424: You are standing on a branch atop a large apple tree. Your vision is
+slightly shrouded by the leaves above, but looking out you can see a small town
+to the northwest (near a small forest). You also notice a long path heading
+deeper into a forest of tall oak trees (to the south). The only exit is back
+down (unless you can fly, that is!).
+158664: A small red apple. It looks slightly rotten.
+158696: You eat the apple...
+158714: You suddenly feel terribly ill!
+The apple was poisonous!
+158760: This is a monster known as a 'wannabee'. It flutters around like a
+normal bee, but is invincible to attacks and unable to damage the player. The
+game will enter into an infinite loop if an unsuspecting player decides to
+attack it.
+158920: The wannabee says, "I am an infinite creature of these woods!"
+158966: You are walking on a dusty path heading west. It appears to extend a
+few miles towards the southwest. To the north of the path lies mystic
+mountains, bathed in a dull mist.
+159092: The path heads back east towards a small village.
+159126: You are walking along a dusty path that turns abruptly here near a
+misty range of mountains. A thick, dull mist surrounds you in all directions
+here. The only exit is back east.
+159252: You can enter the mountains to the north, but be careful!
+159292: You are ascending a misty mountain range at 100 feet above sea level. A
+swirling mist encircles your vision in all directions here. Up ahead, the
+terrain becomes rockier and less steady.
+159424: You have reached the base of a large, misty mountain range some 200
+feet above the sea. Looking down, you notice a grassy valley to the southwest,
+while a steep path heads north up the mountain.
+159564: There is a small path heading west here.
+159592: Alas, the limits of the mountains have stopped you from moving further
+to the east. A steep drop confronts you here. Be careful not to fall! The only
+sensible path is back west.
+159716: The Misty Mountains give way here to a large ravine. It drops down into
+a grassy valley far below. The air is clean and fresh here, despite the misty
+fog. You can head west towards the ravine, or back east.
+159864: The ravine looks passable without a rope, but don't fall trying!
+159910: You are standing 325 feet above the base of the Misty Mountains. The
+fog is illuminated by wisping flashes of light, oddly moving about like wayward
+fireflies. In the softness of the light a path is visible east of here.
+160068: You notice strange flashes of light here, wisping about...
+160112: A will o' the wisp flutters about, lighting the darkness ahead.
+160160: A magical will o' the wisp. It flutters about, illuminating the
+darkness.
+160214: The will o' the wisp steps in front!
+160244: It buzzes, "You may not enter the Misty Caverns!"
+160288: The wisp is silent, only moving about by light and energy.
+160332: At last you reach the top of the Misty Mountain range. Clouds surround
+the tip of the mountain like vultures over fresh meat. To the north lies a
+small cave, beckoning you further still...
+160466: You stand at the entrance to the Misty Cave, a small cavern set into
+the hallowed remains of the Northern Misty Mountains. From here the cave heads
+into darkness, alone with the spirit.
+160600: A magical force has blocked passage to the north.
+160636: This is the magical horn of Galius. You can 'blow horn' to disrupt
+magic.
+160690: BBBBAAAAAAARRRRRRRRRRRR!!!!!!!!!
+160736: The sound of the horn echoes throughout the mountains!
+160776: The magic blocking the cavern entrance fades away!
+160812: You are walking inside a dark, damp cavern inside of Misty Cave. The
+air is quite foul here! It is very difficult to breathe inside these cavern
+walls. Up ahead lies a small tunnel.
+160940: You are walking inside a twisting, foul smelling tunnel deep inside of
+Misty Cave. A stone archway extends overhead, remarkable considering the
+tunnel's height. It heads west into a small keep.
+161080: The archway is usually blocked by a very large golem.
+161120: A giant golem is here, smashing rocks.
+161148: A giant stone golem. It looks massive enough to crush boulders!
+161194: The giant golem blocks your path!
+161224: He bellows, "This keep is MIIIINNNNEEEEE!"
+161270: The giant golem bellows angrily at you!
+161302: It screams, "I will crush you to a pulp!"
+161340: The golem growls, "I shall smash you into a pulp!"
+161378: The giant golem POUNDS you with his fists!
+161416: It howls, "Now you shall die, knave!"
+161448: You are nearly crushed into bits!
+161480: A flaming whip with a magical aura about it. It looks deadly!
+161524: Your FIREWHIP bursts into flames!
+161556: The whip entangles the monster, deeply wounding it!
+161592: You are standing inside a dark but mystically illuminated keep within
+Misty Cave. The air is quite still here, as a magical force pervades throughout
+the room. A few candles are also visible here, giving light to the silent
+spirit of the dark. The only exit is back east, towards the tunnel.
+161796: A mystical force pervades throughout the keep.
+161828: An evil kobold. It guards a sacred treasure, or so legend has it.
+161876: The kobold charges at you!
+161896: He screams, "I'm going to crush you, knave!"
+162116: A glistening anklet worn around the ankles. Offers good protection.
+162164: You stand at the western edge of the Misty Mountain range, far beyond
+the swirling, foggy mist of the mountains. To the west, a large ravine is
+visible, heading into a grassy valley below.
+162296: A small goat. It looks a bit lost.
+162322: The goat says, "MAAAAAAHHHHHHH! MAAAAAAHHHHHHH!"
+The goat begins
+licking your hand.
+162404: You are overlooking a large ravine at the western edge of the Misty
+Mountains. A deep gorge drops down below, falling off several hundred feet into
+a grassy valley.
+162520: You must be careful climbing down, as a slip could be fatal!
+162564: You have descended into Mystic Gorge, an expansive area near a large
+green valley. The gorge opens up here into the valley towards the west. It
+extends to the north and south here.
+162692: You are walking along in a large, grassy valley west of Mystic Gorge.
+The valley extends several miles to the north and south. A small pond is
+visible a few miles towards the northeast.
+162822: You are walking in Cyprus Valley, so-called because of the many cypress
+trees growing in the near distance. Like hands waving in a happy breeze, they
+beckon you to explore further.
+162952: A path breaks off here and heads west.
+162980: You are standing in a lush, grassy meadow west of Cyprus Valley. The
+area is mostly bare, save for the mountains towards the northeast. A gentle
+breeze rustles the grass in front of you ever so lightly.
+163122: You are walking in a grassy meadow heading towards the west. The grass
+in front of you tickles your feet, sending small shivers up your spine. You
+notice a lone tree growing north of here.
+163256: The tree is too far off to examine closely. You must get closer.
+163302: You are facing the base of a large fig tree. A plethora of small figs
+grow in columns across every branch of the tree. The only way to reach them,
+however, is by climbing up!
+163428: The tree looks climbable without a rope.
+163456: You are standing on a branch high atop a large fig tree. Your vision is
+surrounded by many small figs (which are small oval-shaped fruit). To the east
+lies a small eagle's nest.
+163584: The eastern branch is somewhat narrow, so be careful!
+163622: You are facing a small eagle's nest on a branch high atop a large fig
+tree. Surrounding the nest are several intertwined leaves, making up the base
+of the nest itself. An eagle is normally here, standing watch over the nest.
+163784: Inside the nest are a few scattered items (some rare).
+163824: A small wooden boomerang. It is slightly curved.
+163860: A bald eagle (quite rare in these parts). It has massive wings!
+163908: The eagle says nothing, only, "GREEECCCCCCHHHHHH!!!"
+163960: You are walking in the Southern Valley, a lone meadow south of the
+Cyprus hillside. The valley extends several miles in all visible directions.
+You notice nothing unusual about that.
+164088: You stand at the very end of Southern Valley, stopping abruptly near a
+series of very large boulders. Why these boulders are here (or who placed them)
+remains a deep mystery.
+164210: You are facing a large boulder at the end of the Southern Valley. This
+boulder looks quite massive in scale, overshadowing you by some fifty feet! It
+is obvious that whomever placed it here does not want anyone to move further
+south.
+164376: The boulder is not passable, not by wind nor magic wand.
+164416: You are standing before a mossy pond at the edge of the valley. The
+water appears mossy green, almost dull and lifeless. In the reflection you
+notice a sphere of light hovering overhead (shining light into the pond from
+above). But when you look up, it vanishes!
+164600: There is a legend that says a mystical unicorn often rests here.
+164644: A magical unicorn is here, drinking from a nearby pond.
+164684: A magical unicorn with a large horn. It looks very majestic!
+164728: The unicorn stamps her foot. It begins looking at you with a most
+curious gaze! It reminds you of a horse, but without the wings of a bird and
+the horn of a beast! What magic brought this creature into this world is beyond
+imagination! The unicorn begins to drink at the pond.
+164920: You've never heard of such an object.
+164948: The magic of the flute prevents wielding much.
+164980: HLA Adventure is a text adventure. You play by entering in commands as
+follows (for example):
+165472: Unfortunately, you can sometimes confuse the parser by accidentally
+entering in verbs or nouns it does not recognize. Some additional verbs you
+might try include:
+165586: TALK (or 'TALK TO') and 'SAY'.
+165624: HLA Adventure credits:
+165786: asm
+Ryan McLaughlin, developer/beta-test, cousin
+"Roger Pepitone",
+programmer, Inform port
+165860: "The Road Not Taken" by Robert Frost
+
+Two roads diverged in a yellow
+wood
+And sorry I could not travel both
+And be one traveler, long I stood
+And
+looked down one as far as I could
+To where it bent in the undergrowth
+
+Then
+took the other as just as fair
+And having perhaps the better claim
+Because it
+was grassy and wanted wear
+Though as for that, the passing there
+Had worn them
+really about the same
+166428: You have the following attributes:
+166456: Hit Points:
+166780: give" or test "has" or "hasnt" with a non-attribute on the object
+166828: , but it is longer than 2 bytes so you cannot use "."
+
+
+
+
+
+>quit

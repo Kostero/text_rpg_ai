@@ -1,0 +1,778 @@
+14561: Nothing to do!
+14596: o. You have won
+14679: It is now pitch dark in here!
+14706: I beg your pardon?
+14770: Sorry, that can't be corrected.
+14799: Think nothing of it.
+14852: As good-looking as ever.
+14884: You can hardly repeat that.
+14909: You can't begin with a comma.
+15023: I didn't understand that number.
+15052: You can't see any such thing.
+15088: You aren't holding that!
+15130: I'm not sure what "
+15182: That's not a verb I recognise.
+15221: You can't see "
+15329: Nothing to do!
+15346: There are none at all available!
+16256: Please answer yes or no.
+16282: Are you sure you want to quit?
+16327: Failed.
+16347: Restore failed.
+16364: Ok.
+16382: Save failed.
+16397: Ok.
+16441: Transcripting is already on.
+16507: Transcripting is already off.
+16565: Score notification on.
+16586: Score notification off.
+16609: You have visited:
+16637: Objects you have handled:
+16662: None.
+17046: You are carrying nothing.
+17095: Taken.
+17106: You are always self-possessed.
+17639: Dropped.
+17749: Removed.
+17888: You lack the dexterity.
+17969: Done.
+18235: Done.
+18446: Wrahn seem interested.
+19027: You can't go that way.
+19587: But it's dark.
+19604: You find nothing of interest.
+19640: But it's dark.
+19731: You find nothing of interest.
+20859: . Not bad.
+20877: That was a rhetorical question.
+20931: That seems unnecessary.
+20954: Keep your mind on the game.
+20979: What a good idea.
+20998: You smell nothing unexpected.
+21025: You hear nothing unexpected.
+21050: You taste nothing unexpected.
+21085: Keep your hands to yourself!
+21110: You feel nothing unexpected.
+21135: If you think that'll help.
+21244: Oh, don't apologise.
+21274: Quite.
+21343: You achieve nothing by this.
+21431: You wave, feeling foolish.
+21581: You are unable to.
+21600: Nothing obvious happens.
+21650: That's not a direction.
+21673: Not that way you can't.
+21705: Keep your hands to yourself.
+21730: You achieve nothing by this.
+21763: Futile.
+21792: You talk to yourself a while.
+21819: This provokes no reaction.
+21847: There is no reply.
+21866: Nothing is on sale.
+21885: Your singing is abominable.
+21919: Time passes.
+44098: "Quit screwing around."
+44179: "Go on, get out of here."
+44250: Hot and crispy.
+44263: Pale and frozen.
+44321: Ewww, they're raw.
+44350: Ouch, hot!
+44434: The fries bubble in the oil.
+44468: It's connected to the frier.
+44614: You take a plate from the stack.
+45126: That's counter-productive.
+45180: With what, your bare hands?
+45519: Your card table is set up here.
+45596: You set up the table.
+45760: That's too big.
+45800: But take a look around the back.
+45834: Satellite cable:
+46026: That doesn't belong here.
+46194: Does a body good.
+46224: It's currently off.
+46342: It's already off.
+46362: You turn the oven off.
+46394: You have nothing to carry it in.
+46428: That's some hot water.
+46447: That's some cold water.
+46511: And get your clothes wet?
+46559: Not with all that noise.
+46800: The snake hisses angrily!
+46849: The snake hisses angrily!
+47429: If in doubt, avoid it.
+47514: That doesn't belong there.
+47850: That subject isn't listed.
+48303: Not while something's inside it.
+48403: You unfold the playpen.
+48440: And if you could keep him there.
+48476: The weights are heavy enough.
+48575: The drier stops running.
+48606: Not while the drier's open.
+48684: The drier stops as you open it.
+48714: The drier is running.
+49140: You enter it.
+49583: The dragon is sound asleep.
+49895: And be quick about it.
+50013: The gorilla lumbers toward you.
+50060: Or have him follow it.
+50208: Then use it.
+50330: The snake is sound asleep.
+50355: The snake is on the loose.
+50380: The snake is watching you.
+51442: Those don't fit together neatly.
+51542: What, is it ringing?
+51653: That subject isn't listed.
+54230: A Test of Patience
+Copyright 2006 by Edward Griffiths.
+54432: Score:
+54440: Moves:
+54448: Time:
+54456: You can't go that way.
+54788: Please give one of the answers above.
+54816: [You can't "undo" what hasn't been done!]
+54852: [Can't "undo" twice in succession. Sorry!]
+54892: "Oops" can only correct a single word.
+54920: It is pitch dark, and you can't see a thing.
+54952: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+55012: You seem to want to talk to someone, but I can't see whom.
+55056: To talk to someone, try "someone, hello" or some such.
+55096: I didn't understand that sentence.
+55156: You seem to have said too little!
+55180: You can't use multiple objects with that verb.
+55216: You can only use multiple objects once on a line.
+55252: You excepted something not included anyway!
+55284: You can only do that to something animate.
+55316: That's not something you need to refer to in the course of this game.
+55364: I didn't understand the way that finished.
+55396: Sorry, you can only have one item here. Which exactly?
+55548: Are you sure you want to restart?
+55572: The game file has verified as intact.
+55600: The game file did not verify as intact, and may be corrupt.
+55644: Attempt to begin transcript failed.
+55672: Attempt to end transcript failed.
+55696: You're carrying too many things already.
+55728: You can't put something on top of itself.
+55760: You can't put something inside itself.
+55816: You can only get into something freestanding.
+55848: But you aren't in anything at the moment.
+55880: You'll have to say which compass direction to go in.
+55920: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+56016: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+56100: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+56276: This dangerous act would achieve little.
+56304: Nothing practical results from your prayer.
+56336: The dreadful truth is, this is not a dream.
+56368: Digging would achieve nothing here.
+56396: You jump on the spot, fruitlessly.
+56424: You would achieve nothing by this.
+56448: There's nothing suitable to drink here.
+56476: But there's no water here to carry.
+56504: Real adventurers do not use such language.
+56536: Violence isn't the answer to this one.
+56564: There's not enough water to swim in.
+56592: There's nothing sensible to swing here.
+56620: That would be less than courteous.
+56644: Is that the best you can think of?
+56668: You lack the nerve when it comes to the crucial moment.
+56708: I don't think much is to be achieved by that.
+56740: You aren't feeling especially drowsy.
+56970: You can leave the building to the west.
+57024: "Where do you think you're going?"
+57052: You emerge from the restaurant, triumphant but weary. Eight hours
+standing on your feet in front of a deep frier has left you feeling and
+smelling like a giant french fry.  An exhausted giant french fry.  And the only
+thing you have to look forward to is when you get up at six tomorrow and do the
+whole thing all over again.
+
+A bath sounds good right about now.  A nice, long,
+hot bath.
+57324: You emerge from the restaurant for the last time. Thoughts of rent and
+college loans and car payments dog you on the way to the car.  You're dead on
+your feet, you stink like a french fry, and the only thing you have to look
+forward to tomorrow is the start of a long, grueling job hunt.
+
+Maybe a bath
+would cheer you up.  A nice, long, hot bath.
+57568: Your boss is here.
+57584: Your boss huffs.  "All right, if you can't do one simple thing, get out
+of here.  And don't bother coming in tomorrow."
+
+With that, he pushes you aside
+and cooks the french fries himself.
+57722: Your boss taps his foot impatiently.  "What's the holdup on those
+fries?"
+57780: When the smell of burned fries fills the air, your boss snaps to
+attention.  "Hey!"  He pulls the basket out of the frier, revealing six ounces
+of dark black fries.
+
+"You know what?" your boss says.  "Why don't you just go
+home.  And don't come back."
+57968: "Don't touch those," your boss growls.
+58032: You scoop up exactly six ounces of french fries.
+58066: A handful of french fries clatter across the floor and your boss's face
+turns bright red.  The events are probably related.
+
+"All right, get out of
+here, right now!" he barks.  "You're fired!"
+58412: I don't want to see your face around here tomorrow."
+58450: The fries turn a dark golden color.
+58478: The fries float and turn a lovely golden color.
+58584: Go find another job."
+58642: There's a basket to put food in, which can be put down in the oil to
+cook it.
+58818: Don't come back tomorrow."
+58840: "Don't touch that," your boss growls.
+58870: Crash!  The plate smashes on the floor.  There's a moment of silent
+incomprehension as your boss looks at the pieces of broken plate on the floor,
+then looks back up to you.
+
+"Go home," he says, his voice even.  "You're
+fired."
+59156: "See you tomorrow morning."
+59280: To remove them at this point, you'd probably need a form of technology
+so advanced that human beings haven't even begun to conceive of it.
+59424: You won't be able to get your clothes off of your body.
+59464: You must get rid of your clothes to take a bath.
+59536: The parking lot is cold and empty.
+59560: The restaurant's already closed.
+59584: You're too beat to walk.
+59608: Your car is parked here.
+59628: Just an old clunker that gets you from point A to point B. Usually.
+59678: You get in your car.  Thankfully, it's a quick drive home.
+59808: The entrance to your house lies just to the north.
+59844: The darkness beyond the yard is too forbidding.
+59878: A hose roller sits at the corner of your house.
+59916: This miraculous device is designed to quickly and neatly store your
+garden hose, eliminating the worry of tangles, kinks, and knots.
+60008: The hose unravels for a good dozen feet before suddenly cutting short as
+a huge knot jams up the works.
+60080: The hose roller won't budge another inch.
+60140: The hose is spraying water all over the place.
+60172: Long and green, with a gold-colored nozzle at the end for screwing on to
+hose attachments or faucets.
+60244: You're not going to get that hose off the roller without cutting it.
+60292: That'd be too messy while it's on.
+60348: You saw through the hose, ruining your knife.
+60428: This device is useful for transmitting water across great distances.
+60476: All you have to do is stretch it from a water source to a destination.
+60524: Unfortunately, it doesn't stretch very far.
+60556: It's not very portable being tied to the hose roller.
+60596: The end of the hose is gushing water all over the place.
+60636: You see nothing unusual about the garden hose.
+60668: You drag the end of the hose behind you.
+60712: The hose won't stretch any further.
+60740: You grab the hanging end of the hose.
+60768: The water gushing from the hose soon fills up the bathtub.
+60962: The kitchen is to the west and your bedroom is to the north. There's a
+coatrack next to the front door on the south wall, and stairs lead down to the
+basement.
+61072: A rather large card table, about four feet square.  It acts as
+everything from your dining room table to your writing desk.
+61160: Your card table is covering the playpen.
+61192: Not while something's on top of it.
+61220: You remove the table from the top of the playpen.
+61256: You fold up the table and take it with you.
+61336: Did you get a good look at it?
+61360: Might be useful if it went together with something else.
+61628: Your umbrella slides open with a solid metallic CLICK.
+61672: Your umbrella slides closed with a metallic grinding noise.
+61764: There's a silly superstition that opening an umbrella indoors is bad
+luck.
+61816: In fact, it could save your life if you know when to do it.
+61860: You won't be able to fit through narrow passages while it's open.
+62052: It's probably your best thrift store find of all time.
+62240: The television's not important.
+62468: The bathroom door is to the north, and your living room lies to the
+east.
+62612: The kitchen faucet is gushing water.
+62638: Water starts flowing through the hose.
+62668: You hear a sound like your bathtub filling up with water.
+62712: You turn the faucet on, and it starts gushing water.
+62750: Your refrigerator quietly shuts.
+62790: Your mom wouldn't let you leave without an entire ham.
+62880: Your oven only has settings between 300 and 500 degrees, or you can turn
+it off.
+62980: Try setting the oven to a certain number.
+63016: Well, that snake's going to have to come out first.
+63056: How do you plan to take a bath with no water in the tub?
+63144: Your hot water heater must be acting up.
+63174: Finally!  Everything is exactly the way it should be.  Nice steaming
+bath tub, peace and quiet... You step into the tub, sink down into the water
+and...
+
+Suddenly, the tranquility is broken by a shrill ringing sound coming
+from your bedroom.  You close your eyes, try to block it out... no good.  The
+more you ignore it, the more it grates on your nerves.  You keep hoping it'll
+stop, but twenty rings later, it's pretty clear that it won't.
+
+Reluctantly,
+you climb out of the bathtub again.  Better answer the phone.
+63550: With a sigh of relief, you climb once again into the bathtub and close
+your eyes. How relaxing!  How refreshing!  You barely notice or even care as
+the snake slithers in to check on you.  It's slightly more difficult not to
+care as he swallows you whole. You sit at the bottom of the snake's stomach,
+drenched in slime.  How could things get any worse?
+
+There's a low chuckle in
+the darkness.  And an ominous ringing...
+63850: You stand still and listen for a long, nervous moment.
+
+Silence.
+
+You
+step into the tub.  The water is hot and inviting.  You stretch out on your
+back, letting the water seep through your hair and into your skin.  Already you
+can feel the knots unravelling in your mind, your muscles slowly relaxing.  All
+of the tension in your body bubbles to the surface, and you heave it out in one
+great big sigh.
+
+AHHHHHHH.
+
+A nice, long, hot soak.  This is exactly what you
+needed.  True, your house is going to need some serious straightening up. 
+You're going to have to figure out what to do about the snake and the baby
+dragon, not to mention the fact that you're now a gorilla.
+
+But you can worry
+about that tomorrow.  Tonight is for savoring a hard-won victory.
+64394: At long last, the moment you've slaved all evening for. The bathroom. 
+Sanctuary.  Warm water and herbal shampoo. This should be where the pain ends,
+where the real world lets you be for half an hour and grants you some tiny
+respite.
+
+But it isn't.
+
+Unfortunately for you...
+64908: You'll have to find another way to fill the tub.
+65030: It could probably consume you alive.
+65056: The snake looks up with a start and flicks its tongue.
+65096: The snake looks up with a start and flicks its tongue.
+65136: The snake awakes and looks at you with dull reptillian interest.
+65180: The snake doesn't need any more waking.
+65524: The snake advances curiously, wraps itself around you, and swallows you
+down.  Not the most relaxing way to spend your evening.
+65614: The slithering sound stops.  In its place, there's a sound like a snake
+swallowing an entire ham.
+65686: Thirty feet of snake comes slithering out of the bathtub toward you.
+65736: You hear a snake slithering around in your house.
+65834: The snake looks up when it sees you.
+65864: The snake spots you and slithers up over the top of the playpen.
+65910: The snake spots you, knocks the table off the playpen, and slithers up
+over the top of it.
+65976: The snake spots you and tries to slither out the top of the playpen, but
+the weights keep the card table on top of it. It tries to squeeze between the
+bars, but a ham-shaped lump in its middle prevents it.  Finally, annoyed and
+defeated, it curls up in the middle of the playpen.
+66220: The snake eats meat.
+66236: The snake will attack you if he can reach you.
+66268: The snake has a very narrow body.
+66292: Snakes swallow things whole, even things that are wider than their own
+bodies.
+66386: You check your reflection:
+66408: The medicine cabinet's a bit too thin to fit that inside.
+66456: A tiny bottle of sleeping pills to get you through those hot summer
+nights.
+66508: No matter where you squeeze or which arrows you line up, the lid does
+nothing but click in an irritated sort of way.
+66672: The living room is to the south, and your bathroom door is to the west.
+66784: Still, it's something to read.
+66808: Select a chapter to read.
+
+       Dragon Physiology 
+       Dragon
+Behavior 
+       Where Dragons Are Today
+66892: "Dragons, A Not Even Slightly Fictitious or Imaginary Study"
+66986: Dragons are unique among animals of their size, both in terms of body
+structure and internal processes.  Their outward appearance would suggest that
+they're reptiles, but many other clues suggest otherwise: self-regulated body
+temperature, a large four-chambered heart, and unnucleated red blood cells,
+among others.  In fact, dragons would seem to have more in common with
+modern-day mammals than with reptiles. 
+
+Their skeletal structure is unique,
+especially among very large animals, accomodating six limbs: four legs and two
+wings.  The structure of dragon bone is very light and durable, which allows
+the dragon to stay aloft with very little exertion and, of course, to keep it
+from being crushed by its own weight to begin with. 
+
+A dragon's most famous
+attribute, of course, is its ability to breathe fire.  Scientists have
+determined that dragon fire doesn't come from the lungs, but is actually
+attributed to a "spitting" action.  Like certain snakes, a dragon can spray
+chemicals from glands in its mouth, which combine in the air and spontaneously
+ignite to produce a gust of flame.  These chemicals are produced from foods
+that the dragon eats, especially those that are rich in calcium.
+67822: Dragons are solitary, fiercely territorial hunters.  They have very
+little tolerance for humans or even other dragons in their chosen hunting
+grounds.  Very little can be done to dissuade a dragon from snacking on
+livestock or even human beings once its mind is made up.  The most common --
+and effective -- method of dealing with a marauding dragon is to move out of
+its way. 
+
+One rather curious tendancy is for a dragon to establish a hoard for
+itself.  A dragon will often collect certain objects and guard them.  There
+seems to be no rhyme or reason to what a dragon will try to collect.  Sometimes
+the connection between the items in a dragon's hoard is obvious -- a pile of
+all things made of gold, or wood, or simply all the same color -- but often,
+it's difficult to determine what pattern, if any, a dragon's collection
+follows.  It's unknown what benefit a dragon gains from its hoard -- social
+status, personal satisfaction, or some unfathomable utility are popular
+theories. 
+
+Dragons will rarely be seen with each other unless they are mating.
+ The male will leave shortly after impregnating the female, but they will
+remain mated for life, never seeking other partners. 
+
+The female will build a
+nest and lay a clutch of three to five eggs, which she will monitor to keep at
+a temperature of exactly
+68790: Dragon kits imprint on their mother and remain in the safety of the nest
+for a further four weeks before leaving to hunt on their own.
+69054: There's no evidence to suggest that they died off or went into hiding,
+which has led to many fanciful theories about where dragons may be today,
+including the idea that they may have escaped to another planet, or that they
+may have relocated to the same dimension where socks go when they're lost in
+the drier.
+69286: It describes alien races that have come into contact with Earth and even
+includes a glossary of alien words.
+69362: For decades, world governments have tried to deny the appearances of
+extraterrestrial life forms making contact with the Earth.  Government
+conspiracies and coverups have been a favorite subject of UFO enthusiasts, a
+situation exacerbated by movies, television shows, and magazine tabloids in
+which the government is portrayed as a force working to keep the truth from
+spreading.
+69628: However, in reality, many things are already known about these life
+forms that have come into contact with our world.  The only thing that prevents
+the truth from being known is a lack of desire to know it; a large body of
+public knowledge goes largely ignored simply because the subject seems too
+incredible to be worth our attention.
+69860: Although a history of alien contact may go back centuries or even
+millennia, there has been a documented spike in UFO activity over the last
+forty years.  This is widely attributed to human endeavors to reach outer
+space.  We may have gotten their attention in our attempts to build a space
+program, and it's widely believed that our radio broadcasts and satellite
+transmissions are being monitored from afar.  This is supported by a noticable
+increase of activity near radio stations and satellite dishes.
+70210: What little we know about aliens themselves comes from the accounts of
+those who have been brought aboard the alien ships, presumably for study or
+experimentation.  Alien technology seems to be so far in advance of our own
+that most subjects can't even begin to conceive of it.  Subjects tend to recall
+round white rooms and strange machines and examination procedures.  The purpose
+of this alien study -- whether it's a matter of scientific curiosity or whether
+it foreshadows sinister designs for the human race -- remains to be seen...
+70856: Estlenesh: A genesis or point of origin.
+70888: Estlenesh: A conclusion or destination.
+70920: Fleos: A genesis or point of origin.
+70948: Fleos: A conclusion or destination.
+70976: Teurin: Of or relating to consciousness or the mind.
+71016: Teindora: Motion or transporation.
+71044: Nestailya: That which is monolithic or self-contained.
+71084: This is the "There's a Snake in the Bathtub" Official Strategy Guide, an
+invaluable resource filled with the sorts of tips and secrets that could only
+be found by spending any amount of time playing the game.
+71356: "There's a Snake in the Bathtub Official Strategy Guide"
+71476: Don't panic!  Text adventure games can be pretty daunting to first-time
+players, but once you master a few common rules, you'll be ready to participate
+in an interactive story.
+
+COMMANDS
+
+Gameplay is simple.  The computer will tell
+part of the story, then prompt you to decide what your character will do next. 
+Most commands are written in simple English sentences.  The computer has a
+limited vocabulary and an even more limited capacity to understand sentence
+structure, but most commands will be an imperative sentence in the
+form:
+
+[ACTION] [NOUN] to/at/with [NOUN]
+
+For example:
+
+TAKE BASEBALL BAT
+HIT
+BALL WITH BAT
+DROP BAT
+72396: a   NOUN]".  In some situations, you can "LOOK UNDER [NOUN]" to check
+underneath it, or "SEARCH [NOUN]" to look inside it.
+72514: OBJECTS
+
+Type "TAKE [NOUN]" or "DROP [NOUN]" to pick up or leave behind
+objects you find along the way.  Some objects are containers; you can "PUT
+[NOUN] IN [NOUN]" or "REMOVE [NOUN] FROM [NOUN]".  Some objects can be put on
+top of others; you can "PUT [NOUN] ON [NOUN]".  You can "TRANSFER [NOUN] TO
+[NOUN]" or "EMPTY [NOUN] ON [NOUN]".  You can check what you're carrying by
+typing "INVENTORY" or just "I".
+
+CHARACTERS
+
+If you meet any other characters,
+you can interact with them in a number of ways:
+
+GIVE [NOUN] TO
+[CHARACTER]
+SHOW [NOUN] TO [CHARACTER]
+WAKE [CHARACTER]
+KISS [CHARACTER]
+ATTACK
+[CHARACTER]
+73168: SPECIAL COMMANDS
+
+Type "SAVE" or "RESTORE" for file options.  Type
+"QUIT" to end or "RESTART" to return to the beginning.  Type "SCORE" to see
+your score and "FULLSCORE" to see your points broken down by task.
+73358: OTHER COMMANDS
+
+If an item has an obvious use, try typing in the command
+you would expect to use with it.  A few possible commands are listed
+here:
+
+UNLOCK [NOUN] WITH [NOUN]
+LOCK [NOUN] WITH [NOUN]
+TURN ON [NOUN]
+TURN
+OFF [NOUN]
+OPEN [NOUN]
+CLOSE [NOUN]
+WEAR [NOUN]
+TAKE OFF [NOUN]
+EAT [NOUN]
+BURN
+[NOUN]
+PRAY
+YES
+NO
+WAKE
+LOOK UP [SUBJECT] IN [NOUN] (such as a reference
+book)
+THINK
+SMELL [NOUN]
+LISTEN
+TASTE [NOUN]
+TOUCH [NOUN]
+DIG
+CUT
+[NOUN]
+JUMP
+JUMP OVER [NOUN]
+CONNECT [NOUN] TO [NOUN]
+DISCONNECT [NOUN] FROM
+[NOUN]
+DRINK [NOUN]
+FILL [NOUN]
+SWIM
+SWING [NOUN]
+BLOW [NOUN]
+RUB [NOUN]
+WAVE
+[NOUN]
+PULL [NOUN]
+PUSH [NOUN]
+READ [NOUN]
+SET [NOUN] TO [SETTING]
+TAKE A
+BATH
+WAIT
+74220: The object of this game is to take a bath.  To win the game, simply go
+to the bathroom and type "TAKE A BATH".  If you can take a bath, you'll win the
+game.  If you can't, the game will tell you what you need to do before you can
+take your bath.
+
+Take a good look around your house.  Not everything that you
+need will be immediately visible.  Pay attention to everything.
+
+Almost nothing
+is as easy as it should be.  Think outside the box.  Be creative when trying to
+figure out how to use the things laying around your house and how to confront
+the obstacles in your way.
+
+Experiment!
+74640: Type 'LOOK UP [item] IN GUIDE' for hints about specific items in the
+game.
+74706: Try to find all seven ways to get fired at the beginning of the
+game.
+
+Try and open the sleeping pills.
+
+Throw the milk at the dragon when its
+mouth is open.
+
+See if you can get rid of your clothes.
+
+Enter the strange
+machine alone.
+
+Answer things.
+
+Offer the dragon your sock.
+74910: Wow.  This game was a long time coming.  It was conceived in the summer
+of 2001 and based loosely on my own unpleasant experiences when trying to take
+a bath at the end of a hot, sticky day.  Although a lot has changed from my
+original design, the basic premise -- solving unexpected problems through
+extraordinary measures -- has remained the same.
+
+I've dabbled with Interactive
+Fiction in the past, but I think this is the first game I've written that has
+any real merit whatsoever, and certainly the first game I've made that focuses
+almost entirely on puzzles.  The end result is probably a little too opaque for
+all but the most patient and forgiving of players, but I'm quite happy with
+some of the effects I was able to pull off, and it's a success that I hope to
+build off of in the future.
+
+My thanks go out, naturally, to Graham Nelson for
+the wonderful Inform system, and to Tony Ellis for compiling the Windows Help
+version of the Designer's Manual, which has proven indispensable in my
+experiments with Inform.
+
+I owe a debt of inspiration to "Kissing the Buddha's
+Feet", another exercise in tackling everyday problems with creative solutions,
+which I relied on as a basic guide for laying out my own puzzles.
+
+Special
+thanks to my online friend, Dawn Everglow, for providing me with the entire
+alien language on a spur of the moment during a conversation, and to Kodisoa,
+who has given me suggestions, encouragement, and free proofreading with just
+about every writing project I've undertaken in the past four years, including
+this game.
+
+This game is distributed as Freeware.  All other rights are
+reserved by Edward Griffiths.
+76124: If you get fired in the intro, you can play without a time limit.
+76172: You can't get a perfect score unless you finish your job.
+76212: It's meant to be a whimsical phone patterned off of the famous cartoon
+rodent, Mikey the Mouse, but there's something unnatural about the smile on its
+face and the glee in its eyes. Frankly, the thing has always creeped you the
+hell out.
+76402: The phone's not even hooked up -- purely for decoration.
+76444: Your Mikey the Mouse phone is hopping from one foot to the other,
+cackling and ringing maniacally.
+76516: As you reach for the phone, something gives you pause for thought. Wait
+a minute...
+76662: His grin creeps just a little wider...
+76692: Suddenly it all makes sense.  Everything that's been going wrong, the
+hot unbearable day, the snake in your bathtub, the one thing after the other
+trying to keep you from enjoying yourself... It's all related...
+76846: Hell has opened up in your house.  And its combined power has been
+focused on one thing: to keep you from taking a bath.
+76936: You can feel the air closing in on you oppressively as your mind reels
+with the sudden feeling that you're in way over your head here.
+77064: But as it crosses your mind, Mikey the Mouse hops down from your
+bookshelf and starts dancing with mephitic glee at your feet.
+77152: The phone darts away from your hands, cackling madly.
+77190: Mikey scampers off after you, cackling and ringing.
+77504: Not while something's on top of it.
+77532: The playpen isn't set up properly.
+77560: The card table fits neatly on top of the playpen.
+77596: That doesn't fit neatly on top of the playpen.
+77632: You fold the pen up and take it with you.
+77712: This would make a good cage if you could get the snake inside.
+77778: You can't carry anything else if you're going to pick them up.
+77824: Suddenly, a small interdimensional portal opens up in the back of your
+drier and one of your socks is sucked up into it.
+78020: You can't carry the camera away; the cord doesn't reach very far.
+78068: You hold your camera up and look into it...
+78140: As they strike your clothes and your body, nearly all of the wavelengths
+are simply absorbed, allowing only a fraction of it to escape, reflecting
+outward once again.
+78256: The light reaches the lens of your camera, where it is refracted and
+ultimately interpretted as a series of electric impulses.
+78412: They're received by your satellite dish, stimulating it to emit a
+pattern of electromagnetic waves into outer space.
+78552: A spacecraft so technologically advanced that human beings can't even
+begin to comprehend it.
+78702: Two alien beings turn to each other and silently nod.
+78740: The next thing you know, you're in a cage on an alien spacecraft.
+78788: The interdimensional portal winks out of existance as quietly as it
+came.
+78840: You could probably fit rather easily through the door of your drier and
+through the portal in the back, but the playpen won't fit with you.
+78936: You could probably fit rather easily through the door of the drier and
+through the portal in the back, but the card table won't fit with you.
+79036: You could probably fit rather easily through the door of your drier and
+through the portal in the back, but your open umbrella prevents you.
+79132: You reach for the interdimensional portal, which leads directly to a
+rather uncomfortable and sudden feeling of drunkenness.  You black out
+momentarily, and by the time you've regained your senses, somehow you find
+yourself in...
+79344: What do you do when you see an interdimensional portal?
+79384: Try as you might, you can't get through the door with your umbrella
+open.
+79436: Try as you might, you can't get through the door with your umbrella
+open.
+79488: Try as you might, you can't get through the door with your umbrella
+open.
+79540: The door won't close while the hose is in the way.
+79576: Slightly larger than a large dog, and the color of dried lava.
+79676: The flakes of eggshell disintegrate almost immediately, and you're left
+with a cute, if massive, baby dragon.
+79848: The steam starts to rise almost immediately.
+79950: The baby dragon pads along behind you.
+80192: There's an opening to the east, but no daylight.
+80318: A sudden noise catches your ear, and when you turn to see what it is,
+you find yourself back in your basement.
+80394: There's a fierce and monstrous dragon guarding the hoard of lost socks.
+80508: Luckily for you, she's sleeping at the moment.
+80544: Of course, the only thing that's likely to be fast food at the moment is
+you.
+80632: Seems she's got one like it already.
+80910: There's a feeling of destiny as it lands at your feet.
+81048: Hope you didn't want to see it again.
+81120: Those pills always do the trick.
+81144: The dragon immediately notices your arrival and welcomes you with a low
+growl.
+81200: Suddenly the dragon rears up on her hind legs and roars a challenge to
+you. Perhaps you aren't welcome after all.
+81280: The dragon strikes.  Her jaws crunch down hard, but they stop well short
+of your soft, vulnerable body, being held firmly open by your umbrella.
+81382: The dragon's teeth snap shut around you and she gulps.
+81424: There's a growling and lashing of tail as the dragon strains against the
+will of your mighty umbrella.
+81496: At last, your umbrella collapses with a metallic crumpling sound.  The
+dragon spits it across her lair, annoyed.
+81624: First, don't get eaten.
+81644: Second, incapacitate it.
+82152: It's roughly the size of a camper trailer, and it gives off a dull hum;
+some sort of strange machine?
+82224: He's a big hairy one all right.
+82248: The gorilla looks at your banana longingly.
+82328: Show him something he wants.
+82430: the machine has the words "TEURIN TEINDORA NESTAILYA" printed on the
+side of it.
+82532: The gorilla lumbers in after it, only to be sealed off as the door
+slides closed.
+82588: You're not going to step into some weird alien machine without knowing
+what it does, are you?
+82654: As you enter the door, it slides completely and ominously closed behind
+you. Everything goes pitch black and there's a soft hum that makes your mind
+swim. You lose consciousness...
+82788: You seem to have the body of a gorilla.
+82816: You wake up again on your front lawn, a little dizzy but none the worse
+for your experience.  Was it all a dream?
+
+There's something distinctly
+different.  You lift a hand in front of your face.  It's darker, and your arm
+is much, much hairier.  You've been turned into a gorilla.
+
+On the bright side,
+just think of all the money you'll save on clothes.
+83220: Unfortunately, you never regain it.
+83296: Figure out what the machine does.
+83372: The word "FLEOS" is printed over the top of it.
+83464: The word "ESTLENESH" is printed over the top of it.
+83508: Suddenly you pause and realize what time it's getting to be.  And
+unfortunately, you still have a job to get to tomorrow.  Looks like there's no
+time for you to have a nice bath tonight.
+83640: What a life.  Grab the french fries.  Put the fries in the basket. Put
+the basket in the oil.  Wait.  Remove the basket from the oil.  Empty the
+basket onto the plate.  You look up at the clock.  Ten o'clock -- nearly
+quitting time.
+
+"All right, let's wrap it up," your boss says.  "Last order. 
+We need an order of french fries."
+83916: This isn't a very good place for a bath.
+83948: Those things aren't attached to each other.
+

@@ -1,0 +1,298 @@
+11621: Nothing to do!
+11656: o. You have won
+11759: It is now pitch dark in here!
+11786: I beg your pardon?
+11850: Sorry, that can't be corrected.
+11879: Think nothing of it.
+11932: As good-looking as ever.
+11964: You can hardly repeat that.
+11989: You can't begin with a comma.
+12103: I didn't understand that number.
+12132: You can't see any such thing.
+12168: You aren't holding that!
+12210: I'm not sure what "
+12262: That's not a verb I recognise.
+12301: You can't see "
+12409: Nothing to do!
+12426: There are none at all available!
+13336: Please answer yes or no.
+13362: Are you sure you want to quit?
+13407: Failed.
+13427: Restore failed.
+13444: Ok.
+13462: Save failed.
+13477: Ok.
+13521: Transcripting is already on.
+13587: Transcripting is already off.
+13645: Score notification on.
+13666: Score notification off.
+13689: You have visited:
+13717: Objects you have handled:
+13742: None.
+14128: You are carrying nothing.
+14177: Taken.
+14188: You are always self-possessed.
+14721: Dropped.
+14831: Removed.
+14970: You lack the dexterity.
+15051: Done.
+15317: Done.
+15528: Wrahn seem interested.
+16109: You can't go that way.
+16669: But it's dark.
+16686: You find nothing of interest.
+16722: But it's dark.
+16813: You find nothing of interest.
+17941: . Not bad.
+17959: That was a rhetorical question.
+18013: That seems unnecessary.
+18036: Keep your mind on the game.
+18061: What a good idea.
+18080: You smell nothing unexpected.
+18107: You hear nothing unexpected.
+18132: You taste nothing unexpected.
+18167: Keep your hands to yourself!
+18192: You feel nothing unexpected.
+18217: If you think that'll help.
+18326: Oh, don't apologise.
+18356: Quite.
+18425: You achieve nothing by this.
+18513: You wave, feeling foolish.
+18663: You are unable to.
+18682: Nothing obvious happens.
+18732: That's not a direction.
+18755: Not that way you can't.
+18787: Keep your hands to yourself.
+18812: You achieve nothing by this.
+18845: Futile.
+18874: You talk to yourself a while.
+18901: This provokes no reaction.
+18929: There is no reply.
+18948: Nothing is on sale.
+18967: Your singing is abominable.
+19001: Time passes.
+32875: Your position:
+43002: But it's not your move!
+43605: But it's not your move!
+44788: There is no such square.
+47346: The Interactive Life of a Chess Piece
+DEMO version for the TextFire
+12-PACK
+(Type "about" for more information)
+Copyright (c) 1998-99 by Magnus
+Olsson. All rights reserved.
+47648: Score:
+47656: Moves:
+47664: Time:
+47672: You can't go that way.
+47916: [Your interpreter does not provide "undo". Sorry!]
+48004: Please give one of the answers above.
+48032: [You can't "undo" what hasn't been done!]
+48068: [Can't "undo" twice in succession. Sorry!]
+48108: "Oops" can only correct a single word.
+48136: It is pitch dark, and you can't see a thing.
+48168: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+48228: You seem to want to talk to someone, but I can't see whom.
+48272: To talk to someone, try "someone, hello" or some such.
+48312: I didn't understand that sentence.
+48372: You seem to have said too little!
+48396: You can't use multiple objects with that verb.
+48432: You can only use multiple objects once on a line.
+48468: You excepted something not included anyway!
+48500: You can only do that to something animate.
+48532: That's not something you need to refer to in the course of this game.
+48580: I didn't understand the way that finished.
+48612: Sorry, you can only have one item here. Which exactly?
+48764: Are you sure you want to restart?
+48788: The game file has verified as intact.
+48816: The game file did not verify as intact, and may be corrupt.
+48860: Attempt to begin transcript failed.
+48888: Attempt to end transcript failed.
+48912: You're carrying too many things already.
+48944: You can't put something on top of itself.
+48976: You can't put something inside itself.
+49032: You can only get into something freestanding.
+49064: But you aren't in anything at the moment.
+49096: You'll have to say which compass direction to go in.
+49136: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+49232: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+49316: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+49404: Darkness, noun. An absence of light to see by.
+49492: This dangerous act would achieve little.
+49520: Nothing practical results from your prayer.
+49552: The dreadful truth is, this is not a dream.
+49584: Digging would achieve nothing here.
+49612: You jump on the spot, fruitlessly.
+49640: You would achieve nothing by this.
+49664: There's nothing suitable to drink here.
+49692: But there's no water here to carry.
+49720: Real adventurers do not use such language.
+49752: Violence isn't the answer to this one.
+49780: There's not enough water to swim in.
+49808: There's nothing sensible to swing here.
+49836: That would be less than courteous.
+49860: Is that the best you can think of?
+49884: You lack the nerve when it comes to the crucial moment.
+49924: I don't think much is to be achieved by that.
+49956: You aren't feeling especially drowsy.
+50596: Well, not really.
+50796: . Type REGISTER for additional information.
+50894: com on or before June 30, 1998. Thanks for your patience!
+50940: Well, not really.
+51140: mcom on or before June 30, 1998. Thanks for your patience!
+51190: It has been a fierce battle, full of bold moves, daring attacks,
+surprising gambits and heroic sacrifices. Throughout this, you've remained at
+your starting point, patiently waiting for orders. But now that the
+metaphorical dust has settled and most pieces have been exchanged, it finally
+looks as if it is your turn. The White King and one of your Pawn colleagues
+have managed to nail the Black King with his back to the edge of the board, but
+they can't finish him off without help.
+
+The White King calls you to action. It
+is time to make your move.
+51580: The game would be rather simple if you could move the Black pieces
+around at will. Unfortunately you can't.
+51684: The game would be rather simple if you could order the Black pieces
+around. Unfortunately you can't.
+51756: You're not giving the orders here, you just obey them.
+51796: You can only capture enemy pieces.
+51820: If you ever get to be a King, you can determine where the other pieces
+go, but you're only a Pawn now.
+51896: On your first move, you may choose to move two steps forwards instead of
+just one. Would you like to do that?
+51976: The chessboard is almost empty, now that most pieces have been
+exchanged. Its surface is perfectly smooth, its 64 squares alternatingly deep
+black and pearly white.
+52092: That would be something: a pawn picking up the entire board!
+52136: The White King looks impatient. "What are you waiting for? It's your
+move!"
+52194: The White King cries out in frustration: "You fool! You weren't supposed
+to do that!"
+
+The Black King, however, can't hide his pleasure. "I haven't got
+any legal moves left. It's a stalemate!" He pats the White King on the
+shoulder. "Seems like you don't win after all, old chap."
+52412: The Black King scratches his head. "Hmmm. A difficult position - I might
+have to sacrifice my last pawn. Let's see..."
+52618: The Black King first looks surprised, and then starts to smile
+triumphantly. The White King hides his face in his hands and groans. "Why do I
+always get the stupid Pawns? It's not fair!"
+52758: The Black King grins at his colleague. "It looks like we win anyway,
+thanks to your Pawn!" He makes a chopping gesture with his hand, and the Black
+Pawn moves in for the kill.
+
+As you are removed from the board, you realize
+that your move has lost the game: nothing can stop the Black Pawn from turning
+into a Queen and winning now.
+
+But that's no concern of yours anymore.
+53032: The Black Pawn looks a bit surprised, and more than a little relieved,
+that you didn't capture it. The White King nods his approval, however: "Well
+done! Just continue north, and don't get distracted!"
+53328: 3. The White King waves at you to continue your march.
+53368: You take another step forwards. The Black King rather nervously orders
+his pawn to continue.
+53436: The Black Pawn continues south. It is now dangerously close to becoming
+a Queen, and you can't help throwing some nervous glances in its direction. The
+White King, however, encourages you: "Don't worry, they won't have the time to
+do anything."
+53616: The Black King gives you a worried look, but then turns to his own Pawn.
+"Just one more step and you'll be promoted!"
+53704: As the Black Pawn set foot on the first rank, it is surrounded by a
+golden glow. With a fanfare from invisible trumpets, the Pawn is transformed
+into a Queen! The White King looks at her, and snorts. "Impressive - but it
+will not help a bit. Finish them off, Pawn!"
+53898: You boldly advance and threaten the Black King. "Check!" you cry, and
+the White King fills in: "...and mate!"
+
+The Black King desperately looks
+around for an escape, but can't find any. He extends his hand to his White
+colleague. "It looks like you win again. But just wait - I'll get my revenge
+next time!"
+
+The White King pats your back. "Well done! I think there's a
+vacancy as a Knight - I'll see if I can get you promoted in time for the next
+game."
+54252: That would take you over the edge of the board!
+54288: It is deeply ingrained in your nature as a Pawn only to move forwards.
+Onward, ever onward; that's your motto.
+54368: You can't move that far in one move!
+54460: You can only capture pieces that are immediately to your northwest or
+northeast.
+54696: . Each player starts the game with 16 pieces: 8
+54764: .
+
+White and Black take turns moving one of their own pieces. Each piece
+has its own mode of movement (see the entries for each piece). If a piece moves
+onto a square occupied by an enemy piece, the enemy piece is
+54922: and removed from the game.
+
+The Kings can't be captured. If an enemy
+piece threatens to capture your King, the King is said to be in
+55028: and must be moved. If the King can't move out of check, he is
+55080: and the game is over.
+
+The game can also end if one player has no legal
+move to make. This is called
+55158: In this game you take the part of one of the White chess pieces. You
+start as a humble Pawn, but if you play well you may advance through the ranks,
+all the way up to royal status.
+
+As an individual piece, you will find that you
+have very little influence on the game as a whole: you can only control your
+own moves, not those of other pieces, and you will only move when told to do
+so. Only when you've advanced all the way to King, you'll be in charge of the
+entire game, and you'll be able to order the other pieces around.
+
+During the
+game, a diagram of the chess board with the current position is shown in the
+status bar. Pieces are represented by capital letters (inverted for the Black
+pieces).
+
+The White Pawns move upwards in the diagram. To map the game into a
+standard IF format, this direction has been labeled as 'north'.
+55748: The Pawn is the least powerful piece. Pawns move only forward, except
+when capturing enemy pieces: Pawns capture diagonally. So a White Pawn can only
+move to the north, and capture pieces immediately to the northeast or northwest
+(but not capture to the north, so a Black piece immediately to the north of a
+White Pawn will block its progress).
+
+Pawns move slowly, one square at a time,
+except on their first move, when they have a choice of moving either one or two
+squares.
+
+When a Pawn reaches the last rank, it is
+56160: The King is the most important piece of all, for if it is lost, the
+entire game is lost. If an enemy piece threatens to capture your King, your are
+said to be in
+56280: , and you must immediately move the King somewhere where it isn't
+threatened. The King must never move to a field where it is in check,
+either.
+
+The King can move one step in any direction.
+56424: (from German, meaning "obligation to move") is used to describe a
+situation where any move a player can make will worsen his position. The rules
+force him to make a move, even if it means that he will lose the game.
+56636: . Type REGISTER for additional information.
+56848: You'd better hang onto your rule book. You never know when you might
+need to consult it.
+56910: Your interpreter reports a screen size too small to display this game
+properly.
+
+Do you wish to continue anyway (y/N)?
+57000: Only Knights can jump in chess. Wait until you're promoted!
+
+
+
+
+
+
+
+
+
+
+>quit

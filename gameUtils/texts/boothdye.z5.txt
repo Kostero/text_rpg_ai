@@ -1,0 +1,174 @@
+10305: Nothing to do!
+10340: o. You have won
+10424: It is now pitch dark in here!
+10451: I beg your pardon?
+10515: Sorry, that can't be corrected.
+10544: Think nothing of it.
+10597: As good-looking as ever.
+10629: You can hardly repeat that.
+10654: You can't begin with a comma.
+10768: I didn't understand that number.
+10797: You can't see any such thing.
+10833: You aren't holding that!
+10875: I'm not sure what "
+10927: That's not a verb I recognise.
+10966: You can't see "
+11074: Nothing to do!
+11091: There are none at all available!
+12001: Please answer yes or no.
+12027: Are you sure you want to quit?
+12072: Failed.
+12092: Restore failed.
+12109: Ok.
+12127: Save failed.
+12142: Ok.
+12186: Transcripting is already on.
+12252: Transcripting is already off.
+12310: Score notification on.
+12331: Score notification off.
+12354: You have visited:
+12382: Objects you have handled:
+12407: None.
+12791: You are carrying nothing.
+12840: Taken.
+12851: You are always self-possessed.
+13384: Dropped.
+13492: Removed.
+13631: You lack the dexterity.
+13712: Done.
+13978: Done.
+14198: Wrahn seem interested.
+14837: You can't go that way.
+15397: But it's dark.
+15414: You find nothing of interest.
+15450: But it's dark.
+15541: You find nothing of interest.
+16669: . Not bad.
+16687: That was a rhetorical question.
+16741: That seems unnecessary.
+16764: Keep your mind on the game.
+16789: What a good idea.
+16808: You smell nothing unexpected.
+16835: You hear nothing unexpected.
+16860: You taste nothing unexpected.
+16895: Keep your hands to yourself!
+16920: You feel nothing unexpected.
+16945: If you think that'll help.
+17054: Oh, don't apologise.
+17084: Quite.
+17153: You achieve nothing by this.
+17241: You wave, feeling foolish.
+17391: You are unable to.
+17410: Nothing obvious happens.
+17460: That's not a direction.
+17483: Not that way you can't.
+17515: Keep your hands to yourself.
+17540: You achieve nothing by this.
+17573: Futile.
+17602: You talk to yourself a while.
+17629: This provokes no reaction.
+17657: There is no reply.
+17676: Nothing is on sale.
+17695: Your singing is abominable.
+17729: Time passes.
+41575: You can't reach the bucket.
+41608: The dye is no longer available.
+41651: I don't think you'd fit.
+41676: That's impossible.
+41706: You take the bucket.
+41744: You already have that.
+41806: You don't have the dye.
+41862: How would you manage that?
+41905: Huh?
+41970: From way up here?
+42226: Nothing seems to happen.
+44452: in" or "notin
+44468: opmhas" or "hasnt
+44610: }" at end of "objectloop
+46040: Score:
+46048: Moves:
+46056: Time:
+46064: You can't go that way.
+46396: Please give one of the answers above.
+46424: [You can't "undo" what hasn't been done!]
+46460: [Can't "undo" twice in succession. Sorry!]
+46500: "Oops" can only correct a single word.
+46528: It is pitch dark, and you can't see a thing.
+46560: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+46620: You seem to want to talk to someone, but I can't see whom.
+46664: To talk to someone, try "someone, hello" or some such.
+46704: I didn't understand that sentence.
+46764: You seem to have said too little!
+46788: You can't use multiple objects with that verb.
+46824: You can only use multiple objects once on a line.
+46860: You excepted something not included anyway!
+46892: You can only do that to something animate.
+46924: That's not something you need to refer to in the course of this game.
+46972: I didn't understand the way that finished.
+47004: Sorry, you can only have one item here. Which exactly?
+47156: Are you sure you want to restart?
+47180: The game file has verified as intact.
+47208: The game file did not verify as intact, and may be corrupt.
+47252: Attempt to begin transcript failed.
+47280: Attempt to end transcript failed.
+47304: You're carrying too many things already.
+47336: You can't put something on top of itself.
+47368: You can't put something inside itself.
+47396: That would scarcely empty anything.
+47452: You can only get into something free-standing.
+47488: But you aren't in anything at the moment.
+47520: You'll have to say which compass direction to go in.
+47560: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+47656: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+47740: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+47916: This dangerous act would achieve little.
+47944: Nothing practical results from your prayer.
+47976: The dreadful truth is, this is not a dream.
+48008: Digging would achieve nothing here.
+48036: You jump on the spot, fruitlessly.
+48064: You would achieve nothing by this.
+48088: There's nothing suitable to drink here.
+48116: But there's no water here to carry.
+48144: Real adventurers do not use such language.
+48176: Violence isn't the answer to this one.
+48204: There's not enough water to swim in.
+48232: There's nothing sensible to swing here.
+48260: That would be less than courteous.
+48284: Is that the best you can think of?
+48308: You lack the nerve when it comes to the crucial moment.
+48348: I don't think much is to be achieved by that.
+48380: You aren't feeling especially drowsy.
+48468: Unfortunately, you do not have enough hands to hold both the bucket and
+the phone booth. You drop the booth on top of yourself.
+48556: This is just an ordinary field in the middle of nowhere. You have no
+idea why you're here.
+48620: The phone booth is large and has the word "TELEPHONE" in red in the
+front.
+48680: The phone booth is large and has dye splattered all over it!
+48724: Try as you might, you cannot force the booth open!
+48760: You grasp the phone booth and slowly lift it up.
+48796: The bucket falls off the phone booth and hits the ground.
+48836: The dye pours out of the bucket.
+48860: You have managed to pick up the phone booth and the dye at the same
+time. Congratulations!
+48928: The bucket is all white.
+48952: The dye is thin and blue.
+48972: You cannot hold the dye with your bare hands.
+49004: You cannot hold the dye with your bare hands.
+49036: You pour the dye all over the booth. It soon dries up.
+49076: You pour the dye over the sign. It soon dries up.
+49112: You comtemplate this, but decide against it.
+49144: You pour the dye into the ground.
+49168: Well, that didn't taste half-bad.
+49196: The sign reads, "To win the game, you must be holding both the booth and
+the dye at the same time."
+49268: Some moron put dye all over the sign, and you can't read it.
+49312: You attempt to balance the bucket on the sign, but it falls off.
+49360: The dye spills out of the bucket and soaks into the ground.
+49404: That doesn't seem very realistic, does it?
+49436: A chilly gale picks up, but recedes after a few seconds.
+

@@ -1,0 +1,458 @@
+12845: Nothing to do!
+12880: o. You have won
+12963: It is now pitch dark in here!
+12990: I beg your pardon?
+13054: Sorry, that can't be corrected.
+13083: Think nothing of it.
+13136: As good-looking as ever.
+13168: You can hardly repeat that.
+13193: You can't begin with a comma.
+13307: I didn't understand that number.
+13336: You can't see any such thing.
+13372: You aren't holding that!
+13414: I'm not sure what "
+13466: That's not a verb I recognise.
+13505: You can't see "
+13613: Nothing to do!
+13630: There are none at all available!
+14540: Please answer yes or no.
+14566: Are you sure you want to quit?
+14611: Failed.
+14631: Restore failed.
+14648: Ok.
+14666: Save failed.
+14681: Ok.
+14725: Transcripting is already on.
+14791: Transcripting is already off.
+14849: Score notification on.
+14870: Score notification off.
+14893: You have visited:
+14921: Objects you have handled:
+14946: None.
+15330: You are carrying nothing.
+15379: Taken.
+15390: You are always self-possessed.
+15923: Dropped.
+16031: Removed.
+16170: You lack the dexterity.
+16251: Done.
+16517: Done.
+16737: Wrahn seem interested.
+17376: You can't go that way.
+17936: But it's dark.
+17953: You find nothing of interest.
+17989: But it's dark.
+18080: You find nothing of interest.
+19208: . Not bad.
+19226: That was a rhetorical question.
+19280: That seems unnecessary.
+19303: Keep your mind on the game.
+19328: What a good idea.
+19347: You smell nothing unexpected.
+19374: You hear nothing unexpected.
+19399: You taste nothing unexpected.
+19434: Keep your hands to yourself!
+19459: You feel nothing unexpected.
+19484: If you think that'll help.
+19593: Oh, don't apologise.
+19623: Quite.
+19692: You achieve nothing by this.
+19780: You wave, feeling foolish.
+19930: You are unable to.
+19949: Nothing obvious happens.
+19999: That's not a direction.
+20022: Not that way you can't.
+20054: Keep your hands to yourself.
+20079: You achieve nothing by this.
+20112: Futile.
+20141: You talk to yourself a while.
+20168: This provokes no reaction.
+20196: There is no reply.
+20215: Nothing is on sale.
+20234: Your singing is abominable.
+20268: Time passes.
+34024: I should think so, too.
+34058: That's not the answer.
+34081: Sleeping would solve nothing.
+44477: The story so far:
+44503: Over to you.
+44571: You find a steel key!
+44589: Alas, nothing else under there.
+44772: Best leave him where he is.
+44797: He's far too heavy.
+44836: He's in no fit state to do that.
+45326: You pull the pin.
+45813: She's out of your league.
+46141: It has been filled in.
+49168: Score:
+49176: Moves:
+49184: Time:
+49192: You can't go that way.
+49524: Please give one of the answers above.
+49552: [You can't "undo" what hasn't been done!]
+49588: [Can't "undo" twice in succession. Sorry!]
+49628: "Oops" can only correct a single word.
+49656: It is pitch dark, and you can't see a thing.
+49688: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+49748: You seem to want to talk to someone, but I can't see whom.
+49792: To talk to someone, try "someone, hello" or some such.
+49832: I didn't understand that sentence.
+49892: You seem to have said too little!
+49916: You can't use multiple objects with that verb.
+49952: You can only use multiple objects once on a line.
+49988: You excepted something not included anyway!
+50020: You can only do that to something animate.
+50052: That's not something you need to refer to in the course of this game.
+50100: I didn't understand the way that finished.
+50132: Sorry, you can only have one item here. Which exactly?
+50284: Are you sure you want to restart?
+50308: The game file has verified as intact.
+50336: The game file did not verify as intact, and may be corrupt.
+50380: Attempt to begin transcript failed.
+50408: Attempt to end transcript failed.
+50432: You're carrying too many things already.
+50464: You can't put something on top of itself.
+50496: You can't put something inside itself.
+50524: That would scarcely empty anything.
+50580: You can only get into something free-standing.
+50616: But you aren't in anything at the moment.
+50648: You'll have to say which compass direction to go in.
+50688: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+50784: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+50868: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+51044: This dangerous act would achieve little.
+51072: Nothing practical results from your prayer.
+51104: The dreadful truth is, this is not a dream.
+51136: Digging would achieve nothing here.
+51164: You jump on the spot, fruitlessly.
+51192: You would achieve nothing by this.
+51216: There's nothing suitable to drink here.
+51244: But there's no water here to carry.
+51272: Real adventurers do not use such language.
+51304: Violence isn't the answer to this one.
+51332: There's not enough water to swim in.
+51360: There's nothing sensible to swing here.
+51388: That would be less than courteous.
+51412: Is that the best you can think of?
+51436: You lack the nerve when it comes to the crucial moment.
+51476: I don't think much is to be achieved by that.
+51508: You aren't feeling especially drowsy.
+51820: Your attempts too escape of resulted in your untimely demise. Shame.
+51868: You analysise your current predicament, but come to no satisfactory
+conclusion.
+51924: Can't dig stainless steel floors. Basic Physics.
+51960: Sticks and stones may break my bones, but words will never hurt me.
+52008: Surprisingly, this does little too improve your current predicament.
+52056: In space, no one can hear you pray. Or something like that.
+52100: Positivity is the key too success.
+52124: Negativity will be your downfall.
+52148: After briefly considering using your, shall we say, unique voice to
+subdue the guards, you discard the idea.
+52224: It's totally pitch black and you can't see a thing!
+52262: Escape from Starship Zenon.
+52388: Accused of multi-planaterial murder and thrown in the high-security brig
+of a large federal starship with a life sentence. What a downer. There's
+probably some fiendishly tricky and elusive way to escape from here if you put
+your mind to it, you know.
+52562: Type help for help. Please read the read me.
+52600: If you ever get out of here, you really must complain to the prison's
+standards officers. This place is dirtier and dustier than a dirt factory. If
+you didn't have better things to do, you'd be in the right mind too give the
+place a jolly good clean just too spite it. There's a heavily built door to the
+south.
+52818: This is just your average prisoner regulation bed. No quilt, sheets or
+pillow. Just a hard wooden board.
+52896: You think you see a glint under the bed.
+52924: This is a pressure guage that controls the pressure in this room. It has
+a glass flap that can be opened and there is a button inside.
+53016: A big shiny red button that is inside the glass flap of the pressure
+guage.
+53068: You need to open the glass flap of the guage first.
+53104: A big red light starts to flash on the pressure guage. Perhaps you did
+something wrong.
+53168: You hear hurried footsteps from outside as a guard rushes up.
+53212: The guard rushes in, dodging around the items in the room, almost
+falling over a few times and presses the button on the guage. He shouts some
+profanity at you before walking off.
+53336: A switch that presumably operates the lights.
+53368: The lights switch back on automatically.
+53396: A steel key. Looks like it might fit a keyhole.
+53460: This guard seems to have tripped over something and knocked himself out
+when running into the room.
+53528: You feel this guard has already had enough punishment. Then you change
+your mind and put the boot in a bit.
+53604: The prone guard isn't exactly your idea of a perfect date.
+53648: He's completely out cold. Can't hear a word you're saying.
+53692: You consider kissing the guard then decide to kick him instead.
+53820: You shake him vigourously but he won't wake up.
+53856: This is a long corridor stretching west and east. The cell you where
+once held in is to the north, though you have no wish to return there.
+53952: As soon as you walk out of the cell, a guard picks you up and throws you
+back in, locking the door behind him.
+54036: A white, stainless steel wall stands in your way and doesn't look too
+inclined to move.
+54100: The janitor is a frail old man who wanders around with a mop and bucket,
+cleaning things. He seems harmless enough, but has a twinkle in his eye that
+suggests there's more to him than is immediatly apparent.
+54244: The janitor doesn't want your affections I'm afraid.
+54284: "Ta muchly, guv'nor!" says the janitor, grinning as he returns
+54382: "The male office worker is dying to go there, but he's got no chance of
+getting a place."
+54448: "She's a bit of alright, that female office worker, int she?" says the
+janitor, "If I were twenty years younger...."
+54536: "Damn good pub, that one." says the janitor. "Only one we got, as well."
+54592: "That juke box in the bar only plays Genesis songs." explains the
+janitor. "Wanna know why? 'Cos I made it that way." He beams brightly.
+54696: He winks at you. "I know's ye is an escaped prisoner, but I won't tell
+anyone, don't worry."
+54768: "Always ordering me about. Who do they think they are?"
+54812: The janitor grins at you and says "I have enough of my superiors
+ordering me around without you doing it as well!"
+54892: "I may only be a frial old janitor, but I know Dimac. My left little
+finger is registered as a deadly weapon hereabouts." You wisely back off.
+54994: The janitor wanders off, mopping as he goes.
+55030: The janitor wanders in and greets you with a curteous nod.
+55076: A section of corridor. You can see your old cell door to the east and
+the corridor stretches further west.
+55152: A white, stainless steel wall stands in your way and doesn't look too
+inclined to move. You even ask politely - how rude.
+55240: A section of corridor that stretches east back toward your old cell and
+north into some sort of hall. It also leads south to another room.
+55336: A white, stainless steel wall stands in your way and doesn't look too
+inclined to move. You even ask politely - how rude.
+55424: Another section of corridor that leads south into a room of some sort
+and west back towards your old cell.
+55496: You bang into a stainless steel wall. Ouch.
+55528: A reasonably large hall with a security camera positioned to the far
+north. The walls are that inhumane stainless steel white that turns your brain
+to mush after looking at it for a while.
+55656: The camera scans the room, looking for anything that shouldn't be there.
+55708: Noticing the camera you quickly dive back south before you are spotted.
+55764: The camera just sits there, smoking gently.
+55796: A black security camera.
+55816: Not much point now, it's in-operational.
+55848: You position yourself under the camera and look up at it, but see
+nothing of interest.
+55908: The black security camera is high up on the wall, too far up for you to
+reach it.
+55964: Some kind of control room. Unfortunatly you fail to see a big button
+marked "Disable security devices"...Might have to be a bit more subtle.
+56068: A load of buttons and switches.
+56092: You don't know what they might do, so you decide not to tamper with
+them.
+56144: A sign on the cupboard reads "Surveilance camera electronics - DO NOT
+TOUCH, THIS MEANS YOU BOB."
+56232: A cupboard is beneath the control panels.
+56264: You open the cupboard revealing some electronics.
+56300: The armoury is very sparsely stocked. If it where not for the bid red
+sign that proclaims "ARMOURY!" you'd probably guess it was just another cell...
+56440: This box contains chaff grenades - you can only get one at once.
+56488: A chaff grenade, used for disabling electronics. You could pull the pin
+and then deposit it somewhere.
+56560: Some heavy duty electronics - wires criss-cross everywhere.
+56604: Scorched and blackened, these electronics don't appear to be in working
+order.
+56660: A lift. There's a button that says "Down" on it and also a door to the
+south.
+56718: The lift shoots downwards and gradually comes to a halt...
+56764: A button shaped like an arrow pointing downwards.
+56798: The lift shoots downwards and gradually comes to a halt...
+56844: The bottom of the lift. There's a button with "Up" written on it and
+also a door to the north.
+56912: The lift shoots upwards and gradually comes to a halt...
+56956: A button shaped like an arrow pointing upwards.
+56990: The lift shoots upwards and gradually comes to a halt...
+57036: A hallway leading south into a lift of some kind and northwards into a
+fairly large room.
+57100: This room is large administration office with two desks stacked with
+papers, which behind sit two office workers, one male and one female. There are
+corridors emitting from this room in every direction and a sign on the wall
+that seems to explain where each of these corridors goes.
+57292: "You cannot pass without proper paperwork!" snorts the male secretary.
+57344: "Sorry, hon." says the female secretary. "You can't pass without
+paperwork, unless you bribe us of course." She giggles foolishly.
+57444: The sign reads: "South: Cell area. North: Main ship deck. East: Guards
+bar. West: Officers Quarters."
+57572: The male secretary wears a very prim and proper three piece suit -
+jacket, shirt and trousers, with a tie neatly dividing his torso in two. Every
+so often he stops furiously scribbling with his pencil to glare at his female
+counterpart across the office.
+57748: The man gets up and says "No, no, no. You're making the place untidy!"
+He picks
+57812: back up and shoves it into your hand. The female worker rolls her eyes.
+57864: He rolls his eyes. "That damn infernal woman never does any work. She
+makes the place so bally untidy as well."
+57944: "Something you'll never catch madam over there doing!"
+57984: "I cannot be bribed" he says smugly. "Unless you get me a seat at the
+officers convention. I want to be an officer one day. But, of course." he
+continues, now with a harsher look on his face. "YOU can't get me that seat, so
+I can't be bribed."
+58164: "I so wish I was an officer, just like Daddy." says the male officer
+wistfully. "There's an officers convention soon, if I could attend then surely
+I could impress my superiors. If only I had an invitation...."
+58320: The male officer suddenly perks up. "You have an invitation for the
+officers convention?" he asks eagerly. Seeing you don't, he gives you an evil
+stare and sets back down to his work.
+58452: "You leave my dear daddy out of this!"
+58480: "One must continue with ones work. Go away, you're making the place
+untidy."
+58536: The male officer doesn't look paticulary attractive, so you decide to
+give his lips a miss.
+58600: The male officer suddenly perks up. "You have an invitation for the
+officers convention?" he asks eagerly. Seeing you don't, he gives you an evil
+stare and sets back down to his work.
+58732: "By jove!" exclaims the secretary. "You've actually got me an invite. I
+won't notice if you pass through now."
+58924: "Hah!" scoffs the male secretary. "Why should I do anything YOU say?"
+58980: The male secretary gives the female secretary a baleful stare.
+59024: "How I wish I was an officer, so I could make Daddy proud." says the
+male secretary.
+59088: The female secretary gets her purse out and powders her nose.
+59132: The female secretary looks wistfully towards the bar, before turning
+back.
+59240: The female secretary is casually dressed, although she is not to
+scruffy. She doesn't appear to be doing nearly as much work as her male
+workmate across the office and spends a fair amount of time twirling her pen
+around in her fingers with a far away look on her face.
+59424: "Isn't he so uptight?" says the female secretary. "Never lets his hair
+down, always working."
+59496: "Some convention for officers...Him over there," She indicates her
+co-worker, " he wants to go. Never shuts up about it."
+59588: She flutters her eyelashes. "If you can get me the job in the bar, so I
+can get away from this dump and that sour puss." She points across the room to
+her co-worker. "Then I'll let you pass through."
+59732: "How I wish I could get away from here and go work somewhere else." she
+says wistfully.
+59842: Now please just give it back to the barman, and I'll let you pass."
+59892: "All I want is that bar job, no possessions." she sighs.
+59936: The female secretary giggles. "Sorry hon, it's more than my jobs worth
+to do that."
+60000: "I wish I had that job at the bar." she sighs.
+60036: Finally, a bar! Somewhere to quench your thirst for a pint of smooth,
+creamy ale...Your mouth begins to dribble, until you realise you have no money
+to speak of.... Your heart sinks, and you pause to take in the surroundings. It
+looks rather like a 20th century wine bar, with classy furnishings well placed
+around the room. There is a large sign on the wall.
+60292: It's a raging stonker of a duke box! If you know your juke boxes, and
+you surely do, it's nothing less than one of the now legendary Rock-Ola's, from
+1961. It appears to be jammed on tracks from Genesis.
+60444: The juke box rocks violently, but refuses to fall over.
+60484: You hear Phil Collins singing his heart out on the juke box.
+60528: The Juke box momentarily lapses into playing an Elvis Costello track,
+but someone hits the offending box and it resumes playing "Home by the sea.".
+60636: The distinctive voice of Peter Gabriel can be heard from the jukebox.
+60688: Classy and well placed. Very aesthetically pleasing.
+60768: "Barmaid wanted!" reads the sign, "Ask Sandy the barman about 'job' for
+more info."
+60832: A barman beams at you from behind the bar.
+60864: Sandy the barman is a fine figure of a man, standing some six feet tall.
+His head is topped by masses of ginger curls below which there are thick ginger
+eyebrows. To finish the image off, some ginger whiskers bristle underneath his
+nose. He's beaming quite hugely at you.
+61052: You approach Sandy, your intention clear, and he draws a large
+knobkerrie from underneath the bar. "Move another inch and you die, punk." he
+says, calmly, his face suddenly seeming to catch the light in unfavourable
+ways. You step back, and the beaming face returns.
+61240: As you approach the barman, unfriendly intentions at the forefront of
+your mind, you catch a glimpse of a large knobkerrie that he is idly holding in
+one hand and tapping against his other. You back off.
+61380: "Here's the application form, it's really quite simple." explains the
+barman, "Just give it to whoever wants the job and get them to fill it in. I
+assume you're not applying for the job as a barmaid." He laughs and winks at
+you.
+61544: "I already gave you the form, just give it back to me when you're done."
+says the barman.
+61608: He whistles between his teeth. "Aint she a beauty?" he says, "Always
+seems to play Genesis music though, funny that."
+61696: He leans closer to you and whispers in a conspiratorial manner.
+"Actually, I'm a natural blonde. I dye all my body hair this way because I like
+it."
+61804: "Might I draw your attention to the sign upon the wall sir?" asks the
+barman.
+61892: "Sorry guv." says the barman "I can't do that."
+61932: An application form for the post of barmaid at the bar.
+61972: Rather than an officers social hall, it appears to be a place of work.
+There is a photocopier stood on a table and a smart looking officer type sat
+behind the desk.
+62086: The officer takes his invite back off you before you leave.
+62136: This officer looks very officious. Looking at him, words such as
+"bustling" and "puffy cheeks" come to mind. He looks like one of those old
+style military men, and displays several medals on his green jacket. This
+jacket is kept company by a pair of green trousers, which you can just see from
+behind the desk. He displays a bristling moustache which is surrounded by the
+red, puffy mass of his face.
+62416: Not fancying that moustache up against your skin, you give kissing the
+officer a miss.
+62476: "This is my invite," says the officer, handing you a bit of paper. "You
+are free to peruse it and wish you had one of your own." He sniggers.
+62580: He snorts. "Bally common folks bar, that one. We officers have our own
+private bar." he says smugly.
+62656: "Talk sense, man!" exclaims the officer, puffing his cheeks out.
+62704: The officer accepts the invite back off you.
+62736: "Hah!" snorts the officer, "What could you possibly have that I'd want?"
+62792: Probably not a good idea attacking one of the top brass chaps.
+62836: The officer laughs. "I'm not doing anything that you say, peasant."
+62888: A white table with metal legs and a plastic top.
+62924: A big photocopier with somewhat simple controls. It appears you open it
+up, put whatever you wish to copy inside and then press the "On" button on the
+side.
+63036: The photocopier merrily chugs away for a few minutes before depositing a
+copy of the invite in your hand. You then retrieve the original invite.
+63136: There's nothing inside it that can be copied, so it refuses to start.
+63192: An invite to the officers convention, given to you by an officer.
+63240: A photocopy of an invite to the officers convention. Doubtless it could
+pass as the real thing.
+63308: A south/north corridor. To the south is a large room of some kind while
+the corridor leads north to some sort of airlock.
+63392: Before you stands a bulkhead door, looking every inch your ticket to
+freedom. Unfortunatly, it doesn't appear to have any method of opening. Back to
+the south you can see a large room, while to your east lies a small control
+room.
+63556: A small, dank control room, which only has the one button. An incredibly
+strange state of affairs for a control room, really. It's a big button, if it
+helps.
+63668: It's a big red button. It's the only button in this room, and probably
+gets rather lonely. It's just begging you to push it.
+63786: You won!
+63796: The guard runs into the room and, in the darkness, you hear a clatter
+and then a thud. Grinning sheepishly, you push the button on the pressure guage
+and wait for the lights to return.....
+63932: You push the button, but nothing happens.
+63964: You push the button, and hear the grind of machinery.
+64004: You leap through the airlock, and find an escape pod at the other side.
+How convieniant! You engage the throttle and speed away into the unknown.
+64106: This really is all too good to be true. Escaped from the spaceship with
+not a scratch or scrape and now your own escape pod to call your own, there
+must be a catch somewhere.
+64230: I expect you'll find out in the sequal.
+64264: The grenade explodes in your hands, knocking you to the floor and giving
+you a nasty shock.
+64328: The grenade explodes, with no visible results.
+64364: The grenade explodes - you hear the electronics fizzle out.
+64408: "It hasn't been filled in yet!" says the barman, "Get someone to fill it
+in, then bring it back."
+64480: "Thanks!" exclaims the barman, "I'm sure she'll be very happy in her new
+position, she'll be starting here very soon."
+64644: About Escape from the Starship Zenon.
+64702: All commands should be typed in lowercase.
+64736: The following commands do not take up any turns of game time:
+64782: LONG/VERBOSE - In verbose mode, room descriptions will always be shown
+in their entirety.
+FULL/SCORE - Print various information about your current
+score and rating.
+QUIT/SAVE/RESTORE - Quit, save your current status, or
+restore previous status.
+64988: The following commands take up one game turn:
+65290: You can ORDER characters to do something, although they are usually not
+very happy about responding.
+65364: This game has been in development on and off for quite some time, and
+has finally come to fruition now, the sixteenth of May, year two thousand. It
+is written in Inform, and was turned into a stand-alone applicaton by Maxzip.
+65524: This game is all my own work, but I would like to thank G. Nelson for
+the Inform language and compiler, as it's really what sparked my interest in
+programming. I owe what shall hopefully be a long and happy career to him.
+

@@ -1,0 +1,1016 @@
+22661: Nothing to do!
+22696: o. You have won
+22780: It is now pitch dark in here!
+22807: I beg your pardon?
+22871: Sorry, that can't be corrected.
+22900: Think nothing of it.
+22953: As good-looking as ever.
+22985: You can hardly repeat that.
+23010: You can't begin with a comma.
+23124: I didn't understand that number.
+23153: You can't see any such thing.
+23189: You aren't holding that!
+23231: I'm not sure what "
+23283: That's not a verb I recognise.
+23322: You can't see "
+23430: Nothing to do!
+23447: There are none at all available!
+24357: Please answer yes or no.
+24383: Are you sure you want to quit?
+24428: Failed.
+24448: Restore failed.
+24465: Ok.
+24483: Save failed.
+24498: Ok.
+24542: Transcripting is already on.
+24608: Transcripting is already off.
+24666: Score notification on.
+24687: Score notification off.
+24710: You have visited:
+24738: Objects you have handled:
+24763: None.
+25149: You are carrying nothing.
+25198: Taken.
+25209: You are always self-possessed.
+25742: Dropped.
+25850: Removed.
+25989: You lack the dexterity.
+26070: Done.
+26336: Done.
+26556: Wrahn seem interested.
+27195: You can't go that way.
+27798: But it's dark.
+27815: You find nothing of interest.
+27851: But it's dark.
+27942: You find nothing of interest.
+29070: . Not bad.
+29088: That was a rhetorical question.
+29142: That seems unnecessary.
+29165: Keep your mind on the game.
+29190: What a good idea.
+29209: You smell nothing unexpected.
+29236: You hear nothing unexpected.
+29261: You taste nothing unexpected.
+29296: Keep your hands to yourself!
+29321: You feel nothing unexpected.
+29346: If you think that'll help.
+29455: Oh, don't apologise.
+29485: Quite.
+29554: You achieve nothing by this.
+29642: You wave, feeling foolish.
+29792: You are unable to.
+29811: Nothing obvious happens.
+29861: That's not a direction.
+29884: Not that way you can't.
+29916: Keep your hands to yourself.
+29941: You achieve nothing by this.
+29974: Futile.
+30003: You talk to yourself a while.
+30030: This provokes no reaction.
+30058: There is no reply.
+30077: Nothing is on sale.
+30096: Your singing is abominable.
+30130: Time passes.
+55299: That is already on.
+55753: It's just a noise.
+55776: "What a useless thing."
+56059: That's already lit.
+56538: Nothing happens.
+56672: A beautifully delicate scent.
+56698: Mr. Brookes is here,
+57442: Brookes leaves the room.
+58130: A bird circles overhead.
+58151: A bird sits on the ground here.
+58360: You won't win the game that way.
+58510: You can't see any such thing.
+58545: Perhaps it can be opened.
+58702: Dust.
+58713: Carpet bugs.
+58728: It smells like old carpet.
+58926: My, what fragrant flowers.
+58954: Ouch!
+58970: It smells, well, eucalyptusy.
+59306: You find nothing further.
+59479: Absurd.
+59578: How childish.
+59612: "Bravo!" cries Brookes.
+59701: What a preposterous notion.
+59786: Hvdhn.
+60028: Nothing spetacular happens.
+60347: Absurd.
+60409: You're as handsome as ever.
+60903: A wonderfully relaxing aroma.
+62573: Taken.
+62667: The frog hops just out of reach.
+62806: "Ribbit," says the frog.
+63081: Extremely unwise.
+63172: Don't be so heartless.
+63214: "Flit flit flutter flit."
+63239: "Flit flutter flit."
+63324: Don't be so heartless.
+63679: That isn't currently alight.
+63738: Talking to yourself again?
+63770: Stop stirring things!
+63790: Unhelpful.
+66132: in" or "notin
+66148: opmhas" or "hasnt
+66290: }" at end of "objectloop
+67534: An Interactive Inheritance
+Copyright (c) 2000 by Derek Barley.
+67748: Score:
+67756: Moves:
+67764: Time:
+67772: You can't go that way.
+68104: Please give one of the answers above.
+68132: [You can't "undo" what hasn't been done!]
+68168: [Can't "undo" twice in succession. Sorry!]
+68208: "Oops" can only correct a single word.
+68236: It is pitch dark, and you can't see a thing.
+68268: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+68328: You seem to want to talk to someone, but I can't see whom.
+68372: To talk to someone, try "someone, hello" or some such.
+68412: I didn't understand that sentence.
+68472: You seem to have said too little!
+68496: You can't use multiple objects with that verb.
+68532: You can only use multiple objects once on a line.
+68568: You excepted something not included anyway!
+68600: You can only do that to something animate.
+68632: That's not something you need to refer to in the course of this game.
+68680: I didn't understand the way that finished.
+68712: Sorry, you can only have one item here. Which exactly?
+68864: Are you sure you want to restart?
+68888: The game file has verified as intact.
+68916: The game file did not verify as intact, and may be corrupt.
+68960: Attempt to begin transcript failed.
+68988: Attempt to end transcript failed.
+69012: You're carrying too many things already.
+69044: You can't put something on top of itself.
+69076: You can't put something inside itself.
+69104: That would scarcely empty anything.
+69160: You can only get into something free-standing.
+69196: But you aren't in anything at the moment.
+69228: You'll have to say which compass direction to go in.
+69268: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+69364: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+69448: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+69624: This dangerous act would achieve little.
+69652: Nothing practical results from your prayer.
+69684: The dreadful truth is, this is not a dream.
+69716: Digging would achieve nothing here.
+69744: You jump on the spot, fruitlessly.
+69772: You would achieve nothing by this.
+69796: There's nothing suitable to drink here.
+69824: But there's no water here to carry.
+69852: Real adventurers do not use such language.
+69884: Violence isn't the answer to this one.
+69912: There's not enough water to swim in.
+69940: There's nothing sensible to swing here.
+69968: That would be less than courteous.
+69992: Is that the best you can think of?
+70016: You lack the nerve when it comes to the crucial moment.
+70056: I don't think much is to be achieved by that.
+70088: You aren't feeling especially drowsy.
+70180: A large canvas bag.
+70196: "It's a bag. You put things in it."
+70224: Compass directions are so much more precise.
+70256: Compass directions are so much more precise.
+70288: Compass directions are so much more precise.
+70320: Compass directions are so much more precise.
+70352: For the first time, you step inside Gharston Hall.
+70568: You cannot turn the stopcock by hand.
+70604: Inside the maze everywhere looks the same: conifer hedges too tall to
+see over and compacted soil underfoot.
+70784: Your normally infallible sense of direction has abandoned you.
+70828: It is quite impossible to get through the hedge.
+70864: An ordinary-looking battery.
+70888: You touch the tip of the battery with your tongue:
+70956: "Surely that would be more useful inside a torch, or something."
+71012: You must close the torch before it will work properly.
+71052: The torch does not appear to be working. Perhaps the battery is flat.
+71104: The torch beams brightly, illuminating your surroundings.
+71144: The torch beams brightly for a short while, but the intense light
+quickly begins to fade.
+71236: You hear him curse under his breath and stumble from the room.
+71280: You hear Brookes curse under his breath. A moment later he pushes past
+you, shaking his torch violently as he goes.
+71362: He looks at the strange light and gives a nervous shudder.
+71406: As it does so, the candle gutters a little more than usual, disturbed by
+some unseen influence. The flickering light produces a most disturbing effect,
+and you can actually see the blood drain from the poor man's face. With a quick
+yelp of fear, he darts from the room.
+71598: You can see an eerie, flickering light through the attic doorway. A
+moment later there comes a fearful cry of horror from Brookes, closely followed
+by the man himself as he descends the stairs two at a time. His face is quite
+drained of blood.
+71770: He strikes it viciously against the nearest beam and curses under his
+breath.
+71828: You hear the sound of something metallic being beaten against one of the
+roof beams.
+71888: "Very useful, if you're planning on going anywhere at all dark. My
+advice would be to make sure you know how to change the battery, unless you
+want to be plunged into darkness unexpectedly."
+72024: A narrow gravel path that runs around the perimeter of the house.
+72072: An old-fashioned skeleton key.
+72096: "That looks like the kind of key that might fit several locks. I'd hang
+on to it if I were you."
+72168: Obviously a door key, and obviously one that has seen better days.
+72216: "That looks as if it has been left outdoors for a long time. Have you
+found the lock that it fits yet?"
+72292: It is just an ordinary dinner plate, and empty at that.
+72332: "What a useless thing."
+72352: A very nice, very shiny, very sporty, car.
+72384: You can see a shiny sports car (with an open door) here.
+72424: You can see a shiny sports car here.
+72452: The inside of the sports car is even shinier and more expensive-looking
+than the outside. The only thing it lacks is gold trim on the furry dice.
+72552: You don't have the key, and hot-wiring sports cars is not really your
+style.
+72624: A bundle of legal papers, apparently describing an agreement between
+your great aunt Agatha and Perfidia Properties. Although you are no legal
+whizz, you can discern two things: (1) that Gharston Hall appears to have been
+sold to the company for the development of a hotel and leisure complex, and (2)
+something fishy.
+72852: "I admit that I'm unusually knowledgable for a hawk, but legal advice is
+a little out of my area of expertise."
+72932: A carefully-constructed model of a glass-and-steel building that bears a
+striking resemblance to Gharston Hall in much the same way that a bottle of
+Fizzy-Pop bears a striking resemblance to a fine claret. A caption pinned to
+the front of the baseboard reads "Gharston Hall Hotel and Leisure Complex".
+73148: "What a hideous building. I do hope you can find a way to stop the
+developers."
+73208: A well-worn diary for the current year, bound in red leather. The
+entries end at the time of your great aunt's death.
+73292: Most of Agatha's diary entries seem to be concerned with details of
+which flowers she has planted. However, one entry near the end catches your
+eye. Deciphering your aunt's handwriting, you read: "That awful Mr. Brookes was
+back again today, pestering me to sell the house to his company. He always
+seems so nervous and edgy. I told him I wasn't interested, but he still
+persists. What is more, I think he may have taken the spare door key."
+73608: "I would never stoop so low as to read other people's private thoughts."
+73660: A gentle rattling sound can be heard here.
+73692: A quiet yet insistent rattling sound, like that of a cup and saucer on a
+moving train.
+73752: An ordinary jam jar.
+73768: A slimy collection of beady little frog's eyes. Looking at them makes
+you feel rather queasy, but you're glad you didn't have to procure them from a
+frog yourself.
+73884: Tipping the frogs' eyes out would make a terrible mess.
+73924: "Mmm. Frogs' eyes. My favourite. Do you have a suitable recipe for
+them?"
+73980: This is, presumably, the stopcock that controls the water supply to the
+Hall.
+74036: There is a stopcock here, visible where a floorboard has been removed.
+74088: A hardback notebook, the cover of which bears the title "Favourite
+Recipes".
+74144: The book contains all kinds of traditional English recipes that your
+great aunt has collected over the years: casseroles, roasts, soups, stews, and
+so on. However, when you turn to the very last page you discover a rather less
+traditional recipe:
+74320: Take a sprig of lavender, a handful of sunflower seeds and a bunch of
+spinach leaves turning to mould. Add frog's eyes and the juice of an ugly
+fruit. Put all the ingredients into a pan and stir. Drink the resulting potion
+to be sure of ridding yourself of unwanted guests.
+74512: "Do you have all the ingredients for a recipe?"
+74548: A bunch of mouldy spinach leaves.
+74572: "I wonder what strange recipe would involve such an ingredient."
+74620: As the name suggests.
+74636: Tempting though the ugly fruit may be, you can't help remembering that
+it was provided for a purpose.
+74708: You squeeze the ugly fruit, collecting the juice in the saucepan, then
+discard the remainder of the flesh.
+74784: That would make a terrible mess. Perhaps you should find a saucepan
+first.
+74836: "I wonder what recipe would involve such an ingredient."
+74876: The juice of one ugly fruit, freshly squeezed.
+74912: Removing the juice from the saucepan without wasting it is quite
+impossible.
+74964: The value that the juice has to you does not lie in its ability to slake
+a thirst.
+75020: An unattractive mixture of unlikely ingredients, floating in unpalatable
+ugly fruit juice.
+75082: You take a sip of the vile-looking mixture, only to discover that it
+doesn't taste too bad after all. You take another swig, but this time there is
+a burning sensation on your lips.
+75216: You look in the mirror and realise that your eyes are beginning to bulge
+in their sockets. Huge warts are breaking out on your skin, which has taken on
+a distinctly greenish hue. The mixture has transformed you into some kind of
+fearfully ugly monster.
+75392: Your eyes seem to be staring, almost as if they were protruding from
+their sockets. Your skin feels hot, and when you touch your face you can feel
+warts breaking out. The potion seems to have transformed you into some kind of
+fearfully ugly monster.
+75564: Let's hope the effects are not permanent.
+75612: You light the candle with the flame from the gas burner.
+75652: You have no suitable way of lighting the candle.
+75688: You must be holding the candle before you can extinguish it.
+75732: You pinch the wick out between your fingers.
+75764: The candle produces an eerie, flickering light from inside the skull.
+75816: "May I suggest that it would look better if it were lit?"
+75860: "You should put that inside something to stop it blowing out."
+75904: A large oblong parcel, perhaps 1' square and just over 2' long, wrapped
+tightly in plastic and firmly sealed with tape.
+75992: You cannot reach the parcel because of the deep, slimy mud.
+76036: "Well? Aren't you going to see what's inside?"
+76072: An ornate metal box with an embossed lid on tiny hinges.
+76112: "Well? Aren't you going to see what's inside?"
+76148: A fancy-dress costume, consisting simply of a black cloak with a red
+silk lining.
+76208: The fancy-dress costume swirls out of reach.
+76240: The fancy-dress costume swirls around over your head.
+76280: The fancy-dress costume follows you.
+76308: Brookes looks at the cloak. "You're sure to be a hallowe..." His voice
+trails off as he sees you standing nearby and realises that you are not wearing
+the cloak as he had assumed. A moment later he has left the room at quite a
+speed.
+
+The fancy-dress costume flops to the floor in a heap, its mission
+complete.
+76528: "I wonder whether it would suit you."
+76556: "No, it's not really your style."
+76584: The bottom part of a statue. Only the feet and lower legs remain, so it
+is impossible to tell what the whole might have looked like. It would have
+stood perhaps 4' tall.
+76704: You cannot reach the statue because of the deep, slimy mud.
+76748: "What a useless thing."
+76768: Part of a silver candlestick, possibly once part of a large candelabra.
+76820: You cannot reach the candlestick because of the deep, slimy mud.
+76868: "That should be in some kind of bracket, I think."
+76908: A rusty bicycle that has clearly been underwater for many years.
+76952: You cannot reach the bicycle because of the deep, slimy mud.
+76996: "What a useless thing."
+77016: A piece of paper bearing what are obviously words. They appear to be in
+Old English but are quite impossible to comprehend, although easy enough to
+recite.
+77124: You read the words aloud, carefully considering their pronunciation.
+77256: "Well I'm not going to recite it. You never know what might happen."
+77308: A white rose with a small label tied around the stem.
+77346: You take the rose from the table. In familiar writing the label says
+"Rosa Aunt Agatha". You look around your new home, secure in the knowledge that
+you will be very welcome here.
+77480: Mr. Brookes is a smartly-dressed young man, perhaps in his late
+twenties. He is wearing an expensive-looking suit, a smart tie and gold
+cufflinks, and carrying a mobile 'phone and personal organiser. He has a
+stylish haircut and a ready smile. In short, he is every inch the very model of
+modern corporate success. He makes your skin crawl.
+77804: He looks at the cloak you are wearing. "You're sure to be a great
+success in that costume," he remarks.
+77880: "Just one word of advice. I'd lose the wellingtons if I were you; not
+very vampiric, you know."
+77952: Brookes looks up from what he is doing, ready to speak at you in his
+usual condescending manner. However, when he sees your face, condescension
+quickly vacates his features to make room for abject horror, an altogether
+bigger expression.
+
+"What, what, I, you," he babbles incoherently. In a second
+he has regained control of his legs and fled the room.
+78208: The mirror shows your face returning to normal as the effects of the
+potion wear off.
+78268: You feel the skin on your face relaxing as the effects of the potion
+wear off.
+78322: You are surprised to find a smartly-dressed young man standing here.
+78374: After looking at you for a moment, the man decides to speak. "You must
+be, erm, the relative. I was told you might stop by. My name is Mr. Brookes,
+from Perfidia Property. We're so pleased that Agatha decided to sell to us in
+the end; I know she was reluctant at first, but we have great plans for the
+place.
+78604: Oh, I used the key that she gave me to get in; I do hope you don't mind.
+78660: "Here is your copy of the purchase documents," says Brookes. "I'll keep
+our copy, of course. I'm sure you'll find everything in order." He hands you a
+sheaf of papers.
+78786: "I thought you might like to see this rather stunning model of the
+improvements we have planned," says Brookes as he hands you a cardboard model
+of a building. "Very impressive, don't you agree?"
+78930: "I'm sure I don't need to tell you that time is money in our business,"
+Brookes says, "so we'll have to insist that you pick up the last of Agatha's
+things and vacate the Hall by tonight. So nice to have met you."
+79168: As you watch, a shiny sports car pulls up at an unlikely angle, spraying
+gravel in all directions. A young man in a suit climbs out and
+79396: A moment later you hear the front door slam.
+79428: A flickering light reflects from the beams of the roof; someone with a
+torch is ascending the stairs. A moment later, Mr. Brookes arrives.
+79564: "Look," says Brookes, a little apologetically. "I'm sorry about this,
+but it's really not acceptable for you to go around, well, groping people in
+that fashion. I'm sure it goes on all the time where you're from, but in
+civilised parts of the world it just isn't the done thing. I'm sorry." He moves
+away from you.
+79792: Attacking property developers, whilst undoubtedly an enjoyable and
+worthwhile pursuit, is not really your style.
+79872: Mr. Brookes looks rather shocked. "Please, let us keep things
+professional."
+79932: Mr. Brookes looks at you with disdain. "I'm really rather busy, and
+perhaps your time would be better spent packing the last of Agatha's things."
+80040: Brookes pauses just long enough to throw you a condescending look before
+returning to what he was doing.
+80112: Brookes sneers at you and pushes the tin away.
+80144: Brookes rudely grabs the biscuit tin from you and wrenches it open. A
+moment later hundreds of tiny spiders swarm from the tin, up his arm and over
+his chest and head. You feel certain that, were it not for the fact that he has
+wisely decided to keep his mouth tightly shut, the anxiety obvious on his face
+would be clearly audible at quite a distance. Instead, the only sound you hear
+is faint laughter from some undefinable direction.
+
+Arms failing in an effort
+to rid himself of the assailing arthropods, Mr. Brookes staggers from the room.
+He drops the biscuit tin on the way.
+80546: Mr. Brookes walks up to you in a purposeful, if somewhat nervous,
+manner. He has clearly had more than his nerves can withstand.
+
+  "I'm sorry to
+tell you that we have decided not to continue with the development of Gharston
+Hall. The site isn't, er, suitable after all. I'm sure you understand."
+80764: Brookes pulls a sheaf of papers from his pocket. "Our copy of the
+purchase agreement," he explains. With a look of determination he proceeds to
+tear the document into small pieces. "I'm sorry," he adds, "but I must leave at
+once."
+
+Despite his obvious anxiety to leave, you decide to follow him, just to
+be sure.
+80990: The anxious-looking property developer hurries towards the main door. It
+is all you can do to keep up with him.
+81072: As Brookes strides towards the door you are pleased and, you reflect,
+not entirely surprised to see it swing open to allow him to pass. Once he has
+left the Hall the door swings slowly but firmly shut behind him.
+
+Out of the
+corner of your eye, you see something move near the hall table.
+81276: You stand on a springy carpet of pine needles beneath a magnificent
+tree. Its branches reach out in all directions, and its trunk towers above the
+Hall. The gravel path, almost obscured by the needles, runs west to the front
+of the house and south towards a tiny garden pond.
+81468: The path runs west and south; all other directions are impossible.
+81516: As you move, the hawk launches itself toward you and snatches the paper
+from you. With a twirl of its tongue it rolls the paper into a tight tube and
+slips it into the canister.
+81640: The bird flips the canister shut with a deft flick of its leg.
+81684: With what seems almost like a nod, the hawk gently flaps its wings and
+lifts into the air.
+81748: One of those terribly, terribly large pine trees that seems to just go
+on and on and on forever, upward and further upward, reaching skyward as if
+there is no limit to the height it might reach. Higher and higher it goes...
+well, you get the idea.
+81920: You would gain nothing by climbing the tree, except perhaps the
+opportunity to break your neck.
+81988: The pond is too far away to discern much about it. Why not stroll a
+little closer?
+82048: A particularly long and sharp pine needle.
+82080: You lift the pine needle with the tweezers and drop it safely into your
+palm.
+82136: Experience has shown that it is safest to use the tweezers.
+82180: As you try to pick up the pine needle, its tip grazes your skin and you
+feel suddenly light-headed. The effect passes after a moment, but is no less
+disturbing for all that. Clearly, this particular species of tree has spent
+many millennia patiently evolving ways of preventing its needles from being
+disturbed. Fortunately, humans have counter-evolved tweezers for just such a
+situation.
+82448: Perhaps the tweezers would be helpful.
+82476: "I'd be careful with that; those pine needles contain a nasty toxin."
+82528: The bird circles around above your head. As you stare into the bright
+sky, it swoops down and lands in front of you. From its shape and markings it
+appears to be a male hawk, and there is a tiny metal canister tied to one of
+its legs.
+82692: The bird, a young male hawk, gives you a strangely intelligent, knowing
+look. There is a tiny metal canister tied to one of its legs.
+82832: Or what's a heaven for?"
+82860: Perhaps if Browning were here, he would be able to reach the bird, but
+your arms are much too short.
+82936: Handling a bird of prey is best left to a trained falconer.
+82980: The bird is too far away to hear you.
+83008: The bird looks at you and seems almost to sigh.
+83044: The bird is too far away to hear you.
+83072: The bird looks at you and seems almost to sigh.
+83108: The bird is too far away to be bothered but such a futile attempt at
+violence.
+83164: You have a feeling that attacking the bird would make life much more
+difficult for you.
+83224: The bird is above such things - literally.
+83256: The bird is flying too high to notice you.
+83288: The hawk looks flustered and flaps its wings.
+83320: The bird hops aside and gives you an irritated look.
+83356: A tiny metal canister, of the kind used to carry messages.
+83400: The canister is firmly attached to the bird's leg, but the animal seems
+content to let you fiddle with it.
+83476: A tiny scrap of paper, curled as a result of being inside the canister.
+83526: You unroll the tiny scrap of paper, revealing a cryptic message:
+83576: : An Interactive Inheritance.
+
+Welcome to my first attempt at an Inform
+adventure. I hope that you'll find as much frustration and enjoyment in playing
+it as I did in writing it. Just one word of advice: there are no dead-ends; no
+matter what the situation, it is always possible to complete the game. 
+  This
+bird is a tercel, a young male hawk. Show him an object and he may be able to
+offer a little advice to help you. Of course, his knowledge is quite limited,
+but what can you expect? 
+  I am grateful to Kevin Wright for the many hours
+spent play-testing the game: the robustness and playability of the game are due
+in no small part to his efforts; for whatever faults remain the blame is
+entirely my own. 
+
+-- Derek Barley, April 2001.
+84108: As you release the scrap of paper, the hawk darts forward and snatches
+it from the air. With a deft twirl of its tiny tongue it rolls the paper
+tightly and pops it back into the canister. It flips the canister closed and
+blinks a beady eye at you.
+84280: The hawk darts forward with frightening speed and snatches the paper
+with its razor-sharp beak. As it waddles back to its previous position it
+twirls the paper with its tongue, then pops it into the canister. Closing the
+lid with a flick of its powerful neck, the bird settles down and regards you
+with a look of disdain.
+84500: "I'll need that back when you've finished with it."
+84540: A spacious hall with a polished black-and-white tile floor and
+oak-panelled walls. Doors lead east and west, and to the south a staircase
+leads up to the first floor.
+84656: So many doors, and you walk into a corner.
+84688: A good, solid oak door. The kind of door that would keep Jack Nicholson
+out.
+84744: A round hall table with an inlaid marquetry design depiciting a peacock.
+The table stands at the exact centre of the hall, making a focal point towards
+which the eye is drawn.
+84864: The foot of a wide marble staircase, the centre portion of which is
+covered in plush red carpet. Doors lead east and west, and the entrance hall is
+to the north. Above you, the staircase stretches up to the first floor.
+85016: So many doors, and you walk into a corner.
+85046: As you walk across the floor, one of the boards moves under your foot.
+85100: Although somewhat faded now, this is a good traditional Axminster, and
+must have looked quite magnificent in its day.
+85184: A small floorboard.
+85200: You lift the board to reveal a stopcock under the floor.
+85240: "I don't have much use for such things. Was there anything underneath
+it?"
+85296: The heavy curtains hanging partly-closed over the windows make this a
+rather dark, gloomy room. There is a faintly musty smell from the hundreds of
+books that crowd the shelves. The door is to the west.
+85436: Just the musty smell of old books.
+85460: You jump suddenly at the sound of something dropping to the floor behind
+you.
+85514: Another book falls to the floor with a thump.
+85552: The library door is to the west.
+85576: A large conservatory, populated with a variety of tropical plants and
+cacti. At the centre of the room is a huge eucalyptus that has actually broken
+through one of the glass roof panels. Surrounding it, and ranged along the
+walls, are plants in pots of all shapes and sizes. The house can be reached
+through a doorway to the west, while a set of glass doors lead outside.
+85832: The stairs lie to the west, and the conservatory doors to the east.
+85880: A large shrub, sporting beautiful pink flowers. The label says
+"Plumeria".
+85936: "What a useless thing."
+85956: A small example of "Schlumbergera baridgesii", but you probably know it
+as "Christmas Cactus". There are no flowers in evidence, but then, it is the
+wrong time of year.
+86080: "What a useless thing."
+86100: A plastic net with a wire handle, of the kind used to catch small fish.
+86152: "That would be useful if you needed to catch a fish or some other small
+creature."
+86216: "Eucalyptus Amygdalina", the unusual red gum tree of Tasmania.
+86264: Glass doors in a light wooden frame. They are clearly designed for
+appearance rather than security.
+86336: The glass doors seem to be locked.
+86360: A bright room, obviously intended to provide an entertaining atmosphere
+for any visitors. The walls are lined with original prints of political
+cartoons, and there is even a large moose-head hunting trophy on the west wall.
+Doors lead east and south.
+86536: There are doors to the south and east.
+86564: Once a maginificent snooker table, the green baize is now scuffed and
+worn, and a thin layer of dust mars the nap. Clearly, great aunt Agatha was not
+handy with a cue.
+86684: A well-used dart board, of the usual design. There are no darts in
+evidence, but perhaps you could improvise one somehow...
+86772: A rather rickety table, which has no doubt provided hours of innocent
+fun for the members of the household. What a shame you don't have any
+ha'pennies.
+86880: A sad-looking creature... or at least the stuffed head of a sad-looking
+creature. The mouth is downturned and the eyes seem to follow you around the
+room.
+86992: The moose-head is stuffed; talking to it is not normal.
+87036: Don't you think the poor creature has suffered enough?
+87076: It would need a shave before you could bring yourself to do that.
+87124: off the moose's nose with a dull thud. The poor thing looks sadder than
+ever.
+87180: The dining hall is populated with heavy oak furniture. The walls are
+covered with the portraits of your distant relatives, each in a rather severe
+gilt frame. Doors lead north, south and east, flanked by candlesticks mounted
+on brackets.
+87344: One of the oak panels in the west wall has been moved to reveal a
+passageway beyond.
+87404: There are doors to the north, south and east.
+87436: Why would you think you can go west?
+87464: A robust-looking dining table and six heavy chairs, all carved from oak
+and stained the colour of black treacle. IKEA it isn't.
+87556: Rather morose-looking portraits of your long-forgotten relatives. Most
+of them seem to have had less than joyous lives, if their expressions are
+anything to go by.
+87672: There are six brackets designed to hold candlesticks, one on each side
+of the three doors. However, you find your attention drawn to the one on the
+left of the north door,
+87860: It seems slightly loose but, as the saying goes, nothing obvious
+happens.
+87912: As you pull at the bracket there is a quiet but distinct clunk, like
+some well-oiled and carefully engineered catch being released. A barely
+perceptible noise to your left makes you look around, just in time to see one
+of the oak wall panels sliding back to reveal a passageway beyond.
+88108: The bracket is designed for a candlestick, rather than just a candle.
+88184: A wall panel that silently slides aside when the mechanism is operated.
+88236: A passageway between the walls of the building. The walls are
+constructed of bare stones held together with rough mortar. The workmanship is
+less than perfect, and there are several holes where bricks have been missed
+completely.
+88396: The rough walls form a corner leading north and east.
+88436: In one of the dusty holes where a brick should be, you discover a piece
+of paper.
+88492: The walls of this room are bare stone, held together with rough mortar.
+A passage of the same construction opens up to the south. Tiny specks of light
+on the east wall, arranged in an inverted triangle, betray the positions of
+three holes in the brickwork about 6' off the ground.
+88686: You stumble around, searching for the way out. Eventually you find the
+corridor to the south.
+88756: Faint footsteps echo through the tiny holes in the wall.
+88796: Three holes in the wall, about 6' off the ground and arranged in an
+inverted triangle.
+88860: By standing close to the wall it is possible to get a good view through
+the two upper holes. The lower hole allows you to breathe easily. You can see
+89002: Games Room on the other side. From the relative positions of the snooker
+table and dart board, you deduce that you must be looking through the eyes of
+the moose head.
+89120: Mr. Brookes is busying himself with his duties in the room.
+89164: An old-fashioned kitchen, dominated by a gigantic stone fireplace. At
+one time this must have been the site of culinary wonders, catering for dozens
+of guests. In recent years only your great aunt has used the place, and the
+useful contents of the room have been accumulated in one corner, around the gas
+cooker. A door leads north to the rest of the house, while the back door is to
+the south. In one corner of the west wall is a smaller door.
+89472: Cupboard doors can be so confusing; in this case the only are exits
+north, south and west.
+89568: An ordinary-looking kitchen door.
+89592: An ordinary kitchen table, made from pine.
+89624: An appetizing meal; just what you need after your long journey.
+89672: As you tuck into the delicious food, you wonder to yourself just who can
+have prepared it... no matter, it is still much appreciated, and you finish it
+in no time.
+89788: "Mmm, food. However, I suspect you'll want to eat it yourself,
+especially when it has been prepared with you in mind."
+89876: A wooden cutting board in the shape of a lily-pad.
+89912: "What an unusual shape. I'm sure it would be very attractive, if I were
+the kind of creature that likes to sit on lily-pads."
+90004: A very sharp kitchen knife.
+90024: "Be careful with that, it looks very sharp. You could have someone's eye
+out. Of course, it may be useful for opening things, too."
+90120: There is a drinking straw here.
+90144: A very thin, stripey drinking straw.
+90172: You slip the straw through the lowest hole and blow.
+90212: You blow through the straw, propelling the pine needle from it at great
+speed.
+90268: The needle hits the dart board, but lacks the weight to embed itself. It
+falls to the floor below the board.
+90344: The tiny needle lands some distance away.
+90376: Luckily, Brookes is quite nimble and easily avoids the projectile, which
+lands some distance away. "You should be careful with that you know; someone
+might get hurt. Perhaps I'll continue with one of the other rooms until you've
+finished playing." He leaves the room.
+90568: The tiny needle hurtles from the straw and travels some distance before
+presumably landing somewhere on the floor in the Games Room.
+90660: The pine needle flies from the straw, and you see Brookes slap a hand to
+the side of his neck - a hit! His knees give way and he slumps to the ground.
+For a few anxious moments you watch his body, wondering if this time you've
+gone too far, but then, to your relief, he stirs and looks around. Within a
+short time he has regained his composure. He picks himself up and leaves the
+Games Room.
+90936: That would be inadvisable, since the straw contains a sharp pine needle.
+90988: There's never a milkshake about when you need one.
+91024: "Such things don't really do much for me, as I don't have any lips. It
+would be of much more use for you to suck through... or to blow through."
+91132: There is a gas cooker here, and one of the gas burners is lit.
+91176: There is a gas cooker here.
+91228: All you hear is a faint hissing from the gas ring.
+91352: The gas flame is very hot, and you wisely decide not to touch it.
+91400: This particular saucepan has nothing to distinguish it from any other
+saucepan that you've ever encountered.
+91536: The whole ugly fruit will not fit in the saucepan.
+91572: What a strange thing to want to put in a saucepan.
+91608: The mixture bubbles and bloops spectacularly.
+91640: "Doing some cooking? I hope you have a recipe to follow."
+91684: The basement of the Hall. Empty wine racks stand along the south wall
+and rough stone steps lead up to the kitchen. Two tiny windows high on the west
+wall provides just enough light to see by.
+91820: The windows are all tightly shut.
+91844: The steps are to the east.
+91864: There is a rattle-clink coming from the high shelf.
+91900: Quite empty, I'm afraid. Besides, don't you have better things to do?
+91952: A narrow wooden shelf, high up on the north wall. Its position makes it
+difficult to see the contents, but it appears to hold nothing more than a
+selection of pickles, presumably made by your great aunt Agatha.
+92100: There is nothing else of interest on the shelf.
+92136: There is nothing of interest to be seen amongst the visible pickle jars.
+92186: One of the pickle jars on the shelf seems to be rattling and clinking
+against its neighbours. Sliding others aside enables you to reach the culprit
+and take it from the shelf. As you do so it stops vibrating.
+92336: A tiny basement window.
+92356: The window is painted firmly shut.
+92380: A weak trickle of light seeps through the grime on the windows, but it
+is impossible to discern what is outside.
+92460: A tiny basement window.
+92480: The window is painted firmly shut.
+92504: A weak trickle of light seeps through the grime on the windows, but it
+is impossible to discern what is outside.
+92584: A secret basement, bricked up and separated from the remainder of the
+basement long ago. A tiny window high on the west wall provides just enough
+light to see by. In the centre of the floor is a heavy iron grate.
+92732: This area was separated from the rest of the basement long ago; you'll
+have to leave the way you came in, through the window in the west wall.
+92832: A weak trickle of light seeps through the grime on the windows, but it
+is impossible to discern what is outside.
+92912: A heavy iron grate, hinged at one side.
+92940: Some kind of large animal skull.
+93000: "Yeugh. I don't like the look of that at all. The eyes are quite
+frightening, even in broad daylight. Imagine how spooky they would look in the
+dark, or by candle-light."
+93124: From the top of the staircase you can see the entrance hall below. Doors
+lead east and west, and there is a smaller door to the south.
+93220: North or south, east or west, up or down the stairs... so many
+directions you might choose, yet you stubbornly insist on attempting the
+impossible.
+93324: Immediately beyond the little door is a steep staircase that winds its
+way upwards.
+93382: This bathroom contains what is possibly the biggest bath you have ever
+seen. A large mirror on the wall reflects your image as you stand amongst the
+marbled opulence of it all.
+93506: The bath tap drips irritatingly.
+93532: The door is to the east.
+93596: An ordinary bathroom mirror.
+93616: Yeugh! Your eyes are bulging, but luckily the effect is hardly
+noticeable because of the throbbing veins and your huge, unsightly lips. The
+ugly fruit has certainly had an effect.
+93744: You look slightly odd wearing the halloween costume.
+93780: The master bedroom. A four-poster bed dominates the room, although the
+dressing table is none too retiring, either. A door leads west to the top of
+the stairs.
+93892: The door is to the west.
+93912: A grand four-poster bed, with a deep, springy mattress and a huge
+feather pillow. The bed appears to be freshly made, as if your arrival has been
+anticipated.
+94024: You lift the delicate floral cover and peer under the bed, where the
+light catches something cylindrical in the gloom. Reaching under, you retrieve
+the object.
+94136: An extra large, and particularly fluffy, feather pillow.
+94176: The wonderful smell of fresh linen.
+94204: "What a useless thing."
+94224: An ordinary pair of tweezers.
+94248: "Ah, good. I'm glad you brought those. Perhaps at last someone will pick
+up all these pine needles. They hurt my feet."
+94336: A dark, dusty room beneath the beams of the roof.
+94372: The stairs leading down are to the north.
+94404: The front drive of your great aunt's house, now your house. To the
+south, wide stone steps lead up to the front door. A gravel path runs round the
+sides of the house to east and west.
+94532: You have become strangely accustomed to your new home.
+94572: You can't want to leave already? You've only just arrived.
+94616: Wide granite steps leading from the drive to the front door, worn down
+in the middle from centuries of use.
+94692: You look up at Gharston Hall, a great, rambling monstrosity of a place.
+Built in the 17th century, it is young enough to be free of concerns about
+defensibility, yet old enough to have avoided later obsessions with symmetry
+and order. Although the overall effect is pleasant, you have a feeling that it
+will be a long time before you can be sure you've visited every last corner.
+94956: The front doorstep of the mansion. Steps lead down to the drive, flanked
+by heavy stone balustrades, and the door of the house is to the south.
+95056: Climbing over the balustrade would be uncouth.
+95088: On each side of the front steps there are three granite columns, about
+2' high, supporting a thick horizontal slab of the same stone. Moss covers the
+southern side of the columns, which have clearly been undisturbed for a long
+time.
+95252: A little garden shed is tucked out of sight just to the west of this
+secluded corner of the garden, while the gravel path runs nearby to the north.
+A rather disagreeable odour wafts on a slight breeze from the nearby compost
+heap.
+95412: The path runs north from here. The shed is to the west.
+95452: A rather fine, which is to say pungent, compost heap.
+95492: Even the most superficial search of the compost heap is not easy whilst
+trying to stay at arms' length. Your efforts are rewarded, if that is the
+correct word, by the discovery of some mouldy spinach leaves.
+95636: There is nothing further of interest in the compost heap.
+95676: Some people would think it strange to occupy one's time sampling the
+delights of a compost heap. As there is nobody else around, however, you are
+free to inhale deeply. The resulting coughing fit is just a bonus.
+95892: A tiny wooden shed. A grubby window admits just enough light for you to
+make out a bewidering number of earwigs, spiders, woodlice, beetles and other
+assorted creepy-crawlies. It surely can be no more than imagination, but they
+all seem to be creepy-crawling in your direction.
+96088: It is traditional to make use of the door when leaving a shed of this
+kind.
+96140: A metal spanner of the kind used to operate stopcocks.
+96180: "The gardener used that when he was adjusting the stopcocks, I think."
+96232: A small paper envelope. The label says "Helianthus".
+96312: "That looks interesting. What's inside?"
+96344: A number of large sunflower seeds.
+96368: You seem to be turning into a parrot. No, on second thoughts the
+sunflower seeds don't look that tasty after all.
+96448: "I love a nice meal cooked with sunflower seeds."
+96484: An old biscuit tin with the words "Hanford's Original Shortcake"
+embossed on each side.
+96548: The lid is almost closed, but there is a tiny gap.
+96584: You slip your finger under the slightly-open lid and lift it to reveal
+hundreds of tiny spiders. Instinctively you push the lid firmly shut, but not
+before the image of the miniscule creatures clambering over each other has
+burned itself into your memory.
+96760: You prise open the lid to reveal hundreds of tiny spiders. Instinctively
+you push the lid firmly shut again, but not before the image of the miniscule
+creatures clambering over each other has burned itself into your memory.
+96912: The mere memory of those tiny spiders scurrying around is enough to send
+a shiver down your spine. You cannot bring yourself to open the tin.
+97012: "Aren't you the least bit curious about what's inside?"
+97064: A pair of wellington boots, of a deep black colour.
+97100: "They won't fit me, I don't think."
+97132: A small clearing in the lakeside bushes. There is a quaint little brick
+building here, with a metal door next to a tiny window in the side wall.
+97232: The way out of the clearing is to the west. The brick building lies to
+the south.
+97292: The building is perhaps 20' by 10', with solid brick walls and a pitched
+slate roof. The brickwork is in surprisingly good condition, despite obviously
+having been neglected for years.
+97424: A grubby little window that would provide hardly any light even if it
+were clean.
+97480: Peering through the window it is just possible to make out some large
+pipes, perhaps 4" in diameter, inside the small building.
+97572: Looking through the window you can just discern the clearing outside.
+97620: A steel door set in a metal frame.
+97644: Large pipes spring up from the ground here, connecting to a series of
+stopcocks, each with a coloured handle.
+97720: The door is to the north.
+97748: A red stopcock.
+97772: A yellow stopcock.
+97800: A black stopcock.
+97828: A blue stopcock.
+97840: At one time, any country house worthy of the name boasted a hedge maze,
+and Gharston is no exception. The entrance, marked by a gap in the wall of
+conifer hedges, lies just to the west. The gravel path that runs around the
+Hall continues north and east.
+98020: The path runs westwards, directly up to the maze entrance before turning
+north.
+98092: The very centre of the maze is rather disappointing: just a small square
+surrounded by the same tall conifers as the rest of the maze.
+98184: A stone bench provided for weary maze-solvers to rest a while.
+98228: You relax and try to rest, but the bench is so uncomfortably cold and
+the maze so devoid of anything interesting that it is surely no longer than a
+few moments before you jump to your feet again.
+98360: Nothing to see here. Please move on.
+98388: You stand on the bench, but still cannot see over the tops of the
+hedges. Disappointed, you climb down again.
+98468: A tiny lavender plant, growing out of the hard, dry soil.
+98512: A sprig of lavender, about 18" long with deep purple buds.
+98556: You pull the plant from the ground and shake the soil from its roots.
+98604: A tentative nibble confirms your intuition: the plant is less than
+palatable.
+98660: "I love a nice meal cooked with lavender."
+98692: This is the highest of a series of pools, constructed so that each flows
+into the next. Willow trees lean over the edge of the pool, and large boulders
+add a rugged, wild look. The house can be reached to the north and west, and
+the lower pools are arrayed down the hill to the south. A thick growth of
+shrubs makes it impossible to move in nearly any other direction.
+98948: The shrubs, mostly rhododendron and azalea, make it impossible to move
+in that direction.
+99012: Pure, clean water is available from the kitchen tap at no extra cost.
+99148: Delicate and graceful, the willows sway gently in the breeze.
+99192: The ruggedness of the boulders is softened by the beautiful willow
+trees.
+99244: The delicate branches of acer palms stretch out over this tranquil pool,
+which is fed from the north and in turns empties into a lower pool to the
+south. No doubt the effect would be more relaxing if you didn't have other
+things to worry about.
+99412: The trees around the pool make it impossible to move in that direction.
+99464: Pure, clean water is available from the kitchen tap at no extra cost.
+99544: The layered branches of these diminutive trees lend an oriental feel to
+the pool.
+99600: Roses abound around this pool: shrubs, trees, climbers and miniatures.
+The heady aroma is quite breathtaking. It is fed from a higher pool to the
+north and empties into a lower one to the south.
+99736: Pure, clean water is available from the kitchen tap at no extra cost.
+99812: Ah, the sweet smell of a well-tended rose garden.
+99848: The thorny roses make it impossible to move in that direction.
+99892: Seldom has there existed such a magnificent collection of roses. Your
+great aunt was clearly something of an afficionado.
+99976: This pool must, at one time, have been quite stunning. Now the
+stepping-stones have gone and the plants that once adorned the poolside have
+been overrun with bindweed.
+100096: The dense bindweed makes it impossible to move in that direction.
+100144: Pure, clean water is available from the kitchen tap at no extra cost.
+100224: Nasty bindweed. Yeugh.
+100244: The shady west side of the Hall. This area seems more neglected than
+the rest of the grounds, and there is a definite chill in the air. The gravel
+path runs around the corner of the Hall to both north and south. At the very
+foot of the Hall's west wall are three tiny basement windows.
+100444: The windows are all tightly shut.
+100468: The path runs north-south here.
+100492: The window is painted firmly shut.
+100516: The window has been forced open, but the lock seems to have been broken
+for a long time.
+100580: The window is painted firmly shut.
+100604: You have already managed to prise this window open.
+100640: You slip the knife inside the frame and prise the window open.
+100684: Even after rubbing the pane with the edge of your hand, it is still
+impossible to see anything beyond the glass.
+100764: A tiny basement window.
+100784: The window is painted firmly shut.
+100808: Even after rubbing the pane with the edge of your hand, it is still
+impossible to see anything beyond the glass.
+100888: A tiny basement window.
+100908: The window is painted firmly shut.
+100932: Even after rubbing the pane with the edge of your hand, it is still
+impossible to see anything beyond the glass.
+101012: A small, informal garden. The focal point is a small pond, at the
+centre of which grows a large water-lily. The gravel path runs north-south from
+here, and the Hall, accessible through the conservatory doors, stands proudly
+to the west.
+101180: The path runs north-south here.
+101204: Pure, clean water is available from the kitchen tap at no extra cost.
+101252: The focal point of this part of the grounds, the pond is about 10 feet
+in diameter, and more or less round. The lilies in the centre are quite
+picturesque.
+101364: Big, thick round leaves, floating on the surface of the pond.
+101408: A loud "Ribbit" alerts you to the presence of a frog here.
+101452: A large, green and very noisy frog with cute eyes.
+101488: You creep slowly forward and drop the net deftly over the frog,
+trapping it. Lowering your head you lift the edge of the net and peer
+underneath to see... nothing. From behind you a familiar "Ribbit" reveals the
+location of the little creature.
+101660: The frog needs to be on a firm surface.
+101688: You must say what you want to cut the frog with.
+101722: You raise the knife, ready to make the first incision. Closing your
+eyes to see better, you try to remember the frog dissections of long-ago
+biology lessons. You recall the greyish-green animals pinned to the boards, the
+way that the blood and...
+
+"Ribbit," says the frog. It's no use, you can't
+bring yourself to repeat the barbarism of the school laboratory. Surely there
+must be another source of frog's eyes? Who knows, perhaps your great aunt
+Agatha kept a supply in case of emergency. If only she was here to help you.
+102120: The frog twists in the air and flails its legs. It lands just out of
+reach.
+102176: The frog thinks carefully before considering its reply. "Ribbit," it
+says.
+102232: The frog sits in the palm of your hand, looking up at you expectantly
+with tiny little eyes that display more lovable cuteness than you can
+withstand. Your resolve vanishes like a digestive biscuit in hot tea.
+102376: You kneel down and pucker your lips. The frog, apparently impressed by
+this performance, hops further away. Let's face it: this is not a fairy tale,
+the frog is not magical, and you're no princess.
+102516: The frog hops deftly out of the path of your projectile.
+102556: "Ribbit," says the frog as it hops
+102584: "Cute little creature, don't you think?"
+102616: A beautiful flower garden, busy with bees and butterflies. Flowers of a
+hundred different varieties vie for space in the crowded flower beds, and the
+scent they produce is quite amazing. The gravel path runs east-west, and a
+small wooden shed stands to the south. The back door of the house is to the
+north.
+102832: The path runs east-west here.
+102856: As you approach the garden, the bees leave their pollen-gathering
+duties and reassemble into an attack squadron. After a brief sprint around the
+lawn, you decide to leave the area again.
+102986: The bees seem to have calmed down at last.
+103020: Too many varieties to even begin to list them all. Let's just say
+they're very pretty, and they smell wonderful, and leave it at that.
+103116: A wonderfully heady aroma, redolent of long, lazy summer days.
+103160: Perhaps you and Mr. Brookes should be sipping tea on the lawn.
+103208: Quite large as bees go, and sporting the traditional black and yellow
+attire.
+103264: You could never catch anything with that.
+103346: "
+
+As if coming to their brother's rescue, a dozen other bees appear
+within moments, creating a miniature swarm around your head. There is nothing
+for it but to drop the net and flee before you get stung.
+103492: A red admiral, unless you're very much mistaken.
+103528: You could never catch anything with that.
+103560: You try to catch the butterfly in the net, but it escapes instantly.
+Perhaps if you had both hands free?
+103636: You swing the net through the air, scooping up the delicate butterfly.
+By putting your free hand over the mouth of the net you manage to prevent its
+escape.
+103744: The butterfly is too delicate to handle safely.
+103778: For the briefest of moments your concentration on the butterfly lapses,
+and it seizes the opportunity to flutter away.
+103868: "Flit flit flit flit flit. Flutter."
+103896: "Flit flit flutter." Kiss. "Flutter flit."
+103932: Tall green stems with large buds, almost ready to open, at the top. The
+plants sway gently in the light breeze.
+104012: The flowers have not opened yet, so there is no discernable scent.
+104060: It seems a shame to pick the sunflowers before they have opened.
+104104: From here, it appears to be a typical garden shed.
+104140: You need to get closer if you want to do anything more than just look.
+104188: The letter from the solicitor didn't tell you much about the house that
+you've inherited, other than its location. Now, after a long and tedious
+journey across some of England's most remote countryside, you've finally
+arrived. You're surprised by the size of the place; evidently your great aunt
+was more wealthy than you ever suspected.
+
+As the taxi disappears back the way
+it came, you take the key from your bag and turn to look at your new home...
+104512: That's not something you can catch in the net.
+104548: That isn't something you can extinguish.
+104580: Attempting to do so would probably just result in personal injury.
+104628: Please refrain from standing on things that have no business being
+stood on.
+104680: You can only do that to something that is rolled up.
+

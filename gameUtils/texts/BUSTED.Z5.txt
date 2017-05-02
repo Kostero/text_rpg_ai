@@ -1,0 +1,1097 @@
+15053: Score:
+15067: Moves:
+15084: Time:
+15212: I beg your pardon?
+15260: [You can't "undo" what hasn't been done!]
+15301: kdy   gpm[Your interpreter does not provide "undo". Sorry!]
+15368: [Can't "undo" twice in succession. Sorry!]
+15541: Sorry, that can't be corrected.
+15576: Think nothing of it.
+15599: d."Oops" can only correct a single word.
+15812: You can hardly repeat that.
+16042: You can't begin with a comma.
+16099: You seem to want to talk to someone, but I can't see whom.
+16190: To talk to someone, try "someone, hello" or some such.
+17828: I didn't understand that sentence.
+17935: You can't see any such thing.
+17968: You seem to have said too little!
+18000: You aren't holding that!
+18029: You can't use multiple objects with that verb.
+18069: You can only use multiple objects once on a line.
+18148: You excepted something not included anyway!
+18186: You can only do that to something animate.
+18224: That's not a verb I recognise.
+18254: That's not something you need to refer to in the course of this game.
+18310: You can't see "
+18355: I didn't understand the way that finished.
+18476: There are none at all available!
+18506: I didn't understand that number.
+21253: Sorry, you can only have one item here. Which one exactly?
+26047: Nothing to do!
+26466: ibn    kdy   gpm[Your interpreter does not provide "undo". Sorry!]
+26587: Please give one of the answers above.
+28667: Ikc     ahn
+It is now pitch dark in here!
+28978: At the moment, "it"
+29050: and "me" means
+31586: Are you sure you want to quit?
+31622: Are you sure you want to restart?
+31657: Failed.
+31674: Restore failed.
+31687: Ok.
+31706: Save failed.
+31717: Ok.
+31731: The game file has verified as intact.
+31758: The game file did not verify properly, and may be corrupted (unless you
+are running it on a primitive interpreter which does not properly implement the
+VERIFY code).
+31951: Transcripting is already off.
+31974: End of transcript.
+32017: Score notification on.
+32041: Score notification off.
+32459: You are carrying nothing.
+32538: M.
+32623: Taken.
+32639: As the bishop said to the actress.
+32767: You already have that.
+32906: That isn't available.
+32979: That's hardly portable.
+33003: Fixed in place.
+33064: You're carrying too many things already.
+33199: You're carrying too many things already.
+33233: You're carrying too many things already.
+33310: Already on the floor.
+33332: You haven't got that.
+33413: Dropped.
+33439: Alas, it is closed.
+33461: But it isn't there now.
+33485: You'll need to take it off first.
+33554: Removed.
+33609: You need to be holding it before you can put it onto something else.
+33697: You can't put something on top of itself.
+33778: You lack the dexterity.
+33938: Done.
+33997: You need to be holding it before you can put it into something else.
+34104: Alas, it is closed.
+34126: You'll need to take it off first.
+34163: You can't put something inside itself.
+34333: Done.
+34406: That isn't in your possession.
+34443: First pick that up.
+35035: A surreal idea.
+35053: You can only get into something on the floor.
+35233: But you aren't in anything at the moment.
+35283: You are on your own two feet again.
+35318: You'll have to say which compass direction to go in.
+35576: You can't go that way.
+36238: M.
+36266: oxn is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+36370: oxn is now in its "verbose" mode, which always gives long descriptions
+of locations (even if you've been there before).
+36462: oxn is now in its "superbrief" mode, which always gives short
+descriptions of locations (even if you haven't been there before).
+36803: Darkness, noun. An absence of light to see by.
+36971: But it's dark.
+36984: You find nothing of interest.
+37015: But it's dark.
+37125: You find nothing of interest.
+37158: You can't see inside, since it is closed.
+37283: I can't see how to unlock that.
+37343: That doesn't seem to fit the lock.
+37415: I can't see how to lock that.
+37443: It is in fact locked now.
+37467: First you'll have to close it.
+37499: That doesn't seem to fit the lock.
+37571: That's not something you can switch.
+37603: It's already on.
+37663: That's not something you can switch.
+37695: It's already off.
+37755: That's not something you can open.
+37787: It seems to be locked.
+37809: It's already open.
+37927: That's not something you can close.
+37959: It's already closed.
+38019: You're not wearing that.
+38136: You're already wearing that!
+38258: . Not bad.
+38270: That was a rhetorical question.
+38294: That was a rhetorical question.
+38318: In this game, arson is (usually) forbidden.
+38362: for a moment there, a deep voice seemed to say "you're on your own".
+38414: The dreadful truth is, this is not a dream.
+38450: That seems unnecessary.
+38483: Keep your mind on the game.
+38506: What a good idea.
+38522: You smell nothing unexpected.
+38546: You hear nothing unexpected.
+38570: You taste nothing unexpected.
+38620: You feel nothing unexpected.
+38642: Digging would achieve nothing here.
+38670: In this game, cutting things up is never helpful.
+38710: You jump on the spot, fruitlessly.
+38738: You would achieve nothing by this.
+38766: You would achieve nothing by this.
+38794: There's nothing suitable to drink here.
+38826: But there's no water here to carry.
+38854: Oh, don't apologise.
+38884: Once upon a time adventurers had moral standards.
+38922: Quite.
+38948: Violence isn't the answer, you know.
+38978: There's not enough water to swim in.
+39006: There's nothing sensible to swing here.
+39038: You can't usefully blow that.
+39062: You achieve nothing by this.
+39086: No, you can't set that.
+39106: No, you can't set that to anything.
+39134: You wave, feeling foolish.
+39166: But you aren't holding that.
+39249: You are unable to.
+39264: Nothing obvious happens.
+39313: You are unable to.
+39328: Nothing obvious happens.
+39358: That's not a direction.
+39384: Not that way you can't.
+39422: Is that the best you can think of?
+39477: You are unable to.
+39492: Nothing obvious happens.
+39540: You achieve nothing by this.
+39567: Futile.
+39587: You lack the nerve when it comes to the crucial moment.
+39646: No reply.
+39658: Nothing is on sale.
+39690: No reply.
+39766: I don't think much is to be achieved by that.
+39812: Time passes.
+39867: It smells strangely like sugar free Dr. Pepper.
+39911: Of course, the whole episode with the aliens and the bottle turns out to
+be nothing more than a particularly vivid hallucination. Whatever that guy shot
+you up with is pretty potent stuff! The bottle and all its contents are now
+nothing but a memory.
+40107: Smells very very very lovely.
+40152: You smoke the entire joint, inhaling deeply and enjoying the savory
+aroma to the max. What a rush! You suddenly notice that you've spent about an
+hour staring at your left foot, and your stomach is rattling like a freight
+train on an uneven track.
+40340: Student Rules & Regulations handbook section 1.3.a says that you are not
+allowed to light up in a no-smoking area.
+40434: The end of the joint starts to burn. The sweet smell of dope wafts into
+your twitching nostrils. You salivate madly - Pavlov would be well pleased.
+40544: The joint fizzles into ash.
+40570: You grab an elevator and head outside...
+40758: is tongue at you and says, "Why didn't you listen to me? I told you not
+to hang around your room!"
+40961: The note catches easily and, as expected, burns to ashes.
+41128: Apart from the startling information that the tray is made of blue
+porcelain, you don't discover anything else.
+41236: It's not lit.
+41259: Ah! That's great, really good. Just enough to give you a nice buzz, too.
+And it goes down so smooth...
+
+You notice that you're starting to develop a
+case of the munchies.
+41396: It's already lit!
+41421: Student Rules & Regulations handbook section 1.3.a says you are not
+allowed to light up in a non-smoking area.
+41513: The roach catches. Smells nice!
+41544: The roach fizzles into ash.
+41570: After a near-interminable wait in the dingy dorm lobby, an elevator
+arrives. You head to your room pronto.
+41666: Suddenly, a figure in a long trench coat stumbles out of a nearby bush.
+He trips on a tree root and grabs you for support, in the process accidentally
+jabbing you with a hypodermic!
+
+"Oops. Sorry, pal!" Before you can react, he
+giggles and dashes off!
+41861: You're beginning to feel a little bit drugged.
+41902: .
+A small alien spaceship suddenly materializes out of thin air. Five
+greenish blobs with antennae ooze down an exit ramp and drop a shiny bottle at
+your feet. After a quick burst of alien gibberish, they roll excitedly back
+into the ship, which just as suddenly vanishes.
+42098: You skulk out of the dining commons...
+42147: lady, always on the lookout for vermin like yourself, jumps up and
+screams "NOT SO FAST, BUD." You shrink back in alarm. She smiles cruelly and
+demands, "Let's see some ID."
+42401: lady snarls at you. "Whatta you, some kinda moron? You already been
+processed once. Now beat it before you get it beaten for you!"
+42509: lady runs it through the little machine that tells her whether or not
+you've been blacklisted. It obviously gives her good news because she nods
+towards the south and mutters, "Go ahead, brat."
+42646: "And what exactly am I supposed to do with that?"
+42708: After an interminable wait, you collect a tray full of unexciting food.
+42759: You really don't want to subject yourself to that experience more than
+once in a lifetime.
+42827: If I could do something like that, do you think I'd waste my time
+leading you through a silly adventure game?
+42915: Bad idea. You're accustomed to seeing some pretty strange things, but I
+think that food just smiled at you.
+42992: Plain gray plastic.
+43041: In your state of extreme munchiness, you manage to ignore the fact that
+this is possibly the most repulsive substance ever to go under the label of
+"food" in the history of the world. Well, maybe not that bad, but certainly not
+good... As it slides down your throat, you imagine you hear whimpering.
+43252: You attempt to spear a mouthful, but the mystery meat dodges your feeble
+blow. You're going to have to be a lot more desperate before you'll be able to
+eat any of this stuff.
+43394: upervisor comes running up and says, "You can't go in there. Off limits
+to non-employees!"
+43603: He's standing in the corner acting very stoned. Nothing you do seems to
+get any response.
+43686: Roses" T-Shirt, and slouches a lot.
+43732: "Hey dude, rock and roll. Got any smoke? I've been straight for almost
+40 minutes now!"
+43809: Milton's eyes light up. "Dope is good."
+43847: Milton's eyes light up. "For ME? DUUUUDDE!!"
+43897: He is a rather spacy individual and fails to register that you've
+spoken.
+43960: "Not like I don't appreciate this or anything dude, but ain't you got
+anything bigger?"
+44062: A huge grin spreads over Milton's face. "Righteous!" he exclaims.
+Suddenly, he appears worried, and with a sharpness of mind you initially
+thought him completely incapable of, he blurts out: "Can't smoke this out here.
+I've got it! Let's go into the kitchen, nobody will notice there... One problem
+- you're not dressed properly. Wait here."
+
+Milton sneaks off, then quickly
+returns with an apron and visor, which he hands to you. You put on the uniform
+and follow him into the kitchen... Milton wanders off to get wasted and leaves
+you to your own devices.
+44474: "Great bone, dude. But I don't have a lighter." He hands it right back
+to you with a sad puppy-dog look on his face.
+44641: niform. He grabs you by the arm and says "Aha! Just what I've been
+looking for! I've got a job for you, pal."
+
+He leads you to a sink next to
+which are piled approximately 8 quadrillion plates. You are surprised as he
+handcuffs you to the sink.
+
+"Start earning your $3.50 an hour, pal," he laughs
+vilely.
+
+When you get off shift a week later, you are picked up by the cops who
+have found the address book and want to take you in for a little Nazi-style
+interrogation.
+45030: That would make a mess and achieve nothing.
+45075: The oil soaks into the rust on the grating.
+45116: Already done!
+45136: You pour the oil on the ground.
+45169: There's a small amount of safflower oil left in the bottle.
+45212: It's an empty plastic bottle.
+45242: You remember the story of your cousin Ralph who tried creating the
+world's first milkshake made entirely out of cooking oil. His family managed to
+talk him out of it before he actually tried it, but he spent his later years in
+an insane asylum somewhere in upstate New York.
+
+As anything, including being
+busted by the police for being a no-good drug taking commie scumbag, is better
+than winding up in upstate New York, you wisely forgo this serious tactical
+error.
+45577: It's bolted to the wall.
+45618: It's really gross without milk. Actually, it's probably really gross
+WITH milk, but that's irrelevant right now. The intense concentration of sugars
+and artificial flavorings mixes with the alien chemicals in your bloodstream,
+and you suddenly feel yourself moving much faster. Your body cells begin to
+resonate on a higher frequency and before you can say "Asmodeus," you are
+suddenly teleported onto another plane of being! On this plane, life is wild
+and carefree, but you only have a few seconds to enjoy it, because the strange
+chemical reaction allowing you to be here wears off quickly.
+
+When you
+rematerialize on the earth plane, several months have passed and your body has
+found its way into jail...
+46134: You hear the distinct sound of something metal sifting its way through
+the sugar crunchies.
+46197: You hear millions of grams of sugar rattling around in a cardboard box.
+46262: You rattle out a whole mess of Satan Crunchies all over you and the
+ground. You also dislodge the free prize, which turns out to be a pentacle on a
+silver chain!
+46375: Nothing happens.
+46395: At this point, you would probably expect me to tell you that your
+graceless leaping puts your foot through the roof, or you lose your footing and
+slide to an ignominious death. Well, forget it. You just jump and land. That's
+it.
+
+Kind of a letdown, huh?
+46605: The zealot picks the tape up and launches back into an anti-rock tirade
+while waving the cassette about madly.
+46706: The zealot leaps up and grabs your arm. "Hey buddy, don't leave with my
+Barry Manilow tape. I need it to point out the evils of pop music to the rest
+of the Lord's flock."
+46845: You hadn't noticed it previously, but the Jesus Freak's voice has a
+really soothing quality to it... like honey on sugar on treacle. You start to
+smile vacuously and think to yourself that maybe God isn't such a bad guy after
+all... The Jesus Freak smiles knowingly at you and has you whisked off to a
+religious retreat, where your head is shaved and you are rechristened "Mother
+Shabooboo." 
+
+Unfortunately, even this extreme treatment isn't sufficient to
+hide you from the police, who come to collect you after having located the
+incriminating address book.
+47260: The zealot says, "Please don't take those. I need them for my Sacred
+Mission." You swear you can hear the capital letters in his voice.
+47464: hhnshouts "Praise the Lord! Another sinner has come to seek salvation!"
+47687: The religious zealout looks up at you and smiles beatifically at you. He
+begins to preach about the wonders of Christ, Lord. There's something very
+insinuating about his mode of speech.
+47835: He nods a gracious thanks.
+47866: He seems oddly reluctant to talk to you.
+47922: The zealot looks excited - you are the first person in days to talk to
+him. "Ah yes, that there's a tape of the demonaic Barry Manilow, whose songs
+are scientifically proven to cause cancer, herpes, gangrene, and halitosis in
+all rational creatures. Would you like to take a closer look at it?" As he
+hands it to you, you realize that you may have more in common with the zealot
+than you'd like to admit. He begins to preach loudly and monotonously about the
+evils of rock and roll.
+48264: The zealot says, "I've already told you everything I know." You are
+inclined to take him quite literally.
+48343: "I have no idea."
+48379: The zealot's eyes light on the devil's insignia and begin to glaze over.
+He starts to froth at the mouth and scream incoherent nonsense (although the
+difference is not immediately apparent). Making the sign of the cross, he backs
+away from you and runs off to parts unknown.
+48573: He's not interested.
+48645: The walkman's compartment only accepts tape cassettes.
+48736: You hear nothing.
+48760: You hear Kate Bush singing "Sat In Your Lap."
+48807: You hear Barry Manilow singing "I Write The Songs."
+48850: You don't hear anything.
+48931: Music dribbles tinnily out of the headphones.
+48964: The walkman's motor whirrs to life.
+48996: You jab the stop button and the Walkman obediently grinds to a halt.
+49119: You might as well try to wake the dead.
+49158: She's fast asleep and doesn't hear you.
+49199: The wood is light, but the damned thing is about five feet deep. In
+other words: why bother?
+49271: Why bother? It's not lost!
+49344: Already done!
+49358: You open the umbrella.
+49388: You close the umbrella.
+49407: It's not open!
+49443: The visual stimulation of all the flashing lights and computer graphics
+is too much for your drug-addled brain. You retreat in horror, as intense
+hallucinations bombard your distressed visual cortex.
+49601: The bleeping and pinging of the machines is subtle at first, but in your
+altered state, the compounding of millions of sound effects becomes a din so
+tremendous that your brain threatens to explode. You retreat...
+49758: Wearing the walkman is effective in blocking out the sounds of the
+arcade, but Kate Bush is, of course, the most amazing vocalist and songwriter
+in the world. Unfortunately, her music is just too much and you wind up
+listening to it, rather than concentrating on mundane activities like walking.
+To sum it up, you walk into a wall, rather than the arcade.
+50007: With the sunglasses blocking out the visual portion, and the bland
+sounds of Barry Manilow muting the sound effects, you are able to stand in the
+arcade without freaking out due to overstimulation.
+50155: Not bloody likely.
+50180: It looks like it could be pulled out, but the edges have rusted.
+50235: With much puffing and exertion, you manage to ease up one end of the
+grate.
+50299: You hear the murmurings of workmen somewhere in the drain.
+50355: The tool chest is bulky and prevents you from getting a reasonable grip
+on the slimy stone rungs of the ladder.
+50432: You clamber up the ladder and emerge from the hole to the curious stares
+of passers-by.
+50511: A few bricks bounce harmlessly off your umbrella.
+50554: A few bricks fall in your path. You are not terribly worried about this
+until one particularly large and pointed one falls straight on top of you,
+boring through your skull and body. In the instant before you die, you are
+comforted by the thought that ignorance is indeed bliss.
+50777: The machine seems satisfied and prints "THOTH PREFACE" on the display.
+The book comes tumbling out a hidden chute and lands in a heap on the floor.
+50888: The machine buzzes angrily and prints "INSERT ID" on the screen.
+50941: The machine bleeps unhappily and prints "NO DATA" on the screen.
+51004: Don't be ridiculous!
+51041: The leather smells terrible, but the paper burns to ashes. The
+fundamentalists would be proud of you.
+51119: It's not one of those books with a hidden compartment, if that's what
+you're thinking.
+51192: You attempt to focus on the page but the drug is wreaking havoc on your
+optic system. It might as well be Chinese for all the sense you can make of it.
+51297: It's actually a pretty dull book and you don't have time to waste
+reading it right now.
+51365: You turn the book over and shake it. Disappointingly, nothing falls out.
+51427: You rifle the pages, noting the copyright page, table of contents,
+preface, forward and so forth.
+51509: You'll have to specify exactly which page you want to tear.
+51557: The pages are firmly bound into the book.
+51605: Seems like a waste of time to do it again.
+51647: You notice some of the ink rubbing off on your hands.
+51695: You rip the page out of the book. Upon closer inspection, you notice
+that it's really a sheet of acid, with the preface printed on top.
+51797: It's firmly bound into the book.
+51891: accidentally got some into his system through a tiny cut in his hand?
+Well, surprise surprise, you're about to make history yourself.
+
+A small
+unicorn about waist high appears and starts to lick your hand. You enjoy this
+up until the point where he suddenly sprouts vicious fangs and chomps your hand
+right off! You wave the bloody stump about, screaming, until a friendly officer
+arrives to take you away. Bad trip, man.
+52198: You really like to walk into these situations, don't you? I could
+provide a really long description of how after 30 minutes you began to feel
+your brain sailing on a lysergic breeze to another dimension where sentient
+barnacles adhered to your body and told you the secrets of the universe, after
+which experience you woke up to find yourself in jail, but I'm not going to.
+Instead, I'll merely say that...
+52488: Oddly, you find that when it comes time to do the deed, you are unable
+to steady your grip on the lighter enough to actually incinerate the page.
+You'll have to find another way.
+52625: You attempt to get into the office but a burly jock grabs you and stuffs
+you at the end of the line. He glares, but doesn't say anything, probably
+because he doesn't know how yet.
+52766: If you join up right now, you might just get in the office by the
+dawning of the new millenia. I don't think the cops are going to give you that
+long, however.
+52882: The sign hangs on the wall, with a pivot point in the middle. It reads:
+BURSAR'S OFFICE
+52995: It's nailed to the wall.
+53036: You deftly snap the sign around so it's pointing in the opposite
+direction. The reaction happens slowly but surely... The crowd notices that
+they've been waiting in the wrong line! A few brave souls get in line in
+another room, and soon there is a stampede for the other end of the hall!
+53237: Why bother? It's served its purpose.
+53285: As you enter, the gentleman behind the desk smiles and says, "Howdy,
+what can I do for you?"
+53370: Bob notices that the sticker is expired and turns pale. "Tell ya what,
+friend..." he gulps, "You caught me on a good day, so just put that sucker away
+and I'll pretend I never saw it."
+53516: Bob gasps. "Stow that gear! You're lucky I don't turn you in right now.
+You could cost me my job!"
+53598: Bob chuckles. "Yeah, I remember my carefree youth."
+
+His eyes glaze over
+as he recalls his childhood.
+53691: Bob smiles politely at you. "Heck of a day, eh pardner?"
+53746: Bob exhales and the scent of garlic nearly knocks you off your feet.
+"Here ya go, pal. Have a nice day."
+
+He hands you the form.
+53848: "No problem. Just give me your name and I'll get you the form."
+53904: Bob looks shocked, as if English is a foreign language to him.
+53949: "Sorry, I'm not quite with you, pardner."
+53989: Campus regulations prohibit workers from responding to instructions in
+that manner.
+54064: "Yup, we got one of them. Just give me your name and I'll get you the
+form."
+54252: 93525 that if it's so important, he can come ask me in person!"
+
+He
+slams the phone down, readjusts his smile (which has dropped a bit) and says,
+"Sorry about that, pal. Now, what were you wanting?"
+54413: In a wonderful gesture of symbolic defiance, you throw the form on the
+ground while it burns, and shout out anti-bureaucratic slogans. Long live the
+hippy spirit. A passing wymmyn's libber throws a bra onto the flame and helps
+you stomp it into ashes.
+54590: The steel door locks behind you.
+54739: The pliers grab the quarter and it falls to the floor with a satisfying
+metallic clink.
+54800: It won't fit in the coin slot.
+54836: Your fingers are too fat to reach into the slot.
+54879: It is almost unbearably bitter, but you choke it down nonetheless.
+54979: It burns slightly on the way down. After a few moments of
+disorientation, you begin to feel the effects of the strange chemical in your
+bloodstream lessening! In fact, you're just about as close to normal as you'll
+ever be.
+55141: You stumble for support... The antidote and the hallucinogenic agent are
+having a small skirmish inside your brain. Unfortunately, it appears that the
+hallucinogen is winning because you suddenly notice 17 lobsters in French
+Legion uniforms waving their antennae accusingly at you.
+55347: The vial contained only a single dose.
+55378: A steel door at the bottom of the stairs swings shut behind you and
+locks with a soft click.
+55451: Just use the machines.
+55487: You perform the transaction, and retrieve a copy of the school paper.
+55548: Unfortunately, it has no bill slot, and you have nothing smaller than a
+$10 anyway.
+55621: The machine swallows the quarter and makes a reassuring mechanical
+clicking noise. Press one of the selection buttons now, I guess.
+55728: Nothing happens.
+55751: The drinks dispenser drops a cup into its chute and a concealed nozzle
+quickly fills the cup with thin liquid.
+55839: Worse things happen at sea, so they say.
+55875: I don't think that's such a great idea - you could conceivably be
+arrested for dumping toxic waste.
+55959: For vending machine tea, it's surprisingly good, which only means that
+it doesn't kill you instantly.
+56039: You spill a little on your shoes but are relieved to find that the tea
+does not eat through them, sparing your toes a no doubt grisly fate.
+
+You toss
+the cup in a nearby trash basket.
+56175: It smells like burning rubber with a bit of cream and sugar added.
+56393: Your caffeine buzz is wearing off.
+56427: Greg giggles and fondles the desk.
+56463: "Sorry bud, afraid I don't quite follow you."
+56505: "Can't do that, I'm busy at the moment."
+56548: Rothman raises an eyebrow. "What's that you got there, partner?
+Vitamins? I've always been big on them myself. At least ever since I found out
+Arnold Schwarzenegger recommended them to President Bush before he joined the
+President's Council on Fitness."
+
+Displaying superhuman effort, you politely
+stifle a yawn.
+56784: You realize that Rothman is the type who would turn in his own mother
+for such a heinous crime and stop before making a terrible mistake.
+56891: "I'm just using this to weigh some pamphlets for our next Young
+Republican Club mailout. When I'm done, I'm gonna hand it in to the cops so
+they can bust the little stinker who used it for nefarious drug-taking
+purposes."
+57050: Greg is too busy doing his mailout to take any notice of you.
+57111: Rothman looks at the gelatin capsule. "Oh boy! Vitamins! Gotta keep up
+the strength if we're to keep America american!" He pops the capsule and sighs
+contentedly.
+57251: As soon as his now-overly-sensitized flesh comes into contact with the
+plush teddy, an inane smile breaks out on Rothman's face. The effect is
+extremely unsettling.
+
+In a giggly blissed out voice, he tells you, "Oh, gosh,
+you're so nice!! Gee, I don't know what I could possibly ever do to repay you
+for being such a nice person. Oh here, why don't you take this scale?  I guess
+I don't really need to mail out these propaganda booklets. Politics is such a
+bore. I'd much rather go out and play with flowers!" (As he chatters on, you
+realize that you preferred him when he was a grumpy, uptight Republican.)
+
+You
+take the scale and leave Rothman to fondle the teddy bear.
+57741: A happy grin breaks out on M. Greg's face. He starts to giggle
+uncontrollably and fondle the desk. "Wow! Real Plywood!"
+57845: You are ordinarily quite distrustful of cops. Add this normal level of
+background paranoia to the massive blob of drug-induced paranoia currently
+making its home in your frontal lobes and you've got a recipe for instant
+disaster. Not wanting to be immediately arrested, you wisely back off.
+58073: You are feeling calm enough to walk past the police. Unfortunately, you
+are obviously not feeling smart enough to conceal the incriminating items that
+you are carrying in plain view. Pigs may be slow, but they're not fools.
+Suffice to say that your indiscretion is duly noted and your arrest is swift
+and unpleasant.
+58292: The cops are making you sweat a little, but you are able to slouch by in
+a sufficiently relaxed manner. One or two cops glance at you quickly,  but
+don't see anything odd enough to rouse them out of their routine.
+58465: You notice a small mound of dirt under a shrub, with a toothpick stuck
+in it. Knowing that this is a favorite trick of Keith's, you do a little
+experimental digging and unearth the incriminating address book!
+58619: The cigarette lighter doesn't have enough power to torch the book.
+You'll have to find another way.
+58744: Keith's arrest - apparently it's one of their bigger scores of late.
+58910: gxndonuts. Something about law enforcement as well, but mainly donuts.
+58964: bhnthe latest "Lethal Weapon" film.
+58998: As you climb the stairs up to the lobby, a squad of policemen burst
+through the front door. You attempt to dodge, but it's too late - they've seen
+you!
+
+"Grab the little punk!" one of them says.
+
+They eye you with the detached
+interest of a dog contemplating a bone. "Tampering with evidence, I bet," the
+chief inspector says viciously.
+
+You are manhandled into the back of a van, and
+whisked away to the station.
+59334: You are taken to a holding cell, where you remain for several hours.
+During this time, the strange chemical in your body wears off. Not long after
+this, some policemen enter the cell. One says, "I don't know how you did it,
+you little rat, but we've got nothing on you, and we can't hold you any
+longer." He spits out the words distastefully: "You're free to go."
+
+After
+having your possessions returned, you step out into the clear air of another
+crisp New England fall day to find Keith waiting for you in his beat-up Ford.
+"Dude! Am I ever glad to see you! My lawyer got me probation, so I'm clear for
+now."
+
+You smile in relief.
+
+Keith grins wickedly. "So, you wanna go smoke a
+fatty?"
+59842: After fingerprinting, mugshots, and a rather embarrassing piss test, you
+are escorted to a cell. Several hours later, some officers enter, smiling
+gleefully. "Looks like you didn't do such a great job, buddy. We found plenty
+of incriminating evidence scattered around that campus - enough to put you away
+for quite a while, anyway. Incidentally, what on earth is that stuff in your
+blood? Our lab guys have never seen anything like it! Don't you have any
+respect for your body? Damned kids!"
+60199: In your inebriated condition, you imagine there to be a huge wall of
+fire blocking your path. Not wishing to become a human bar-b-que, you cease
+your northwards progress.
+60441: "You're not getting anything without a prescription."
+60482: The pharmacist is busy with her Physicians Desk Reference (circling
+prescription remedies she means to purloin for her friends) and ignores your
+request.
+60603: She yawns. "Wow, never seen one of those before."
+60649: Her eyes light up. "Are you selling!?"
+60685: She frowns at it. "Never seen anything like that."
+60738: The pharmacist yawns and tells you: "Valium is the trade name of
+diazepam, an anti-anxiety medicine developed and sold by the Eli Lilly
+corporation. It is highly addictive. Happy?"
+60869: "I'm sure I don't know anything about that."
+60924: The pharmacist looks at the slip, sighs a bored sigh and comes back with
+a small paper packet which she hands to you.
+61026: You pop the pills and soon begin to feel much more relaxed.
+61077: Your diazepam-induced tranquility is fading fast.
+61123: The door will not open.
+61163: Good idea. That's what you do when you're in a waiting room, right? Very
+soon after adopting your best
+slouching-in-the-chair-hoping-someone-will-notice-you posture, a nurse comes
+scuttling over. She makes you fill in a few forms and then announces, "Doctor
+Floyd will see you now."
+61374: Doctor Floyd calls after you: "Hey, shut the door on your way out, OK
+sport?"
+61443: I don't suppose Dr. Floyd would care for that.
+61622: :nasks, "Can I help you?"
+61648: ixntouches the end of his stethoscope with his finger. "Yeeeow! That's
+cold."
+61710: chnsays, "What can I do for you, sport?"
+61762: Dr. Floyd says, "What can I do for you, pal?"
+61813: Floyd waves it away. "Yeeow, that's some concentrated stuff you got
+there. I wouldn't go fooling with it if I were you."
+61907: The Doctor dips his finger into it and has a quick, experimental taste.
+"Hmmm. Never seen anything like it."
+61996: Floyd whistles. "Well, my professional medical opinion is that that
+stuff is bad news, but between you and me, I've always thought the dangers were
+overrated. Now put it away before someone less open-minded walks in!"
+62171: Dr. Floyd says, "You've already been checked out, now get out of here.
+Nurse! Escort this pest out, please." The nurse enters and hustles you back to
+the waiting room.
+62322: The doctor performs a few perfunctory examinations, some of which are
+best left undescribed. He eventually gets around to checking your heart rate
+and blood pressure at which points he exclaims, "Yow, a highly elevated pulse!
+Tell ya what, sport - get this prescription filled, and take two any time you
+feel stressed out."
+
+He quickly scribbles off a prescription and hands it to
+you.
+62593: The doctor performs a quick series of tests and says, "You seem fine to
+me. Well, your pupils are a little large, but I expect that's from studying too
+hard, eh sport? Heh heh... Nurse, send in the next patient, please!"
+62756: The doctor is busy reading a medical journal and fails to notice that
+you've spoken.
+62825: You destroy the prescription.
+62867: The button lights up but immediately goes out again.
+62920: The doors slam shut, the elevator moves with a whoosh that
+simultaneously puts your stomach in your brain and your teeth in your shoes.
+The door whips open again, almost throwing you out.
+63059: You'll have to be more specific.
+63100: "Hi! I'm a perky but annoying hotel worker. What can I do to complicate
+your day?"
+63163: She says, "I'd love to help you, but I can't while I'm on shift."
+63230: She sneers. "Yeah, we got a room for you. The rates are $50 per night
+for non-students, but only $30 for students. I'll need some ID before I can
+give you the student rate, of course."
+63373: "They didn't tell me anything about that in job training."
+63622: 97. Bring it back with the money, and then I'll give you the room."
+63699: She looks at it and says, "OK. I guess I have no choice." She grabs the
+$30 from you and glumly hands you the hotel room key.
+63796: She looks at the form. "OK. So where's the cash? Get out of here, you
+deadbeat!!"
+63882: "The non-student rate for a room is $50. You're $20 short, buster!"
+63941: She rolls her eyes in boredom.
+63974: You take a look at the key, stride purposefully towards the correct
+room, and unlock the door...
+64048: There's no point, you couldn't get into any of the rooms now anyway.
+64102: You head back to the elevator lobby.
+64154: This is a nice safe place to recover your strength. After a few hours of
+some really serious shuteye, you awake feeling much refreshed, although the
+hallucinogenic chemical in your bloodstream is still nagging at the back of
+your brain.
+64330: You are completely exhausted - so exhausted that you pass out right
+where you are. As you might expect, lying on the ground looking like a homeless
+person and occasionally twitching is a good way to get noticed by the police...
+64494: You're starting to feel quite tired. You'd better find somewhere to
+sleep soon.
+64560: You are beginning to feel sleepy.
+64592: If you don't find somewhere suitable to sleep soon, you're going to
+regret it.
+64656: I mean it! You have GOT to sleep, or I won't be held accountable for the
+results!
+64764: You really needed food very very badly. Due to the fact that you've been
+subsisting on nothing but Coke and Twinkies for the past week, you pass out.
+When you wake up, a week has passed and Keith has stood his trial. The cops
+found your name in the address book and picked you up. In fact, you notice that
+you've woken up in a cell. Well, at least there's food here...
+65034: Your stomach is growling very loudly. You should probably try to get
+some food into it soon.
+65103: fkka.
+Suddenly your girlfriend Sydnee comes
+65158: Hmbarging up to you.
+65175: "You bastard!" she screams, "I'm through with you and your
+flakiness!"
+
+Before you can ameliorate her, she flings the teddy bear you gave
+her for your two-week anniversary at you and says, "You can keep your stupid
+bear, asshole!"
+
+She
+65437: 8sfkpa.
+
+It's late in the day, classes were hellish, and the last thing
+you need is to come home and hear
+65527: on your answering machine:
+
+"Hey man, it's Keith. The pigs finally got
+me, and if they ever manage to find my address book, they'll probably be coming
+for you too. I can't tell you where I've hidden it, for obvious reasons, but if
+I were you I'd try to find it first, along with any other questionable items
+you may have "lost." By the way, I wouldn't hang around your room too much -
+that's the first place they look for you... Damn! Time's up, I gotta go... good
+luck!"
+65903: You have been busted!
+66362: I think it's more likely that you've already suffered smoke inhalation
+to make a suggestion like that.
+66456: That makes no sense at all.
+66478: Sorry, I have no idea what that means.
+66510: Sorry, but unlike your uncouth self, I have an inbuilt resistance to
+senseless vandalism.
+66591: With what, your brilliant personality?
+66646: A good try, but it doesn't work.
+66689: This doesn't seem like a safe place.
+66716: You aren't tired right now.
+66900: Psychedelic Interactive Fiction (not to be taken internally)
+Copyright
+(c) 1994 Scumbag Software, Inc. All Rights Reserved.
+67016: You can't go that way.
+67084: It is pitch dark, and you can't see a thing.
+67116: As good-looking as ever.
+67136: You gave this cuddly little fellow to Sydnee, who apparently doesn't
+want it reminding her of you any more.
+67212: It lists your room number and also guarantees return postage.
+67256: The bottle is labeled "Magic Anti-Hallucination Elixir."
+67304: It's a small burgundy visor, bearing the legend "WORCESTER DINING
+COMMONS." Several unidentifiable bits of food are stuck to the band.
+67420: Fortunately, it does not say "Kiss The Cook," but that's pretty much its
+only good point.
+67488: You are in your dorm room, in Linnell House. It is bigger than a
+breadbox, but not by much. The door is to the north.
+67576: The only door is to the north.
+67606: It's got you on it, looking very confused, and a bunch of numbers. Your
+student identification number is A2487493. Unfortunately, it is out of date, as
+the sticker on it says it expired last semester.
+67774: L.
+67784: Sitting on the dorm table is a small ashtray.
+67816: You have unearthed a small roach.
+67840: Not the insect kind. It's what's left over from last night's binge.
+67892: The diligently landscaped area outside of your dorm contains a few
+anorexic shrubs and some wild crabgrass. To the south is the red brick hell you
+call home. A muddy path leads north.
+68020: You're on a path outside of the white stone building (to the west) which
+serves as the dining commons for this area. You are not surprised to notice a
+large "biohazard" sign on the building. The squat structure of your dorm is
+visible off to the south, and the path leads east as well.
+68220: It smells like a rubbish tip in here - and only a bit less appetizing.
+The grubby linoleum leads south to the main atrium and back out to the east.
+68324: A Dining Commons line lady sits here on her stool, chewing gum and
+making occasional rude sucking noises with it.
+68404: Fat, dumpy and quintessentially unloveable, the dining commons lady is a
+typical bureaucrat in every important respect. Like all bureaucrats, she exists
+purely to complicate your existence.
+68760: , despite all logic, calls "food."
+68788: It's long, but you've seen worse. If I were in a philosophical mood I'd
+question whether the wait is worth it.
+68868: Cheap formica tables, uncomfortable chairs... What else do you expect
+from a cafeteria? Whatever it is, you won't find it here. The linoleum path
+cuts diagonally through the room, leading northeast to the atrium and southeast
+to the dish room.
+69040: Stuck into the floor is a hardwood table.
+69072: It smells like an airport lounge, only worse. However, given the caliber
+of the cooking in this place, it could be a lot worse. You can bring your dirty
+plates to the dish room to the southwest, or head back out, to the northwest.
+69388: proper by going northeast or northwest. The kitchen is to the west, but
+a sign over the door cautions "Authorized Personnel Only"
+69480: They cook here, but only a far more generous soul would call it food.
+The smell is almost overwhelming. A small closet is north, and you can go back
+to the dish room east.
+69600: Someone has left a bottle of cooking oil out on a counter.
+69652: You are standing in a rather cramped closet filled with enough sugared
+cereal to rot holes in every tooth on the entire campus - and that's a lot of
+teeth. A sturdy metal ladder leads up, and the kitchen is south.
+69800: A ladder runs from the floor through a skylight in the ceiling.
+69844: There is a picture of a grinning demon, clutching a bowl full of
+sickly-sweet cereal, and the following copy: "Satan's Sugar Frosted Crunchies!
+A delicious, demonic new cereal! Be the darling of major occult churches, and
+stoke up your hellfire with Satan Crunchies: a guaranteed summons in every
+box!!
+
+(We're Beatrice.)"
+70080: It's what you'd expect: a five cornered star inside a circle, made out
+of some silvery metal. The pendant is on a leather thong so you can easily wear
+it.
+70188: Up on a slate roof with an unspectacular view of the campus, which, from
+this vantage point, rather resembles a sty, what with the muddy paths, wooden
+fences, and all. It's actually not in such bad shape right now, given that most
+of the little oinkers are home on holiday. The top of a ladder leads down back
+into the closet.
+70416: Although you normally enjoy being high, this time it's giving you
+vertigo.
+70468: A water pipe used for smoking tobacco and other herbal substances.
+
+Your
+name and address are burned into the glass. Obviously this belongs to you, but
+you have no clue how it found its way to the roof of the cafeteria! Presumably
+it was left behind after a particularly lengthy session with Milton. Now that
+you've found it, you'd better find a way to get rid of it again before the cops
+find it!
+70744: A cute little glass bong is here.
+70768: You're plodding noisily along a muddy east-west path. Offensive
+squelching noises accompany each footstep. Some grey and scraggly trees
+punctuate the sides in a half-hearted attempt to make this industrial nightmare
+look slightly more natural.
+70936: The campus center is a bizarre building, looking somewhat like a giant
+Belgian waffle perched precariously on large concrete pillars. Going east will
+take you inside this complex, and the path remains to the west.
+71084: A long stretch of flagstone paved floor leads off to the east. A sign
+indicates the music and reading room to the south. The door through which you
+entered is west.
+71200: A long stretch of flagstone paved floor runs both east and west. There
+are usually many tables filled with ideological zealots hawking a new religion
+or ski club or CIA recruitment plan, but right now there is one lone Jesus
+Freak table, and it's to the north. Off to the south is the information desk
+and lost and found area.
+71428: You're at a T-intersection. The concourse runs east-west, with a branch
+to the north. The grey flagstone is as uninspiring here as it is everywhere
+else.
+71540: There is an expensive pair of Vuarnet sunglasses here.
+71580: You are at a large table dotted with colourful pamphlets and covered by
+a felt sign that sums up the belief system of this particular cult with
+admirable brevity: "Jesus is Lord". The concourse passes by to the south.
+71736: The usual "It's Not Cool To Burn In Hell" kind of stuff, suckering the
+unwary into a life devoted to praising Jesus and fattening the wallets of savvy
+businessmen.
+71856: A pimply, straggly haired Jesus Freak, his face beaming with the inane
+smile of the truly stupid mans the table, passing out pamphlets and shouting
+"Jesus loves you!" at unsuspecting passers-by.
+71996: By the glazed look in his eye, you can tell that he's been brainwashed
+by some insidious mind-control cult. Currently, he's waving a Barry Manilow
+tape and shouting out anti-rock-and-roll slogans.
+72136: The writing on the shell informs you that it contains "Barry Manilow's
+Greatest Hits." You imagine it must be rather short.
+72228: Although this place is usually full of bookish types in full-on study
+mode, the room is strangely deserted right now. The large (soundproof) glass
+doors are north.
+72344: You spot a rather valuable Sony walkman lying on a table.
+72384: It's got all those wonderful modern features - Dolby noise reduction,
+UltraThump bass, etcetera.
+72456: Lucky find! It's her best album, "The Dreaming."
+72496: A giant map of campus, a marble desk, and a lost and found box: these
+are the joys of the information desk. The equal thrill of the concourse can be
+found to the north.
+72620: A young woman, presumably the information desk receptionist, lies
+slumped over the cool marble, apparently asleep.
+72700: She's fast asleep.
+72716: There's a brass plaque embedded in the desk.
+72748: Some incredibly witty rogue has whited out everything on the map except
+for a small dot above the legend "You Are Here."
+72836: "This reality was designed by Jon Drukman and Derek Pizzuto, with some
+assistance late in the day from Mike Wertheim. It was assembled from finest
+quality hand-tooled bits by faceless drones of the Scumbag Software
+Corporation, all working for minimum wage."
+73024: Elevators usually arrive here, but, like everything, it's a bit of a
+crap shoot. Only one is currently working, and it is sitting here with its
+doors open waiting to take some unsuspecting dupe to the floor of their choice.
+The concourse is south.
+73200: There is an elevator waiting here, its doors open.
+73236: This is the eastern end of the concourse. From the north comes
+futuristic sounds and many flashing lights. A door to the east leads outside.
+73336: You are standing on a path east of the campus center. From the north you
+hear the quacks of ducks at the campus pond.
+73420: A large grate in the ground belches an unpleasant-smelling cloud of
+steam into the air.
+73480: A large grate has been moved aside, allowing access to the storm drain
+below.
+73536: You've clambered down a ladder to a rather slimy ledge, and are now up
+to your ankles in brackish water. The water swirls around and through the drain
+to the southwest.
+73652: You take an experimental step off the ledge and find that the water
+quickly becomes far deeper than you feel comfortable with.
+73740: Lying in a small alcove is a metal tool chest.
+73772: A pair of needle-nose pliers, with a blue rubber handgrip.
+73816: This is the pond, crossroads of the campus. Famed for its man-made
+beauty and the indigenous strain of ducks which is unbelievably resistant to
+ordinary pollutants. They also manage to subsist almost entirely on a diet of
+stale bread and popcorn, a mystery which has fascinated many of the country's
+eminent zoologists. To the north is the much-reviled Whitmore Administration
+Building. The country's tallest public library can be found to the east. A busy
+street is west of here, and the Campus Center is gleaming dully off to the
+south.
+74192: The library is a masterpiece of engineering. Standing twenty-six stories
+tall, it is the tallest public library in the country. Unfortunately, due to a
+spectacular oversight, the builders neglected to take into account the weight
+of a million books, and the building is sinking into the ground slowly but
+surely. Also, bricks keep falling off of it. The entrance is east, and the
+quacks of ducks can be heard to the west.
+74484: The lobby here is made of cool marble. Signs point out the Card Catalog
+room to the north and the exit to the west.
+74568: Most of the typical card catalog files have been replaced by modern
+computer equipment in an attempt to make life much more convenient for the
+students. Someone neglected to tell the planners that index cards aren't
+subject to power failures or disk crashes, however.
+74756: There is a small computer terminal here, hooked up to the library
+database.
+74808: Due to a rash of book thefts, the library management have installed a
+computer which is hooked up to the stacks. All you have to do is type the
+nine-character access code of the book you want, and it will be delivered to
+you. There is also a small slot in the front of the computer.
+75004: It looks like it could accept something about the size of a credit card.
+75056: It's called "Thoth," author: Aleister Crowley. A quick scan of the
+contents reveal it to be full of all sorts of useful information concerning
+drugs, the devil, and occultism.
+75188: Pages are what one often finds in books.
+75304: It's got a nifty design of unicorns, dragons and rainbows all over. You
+also notice your name and address stamped on the back. Damn your possessive
+ways!
+75412: Imagine all the worst bureaucratic excesses you can, multiply by ten,
+and'll you have a fair idea of the thievery and ineptitude that rules in the
+Whitmore Administration Building, possibly the most loathed structure on the
+entire campus. If you dare, you can enter to the north, or retreat to the
+pastoral grace of the pond south.
+75644: You're in the dungeon of doom. There aren't any skeletons chained to the
+walls, but I suspect that's because the janitors just finished cleaning this
+area a few minutes ago. Unsettling moans of pain and the sound of cash
+registers indicate that the Bursar's office is west. You may wimp out to the
+south.
+75860: There is an enormous crowd of people here, all waiting in line to get to
+the Bursar's office. If you wait in this line, I estimate that it will take 7
+years to get to the front.
+75988: You know how some lines are fun to wait in, where there's a sense of
+camaraderie and shared experience against a hostile "them"? This isn't one of
+them. The people in it are hostile at the best of times. This is clearly not
+even close to being the best of times, so their usual hostility has morphed
+into spectacularly unusual hostility.
+76224: There is a sign here.
+76240: The castle treasury! Many students have found out the hard way that the
+administration can take an infinite amount without giving away one penny. You
+may effect your escape to the east.
+76368: A neanderthal bureaucrat (name tag: "Bob.") stands here waiting to make
+your life more of a living hell than it already is.
+76456: He's actually reasonably friendly-looking - his name tag has a smiley
+face drawn in the "o" in "Bob." It also has a string of digits under the name.
+76564: It's fairly uninteresting bureacratese. The gist of it is that it
+entitles the bearer to one night in a campus hotel room for $30.
+76660: Addicted youth stand around video and pinball machines, wiggling their
+bodies lewdly, occasionally shouting incomprehensible phrases like "Go fer the
+hill!" and "Lionman!" The concourse is back to the south, and light from the
+Student Union filters in through a window in a steel door to the east.
+76872: One pinball machine catches your eye.
+76900: One quarter of a US dollar. Round, with milled edges and an engraved
+picture of George Washington. Oh yeah, and it says "In God We Trust" on it. How
+much detail do you want, anyway? It's just a quarter!
+77056: MDMA, also known as ecstasy - the wonder drug that can turn the
+grouchiest person in the world into a sickening ball of happiness and goodwill.
+I'm not too fond of the stuff, personally.
+77188: It's sort of pearly white with glittery bits in it.
+77228: Lots of interesting things happen here: crowds rally and riot for their
+ideals, heated intellectual debates are fought and won, ideas are sociably
+interchanged... but mainly a lot of people stand around staring at the
+television sets mounted in the walls. There is a small alcove to the east and a
+set of scuffed stairs leads up and down.
+77460: The door is locked.
+77476: This is nothing more than a small recessed area with a meager selection
+of vending machines: newspaper and drinks only, really. You can return west to
+the Student Union proper.
+77600: Squat and rusting through the bright yellow paint, it claims to offer
+the Daily Collegian for a quarter.
+77676: Tall and covered with a fake wood design that puts you in mind of cheap
+recreation rooms in suburban tract housing. It claims to offer tea, coffee and
+chicken soup for a quarter.
+77800: The headline reads "Tuition Hike Imminent" and goes on to detail how
+lack of state funding threatens to nearly double the tuition bill next
+semester. You also encounter an article about the new zero tolerance for drugs
+initiatives, which hopefully snaps your mind right back to your current
+predicament.
+78012: Sitting in the vending machine's dispensing slot is a cup of chicken
+noodle soup.
+78068: Sort of yellowish, with gray bits of meat, and noodles that have
+definitely seen better days.
+78136: Sitting in the vending machine's dispensing slot is a cup of tea.
+78184: Personally, I like it with lemon and milk, but whoever designed the
+drinks machine didn't agree. Suffice to say that a real tea drinker would be
+appalled.
+78292: Sitting in the vending machine's dispensing slot is a cup of coffee.
+78340: It's a styrofoam cup of brownish coffee, although it looks more like a
+styrofoam cup of brownish industrial drain opener.
+78424: This is a long and broad staircase which leads to the RSO offices. It,
+like most staircases, leads up and down.
+78504: The offices of many diverse student groups litter this corridor, in both
+the literal and figurative senses. There is a staircase at the south end of the
+hall. There are no lights on in any of the offices, except for one which is to
+the north.
+78672: All the office doors in that direction are locked.
+78792: literature scattered on a table, "Come Back George - All Is Forgiven"
+bumper stickers and other offensive paraphernalia.
+79020: For one thing, he's an obnoxious bastard. Also, he's clearly upset -
+probably about the Democrats being back in power. But then again, what do you
+expect from a Republican? Currently, he's fingering a small postal scale that
+looks suspiciously like scales used for measuring bags of marijuana. His intent
+is more political, as he is weighing propaganda booklets for mailing.
+79284: Your initials and student ID are engraved into the metal. Although it
+seemed like a good idea at the time, you realize that perhaps discretion would
+have been smarter. Live and learn.
+79412: A small metal scale, used for weighing letters usually, although also
+used for drugs at times, is here.
+79484: This is the main road through campus. The pond lies east, and a modern
+looking building sits on the west side of the road. University Ave splits off
+here to the north.
+79604: This is a smaller thoroughfare that winds its away around campus.
+Unfortunately, you're not going to be able to do a whole lot of winding with it
+because there is a police roadblock set up to the north. You can return to
+Pleasant Street to the south.
+79848: and looks ridiculously dated now). You notice entirely too much brown
+mahogany trim, some more of that pathetic shubbery, and a door leading in to
+the east.
+79956: It contains a few addresses of Keith's regular customers. Your name is
+prominent among them.
+80024: The incriminating address book is here!
+80052: The lobby is an airy and open space, dominated by a grand spiral
+staircase, which leads up and down. You can see a continuous hustle of activity
+happening above - cops are moving around and conversing at the top of the
+stairs.
+80208: I won't allow you to walk straight into the arms of the law.
+80252: This is a sooty, smelly basement. Damp patches of mildew shine on the
+wall, reflecting the light of a naked, grime-coated, 60-watt bulb. A large
+trash incinerator is visible at the north end of the basement, about 50 feet
+away.
+80416: This small corner of the basement is even grimier and smellier than the
+previous bit. At least it is warm and dry, mainly due to the presence of a huge
+trash incinerator.
+80536: Orange flames leap around in the interior, making you sweat.
+80580: You are standing outside the University Health Center which serves the
+Five College area residents, students and non-students alike. You can enter to
+the west, or head east, back out to Pleasant Street.
+80728: The lobby is a functional area (read: dead boring), featuring a glass
+case filled with "Safe Sex" informational displays. Signs point out the
+convenient pharmacy to the west, the comfortable waiting room to the north, and
+the inviting exit to the east.
+80908: The pharmacy area is predominantly populated by students waiting for
+diet pills, birth control pills, or tranquilizers (which they will take when
+either of the first two fail). A sign points out the beautifully manicured
+lobby to the east.
+81080: A white-smocked pharmacist stands behind the window, waiting to help
+you.
+81136: Just two pills in a paper packet.
+81160: They've really got it all here - old magazines, hardwood chairs, boring
+safe sex pamphlets, you name it. They've also got a sign pointing west to the
+skilled Doctor's office, and the refreshingly oxygen-rich lobby to the south.
+81434: floyd's degree is on the wall, and you also spot a jar of tongue
+depressors, some rubber gloves, lubricants, etc. You can get out to the east,
+if you run.
+81544: It says that Dr. Floyd graduated from the School Of Hard Knocks, class
+of '89. Come to think of it, on closer inspection, it looks like a novelty
+diploma you might find in a cereal box... and Dr. Floyd's name is written in in
+crayon! Ulp...
+81724: Dr. Floyd is here, wearing a long white coat and sitting behind his
+desk.
+81836: It's a prescription for a trial-size pack of valium.
+81908: overstuffed sofas and tall picture windows provide a comfortable
+environment in which to chill, read the paper, or just blow off classes. The
+main desk is to the north.
+82024: You're in a small elevator which reeks of tobacco. Knife-carved graffiti
+adorns the walls.
+82152: A small panel of buttons is located to the left of the door.
+82236: Supposedly you can get a room here, but I've never heard of anyone
+actually managing the trick. When you decide to give up, the lobby is south.
+82340: Standing behind the front desk is a perky looking hotel employee.
+82388: This little waiting area smells slightly of disinfectant and gives way
+to a hall full of rooms, to the west.
+82464: You are in your room at the hotel. You wonder briefly about the mental
+state of the interior designer who thought up this color scheme, and hope to
+yourself that he or she faced a slow and painful death, preferably involving
+thousands of stinging insects. There is a door to the south.
+

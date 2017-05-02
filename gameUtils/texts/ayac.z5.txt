@@ -1,0 +1,423 @@
+15637: Nothing to do!
+15672: o. You have won
+15756: It is now pitch dark in here!
+15783: I beg your pardon?
+15847: Sorry, that can't be corrected.
+15876: Think nothing of it.
+15929: As good-looking as ever.
+15961: You can hardly repeat that.
+15986: You can't begin with a comma.
+16100: I didn't understand that number.
+16129: You can't see any such thing.
+16165: You aren't holding that!
+16207: I'm not sure what "
+16259: That's not a verb I recognise.
+16298: You can't see "
+16406: Nothing to do!
+16423: There are none at all available!
+17333: Please answer yes or no.
+17359: Are you sure you want to quit?
+17404: Failed.
+17424: Restore failed.
+17441: Ok.
+17459: Save failed.
+17474: Ok.
+17518: Transcripting is already on.
+17584: Transcripting is already off.
+17642: Score notification on.
+17663: Score notification off.
+17688: You have visited:
+17718: Objects you have handled:
+17743: None.
+18129: You are carrying nothing.
+18178: Taken.
+18189: You are always self-possessed.
+18722: Dropped.
+18830: Removed.
+18969: You lack the dexterity.
+19050: Done.
+19316: Done.
+19536: Wrahn seem interested.
+20175: You can't go that way.
+20735: But it's dark.
+20752: You find nothing of interest.
+20788: But it's dark.
+20879: You find nothing of interest.
+22007: . Not bad.
+22025: That was a rhetorical question.
+22079: That seems unnecessary.
+22102: Keep your mind on the game.
+22127: What a good idea.
+22146: You smell nothing unexpected.
+22173: You hear nothing unexpected.
+22198: You taste nothing unexpected.
+22233: Keep your hands to yourself!
+22258: You feel nothing unexpected.
+22283: If you think that'll help.
+22392: Oh, don't apologise.
+22422: Quite.
+22491: You achieve nothing by this.
+22579: You wave, feeling foolish.
+22729: You are unable to.
+22748: Nothing obvious happens.
+22798: That's not a direction.
+22821: Not that way you can't.
+22853: Keep your hands to yourself.
+22878: You achieve nothing by this.
+22911: Futile.
+22940: You talk to yourself a while.
+22967: This provokes no reaction.
+22995: There is no reply.
+23014: Nothing is on sale.
+23033: Your singing is abominable.
+23067: Time passes.
+46594: Oh no!
+46942: It's already open.
+46961: Strange. The door won't close.
+47038: That doesn't fit.
+47130: M.
+47164: Mmm ... pizza.
+47264: . Inside the pot
+48182: Discreetly taken.
+48294: There's no phone here!
+48317: There's no dial tone.
+48358: Probably pointless.
+48410: This is Dorm A, right here.
+48509: A hollow voice says, "No."
+50932: in" or "notin
+50948: opmhas" or "hasnt
+51090: }" at end of "objectloop
+52292: Are You A Chef?
+52396: It's only an abstract concept.
+52548: Score:
+52556: Moves:
+52564: Time:
+52572: You can't go that way.
+52904: Please give one of the answers above.
+52932: [You can't "undo" what hasn't been done!]
+52968: [Can't "undo" twice in succession. Sorry!]
+53008: "Oops" can only correct a single word.
+53036: It is pitch dark, and you can't see a thing.
+53068: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+53128: You seem to want to talk to someone, but I can't see whom.
+53172: To talk to someone, try "someone, hello" or some such.
+53212: I didn't understand that sentence.
+53272: You seem to have said too little!
+53296: You can't use multiple objects with that verb.
+53332: You can only use multiple objects once on a line.
+53368: You excepted something not included anyway!
+53400: You can only do that to something animate.
+53432: That's not something you need to refer to in the course of this game.
+53480: I didn't understand the way that finished.
+53512: Sorry, you can only have one item here. Which exactly?
+53664: Are you sure you want to restart?
+53688: The game file has verified as intact.
+53716: The game file did not verify as intact, and may be corrupt.
+53760: Attempt to begin transcript failed.
+53788: Attempt to end transcript failed.
+53812: You're carrying too many things already.
+53844: You can't put something on top of itself.
+53876: You can't put something inside itself.
+53904: That would scarcely empty anything.
+53960: You can only get into something free-standing.
+53996: But you aren't in anything at the moment.
+54028: You'll have to say which compass direction to go in.
+54068: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+54164: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+54248: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+54424: This dangerous act would achieve little.
+54452: Nothing practical results from your prayer.
+54484: The dreadful truth is, this is not a dream.
+54516: Digging would achieve nothing here.
+54544: You jump on the spot, fruitlessly.
+54572: You would achieve nothing by this.
+54596: There's nothing suitable to drink here.
+54624: But there's no water here to carry.
+54652: Real adventurers do not use such language.
+54684: Violence isn't the answer to this one.
+54712: There's not enough water to swim in.
+54740: There's nothing sensible to swing here.
+54768: That would be less than courteous.
+54792: Is that the best you can think of?
+54816: You lack the nerve when it comes to the crucial moment.
+54856: I don't think much is to be achieved by that.
+54888: You aren't feeling especially drowsy.
+55084: This pile of ash might be the remains of some other objects.
+55128: Leave the horrible dirty ash alone.
+55432: Wait ...
+
+Something feels different. It's only a vague, almost
+imperceptible feeling, but the whole atmosphere of the MUD has changed subtly.
+It seems somehow more serious, more urgent, more real ...
+55584: Just down the corridor, the way is blocked by a fall of rubble.
+Evidently, the Auditorium of Tomorrow is yesterday's news.
+56128: Strangely, you can no longer find any way to enter the monolith. You're
+sure you've done it before, but you just can't remember how.
+56224: This area seems to have been subjected to the same brutal truncation as
+much of the rest of the MUD. Now the road simply peters out, with nothing in
+sight except the terrace back west.
+56352: It's a perfectly ordinary phone booth. Strangely, however, the door,
+which you always thought had been welded shut, is now open. I still wouldn't
+try your luck at picking it up, though.
+56484: Such a stupid action doesn't even deserve the usual paragraph about how
+you pick up the phone booth and are crushed by its weight. Let's just settle
+for:
+56592: On the inside, the phone booth looks just as normal as it did on the
+outside. The only difference is that the phone, instead of having a slot for
+coins, appears to have a small hole for cork nuts.
+56848: That would probably gum up the inside of the phone with melted cheese.
+56896: You hear the cork nut fall down inside the phone.
+57056: A small card is taped to the inside of the phone booth.
+57096: It's jut one of those big flat boxes pizzas come in.
+57134: Taken.
+
+A hollow voice says, "All our pizza boxes are made from
+super-biodegradable materials, and hence do no damage to the environment.
+
+The
+pizza box transforms into fine silver dust, which vanishes.
+57282: One lousy slice of pizza? Is that all their free offer is worth?
+57332: Trying to stick things back on the pizza is stupid, not to mention
+impossible.
+57386: Mmm ... delicious. You finish off the whole slice of pizza, fully aware
+that you probably just made the game unwinnable or something. But man, it was
+worth it.
+
+Don't worry. You haven't really made the game unwinnable.
+57548: Mmm ... cheese.
+57568: Eating the lump of congealed cheese is kind of disgusting, but highly
+enjoyable.
+57624: Awwwk! Want cheese-covered cork nuts!
+57652: Eaten.
+
+Awwwk! Want more cork nuts!
+57684: Like most anchovies, it's probably just a fish-shaped lump made of salt.
+57736: You force the horrible anchovy down.
+57764: They look just like most other roasted pumpkin seeds.
+57804: Black olives.
+57816: Kind of shrivelled, like cooked tomatoes often are. It must have fallen
+off the pizza.
+57878: This room is brilliantly lit from all directions. In fact, it is unclear
+where the walls and ceiling end. A doorway leads to the west, and tunnels lead
+in most other directions, although all but one are boarded up. An archway
+stands at the south end of the hall.
+
+Visible exits: south (to Dorm A), west
+(to the Adventurer's Lounge), southwest (to the Big Dig)
+58140: The note reads: "We regret that the Round Room, Coder's Tavern, Open
+Chamber, Carousel Room, Clay Cube and Rocky Room, as well as parts of other
+areas, are closed while the MUD undergoes review."
+58292: The Bulletin Board is mysteriously blank.
+58326: Rough-hewn tunnels surroud you on all sides. It looks like more digging
+has been done here, although the original exit to the northeast is still
+visible. More recently, though, several of the tunnels appear to have caved in,
+and the ladder which once led up to the hole in the ceiling has
+disappeared.
+
+Visible exits: down, northwest, northeast (to the Long Hall),
+southwest
+58592: This is a simple room. The only interesting features are a transporter
+pad by the south wall, and a doorway leading northeast. There are no visible
+controls for either.
+
+Visible Exits: northeast, step on transporter pad
+58748: A silvery-grey metal pad. Step on it to be teleported.
+58788: You step onto the pad, and the room around you glimmers and shimmers and
+flickers.
+58846: Strange. This isn't where the pad normally leads. Perhaps this is the
+closest part of the MUD to the space station that's still accessible.
+58952: This tiny, barren room once housed the intake for the MUD incinerator.
+Once garbage incineration was outlawed, though (when it was discovered that
+when you burn things underground, the air just fills with soot), it became just
+a place where people drop old stuff to be recycled.
+59148: Pillows are strewn about this lavish chamber. Incense and candles burn
+in the four corners of the room, and two pillars rise near the center of the
+room. There is a small sign mounted on the left pillar. Scratched into one wall
+are the words: "THE END IS NIGH!"
+59340: It reads: "The Oracle is on extended sabbatical."
+59380: The transformer, while it consists of simply a plain black box,
+nonetheless manages to radiate an aura of terrible menace.
+59464: The pot is an exact replica of the one from the game. It's standing
+directly below the hole in the ceiling
+59540: It's dead! Murderers! Savages! Iconoclasts!
+59576: Just paperclips.
+59588: One octopus (dead).
+59604: Luckily, robotic parrots don't need a lot of living space. Nor do they
+need an elevator to get down from here, so if you were a robotic parrot, it
+wouldn't matter much to you that the one that used to be here has gone.
+Unfortunately, you're not.
+59776: Far below, you can see the hole in the makeshift new ceiling of the
+lounge, which was evidently erected to keep this magnificent but unlikely perch
+out of the sight of the evil suits. If you dropped stuff, it'd probably fall
+right down into the lounge.
+59978: Hmm ... potato, monkey, octopus, cabbage, paperclips, tomato. Unless
+you're mistaken, that's all the ingredients. Maybe you should head down to the
+lounge and check what's happening.
+60116: Well, if you insist ...
+
+You take a flying leap from the perch and
+plunge down through the air. Fortunately, you pass out as you are falling, so
+you never hear the sickening crack your body makes as it lands.
+60264: Mmm, cork nut.
+60276: You take just the tiniest nibble from the cork nut. It's a cork nut
+alright. But maybe you should check it's a cork nut all the way down to the
+bottom.
+60384: Mmm ... cork nutty goodness. You probably just made the game unwinnable,
+but who cares?
+60448: The once-proud lounge has been gutted right down to the bare stone
+walls. All the exits have been bricked up, except for the one to the east, and
+a hole in the ceiling is all there is to show that an elevator once lead
+upwards. An uncomfortable-looking steel chair sits in the centre of the room.
+60654: The middle suit demands, "Are you Dan Shiovitz, also known by the
+criminal alias of 'inky'?"
+
+inky nods mutely.
+60742: "Do you admit that you have often in the past frequented this ..." - the
+suit looks around in disgust - "place? This den of idiocy, frivolity and wanton
+fun?"
+
+inky nods, still too terrified to speak.
+60892: The second suit smiles mirthlessly. "Then we may begin. As you can see,
+your companions have already stood trial, and been sentenced."
+60990: The third suit produces an unpleasant-looking device and waves it at
+inky. "This is what we in our no-nonsense way like to call a transformer. It
+can transform dangerous miscreants such as yourself into simple and serious
+things like vegetables. Vegetables have never been known to give us any
+trouble."
+
+The first suit mutters, "We like vegetables."
+61240: The second suit asks, "Does the phrase 'You are a chef!' mean anything
+to you?"
+61302: The third suit waves the transformer threateningly. "Answer him!"
+
+inky
+inclines his head a fraction of an inch.
+61386: "Do you deny that you are the author of the, ah, game" - the suit
+grimaces, as if the word leaves a bad taste in his mouth - "'You are a
+chef!'?"
+
+inky shakes his head, still remaining silent.
+61530: "Do you recognise, therefore, that you are one of the most dangerous
+sources of lunacy ever tried before this collective?"
+
+inky speaks for the
+first time. "Lunacy?"
+61652: "Come, come, Mr. Shiovitz," growls the first suit, "you must surely
+recognise the utter disregard for everything serious, sensible and ordered,
+everything, in short, which we stand for, which your travesty displays." 
+
+inky
+does not respond.
+61828: "No? Very well then, Mr. Shiovitz."
+
+The second suit produces, as if
+from nowhere, a large pot, which he places on the ground. Into it he drops
+several paperclips, a monkey and an octopus.
+61968: "Now, Mr. Shiovitz. If you can prove to us that it is possible to cook
+anything edible using thse unlikely ingredients, we may just spare your
+miserable life."
+62084: The first suit continues, "Obviously, this, ah, MUD will have to be shut
+down. We can't allow places like this to continue acting as the catalysts for
+insanity they so obviously are."
+
+inky mutters something.
+
+"Your friends, Mr.
+Shiovitz? Honestly, what did you think we were going to do with them? Let them
+go to waste?"
+
+You hear the sound of one of the suits' stomach rumbling.
+62364: inky struggles in the chair for a few moments, then slumps in defeat.
+"Oh, there is no escape, Mr. Shiovitz," says the second suit.
+
+"Only one
+question remains ..."
+62612: The three suits are watching inky.
+62636: Iron safe falls from the sky! It lands on top of second suit and breaks
+him open!
+
+The third suit stops pointing the transformer at inky and rushes to
+attend the remains of his colleague. As he kneels down by the bloody pulpy
+mess, inky takes advantage of the distraction and transforms the two remaining
+suits into toads. As is always the case, the moment the bad guys are defeated,
+their works are un-done and the vegetables all transform back into the MUDders
+you know and love. Quickly, the wizards repair the damage done to the MUD, and
+all returns to a state of blessed happiness and fun.
+63100: . The suits look doubtful, but remains calm as the second instructs,
+"Very well, Mr. Shiovitz, now eat
+63176: under the owlish gaze of the three suits. They continue to watch him for
+several minutes until it becomes obvious that death is not immediately
+imminent.
+
+"Very well, Mr. Shiovitz," says the first suit, "you may go."
+
+From
+his pocket he produces a carrot named Alex and considers it briefly. "Shame to
+let all these vegtables go to waste," he reflects. "Shut down this thing and
+we'll have a stew."
+63464: The elevator is gone.
+63480: The ceiling is lower than it was before, a layer of panelling put up
+just above head height. Although the elevator which once led up to Alex's perch
+has gone, this is evidently a recent development, as a hole in the new ceiling
+marks where it once was.
+63656: It looks exactly like the sort of chair you strap people in to
+interrogate them. This is because that's what it is.
+63736: inky has a hunted look to him, as if he's being interrogated by evil men
+in suits who want to turn him into a vegetable. There is quite possibly a
+reason for this.
+63884: Apart from some minor differences in height, the three suits are
+identical. If they had little wires coming out of their ears, they'd look just
+like agents from
+63996: Three suits stand in a semicircle around the chair.
+64032: You can't reach the pot without alerting the suits.
+64068: You couldn't do that without giving yourself away to the suits.
+64112: Maybe you should work out what's going on first.
+64148: It might be wise not to draw any attention to yourself.
+64188: It's a banana.
+64200: You peel the banana. After a few seconds, the skin grows back.
+64892: mnet 4096 
+    IP:         63.77.145.125
+
+    HAVE AN ACCOUNT?  Type
+"connect name password" to log in. 
+    WHO'S HERE NOW?   Type "who" for a list
+of players online. 
+    ANY PROBLEMS?     The MUD is temporarily under review.
+You are advised to 
+                      wait until the process is finished
+before attempting 
+                      to determine the cause of any
+difficulties you may be 
+                      experiencing.
+
+Login Succeeded
+65416: UD v2.1z
+
+  Once a fix or enhancement is in place, it will be announced
+on the 
+  channel '#mud-updates'.
+65500: You can't make a telephone call with that!
+65532: A recorded voice announces, "That number is not available. You have not
+been charged for this call."
+65604: A friendly voice from the pizza parlor answers and explains that as
+their one millionth caller, you are entitled to a free pizza. You barely have
+time to wonder at this extremely fortuitous and unlikely coincidence before you
+hear a screech of tyres from outside and the noise of something flat and made
+of cardboard hitting the ground, followed by the click from the phone of the
+pizza person hanging up.
+65880: You fruit on the spot, jumplessly. No, wait, that isn't right.
+65928: You apply a great deal of concentration, and find yourself walking into
+another place.
+65990: For some reason, the usual jollity of your homemsg fails to manifest
+itself.
+66048: You are obviously confused. Please be kind to yourself.
+66088: You don't want to upset those nasty men in suits by materialising in the
+middle of the lounge. Maybe you should just walk there.
+66180: For some reason, you have a really bad feeling about doing that. Maybe
+it would be better to head for the lounge in the normal fashion.
+66276: A hollow voice hands you a banana.
+

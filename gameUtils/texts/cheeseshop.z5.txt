@@ -1,0 +1,526 @@
+22769: Nothing to do!
+22804: o. You have won
+22906: It is now pitch dark in here!
+22933: I beg your pardon?
+22997: Sorry, that can't be corrected.
+23026: Think nothing of it.
+23079: As good-looking as ever.
+23111: You can hardly repeat that.
+23136: You can't begin with a comma.
+23250: I didn't understand that number.
+23279: You can't see any such thing.
+23315: You aren't holding that!
+23357: I'm not sure what "
+23409: That's not a verb I recognize.
+23448: You can't see "
+23556: Nothing to do!
+23573: There are none at all available!
+24483: Please answer yes or no.
+24509: Are you sure you want to quit?
+24554: Failed.
+24574: Restore failed.
+24591: Ok.
+24609: Save failed.
+24624: Ok.
+24668: Transcripting is already on.
+24734: Transcripting is already off.
+24792: Score notification on.
+24813: Score notification off.
+24838: You have visited:
+24868: Objects you have handled:
+24893: None.
+25277: You are carrying nothing.
+25326: Taken.
+25337: You are always self-possessed.
+25870: Dropped.
+25978: Removed.
+26117: You lack the dexterity.
+26198: Done.
+26464: Done.
+26684: Wrahn seem interested.
+27323: You can't go that way.
+27883: But it's dark.
+27900: You find nothing of interest.
+27936: But it's dark.
+28027: You find nothing of interest.
+29155: . Not bad.
+29173: That was a rhetorical question.
+29227: That seems unnecessary.
+29250: Keep your mind on the game.
+29275: What a good idea.
+29294: You smell nothing unexpected.
+29321: You hear nothing unexpected.
+29346: You taste nothing unexpected.
+29381: Keep your hands to yourself!
+29406: You feel nothing unexpected.
+29431: If you think that'll help.
+29540: Oh, don't apologize.
+29570: Quite.
+29639: You achieve nothing by this.
+29727: You wave, feeling foolish.
+29877: You are unable to.
+29896: Nothing obvious happens.
+29946: That's not a direction.
+29969: Not that way you can't.
+30001: Keep your hands to yourself.
+30026: You achieve nothing by this.
+30059: Futile.
+30088: You talk to yourself a while.
+30115: This provokes no reaction.
+30143: There is no reply.
+30162: Nothing is on sale.
+30181: Your singing is abominable.
+30215: Time passes.
+43459: You can't see any such thing.
+43497: I don't recognize that verb.
+43583: Talking to yourself again?
+43617: Talking to yourself again?
+43774: You hear nothing unusual.
+43808: Well, of course not.
+43844: That's not possible.
+43873: You find nothing of interest.
+43922: You smell nothing unusual.
+43949: No need to apologize.
+43989: You achieve nothing by this.
+44066: You feel nothing unusual.
+44101: You take a dramatic pause.
+44130: No one is asleep.
+44151: Well, of course.
+55692: What an odd notion.
+55812: What an odd notion.
+56046: "I beg your pardon, sir?"
+56979: elxj.. Think of another cheese.
+57596: That peckish you are not.
+57621: Let's not be morbid.
+57820: "Oh, hungry," agrees
+57845: Xvg.
+57851: "Oh, hungry," says
+57877: elfc, looks about. "Who said that?"
+58105: ?" you try."
+   "Sorry."
+58197: ?" you ask.
+   "Sorry."
+58262: ?" you ask.
+   "No."
+58330: ?" you try.
+   "No."
+58385: ?" you ask.
+   "....No."
+58469: ?" you try.
+   "No."
+58496: You recite, "
+58657: ?" you ask.
+   "No, sir."
+58872: ?" you ask.
+   "No." Then
+60093: Take what cheese?
+60196: Talking to yourself again?
+60352: Talking to yourself again?
+60464: Except for the gun, of course.
+60498: Oh wait.
+60588: That's not for sale.
+60786: Wrahn respond to your shouting.
+63284: in" or "notin
+63300: opmhas" or "hasnt
+63442: }" at end of "objectloop
+65008: Score:
+65016: Moves:
+65024: Time:
+65032: You can't go that way.
+65364: Please give one of the answers above.
+65392: [You can't "undo" what hasn't been done!]
+65428: [Can't "undo" twice in succession. Sorry!]
+65468: "Oops" can only correct a single word.
+65496: It is pitch dark, and you can't see a thing.
+65528: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+65588: You seem to want to talk to someone, but I can't see whom.
+65632: To talk to someone, try "someone, hello" or some such.
+65672: I didn't understand that sentence.
+65732: You seem to have said too little!
+65756: You can't use multiple objects with that verb.
+65792: You can only use multiple objects once on a line.
+65828: You excepted something not included anyway!
+65860: You can only do that to something animate.
+65892: That's not something you need to refer to in the course of this game.
+65940: I didn't understand the way that finished.
+65972: Sorry, you can only have one item here. Which exactly?
+66124: Are you sure you want to restart?
+66148: The game file has verified as intact.
+66176: The game file did not verify as intact, and may be corrupt.
+66220: Attempt to begin transcript failed.
+66248: Attempt to end transcript failed.
+66272: You're carrying too many things already.
+66304: You can't put something on top of itself.
+66336: You can't put something inside itself.
+66364: That would scarcely empty anything.
+66420: You can only get into something free-standing.
+66456: But you aren't in anything at the moment.
+66488: You'll have to say which compass direction to go in.
+66528: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+66624: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+66708: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+66884: This dangerous act would achieve little.
+66912: Nothing practical results from your prayer.
+66944: The dreadful truth is, this is not a dream.
+66976: Digging would achieve nothing here.
+67004: You jump on the spot, fruitlessly.
+67032: You would achieve nothing by this.
+67056: There's nothing suitable to drink here.
+67084: But there's no water here to carry.
+67112: Real adventurers do not use such language.
+67144: Violence isn't the answer to this one.
+67172: There's not enough water to swim in.
+67200: There's nothing sensible to swing here.
+67228: That would be less than courteous.
+67252: Is that the best you can think of?
+67276: You lack the nerve when it comes to the crucial moment.
+67316: I don't think much is to be achieved by that.
+67348: You aren't feeling especially drowsy.
+67438: You, Mr. Mousebender, are an English gentleman, in search of cheesy
+comestibles. In other words, you wish to buy some cheese.
+67534: You can only do that to a person - preferably, a living person.
+67582: That's not something you need to refer to in the course of this game.
+67634: That's hardly the gentlemanly thing to do.
+67666: Why would you want to do that?
+67690: Why would you want to do that? And how?
+67722: I can't say that I blame you, really.
+67754: Sadly, your prayer is ignored.
+67778: You haven't sang in public since that incident in Liverpool, and you're
+not about to start now.
+67850: You smell nothing unusual. The deodorant must be working.
+67894: That's hardly the gentlemanly thing to do.
+67926: My word. Try to keep up a stiff upper lip, eh what?
+68114: Right now, unless it's made of cheese, you don't want to taste it.
+68166: "Reach out and touch someone" may be fine for telephone repairmen, but
+not for a gentleman like yourself.
+68242: Okay. You verify that you're still here. Now what?
+70088: PATABADALADAZING! PATABADALADAZING! PATABADALADAZING!
+70160: PATABADALADAZING! PATABADALADAZING! PATABADALADAZING!
+70272: PATATA!-PATABADALADAZING!!
+70380: GADAPINGADAPINGADADING!!
+70478: INGADAPINGADAPINGADADING!!
+70518: (Be a lamb and just enter the shop to the south, would you, hon? Thanks.
+Kiss, kiss.)
+70586: Ah! How wonderful. You were just thinking how nice a piece of cheese
+would be, and look. Here is a pleasant little cheeseshop, whose door beckons to
+the south.
+70700: Feeling somewhat peckish, you decide to sally forth and infiltrate this
+place of purveyance to negotiate the vending of cheesy comestibles.
+70802: It's an Edwardian-style shop with a large sign above it reading 'Ye Olde
+Cheese Emporium'. Another sign below the first reads 'Henry Wensleydale,
+Purveyor of Fine Cheese to the Gentry and the Poverty Stricken Too', and a sign
+below that reads 'Licensed for Public Dancing'.
+71010: The door out is to the north.
+71034: The cheeseshop is large and redolent of the charm and languidity of a
+bygone age.
+71092: In the corner, two men are Greek dancing to the music of a bouzouki.
+71174: On the counter is a small handbell.
+71206: The shop doesn't smell quite as clean as it used to, now that there's a
+corpse behind the counter.
+71278: The shop smells remarkably clean. You don't smell any cheese, certainly.
+71330: You put on your cowboy hat, stride out the shop, and ride your horse
+into the sunset.
+   THE END
+71410: Frustrated with your lack of progress, you stride out the shop, taking
+your custom elsewhere.
+71478: Oh, please. You haven't even talked to the shopkeeper yet.
+71722: You see a small handbell on the counter. It looks quite ringable.
+71770: You don't find any cheese on the counter. Only a small handbell.
+71818: You smell nothing untowards on the counter.
+71918: The small handbell is on the counter. It
+72016: No need.
+72024: Why bother?
+72034: You ring the handbell, and immediately, the shopkeeper pops up from
+behind the counter. 
+   "Good morning, sir," the man says. 
+   You say to him,
+"Good morning. I'd like to buy some cheese, please." 
+   "Yes, certainly, sir.
+What would you like?"
+72226: You can't take the small handbell. You could try ringing it, though.
+72282: Two men in casual city wear are dancing a Greek folk dance while a third
+provides musical accompaniment with his bouzouki.
+72370: The Greek dancers ignore you and continue dancing.
+72454: The Greek dancers ignore you and continue dancing.
+72538: Loud words ought to suffice for dealing with these noisemakers.
+72586: Come, come. Gentlepersons such as yourself do not go about smelling
+other people.
+72652: news reporter and camera crew suddenly pop in from nowhere! The reporter
+shouts into his microphone, "Mousebender tries to pick up strange Greek men in
+a cheeseshop! Film at eleven!" Then he and his film crew race out the door to
+file their story.
+72830: Let them be. They're not that annoying...
+72866: You suddenly turn to the dancers, and shout, "WILL YOU SHUT BLOODY
+DANCING UP!"
+(the music stops)
+72960: tells the dancers, "Told you so," as they sneak out the door.
+73010: Ah, the bouzouki. You know, of course, that it's practically the
+signature sound of both rebetiko and Greek folk music.
+73098: The bouzouki isn't yours to take.
+73122: Unless you're badly mistaken, it's the title instrumental theme from
+'Zorba the Greek'.
+73192: But frankly, it's getting on your nerves. You have half a mind to tell
+them to "shut up" just so a body could think.
+73282: That bloody annoying music has finally ceased and replaced with blessed
+silence.
+73342: Trying to pick up the melody, eh?
+73474: "If you say so, sir," he says with an unctuous smile.
+73580: isn't going to do that. He has to man the shop. (Try something like ASK
+MAN FOR BRIE or BUY PROVOLONE instead.)
+73682: No no no. A gentleman never raises his at a voice to a servant. This is,
+after all, a battle of wits. If you yelled at him, the shopkeeper would win,
+and you would lose.
+73806: Come, come. Gentlepersons such as yourself do not go about smelling
+other people.
+73894: The shopkeeper isn't likely to let you do that.
+73928: is the last thing you want to do. Even if he is sort of cute.
+74030: The body falls to the floor. You shake your head
+74074: "What a senseless waste of human life."
+74104: The dancers beat a hasty retreat out the door as you put away your gun.
+74158: Oh, you are sorely tempted, but unfortunately your genteel nature
+forbids that course of action until all other options are exhausted. But you
+will get satisfaction from this miserable shopkeeper, in one way or another.
+74312: is an annoying git, but that's no reason to resort to violence. Not yet,
+anyway.
+74370: ?" you say.
+   The owner almost looks apologetic. "Er, could you be more
+specific, sir?" he asks, unhelpfully.
+74456: You're about to ask for camembert, but then reconsider. You've hardly
+asked for any cheeses at all. Might there not be more exotic cheeses? You can
+always ask about camembert later, if the shop doesn't have your first few
+choices.
+74622: Not yet! Asking for cheddar this early would be an admission of defeat.
+Surely a cheeseshop has more than just cheddar! Consider all the cheeses that a
+cheeseshop might have!
+74750: Popular cheese? What gave you that notion? The shopkeeper hasn't
+mentioned anything like that yet.
+74826: As a cheese connoisseur, it is beneath you to ask directly for "any
+cheese at all". It is for you to decide what cheese you want, not the
+shopkeeper's. Only in the most extreme circumstances, such as a cheeseshop with
+no cheese at all, would you consider asking such an audacious question.
+75038: No more talk. You aim your gun at the wretched shopkeeper...
+75084: about the area. "Blimey, you ask a lot of questions. I didn't expect the
+Spanish Inquisition," he says.
+75164: A voice calls out, "Bugger off. We're not doing that again."
+75212: Suddenly, four men in black robes leap into the shop! "Nobody expects
+the Spanish Inquisition! Our chief weapons are... are... dammit, we're in the
+wrong sketch again." They turn around and march out.
+75364: about her breasts. "It wasn't me, sir. I never even knew she had
+breasts," he says.
+75428: about the cat. "I got her from a cat detector van."
+75468: about the cheeseshop. "Finest in the district," he claims.
+75512: about the counter. "Have you noticed how clean it is?"
+75552: about the dancers. "They seem to be here all the time, ever since we got
+licensed for public dancing. Adds a bit of local colour to the place, wouldn't
+you say?" he says.
+75676: about the fudges. "I'm sorry, sir, but this is a cheeseshop. We don't
+have any fudges here," he says, miffed.
+75760: about the handbell. "C'est Michelle, my bell," he says proudly.
+75812: Before he can reply, a voice calls out, "Bugger off. We're not doing
+that again."
+75874: "The Spanish Inquisition? I didn't expect you to ask about the Spanish
+Inquisition!" he exclaims. 
+   Suddenly, four men in black robes leap into the
+shop! "Nobody expects the Spanish Inquisition! Our chief weapons are... are...
+dammit, we're in the wrong sketch again." They turn around and march out.
+76102: about being a lumberjack. "I didn't want to work in a cheeseshop. I
+wanted to be a lumberjack. Leaping from tree to tree as they float down the
+mighty rivers of British Columbia..." 
+   His voice trails off as he realizes
+that no one's going to oblige him with the appropriate sound cue.
+76308: about himself. "Someday... I'd like to be... a lumberjack!" he exclaims.
+76368: about Monty Python. "Who?" he asks, all innocence.
+76408: about the music. "I rather enjoy it. But I expect some music hater will
+tell them to shut up, sooner or later," he says.
+76498: You're no longer interested in the music, now that it's stopped.
+76544: about yourself. He just smiles back at you.
+76576: about the Viking. "Er, viking, sir?" he says, solicitously.
+76664: lies dead behind the counter. You smile the smile of a job well done.
+76718: Death hasn't made him any cuter, y'know.
+76750: You allow yourself one last kick at the corpse to make sure the bastard
+is dead. He is. He is quite dead.
+76826: No, that's enough. Remember, you are still a gentleman. Time to leave,
+I'd say.
+76890: It's a bit late to talk to the ol' beggar now. He's passed on. Mr.
+Wensleydale is no more. He has ceased to be. He's expired and gone to meet his
+maker. He's a stiff. Bereft of life, he rests in peace. He's rung down the
+curtain and joined the choir invisible. This is an ex-shopkeeper.
+77102: Yes, it would be jolly to pick up the dead Mr. Wensleydale, take him on
+holiday overseas and frighten the children, but unfortunately, you have other
+things to do.
+77222: Oh, leave him be. He obviously doesn't have any cheese secreted on his
+person.
+77282: There's no pulse. Perhaps it's time to go.
+77318: Yes, you have a gun. Sorry about that. I should have mentioned it
+earlier.
+77374: It's a gun. You shoot lying deceitful shopkeepers with it.
+77418: On second thought, you decide to keep the gun.
+77454: They're not paying attention to you.
+77482: You let the smiling bastard shopkeeper get a good long look at the
+business end of your pistol, ...
+77554: You take the cyanide capsule that you've held onto for years for just
+such a situation as this, swallow it dry, and die. (No, sorry, just kidding.
+There's no cyanide in this game.)
+77850: I were all hungry, like," you say, in a broad Yorkshire accent.
+77900: . "I thought you were complaining about the music."
+   "Heaven forbid,"
+you say. "I am one who delights in all manifestations of the terpsichorean
+muse."
+   "Sorry?" 
+   "I like a nice dance. You're forced to." you say.
+78068: .
+[Quick cut to a Viking] 
+   "Anyway..." says the Viking.
+[Cut back to
+the shop] 
+   Startled,
+78152: ?" you ask. 
+   "I'm afraid we're fresh out of
+78192: , sir." 
+   "Oh never mind," you say, unconcerned.
+78232: ?", you ask. 
+   "Never at this part of the week, sir. Always get it
+fresh first thing on Monday."
+   "Tish, tish. No matter."
+78332: , then, if you please, stout yeoman."
+   "Ah, well, it's been on order
+for two weeks, sir,"
+78404: replies. "I was expecting it this morning." 
+   "Yes, it's not my day is
+it," you say ruefully.
+78478: ?" you ask.
+   "Normally, sir, yes, but today the van broke down."
+78532: brightens. "Ah! We do have some Camembert, sir." 
+   "You do.
+Excellent," you say.
+78604: hesitates. "It's a bit runny, sir."
+78634: "Oh, I like it runny," you say with considerable relish. 
+   "Well, as a
+matter of fact, it's very runny, sir,"
+78724: cautions.
+   "No matter, no matter," you reply. "Hand over the fromage
+de la Belle France qui s'appelle Camembert, s'il vous plait." 
+   "I think it's
+runnier than you like it, sir,"
+78864: "I don't care how fucking runny it is. Hand it over with all speed," you
+demand.
+   "Yes, sir."
+78942: bends down below the counter and reappears. "Oh...," he says. 
+  
+"What?" "The cat's eaten it." "Has he?" "She, sir."
+79042: "You do have some cheese, do you?" you inquire. 
+   "Certainly, sir.
+It's a cheese shop, sir. We've got..." 
+   "No, no, no, don't tell me. I'm keen
+to guess."
+   "Fair enough."
+79192: "Wensleydale?" you ask.
+   "Yes, sir?"
+   You smile. "Splendid. Well,
+I'll have some of that then, please."
+   "Oh, I'm sorry, sir. I thought you
+were referring to me, Mr. Wensleydale.
+   You stop smiling.
+79358: ?" you ask.
+   "Not today, sir, no."
+79392: You decide to cut to the chase. "Well, let's keep it simple. How about
+Cheddar?"
+   "Well, I'm afraid we don't get much call for it around these
+parts."
+   You're flabbergasted. "No call for it? It's the single most popular
+cheese in the world!" 
+   "Not round these parts, sir," says
+79612: prompts, "Don't you want to ask me what the most popular cheese is?"
+79664: says, "That's not popular around these parts either."
+79704: remarks, "Is that cheese popular elsewhere?"
+79738: You grimace. The shopkeeper must really want you to ask what's popular.
+79794: "And pray, what is the most popular cheese round these parts?"
+   "
+79848: proudly.
+   "I see," you say evenly. 
+   "Yes, sir. It's quite
+staggeringly popular in the manor." 
+   "Is it?"
+   "Yes sir," repeats
+79956: . "It's our number-one seller."
+   "Is it?" you ask again.
+   "Yes,
+sir."
+   "
+80024: , eh?" you ask, just to be quite sure.
+   "Right,"
+80098: "OK, I'm game. Have you got any
+80128: , he asked, expecting the answer 'no'?"
+   "I'll have a look, sir, ...
+nnnnnnooooooooo." 
+   "It's not much of a cheese shop really, is it?" you
+observe. 
+   "Finest in the district, sir,"
+80276: claims. 
+   "And what leads you to that conclusion?" you ask. 
+  
+"Well,"
+80334: sputters, "it's so clean." 
+   "Well," you say, "it's certainly
+uncontaminated by cheese."
+80436: . Then he points out, "You haven't asked me about
+80476: , sir."
+   You hestitate. "Is it worth it?" 
+   "Could be," he says
+temptingly.
+80590: ?"
+   "No." 
+   "No, that figures. It was pretty predictable really. It
+was an act of pure optimism to pose the question in the first place. Tell me
+something, do you have any cheese at all?"
+   "Yes, sir," says
+80820: , "Now I'm going to ask you that question once more, and if you say 'no'
+I'm going to shoot you through the head. Now, do you have any cheese at all?"
+ 
+ "No." 
+   You draw a gun,...
+80962: You smell in vain for a whiff of cheese.
+80990: You don't actually see any cheese. But surely there's some behind the
+counter or in a back room.
+81176: Monty Python's Flying Circus: Just the Words Volume Two.
+81382: .
+
+In case you're not familiar with the sketch, you are playing the role
+of Mousebender, who attempts to buy many varieties of cheese from Wensleydale,
+the shopkeeper. To do this, type commands like ASK MAN ABOUT BRIE or BUY GOUDA.
+Only varieties of cheese are recognized; the game doesn't know about brand
+names like Kraft or Velveeta. If you can't think of a new variety of cheese,
+type THINK.
+
+If you are familiar with the sketch, be assured that this is an
+82138: Try telling someone else that.
+82162: There's nothing for sale here outside the shop. Try going inside.
+82214: You don't see the shopkeeper here. Perhaps he can be summoned, somehow.
+82270: You dance about the room, in an apparent audition for the Ministry of
+Silly Dances.
+82330: (Your inventory isn't that important in this game, so I didn't implement
+it. But if you must know:)
+82410: You are impeccably dressed in a nice business suit, and you're carrying
+the things you usually carry. To wit: a wallet (with enough money in it to buy
+some delicious cheese), your keys (for a house that doesn't appear in this
+game), a pen, some headache pills, a hanky,...
+82604: None of which you can or need to refer to in this game.
+82648: (No, really, you do. It's kinda the point.)
+82686: You don't need to ask about that.
+82748: Thanks for playing!
+
+And now for something completely different:
+82796: This will never do. Would you rather eat
+82914: That's not something you can shoot with.
+83000: , who stands frozen behind the counter, and smiling that asinine grin.
+You grin back at him, ...
+83074: You are about to yell imprecations at yourself, when you remember your
+promise to Greta that you wouldn't do that to yourself. So you don't.
+83174: A hollow voice says "Xyzzy? Tinny, tinny sort of word." 
+   Then a
+sixteen-ton weight drops on your head.
+

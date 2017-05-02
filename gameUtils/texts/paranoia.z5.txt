@@ -1,0 +1,628 @@
+14149: Nothing to do!
+14184: o. You have won
+14268: It is now pitch dark in here!
+14295: I beg your pardon?
+14359: Sorry, that can't be corrected.
+14388: Think nothing of it.
+14441: As good-looking as ever.
+14473: You can hardly repeat that.
+14498: You can't begin with a comma.
+14612: I didn't understand that number.
+14641: You can't see any such thing.
+14677: You aren't holding that!
+14719: I'm not sure what "
+14771: That's not a verb I recognise.
+14810: You can't see "
+14918: Nothing to do!
+14935: There are none at all available!
+15845: Please answer yes or no.
+15871: Are you sure you want to quit?
+15916: Failed.
+15936: Restore failed.
+15953: Ok.
+15971: Save failed.
+15986: Ok.
+16030: Transcripting is already on.
+16096: Transcripting is already off.
+16154: Score notification on.
+16175: Score notification off.
+16198: You have visited:
+16226: Objects you have handled:
+16251: None.
+16637: You are carrying nothing.
+16686: Taken.
+16697: You are always self-possessed.
+17230: Dropped.
+17340: Removed.
+17479: You lack the dexterity.
+17560: Done.
+17826: Done.
+18037: Wrahn seem interested.
+18618: You can't go that way.
+19178: But it's dark.
+19195: You find nothing of interest.
+19231: But it's dark.
+19322: You find nothing of interest.
+20450: . Not bad.
+20468: That was a rhetorical question.
+20522: That seems unnecessary.
+20545: Keep your mind on the game.
+20570: What a good idea.
+20589: You smell nothing unexpected.
+20616: You hear nothing unexpected.
+20641: You taste nothing unexpected.
+20676: Keep your hands to yourself!
+20701: You feel nothing unexpected.
+20726: If you think that'll help.
+20835: Oh, don't apologise.
+20865: Quite.
+20934: You achieve nothing by this.
+21022: You wave, feeling foolish.
+21172: You are unable to.
+21191: Nothing obvious happens.
+21241: That's not a direction.
+21264: Not that way you can't.
+21296: Keep your hands to yourself.
+21321: You achieve nothing by this.
+21354: Futile.
+21383: You talk to yourself a while.
+21410: This provokes no reaction.
+21438: There is no reply.
+21457: Nothing is on sale.
+21476: Your singing is abominable.
+21510: Time passes.
+35361: Type a command, Troubleshooter.
+44282: Welcome to Paranoia!
+45184: Clone:
+45757: Step 5: Terminate the briefing.
+45830: You have been hit!
+45893: You zapped the little bastard!
+45934: You wasted it! Good shooting!
+45981: Damn! You missed!
+46233: His shot just missed.
+48938: Type 'help' for a list of valid commands.
+49128: Score:
+49136: Moves:
+49144: Time:
+49152: You can't go that way.
+49396: [Your interpreter does not provide "undo". Sorry!]
+49484: Please give one of the answers above.
+49512: [You can't "undo" what hasn't been done!]
+49548: [Can't "undo" twice in succession. Sorry!]
+49588: "Oops" can only correct a single word.
+49616: It is pitch dark, and you can't see a thing.
+49648: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+49708: You seem to want to talk to someone, but I can't see whom.
+49752: To talk to someone, try "someone, hello" or some such.
+49792: I didn't understand that sentence.
+49852: You seem to have said too little!
+49876: You can't use multiple objects with that verb.
+49912: You can only use multiple objects once on a line.
+49948: You excepted something not included anyway!
+49980: You can only do that to something animate.
+50012: That's not something you need to refer to in the course of this game.
+50060: I didn't understand the way that finished.
+50092: Sorry, you can only have one item here. Which exactly?
+50244: Are you sure you want to restart?
+50268: The game file has verified as intact.
+50296: The game file did not verify as intact, and may be corrupt.
+50340: Attempt to begin transcript failed.
+50368: Attempt to end transcript failed.
+50392: You're carrying too many things already.
+50424: You can't put something on top of itself.
+50456: You can't put something inside itself.
+50512: You can only get into something freestanding.
+50544: But you aren't in anything at the moment.
+50576: You'll have to say which compass direction to go in.
+50616: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+50712: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+50796: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+50884: Darkness, noun. An absence of light to see by.
+50972: This dangerous act would achieve little.
+51000: Nothing practical results from your prayer.
+51032: The dreadful truth is, this is not a dream.
+51064: Digging would achieve nothing here.
+51092: You jump on the spot, fruitlessly.
+51120: You would achieve nothing by this.
+51144: There's nothing suitable to drink here.
+51172: But there's no water here to carry.
+51200: Real adventurers do not use such language.
+51232: Violence isn't the answer to this one.
+51260: There's not enough water to swim in.
+51288: There's nothing sensible to swing here.
+51316: That would be less than courteous.
+51340: Is that the best you can think of?
+51364: You lack the nerve when it comes to the crucial moment.
+51404: I don't think much is to be achieved by that.
+51436: You aren't feeling especially drowsy.
+51522: Very occasionally during this adventure, you will be given a choice of
+things to do. Always choose the least dangerous option. Continue doing this
+until you win. At times you will use a skill or engage in combat and will be
+informed of the outcome. These sections will be self explanatory. There are a
+few other commands you can use -- type 'help' to find out about them.
+51786: As Philo-R-DMD, you will die several times during the adventure. A new
+clone will be activated to take the place of the one that died, in a different
+location. The new Philo-R will usually have to retrace some of the old
+Philo-R's path; hopefully he won't make the same mistakes as his predecessor.
+52008: Simply complete the mission before expending all six of your clones.
+Remember... stay alert, and keep your laser handy.
+52096: Thank you for your request, Troubleshooter. Accessing archives...
+52302: on a Vax 11/780 by Tim Lister, which is how I got hold of it. Just for
+kicks (and the programming practice) I ported it to Inform.
+52402: Note for all you IF fans: it's not very interactive. It's not a proper
+IF game. It beats up the Inform parser in a dark alley. But it will make you
+appreciate all the other IF games more.
+54272: That is an unauthorized command, Troubleshooter.
+54308: That is another unauthorized command, Troubleshooter.
+54348: That is yet another unauthorized command. Are you up to this mission,
+Troubleshooter? You can tell me. The computer is your friend.
+54444: Yet another unauthorized command! I am beginning to suspect you are a
+mutant commie traitor intent on sabotaging the computer.
+54532: You hear a loud metallic voice. "Attention! computer sabotage in
+progress!" Before you can even type "undo", 13 kilbots glide around the corner
+and blast you into component atoms.
+55222: Leave the game 
+
+If you have any questions about any of the commands,
+please don't hesitate to ask. The computer is your friend.
+55320: "Congratulations, Troubleshooter. You have successfully activated the
+Secret Self-Incrimination Debugging Command, and uncovered one more commie
+mutant traitor."
+
+While you wonder who the computer is referring to, hidden
+lasers dice you into convenient bite size pieces, which a service bot then
+carries off to the food vats.
+55552: "That is an A-1 ULTRAVIOLET ONLY command".
+55596: "ULTRAVIOLET CLEARANCE VERIFIED". A giant electrode descends from the
+ceiling and you are engulfed in a pale blue dematerialization beam.
+
+You appear
+in what looks like a maze of twisty little passages, all alike. On looking
+around, you notice a little dwarf in the room. He seems to be in the process of
+throwing an axe at somebody behind you.
+
+THUD!
+55864: Oh dear. You seem to be out of clones.
+55996: You wake up face down on the red and pink checked E-Z-Kleen linoleum
+floor. You recognise the pattern, it's the type preferred in the internal
+security briefing cells. When you finally look around you, you see that you are
+alone in a large mission briefing room.
+56180: "Greetings," says the kindly Internal Security self incrimination expert
+who meets you at the door, "How are we doing today?"  He offers you a doughnut
+and coffee and asks what brings you here. This doesn't seem so bad, so you tell
+him that you have come to confess some possible security lapses. He smiles
+knowingly, deftly catching your coffee as you slump to the floor. "Nothing to
+be alarmed about; it's just the truth serum," he says, dragging you back into a
+discussion room.
+
+The next five hours are a dim haze, but you can recall
+snatches of conversation about your secret society, your mutant power, and your
+somewhat paranoid distrust of The Computer. This should explain why you are
+hogtied and moving slowly down the conveyer belt towards the meat processing
+unit in Food Services.
+56740: You walk to the nearest Computer terminal and request more information
+about Christmas. The Computer says, "That is an A-1 ULTRAVIOLET ONLY IMMEDIATE
+TERMINATION classified topic. What is your clearance please, Troubleshooter?"
+56928: You give your correct clearance.
+56952: You lie and claim Ultraviolet clearance.
+56984: "That is classified information, Troubleshooter, thank you for your
+inquiry. Please report to an Internal Security self incrimination station as
+soon as possible."
+57292: In less than a minute an infrared arrives carrying a white bundle. He
+asks you to sign for it, then hands it to you and stands back, well outside of
+a fragmentation grenade's blast radius.
+57424: You open the package and put on the uniform.
+57456: You finally come to your senses and run for it.
+57490: The uniform definitely makes you look snappy and pert. It really looks
+impressive, and even has the new lopsided lapel fashion that you admire so
+much. What's more, citizens of all ranks come to obsequious attention as you
+walk past. This isn't so bad being an Ultraviolet. You could probably come to
+like it, given time.
+
+The beeping computer terminal interrupts your musings.
+57758: The corridor lights dim and are replaced by red battle lamps as the
+Security Breach alarms howl all around you. You run headlong down the corridor
+and desperately windmill around a corner, only to collide with a squad of 12
+Blue clearance Vulture squadron soldiers. "Stop, Slime Face," shouts the
+commander, "or there won't be enough of you left for a tissue sample." "All
+right, soldiers, stuff the greasy traitor into the uniform," he orders, waving
+the business end of his blue laser scant inches from your nose. With his other
+hand he shakes open a white bundle to reveal a pristine new Ultraviolet
+citizen's uniform. One of the Vulture squadron Troubleshooters grabs you by the
+neck in the exotic and very painful Vulture Clamp(tm) death grip (you saw a
+special about it on the Teela O'Malley show), while the rest tear off your
+clothes and force you into the Ultraviolet uniform. The moment you are dressed
+they step clear and stand at attention.
+
+"Thank you for your cooperation, sir,"
+says the steely eyed leader of the Vulture Squad. "We will be going about our
+business now." With perfect timing the Vultures wheel smartly and goosestep
+down the corridor. Special Note: don't make the mistake of assuming that your
+skills have improved any because of the uniform; you're only a Red
+Troubleshooter traitorously posing as an Ultraviolet, and don't you forget it!
+Suddenly, a computer terminal comes to life beside you.
+58770: "Now, about your question, citizen. Christmas was an old world marketing
+ploy to induce lower clearance citizens to purchase vast quantities of goods,
+thus accumulation a large amount of credit under the control of a single class
+of citizen known as Retailers. The strategy used is to imply that all good
+citizens give gifts during Christmas, thus if one wishes to be a valuable
+member of society one must also give gifts during Christmas. More valuable
+gifts make one a more valuable member, and thus did the Retailers come to
+control a disproportionate amount of the currency. In this way Christmas
+eventually caused the collapse of the old world. Understandably, Christmas has
+been declared a treasonable practice in Alpha Complex. Thank you for your
+inquiry."
+
+You continue on your way to GDH7-beta.
+59336: As you walk toward the tubecar that will take you to GDH7-beta, you pass
+one of the bright blue and orange Internal Security self incrimination
+stations. Inside, you can see an IS agent cheerfully greet an infrared citizen
+and then lead him at gunpoint into one of the rubber lined discussion rooms.
+59548: You decide to stop here and chat, as ordered by The Computer.
+59592: You just continue blithely on past.
+59620: You stroll briskly down the corridor, up a ladder, across an unrailed
+catwalk, under a perilously swinging blast door in urgent need of repair, and
+into tubecar grand central. This is the bustling hub of Alpha Complex tubecar
+transportation. Before you spreads a spaghetti maze of magnalift tube tracks
+and linear accelerators. You bravely study the specially enhanced 3-D tube
+route map; you wouldn't be the first Troubleshooter to take a fast tube ride to
+nowhere.
+59948: You decide to ask The Computer about Christmas using a nearby terminal.
+60000: You think you have the route worked out, so you'll board a tube train.
+60052: You nervously select a tubecar and step aboard.
+60086: You just caught a purple line tubecar.
+60116: You just caught a brown line tubecar.
+60144: The printing on the folder says "Experimental Self Briefing." You open
+it and begin to read the following:
+60224: Step 1: Compel the briefing subject to attend the briefing.
+60408: Step 2: Inform the briefing subject that the briefing has begun.
+60456: ATTENTION: THE BRIEFING HAS BEGUN.
+60508: Step 3: Present the briefing material to the briefing subject.
+60554: GREETINGS TROUBLESHOOTER.
+
+        YOU HAVE BEEN SPECIALLY SELECTED TO
+SINGLEHANDEDLY WIPE OUT A 
+        DEN OF TRAITOROUS CHRISTMAS ACTIVITY. YOUR
+MISSION IS TO GO TO 
+        GOODS DISTRIBUTION HALL 7-BETA AND ASSESS ANY
+CHRISTMAS ACTIVITY 
+        YOU FIND THERE. YOU ARE TO INFILTRATE THESE
+CHRISTMAS CELEBRANTS, 
+        LOCATE THEIR RINGLEADER, AN UNKNOWN MASTER
+RETAILER, AND BRING 
+        HIM BACK FOR EXECUTION AND TRIAL. THANK YOU. THE
+COMPUTER IS 
+        YOUR FRIEND.
+61128: Step 4: Sign the briefing subject's briefing release form to indicate
+that the briefing subject has completed the briefing.
+61216: ATTENTION: PLEASE SIGN YOUR BRIEFING RELEASE FORM.
+61288: ATTENTION: THE BRIEFING IS TERMINATED.
+61348: You walk to the door and hold your signed briefing release form up to
+the plexiglass window. A guard scrutinises it for a moment and then slides back
+the megabolts holding the door shut. You are now free to continue the mission.
+61504: You wish to ask The Computer for more information about Christmas.
+61552: You have decided to go directly to Goods Distribution Hall 7-beta.
+61604: You walk up to the door and push the button labelled "push to exit."
+Within seconds a surly looking guard shoves his face into the small plexiglass
+window. You can see his mouth forming words but you can't hear any of them. You
+just stare at him blankly for a few moments until he points down to a speaker
+on your side of the door. When you put your ear to it you can barely hear him
+say, "Let's see your briefing release form, bud. You aren't getting out of here
+without it."
+61936: You sit down at the table and read the Orange packet.
+61976: You stare around the room some more.
+62002: You step into the shiny plasteel tubecar, wondering why the shape has
+always reminded you of bullets. The car shoots forward the instant your feet
+touch the slippery gray floor, pinning you immobile against the back wall as
+the tubecar careens toward GDH7-beta. Your only solace is the knowledge that it
+could be worse, much worse.
+
+Before too long the car comes to a stop. You can
+see signs for GDH7-beta through the window. With a little practice you discover
+that you can crawl to the door and pull open the latch.
+62368: You manage to pull yourself out of the tubecar and look around. Before
+you is one of the most confusing things you have ever seen, a hallway that is
+simultaneously both red and green clearance. If this is the result of Christmas
+then it's easy to see the evils inherent in its practice. You are in the heart
+of a large goods distribution centre. You can see all about you evidence of
+traitorous secret society Christmas celebration; rubber faced robots whiz back
+and forth selling toys to holiday shoppers, simul-plast wreaths hang from every
+light fixture, while ahead in the shadows is a citizen wearing a huge red
+synthetic flower.
+62942: I got some real neat junk here. You don't wanna miss the big day
+tommorrow, if you know what I mean." The robot opens its bag to show you a pile
+of shoddy Troubleshooter dolls. It reaches in and pulls out one of them. "Look,
+these Action Troubleshooter(tm) dolls are the neatest thing. This one's got
+moveable arms and when you squeeze him, his little rifle squirts realistic
+looking napalm. It's only 50 credits. Oh yeah, Merry Christmas."
+63260: You decide to buy the doll.
+63280: You shoot the robot.
+63296: You ignore the robot and keep searching the hall.
+63332: The doll is a good buy for fifty credits; it will make a fine Christmas
+present for one of your friends. After the sale the robot rolls away. You can
+use the doll later in combat. It works just like a cone rifle firing napalm,
+except that occasionally it will explode and blow the user to smithereens. But
+don't let that stop you.
+63564: You whip out your laser and shoot the robot, but not before it squeezes
+the toy at you. The squeeze toy has the same effect as a cone rifle firing
+napalm, and the elfbot's armour has no effect against your laser.
+63710: It missed you, but not by much!
+63818: It tried to fire again, but the toy exploded and demolished it.
+63946: You walk to the centre of the hall, ogling like an infrared fresh from
+the clone vats. Towering before you is the most unearthly thing you have ever
+seen, a green multi armed mutant horror hulking 15 feet above your head. Its
+skeletal body is draped with hundreds of metallic strips (probably to negate
+the effects of some insidious mutant power), and the entire hideous creature is
+wrapped in a thousand blinking hazard lights. It's times like this when you
+wish you'd had some training for this job. Luckily the creature doesn't take
+notice of you but stands unmoving, as though waiting for a summons from its
+dark lord, the Master Retailer.
+
+WHAM! Suddenly you are struck from behind.
+64428: Quickly you regain your balance, whirl and fire your laser into the
+Ultraviolet citizen behind you. For a moment your heart leaps to your throat,
+then you realise that he is indeed dead and you will be the only one filing a
+report on this incident. Besides, he was participating in this traitorous
+Christmas shopping, as is evident from the rain of shoddy toys falling all
+around you. Another valorous deed done in the service of The Computer!
+64736: You are standing over the body of a dead Ultraviolet citizen.
+64780: You search the body, keeping an eye open for Internal Security.
+64828: You run away like the cowardly dog you are.
+64860: Oh no! you can't keep your balance. You're falling, falling head first
+into the Christmas beast's gaping maw. It's a valiant struggle; you think you
+are gone when its poisonous needles dig into your flesh, but with a heroic
+effort you jerk a string of lights free and jam the live wires into the
+creature's spine. The Christmas beast topples to the ground and begins to burn,
+filling the area with a thick acrid smoke. It takes only a moment to compose
+yourself, and then you are ready to continue your search for the Master
+Retailer.
+65342: j-beta. Suddenly, a net of laser beams spear out of the gloomy corners
+of the hall, chopping you into teeny, weeny bite size pieces.
+65436: You are searching Goods Distribution Hall 7-beta.
+65476: You go to the nearest computer terminal and declare yourself a mutant.
+"A mutant, he's a mutant," yells a previously unnoticed infrared who had been
+looking over your shoulder. You easily gun him down, but not before a dozen
+more citizens take notice and aim their weapons at you.
+65672: You tell them that it was really only a bad joke.
+65708: You want to fight it out, one against twelve.
+65740: Golly, I never expected someone to pick this. I haven't even designed
+the 12 citizens who are going to make a sponge out of you. Tell you what, I'll
+give you a second chance.
+65868: You change your mind and say it was only a bad joke.
+65904: You REALLY want to shoot it out.
+65932: Boy, you really can't take a hint!
+
+They're closing in. Their trigger
+fingers are twitching, they're about to shoot. This is your last chance.
+66040: You tell them it was all just a bad joke.
+66072: You are going to shoot.
+66092: You can read the cold, sober hatred in their eyes (they really didn't
+think it was funny), as they tighten the circle around you. One of them shoves
+a blaster up your nose, but that doesn't hurt as much as the multi-gigawatt
+carbonium tipped food drill in the small of your back. You spend the remaining
+micro-seconds of your life wondering what you did wrong.
+66344: Doesn't exist. Can't happen with computer version. Designed to catch
+dice cheats.
+66404: They don't think it's funny.
+66584: You pay the 30 credits for the info.
+66612: You would rather threaten him for the information.
+66648: You ignore him and walk away.
+66906: tep behind me and go through the door."
+
+Behind the man is a reinforced
+plasteel blast door. The centre of it has been buckled toward you in a manner
+you only saw once before when you were field testing the rocket assist plasma
+slingshot (you found it easily portable but prone to misfire). Luckily it isn't
+buckled too far for you to make out the warning sign. WARNING!! Don't open this
+door or the same thing will happen to you. Opening this door is a capital
+offense. Do not do it. Not at all. This is not a joke.
+67272: You use your Precognition mutant power on opening the door.
+67316: You just go through the door anyway.
+67344: You decide it's too dangerous and walk away.
+67780: You pay the 30 credits.
+67820: Finally it's your big chance to prove that you're as good a
+troubleshooter as your previous clone. You walk briskly to mission briefing and
+pick up your previous clone's personal effects and notepad. After reviewing the
+notes you know what has to be done. You catch the purple line to Goods
+Distribution Hall 7-beta and begin to search for the blast door.
+68068: You release the megabolts on the blast door, then strain against it with
+your awesome strength. Slowly the door creaks open. You bravely leap through
+the opening and smack your head into the barrel of a 300 mm 'ultra shock' class
+plasma cannon. It's dark in the barrel now, but just before your head got stuck
+you can remember seeing a group of technicians anxiously watch you leap into
+the room.
+68344: You have found a sealed envelope on the body. You open it and
+read:
+
+"WARNING: Ultraviolet Clearance ONLY. DO NOT READ. Memo from
+Chico-U-MRX4 to Harpo-U-MRX5. The planned takeover of the Troubleshooter
+Training Course goes well, Comrade. Once we have trained the unwitting
+bourgeois troubleshooters to work as communist dupes, the overthrow of Alpha
+Complex will be unstoppable. My survey of the complex has convinced me that no
+one suspects a thing; soon it will be too late for them to oppose the
+revolution. The only thing that could possibly impede the people's revolution
+would be someone alerting The Computer to our plans (for instance, some
+enterprising Troubleshooter could tell The Computer that the communists have
+liberated the Troubleshooter Training Course and plan to use it as a jumping
+off point from which to undermine the stability of all Alpha Complex), but as
+we both know, the capitalistic Troubleshooters would never serve the interests
+of the proletariat above their own bourgeois desires. P.S. I'm doing some
+Christmas shopping later today. Would you like me to pick you up
+something?"
+
+When you put down the memo you are overcome by that strange
+deja-vu again. You see yourself talking privately with The Computer. You are
+telling it all about the communists' plan, and then the scene shifts and you
+see yourself showered with awards for foiling the insidious communist plot to
+take over the complex.
+69372: You rush off to the nearest computer terminal to expose the commies.
+69420: You wander off to look for more evidence.
+69450: "Oh master," you hear through the gun barrel, "where have you been? It
+is time for the great Christmas gifting ceremony. You had better hurry and get
+the costume on or the trainee may begin to suspect." For the second time today
+you are forced to wear attire not of your own choosing. They zip the suit to
+your chin just as you hear gunfire erupt behind you. "Oh no! Who left the door
+open? The commies will get in. Quick, fire the laser cannon or we're all
+doomed."
+
+"Too late you capitalist swine, the people's revolutionary strike
+force claims this cannon for the proletariat's valiant struggle against
+oppression. Take that, you running dog imperialist lackey." ZAP, KAPOW."
+
+Just
+when you think that things couldn't get worse, "Aha, look what we have here,
+the Master Retailer himself with his head caught in his own cannon. His death
+will serve as a symbol of freedom for all Alpha Complex. Fire the cannon."
+70112: "Congratulations, troubleshooter, you have successfully found the lair
+of the Master Retailer and completed the Troubleshooter Training Course test
+mission," a muffled voice tells you through the barrel. "Once we dislodge your
+head from the barrel of the 'Ultra Shock' plasma cannon you can begin with the
+training seminars, the first of which will concern the 100% accurate
+identification and elimination of unregistered mutants. If you have any
+objections please voice them now."
+70452: You appreciate his courtesy and voice an objection.
+70488: After your head is removed from the cannon, you register as a mutant.
+70536: After your head is removed from the cannon, you go to the unregistered
+mutant identification and elimination seminar.
+70994: He shows you into a vast lecture hall filled with empty seats. There is
+only one other student here, a Troubleshooter near the front row playing with
+his Action Troubleshooter(tm) figure. "Find a seat and I will begin," says the
+instructor.
+71168: , head of mutant propaganda here at the training course. If you have any
+questions about mutants please come to me. Today I will be talking about mutant
+detection. Detecting mutants is very easy. One simply watches for certain tell
+tale signs, such as the green scaly skin, the third arm growing from the
+forehead, or other similar disfigurements so common with their kind. There are,
+however, a few rare specimens that show no outward sign of their treason. This
+has been a significant problem, so our researchers have been working on a
+solution. I would like a volunteer to test this device," he says, holding up a
+ray gun looking thing. "It is a mutant detection ray. This little button
+detects for mutants, and this big button stuns them once they are discovered.
+Who would like to volunteer for a test?" The Troubleshooter down the front
+squirms deeper into his chair.
+71776: You volunteer for the test.
+71796: You duck behind a chair and hope the instructor doesn't notice you.
+72096: grasping the opportunity to prove your worth to The Computer, you fire
+the mutant detection ray at the Troubleshooter. A brilliant purple nimbus
+instantly surrounds his body. You slip your finger to the large stun button and
+he falls writhing to the floor. "Good shot," says the instructor as you hand
+him the mutant detection gun, "I'll see that you get a commendation for this.
+It seems you have the hang of mutant detection and elimination. You can go on
+to the secret society infiltration class. I'll see that the little mutie gets
+packaged for tomorrow's mutant dissection class."
+72504: You breathe a sigh of relief as Plato-B-PHI picks on the other
+Troubleshooter. "You down here in the front," says the instructor pointing at
+the other Troubleshooter, "you'll make a good volunteer. Please step forward."
+The Troubleshooter looks around with a `who me?' expression on his face, but
+since he is the only one visible in the audience he figures his number is up.
+He walks down to the podium clutching his Action Troubleshooter(tm) doll before
+him like a weapon. "Here," says Plato-B-PHI, "take the mutant detection ray and
+point it at the audience. If there are any mutants out there we'll know soon
+enough." Suddenly your skin prickles with static electricity as a bright purple
+nimbus surrounds your body. "Ha Ha, got one," says the instructor. "Stun him
+before he gets away."
+73076: His shot hits you. You feel numb all over.
+73110: You just blew his head off. His lifeless hand drops the mutant detector
+ray.
+73168: You burnt a hole in the podium. He sights the mutant detector ray on
+you.
+73224: You stumble down the hallway of the Troubleshooter Training Course
+looking for your next class. Up ahead you see one of the instructors waving to
+you. When you get there he shakes your hand and says, "I am Jung-I-PSY. Welcome
+to the secret society infiltration seminar. I hope you..." You don't catch the
+rest of his greeting because you're paying too much attention to his handshake;
+it is the strangest thing that has ever been done to your hand, sort of how it
+would feel if you put a neuro whip in a high energy palm massage unit. It
+doesn't take you long to learn what he is up to; you feel him briefly shake
+your hand with the secret Illuminati handshake.
+73692: You respond with the proper Illuminati code phrase, "Ewige Blumenkraft".
+73748: You ignore this secret society contact.
+73858: He turns to the large class already seated in the auditorium and says,
+"You see, class, by simply using the correct hand shake you can identify the
+member of any secret society. Please keep your weapons trained on him while I
+call a guard.
+74028: You run for it.
+74040: You wait for the guard.
+74060: You sit through a long lecture on how to recognise and infiltrate secret
+societies, with an emphasis on mimicking secret handshakes. The basic theory,
+which you realise to be sound from your Iluminati training, is that with the
+proper handshake you can pass unnoticed in any secret society gathering. What's
+more, the proper handshake will open doors faster than an 'ultra shock' plasma
+cannon. You are certain that with the information you learn here you will
+easily be promoted to the next level of your Illuminati secret society. The
+lecture continues for three hours, during which you have the opportunity to
+practice many different handshakes. Afterwards everyone is directed to attend
+the graduation ceremony. Before you must go you have a little time to talk to
+The Computer about, you know, certain topics.
+74624: You go looking for a computer terminal.
+74652: You go to the graduation ceremony immediately.
+74684: You walk down to a semi-secluded part of the training course complex and
+activate a computer terminal. "AT YOUR SERVICE" reads the computer screen.
+74796: You register yourself as a mutant.
+74820: You change your mind and go to the graduation ceremony.
+74860: You want to chat about the commies.
+75460: It is not in the interest of your continued survival to be asking about
+such topics," says The Computer.
+75536: You insist on talking about the communists.
+75568: You change the subject.
+75586: The Computer orders the entire Vulture squadron to terminate the
+Troubleshooter Training Course. Unfortunately you too are terminated for
+possessing classified information.
+
+Don't act so innocent, we both know that
+you are an Illuminatus which is in itself an act of treason.
+
+Don't look to me
+for sympathy.
+75808: The tubecar shoots forward as you enter, slamming you back into a pile
+of garbage. The front end rotates upward and you, the garbage and the garbage
+disposal car shoot straight up out of Alpha Complex. One of the last things you
+see is a small blue sphere slowly dwindling behind you. After you fail to
+report in, you will be assumed dead.
+76044: The instructor drags your inert body into a specimen detainment cage.
+"He'll make a good subject for tomorrow's mutant dissection class," you hear.
+76148: You put down the other Troubleshooter, and then wisely decide to drill a
+few holes in the instructor as well; the only good witness is a dead witness.
+You continue with the training course.
+76280: You run for it, but you don't run far. Three hundred strange and exotic
+weapons turn you into a freeze dried cloud of soot.
+76368: You wisely wait until the instructor returns with a Blue Internal
+Security guard. The guard leads you to an Internal Security self incrimination
+station.
+76476: You tell The Computer about:
+76498: The commies who have infiltrated the Troubleshooter Training Course and
+the
+      impending People's Revolution.
+76584: Something less dangerous.
+76604: "Do not try to change the subject, Troubleshooter," says The Computer.
+"It is a serious crime to ask about the communists. You will be terminated
+immediately. Thank you for your inquiry. The Computer is your friend." Steel
+bars drop to your left and right, trapping you here in the hallway. A spotlight
+beams from the computer console to brilliantly illuminate you while the speaker
+above your head rapidly repeats "Traitor, Traitor, Traitor." It doesn't take
+long for a few guards to notice your predicament and come to finish you off.
+77620: Then the instructor begins reading the names of the students who one by
+one walk to the front of the auditorium and receive their diplomas. Soon it is
+your turn, "Philo-R-DMD, graduating a master of mutant identification and
+secret society infiltration." You walk up and receive your diploma from
+Plato-B-PHI-
+77844: , then return to your seat. There is another speech after the diplomas
+are handed out, but it is cut short by by rapid fire laser bursts from the high
+spirited graduating class. You are free to return to your barracks to wait,
+trained and fully qualified, for your next mission. You also get that cherished
+promotion from the Illuminati secret society. In a week you receive a detailed
+Training Course bill totalling 1,523 credits.
+78148: That familiar strange feeling of deja-vu envelops you again. It is hard
+to say, but whatever is on the other side of the door does not seem to be
+intended for you.
+78264: You open the door and step through.
+78292: You go looking for more information.
+78320: In the centre of the room is a table and a single chair. There is an
+Orange folder on the table top, but you can't make out the lettering on it.
+78424: You sit down and read the folder.
+78448: You leave the room.
+

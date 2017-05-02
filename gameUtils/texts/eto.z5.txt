@@ -1,0 +1,600 @@
+13825: Nothing to do!
+13860: o. You have won
+13943: It is now pitch dark in here!
+13970: Pardon?
+14026: Sorry, that can't be corrected.
+14055: Think nothing of it.
+14126: You can hardly repeat that.
+14151: You can't begin with a comma.
+14265: I didn't understand that number.
+14312: You aren't holding that!
+14353: I'm not sure what "
+14405: That's not a verb I recognise.
+14443: You can't see "
+14550: Nothing to do!
+14567: There are none at all available!
+15471: Please answer yes or no.
+15497: Are you sure you want to quit?
+15542: Failed.
+15561: Restore failed.
+15578: Ok.
+15595: Save failed.
+15610: Ok.
+15654: Transcripting is already on.
+15720: Transcripting is already off.
+15778: Score notification on.
+15799: Score notification off.
+15822: You have visited:
+15850: Objects you have handled:
+15875: None.
+16259: You are carrying nothing.
+16308: Taken.
+16319: Nice try.
+16830: Dropped.
+16936: Removed.
+17073: You lack the dexterity.
+17154: Done.
+17418: Done.
+17637: Wrahn seem interested.
+18267: You can't go that way.
+18820: But it's dark.
+18837: You find nothing of interest.
+18873: But it's dark.
+18963: You find nothing of interest.
+20082: . Not bad.
+20100: That was a rhetorical question.
+20154: That seems unnecessary.
+20177: Keep your mind on the game.
+20202: What a good idea.
+20221: You smell nothing unexpected.
+20248: You hear nothing unexpected.
+20273: You taste nothing unexpected.
+20308: Keep your hands to yourself!
+20333: You feel nothing unexpected.
+20358: If you think that'll help.
+20466: Oh, don't apologise.
+20487: Oh my.
+20498: Quite.
+20567: You achieve nothing by this.
+20654: You wave, feeling foolish.
+20803: You are unable to.
+20822: Nothing obvious happens.
+20872: That's not a direction.
+20895: Not that way you can't.
+20926: Keep your hands to yourself.
+20951: You achieve nothing by this.
+21010: You talk to yourself a while.
+21037: This provokes no reaction.
+21065: There is no reply.
+21123: Take your time.
+45054: Silence.
+45211: You might be eaten by a grue.
+45238: Or not. You know. Who knows.
+45503: "Nice lookin' gal."
+45550: "I'd rather not, Stevenson."
+45630: She doesn't respond.
+45651: She doesn't respond.
+45672: She doesn't respond.
+45711: She doesn't respond.
+45750: "She doesn't respond."
+45775: "She doesn't respond."
+45794: "She doesn't respond."
+45934: "A misconception, William."
+46018: He doesn't respond.
+46039: He doesn't seem to care.
+46071: No thanks.
+46093: He doesn't seem to care.
+46116: He doesn't seem to care.
+46153: He doesn't respond.
+46182: The cockpit slides open.
+46717: "Nice lookin' gal."
+46835: "Nice lookin' gal."
+49139: in" or "notin
+49155: opmhas" or "hasnt
+49297: }" at end of "objectloop
+50796: Score:
+50804: Moves:
+50812: Time:
+50820: You can't go that way.
+51152: Please give one of the answers above.
+51180: [You can't "undo" what hasn't been done!]
+51216: [Can't "undo" twice in succession. Sorry!]
+51256: "Oops" can only correct a single word.
+51284: It is pitch dark, and you can't see a thing.
+51316: Sgt. Willie Stevenson, ball turret gunner aboard the B-17 Short Stuff.
+51372: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+51432: You seem to want to talk to someone, but I can't see whom.
+51476: To talk to someone, try "someone, hello" or some such.
+51516: I didn't understand that sentence.
+51576: That thing is either not in the area, or does not need to be referred
+to.
+51628: You seem to have said too little!
+51652: You can't use multiple objects with that verb.
+51688: You can only use multiple objects once on a line.
+51724: You excepted something not included anyway!
+51756: You can only do that to something animate.
+51788: That's not something you need to refer to in the course of this game.
+51836: I didn't understand the way that finished.
+51868: Sorry, you can only have one item here. Which exactly?
+52020: Are you sure you want to restart?
+52044: The game file has verified as intact.
+52072: The game file did not verify as intact, and may be corrupt.
+52116: Attempt to begin transcript failed.
+52144: Attempt to end transcript failed.
+52168: You're carrying too many things already.
+52200: You can't put something on top of itself.
+52232: You can't put something inside itself.
+52260: That would scarcely empty anything.
+52316: You can only get into something free-standing.
+52352: But you aren't in anything at the moment.
+52384: You'll have to say which compass direction to go in.
+52424: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+52520: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+52604: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+52780: As much as you enjoy it, fire isn't the answer.
+52816: "Jesus, Allah, Buddha-- I love you all!" You say.
+52860: The dreadful truth is, this is not a dream.
+52892: Digging would achieve nothing here.
+52920: There's your exercise for the day.
+52948: You would achieve nothing by this.
+52972: There's nothing suitable to drink here.
+53000: But there's no water here to carry.
+53028: You briefly feel rage... but you choose not to act on it.
+53072: There's not enough water to swim in.
+53100: There's nothing sensible to swing here.
+53128: That would be less than courteous.
+53152: Is that the best you can think of?
+53176: "Wow, that's a good stress reliever," you think.
+53216: You lack the nerve when it comes to the crucial moment.
+53256: So tell me, where exactly can you find someone to buy things from?
+53304: I don't think much is to be achieved by that.
+53336: You aren't feeling especially drowsy.
+53422: "The view, oh God, the view... why the hell would I enlist to the 8th if
+I knew this was going to be my position," you think.
+
+Jimmy pops on over the
+intercom system. "How you handling it down there, Willie?" And there's that
+raucous laugh of Jim's. You grab your throat mic and say, "Not well, Jim, but
+I'd like to see you come here and try this. You'll probably shit your
+pants."
+
+You hear Tom, your top gunner/engineer, laugh. Sigh... here we go
+again.
+53776: This is a small, cramped circular space where the ball turret gunners
+are located. It can't be more than a meter squared in size, considering the
+space that the gun and ammo clips take up. It's complemented with a view of the
+ground (which just happens to be five miles down).
+53968: You can't leave your post now!
+53992: Ugh. It's an unpleasant mixture of smoke, gasoline and -20 degree
+Celsius air. Not fun to breathe.
+54068: The mechanical whirr of engines as well as the constant radio chatter of
+your crewmates.
+54128: "Jesus, I could really go for a drink. Or a smoke. Or both." Rob says,
+nonchalantly. "Or a nap."
+54206: "How about all of the above?" Jimmy says, and laughs.
+54250: "Hey, gentlemen, how about keeping our eyes out for Krauts? We're just
+finally getting over the Channel now."
+54334: "Always the goody-goody, eh Kevin? You belong with the Mama's Boys next
+door."
+54398: You hear Jimmy laugh. "The lame jokes just aren't stopping," you think.
+54456: "Bandits! At 3 o'clock!" Tom says, panicked. "And 9 o'clock! It's a
+trap!"
+54520: "They're closing in," Tom says, "gotta be about 2000 metres now."
+54574: "1000 meters," Tom says. Your heart pounds inside your chest.
+54626: "They're opening fire!" That slow motion effect that some of the
+sergeants talked about-- you experience it and while doing so you madly start
+firing in the general direction of a FW-190.
+54764: A scream from the left waist. The right waist gunner, Steve, reports in.
+"Jimmy's hit.. bad! Get the bombardier down here now!"
+54862: It's too late. Another FW-190 swoops down and empties its' clip on your
+tail. Amidst the deafening noise, you hear a variety of things; engines 1 and 3
+on fire, fuel leaking at exponential rate, and a report on Jimmy's critical
+injuries. You ignore it just as your guns jam and an FW-190 turns for another
+pass...
+55100: The platform is comprised of two Browning 0.50 calibre machine guns,
+which are uncomfortably jammed in an already tight area. The guns extend about
+half-a-metre outside the shell of the ball turret.
+55240: You grasp the gun trigger. You're pulsing with anticipation.
+55284: You fire randomly into the air, hitting nothing.
+55318: You can't help but feel pleased at the power you wield.
+55360: The bullets, which are huge 0.50 calibre bullets, are currently being
+fed into the guns. They're a mixture of armor-piercing and incendiary bullets.
+55468: You can't bear to look down. It's just too damned freaky.
+55512: You can't bear to think of them. Even the slightest thought elicits
+fear.
+55564: This is a small cleared area which was created due to the crash landing
+of the plane in front of you. Trees which once stood proudly are now scattered
+askew. Surrounding you is a dense forest which seems to stretch on for miles
+from where your aircraft now lies, except to the north, where your plummeting
+plane managed to leave a path.
+55796: A dense grove of trees prevents your passage.
+55828: You can't fly without an airplane, I'm afraid.
+55864: I'm afraid you can't do that, Will.
+55892: You wander the forest for a little while before realising its' futility.
+55944: You can't see anything!
+55962: You can't hear anything, smell anything, see anything, taste anything or
+touch anything, and you have no idea who you are or how you got there.
+56066: Oh, wait. You can hear. "Wake up, mate." It's Tom. "Come on, get up."
+56128: Tom stands here, sorrow strewn on his battered face.
+56168: Staff Sgt. Tom Wilkinson, top turret and engineer aboard the Short
+Stuff. This is his second tour of duty in the 8th, and usually he's a
+battle-hardened veteran, but now he seems different-- almost weaker in a way.
+56324: He doesn't respond. Clearly he's somewhere else.
+56360: "Such a beautiful plane... I'm really gonna miss her."
+56404: "What the fuck?! You don't even have a goddamn scratch on you, when all
+the rest of them," Jimmy points to the plane, "all of them were fucked by those
+goddamn Nazis!"
+56528: "You and me... we're just fine! But then, you find people like Rob..
+burned to high hell.." He pauses, and won't continue.
+56624: "If I ever find the bastard who shot down the Short Stuff..." He looks
+away.
+56684: All he does is look away in sadness.
+56712: "I found him in the plane," Tom says, "and Christ, he was mutilated. But
+why did he burn up and we didn't? I just don't get it."
+56812: "Well, I'm no navigator, but I think we were over France just at the
+time of the attack. No idea where, though."
+56896: "Sorry, Will, I can't give you an answer."
+56932: "Listen, Will, I really don't care right now."
+56972: "Jesus, Will, what the hell is up with you?"
+57008: "Uhh, you just go on ahead, I'll hold down the fort here."
+57094: ever created (at least in your opinion). She certainly doesn't look like
+she did the day she was commisioned, that's for sure. Bullet holes, small
+smouldering fires, you name it, you can find it on the wreckage.
+57244: Thanks to your wilderness training, you correctly identify the trees as
+white aspen poplars. They're scorched, scattered and broken around where you
+stand.
+57352: Tom lies dead here, with a gunshot wound to the head.
+57392: A surprised expression now permanently grips Tom's face as he lies here.
+Blood is caked over both his face and his clothes. Poor guy.
+57488: You would never point a gun at Tom!
+57514: "What the fuck!? Tom!!" As you gaze upon Tom's dead form, you can't help
+but think of one ominous possibility:
+
+"Nazis..."
+
+As you utter the words, you
+suddenly notice it-- a cleared path to the south..
+57676: It's a picture of your sweetheart, Susanne. God, how you miss her.
+57728: Your falling plane managed to clear a path to this dirt road, with its'
+own distinct rustic style. Clear skies above lead you to see a farmhouse to the
+west while the road continues to the north. A sign on the side of the road
+directs you to the nearest town, while to the south the forest looms, ever so
+ominous.
+57944: You can't fly without an airplane, I'm afraid.
+57980: I'm afraid you can't do that, Will.
+58008: The road hits you with a wave of nostalgia-- it reminds you of the old
+road leading to the old farmhouse where you lived.
+58116: It's true what they say-- the French countryside truly is beautiful.
+58168: French architecture at its' finest. You can't get more traditional then
+this, and it shows-- all the original staples of farm life are here: a well, an
+original barn--it's all here. The path continues west into the house, and back
+to the road to the east.
+58352: You can't fly without an airplane, I'm afraid.
+58388: I'm afraid you can't do that, Will.
+58416: Despite being in mint condition, this well looks like it hasn't been
+used in years.
+58476: Once again, it's in impeccable condition, but looks as if no one as
+entered it in years. It seems like that's the way it was meant to be-- the
+doors are boarded up with wooden planks.
+58608: Truly beautiful. Also, it looks familiar somehow.
+58644: "What the hell?! Susanne!!" you blurt out.
+
+There she stands, but she's
+not moving. It doesn't appear that she's dead... more like she's
+frozen.
+
+"Susanne! Baby! Wake up!" But she doesn't move.
+58804: You don't know how, but this is EXACTLY the same as your house at home..
+every picture, every piece of furniture-- down to the last detail. Upstairs, if
+the layout continues, should lead to your room. You can leave the house to the
+east.
+58980: I'm afraid you can't do that, Will.
+59076: Comfortable furniture that was used every time you entertained guests.
+59124: Susanne stands here, frozen in time.
+59152: You sigh. "So beautiful," you say.
+59180: You may be comforted by the action, but she isn't.
+59216: You're one sick person, you know that?
+59474: to.."
+
+"W--What? Susie, what are you talking about? Susie?" You blink.
+Then, like something out of a science-fiction movie, Susanne disappears into
+thin air. You stand, gaping, not able to comprehend what has just happened..
+59644: Your suspicions are confirmed-- this is your room, exactly as you
+remember it. Your bed lies adjacent to the west wall, next to your bedside
+table. In the corner is a cardboard box containing your most prized
+possessions. A stairwell leads back down to the front door.
+59832: You can't fly without an airplane, I'm afraid.
+59868: You never liked this bed. It was always so uncomfortable.
+59912: A quaint little table that's served you well.
+59944: An ordinary cardboard box.
+59980: pistol issued by the USAAC. It currently has a full clip.
+60024: The letter is written in scribbly writing, and it's addressed to
+Susanne:
+
+"Well, you asked for it, didn't you? This letter was written as I sit
+inside the B-17, just like you asked. Excuse the messy writing-- it's not
+exactly the easiest task. You've always said how much you wanted to see the
+view from an airplane, but you'd hate this. It's terrible. Every second I look
+down I'm faced with a view of not only the ground, but our vulnerability--and,
+dare I say-- my mortality. I want to get out of this place. Not just the 8th,
+but the whole fucking country-- there's no place I'd rather be then with you,
+and right now I can't bear to even be witho"
+
+Funny.. you don't remember ever
+sending this letter.
+60540: Usually, the entrance to a town is warm and inviting. In the case of St.
+Etienne, it's cold, depressing and foreboding, simply because of a huge iron
+gate to the north that blocks the entrance to the city. Behind you is the rural
+road that brought you to the town.
+60728: You can't fly without an airplane, I'm afraid.
+60764: I'm afraid you can't do that, Will.
+60792: Clearly the town was frightened of Nazi invasion, and erected this gate
+to prevent it. There's no way to see whether the Nazis were successful, but
+it's likely that they were; every part of the door is rusted. Yet, still, the
+door is locked.
+60964: The bullets ricochet off in a random direction.
+61000: You can't find a way to open it. Clearly it was designed to only be
+opened from the inside.
+61064: The grenade twirls through the air before landing in the dirt just in
+front of the door. The cataclysmic explosion that results temporarily deafens
+and blinds you, but the result is promising-- the door has colapsed, allowing
+you passage to the north.
+61240: Usually, the entrance to a town is warm and inviting. In the case of St.
+Etienne, it's cold, depressing and foreboding, simply because of a huge iron
+gate that now lies motionless in the entryway. The town now beckons to the
+north. Behind you is the rural road that brought you to the town.
+61444: Empty. Completely empty. From the bakery to the church, everything
+within St. Etienne has been abandoned. It hasn't been razed-- there are no
+bullet holes or shrapnel-- it's as if the town just got up and left. The town
+entrance is back down to the south.
+61628: Jimmy says, "Stay a while, why don't you?" You feel compelled not to
+leave.
+61688: You can't fly without an airplane, I'm afraid.
+61724: I'm afraid you can't do that, Will.
+61752: "Jimmy?! But you died!" you say.
+61780: "Rob. The bombardier aboard the Short Stuff. With one press of the
+trigger, he manages to kill hundreds--even thousands of innocent civilians just
+for what we think is right. But what is "right", Will?
+61928: "Jim, think about what you're saying.. you're talking like a fucking
+Nazi!"
+61986: Jim laughs. "I'm not on either side, Will. I'm on the side that's
+'right'." Further laughter. "And you know what I think is 'right'? Blowing up
+this whole fucking town!" You suddenly notice that the town isn't abandoned--
+all the people are boarded up inside their homes!
+62192: "Now you're faced with a choice, William! Do what you think is right and
+kill me, your old buddy Jim to save the lives of people you don't know? Or
+allow me to blow up this town and save me just because we're good buddies?
+Well, what'll it be?" He pauses. "Nah. I'm just gonna blow up the town
+meself."
+
+"No!" you scream.
+62432: But he activates the detonator, and the town erupts in flame and smoke
+and ash; you look around and see people screaming to escape, moaning in agony
+and Jimmy, laughing as it all explodes around him. You feel an anger you
+haven't felt in a long, long while... you raise your gun and--
+
+and then
+something happens. The town-- no, the whole landscape as you can see it--
+begins to fizzle, fade and disappear; you think you can see something,
+something like a laboratory. You look down, thinking something's wrong with
+you, but it's not just you-- Jimmy looks as shocked as you are. All of a sudden
+he begins to fizzle, fade and disappear. "N--No!" is all he can manage to say.
+Soon he is gone, and then you can hear voices.
+
+"said this would never happen"
+and "overload in computer processors one through eight" and "too much
+information being processed", whatever those words mean. The people inside the
+buildings, they can hear the voices too-- and as they escape from their burning
+buildings they manage to look to the now disappearing skies and say "It is a
+miracle!!" in what little French you can understand. "God has come to save us!"
+And the people rejoice, but you know that this-- whatever this is-- can't be
+God.. No.. it's something different. And then you begin to fizzle, fade and
+disappear...
+63372: Jimmy stands in the middle of the street, staring at you slowly and
+resolutely.
+63428: He looks different somehow-- besides the fact that he's caked in blood,
+his normally fun-loving profile has been replaced with a cold, calculating
+exterior.
+63540: There's one familiar thing about Jim-- that raucous laugh, mocking you
+with every sound.
+63604: You can't attack Jim-- this is your buddy we're talking about!
+63652: "I don't take orders from you, Stevenson. Not any more."
+63696: He doesn't respond, nor does he seem to care.
+63732: It's boarded up completely, and there's no evidence of any products in
+the window.
+63792: Completely dilapidated, just like the barn-- looks like no one's been in
+it for years.
+63856: Silent, except for Jimmy and you.
+63884: The forest, which was so dense as to be deemed impenetrable, is now
+cleared out. The remainder of the trees that once existed here now bask in the
+bright glow of the sun, having only been alluminated by miniscule shafts of
+sunlight. The path continues to the south, and the smouldering wreckage of your
+plane can be seen to the north.
+64116: You can't fly without an airplane, I'm afraid.
+64152: I'm afraid you can't do that, Will.
+64180: A dense grove of trees prevents your passage.
+64212: The white aspen poplars glisten in the sunlight.
+64248: The path continues through this dense forest. If not for the cleared
+path you now stand on, you'd be hopelessly lost in this forest which likely
+dates back hundreds of years.
+64368: You can't fly without an airplane, I'm afraid.
+64404: I'm afraid you can't do that, Will.
+64432: A dense grove of trees prevents your passage.
+64464: The white aspen poplars glisten in the sunlight.
+64564: You're relieved to know that the boys up there bagged at least one
+Kraut. The FW-190, definitely the Luftwaffe's best plane, now lies wrecked
+beyond repair. A smile crosses your face as you gaze upon it.
+64712: You can't fly without an airplane, I'm afraid.
+64748: I'm afraid you can't do that, Will.
+64776: A dense grove of trees prevents your passage.
+64808: A Nazi pilot lies here, slumped up against his fallen plane. He has one
+gunshot to the head.
+64876: You grin as you look at his bloodied corpse.
+64908: The white aspen poplars glisten in the sunlight.
+64944: Whoever downed this plane did a hell of a job-- the entire tail of the
+plane is completely shot to hell, yet the front end is relatively intact,
+including the cockpit.
+65060: This grenade, colourfully known as a potato masher, pack much more of a
+destructive force than the usual "pineapple" grenades you're used to. Luckily
+it didn't explode when the FW-190 went down.
+65200: "Can you at least restore him?"
+
+"Yeah, I think I can."
+65248: A plain, ordinary white room, except for the numerous metal boxes (which
+are making ungodly noises) and what looks like glass windows, except there are
+words on them all. Wherever you've gone, it's a strange, strange place.
+65406: "W--Where the hell am I? What the fuck is going on?"
+
+A man wearing a
+white labcoat and glasses comes over to you. "Whoa, sir, calm down there.
+There's a perfectly good explanation for all this."
+
+"There damn well better
+be," you say.
+65706: lation)."
+
+"What? No! I'm exactly who I think I am. Wille Stevenson...
+right?"
+65774: "No.. you're an ETO. We created you--"
+
+"Created? No! This is all
+bullshit! Utter bullshit!"
+65856: The second one turns to the first one. "This was a terrible idea. He's
+not taking it well. Let me take him offline." The first one says, "No. Let me
+keep going with this." Turning to you again, he continues. "You can call me
+Frank, and he's Graham. We're extremely close to figuring out the mysteries of
+the human brain-- a major breakthrough in medical science. We're so close!" You
+look down. This can't be, you think.
+66168: "But, since that new law was introduced in Congress, we're not allowed
+to do any experiments on living subjects. Not even ones like cardiovascular
+response. So, we did the next best thing-- created extrapolations that we can
+experiment on in any manner. It gets around every law they can throw at us--
+and all for the benefit of science."
+66408: The second one looks at you. "Plus," he grins, "now we can create
+scenarios and occurences we'd never be able to do with normal subjects. Such as
+your World War II scenario." The first one continues. "Exactly. Everything you
+experienced since your plane crashed--Tom's death, the pilot's death, the
+seemingly impossible reincarnation of Jimmy-- all designed so we could monitor
+your cardiovascular response, neurological response, plus your reactions to the
+events we set up with you (such as fear, anger, hatred, and so forth)."
+66826: No. This is some Nazi plot, isn't it? Let me out of here! Let me go, you
+fucking bastards!"
+66896: "I'm telling you! We're not Nazis. Here, maybe it'll make some more
+sense if you ask me a few things about your life, your experiences-- anything.
+Go ahead and ask. Anything at all."
+67032: They're making weird noises, and the balding man is looking at one. Best
+not to touch them, especially when you don't know what you're doing.
+67132: I told you NOT to touch them, stupid!
+67164: A short man with a nametag that simply says "Frank" on it stands before
+you.
+67220: He's a short man who is currently wearing a labcoat. He seems nervous
+and stressed as he stands, and is constantly cleaning his glasses.
+67316: Frank turns to Graham and says, "Must be World War II fighter talk."
+Graham nods.
+67380: "Oh, that was just some town we found in an old history book. Not worth
+making a fuss over."
+67448: "Why'd we pick the World War II scenario? I don't know," he responds,
+"Lots of hate between the two sides, I suppose."
+67540: "You mean-- everything I've experienced didn't really happen? My
+childhood?"
+
+"Essentially, yes. We speeded up that process. You experienced it.
+We didn't."
+67664: "Those are computers. I.. don't suppose you know what that is." You just
+continue to look puzzled, and then Frank finishes: "Yup, I thought so."
+67776: "Oh, I'm just a psychological analyst working on this project. Graham's
+the man who puts the ETO program together."
+67864: "Sorry, sir, I don't have any idea what you're talking about."
+67912: "Uhh..." He looks over to Graham. "Do YOU have any idea what he's
+talking about?"
+67980: "Uhh, I'd rather stay here, thank you."
+68012: A balding man also sits in front of a glass window, reading it.
+68056: He seems very interested in what's showing up on the glass screen.
+68104: Graham turns to Frank and says, "Must be World War II fighter talk."
+Frank nods.
+68168: "Uhh, you better ask Frank; he's our psychological analyst, I'm just the
+hardware guy."
+68236: "Uhh..." He looks over to Frank. "Do YOU have any idea what he's talking
+about?"
+68304: "Uhh, I'd rather stay here, thank you."
+68506: --"
+
+He's interuppted by flaring red klaxons and a loud voice over the
+loudspeaker: "Security breach! Security breach! Dr. Kenny and Dr. Nichol, to
+the front office please!" Frank and Graham run out in a hurry, and as the door
+opens you can see Susanne in an adjacent room! You run out and meet her, giving
+her a loving embrace. "Susanne? But how?!" She quickly shushes you and says
+quietly, "Come on. I'll explain while we get out of here."  Spotting a back
+exit, you two make your escape...
+69288: 7 again."
+
+You grin and respond, "Just tell me what I need to do,
+Doc!"
+
+
+
+
+"When I meant anything, I didn't mean THIS!" you grumble as you
+continue to mop the floor outside of Frank's office.
+70034: "What the hell? Did you program it to do that?" The man looks over to
+his co-worker, who shakes his head. "But take a look at this code!" Thinking
+he's talking to you, you step over to one of the weird sounding machines. What
+shows up on the screen looks something like this:
+70468: As soon as you read it, you realise-- "Oh SHI--"
+70512: "What the fuck was up with Jimmy? Why'd he do what he did?" you
+say.
+
+"Oh, that was used to measure how much information your system could
+take, no matter how impossible it could be. Same with Susanne..."
+
+"Can you
+restore Jimmy?" you say to Graham. "I.. think so. Gimme a sec." He types for a
+while, and then Jimmy appears in front of you.
+
+It's the old Jimmy you
+remember. "Willie! Buddy! How's it going, big guy?" You stare him down coldly,
+then punch him in the face. He's more surprised then injured, and he throws you
+off him. "Will, what the fuck's gotten into you?" You aren't convinced. This is
+the same Jimmy that tried to blow up a French town, even if it was just an
+"extrapolation". You charge him and continue fighting. The noisy machines fall,
+equipment is shattered, but all Frank can do is take out a clipboard and start
+scribbling notes. "Fascinating!" he says.
+71166: "So tell me then," you say, "who killed Tom? And that pilot?"
+
+Both of
+the men look uneasy. "Well, uhh, well..." Frank stammers, "you see, the
+extrapolation program we built can't handle that many ETO's... so we couldn't..
+we couldn't.." Graham interrupts Frank. "Just show him the footage." Frank nods
+slowly and ushers you over to one of the glass windows.
+
+There you see it all
+in perfect detail; Tom moping around the wreckage of the Short Stuff, Frank
+walking up slowly, a few words of conversation, Tom turns around, Frank raises
+a gun and blasts his brains out. In shock, you watch the camera angle to change
+to the wreckage of the Nazi plane. Graham walks up, a few words of German are
+spoken, and Graham blasts his brains out. You look up in rage. The hate you
+feel transcends all hate you've felt before. Previously, you despised Nazis and
+everything they stood for. But now both sides were dead-- victims of a cruel
+experiment.
+
+"Maybe we're all the same after all," you say to Frank and Graham.
+Then you grab Frank's throat, and continue to squeeze. He struggles to breathe,
+but you show him no remorse. Graham begins to call for security, but you drop
+Frank and start beating the hell out of both of them. Soon, they both lie in
+crumpled forms in front of you. Your heart races. You don't care what happens
+to you now. You feel redemption, and redemption is sweet.
+72174: "No! I don't believe you! You're Nazis!" you scream.
+
+Both men sigh.
+"Tell Mike I thought he did a bang-up job on the personality subroutines, but
+this one's too nationalistic." Frank turns to Graham. "Delete him." Graham
+nods.
+
+You stare down both men, slowly and resolutely. "Tell your Fuhrer I said
+hello," you scowl. Frank rolls his eyes, and Graham hits a button. Then all
+fades to black.
+

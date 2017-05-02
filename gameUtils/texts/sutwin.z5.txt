@@ -1,0 +1,280 @@
+8955: Please answer yes or no.
+8986: Are you sure you want to quit?
+9022: Are you sure you want to restart?
+9055: Failed.
+9074: Restore failed.
+9087: Ok.
+9101: Save failed.
+9112: Ok.
+9123: The game file has verified as intact.
+9150: The game file did not verify as intact, and may be corrupted (unless you
+are playing it with a very primitive interpreter which is unable properly to
+perform the test).
+9274: Transcripting is already on.
+9341: Transcripting is already off.
+9364: End of transcript.
+9433: Verbs such as "take", "drop", "open", and "examine" are not relevant in
+this work. They will not be understood. Instead, your part is to type the names
+of objects (or attributes or aspects of objects) that you see in the narrative.
+When you refer to an object, it will be brought into greater prominence,
+changing the course of the narrative thread. Or it might be reduced to lesser
+stature, or removed entirely. You'll have to experiment. Typing the same name
+second time may cancel the effect of the first time, or the effect may be
+cumulative. The order in which you type names may or may not be important.
+9975: The standard game-control commands do work as you'd expect:
+10022: UNDO: Undo the effects of your last move.
+10057: SAVE, RESTORE: Save and restore your position.
+10100: RESTART: Return to the initial position.
+10137: QUIT: End the session.
+10160: SCRIPT, UNSCRIPT: Turn transcripting on and off.
+10207: VERSION: Display the program title and version.
+10248: ABOUT: Display this information.
+10277: CREDITS: Display copyright, credits, and comments on how this work came
+to be.
+10354: eacxkxm is copyright 1997 by Andrew Plotkin. It may be copied,
+distributed, and played freely.
+10429: This work was created as part of an artistic endeavor invented by
+Kristin Looney. Around March 1997, she invited a bunch of people to do
+independent creative works -- any medium, any form, but all with the title
+10591: Around the same time, I had been turning over some ideas about
+non-traditional IF. Okay, I thought, let's do both. This is the result.
+10838: This work (despite its quirks) was created using the Inform adventure
+development system, which was created by Graham Nelson. You can get Inform, as
+well as other text adventures, from the Interactive Fiction archive:
+11464: fxm[You can't "undo" what hasn't been done!]
+11513: hhm[Your interpreter does not provide "undo".  Sorry!]
+11576: fxm[Can't "undo" twice in succession. Sorry!]
+12179: Currently, there is no "
+12329: Would you like to RESTART, RESTORE a saved game, UNDO your last turn, or
+QUIT?
+12478: gpm[Your interpreter does not provide "undo".  Sorry!]
+12591: Please give one of the answers above.
+13166: That part of the narrative cannot be changed right now.
+13386: whnopen, one pane laid back. As always, you strain to see what lies in
+the room below, and fail -- there is only tinted glass, and the darkness of the
+opening.
+13594: The window is open, one pane laid back. As always, you strain to see
+what lies
+13672: below, and fail. There is only tinted glass over darkness
+13846: . You are caught, suddenly, by your own eyes
+13893: uxm. You are caught, suddenly, by your own eyes
+14032: . Nothing could
+14189: .
+
+Not ever. You reach for the pane, and slam it shut.
+14232: The window shatters.
+14329: Only a reflection. You look up, suddenly, away from the dark glass.
+There is nothing of darkness above you; only blue air and the wind.
+14430: The window shatters.
+14705: . The table is set for two
+14788: . The cold shadow lifts a little
+14843: . An empty vase, white glass, stands beside a single lit candle
+14902: . A smile touches you; it feels like the first one in some time
+15026: . She climbs up
+15106: . She smiles, too, at the flowers
+15191: you can see little more than that. Candlelight
+15241: . Her eyes meet yours. They are cool, her eyes, and her lips
+15819: The window is open, so you climb down into dimness. The table is set
+15880: . An empty vase glows, white glass catching the light of a single candle
+15931: . The rest of the room shades into obscurity
+16029: . It seems appropriate; you lean forward to fill the white glass with
+living
+16254: . Hair gleams softly
+16293: : a woman. She glances around
+16346: . She sits
+16361: Hm.
+16425: . You do not know what sign there is to wait for
+16463: . Time slips past, and past, and away
+16504: . It looms in the dark, whatever it is. You can almost feel its shape
+16555: .
+
+Perhaps the woman can as well
+16591: ypm. She stirs restlessly. Hair brushes the table, falls back. The
+candleflame wavers. You take a breath
+16668: .
+
+What you await, arrives. The window shatters.
+16716: .
+
+There remains silence
+16749: . If you do not dare to break it, she does not care to, it seems
+16809: .
+
+And which is easier? You reach for a word in the dark. The window
+shatters.
+16887: .
+
+And which is more difficult? The silence flows on, unended.
+
+The
+window shatters.
+16979: Dhm.
+
+The shadows dance slowly in the candlelight
+17064: epm. The shadows seem to ripple and fold around you
+17107: Xm.
+17161: . You freeze; but the sound is not repeated
+17202: . You freeze. For a moment nothing; then it comes again
+17253: . You freeze. For a moment nothing; then it comes again. Another. Closer
+17316: opm. Then another, as you freeze in the shade. -- And another step, and
+another -- something is approaching
+17487: --
+
+You pull deeper into the shadows, and they draw you in, away from
+the room, away from everything, the fear. Something steps from the door far
+behind, but you are hurtling, receding into the dark.
+
+The window shatters.
+18175: grass. The stalks lean in the breeze, with colors flashing through --
+bright flowers grow here and there
+18262: . Red and blue, orange and white and secretive grey, all peering from
+behind the dusty green grass
+18346: . The wind is clean, though, clear of the cloying scents of the flowers
+below
+18414: . You rise to your feet, your mind pulled by the wind, pulled from the
+flowers and the space below the window, off towards the horizon....
+18527: You can only follow. Behind you, the window shatters.
+18575: . No distractions
+18602: Enough of that. Delay will make nothing easier
+18792: . The bright colors hurt your eyes
+18825: . The colors clash garishly, but the scents are an odd cool sweet note
+that leaves you slightly dizzy, uncertain what you see
+18920: . The scents intertwine, cool and invigorating
+18963: . The spicy tang of the snaps cuts through the cool blue scent, leaving
+you nearly gasping
+19034: . A faint sea-scent is heightened by sweetness into beauty
+19085: . The distant sea-smell curls elusively
+19122: . The spicy tang burns against the heavy salt odor, bringing sudden
+tears to your eyes
+19191: . The scents blend into rich sweetness
+19228: . The spicy sweetness seems suddenly familiar, as immediate as your
+first spring morning
+19297: o.. The thick spicy smells burst upon you; you grin, pleased, even
+excited -- you can barely keep still
+19414: . You stand, and walk
+19799: . The table is set for two
+19866: ahddhm. The cold shadow lifts a little
+19902: . An empty vase, white glass, stands beside a single lit candle
+19960: . A smile touches you; it feels like the first one in some time
+20047: . She climbs up, lowers it quietly back into place
+20096: . (Always careful, and always quiet. It took months before you saw past
+that.)
+20171: She smiles, too, at the flowers.
+20198: Her face is a soft curve; in the dimness, you can see little more than
+that. Candlelight
+20268: "Sit," she says, and you do. Then she waits
+20312: uhm. It strikes you that you have not seen her smile
+20355: Ipm.
+20366: However long you wait, she never does.
+
+The window shatters.
+20429: . Quiet, and careful, and attentive; and it's still your turn
+20481: You turn your face away from the light. "Well."
+20530: Some things are impossible, you've always known that.
+20596: . Some words don't exist, not anywhere inside you
+20695: . She could not wait, the thought is like
+20800: Mpm.
+20855: . The window shatters.
+21079: . The table is set for two
+21146: ahddhm. The cold shadow lifts a little
+21182: . An empty vase, white glass, stands beside a single lit candle
+21240: . A smile touches you; it feels like the first one in some time
+21327: . She climbs up, lowers it quietly back into place
+21374: . She smiles, too, at the flowers
+21401: . Her dress is a curve of soft folds; in the dimness, you can see little
+more than that. Candlelight
+21485: . There, and in her eyes
+21509: "Sit," you say, but she does not. She shifts, uncomfortable, futilely
+adjusting her dress. You wait
+21590: Pm. The silence spreads, and she shakes her head desperately. No?
+21678: . The sudden light nearly stops you; but you manage not to look away
+21740: . Reflecting the light, not refracting
+21769: . Her mouth quirks suddenly
+21860: leh    Mxm.
+
+She opens her mouth to speak
+21918: . The window shatters.
+21956: . The silence spreads, and she shakes her head desperately. No? She will
+not meet your gaze, and you can only wait
+22327: . The table is set for two
+22348: . An empty vase, white glass, stands beside a single lit candle
+22435: . She climbs up, drops it firmly back into place
+22470: . Her eyes meet yours coolly
+22561: "So you did come," she begins
+22613: . The lines of her face have gone hard
+22645: . You look back up, and find the lines of her face gone hard
+22744: "I wouldn't dream," you quote
+22786: . The self-mockery is thin in your voice
+22817: . She opens her mouth
+22898: . "Shall we leave it all here, then?"
+22947: Just as abruptly, her mouth twists. The tension falls from her like
+silent snow; and then you see, you are shocked to see, a wry smile. "What
+better place?" she asks, and reaches for the door.
+23093: She adds, as she climbs down, "Never speak to me again." The door shuts.
+The window shatters.
+23245: . "Yes. That's the way... Yes."
+23281: Her eyes fall to the table, then, and she leans towards the candleflame.
+The window shatters.
+23366: . "Yes. That's..." She breaks off, becomes absolutely motionless
+23424: "Yes?" No self-mockery now.
+
+She makes a sharp gesture, repelling. The
+window shatters.
+23851: . The table is set for two
+23872: . An empty vase, white glass, stands beside a single lit candle
+23959: . She climbs up, drops it firmly back into place
+23994: . The line of her lips is cold
+24058: "So you did come," you begin
+24110: . She looks up at that; but the sharpness surprised you too
+24155: . After a moment you shake your head. "It doesn't make a difference
+24213: "I never dreamed it would." She tosses her head back suddenly
+24320: . "It seemed appropriate, that's all. Here. Finally." The flame of the
+candle flickers uncertainly, but her voice is still
+24475: . "...Shall we go?"
+24674: dof Du      imupm. You lean forward and blow. The window shatters.
+24757: . "Jesus, but where else could we be?" Now the smile is a grin. "You
+don't actually think the Universe would let us finish up anywhere else. I
+mean...
+24934: . "It is awfully... You can't be serious
+25088: Finally you straighten up, and she leans against a wall, wiping her
+face. The words pass between you: "I'm going to miss you." And the window
+shatters.
+25843: . The table is set
+25933: From stillness, the flame dances wildly. The draft touches your own
+cheek as the door begins to swing up
+26018: . You leap, and the door slams down under your weight, but the movement
+only makes the candle snap and gutter more sharply
+26103: . You hold your breath
+26132: ; and slowly the flame steadies, slowly, back to stillness.
+
+And below
+you -- stillness, as well.
+
+The window shatters.
+26241: ; and in the silence, you hear a faint moan from below you.
+
+The flame
+chokes and dies. A moment later, the window shatters.
+26429: The door opens. Her shadow bends grotesque and swollen across the wall
+as she climbs up
+26502: . You suddenly cannot think of a thing to say; her familiar face is
+alien, as twisted as the shadow behind her
+26630: . "Well?", she asks, sharply
+26661: Jhm.
+
+"Absolutely not," you snap. Without a sound, the window shatters.
+26749: . You strain against yourself
+26772: . For a moment you cannot speak
+26860: -- a surprise; you didn't think you were expected. The cold shadow lifts
+a little. Yes
+26927: . A single ivory candle radiates soft light
+26958: . A smile touches you; it feels like the first one in some time
+27046: You gaze quietly into the flame. Your heart slows, as the peace of the
+room flows through you. The light seems to grow brighter. Candlelight.
+
+After a
+very long time, the window shatters.
+27238: epm. She climbs up, lowers it quietly back into place
+27306: . She smiles, too, at the light
+27343: . In the dimness, you can see little more of her than that
+

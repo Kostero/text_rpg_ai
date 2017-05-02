@@ -1,0 +1,285 @@
+10002: Score:
+10016: Moves:
+10056: Time:
+10749: Csdba KpmTo repeat a command like "frog, jump", just say "again", not
+"frog, again".
+10832: You can hardly repeat that.
+11162: You can't begin with a comma.
+11225: You seem to want to talk to someone, but I can't see whom.
+11316: To talk to someone, try "someone, hello" or some such.
+13190: I didn't understand that sentence.
+13300: I didn't understand that number.
+13332: You can't see any such thing.
+13365: You seem to have said too little!
+13397: You aren't holding that!
+13426: You can't use multiple objects with that verb.
+13466: You can only use multiple objects once on a line.
+13545: You excepted something not included anyway!
+13583: You can only do that to something animate.
+13621: That's not a verb I recognise.
+13651: That's not something you need to refer to in the course of this game.
+13707: You can't see "
+13752: I didn't understand the way that finished.
+13873: There are none at all available!
+14934: C.
+16393: C.
+16804: Sorry, you can only have one item here. Which one exactly?
+26778: At the moment, "it"
+26850: and "me" means
+26877: exn** Player objects must have "number" prop **
+32285: M.
+37125: Trace off.
+37745: Nothing is in scope.
+37860: Nothing to do!
+37876: . You have died
+38056: fhn[Your interpreter does not provide "undo". Sorry!]
+38154: Please give one of the answers above.
+38214: I beg your pardon?
+38232: dxn[You can't "undo" what hasn't been done!]
+38274: ehn[Can't "undo" twice in succession. Sorry!]
+38348: Sorry, that can't be corrected.
+38378: Think nothing of it.
+38400: "Oops" can only correct a single word.
+38471: Please answer yes or no.
+38491: Are you sure you want to quit?
+38525: Are you sure you want to restart?
+38551: Failed.
+38568: Restore failed.
+38581: Ok.
+38596: Save failed.
+38607: Ok.
+38622: The game file has verified as intact.
+38649: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+38824: Transcripting is already off.
+38847: End of transcript.
+38869: Score notification on.
+38891: Score notification off.
+38915: You have visited:
+38962: None.
+39187: You are carrying nothing.
+39230: Taken.
+39242: You are always self-possessed.
+39362: You already have that.
+39450: That isn't available.
+39493: That's hardly portable.
+39517: That's fixed in place.
+39541: You're carrying too many things already.
+39617: Already on the floor.
+39639: You haven't got that.
+39682: Dropped.
+39727: But it isn't there now.
+39746: Removed.
+39827: You can't put something on top of itself.
+39905: You lack the dexterity.
+39985: Done.
+40027: You need to be holding it before you can put it into something else.
+40107: Alas, it is closed.
+40129: You'll need to take it off first.
+40159: You can't put something inside itself.
+40249: Done.
+40291: That isn't in your possession.
+40314: First pick that up.
+40608: That's not something you can enter.
+40676: You can only get into something on the floor.
+40790: But you aren't in anything at the moment.
+40899: You'll have to say which compass direction to go in.
+41000: You can't go that way.
+41159: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+41261: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+41349: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+41642: Darkness, noun. An absence of light to see by.
+41764: But it's dark.
+41777: You find nothing of interest.
+41810: But it's dark.
+41900: You find nothing of interest.
+41928: You can't see inside, since it is closed.
+42027: That doesn't seem to be something you can unlock.
+42069: It's unlocked at the moment.
+42097: That doesn't seem to fit the lock.
+42151: That doesn't seem to be something you can lock.
+42217: First you'll have to close it.
+42245: That doesn't seem to fit the lock.
+42299: That's not something you can switch.
+42331: That's already on.
+42375: That's not something you can switch.
+42407: That's already off.
+42453: That's not something you can open.
+42485: It seems to be locked.
+42507: It's already open.
+42615: That's not something you can close.
+42647: It's already closed.
+42691: You're not wearing that.
+42739: You can't wear that!
+42761: You're not holding that!
+42785: You're already wearing that!
+42835: That's plainly inedible.
+42866: . Not bad.
+42884: That was a rhetorical question.
+42912: This dangerous act would achieve little.
+42946: Nothing practical results from your prayer.
+42982: The dreadful truth is, this is not a dream.
+43020: That seems unnecessary.
+43070: What a good idea.
+43090: You smell nothing unexpected.
+43144: You taste nothing unexpected.
+43224: You feel nothing unexpected.
+43250: Digging would achieve nothing here.
+43282: Cutting that up would achieve little.
+43314: You jump on the spot, fruitlessly.
+43348: You would achieve nothing by this.
+43378: There's nothing suitable to drink here.
+43412: But there's no water here to carry.
+43444: Oh, don't apologise.
+43466: Real adventurers do not use such language.
+43502: Quite.
+43514: Violence isn't the answer to this one.
+43548: There's not enough water to swim in.
+43580: There's nothing sensible to swing here.
+43614: You can't usefully blow that.
+43668: No, you can't set that.
+43692: No, you can't set that to anything.
+43755: But you aren't holding that.
+43820: It is fixed in place.
+43842: You are unable to.
+43862: That would be less than courteous.
+43887: Nothing obvious happens.
+43916: Is that the best you can think of?
+43946: That's not a direction.
+43965: Not that way you can't.
+44015: You achieve nothing by this.
+44046: Futile.
+44053: You lack the nerve when it comes to the crucial moment.
+44102: You talk to yourself a while.
+44125: This provokes no reaction.
+44153: There is no reply.
+44173: Nothing is on sale.
+44219: I don't think much is to be achieved by that.
+44257: Time passes.
+44273: You aren't feeling especially drowsy.
+44351: Um... it's been in your porch for a long time. You don't really want to
+put it anywhere near your mouth.
+44434: No.
+44454: The fish burns to ash almost instantly. The kitchen is a tad stinky now.
+44522: Dig with a SHOVEL, bone!
+44591: You uncover a wooden chest!
+44614: You have no shovel with which to dig.
+44671: It burns to a crisp, leaving behind a shiny new CD-ROM.
+44736: You look up Looking for Godot and get the following entry:
+     The
+broom used to be owned by a powerful witch.
+     It is not completely
+powerless, even now.
+     Just say its command word to it.
+     The command
+word is "Dickens".
+44940: It's closed.
+44951: It's open.
+44985: Silently, a blue volume appears at your feet.
+The broom fades to
+nothingness.
+45044: The broom does not respond. What a surprise.
+45090: You gladly take the worn tome and relax.
+45127: Maybe after you find the book. Right now, you don't have the time.
+45183: You turn it on, play some inane adventure game about finding a lost copy
+of Virginia Woolfe's "To the Lighthouse", and soon get bored and turn it off.
+Now back to finding that lost copy of Samuel Beckett's "Waiting for Godot"....
+45359: No.
+45371: It seems to be used. Ack. You immediately drop it.
+45435: .
+
+
+
+
+
+
+
+
+
+You kept telling your English teacher you'd have his copy of
+Waiting for Godot back "tomorrow". He's getting sick of waiting; you'd better
+find it tonight. You have just completed a thorough search of the porch,
+finding nothing but a rotting fish.
+46100: You can't go that way.
+46176: It is pitch dark, and you can't see a thing.
+46208: As good-looking as ever.
+46684: This is your porch. Icky. Books, papers, filth, and stuff you don't
+seriously want to think about is all over the place. Your book isn't here,
+though... where the bleep is it?
+
+The kitchen is to the west, the back door of
+your house is to the south.
+46868: Cardboard. Unlikely to hold very much.
+46896: The name says it all. It's a pointy wooden toothpick.
+46936: It's a dead fish. You don't want to know how it got into your porch.
+46988: A herring lies dead on the porch floor... you don't want to know.
+47036: Your unkempt lawn is here.
+
+Your porch door is to the north. Your yard
+extends to the west.
+47104: This is your lawn. With your luck, the book's probably buried in it.
+47156: A wooden chest. It's force-proof, laser-proof, radiation-proof...
+everything but fireproof.
+47228: A collection of hints to adventure games. Just put it in your computer
+for a quick hint.
+47290: This is your kitchen. Except for the oven and the closet, everything is
+covered with dusty papers.
+
+The porch is to the east. To the west is the
+bathroom door. The living room is south of here.
+47432: The door to the bathroom has a safety lock which can be operated with
+anything pointy.
+47492: The bathroom door stands open.
+47516: The bathroom door is closed.
+47536: It's an oven. You can put things you want to cook on it.
+47580: A plain-looking closet.
+47600: An old wood-handled broom.
+47620: This is it! Waiting for Godot! Now you just have to pick it up and your
+search is over.
+47684: A basic bathroom with basic bathroom furnishings and greenish-blue
+sludge. Off to the east is the kitchen.
+47760: On this slip of paper is the combination to your shed. You can unlock
+the shed with it.
+47824: The combination to your shed lies on the side of the bathtub.
+47866: This is your living room. Stuff on the floor was probably newspaper
+once. Icky. If the book's here, you may as well give up.
+
+The kitchen is to the
+north. You can leave the house by going south. A staircase leads up.
+48024: It's May and you haven't gotten around to putting the Nativity set away.
+You're hopeless. It'll take supernatural intervention to find that book....
+48134: Yes, even your computer room is a mess. The only object of any
+importance here is the computer.
+
+You can go back down the stairs to the living
+room.
+48242: An extreme-low-end 486. You can put CD-ROMs in it and turn it on. Past
+that, it's useless.
+48320: It's stinky.
+48332: A sock is draped across the computer table.
+48364: The staircase is composed of steps, not surprisingly. It isn't as messy
+as the rest of the house, meaning you can sort of see it.
+48456: This is your patio. There are a few bits of paper, plastic, and cloth
+strewn about haphazardly.
+
+Off to the west some distance is your shed. To the
+east you can see your lawn. You can enter your house to the north.
+48608: There is an enema here. On your patio. You're not even going to think
+about it...
+48668: It seems to be used. Ack.
+48688: You are just outside your shed. There's nothing much to see here.
+
+Your
+patio is to the east.
+48756: It's dingy and rotting, unsurprisingly.
+48788: The shed is open.
+48804: The shed is closed.
+48820: Ewwww... What IS all this junk?
+48848: You've had it since who-knows-when. It's not quite rusted through; you
+might be able to dig in grass or soft earth.
+48932: A rusty iron shovel leans against a wall.
+

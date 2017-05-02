@@ -1,0 +1,223 @@
+11869: Nothing to do!
+11904: o. You have won
+11988: It is now pitch dark in here!
+12015: I beg your pardon?
+12079: Sorry, that can't be corrected.
+12108: Think nothing of it.
+12161: As good-looking as ever.
+12193: You can hardly repeat that.
+12218: You can't begin with a comma.
+12332: I didn't understand that number.
+12361: You can't see any such thing.
+12397: You aren't holding that!
+12494: That's not a verb I recognise.
+12533: You can't see "
+12644: Nothing to do!
+12661: There are none at all available!
+13590: Please answer yes or no.
+13616: Are you sure you want to quit?
+13661: Failed.
+13681: Restore failed.
+13698: Ok.
+13716: Save failed.
+13731: Ok.
+13775: Transcripting is already on.
+13841: Transcripting is already off.
+13899: Score notification on.
+13920: Score notification off.
+13943: You have visited:
+13971: Objects you have handled:
+13996: None.
+14382: You are carrying nothing.
+14431: Taken.
+14442: You are always self-possessed.
+15089: Dropped.
+15235: Removed.
+15374: You lack the dexterity.
+15455: Done.
+15721: Done.
+15960: Wrahn seem interested.
+16751: You can't go that way.
+17426: But it's dark.
+17443: You find nothing of interest.
+17479: But it's dark.
+17599: You find nothing of interest.
+18880: . Not bad.
+18898: That was a rhetorical question.
+18952: That seems unnecessary.
+18975: Keep your mind on the game.
+19000: What a good idea.
+19019: You smell nothing unexpected.
+19046: You hear nothing unexpected.
+19071: You taste nothing unexpected.
+19106: Keep your hands to yourself!
+19131: You feel nothing unexpected.
+19156: If you think that'll help.
+19265: Oh, don't apologise.
+19295: Quite.
+19364: You achieve nothing by this.
+19452: You wave, feeling foolish.
+19621: You are unable to.
+19640: Nothing obvious happens.
+19690: That's not a direction.
+19713: Not that way you can't.
+19745: Keep your hands to yourself.
+19770: You achieve nothing by this.
+19803: Futile.
+19832: You talk to yourself a while.
+19859: This provokes no reaction.
+19887: There is no reply.
+19906: Nothing is on sale.
+19925: Your singing is abominable.
+19959: Time passes.
+22945: [Advanced to "noun" token:
+48245: " of "
+48284: " list of "
+48365: " has no "time_left" property
+48395: The object "
+48455: The room "
+48469: " has no "description" property
+67481: Trace off.
+68659: Nothing is in scope.
+68954: What curious ideas you have!
+68984: What a strange idea!
+69403: Not from up here you can't!
+69875: Not with a kitten in your arms!
+70134: Your hands are too full.
+74843: in" or "notin
+74859: opmhas" or "hasnt
+75001: }" at end of "objectloop
+77180: Score:
+77188: Moves:
+77196: Time:
+77204: You can't go that way.
+77536: Please give one of the answers above.
+77564: [You can't "undo" what hasn't been done!]
+77600: [Can't "undo" twice in succession. Sorry!]
+77640: "Oops" can only correct a single word.
+77668: It is pitch dark, and you can't see a thing.
+77700: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+77760: You seem to want to talk to someone, but I can't see whom.
+77804: To talk to someone, try "someone, hello" or some such.
+77844: I didn't understand that sentence.
+77904: You seem to have said too little!
+77928: You can't use multiple objects with that verb.
+77964: You can only use multiple objects once on a line.
+78000: You excepted something not included anyway!
+78032: You can only do that to something animate.
+78064: That's not something you need to refer to in the course of this game.
+78112: I didn't understand the way that finished.
+78144: Sorry, you can only have one item here. Which exactly?
+78296: Are you sure you want to restart?
+78320: The game file has verified as intact.
+78348: The game file did not verify as intact, and may be corrupt.
+78392: Attempt to begin transcript failed.
+78420: Attempt to end transcript failed.
+78444: You're carrying too many things already.
+78476: You can't put something on top of itself.
+78508: You can't put something inside itself.
+78536: That would scarcely empty anything.
+78592: You can only get into something free-standing.
+78628: But you aren't in anything at the moment.
+78660: You'll have to say which compass direction to go in.
+78700: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+78796: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+78880: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+79056: This dangerous act would achieve little.
+79084: Nothing practical results from your prayer.
+79116: The dreadful truth is, this is not a dream.
+79148: Digging would achieve nothing here.
+79176: You jump on the spot, fruitlessly.
+79204: You would achieve nothing by this.
+79228: There's nothing suitable to drink here.
+79256: But there's no water here to carry.
+79284: Real adventurers do not use such language.
+79316: Violence isn't the answer to this one.
+79344: There's not enough water to swim in.
+79372: There's nothing sensible to swing here.
+79400: That would be less than courteous.
+79424: Is that the best you can think of?
+79448: You lack the nerve when it comes to the crucial moment.
+79488: I don't think much is to be achieved by that.
+79520: You aren't feeling especially drowsy.
+79870: Best choices are all from the same group.
+80072: Try typing "showverb" and then the name of a verb.
+80140: Property value not routine or string: "
+80168: Entry in property list not routine or string: "
+80288: " can only be used as a player object if it has the "number" property
+80550: It's a cold winter day outside, but in the looking-glass house it's
+summer. All you need to do is pretend there's a way of getting through into it
+somehow...
+80676: You can't see that in the looking-glass.
+80736: The gentle sound of snow against the window pane suggests that it's cold
+outside, and you're glad to be here in the warmth. The drawing-room is
+reflected in the large looking-glass on the wall above the mantelpiece, and a
+very comfortable room it is too, with a warm hearth, a soft rug and an
+arm-chair that you can curl up and sleep in.
+80972: That's not the way to get down from a mantelpiece!
+81008: She's a fierce little chess piece.
+81036: Alone on the chess board, the red queen is monarch of all she surveys.
+81088: An abandoned chess board lies on the floor.
+81120: It's left here from the game you were playing just now, but the pieces
+are all missing - the kittens will insist on playing with them.
+81216: It's a beautiful rug, made in some far off country, perhaps India or
+Araby, wherever those might be.
+81288: The rug is much too large and heavy for you to carry.
+81328: But a hearth-rug is meant to be next to the hearth!
+81364: You're unable to reach the rug from here.
+81396: You try to lift up a corner of the rug, but fail. After a while, you
+realise that this is because you are standing on it. How curious the world is!
+81500: You lift up a corner of the rug and, peering underneath, discover the
+red queen from the chess set.
+81572: It's a huge arm-chair, the perfect place for a kitten or a little girl
+to curl up in and doze. It has been pushed over to the
+81704: is right in the way. It's a good thing you spotted it, or you would have
+squashed flat the poor little thing.
+81784: You push the arm-chair away from the hearth.
+81816: You push the arm-chair over to the hearth.
+81848: You jump into the warm and comfortable arm-chair.
+81884: It's higher off the ground than your head, but it looks wide enough and
+sturdy enough to support you.
+81956: The mantelpiece is much too high to climb up onto.
+81992: You can't reach the mantelpiece from here.
+82024: You scramble up onto the mantelpiece.
+82052: The mantelpiece is so high that you can't reach.
+82088: Strangely, the glass is beginning to melt away, just like a bright
+silvery mist.
+82144: In the looking-glass you can see the drawing-room of the looking-glass
+house. What you can see is very much the same as this drawing-room, only all
+reversed, left for right. But you are sure that out of the corners of the
+glass, where you can't see, the looking-glass world is quite different from
+yours.
+82360: In the looking-glass you can see the ceiling of the drawing-room of the
+looking-glass house. It looks much the same as the ceiling of your
+drawing-room.
+82468: You can't reach the looking-glass from where you're standing.
+82512: Your hand goes right through the silvery mist!
+82544: You don't want seven years' bad luck, do you?
+82580: Your hand goes right through the silvery mist, and in another moment the
+rest of you follows, and you are through the glass...
+82668: A discarded ball of worsted lies on the floor here.
+82708: It's in a terrible tangle. All that time you spent rolling it up, and
+now look at it!
+82772: It's a ball of fine blue wool, all rolled up in preparation for some
+embroidery.
+82828: You're as quick as can be at rolling up balls of wool, though you say so
+yourself! Soon it's neat and tidy again.
+82908: Alas, that chess piece seems to be missing. Those naughty kittens!
+82956: Outside the window it's snowing gently, and you're glad to be in here in
+the warmth.
+83050: Better leave the window shut.
+83096: Two kittens, one white and one black, are playing together by the
+arm-chair.
+83152: is. Why, it's quite definitely your favourite of the pair, and much
+prettier than that naughty
+83360: You would never do such a beastly thing to such a defenceless little
+animal!
+83444: You can't hold two kittens at once!
+83472: . What a beautiful creature it is!
+

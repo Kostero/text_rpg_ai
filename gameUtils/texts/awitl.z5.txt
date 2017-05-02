@@ -1,0 +1,311 @@
+11318: Nothing to do!
+11353: o. You have won
+11611: Please give one of the answers above.
+11642: It is now pitch dark in here!
+11669: I beg your pardon?
+11687: dxn[You can't "undo" what hasn't been done!]
+11729: ehn[Can't "undo" twice in succession. Sorry!]
+11801: Sorry, that can't be corrected.
+11830: Think nothing of it.
+11851: "Oops" can only correct a single word.
+11885: It is pitch dark, and you can't see a thing.
+11936: As good-looking as ever.
+11960: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+12023: You can hardly repeat that.
+12048: You can't begin with a comma.
+12076: You seem to want to talk to someone, but I can't see whom.
+12151: To talk to someone, try "someone, hello" or some such.
+12219: I didn't understand that sentence.
+12289: I didn't understand that number.
+12318: You can't see any such thing.
+12345: You seem to have said too little!
+12374: You aren't holding that!
+12398: You can't use multiple objects with that verb.
+12438: You can only use multiple objects once on a line.
+12478: I'm not sure what "
+12513: You excepted something not included anyway!
+12549: You can only do that to something animate.
+12584: That's not a verb I recognise.
+12614: That's not something you need to refer to in the course of this game.
+12668: You can't see "
+12711: I didn't understand the way that finished.
+12803: Nothing to do!
+12820: There are none at all available!
+12894: Sorry, you can only have one item here. Which exactly?
+13867: Please answer yes or no.
+13893: Are you sure you want to quit?
+13929: Are you sure you want to restart?
+13961: Failed.
+13981: Restore failed.
+13998: Ok.
+14016: Save failed.
+14031: Ok.
+14049: The game file has verified as intact.
+14081: The game file did not verify as intact, and may be corrupt.
+14137: Transcripting is already on.
+14185: Attempt to begin transcript failed.
+14225: Transcripting is already off.
+14273: Attempt to end transcript failed.
+14303: Score notification on.
+14324: Score notification off.
+14347: You have visited:
+14375: Objects you have handled:
+14400: None.
+14786: You are carrying nothing.
+14835: Taken.
+14846: You are always self-possessed.
+15228: You're carrying too many things already.
+15406: Dropped.
+15516: Removed.
+15605: You can't put something on top of itself.
+15682: You lack the dexterity.
+15763: Done.
+15962: You can't put something inside itself.
+16053: Done.
+16289: Wrahn seem interested.
+16508: You can only get into something freestanding.
+16745: But you aren't in anything at the moment.
+16859: You'll have to say which compass direction to go in.
+16961: You can't go that way.
+17147: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+17249: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+17337: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+17811: But it's dark.
+17828: You find nothing of interest.
+17864: But it's dark.
+17955: You find nothing of interest.
+19125: . Not bad.
+19143: That was a rhetorical question.
+19170: This dangerous act would achieve little.
+19204: Nothing practical results from your prayer.
+19240: The dreadful truth is, this is not a dream.
+19277: That seems unnecessary.
+19300: Keep your mind on the game.
+19325: What a good idea.
+19344: You smell nothing unexpected.
+19371: You hear nothing unexpected.
+19396: You taste nothing unexpected.
+19431: Keep your hands to yourself!
+19456: You feel nothing unexpected.
+19481: If you think that'll help.
+19507: Digging would achieve nothing here.
+19574: You jump on the spot, fruitlessly.
+19607: You would achieve nothing by this.
+19636: There's nothing suitable to drink here.
+19669: But there's no water here to carry.
+19700: Oh, don't apologise.
+19722: Real adventurers do not use such language.
+19757: Quite.
+19768: Violence isn't the answer to this one.
+19801: There's not enough water to swim in.
+19832: There's nothing sensible to swing here.
+19896: You achieve nothing by this.
+19984: You wave, feeling foolish.
+20134: You are unable to.
+20153: Nothing obvious happens.
+20176: That would be less than courteous.
+20214: Is that the best you can think of?
+20243: That's not a direction.
+20266: Not that way you can't.
+20298: Keep your hands to yourself.
+20323: You achieve nothing by this.
+20357: Futile.
+20369: You lack the nerve when it comes to the crucial moment.
+20421: You talk to yourself a while.
+20448: This provokes no reaction.
+20476: There is no reply.
+20495: Nothing is on sale.
+20514: Your singing is abominable.
+20540: I don't think much is to be achieved by that.
+20577: Time passes.
+20592: You aren't feeling especially drowsy.
+34626: Would you like to RESTART, RESTORE a saved game, read the AFTERWORD or
+QUIT?
+34705: You hesitate.
+34800: That mistake cannot be corrected.
+34830: You've been trying to do that for a long time, but never seem to come up
+with a satisfactory answer.
+34906: You want to talk to someone, but they are not here. They never are when
+you need them.
+34974: Sure, inanimate objects won't interrupt you or try to stop you to force
+their stories on you, but they don't understand either.
+35069: That sentence was not understood.
+35099: That doesn't exist in this small domain.
+35158: Notification of the passing of the days is on.
+35196: Notification of the passing of the days is off.
+35236: You haven't visited anywhere significant.
+35273: You cannot run away from yourself.
+35303: You feel ill at ease praying to something that is not there.
+35353: Yes, no. You say these words with little meaning.
+35395: It is far too easy to destroy what has taken so long to create.
+35445: Life seems nothing more than a foggy dream, albeit painted more vividly.
+Perhaps there is a higher consciousness somewhere to awake into.
+35546: Thoughts come slowly, and half-formed.
+35580: There is nothing significant to smell in this world.
+35622: There is nothing significant to taste in this world.
+35664: It seems that you are always listening and never speaking.
+35719: Warm skin, like every other body.
+35748: It doesn't feel at all unusual.
+35779: You are not the kind of person to jump when some people say so. You keep
+your feet firmly on the ground.
+35857: Does anyone really mean it when they say that? Or are they just
+conniving to get themselves out of trouble?
+35937: Swearing makes you feel slightly better. But only slightly.
+35985: You are unsatisfied by the mildness of your curse.
+36026: You can't swim here.
+36048: Your new form of greeting friends. But do you look like those people in
+gameshows who wave moronically at the end?
+36142: You can't manipulate people in that way.
+36183: You can't manipulate people like that.
+36222: All very meaningless in the long run.
+36255: You sing awhile, hoping that the noise coming out is tuneful, suspecting
+that it isn't.
+36322: That won't achieve anything.
+36349: You hesitate.
+36365: Sleep is difficult, and comes in broken segments. You are not refreshed.
+45220: So tragically easy to do. You are ugly and talentless, selfish and
+boring.
+45287: That's not appropriate right now.
+45320: There is work to be done, and you do it to the best of your abilities.
+It is the only thing in which you can take great pleasure and satisfaction.
+45433: With no-one else to kiss, you can only kiss yourself.
+45492: For once, your sleep is restful and complete, and interlaced with dreams
+of unself-conscious sexual attraction. If only the real world was as certain.
+45610: The week is over, and another begins. Pain and joy, achievement and
+disappointment: themes that run throughout your life, recurring in many forms.
+And so it starts again.
+45803: The man reacts well. But was that just tolerance and pity, or genuine
+feeling?
+45868: The man makes all the right noises, sometimes amused, sometimes
+interested, sometimes disagreeing with you.
+45950: You do not have the motive to strike him.
+45998: You give your love to this man in an act that is part courage and part
+foolishness. But the man is scared and unsure of your affections, and soon
+leaves you.
+46112: You are vulnerable, and scared. Why would this man want to have sex with
+you of all people? Why would anyone? And soon, thankfully, it is over, and all
+you want to do is flee from the abysmal act that has just occurred.
+46279: So scared are you of rejection that you reject first, and yet another
+chance of happiness leaves as abruptly as it arrived.
+46374: There are arguments; of course there are. But you are soon making up,
+and grateful for it.
+46448: Sometimes he listens, sometimes he doesn't. It is the best compromise
+you could hope for.
+46518: Do you love them? How can you be sure?
+46563: You've always wondered if there can really be such people as friends.
+You have sex with a friend, and it muddies the waters. You never speak properly
+to each other again.
+46689: It is too frightening to say anything out loud, and so to punish your
+friends, you slip away and leave, but they do not notice. As a result, you
+become more hurt than them.
+46815: You do not strike them, no matter how angry you feel.
+46859: You don't need them, you think to yourself. But, after a while, you find
+that you miss them and wonder what they are doing.
+46952: Somehow, all your friends are suddenly gone.
+46998: It is hard to get a word in, be noticed, be listened to. They are not
+interested in what you have to say; they care only in telling you their
+stories.
+47110: Once such an affectionate, special thing, the kiss is now just a
+meaningless contact.
+47182: To hell with them! You don't need them. Or maybe you do.
+47232: They rarely listen, prefering to make the decisions between themselves.
+47291: You fail by a whisker. But that is not the end; soon it returns for
+another shot.
+47364: You pass, but only just. Another hurdle out of the way. You can't help
+feeling disappointed with your performance, though; with just a little bit more
+effort, you could have done far better.
+47505: It is far too great a mass to ignore.
+47539: Work takes up time that could be better used, but it must be done.
+47591: Work satisfaction is an extremely warm and pleasant feeling.
+47639: You try to ignore it, but it returns twice as heavy.
+47686: It is already within you.
+47710: Why does this always happen? Just when you need to be the most alert,
+you find yourself the least able to cope.
+47794: It is a warm, sleepy tiredness, the kind that reminds you of dark nights
+snuggled in an armchair by a roaring fire.
+47880: You attempt to ignore the tiredness, but it does not ignore you back.
+47948: You ignore them, and they stay away. What else could you have done but
+ignore them?
+48014: They are so interesting and so fresh, so real.
+48054: They always get in your way, and are only out for themselves.
+48104: You want so much to join other people, to fit in, but you don't. You
+can't.
+48166: Only the old and the desperate show an interest. At first, you take what
+you can, but soon your pride tells you to stop. Maybe you should try making a
+move yourself - but the fear of rejection is overpowering.
+48323: The kisses you give and receive are meaningless, during their rare
+occurances.
+48383: You do not have the confidence to strike out; neither do you have the
+motive.
+48448: A few nod and grin meaningfully. You say something ridiculous just to
+see how they react. They nod and grin meaningfully. You turn away in disgust.
+48566: It feels good to vent the anger you feel, but soon you are back where
+you started.
+48632: They don't listen. They rarely listen.
+48690: They say it's best to just ignore people like this. Reluctantly, you
+follow this advise, and swallow your rage. Public anger, after all, would only
+upset the others.
+48841: You rage against the shadow, but the others turn against you for your
+language and bile. Why didn't they share their harsh words with the shadow as
+well? Maybe they don't like you. You're not one of them - they only protect
+their own.
+49007: ka,
+
+
+
+A week, much like any other, is about to start. What promises
+does it hold? What problems will you face? And how will you feel at the end?
+49943: They say that proper love can only come when you learn to love yourself.
+You love certain aspects of life, but can't say for sure if you love yourself.
+50115: Someone once said it was sex with someone you love. It finishes as
+merely satisfactory, fantasy being less exciting but also less frightening than
+real life.
+50224: But would that be wrong? And why? And why should it matter?
+50270: You know you need help, but you don't know how to ask. If you ask for
+help, it would be like admitting defeat and failure.
+50358: That is not a test in the conventional sense.
+50394: That is not a test in the conventional sense.
+50430: There is always work to be done.
+50458: That's not something you can join.
+50518: Your obscenity makes you feel slightly better, but only slightly.
+50610: But there is so much work to do, so many years to fill.
+50654: You very rarely feel truly alive.
+50698: But he is here.
+50711: It is a pointless exercise; he doesn't want to be found.
+50759: They will always be close by, but not nearly close enough.
+50806: There is always work, of sorts.
+50836: It is an unrewarding task searching for that. It will find you, if you
+are destined to possess it.
+50934: You are unable to work up enough enthusiasm.
+53472: Score:
+53480: Moves:
+53488: Time:
+53496: You can't go that way.
+53596: A mess of confused emotions and thoughts, with the repugnant odour of
+unresolved pain seeping out of cracks in the surface. Self-doubt rests heavy in
+the air.
+53708: A man surprises and secretly delights you with his attentions. Does he
+love you? Do you love him?
+53780: He is expert at keeping well hidden. Or are you merely poor at looking?
+53836: Can you really call these people friends after all? Do they genuinely
+like you? Or do they merely humour you, for altruistic reasons of their own?
+53940: An examination looms, causing turbulence.
+53972: Which examination it is, you are not sure. There are so many, one after
+the other, in a never ending circle. You are constantly having to prove
+yourself, having to prove your worth.
+54100: There is always work to be done.
+54124: The events of the week so far have taken their toll; you feel tired and
+stressed out.
+54184: It is there within your head like a fog bank, killing off
+self-confidence and making coherent thoughts difficult.
+54264: Other people pass you by, getting on with their own lives.
+54308: Some old, some young, some attractive, some not. You want so much to
+connect, but somehow don't. It is fear that drives you off.
+54404: On your peripheral vision, a shadow lingers and showers you with
+insults.
+54456: Just words from someone who doesn't know you, but hurtful nevertheless.
+

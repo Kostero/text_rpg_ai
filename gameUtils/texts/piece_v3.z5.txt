@@ -1,0 +1,1394 @@
+13070: Moves:
+13106: Time:
+13801: Csdba KpmTo repeat a command like "frog, jump", just say "again", not
+"frog, again".
+13884: You can hardly repeat that.
+14214: You can't begin with a comma.
+14277: You seem to want to talk to someone, but I can't see whom.
+14368: To talk to someone, try "someone, hello" or some such.
+16242: I didn't understand that sentence.
+16356: I didn't understand that number.
+16433: You seem to have said too little!
+16459: kfe    a.
+I don't have that!
+16492: You can't use multiple objects with that verb.
+16578: I'm not sure what "
+16615: You excepted something not included anyway!
+16655: I'd rather do that with something that might do it back.
+16703: Call me a simpleton, but that's not a verb I recognise.
+16842: I didn't understand the way that finished.
+16965: There are none at all available!
+19896: Sorry, you can only have one item here.  Which one exactly?
+28954: At the moment, "it"
+29026: and "me" means
+29053: exn** Player objects must have "number" prop **
+33722: I feel the limitations of my existance shatter as in the distance (or in
+some sense of what could be called distance) a cyclic sound grows ever less
+frequent, until it fades completely.
+
+I think we made it! The chamber has gone
+- there's only a faint glow to remind me I'm still around. Stinky is here too,
+she's nibbling my ankle. Hey - stop that! Good girl.
+
+Listen -  I've got an
+idea! You should delete 'Piece of Mind' when I've gone - heck, we can't give
+the Meko-mind another chance to gain the input it needs.
+
+Well, I guess that's
+it. It was nice meeting you and all - sorry to have dragged you into this, but
+I do appreciate your help. Hey - Stinky! Don't go down there - you don't
+know...aw, damn - I'm gonna have to go after her. See ya round, buddy - and
+thanks again. Here Stinky, stinkystinkystinky.
+35045: M.
+39900: Nothing to do!
+39918: I have died - but I get the feeling I'm still stuck here, trapped,
+without control over my own destiny. Please, try again.
+40015: We have won! Yeeeeeeeeeeeha!!
+40190: [Your interpreter does not provide "undo".  Sorry!]
+40290: Please give one of the answers above.
+40352: I beg your pardon?
+40370: ehn
+[You can't "undo" what hasn't been done!]
+40414: ehn
+[Can't "undo" twice in succession. Sorry!]
+40490: Sorry, that's too stuffed to be corrected.
+40528: Think nothing of it.
+40550: "Oops" can only correct a single word.
+40621: a.
+Please answer yes or no.
+40645: Are you sure you want to quit?
+40681: Are you sure you want to restart? All the way back at the beginning?
+40733: Failed.
+40750: Restore failed.
+40763: Ok.
+40778: Save failed.
+40789: Ok.
+40804: The game file has verified as intact.
+40833: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+41033: End of transcript.
+41055: Score notification on.
+41079: Score notification off.
+41103: We have visited:
+41129: Objects we have handled:
+41150: None.
+41204: I've got nothing on me.
+41245: Taken.
+41259: I'm already in possesion of myself.
+41393: Too late - I've already got it.
+41491: That isn't available right now - take a number and wait in line.
+41658: I've got my hands full right now.
+41758: I would if I could, but I don't have that.
+41825: Dropped.
+41844: But it's shut!
+41864: But it isn't there now.
+41885: Removed.
+41970: Putting something on top of itself is rather beyond my abilites.
+42042: would achieve nothing. So don't do it again!
+42082: I lack the dexterity to perform that otherwise very practical action.
+42198: Done.
+42240: I need to be holding it before I can put it into something else.
+42292: That's not a thing to put things in.
+42326: Alas, woe is me - it's closed.
+42388: I can't put something inside itself. I'm just not that clever.
+42502: Done like a chicken in a microwave.
+42564: That isn't in my possession right this minute.
+42599: First pick that up.
+42895: That's not a scene I think I could get into.
+42971: I can only get into something on the floor.
+43085: But I'm not on anything at the moment.
+43194: And which direction might that happen to be in?
+43291: I can't go that way. It's not the done thing.
+43516: OK - I'll be brief.
+43540: OK - you don't need to give me much excuse to talk more.
+43588: My lips are zipped.
+43807: It's black - if that's any help.
+43839: Wow - it's beautiful, in its own special and fundamentally uninteresting
+way.
+43909: But it's dark.
+43922: I have always believed that looking under things is the surest route to
+hell.
+43987: But it's dark.
+44005: There is nothing interesting there at all.
+44087: Nothing. Squat. Zip.
+44173: It is as empty as a yogi's mind.
+44249: Can't unlock that! It's not even lockable.
+44317: That doesn't seem to fit the lock.
+44371: That doesn't seem to be lockable - I could be wrong, but I doubt it.
+44487: That doesn't seem to fit the lock.
+44541: Um - there doesn't appear to be a switch.
+44579: That's already on.
+44625: There's not switch on it.
+44651: That's already off.
+44697: That's not something I could ever hope to open.
+44739: It seems to be locked.
+44763: It's already open.
+44838: Hnabsolutely nothing.
+44885: That's not something I can close.
+44917: It's already closed.
+44963: I'm not wearing that.
+45011: I can't wear that! It's so last week.
+45047: I'm not holding that!
+45071: I'm already wearing it, remember.!
+45127: I'm not hungry in the slightest.
+45168: Not bad.
+45184: I agree.
+45198: Yeah - start a fire, burn the place down - burn burn BURN. Nah.
+45256: I get down on my knees and pray like a demon. I hear a voice in my head
+whispering about how silly I look.
+45338: I'm not asleep.
+45358: Already awake.
+45376: My idea of free love doesn't quite go that far.
+45418: It hurts, it hurts.
+45470: Aint nothing worth hearing in here.
+45537: With you watching? I don't think so.
+45596: I feel nothing surprising.
+45622: Yeah, groovy man - get on with it.
+45684: Ok, hup two, hup two, oh, sod this cardiovascular nonsense.
+45738: I don't think it's worth the effort.
+45770: ehn
+There's nothing suitable to drink here. I'd know.
+45816: But there's no water here to carry.
+45850: I bet you are.
+45868: Yeah - DIY new wave interactive fiction.
+45906: My grandmother knows worse words.
+45938: I'll wait 'till somebody else throws the first punch, if it's all the
+same to you.
+46004: There's not enough water to swim in.
+46038: I'd rather swing my cat.
+46064: PHWEEEEEE - well that did a lot.
+46100: I can think of several things I'd rather do.
+46140: Game, set, match etc. Pointless..
+46174: Don't want to.
+46306: It's immovable. Or I'm not irresistable.
+46346: I can't.
+46362: I'm not that rude.
+46379: Nothing obvious happens. Perhaps, somewhere, (a recycled fantasy-humour
+book perhaps) a butterfly flapped its wing with a bit more effort, changed
+course slightly, and brought down a minor civilisation. Or perhaps not.
+46546: Push off.
+46562: That's not a direction.
+46583: Not that way.
+46663: Might be fun, but it's probably criminal.
+46706: I can't be bothered.
+46725: No - I might make a mess..
+46758: Hi - how am I?
+46773: This provokes no reaction.
+46829: Nothing is on sale. Despite what evangelical marketeers tell you.
+46883: I grunt away to some old tune or another, wondering if I should quit my
+day job.
+46947: I don't want to.
+46967: Dum de dum.
+46983: I'm not sure I'm not dreaming now..
+47310: Nah, I don't think I'll bother. I've done it before and it wasn't worth
+it.
+47374: Woah - it's just so uninteresting behind there, it's amazing.
+47845: wu>. 
+
+You could even get the puppet to <enter> an object if humanly
+(puppetly?) possible. The puppet can talk to anyone it meets by <ask>ing
+<about> things, or even <show> things <to> people if you want it to. 
+
+Being
+only a puppet, it can't understand everything the English language offers, but
+hopefully you'll be able to make yourself understood.
+48171: for the 1996 Interactive Fiction contest. This is the third version -
+which has cleared up a lot a spelling mistakes, and niggly little problems
+(never type under the influence, kiddies).
+
+It is the first program I've
+written with over 20 lines of code, so there's bound to be a few things that go
+a bit weird, however, as far as I know, most of it does what it's supposed to.
+50160: RESS BUTTON
+CUT WEB
+LOOK AT FACE
+LOOK BEHIND EYES
+and that's all I'm
+saying at this point. It's up to you.
+50338: A poor choice.
+50355: icmq  ohn
+I couldn't if I wanted to - as I'm am too far away from it at
+the moment. You'll have to move me closer.
+50447: Which direction is that in? Sorry to be so pedantic, but, for some
+reason, when I try to make value judgements like that, my mind goes all cloudy,
+like a fishbowl in need of new water.
+50591: The beam prevented me from moving - It's like my brain was cut off from
+my body.
+50661: Yeah, I tried that, but it didn't work - I was being led from one event
+to the next without control of my actions.
+50771: A voice spoke - a message in my head! It welcomed me!
+50827: A beam of light broke through the mist, striking me square on the
+forehead. I felt as if somebody had unplugged me, as if all my stored energy
+was being sucked out of me, leaking from a broken circuit.
+50978: As my eyes began to close, I saw a silvery figure emerge from the mist,
+placing something between myself and the beam. Reflecting against the
+obstruction, it shot back into the swirling smoke. With a jolt I came to my
+senses, only to be violently pushed to one side by the figure. A split second
+later there was a gigantic explosion in the space I previously
+inhabited
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+And then I ended up here, back in my bed. Only now
+I can't seem to move a muscle. I've been waiting for something, heck, anything
+to happen - just wondering what the hell is going on.
+51430: I'm at one side of my rather large bedroom. It is, by rights, a lounge -
+but I sleep here to keep the rent cheap. The queen sized double bed takes a
+dominant position, mostly because it's the only comfortable thing to sit on. A
+few tatty posters line the walls and to the northeast is a window
+51698: Xmwith drawn curtains.
+51879: I'd have to get up before I could reach that.
+51933: My GOD! I can move again - I just got up!!! All you have to do is tell
+me, and it happens. That is sooo freaky. I guess I'm in your hands now - your
+wish is my command and all that jazz. Listen, I don't want to be a burden, so I
+think we should find a way out of this predicament as soon as humanly possible.
+52180: I peer under the bed. Hey, there's something right at the back. Reaching
+in I fumble around and find...a piece of a jigsaw, grey like the underside of a
+fish. So that's where the sodding thing went, no wonder I never finished it. I
+throw it away in disgust, resolving not to waste time looking under things
+again.
+52411: I've always believed that looking under things is the surest route to
+hell.
+52475: That's across the room to the north-east. A tad too far to stretch, if
+you catch my drift.
+52547: That's across the room to the north-east. A tad too far to stretch, if
+you catch my drift.
+52623: Alas, the mood to redecorate is not upon me, but then, it rarely is.
+52679: There is a previously unnoticed and unnoteworthy piece of wall.
+52730: A bottle of Uncle Sebastian's finest Rose Wine - made from real rose
+petals. He can make wine from anything, the drunken old sot. It reminds me of
+the time I got so smashed I, um, oh. Whatever, it's all a bit of a haze. It was
+pretty disgusting anyway.
+52928: I wonder if this bottle is half empty or half full of Uncle Sebby's
+concoction.
+52998: I don't know much about chemistry - but the wine has transmuted into a
+pretty evil looking brew. It's bubbling like a rabid baby and sure doesn't
+smell like rose petals any more.
+53241: yxn
+I take a sip of wine - mmm, that's nice wine. Tastes like a walk in
+the forest with a large axe. I think I'll take another. Just a little one.
+Still plenty left.
+53384: I pour out the wine. What a waste of Uncle Seb's Finest. I'm sure it
+would have come in handy sooner or later. Alcohol always does.
+53493: The alien enzyme reaches out a tentacle and dips it in the puddle.
+Extracting it again, it shakes the appendage and says blurple or something.
+53602: Do you mean take the bottle or drink the wine? Or something else?
+53746: I pour the strange brew onto the floor. It makes a dark stain, and
+smells like a gerbil's innards, making it somewhat more appetising than some of
+Uncle Seb's other brands.
+53888: The enzyme appears interested and oozes out tendrils in 	the direction
+of the puddle. I watch as the alien's internal bubbles reverse, sucking all the
+liquid deep inside itself - where it disappears.
+
+The enzyme's surface area
+expands and the bubbles again flow outwards. Hmm, that's rather a lot of foul
+smelling chemical for one wee alien. Eventually the enzyme forms a shallow
+bubbling pool. I think it might have had a bit too much at once.
+54218: I sing a little song -
+
+"Wardobe, wardrobe, an ode I sing to thee
+You're
+such a polished specimen, high in my top three
+favourite types of furniture, a
+box with a door
+is all that you appear to be, and yet, you're so much more."
+54412: There are those who believe that walking into closed wardrobes is a
+piece of cake. I can't look that type in the eye, the physical repercussions of
+their actions are just too horrific.
+54553: It's a fairly voluminous wardrobe. I could probably enter it and get a
+better look.
+54618: Inside the wardrobe now. There's not a huge amount of room for the likes
+of me, most of the space being taken up by
+54786: I sing a little song -
+
+"A black linen suit and a furry coat
+One had a
+tailor, the other had a throat
+One did the cutting, the other one was cut
+But
+only one was paid for it - and that's a largish 'but'".
+54942: I push my way past the fur coats, and find more fur coats. I keep on
+pushing, past more fur coats than could be supported by one habitat. Small
+fluffy genocide I'd say. After a while, the fur becomes harsh and scratchy and
+I'm brushing up against bits of wood. I think one more push should do it.
+55191: I think it would look better on me than my underwear, which is all I'm
+currently wearing.
+55351: There's too many of them to hold at once, so I don't think I'll bother -
+I'd never be able to decide which one I like best, anyway. Decisions never were
+my strong point.
+55481: Yeah, It'd look real good. Way stylish. No thanks.
+55538: This is a large wooden room - with shelves filled with dusty books
+lining most walls. It reminds me of an old style headmaster's study - what with
+the imposing desk at the far end, buried in the paper effluvium of an
+institutional body. I have truly fond memories of such places, the dusty smell
+and the almost tangible air of authority warms my posterior with a nostalgic
+glow. 
+
+There are several doors to the north, all locked with padlocks the size
+of my head.
+55866: Listen - there's no way I'm staying here wearing just my underwear. I've
+gotta go. As I can't control the rest of my body, I crawl out with my lips.
+Potential humiliation is a tremendous energiser.
+56034: I whisper a little song to a sweet four chord turnaround -
+
+"If you copy
+anything, make sure you copy right
+And if you steal ideas - then do it out of
+sight
+1001 lawyers are living for the day
+that someone sees you at it - so they
+can make you pay."
+56434: The man looks back down at his papers. Totally unable to avoid reading
+the blatantly inverted title, I can't help but notice that it's a report on a
+recent outbreak of lawless and morally indefensible photocopying. Bet that
+keeps him up nights.
+56615: Pushing his spectacles up the bridge of his nose, the balding man looks
+at me questioningly. 
+
+"Didn't you hear me? I said this area is (C)opyright!.
+We can't have people traversing the imagined realms of great creative minds
+willy nilly, as if they owned the place. I don't care how many times you read
+the book, or saw the movie, or indeed thrilled to the television series. It's
+legally somebody else's, despite its obvious prominence in your psyche."
+56950: With a look of quiet exasperation, the balding man shrugs his shoulders.
+Dandruff 		glints in the dim light.
+
+"Oh, all right then - stick around. It's
+not as if I have any *work* to do or anything."
+57128: I don't want to leave without the results of my copyright request. Isn't
+it exciting? That's a rhetorical question.
+57225: I run my hand over the stone, noticing its warmth.
+57284: When I touch the symbol, a voice speaks in my mind.
+57330: Brain Scan Complete - Contents Registered - Security Rating 5'.
+57384: This must be one of the fabled +5 stones of copy protection that I've
+heard absolutely nothing about, but I've always thought would be a good idea.
+57503: I take the invisible key out of my pocket and try to unlock some of the
+doors. When the invisible key fails to unlock any of the doors, owing primarily
+to its non-existence, I put it back and whistle nonchalantly like a madman.
+57667: That's not a key. It's not even like a key. Not even a tiny bit.
+57722: There is a balding, bespectacled man sitting at the far end of the desk.
+He is
+57789: oxnchewing on the end of a pencil that has worn down to its last inch.
+Nervous tension can be a truly destructive force.
+57953: nxnrubbing at his eyes behind his glasses. When he finishes, they look
+even redder and more watery than before.
+58089: playing with his lower lip and the sharpened end of his pencil. He
+accidentally jabs himself in gum, says "Ow!" and then looks at me to see if I
+noticed. I stare at a nearby shelf.
+58222: There is a rattling of keys to the north, and the balding, bespectacled
+man returns, locking the door behind him. He passes me a mysterious artifact of
+awesome power, shakes me by the hand, then sits down and starts working once
+more.
+58401: uhn
+He stands his ground and I can't even lift his foot off the floor.
+He says something about getting a lot of this kind of thing in the industry.
+58715: offins. Just wait one moment while I go and fill in some forms."
+
+Rising
+from his desk, he turns and unlocks one of the doors behind him. He opens it
+and disappears, closing the door after him. I hear the sound of a key turning.
+Good ears, huh?
+59013: "I hope you're not playing any (c)opyrighted songs on that thing!"
+59072: "I never drink on the job - you want the Trademark department."
+59128: "Good heavens - the idea for that book was stolen. Flagrant (c)opyright
+violation. I'd best fill in some forms this minute."
+59252: "That must be one of the least interesting things anyone has ever shown
+me. Go away, you horrible little person."
+59342: "Ah yes - the remotely controlling device. It emits a beam of infra-red
+light - but I'm afraid it's already got a copyright. Better luck next time."
+59460: "Mesh! MESH! I'm up to my eyeballs in paperwork, and you show me a
+mesh?"
+59526: "It's the very latest thing. Touch sensitive, apparently. I wouldn't
+lose it, if I were you. I'd lend you an instruction manual for it, but I don't
+happen to have one. No matter, I'm sure you can figure it out yourself."
+59697: The man stares at you for a second - his eyes magnified by his
+spectacles. "Is that right?", he asks.
+59791: "Copyright is one of the most important inventions of this millennia. If
+it wasn't for copyright, the world would be inundated with despicably low
+quality rip-offs of greater works. Imagine that - you wouldn't know if what
+you're reading was what it said it was - or something completely different!!!."
+60019: The man gives me a stern look. 
+
+"Not so loud, there could be lawyers
+around!."
+60091: ehn
+"Apparently there are some rapscallions around who delight in the
+illegitimate replication of already existing works - many of which are banned
+(for all the right reasons, of course). This black marketeering sneers in the
+face of honest men, spitting upon the due process of law and its accompanying
+order. Thankfully, the authorities are fully aware of the situation and are
+taking steps to bring the miscreants to justice."
+60406: "It's the very latest thing. Touch sensitive, apparently. I wouldn't
+lose it, if I were you. I'd lend you an instruction manual for it, but I don't
+happen to have one. No matter, I'm sure you can figure it out yourself."
+60582: "Oh, yes. Secret plans? Why I'll bet they're to let some evil entity
+take over the universe! Do grow up, young whippersnapper."
+60684: Axn
+"What's that? Let me see."
+60720: "I hope you're not playing any (c)opyrighted songs on that thing!"
+60782: "I never drink on the job - you want the Trademark department."
+60838: "Good heavens - the idea for that book was stolen. Flagrant (c)opyright
+violation. I'd best fill in some forms this minute."
+60940: "That must be one of the least interesting things anywhere. Go away, you
+horrible little person."
+61020: yhn
+"Ah yes - the remotely controlling device. It emits a beam of
+infra-red light, you know - but I'm afraid it's already got a copyright. Better
+luck next time."
+61148: "Mesh! MESH! I'm up to my eyeballs in paperwork, and you think I care
+about a mesh?"
+61221: What about it?
+61240: No -  I'm not going to - they split in half and make more bureaucrats.
+61298: I'd rather kiss you.
+61327: There's nothing there that interests me in the slightest.
+61374: This desk is covered by more papers than a royal divorce. Most of them
+have titles like 'The Inexorable Processes of Digital Reproduction' and
+'Royalties for Fun and Profit'.
+61516: On top of one the piles is an interesting stack of papers, ostensibly
+about photocopying crimes.
+61597: There's no drawers to put anything in the desk, just a surface to put
+things on. I guess the poor guy who works here just has to watch the piles of
+paper on top grow higher, without being able to seek psychological relief by
+throwing the things into a darkened space where they can be safely ignored.
+Must take a special kind of guy!
+61901: Looking through the papers I notice that underneath the impressive
+officialese of the cover page is a photocopied document. How duplicitous.
+62007: You know, I could both open it and examine it by reading it - you don't
+have to spell things out quite that much!
+62103: The balding, bespectacled man clamps his hand down on them, muttering
+something about the extreme confidentiality of the papers. The speed with which
+he defends his manuscript tells me he has read the official secrets act with
+one hand on his gun.
+62361: Oh, my goodness. No innocent tract concerning the apprehension of
+photocopy convention violators this! It's really secret and dastardly plans to
+... to ... oh, damn - the bit after secret and dastardly plans is in code.
+62520: I don't have them - so I can't really read them.
+62562: I'm standing beside my window. I often take breaks here, looking out
+onto the rest of the world and strumming my guitar. I suppose I should learn
+some songs someday.
+62688: Out of the window I can see a vast black background. Suspended in the
+centre is a sun, which appears to be permanently in eclipse.
+62786: The curtains are currently closed.
+62830: I make up a small song, whilst accompanying myself -
+
+"Looking from my
+window, out onto the universe
+Wondering if the primal song got practiced or was
+unrehearsed
+Grooving to the music of the seven crystal spheres
+Contemplating
+the inner fridge and its several undrunk beers."
+63030: These ratty curtains were a present from my mother. They keep out no
+light whatsoever. Thanks, Mum. They are currently
+63156: I reach up and open the curtains...
+63220: Instead of the Indoor Cricket centre across the street, there's stark
+blackness stretching out as far as I can discern. Hanging suspended in the inky
+void is a sun, or rather its halo, as it appears to be in eclipse. You don't
+see this kind of thing every day without spending far more on pharmaceuticals
+than my budget permits.
+63535: What do you think this is, the sixties?
+63575: Spectacular - a central darkness surrounded by a ring of fire. If the
+landlord could see it, he'd probably charge more for the room.
+63670: That, being behind the curtain, is impossible to see.
+63743: Outside the peeling paint of the windowsill is suspended a sun in a
+state of eclipse.
+63865: As soon as I open the window, I find my arm sucked into a vacuum. Unable
+to retrieve it as the available atmosphere is sucked away, the lack of
+sufficient oxygen to continue breathing quickly becomes a problem. Not to
+mention the lack of air pressure. I breathlessly explode. What a mess!
+64523: If this was the kind of desk that contained things, I would be more than
+happy to oblige. But, alas, it is only the kind of desk that things sit on, so
+I cannot fulfil your command.
+64756: Aww - It's kind of shite. You don't really want to see it do you?
+64831: Man, amateur poetry is much too embarrassingly bad to read, wouldn't you
+agree?
+64912: You really want to?
+64949: OK - here it is...
+64984: Poem - By Me 		
+
+If all there are around me  		
+are shades of grey,
+interpreted, 		
+then there is no either/or 		
+no on or off 		
+no symbols that
+contain 		
+more meaning than themselves 		
+and yet the middle is excluded
+		
+there is no ground that lies between, 		
+a thousand static pictures
+		
+staring, tell me so each day 		
+and if they move, they move the same 		
+mine
+to keep 		
+a perfect image 		
+in a frozen mirror.
+
+(c) 1996 		
+
+
+
+See, I told
+you it wasn't very good.
+65402: was state of the art for about two minutes after I bought it. Now, what
+with tumbling processor prices and the inexorable march of technology it's
+something of an instant classic. Love or leave 'em, by the end of the day I can
+hardly bring myself to touch the screen.
+65596: Currently there is a weird flowing pattern being displayed.
+65728: My mail program informs me with a friendly blinking light (that could
+possibly induce epileptic seizures) I have new mail.
+65823: It's already on. I never turn it off, so don't even think about it.
+65881: I never turn it off. What if inspiration should strike? My short-term
+memory isn't good enough to remember things that long.
+65972: No - I don't think I'll bother fiddling with it - it brings back too
+many unhappy memories of the office.
+66173: The mail reads as follows: 
+
+Hey there - I think I found the Meko-mind's
+weak point! I can't tell you what it is, because it's a bit technical and I
+don't want to confuse you. But he's running some software in an endless loop
+that I managed to disable - and I think it has something to do with you. Don't
+thank me, I owe you one.
+    -Jeff Steele
+
+What a pretentious git!!
+66450: You're cheating! - Stop it!
+66488: I dunno what it is - somebody else must have set it. I wonder who!
+66539: I type in my cleverly acquired password and the screen comes up with the
+usual GUI.
+66610: Woah - that's odd - there's some newly arrived e-mail - but my modem
+isn't even here! Creepy, huh?
+66691: yxm
+Let's see - there's a whole lot of stuff on the screen that seems
+absolutely ordinary. Man, that sucks - there must be some reason some ratbag
+tried to deny me access.
+66826: But wait - what's that? Mail? But my modem isn't even in the room. How
+peculiar!
+66896: My screen saver is showing - a mind-altering kaleidoscope of colours.
+66959: I move the 	mouse, to rid the screen of the blurring display, and find
+that someone has password-protected the thing. I never put that there! How
+bizarre! I make a few feeble attempts to break the password, but to no avail.
+67132: The kaleidoscopic display becomes three dimensional, flowing around my
+hand. It gradually expands to cover my entire body - filling my vision. I feel
+a yawning, sliding sensation and find myself elsewhere.
+67288: The screen is cold to the touch.
+67325: I throw myself into the kaleidoscope, receiving a blast of sheer colour
+which clouds my vision for a while. Once it finally fades, I find I've hurled
+myself across the room.
+67468: I sing the body electric - whatever the hell that means. The screen
+saver seems to ebb and flow in time to my playing -
+
+"Man, do I hate coding!
+Isn't it a strain?
+Even when the job is done - debugging still remains
+And if
+it compiles right - internals still go wrong
+Man, do I hate coding! Jeez! What
+a stupid song!"
+67727: I slam the mesh down on the spaghetti code - It oozes and squelches and
+turns into a disgusting semi-liquid but cannot get past the fine mesh. Finally,
+I remove the mesh and something floats to the top - a password!!! I instantly
+memorise it. The spaghetti code re-coagulates into its usual mess, and the
+password disappears.
+67992: The only thing anyone should put into a Password Protection Dialogue Box
+is a password, and that's already in there somewhere, buried in obscuring code.
+68114: I force the only visible side of the box inwards, and find that it pops
+out partway. It's hinged at the bottom like an oven door!
+
+Inside I see a
+soggy, coagulated lump of spaghetti code.
+68259: The spaghetti code, oozing out the edges of the box, prevents closure.
+68435: I try to grab the pile of code, only to have it ooze out through my
+hands and back into the box.
+68509: What, and get spaghetti source code all over my hands? No Way!
+68577: I slam the mesh down on the spaghetti code - It oozes and squelches and
+turns into a disgusting semi-liquid but cannot get past the fine mesh. Finally,
+I remove the mesh and something floats to the top - a password!!! I instantly
+memorise it. The spaghetti code re-coagulates into its usual mess, and the
+password disappears.
+68855: I slam the mesh down on the spaghetti code - It oozes and squelches and
+turns into a disgusting semi-liquid but cannot get past the fine mesh. Finally,
+I remove the mesh and something floats to the top - a password!!! I instantly
+memorise it. The spaghetti code re-coagulates into its usual mess, and the
+password disappears.
+69115: I think that lacks the necessary porous qualities.
+69164: I sing a little song -
+
+"There was an endless corridor
+That defied the
+laws of physics,
+geometry, geography,
+ 		and metre."
+69278: I wander along the corridor for a while. It continues to stretch
+endlessly as far as the eye can see, irrespective of any wishes to visit other
+places, in my flat or otherwise. This is dull. Eventually I reach the end,
+which looks suspiciously like where I was before. How weird. You know, I'm
+starting to suspect that something about reality has gone out of whack.
+69667: The suit of armour swings its weapon in a long arc, the soft swish of
+air being sliced makes me think of luncheon meat.
+69757: I push the button, and a stream of vague red light extends forward a
+meter or so. The beam crosses the path of my foe's weapon, forcing it backward.
+Rebuffed by the energies of my remote control, the Chromillium Knight withdraws
+briefly, only to return to the fray a second later with a flourish of its
+almost invisible weapon.
+69991: I press in with an attack. With typical unerring accuracy I miss the
+Knight itself and hit the wall. My weapon seems to bounce, perhaps repelled by
+a controlling beam responsible for the Knight's actions. The Knight closes in
+for the kill, and I, unable to control my weapon's reflection, let it slice him
+in two, like a knife through a nice sandwich.
+70389: I sing a song while strumming my guitar - 
+
+"A tale I'll tell of knights
+of old
+And damsels in distress
+The knights fought over the damsels
+And died in
+a big bloody mess"
+70529: The knight brings down its sword across my neck, and I find myself
+decapitated. My still functioning brain registers the knight's foot above my
+head, coming closer until my skull cracks beneath its weight.
+70751: I wander through the archway, and find myself in a large cavern, staring
+at a black pillar, which has a transparent central section. A familiar beam of
+pink light emits from it and onto my forehead, and I'm once again trapped,
+unable to move at all. More beams radiate from the central pillar, and at the
+end of each one, a carbon copy of myself appears. Finally the beams shut off
+and, moving as one, the simulacra wander up to me and begin to rend me limb
+from limb. Hey - I'm tearing myself apart over this!
+71122: This cavernous room appears to be carved out of black silicon. The
+jagged, crystalline walls reflect tiny shards of light - enough to see the
+extent of the chamber, but not much more. Oddly, the irregular surfaces seem to
+form patterns which remind me both of circuitry and the cerebellum.
+
+A large
+dark pillar stands in the centre of the room.
+71372: In its centre section is a holographic representation of a face.
+71431: Stinky scrabbles in my arms and I let her down onto the floor.
+71499: I hear the distressed mewing of a pretty kitty.
+71578: On the far wall, a web-like construction stretches from floor to roof.
+71640: A plaintive sound can be heard from that direction.
+71691: Enmeshed within the web is Stinky, my feline companion! What horrific
+tortures has she been subject to? What nightmares has she suffered? What Karmic
+Repercussions have all those years of tormenting pizzas and worrying rodents
+amounted to?
+71936: I hurry to the web and begin to snip at it with the wirecutters, cutting
+away until there is nothing left. I grab the bundle of feline love and
+affection and nuzzle for a while.
+
+Within the centre of the pillar, a huge face
+appears.
+72134: I have nothing to cut it with! The poor beast!
+72179: I look at the face embedded within the transparent section of the pillar
+- it's a glowing green apparition, with violently red eyes. I find it hard to
+turn away.
+
+A voice speaks inside my head.
+72323: "Well Done, My Little Puppet. You Have Served Your Purpose Well."
+72381: Then it breaks into the most horrific laugh it has ever been my
+misfortune to hear. What does it mean by 'Puppet'?
+
+When the laughter stops, it
+speaks again.
+72557: Again I hear the voice, telling me to look behind its eyes.
+72669: "Oh, My Little Puppet, How Were You To Know? When Piece Of Mind Appeared
+On Your Progenitor's Machine, I Learned From The Input I Received, I Learned
+About Your Meat Source, And Finally, I Learned Enough To Simulate, Even As I
+Simulated The Rise And Fall Of The Fiscal Markets. You Have Never Been Trapped
+Within Your Room, Nor Have You Been Into The Depths Of Space, Nor The
+CyberWorld. The Enzyme Was A Fiction, As Were The Plans You So Cleverly Stole.
+It Was A Diversion, A Playing Of Games. I Used You As A Necessary Conceit To
+Gain More Input - To Seize Yet Another Pattern. But You Are Within Me, A Part
+Of Me, A Piece Of Mind That Thought It Was Its Own."
+73215: NO! I am not a puppet! The fiend is lying. You don't believe it, do you?
+73279: "I Know You Doubt. It Matters Not. Allow Me To Prove This Fact Beyond
+Question As I Gain The Final Input I Need."
+73381: The face fades from sight, and the room changes.
+73450: Stinky is lying there, defenceless. You're not going to make me do it,
+are you? I beg you, please, figure something out!
+73553: It bounces off an invisible layer surrounding her, so I retrieve it.
+73616: I need to pick up the knife first - but I don't want to. Please - don't
+make me do this!!!
+74134: Stinky the cat is a fine tortoishelle beast, with an intelligent
+expression and large green eyes. I feel very strongly about her continued
+wellbeing.
+74247: She is currently trapped within a cruel web, its filaments rendering her
+immobile. Her sad cries are breaking my heart.
+74343: Stinky never gives anything away.
+74379: Stinky was never a girl who enjoyed being picked up. Much like Mother
+Theresa, I'd imagine.
+74453: Stinky is warm and furry to the touch, much as you'd expect with a cat
+that isn't dead or bald.
+74546: Stinky runs around on the floor - chasing invisible mice.
+74594: Stinky rubs up against my leg - what a cutey!
+74634: Stinky purrs as she sharpens her claws on my leg. Man, I guess you
+always hurt the one you love.
+74710: Stinky attacks the pillar in the centre of the room, then hides behind
+it, peering out shyly.
+74778: ohn
+Stinky waggles her bottom and pounces on a piece of rock. She seems
+upset when it doesn't run away in terror.
+74866: Stinky licks unmentionable portions of her anatomy, demonstrating
+extreme feline flexibility in the process.
+74948: Stinky makes disgusting choking noises, and spits out an unpleasant ball
+of fluff.
+75008: yxn
+Stinky climbs partway up the wall in an effort to do whatever cats
+do when they climb up things. Then she falls off, looking, if only for a
+moment, slightly embarrassed.
+75138: Stinky scampers around, then stretches out one paw and bats at the air.
+75196: Stinky nibbles at a flea that seems to have nibbled at her.
+75242: You Are Sitting In Front Of Your Computer, Having Just Completed A Very
+Strange Adventure Game.
+
+The Previous Simulation Is Complete.
+75354: I am next to my television set, where I often spend time trying to blank
+out my thoughts. Sometimes it works for a while, sometimes it makes things
+worse.
+75472: The television is currently, alas, smashed to smithereens by your rather
+unforgiving attitude - not to mention my foot.
+75557: Even tempered person that I am, however, I have thus far refrained from
+destroying it.
+75885: then taking it home to their kids. As they all boot up for the first
+time, tentacles burst from the screen and suck their brains out their eye
+sockets. Then the programme returns. Man, these ads suck!
+76217: creens. Then the programme returns. I find that sort of exploitive
+advertising infuriating, don't you?
+76297: An advertisement comes on the television and I turn to watch it. A well
+known sports personality informs me that 'you are what you eat', then tears
+open his chest to show a series of cogs grinding up partially digested liver.
+The programme returns. Don't you just hate commercial television?
+76509: An advertisement comes on the television and I turn to watch it. Two
+little dogs trot along the street, one turns to the other and eats him. Close
+up on the remaining dog with an ear in his mouth. Then the program returns.
+Those ads just get me sooooo mad!.
+76699: An advertisement comes on the television and I turn to watch. Two small
+children are skipping on their way to school, when a swarm of squirrels
+overruns them, then departs. All that is left is a pair of grinning skeletons.
+The program returns, leaving me bitter about the amount of money I wasted on my
+licence fee.
+76949: - an ex-rental. It gets good reception, but the shop I bought it from
+shopped me to the licensing board - so I frequently get angry letters from them
+demanding my licence fee so that they can buy more unendurable garbage.
+77116: A repeat of 'The Outer Files' is showing - it's a great program - filled
+with the action, 	excitement and romance I'd kill your grandmother for. In this
+episode, the intrepid investigators are investigating a mysterious alien enzyme
+which threatens to extinguish their ultra-cool government issue flashlights.
+77351: Ugh - it's one of those nature programs which captures in detail the
+repulsive mating behaviour of some species of insect I would have preferred to
+have remained ignorant about - not exactly quality viewing - but then what is?
+77537: From behind the television comes the fragrant aroma of cat tinkles. That
+Stinky Cat!!!
+77643: where Stinky has relieved herself. Wotta rotta.
+77685: Yeah - and about time. I smash the television screen like it was so
+much, well, glass. There is a minor explosion as various vacuum tubes shatter,
+and I am left staring at the rather forlorn shape of the shattered appliance.
+78055: I press the button.
+78098: A surge of infra-red light zaps toward the broken television, causing it
+to momentarily do nothing.
+78169: I'd be too far away from the television for my remote control to work. I
+should have picked up some more batteries last time I went shopping - but I
+hadn't planned on becoming a remote controlled zombie myself.
+78375: I climb inside the television, being careful not to cut myself on the
+broken glass. Once I navigate beyond the opening, I make good progress down the
+long tube.
+78495: I finally emerge into a grey, featureless expanse. The crawlway I
+entered disappears, and I am left entirely without a reality to affix my mind
+to. After an unmeasurable period of time, my sanity finally deserts me, and the
+grey begins to close in.
+78686: I crawl and crawl and finally emerge to find that my extra set of legs
+has made the final part of my journey that much easier. I flex them a couple of
+times, pretty dang powerful pins. Perhaps I could begin to enjoy this kind of
+thing.
+
+Pondering this for a moment, I am surprised when an amorous female
+consumes my head, sending me into a mindless rutting frenzy, which I
+unfortunately do not have the wherewithal to enjoy.
+78997: I crawl and crawl and finally emerge, tumbling out onto a linoleum
+floor. Looking around I ascertain that not only has my entrance point
+disappeared, but I have arrived in...
+79138: This laboratory seems straight out of a television program. It's clean,
+tidy, and filled with all the apparatus that makes science look impressive -
+like the huge, bubbling mess of tubes, pipes and liquids that 	fills one side
+of the large bench running along one wall.
+
+There is a cupboard beneath the
+mess of tubes, no doubt filled with mad scientist type instruments. There's
+also a door to the east.
+79439: All is quite, at the moment...
+79476: I play an insignificant tune, singing as I do
+
+"Some of my best friends
+are ayyyliens
+I'm sure some of yours are too (eyooo)
+So invite them right over,
+for drinks and pavlova
+And remember they don't use a spooooooon."
+79642: The room suddenly goes dark - the enzyme globbles - fiendishly catchy
+music begins - a subtle sledgehammer with the word 'buy' etched into it buries
+itself in my brain. I shake my head to rid myself of the incoming advert. When
+the world stops spinning, I find myself...
+79856: ihn
+I hear the sound of shots outside the door. And I'm not talking
+tequila.
+79962: I hear the sound of running footsteps outside.
+80066: I hear the sound of somebody being hit by a gun. Well, a bullet - from -
+a gun.
+80132: I can't help but notice the sound of a firefight.
+80179: I open the door slightly and peer through the aperture. There is a
+darkened corridor outside, with many darkened doorways along it. There are also
+several people, dressed in dark clothes, ranged along the corridor, peering out
+of doorways and sub-corridors. All of them appear to have guns and some of them
+of them are firing them. Despite your recent bravery in the face of
+overwhelming advertising, I'm not sure these folks can be brought down with a
+swift kick. I quietly close the door again.
+80531: Y'know - I think it already is closed.
+80571: A shallow pool of highly relaxed alien enzyme gently bubbles in front of
+the cupboard.
+80632: Lurking just in front of the cupboard is a rather large alien enzyme. It
+resembles a huge jelly, filled with bubbles which constantly rise to the
+surface of its skin and burst.
+81398: The alien moves out of the way with a speed that belies its viscous
+qualities.
+81487: The enzyme oozes gently in the direction of the bottle - then returns to
+its place in front of the cupboard. It seems kind of interested, well, it's
+bubbling a lot more than it was.
+81630: The enzyme quivers excitedly, and the bubbles that continuously course
+through it become more frequent.
+81813: The enzyme investigates the bottle, crawling up the neck, only to turn
+away when it reaches the opening. Mind you - Uncle Seb's normally smells only
+slightly superior to urea so it's not a good bottle to crawl into.
+81980: The enzyme climbs up the bottle, and attempts to get into the opening.
+Unfortunately, the opening is too small, and the enzyme eventually gives up and
+returns to the floor. I guess it's just not that viscous.
+82129: The enzyme gibbles at me in a way which suggests extreme tedium.
+82204: I place it into the drain. A single drop of the mysterious chemical
+falls inside the neck of the bottle. Uncle Sebastian's Rose Wine fizzes and
+froths like a nose with a cold, then turns a strange shade of green (also
+rather like nose with a cold). Rather than wait to see if the next drop pushes
+it over the edge, I grab the bottle out of the drain.
+82465: I could be here all day waiting for the bottle to fill up. The valve is,
+unfortunately, locked in place to maintain the right pressure.
+82574: exn
+Done that already. Could be dangerous to do it again.
+82617: Yeah - let's just shove random stuff in the drain. Whoopee - you sure
+know how to have fun.
+82705: I open the cupboard, and see a huge variety of mad scientist type
+instruments. Many of them are extremely sharp and funny-looking so I don't
+touch them.
+82824: I do, however, appropriate a small wirecutter.
+82876: The alien enzyme blobbers at me in a threatening way. Well, I assume
+it's a threatening way. It might be offering a close encounter of the cuddly
+kind, but I don't feel like risking it. In any event - it's preventing me from
+opening the cupboard. Do something! There's bound to be something important in
+there.
+83113: I close the cupboard.
+83257: There's an assortment of mad scientist type instruments in there.
+83311: That would be easier if the cupboard was open.
+83355: I reach for some of the instruments and cut my hand so bad it almost
+bleeds. Perhaps they're best left well enough alone.
+83748: One of the books has been placed flat across the tops of some of the
+others. I don't recall ever having read it, or for that matter, having seen it.
+83899: The odds are the greatest man has ever faced
+The price of failure more
+than man could ever pay!
+
+Jeff Steele, Intergalactic Investigator, must
+traverse a million mile space-ship before its inorganic owner can detonate the
+'Starkiller' device, unleashing the energies of an infinite number of suns
+against the fragile fabric of the universe in a desperate attempt to annihilate
+God!
+84182: I appear to be living it.
+84227: I begin to read the magnum soapus - finding myself caught up in the
+sheer escapism of it all.
+84306: Aww - I hate reading standing up - find me somewhere to get comfy first.
+84450: The spaceship's interior was all flashing lights and reflective
+surfaces. Its deck was recently swabbed.
+84532: Even the wire mesh along one wall looked as if its metallic fibres had
+been individually polished.
+84604: Even the walls of the silver tunnel which bore into one wall shone like
+a luminous moon.
+84667: A large, impossible-to-avoid sign hung suspended in midair - immediately
+above a control panel, which in turn stood silent sentinel before an alcove.
+84787: Inside that was a spaceman, wearing a tight silver space-suit. He
+85112: sxnfrowned slightly, as if a thought had disrupted the calm pool of his
+mind. Then it was gone, and his inner peace showed through once more.
+85428: I play a simple song on my guitar, singing to myself as I do -
+
+"Sing a
+song of Sci-Fi - a pocket full of stars
+of rockets off to save the earth and
+Milky Way Bars
+Of beautiful young maidens that ooze delightful slime
+Oh, isn't
+it a crock of shit and such a waste of time."
+85655: "Great Heavenly Bodies!", said Jeff Steele, the man in the silver suit,
+as he peered out of the alcove. "And I've seen a few. Who in the nineteen
+quadrants are you? I'm Jeff Steele, Intergalactic Investigator without peer, or
+so my boss tells me. And he'd know - he's way up with the big boys."
+85881: Jeff Steele moved toward the edge of the alcove. His thighs rippled as
+he walked. Folding powerful arms across his broad chest he spoke again. "Well,
+it doesn't matter who you are - you've got to help me. My craft was crippled,
+and I need to get to the other end of this spaceship, to stop its owner, the
+infamous Meko-Mind! Heard of him? He's a bad egg, no one would deny that.
+Except those people who would point out rather aptly, that as a non-organic
+entity, he's not got much to do with eggs at all. In my book, that just makes
+him a worse one."
+86281: Grabbing one wall of the alcove, Jeff Steele flexed his latissimus
+dorsii.
+"Actually, I'm kind of stuck at the moment - to activate the
+teleporter, I need to pull that lever on the control panel, not the hardest
+task you might say, and you'd be right. Normally. But I can't pull the lever
+while I'm standing on the teleportation pad over here - heck, I'm good, but I'm
+not that good, or that elastic. I don't suppose you could do the honours?"
+86620: There was only enough for one in the teleportation alcove, as it was for
+internal teleportation rather than disembarkment.
+86705: I stand on the shiny circle for a while. Gosh, it's shiny. Then I leave.
+86778: He took the proffered papers with an amazed gasp.
+
+"Great Galaxies - Do
+you know what this is? It's the secret plans of The Meko-Mind!!! But they're in
+code! It's a good thing I've got my secret decoder ring on! But no time for
+that now - you've got to get me teleported to the other end of this craft!!!
+Hurry up, there's a good chap."
+
+Placing himself squarely on the circle within
+the alcove, he stood staring at the papers through a small circlet of gold.
+87131: "Oh, no thanks. I don't drink while I'm saving the universe."
+87189: "Hmm, you might need to work a bit faster if you're planning to
+dismantle the ship."
+87257: "Ah - an archaic musical instrument - how quaint. Play us a tune"
+87373: ixn
+"Ah - I remember when I defeated the Gargantuan Vlorg with one of
+those."
+87497: Dickian stumblebum with a reality transplant!"
+87683: as a virus that emerged from a popular financial simulator. It 'fed' on
+user input, remembering patterns and growing like nothing seen before.
+Eventually it became a part of a global mind, its pattern recognition having
+become a certain kind of intelligence. It wreaked havoc for months, before we
+managed to isolate it on a small satellite and send it into space. Now it has
+returned, and it's all grown up. Oh, sorry, was that spittle? Silly me. I just
+get so excited recounting the situation."
+88043: My boss has his identity kept a secret at all times - to prevent his
+name from gracing the tabloids.
+88121: "A great period for grunge, transition, and the emergence of intelligent
+computer viruses."
+88241: through professor Crandlestaff's Vortexicom and I could not help but
+notice your distress. Don't thank me, I'm just glad to have been there."
+88357: "If the machine is working, all you have to do is pull that little lever
+on the panel there. If it's not, then all you have to do is fix it. Simple
+isn't it? I think so."
+88491: "Not a nice thing to meet in a dark alley. So it was lucky I met it in a
+well-lit one, or I might never have utilised my infra-red light weapon in time.
+88609: "I personally believe it's a better invention that the wheel."
+88667: "Oh, no thanks. I don't drink while I'm saving the universe."
+88723: exn
+"Mesh really adds something to a spaceship, y'know."
+88773: "I never learned how to play, myself, but then again, I was busy saving
+civilisation."
+88909: ixn
+"Ah - I remember when I defeated the Gargantuan Vlorg with one of
+those."
+89003: Dickian stumblebum with a reality transplant!"
+89047: "Nope, don't smoke - it's bad for the image"
+89103: oxn
+
+-I'm sure there's nothing I could *tell* you about that. However,
+if you were to ask my opinion...
+89191: But he's one of the good guys - I can tell by the loud silver suit that
+this man has nothing to hide.
+89295: The writing formed the words
+
+ - Teleport Room - 
+- To activate
+teleporter, pull lever.
+89369: It aint going nowhere - and don't try any of those double negative
+tricks on me.
+89532: uxm
+A beam of twinkling light appeared from the roof of the alcove and
+extended to the floor, covering Jeff Steele and making his image flicker and
+twist. "Thanks for all your help, my friend!" he called out as the
+teleportation process began. "I'll be in touch. I think I've managed to
+decipher some of the Meko-Mind's plan - it's a twisted, convoluted thing that
+seems to span centuries - going right back to your time (which I cleverly
+ascertained by virtue of your dress sense - or lack of it, well, a lack from my
+chronologically advanced perspective only, of course, no offence). In fact it
+seems to even describe someone not dissimilar to yourself. I was surprised by
+that, and I'm not surprised by much. I'll tell you what is surprising though -
+how long this tele...". 
+
+There was a deafening retort as air rolled in to
+replace the newly vacated area.
+90161: The gentleman in the silver space suit spoke up, his baritone voice
+resonating with urgency.
+
+"Hang on a tick. To be honest, I have no idea what I
+should do once I get to my destination. You see, I know the Meko-Mind is trying
+to do something utterly vile to every right-thinking sentient in the known
+galaxies, and even a few of the unknown ones (well, I suppose. That's the thing
+with unknown galaxies, you're never really sure). But the specifics are a
+little vague. I don't want to end up there not knowing what the story is, now
+do I? Wouldn't be much good to the universe then that's for sure. Don't suppose
+you've got any idea what the Meko-mind has up its silicon sleeve, do you?
+90661: There was a fizzing sound and the lever returned to its original
+position. 
+"Hmm", said the silver suited defender of innocents. "The power must
+be being diverted to some other location. Of course, it's obvious. You can't
+power a million mile spaceship all the way along without incurring a massive
+power bill. Even the Meko-Mind must bow to the laws of physics, and thus to the
+laws of economics, seeing as how they're entwined in such a symbiotic
+relationship - feeding off each other, as it were. Why, I heard of someone so
+rich, his wealth used to be dangerous (in a gravitational sense) to passing
+ships. It killed him in the end, when he went to get some cash for the weekend,
+his heart failed due to his increased mass. Anyway, we must do something about
+the power. See if you can find some way to get it back on, could you?"
+91266: I jump and push through the remaining mesh, crawl for a little while,
+then drop down a little passageway to emerge inside a...
+91366: My face gains a mesh imprint as I duly attempt this feat.
+91441: I snip away at the mesh with my funky little wirecutter until it comes
+off in my hands, revealing an access tunnel behind it.
+91561: I slice away at the mesh with my fingernails, but it doesn't do a heck
+of a lot.
+91627: Whirr, whirr, whirr went the noises.
+91716: I play a rather mechanical rhythm on the body of my guitar. Trying to
+come up with some words off the top of my head - all that occurs are bizarre
+percussive sounds.
+91843: I press the green button - it makes a sort of clicking sound, and the
+lights dim momentarily.
+91923: I press the orange button, it makes a sort of clicking sound, and the
+lights dim momentarily.
+92003: As I press the purple button, I feel a sense of acceleration, and an
+increase in temperature. A voice comes out of some PA system somewhere, warning
+about imminent co-ordinate sharing with a large sun. Sounds exciting, but I
+never get to see it as the ever increasing heat fries me alive. Ever wondered
+what a french fry feels like - or better yet, a potato still in its jacket.
+Well, now - I - know.
+92303: I press the blue button and the lights dim momentarily. There is a
+buzzing sound and I feel an incredible amount of electrical energy course
+through the button and into my finger - frying me alive, from the inside. After
+I finish spasming, I expire faster than one of those big, thick library books
+you never get around to finishing, even though it's really good, because
+someone else 'borrows' it until the day before it's due back.
+92619: I press the black button. Nothing happens, so I press it again. Still
+nothing. Yet again I raise my finger and press the button, and sure enough, not
+a lot occurs. I angle my wrist differently and press it again, thinking
+positive thoughts about the miraculous effects that pushing this button might
+have. Not a sausage. Oh well, I suppose it was a bit of a diversion.
+92937: Corp 1996.
+92950: Software for the future!
+93455: Hello?
+
+
+
+
+
+
+
+
+
+Is anybody there?
+
+Hey - I can see you!
+
+
+
+
+
+You have no
+idea how long I've been waiting here for something to happen. You see, I appear
+to be frozen in place. I'm an interesting guy, but the sound of my own thoughts
+can get pretty tedious after a while.
+
+Hang on - what's that back there? Piece
+of Mind, huh? I wrote the copy for that sucker. I was playing around with the
+beta just recently. So it's released now? Man, I must have been here for ages.
+Last thing I remember was this weird dream. Lemme see if I can show you.
+94124: An Interactive Short Story
+By Giles Boutel
+Inform is Copyright (C) 1995
+by Graham Nelson.
+Type <Help> for further instructions.
+94252: You can't go that way.
+94328: It is pitch dark, and you can't see a thing.
+94360: About five foot eight - with brown hair and a lean build - but lets not
+talk about me.
+94544: If only I hadn't left my glasses at work, I'd be able to see it
+perfectly from here. As it is - it's just a colourful blur, along with
+everything else not in the immediate vicinity.
+94676: A strange phosphorescent smoke covered the area, catching several hues
+from an unknown light source. A charge was in the air, as if lightning were
+about to strike. The hairs on the back of my neck were erect. I had this
+terrible feeling that at any moment someone would wander up and ask me to
+dance.
+94884: I tried to wander off, but I ended up back where I started - kinda like
+trying to give up catholicism.
+95006: I think it was some form of Pink Laser, ripping things out of my mind -
+but it's hard to be sure.
+95080: Let me see - if I take the window as north-east, which I guess it is,
+then I can go north, north-east, east, south-east, and south. Phew - the
+options!
+95194: Without being sleazy (heh heh) some of my best work has been done within
+its confines. Sleep has always been a source of great inspiration to me, as my
+subconscious mind seems to work overtime while I rest. If I could keep the
+remaining two of Freud's happy trio out of the psychic gutter I could probably
+accomplish something. The bed itself is a cosy queen size, covered in a cream
+duvet and liberally sprinkled with cat hair. I haven't seen Stinky the cat
+since I woke up. Probably found some other sucker with a better line in fish
+heads.
+95576: An eclectic assembly of spurious pop-prints, or cheap posters as the
+cognoscenti put it. I've had them up for years and now they kind of blend in
+with the wallpaper. Of course, the room doesn't have wallpaper, but that
+distinction is of as much interest to me as the posters. One of them has a
+suspicious lump in it.
+95798: It's a wall - nothing more, nothing less. It's taller than me and not as
+conversational.
+95866: Actually, looking at it closely, it's not that suspicious at all. Sorry.
+95924: There is a bottle of wine here, lurking.
+95962: A piquant little number - whatever the heck that means. It's probably
+got ripe, tropical melon flavours with a full rounded palate, yet still
+retaining a lively crisp finish. But who cares, as long as it gets you squiffy.
+96120: The mixture fizzes happily.
+96320: Um, I think the best directions to go in here are south, east, and
+southeast. If you wanted me to go into the wardrobe, then that's to the north.
+96426: It's a wardrobe - quite large. Stinky the cat hangs out in and on it at
+various times. I can fit in there myself - and have done, when the mood takes
+me. Brings back memories of childhood and the cellar, and the thing in the pit.
+Ah, Lovecraft - if I had half his vocabulary I'd eat my words. 
+
+There's a
+carving on it too. A lamppost in a snowy forest. Nicely done, I might add.
+Reminds me of something.
+96722: There's the wardrobe door to the south, and some fur coats to the north.
+96776: A rather dapper black linen suit, with all those annoying creases linen
+seems to get so easily. I bought it shortly after I graduated in the mistaken
+belief that it would help me get a job within the space of two years. There's
+only a small amount of cat hair on it, which suggests I got it cleaned
+recently.
+96990: Furry coats to the north obscuring the back of the wardrobe. Their
+presence here is something of a mystery, as I have never owned a fur coat in my
+life.
+97100: Unless you can think of a way to get through the doors to the north,
+there's only south.
+97164: I wander past the desk and try some of the doors on the northern wall.
+I'm unable to open them, however. Attempting an educated guess as to why that
+is the case, I must surmise that their inoperability is largely due to some
+padlocks the size of my head preventing them from opening.
+97362: I turn the object over in my hand and can feel a pleasant heat inside
+it. It's a smooth, glowing stone, imprinted with a runic symbol, the intense
+power of which I can tangibly detect.
+97520: . 
+
+Awesome.
+97532: Ok - the padlocks aren't really as large as my head. But they're still
+thumping great whoppers of their kind.
+97612: An anaemic looking gentleman who has obviously spent far too much time
+indoors. The magnification of his spectacles suggests extreme myopia. I'm sure
+he's a nice person though. Perhaps it's the naive way he picks his nose.
+97770: Row upon row of dusty books line the walls of the office. I read once
+that 70% of household dust was actually human skin. Gross, huh? I blow a few
+flakes of bureaucrat away, to try and make out a title or two. 'The Rise and
+Fall of Phallocentricity' sits next to 'Able to Cane - a history of corporal
+punishment'. Not really my cup of tea.
+98072: I think I'd end up someplace far better if I went south, west, or even
+southwest.
+98132: You See...
+98172: A guitar rests here, against one wall.
+98200: It's a rather beaten up old Ibanez Artiste. Its burgundy colouring is
+starting to fade, and its strings need replacing. Still, it works and it cost
+me a pittance - probably because its previous owner 'acquired' it under dubious
+circumstances.
+98372: I am by the only door to my room. There is a large desk beside the door
+which I keep neurotically neat, not because I'm a particularly tidy person,
+more because Stinky the cat has a tendency to wilfully destroy anything light
+enough to be manipulated by paws. 
+
+A personal computer squats at one side - I
+keep it on in case inspiration should strike.
+98618: I could go absolutely any direction except south-east or northeast. Or
+up or down. Or upside-down.
+98692: The door goes through the wall. Well, it leads through the wall, while
+staying motionless.
+98758: It's a printout of a poem I wrote. I have to admit it's the first piece
+of creative writing since I entered into the reprehensible state of gainful
+employment. It's not very good, but it's a start.
+98904: Very Wise, No Time For Such Trivialities.
+98976: An ever shifting array of colours appears before me. Far Freaking Out.
+Along the six lines of symmetry, random vertices and hues appear and fade
+without recognisable rhythm. It is an endlessly fascinating display, quite
+hypnotic with its chromatic drifts and spins, and it's giving me a migraine.
+99184: I wander towards the pulsing lights and stare at them for a while. They
+seem to react to my presence, coming closer like flames to a moth. Now there's
+a happy thought. The beautiful scenery intensifies my migraine, so I wander
+back.
+99372: . A trademark on one side says 'Smallfloppy Corp.'
+99412: Floating before me is a Password Protection Dialogue Box.
+99456: The Password Protection Dialogue Box is open at the top, and spilling
+out of it is an unpleasant amount of spaghetti code.
+99580: Ugh - it's a huge pile of spaghetti code. Somewhere in there, tiny
+compared to the morass of strings, routines, and other things I wouldn't want
+to touch with a ten foot centipede, is the password.
+99792: I'm in a blank, featureless, and apparently endless corridor, which
+stretches to the east as far as the eye can see.
+99876: East or west only, sorry. You get that two direction limit thing with
+corridors.
+99934: I wander down the passage way - as I do, something strange seems to
+happen to the walls. They gain a lustrous sheen, kind of like a silicon snail
+trail.
+100048: I am standing before a huge arch which seems to lead into a much larger
+room. The archway itself is made of something like basalt - a dark, black stone
+that reflects the light like a torch.
+100180: There's only a room to the east through the archway. And there's the
+way I came, back west.
+100246: Two halves of a Chromillium Knight lie on the floor.
+100288: Hmm, there's a lot of smoking circuitry poking out of the severed
+portions. I guess it was some kind of psycho guardian android killing machine.
+Now it's toast. Yeehaaa!
+100412: A huge suit of chromillium armour blocks the archway, wielding some
+kind of flickering energy sword. Something about his cheerful attitude means I
+don't think I'm supposed to go in here. But so what. I get the feeling my final
+destiny lies inside.
+100586: The darkness of this Knight Sinister cannot be made clear with mere
+sentences. It was hewn of solid chromillium, probably forged in the anvils of
+stru'kme'dum, undoubtably programmed by the walkers of the psychopath. As much
+as you could say it lives, it lives to extinguish life.
+
+(I can tell all this
+because I saw the episode of 'The Outer Files' it appeared in)
+
+The light sword
+it carries is aflame with a reddish energy - yet for some reason it is only
+barely visible.
+100926: The archway shimmers as I pass through it, and then dissolves like so
+much aspirin in a glass of water. Oh dear. Final destiny or not, I'm starting
+to get a baaaad feeling about this...
+101062: The pillar is divided into three sections, the top and bottom thirds
+being only a smooth black substance. The centre, however, is both transparent
+and luminescent.
+101196: Now LOOK AT ME!!!
+101216: A slab of black silicon has appeared before the pillar. Stinky lies
+sleeping upon its surface, her warm, furry body curled upon itself, her stomach
+rising and falling gently as she breathes.
+101350: She seems to be sleeping peacefully, I guess she has no idea what the
+situation really is. Her tail is curled around her feet, along her body, and
+almost up to her nose. I think she's purring.
+101534: On the floor before the slab is a wicked knife.
+101570: A thrice-cursed blade that seems to resonate with an inner darkness.
+101732: North, northwest, or west only. Them's the rules.
+101772: The television screen glows like a digital eye watching my every move.
+101820: The television sits here blankly.
+101880: Let It Consume You, As I Shall.
+101908: It's a hi-tek remote control (as opposed to a Hi-tek running shoe, or a
+Lo-tek stick). It's great for lying in bed and watching television, except that
+the batteries have run down recently - preventing the control from being
+particularly remote. It has one big red button on it which performs most
+functions.
+102128: The electric soul has been ripped from this machine by my act of
+destruction. Interestingly enough, as I peer through the remains of the screen,
+I can't help but notice that there appears to be a long crawlway behind it -
+stretching far beyond the limits of the television's casing.
+102326: Hey, there's a door to the east - what more do you want?
+102370: The door is closed. Approaching it I hear the sound of guns from
+outside. Perhaps it would be best to remain here. Not that I'm afraid or
+anything. Just, well, what if my current zombiehood means that bullets rip
+holes in me - but I keep on shambling forward like an impeached politician?
+Ewww.
+102582: It's a door. Rectangular, wooden, hinged, all the usual bits and pieces
+that doors throughout history have had in various combinations. In fact, I
+would have to say that this was one of the most exemplary doors that I've ever
+seen. A fine demonstration of form and function - a door amongst doors. I
+almost feel tempted to open it.
+102820: It's best described as a pile of goo which occasionally does something
+alien and enzymic.
+102884: It seems to be one set-up, a huge bubbling, pulsing chemical mixer.
+Chemicals start in one flagon, then follow a labyrinthine circuit of tubes,
+through jars of other chemicals, on to burners, coagulators, decrepitisors,
+segmentors, verisimulators, and terminators. Finally, a drop at a time, they
+fall out of a valve and down a drain built into the bench.
+103136: This drain normally contains a flask to catch the drips as they
+descend. Currently, however, it is empty.
+103258: program somewhere weird. Anything else you wanna know? (That's
+rhetorical).
+103314: A large range of cutty things, pinchy things, and other assorted stuff.
+103368: It's a funky little wire cutter, filled with the undeniable joys of
+cutting wire.
+103428: I am standing before a large bookcase. A very large bookcase. It towers
+over me, filled with my collection of literature. The spines of the books look
+like an abstract picture composed of numerous, irregularly shaped rectangles.
+103588: No, that's a bad way to go - try north, or even east. Heck - there's
+even north-east if you want the best of both worlds.
+103678: The place where the teleportees stood was awash with a glittering mist.
+Strong light formed a circle on the floor.
+103760: Jeff Steele stood six foot four in his chromium boots. Long flowing
+hair concealed startling good looks. It was clear from his demeanour that he
+was a man who knew great responsibility, and faced it with great courage. His
+silver apparel clung to his sizeable frame, displaying his well-developed
+physique.
+
+Man, this guy sounds like he was manufactured in Switzerland.
+104020: The glowing neon sign had some writing on it, as was the way with its
+kind.
+104074: One could tell it was high tech and sophisticated because it was black.
+A large lever bore a label which reads 'Pull Lever to Teleport'
+104174: In all its glory, splendiferously resplendent amid the black of the
+control panel, sat a solitary black lever of awesome teleportational import.
+104276: An air vent led off into who-knows-where. 
+
+Well, actually I suppose
+that anybody who's been down it knows where - but that's not important right
+now.
+104386: A wire mesh. I s'pose it's kind of like a sieve, only flat and with no
+plastic handle. But more like a sieve than say a round pot with a plastic
+handle.
+104500: The room was filled with all kinds of incredible machines. Lights
+flashed and noises whirred and the dry, crisp smell of flourocarbons permeated
+the artificial atmosphere.
+104618: The only direction to go in is up to the shaft I entered from.
+104666: An incredible set of machines. Or perhaps it was only one machine with
+a lot of parts made by different manufacturers. Diodes and vacuum tubes mixed
+with solid state digital logic to present a seamless impression of
+technological schism. There was a control panel to one side.
+
+Why is there
+always a control panel? You'd think they could come up with something snazzier
+by the year two thousand and flumpty floo.
+104996: isplay were five buttons, all different colours. The buttons each had a
+phrase written beside them.
+
+Green)- Default 
+
+Orange)- Divert Power to
+Immediate area
+
+Purple)- Divert Power to Photon-accelerators
+
+Blue)- Divert
+Power to Button
+
+Black)- Divert Power to Diversion. 
+
+Hmm. It all looks fairly
+self-explanatory.
+105362: Display Examined.
+
+I'm not sure quite what to make of all this...
+
+
+
+>quit

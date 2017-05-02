@@ -1,0 +1,546 @@
+20022: Nothing to do!
+20057: o. You have won
+20219: fhn[Your interpreter does not provide "undo". Sorry!]
+20316: Please give one of the answers above.
+20347: It is now pitch dark in here!
+20374: I beg your pardon?
+20392: dxn[You can't "undo" what hasn't been done!]
+20434: ehn[Can't "undo" twice in succession. Sorry!]
+20506: Sorry, that can't be corrected.
+20535: Think nothing of it.
+20556: "Oops" can only correct a single word.
+20590: It is pitch dark, and you can't see a thing.
+20641: As good-looking as ever.
+20665: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+20728: You can hardly repeat that.
+20753: You can't begin with a comma.
+20781: You seem to want to talk to someone, but I can't see whom.
+20856: To talk to someone, try "someone, hello" or some such.
+20924: I didn't understand that sentence.
+20994: I didn't understand that number.
+21023: You can't see any such thing.
+21050: You seem to have said too little!
+21079: You aren't holding that!
+21103: You can't use multiple objects with that verb.
+21143: You can only use multiple objects once on a line.
+21183: I'm not sure what "
+21218: You excepted something not included anyway!
+21254: You can only do that to something animate.
+21289: That's not a verb I recognise.
+21319: That's not something you need to refer to in the course of this game.
+21373: You can't see "
+21416: I didn't understand the way that finished.
+21508: Nothing to do!
+21525: There are none at all available!
+21599: Sorry, you can only have one item here. Which exactly?
+22572: Please answer yes or no.
+22598: Are you sure you want to quit?
+22634: Are you sure you want to restart?
+22666: Failed.
+22686: Restore failed.
+22703: Ok.
+22721: Save failed.
+22736: Ok.
+22754: The game file has verified as intact.
+22786: The game file did not verify as intact, and may be corrupted (unless you
+are playing it with a very primitive interpreter which is unable properly to
+perform the test).
+22916: Transcripting is already on.
+22973: Transcripting is already off.
+23022: Score notification on.
+23043: Score notification off.
+23066: You have visited:
+23094: Objects you have handled:
+23119: None.
+23505: You are carrying nothing.
+23554: Taken.
+23565: You are always self-possessed.
+23947: You're carrying too many things already.
+24125: Dropped.
+24235: Removed.
+24324: You can't put something on top of itself.
+24401: You lack the dexterity.
+24482: Done.
+24681: You can't put something inside itself.
+24772: Done.
+25008: Wrahn seem interested.
+25227: You can only get into something freestanding.
+25464: But you aren't in anything at the moment.
+25578: You'll have to say which compass direction to go in.
+25680: You can't go that way.
+25866: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+25968: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+26056: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+26397: Darkness, noun. An absence of light to see by.
+26528: But it's dark.
+26545: You find nothing of interest.
+26581: But it's dark.
+26672: You find nothing of interest.
+27842: . Not bad.
+27860: That was a rhetorical question.
+27887: This dangerous act would achieve little.
+27921: Nothing practical results from your prayer.
+27957: The dreadful truth is, this is not a dream.
+27994: That seems unnecessary.
+28017: Keep your mind on the game.
+28042: What a good idea.
+28061: You smell nothing unexpected.
+28088: You hear nothing unexpected.
+28113: You taste nothing unexpected.
+28148: Keep your hands to yourself!
+28173: You feel nothing unexpected.
+28198: If you think that'll help.
+28224: Digging would achieve nothing here.
+28291: You jump on the spot, fruitlessly.
+28324: You would achieve nothing by this.
+28353: There's nothing suitable to drink here.
+28386: But there's no water here to carry.
+28417: Oh, don't apologise.
+28439: Real adventurers do not use such language.
+28474: Quite.
+28485: Violence isn't the answer to this one.
+28518: There's not enough water to swim in.
+28549: There's nothing sensible to swing here.
+28613: You achieve nothing by this.
+28701: You wave, feeling foolish.
+28851: You are unable to.
+28870: Nothing obvious happens.
+28893: That would be less than courteous.
+28931: Is that the best you can think of?
+28960: That's not a direction.
+28983: Not that way you can't.
+29015: Keep your hands to yourself.
+29040: You achieve nothing by this.
+29074: Futile.
+29086: You lack the nerve when it comes to the crucial moment.
+29138: You talk to yourself a while.
+29165: This provokes no reaction.
+29193: There is no reply.
+29212: Nothing is on sale.
+29231: Your singing is abominable.
+29257: I don't think much is to be achieved by that.
+29294: Time passes.
+29309: You aren't feeling especially drowsy.
+51295: Days of searching, days of endless hacking through the levels of the I-F
+archive, but at last your patience is rewarded. A contest! It looks like you've
+arrived between events, though,...
+51560: Games Rated:
+51681: . A short blurb about the game is written on the back. You have
+52049: The game is a standalone DOS game, and should be playable directly from
+the DOS prompt. If you are not playing on a DOS-capable machine,
+52286: Interpreters exist for:
+52632: cubqzv        L.
+If you need to contact the author, they can be reached
+via e-mail at:
+52714: You turn around to trudge back down the stairs and back to real life.
+52823: Okay. Bye!
+53076: Sorry, you can only put games into the bins.
+53190: A large lever sticks conspicuously out of one wall, just above the
+'playable games' bin. A light below it glows
+53313: . The lever is
+53421: You are unable to move the lever while there are still unsorted games
+here.
+53496: With a tumble, the rack tips, depositing its contents into the 'playable
+games' bin again, before disappearing back into the wall.
+53607: With a whir, the bottom of the 'playable games' bin opens, and all the
+games inside disappear into an inky blackness. The bin re-closes as you hear
+the games rattle and thump behind the wall within unseen machinery. Finally, a
+panel in the wall rotates and a rack emerges, holding the games in the order in
+which you're supposed to play them.
+54052: games, all sorted and lined up in their slots, ready for you to play and
+rate them. A square button to one side of the rack is marked 'Save Rating
+Information', while a round button is marked 'Save All Information'
+54210: Here is your personalized list of games, and the order in which you
+should play them:
+54288: Title:
+54324: Rating:
+54528: The games are already sorted. If you want to manipulate them, push the
+lever again.
+54722: There are two buttons, a square one marked 'Save Rating Information',
+and a round one marked 'Save All Information'.
+54816: The square button is marked 'Save Rating Information'.
+54864: The round button is marked 'Save All Information'.
+54921: You'll have to say which button to press.
+55178: Saving,...
+55726: You can use 'next' as an alias for the first game down the list which
+you haven't rated. However, there is no 'next' right now.
+55838: You can use 'next' as an alias for the first game down the list which
+you haven't rated. However, there is no 'next' right now.
+55957: You remove the paper from the wall.
+55988: You tack the paper back up on the wall.
+56038: As you push the button, a panel opens in the wall, revealing a huge
+laser, aimed at you! Before you can react, a green beam of light shoots out at
+you, and you can't move! Suddenly, you find yourself moving jerkily around the
+room.
+56255: Done.
+56334: Done.
+56394: Done.
+56468: The laser pauses, and seems about to retract. Then it seems to think
+better of it, and controls your actions one more time, for good measure.
+56646: Just as suddenly as it started, the laser releases you, and disappears
+back behind the panel. You are quite dazed, and the sparkles before your eyes
+seem to spell out "That's it! You can print out your list and go play the games
+now!" before they fade into nothingness.
+58260: You can examine any individual game to find out if you can play it or
+not. Any game you cannot play (due to not having a computer which can play it,
+for example), put it in the 'unplayable' bin. Likewise, if you feel you must
+exempt yourself from playing a particular game, due to having a prior bias for
+or against it (say, you betatested the game, or you have strong feelings about
+issues raised in it), you can put it in the 'unplayable' bin as well. Note that
+this is a personal choice, and not a requirement.
+58698: edu
+
+"He that judges without informing himself to the utmost that he is
+capable, cannot acquit himself of judging amiss."
+- John Locke, _An Essay
+Concerning Human Understanding_
+
+-=Introduction=-
+58853: Many years ago, a game was written by two people named Crowther and
+Woods. The game was called, variously _Adventure_, and _Collosal Cave_. It used
+a text parser that the player could communicate with by typing in commands, and
+it formed the foundation of many, if not most, of today's computer games. The
+interface may have changed, but deep down, many of today's gaming conventions
+are holdovers from that long ago game.
+59158: Last year, a competition was held on the internet. Enthusiasts of text
+based games wrote short games and posted them for others to play and enjoy. The
+players voted on which game they liked best, and the games that got the best
+response had their pick of prizes from a prize pool. Later, 6 of those games
+were put on Activision's _Classic Text Adventure Masterpieces of Infocom_
+collection, and the authors received a pretty nice payment in return.
+59477: This year, we're going to do it again, and you have the chance to be a
+part of this event. However, while last year's competition had only 12 games
+entered, this year's has a grand total of 27 entries. That's more text
+adventures than you can shake a stick at. To participate, just read the section
+on Judging and follow the instructions there.
+59726: The judging will be a 'People's Choice Awards' type deal for the most
+part. Everyone is able to vote. All you have to do is play every game that you
+are able to (you are bound on your honor to play as many as possible and give
+each of them an equal chance.) and then rate each game on a scale of 1 to 10,
+no decimal places please. You have 2 hours in which to rate each game. At the
+end of 2 hours, you should stop and rank the game immediately. You may continue
+to play the game after that, but you may not change your rating of it based
+upon anything you find after the 2 hours are up. Please be honest. The site to
+mail votes to is:
+60210: Let's all give him a big round of applause.
+60245: Please note that this is not my address. If you email me votes I will
+trash them without notice and without looking at them, because I am a big
+meanie.
+60356: Messages with votes in them should have a subject header of: VOTE
+(unless you are entered in the competition or served as a betatester for one of
+the entries, in which case it should be MISS CONGENIALITY)  Each game should be
+rated on a seperate line, and you may submit multiple votes, but only the
+latest dated ratings of each game will be kept.
+60611: Votes will begin to be taken on Oct. 20, and must be in by Nov 30.
+Shortly thereafter, results will be announced, and prizes will begin to be
+distributed to the winners. For those of you who know how much different this
+timescale is from the original, please just note that there are many more
+entries than were expected, so more time has to be allowed for everyone to play
+them. At 2 hours apiece, that's still over 50 hours of play time total.
+60930: Any game that does not receive at least 10 votes on it is removed from
+prize consideration.
+60999: The winner will be the game with the highest average score. Each winner
+will have a draft pick to choose a prize of his/her choice until there are no
+longer any prizes left. Tied entrants who both select the same prize will be
+decided between by a flip of the coin, the loser receiving his second choice.
+61212: Authors and official betatesters may vote, but must head their votes
+with the subject: "MISS CONGENIALITY VOTE" so that the counter is able to
+seperate them. These votes will be counted towards an author's best of show
+choice. The winner will receive a copy of "The Interactive Writer's Handbook",
+donated by me.
+61471: The text adventure you enter must be winnable in under two hours. Judges
+will be asked to rate it after playing for that long. Please note that your
+game will NOT be disqualified if it exceeds this length, but judges may not see
+it in its entirety before rating it.
+61867: This year, do NOT post your entries ahead of time. Jumping the gun is
+punishable by disqualification. Instead, you will need to send me your entries
+privately, either through e-mail (as a uuencoded file) or some other
+arrangement that you will have to work out with me. The entries must be
+received by September 30th, 1996. No entries will be accepted after this date.
+62164: de on October 1st, 1996. Only entries uploaded by me will be eligible.
+62221: If you want your entry to be anonymous, then leave your name off it and
+email me that it's your entry. I advise a secret command that pops up the
+author and copyright message. Anonymity is not required, and I hope to be able
+to continue to do this in the future.
+62408: Speaking of copyright, all games must be entirely your own creations.
+You may parody established works, but you may not, for example, write a game
+based on Sherlock Holmes. This avoids the entire issue of copyright and the
+ethics involved.
+62581: All entries MUST be freeware or public domain. So don't enter a game
+you've worked on for 2 years if you don't want to give it away. No shareware,
+no donorware, no commercial products, etc. Only clear and free games.
+63086: nough time has been spent on a single puzzle. I don't care how you do
+it, but do it. Any entry without something of this nature will be returned to
+its author, and the author will be asked to rectify the oversight.
+63618: copy of the Magnetic Scrolls Collection which includes Fish, Corruption
+and the Guild of Thieves, donated by Colm McCarthy.
+
+"One-of-a-kind deluxe
+scraps of paper with stuff written on them"
+registered version of "The Light:
+Shelby's Addendum", signed, with hint sheets and maps, and a whole mess of
+scribblings that no-one in their right mind would ever want, donated by Colm
+McCarthy.
+
+One free copy of "Avalon", whenever it's done, donated by the
+author, me, as if you didn't know.
+63981: Cecilia Barajas of Activision (Author of Zork Nemesis) has donated the
+following items:
+-A copy of "Lost Treasures of Infocom vols. 1 and 2." (to be
+awarded as a matched set.)
+-A copy of "Zork Nemesis."
+-A Zork Nemesis t-shirt
+64421: Lastly, assuming that:
+
+1) We have at least 20 entries in the
+competition. (By that, I mean 20 valid, on-time, non-disqualified entries.)
+
+2)
+At least 5 of the entries are done by female authors.
+64576: Then Christopher Forman will also award five free registrations of
+"Circle of Armageddon", Volume 2 of "The Windhall Chronicles".
+
+Thank you to
+all prize contributors for helping to make this yeat's contest a reality.
+64738: All games entered in this year's competition are freeware. You may play
+any of them without being expected to pay a fee, mail a postcard, or even blow
+your nose.
+64855: All games are copyrights of the respective authors. I make no claims on
+them, but I do disclaim that any games that violate another's copyrights are in
+violation of the rules set down for this competition.
+65002: Lastly, for those of you unfamiliar with the online resources available
+to text adventure authors, here are some interesting sources.
+65113: e/if-archive/
+Main directory for the interactive fiction (text
+adventure) archive. It is mirrored at several sites, but the info escapes me
+for the moment.
+65242: e/if-archive/programming/
+The location of several programs designed to
+help authors write text adventures. I recommend TADS, Inform, Hugo, Alan, or
+AGT, particularly the first two: TADS and Inform. Please see the relevant
+directories for further info.
+65477: ase
+The main document for Whizzard's Guide to Text Adventure Authorship.
+This is something I wrote to give ideas to prospective authors, mostly dealing
+with the non-technical aspects of writing text adventures.
+65680: file by Graham Nelson also discussing the less technical aspects of how
+to write text adventures. Included is a Player's Bill of Rights that is very
+useful.
+65896: Newsgroups:
+65923: NT-FICTION
+For the use of text adventure authors in discussing the
+mechanics and other important topics of text adventure creation. Important
+contest announcements will be posted here.
+66074: INT-FICTION
+For the players of text adventures to discuss games and
+hints, and to buy/sell used text adventures.
+66251: "Third time's the charm."
+-Most Common Programmer Saying, right after
+"&$%&@%!!"
+66460: I'm sure you'll be pleased to hear that. You'll be even happier when you
+find out that there is an annual competition on the Internet to see who can
+write the best text adventure, and that you can enter it, or judge the entries,
+for free.
+66630: This year's competition is a bit different in that the rules are
+stricter and better defined. Violaters of any rule will be given a warning the
+first time, and disqualified if a second transgression is made. Sorry for the
+harsh crackdown, but it seems to be neccessary to ensure a tranquil and
+pleasant competition for all.
+66857: 1. Any text adventure you enter must be winnable in under two hours. The
+judges are only allowed to play it that long before quitting and rating it.
+This is to ensure small games, and encourage authors to enter who might feel
+intimidated going up against a huge game.
+67046: 2. All games must be entirely your own creations. You may parody
+established works, but you may not, for example, write a game based on Sherlock
+Holmes. This avoids the entire issue of copyright and the ethics involved.
+67205: 3. All entries MUST be freeware or public domain. So don't enter a game
+you've worked on for 2 years if you don't want to give it away. No shareware,
+no donorware, no commercial products, etc. Only clear and free games.
+67370: 4. All entries must be previously unreleased at the opening of voting.
+If an entry has previously been circulated, it will be disqualified. If you are
+unsure whether your game fails to meet this rule, please ask me.
+67525: 5. Authors of a competition entry may not discuss the entries in a
+public Internet forum while the voting is open. This means don't post about
+your entry (or anyone else's) on a newsgroup until the deadline for voting has
+passed.
+67690: 1. It is recommended that you enclose a complete text walkthrough with
+your game. With a walkthrough, I can doublecheck your entry to ensure that it
+is winnable, and judges can get by hard puzzles to see the rest of your game.
+67851: 2. The entry may be written in any programming language, including any
+of the text adventure creation utilities available (such as TADS, Inform, AGT,
+or Alan, to name a few.)  If your game is unplayable, then it won't receive
+enough votes to be eligable for prizes. (See Judging.)
+68062: 3. Multiple entries by the same author are fine, so long as all entries
+meet all the rules above. Let me just close this with a caveat emptor. You will
+likely be better off investing more time in a single entry rather than trying
+to finish two.
+68235: 4. To enter this year, you must e-mail me by September 1, 1997, with
+your intent to enter. I will assign you an author number, and a telnet-accessed
+e-mail address that you can receive feedback on your game at until the voting
+period has ended.
+68416: 5. You will need to e-mail me your entry privately, either through
+e-mail (as a uuencoded file) or some other arrangement that you will have to
+work out with me. The entries must be received by September 30th, 1997. No
+entries will be accepted after this date.
+68606: 1. The winner will be the game with the highest average score. Each
+winner will have a draft pick to choose a prize of his/her choice until there
+are no longer any prizes left. Tied entrants who both select the same prize
+will be decided between by a flip of the coin, the loser receiving his second
+choice.
+68823: The Prizes So Far Include:
+69204: mause. 
+
+Trophies will be awarded for first, second, and third place in
+addition to the normal prize picks.
+
+Trophies donated by Kevin Wilson. This is
+likely to be a fairly expensive prospect, so donations of money (or
+trophy-making talents) are needed this year as well. 
+
+If you would like to
+donate a prize for this year's competition, please contact me as soon as
+possible with your prize. The competition is dependent on prize donations from
+interested parties to boost interest and the number of entrants.
+70206: you will receive an automated reply describing the use of the remailer.
+
+
+Due to load constraints on the machine that the mailer is running on, I will
+only be giving accounts for use with the IF competition. If you want a remailer
+account for general use, you should look elsewhere. Thank you for
+understanding."
+
+*********************
+
+
+It was later added that even if
+someone does not want to enter anonymously, they may still use this remailer
+for use in the competition.
+70791: There is no blurb on that!
+70822: Unfortunately, this interpreter does not allow you to play another game
+within this one. To play the game, exit and run the one you want to play. For
+more information about how this works, read the blurb on the game you wish to
+play, or simply 'READ <game>'
+71020: You can only rate the games!
+71046: Please sort the games you can play before you try to rate them. Simply
+put all games you can play in the 'playable' bin, the games you can't into the
+'unplayable', and pull the lever.
+71182: I thought you said you couldn't play that game! If you can, you'll have
+to pull the lever again and re-sort the games.
+71398: Rating the games out of order, huh? I'll let you get away with it, but
+you better have a good reason,...
+Anyway, "
+71538: You can only give a rating between one and ten.
+71583: Please sort the games you can play before you try to rate them. Simply
+put all games you can play in the 'playable' bin, the games you can't into the
+'unplayable', and pull the lever.
+71790: There is no game with that ranking right now.
+71882: Chndon't have any games available to rate yet.
+74174: An Interactive Guide
+Copyright (c) 1997 by Lucian Smith.
+74380: Score:
+74388: Moves:
+74396: Time:
+74404: You can't go that way.
+75780: In this tiny room, a carpet of debris is broken by stone-cut steps
+leading back down into the darkness from which you came. Though you got here
+late, it looks like those who came before had a great time.
+75924: You climb the walls for a bit, but it doesn't help.
+75964: There doesn't seem to be any way out other than the way you got here.
+76020: This is the bin in which to put games that are playable on your
+computer. When you're finished, pull the lever to sort the games in here.
+76124: This is the bin in which to put games which are unplayable on your
+computer.
+76184: This is the bin where the games start out. The games in the playable bin
+can't be sorted (by pulling the lever) until this bin is empty, and no games
+are left lying around or in your posession.
+76340: An Interactive Vision.
+76384: Alien Abduction?
+76412: An Interactive Fiction Story.
+76516: Don't Be Late!
+77464: Brian P. Dean
+77708: Promoted!
+77940: Angela M. Horns
+78004: Andrew D. Pontious
+78344: Looking more closely, you see cables going from the various bins into
+the wall just below the lever.
+78416: All the games have blurbs on them. I'm afraid you'll have to be more
+specific (or just 'READ <game>').
+78498: A piece of paper is tacked to one wall, with instructions.
+78544: "To find out about a particular system (like Inform) just type 'READ AN
+INFORM GAME' (The same will work with TADS, AGT, and the rest of the game types
+in this competition.)"
+78688: It's a Big Red Button Which, If You Push It, Will Make You Do Everything
+You Really Need To Do Automatically. What more do you want to know?
+78800: Inside the bins are representations of the various games in this
+contest. You can examine an individual game to get basic information about it,
+and to find out what rating you've given it. If you would like more detailed
+information, you can 'READ THE BLURB ON <game>' or simply 'READ <game>'. The
+blurb will give you the title and subtitle of the game, the directory where you
+can find it, and information about the interpreter(s) you can use to play it.
+79136: When all of the games are sorted into either the 'playable' or
+'unplayable' bin, the light will turn green, and you can pull the lever. This
+will cause a rack to rotate into the room, and all of the games from the
+'playable' bin will be moved to this rack, sorted in a random order. If you
+find you have made a mistake, or wish to re-sort your games, pull the lever
+again, and it will deposit the games from the rack back into the 'playable'
+bin, where you can re-arrange them.
+79470: The rack, when it appears, will hold all the games you indicated you
+could play, in a random order. A game must be inside the rack before you can
+rate it, which you can do by typing 'RATE <game> <number>', where <number> is a
+number (integer) between one and ten. The idea here is that you play the first
+game on your list first, then the next, and so on, until you either finish or
+run out of time. You can rate as you go, or wait until you finish and rate them
+then. You can always change your old ratings, and the program will not insist
+on you rating them in order (though it will comment on it).
+
+(The formatting is
+based on a fixed-width font, and assumes a screen width at least a few
+characters wider than the longest game name. I apologize if it looks bad on
+your interpreter.)
+80534: At any rate, if it works, you can use this file to mail to the vote
+collector, if you wish.
+80600: This really needs no extensive documentation, as it does precisely what
+its title implies. You can think of it as an automatic 'walkthrough' for this
+game. All the typed commands you see yourself executing would actually work if
+you typed them yourself. The first, 'GET ALL GAMES FROM EVERYWHERE' is
+hardwired into this game, and can be shortened to 'GET ALL GAMES' or even 'GET
+ALL' (since the games are the only objects around you need to carry.)
+80944: Once all the games are sorted, you may refer to the first game on the
+list which you haven't rated as 'next', as in EXAMINE NEXT or RATE NEXT. This
+is a convenience so you don't have to look at the rack each time you want to
+figure out which game is next on the docket.
+81204: November 30, 1996 - The voting account will close. No further votes will
+be accepted after midnight on this date. (Midnight for the person whose account
+this is. Save yourself grief and vote early.)
+
+December 1-5, 1996 - The winners
+of the competition will be announced at various places of interest on the
+internet.
+81438: The Judging system this year was debated at large, and it was finally
+decided that this game would indeed be official. Whizzard hasn't published a
+revised Judging section yet, but as far as I can tell, it will be the same as
+last year, with the exception that partial judging entries are allowable. This
+still means that if you can by any means judge all the games, you should do so.
+But if you can't, you should judge them in a randomized order, whether through
+this game or in some other manner. In any case, please judge as many as you
+can, so that we will have statistically significant results.
+
+Betatesters may
+vote in the main competition this year, unlike last year. There are currently
+no plans for a MISS CONGENIALITY award for votes from game authors, but there
+have been rumors of a desire for one amongst some of us. Presumably, once we
+have an official vote counter, we could bug them to collate separate MISS
+CONGENIALITY votes, or we can organize one ourselves. Bugging Whizzard about it
+is probably NOT the way to go, since he's tired, overworked, and cranky ;-)
+82224: it doesn't, not really. I intended this game as a tool, nothing more. If
+you don't like it, push the Big Red Button and quit. If you do like it, use it
+as a scratchpad to record your ratings and print them out. Use it to find where
+the odd interpreters reside on the archive, or to find out if your platform has
+a new interpreter somewhere. If you absolutely hate it, either rate all the
+games or find another way to choose which games to play first. Any option will
+work.
+

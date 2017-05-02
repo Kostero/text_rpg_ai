@@ -1,0 +1,721 @@
+14681: Nothing to do!
+14716: o. You have won
+14809: You wanted to say something?
+14879: Sorry, that can't be corrected.
+14908: Think nothing of it.
+14979: You can hardly repeat that.
+15004: You can't begin with a comma.
+15118: I didn't understand that number.
+15147: What's one of them, then?
+15181: You aren't holding that!
+15223: I'm not sure what "
+15275: That's not a verb I recognise.
+15314: You can't see "
+15422: Nothing to do!
+15439: There are none at all available!
+16359: Are you sure you want to quit?
+16404: Failed.
+16424: Restore failed.
+16441: Ok.
+16459: Save failed.
+16474: Ok.
+16518: Transcripting is already on.
+16584: Transcripting is already off.
+16642: Score notification on.
+16663: Score notification off.
+16686: You have visited:
+16714: Objects you have handled:
+16739: None.
+17123: You are carrying nothing.
+17172: Taken.
+17183: You are always self-possessed.
+17716: Dropped.
+17826: Removed.
+17965: You lack the dexterity.
+18046: Done.
+18312: Done.
+18523: Wrahn seem interested.
+19104: You can't go that way.
+19664: But it's dark.
+19681: You find nothing of interest.
+19717: But it's dark.
+19808: You find nothing of interest.
+20936: . Not bad.
+20954: That was a rhetorical question.
+20990: You can't decide who to pray to.
+21028: That seems unnecessary.
+21069: You smell nothing unexpected.
+21096: You hear nothing unexpected.
+21121: You taste nothing unexpected.
+21156: Keep your hands to yourself!
+21181: You feel nothing unexpected.
+21206: If you think that'll help.
+21315: Oh, don't apologise.
+21412: You achieve nothing by this.
+21634: You are unable to.
+21653: Nothing obvious happens.
+21703: That's not a direction.
+21726: Not that way you can't.
+21758: Keep your hands to yourself.
+21783: You achieve nothing by this.
+21816: Futile.
+21845: You talk to yourself a while.
+21872: This provokes no reaction.
+21900: There is no reply.
+21919: Nothing is on sale.
+21956: Time passes.
+44810: Does that look like a bell?
+45100: Don't try to cross him.
+45301: He seems to be ignoring you.
+45328: That could be considered rude.
+45489: That could be considered rude.
+45582: He is not interested.
+45658: Bit early for that.
+45688: Bit early for that.
+45722: Bit early for that.
+46093: He doesn't want a prezzy.
+46138: The door seems to be stuck.
+46229: That's not going to work, is it.
+46344: Don't try to cross him.
+46422: Eh?
+46513: The water shimmers ominously.
+46667: He doesn't want that.
+46706: Try typing IN.
+46755: Don't mess with the dog.
+46994: That could be dangerous.
+47073: That would not prove fulfilling.
+47116: Pointless Peasant.
+47139: Untutored Punter.
+47162: Outstanding Civvy.
+47185: Average Agent.
+47206: James Bond Wannabe.
+47231: Super Agent.
+47246: Saviour of Mankind.
+50020: Score:
+50028: Moves:
+50036: Time:
+50044: You can't go that way.
+50376: Please give one of the answers above.
+50402: You are suddenly plunged into darkness.
+50436: [You can't "undo" what hasn't been done!]
+50472: [Can't "undo" twice in succession. Sorry!]
+50512: "Oops" can only correct a single word.
+50540: You see nothing. Not because there is nothing to see, but because there
+is no light.
+50600: Quick, fetch my gun! Oh. Just you.
+50628: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+50688: You seem to want to talk to someone, but I can't see whom.
+50732: To talk to someone, try "someone, hello" or some such.
+50772: I didn't understand that sentence.
+50832: You seem to have said too little!
+50856: You can't use multiple objects with that verb.
+50892: You can only use multiple objects once on a line.
+50928: You excepted something not included anyway!
+50960: You can only do that to something animate.
+50992: That's not something you need to refer to in the course of this game.
+51040: I didn't understand the way that finished.
+51072: Sorry, you can only have one item here. Which exactly?
+51224: Shall we try that again? Answer yes or no.
+51256: Are you sure you want to restart?
+51280: The game file has verified as intact.
+51308: The game file did not verify as intact, and may be corrupt.
+51352: Attempt to begin transcript failed.
+51380: Attempt to end transcript failed.
+51404: You are carrying too much to hold.
+51428: You can't put something on top of itself.
+51460: You can't put something inside itself.
+51516: You can only get into something freestanding.
+51548: But you aren't in anything at the moment.
+51580: You'll have to say which compass direction to go in.
+51620: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+51716: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+51800: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+51976: There's a time and a place for everything.
+52008: The dreadful truth is, this is not a dream.
+52040: This relationship is not meant to be.
+52068: What? That's your job! I'm not expected to think! What made you think I
+could think for myself?
+52140: Digging would achieve nothing here.
+52168: You imitate your hero, Skippy. No-one is impressed.
+52208: You would achieve nothing by this.
+52232: There's nothing suitable to drink here.
+52260: But there's no water here to carry.
+52288: Find some outlet for those negative feelings.
+52320: You aren't impressing anyone, you know.
+52352: Violence isn't the answer to this one.
+52380: There's not enough water to swim in.
+52408: There's nothing sensible to swing here.
+52436: You wave to your invisible friends.
+52464: That would be less than courteous.
+52488: Is that the best you can think of?
+52512: You lack the nerve when it comes to the crucial moment.
+52582: Pinafore'.
+52592: I don't think much is to be achieved by that.
+52624: You lay your head down, but can't seem to drop off in this situation.
+52736: You laugh out loud in sheer joy of being alive. You feel a bit better.
+52788: You mock the world around you and feel a bit better.
+52828: You double check your identity. Agent Arthur Yahtzee, AY17.
+52888: wristwatch uses advanced technology to scan the surrounding astral
+bodies and determine the time wherever you are. It also has a hinged face which
+acts as a secret compartment. Ah, the wonderful world of espionage.
+53040: Slip it under the tongue, or dissolve it in solution and drink it, and
+within seconds you will have appeared to have died from a perfectly ordinary
+heart attack. Isn't technology marvellous?
+53172: Losing the will to live, you slip the pill down your gullet. It'll take
+a few seconds for it to work, so I'd just like to take this opportunity to tell
+you that you are one of the worst adventurers I've ever had to write about. But
+that doesn't mean I haven't developed special... feelings for you in the time
+we've had together. I know it isn't right, but somehow - oh God, can't you see
+what I'm trying to tell you? I love you, man!
+53540: crumbled and the world was destroyed, but it wouldn't be true. They sent
+the work experience boy the next day and he vanquished Dr. Diablo once and for
+all after an epic adventure. I could have written about that kid, but no. I
+opted to write about you. So now you've made us both look foolish.
+53752: Surreptitiously slip this little green pill into someone's food or
+drink, and they'll be rendered unconscious for exactly twenty-four hours.
+Needless to say this invention took many years of development to perfect, and
+the testing centre rocked with the heady laughs of scientists high on
+mysterious chemicals.
+53968: You swallow the pill, and immediately collapse. Your fellow agents,
+detecting this through the implant behind your ear, teleport you back to base
+and put you on the waiting list for immediate suicide counselling. They sent
+the work experience boy the next day and he vanquished Dr. Diablo once and for
+all after an epic adventure. I could have written about that kid, but no. I
+opted to write about you. So now you've made us both look foolish.
+54284: The top of this seemingly ordinary biro works as a microphone, the nib
+as a speaker. It enables field agents to communicate with the base. It will not
+work if you're outside a specific radius, though.
+54448: Q.
+54456: Patent pending.
+54468: After numerous adventures you have penetrated the very centre of the
+Temple, to this tiny little vault where the cursed dessert lies. The room is
+small and unordained, unlike the rest of the temple, with just crumbly yellow
+bricks forming the walls and concrete making up the floor and ceiling. The exit
+door is to the south and the centre of the room is dominated by a cylindrical
+podium.
+54860: gent can. Eventually you emerge from the temple (or No. 15 Ealing Road,
+Brentford as some people prefer to call it), lock the door behind you and turn
+around. Into fifteen armed soldiers' lines of fire. 
+
+ "Hand over the
+cheesecake and you will walk away alive," booms the megaphone-enhanced voice of
+Dr. Diablo. Isn't it funny how the evil bastards always manage to attract so
+many henchmen to their cause?
+55156: You mustn't leave without the cheesecake!
+55192: The Cheesecake of Hell was left behind after the famous Diablo Disaster
+of 1997, when the legions of Hell invaded Woking (no-one noticed until 2003).
+Eggs from Satan's own hens, milk from the Unholy Herd and biscuit crumbs from
+Cerberus' Vomit went into the dish. Mrs. Satan originally baked it to celebrate
+her and Satan's five thousandth wedding anniversary, but had never gotten round
+to eating it after the Hellhounds escaped. It is now in the capable hands of
+the Special Secret Service, and, when eaten, transports the consumer to some
+other universe.
+55594: You vow to punish yourself harshly later on for what you are about to
+do, hold your nose and bring the cheesecake up to your face. A look of horror
+crosses both your and Dr. Diablo's face as you take the tiniest nibble of the
+damned creamy filling and swallow. 
+
+ Immediately fireworks go off in your
+mouth and stomach, and you judder violently as the Pudding of Satan sends your
+mind and body into spasm. Diablo orders his men to fire, but you are already
+fading away and the bullets pass harmlessly through your indistinct form. 
+
+
+The world melts away from in front of your eyes and psychedelic patterns
+flutter past you in swarms and droves. A spiral of energy appears before your
+eyes, and before you know it you are engulfed in sparkling dust...
+56120: You bring the cheesecake up to your face and attempt to take a nibble,
+but the smell of the Damned puts you off. You wouldn't want to eat it anyway,
+you'd only end up somewhere less fun than this.
+56260: The houses in this perfectly ordinary suburban street are indistinct
+behind the row of beweaponed cleanup squad. One of Dr. Diablo's many
+helicopters circle overhead, pointing a spotlight in your direction.
+56404: You make a break for it in that direction. Suffice to say, you are
+drilled full of bullets before your trainers have even had chance to skid on
+the pavement.
+56512: "Don't be a fool, Mr. Yahtzee," says Dr. Diablo smugly. "You and your
+pathetic Special Secret Service stand no chance against me."
+56614: The smile fades from Dr. Diablo's lips. "Hand over the cheesecake or we
+will retrieve it from your corpse!"
+56696: Dr. Diablo waves a hand. The cleanup crew cock their weapons. Think
+fast, Arthur Yahtzee!
+56764: Hot lead cuts through your flesh like piranhas through water. You
+collapse to the floor, lifeblood dribbling from a million different orifices -
+mostly freshly made - and the last thing you hear before death overcomes you is
+Dr. Diablo's victory speech. Needless to say it wasn't very inspiring, at least
+not to you at that point.
+56996: Dr. Diablo is the most sadistic man in the world. He is dressed in a
+dirty brown overcoat and a long Dr. Who-esque scarf. He also seems to be
+grinning and holding a megaphone.
+57124: There is just no reasoning with the man.
+57152: You drop the cheesecake on the floor and, hands above head, kick it over
+to the villain. He picks it up and smiles sweetly in your direction, then waves
+a hand and returns to his waiting chopper. Within seconds you resemble a cheese
+grater. As a horribly deep red stain spreads across the floor, you chide
+yourself for trying to strike a deal with a sadist.
+57400: This man will not respond to prezzies.
+57428: You perch awkwardly on a lump of soft fluffy water vapour which seems,
+to you, to be both reassuringly solid and unsettlingly indistinct under your
+feet. As your trainers soak up moisture you lean over and look over the edge of
+the cottony mass; it really is a long way down. More clouds dot the landscape
+around you, and the one just to the north could conceivably be jumped onto.
+57692: One step in that direction and you'll be moving downwards rapidly for a
+few seconds and the not moving at all for the rest of eternity.
+57784: Small clouds of white water vapour rise up around your feet as you step
+gingerly from one cloud to another. Now the mist appears to have thinned a
+little in the distance and something has become visible. You don't know what it
+is, but a large number of people seem to be eager to get in. Clouds to the east
+and south are close enough to be stepped onto.
+58028: One step in that direction and you'll be moving downwards rapidly for a
+few seconds and the not moving at all for the rest of eternity.
+58120: Guess what? You're on a cloud. But now you can see the thing to the
+north clearly, as it is just one more jump away. It looks like some sort of
+building, and a lot of people are hanging around outside.
+58264: One step in that direction and you'll be moving downwards rapidly for a
+few seconds and the not moving at all for the rest of eternity.
+58356: The entrance to the huge, towering white marble building is to the east,
+but not far from you is a lengthy queue of identically dressed people snaking
+off to something indistinct.
+58480: An invisible force gets in the way. "Wait your turn!" calls someone.
+58532: One step in that direction and you'll be moving downwards rapidly for a
+few seconds and the not moving at all for the rest of eternity.
+58624: The queue consists of thousands of men and women in white suits standing
+patiently. Some give the impression of having been there for a long time.
+58724: You point out a cloud in the shape of the Holy Prosthesis and push into
+the queue when everyone's distracted.
+58802: The queue shuffles forward about six inches.
+58836: You stand awkwardly in a queue, the end of which not in sight. Still
+dressed in your jeans, stained with the mud of Brentford, you look decidedly
+out of place.
+58948: You don't want to lose your place.
+58976: The man is dressed in spotless white cricket flannels, a blemishless
+white shirt and a white blazer straight out of a washing powder advert. You
+wonder if you should have packed your sunglasses. He has his back to you.
+59128: The suit won't light. You wonder why. You seem to be attracting funny
+looks. You wonder why.
+59196: Burning something requires something else that is burning. Thus begins
+our course on pre-school elementary physics.
+59276: The man in front blows his nose deliberately loudly. Wanker.
+59320: The man drops his sodden hanky on the floor. Asshole.
+59360: He's not the slightest bit interested in you.
+59392: It's a man-sized crumpled hanky, held together with nasal mucus.
+59440: You start to pick up the hanky, but then detect the looks of disgust you
+are receiving, and you put it down again.
+59520: You kick the hanky to just between the legs of the man in front and,
+after pointing out an interesting cloud in the shape of the Ark of the
+Covenant, put a torch to the bogey ball. Immediately the flames rise upwards,
+making the poor man sniff the air. He looks behind him, sees his blazer live up
+to its name, and begins running around like a headless chicken on amphetamines.
+The rest of the queue starts to panic in addition and soon you have instigated
+quite the little riot. Seizing your opportunity, you march coolly through the
+panicky mass right up to the front of what remains of the queue. You little
+devil, you.
+59952: Burning something requires something else that is burning. Thus begins
+our course on pre-school elementary physics.
+60032: You are standing in front of what appears to be a ticket window. It
+seems to be shaped like a church window and has the token little drawer
+underneath the glass. This is apparently a defense against robbers, although
+why someone would want to steal train tickets is beyond me.
+60224: You've made it to the front of the queue, don't throw it all away!
+60272: The ticket clerk glares at you from behind the ticket window.
+60378: from his back and a glowing halo above his head. He also bears a flat
+cap and a handlebar moustache.
+60448: "Name?" enquires the ticket clerk gruffly.
+60484: It's a ticket office, not an information centre.
+60520: "I'm afraid you will have to supply proof of identity."
+60560: "Oh really? How interesting," says the clerk, stifling a yawn.
+60608: You dangle your dogtags in front of his eyes, and the clerk consults a
+hitherto unseen computer with Microsoft Access installed. Eventually he finds
+what he is looking for. "Here we go, Yahtzee, Arthur S. According to this
+you're not supposed to be here for a long time yet! You're still alive! How on
+Earth did you get up here?"
+60844: You flaunt the fact that you have dogtags and he doesn't. He does not
+seem impressed.
+60904: You open your jacket slightly and reveal the cheesecake of the Devil
+sticking out of your inside pocket. The clerk stiffens in surprise and pushes a
+button which opens a door next to the window. He comes out and inspects the
+cheesecake again. 
+
+ "Good lord!" he exclaims. "It's Satan's cheesecake! You
+must be with the Special Secret Service. Follow me!" 
+
+ He scampers off to
+another unseen door. You follow him in uncertainly. Who - or what - could be
+waiting for you beyond the door? 
+
+
+"Well, Mr. Yahtzee," says God after your
+story is finished. "It seems the world is in a bit of an old pickle, doesn't
+it? In my expert opinion the only way to make sure Dr. Diablo doesn't get his
+hands on the cheesecake is to return it to its rightful owner." 
+
+ He doesn't
+need to expand. Rummaging briefly in a desk drawer, He hands you a rectangle of
+gold, laminated card. "Take this season ticket to Platform 9 and the conductor
+will take you to the Underworld. But I would advise you to go prepared." 
+
+
+With that, He claps his heavenly hands and a couple of cherubs escort you out
+of His office.
+61696: I think that would just cause undue panic.
+61876: You are occupying a very bare room which is apparently a waiting room in
+a train station. You are pretty certain of this owing to the station platform
+visible to the north, but this white room contains nothing you have come to
+associate with waiting rooms; benches, posters, coke machines and so on. This
+is not something to lose sleep over, however. Another archway leads south.
+62140: You are in the north-west corner of the town square. Milky white paving
+stones underfoot make your footsteps echo, and the sky is a brilliant blue. Not
+the blue you are familiar with - more of a deep ocean blue. All the buildings
+are built from white marble, the biggest of which is a train station to the
+north. Otherwise the square continues east, south and southeast.
+62400: You are in the north-east corner of the town square. Milky white paving
+stones underfoot make your footsteps echo, and the sky is a brilliant blue. Not
+the blue you are familiar with - more of a deep ocean blue. There appears to be
+some sort of huge cast iron gate to the north. Otherwise the square continues
+west, south and southwest.
+62636: You are in the south-west corner of the town square. Milky white paving
+stones underfoot make your footsteps echo, and the sky is a brilliant blue. Not
+the blue you are familiar with - more of a deep ocean blue. The entrance to
+some sort of hotel lies to the south. Otherwise the square continues east,
+north and northeast.
+62864: You are in the south-east corner of the town square. Milky white paving
+stones underfoot make your footsteps echo, and the sky is a brilliant blue. Not
+the blue you are familiar with - more of a deep ocean blue. The entrance to
+some sort of bar and nightclub lies to the east. Otherwise the square continues
+west, north and northwest.
+63096: Most of the room is in twilight and you can hardly make out the shadowy
+figures around you. The only part of the room illuminated is a huge glittering
+stage to the north, lit up by spotlight, on which is a huge cardboard brick
+wall with a logo of some cherub apparently enjoying himself very much. The exit
+door is to the west and an open door is apparent to the east.
+63348: "A free drink for the man in the filthy jeans!" calls Jesus, relieved
+that he has induced some response. You feel something materialize in your
+jacket pocket.
+63464: Ah. I'm one step ahead of you there.
+63492: In a fit of rage the purple-faced Jesus casts the Divine Furies in your
+direction. You try to swat them away with your hands, but that's like trying to
+hold back the ocean with a tea strainer. In seconds you are reduced to a pile
+of smoking ashes, and Jesus' audience suddenly find him a lot funnier. If it
+makes you feel any better, Jesus later felt guilty about killing you and
+decided to change his attitude to hecklers. He bought a book entitled '101 ways
+to humiliate hecklers' and was soon on the Purgatory circuit. So, don't be too
+disheartened.
+63884: You can just make out a vacant seat nearby.
+63914: You take your seat and wait patiently for a few minutes, twiddling your
+earthly thumbs, and are just about to leave when the spotlights move around
+hypnotically and a voice booms out "Today only, live at the Chuckling Cherub,
+please put your hands together for ... Jeeeeeesssuuuuuuuussssss
+Chriiiiiiiiiiiiiist!" 
+
+ A single member of the audience claps half-heartedly
+as the Messiah jigs onto the stage. You watch open-mouthed as the Son of God
+breaks into a stand-up routine which utterly fails to rouse the audience.
+64284: You sit back down. Perhaps you should give him another chance.
+64328: You are no comedian. Your superiors would argue, but nevertheless.
+64376: Jesus Christ is on the stage, attempting stand-up.
+64416: It's definitely him. The long brown hair, goatee beard and glittering
+halo give him away. But you've never seen him in a spangly pink suit or holding
+a microphone.
+64532: Leave him alone, he's trying to make a living.
+64568: Hey, I just flew in from the Garden of Eden, and boy are my wings tired!
+64624: Say, anyone here from the Ninth Underworld?
+64656: I saw a mortal the other day. He said he hadn't had a bite in weeks. So
+I bit him!
+64716: My dad used to tell me, 'Son, always remember your friends. You may have
+to manifest yourself to them later.'
+64796: I don't think I'll ever understand this modern mortal humour.
+64840: What do you call one abortion doctor on the moon? A problem.
+64884: What do you call two abortion doctors on the moon? A bigger problem.
+64932: What do you call all the abortion doctors on the moon? Problem solved!
+64984: How many imps does it take to change a lightbulb? None, they're too busy
+torturing the damned!
+65052: What's the matter with you all today? Are you just laughing inwardly?
+65104: And now for my duck impression. Oh, wait, that's another game.
+65152: Well, if you're not going to laugh at my jokes, I'm just going to repeat
+them until you do!
+65252: It bears a picture of a cocktail glass and the words 'This coupon
+entitles the bearer to a free bottle of Divine Ambrosia at the Chuckling Cherub
+bar'. Perhaps something good came out of Jesus' routine after all.
+65404: The bar is hardly the exciting bars you see on such films as Casablanca.
+You are the only customer, and the bar is more of a kitchen worktop than
+anything else. The walls are the usual milky white marble and the carpet on the
+floor is thick enough to lose your shoes in, but nevertheless the establishment
+has an air of being set up as an afterthought.
+65648: There doesn't appear to be any evidence of drinks behind the bar.
+65696: The barman is behind the bar, looking bored.
+65852: The barman expresses disinterest through body language.
+65892: Don't try to cross him. We all know what barmen keep behind the bar.
+65944: The barman examines the coupon and raises a thick eyebrow. "That Jesus
+is too generous. If I have to give a free drink to every man who laughs at his
+jokes -" he pauses while thinking about it "- then I'd lose about tuppence a
+month. Here ya go." He presses a small pink bottle into your hand, and nods in
+a gesture of fellowship.
+66180: The bottle is unlabelled and has a foil cap. Obviously this stuff is
+like milk in the living world. The bottle contains an opaque, pink fluid.
+66280: You pour the liquid down your throat, and almost immediately clutch your
+stomach as it is eaten away from the inside. As your internal organs dissolve
+and red slime oozes from every orifice in your body, you realise that the
+divine ambrosia was never meant to be drunk by living human beings.
+66480: The reception area for the hotel is consistent with all the other
+buildings you have seen up here. The carpet is thick, the walls are white with
+little sparkly bits deep inside. The desk is curved and elaborate with
+imitation marble tops and all the swanky bollocks that swanky hotels seem to
+think they need. The place is deserted, so you might as well leave by either
+the exit door to the north or the wooden door to the east.
+66772: You stand at the bottom of a carpeted spiral staircase which snakes
+upwards to some indistinct storey.
+66844: You stand at the top of a carpeted spiral staircase which snakes
+downwards to the ground floor. A door is to the west.
+66928: You stand at the northern end of a short hallway on the top floor of the
+hotel. The decor is not dissimilar to those massive hotels in Las Vegas; the
+sort people marvel at without thinking about where they got the money to build
+it. The hallway continues south and the stairwell is to the east.
+67132: The door in the west wall is closed.
+67160: It's one of those tags you hang on doorhandles. This one reads 'Please
+clean the room'.
+67224: Let's just leave it there, right?
+67252: You stand at the southern end of a short hallway on the top floor of the
+hotel. The decor is not dissimilar to those massive hotels in Las Vegas; the
+sort people marvel at without thinking about where they got the money to build
+it. The hallway continues north, and there is a door to the east.
+67456: The only door is closed.
+67476: The only door is open.
+67492: You place the tag on the door, and hear it unlock, presumably so that
+the maid can get in. Everything is automatic up here, and they don't apparently
+get many burglars.
+67612: This must be one of those cheapo hotel rooms that you use when there's
+nowhere else to go. There are no windows and the only piece of furniture is the
+bed, which does not look at all inviting.
+67744: It's practically just a wooden table with a mattress on top.
+67788: It feels oddly heavy.
+67808: Beyond the gate you can see some sort of park.
+67840: The iron gate is shut.
+67856: The iron gate is open.
+67872: Tiny birds and butterflies flutter past your face as you occupy the
+gorgeous Garden of Eden. The flower beds would make Alan Titchmarsh weep onto
+Charlie Dimmock's shoulder and the trees are tall and mysterious enough to put
+any magic forest to shame. The effect is spoiled somewhat by the rusty metal
+bench.
+68088: Someone appears to have scratched 'Judas Woz Ere' into the paintwork.
+68140: You can't understand it, it's written in some ancient language. Oh well,
+it's probably just gossip and sensationalism.
+68228: You unfold the paper and something falls out onto the floor.
+68272: There is nothing more of interest in the paper.
+68308: It's a small rubber disc with a picture of a boat on it.
+68348: You are standing on the platform of the Heaven train station. Gazing
+over the edge of the platform you see that the track is floating unsupported in
+the blue sky, and beyond it nothing fills the air but fluffy clouds. A train is
+currently occupying the station with 'STRAIGHT TO HELL' stencilled on the side.
+68572: The conductor stops you, asking to see your ticket.
+68608: The conductor, a fat angel with a peaked cap, eyes you balefully.
+68656: There is just no reasoning with the man.
+68684: You show the season ticket to the conductor, who smiles unsettlingly.
+"Season ticket to hell, eh?" he says. "Well, rather you than me. Go ahead." He
+waves you on and you enter the train of the damned. 
+
+ The interior of the
+train is not a good omen for the challenges that face you. The decor is in an
+early gothic bloodstained style, and the seats range from boiling sulphur to
+maggots. You opt for one of the less unsettling seats and take your place among
+the wailing Damned on their hellish way. 
+
+ After a completely miserable
+journey the train comes to a halt in a station. A pair of hideous demons lead
+most of the passengers off, but when they notice your season ticket and
+unmistakable aura of the living you bear they decide you must have special
+dispensation and leave you alone. You rub your neck thoughtfully, and step onto
+the platform.
+69280: This man will not respond to prezzies.
+69308: A natural cavern provides the scene for your latest adventure. You are
+on the banks of a enormous river, shrouded in mist, black as oil. You hear the
+wails of the Damned mingled with the plink of water from stalactites dripping
+into the main body of water. A little wooden jetty extends from the bank, and a
+large bronze bell dangles from a steel support. The train back to Heaven is to
+your west.
+69584: You get back onto the train and opt to sit on the floor this time as you
+are transported quickly and efficiently back to the place where nice people go
+when they die.
+69700: There doesn't appear to be any way across the river.
+69738: You step gingerly onto the boat.
+69764: The dock doesn't look stable. You decide not to go on until you are sure
+it's safe.
+69824: The bell is slightly cracked and hangs from its support loosely. It must
+have been used an awful lot.
+69896: You bang the bell for all you're worth. Nothing immediately happens.
+69948: The Ferryman looks at you oddly. He's already there, Arthur!
+69996: The river extends far off into the distance. The far bank is not
+visible.
+70048: You dive into the river, and never resurface. As to your exact fate,
+no-one can be sure. Legend is unspecific as to what happens when you dive into
+the river Styx. You don't survive the process anyway, so what do you care?
+70206: A chain rises out of the water, extending from the bank to far in the
+distance, and is pulled taut.
+70278: A shadowy shape seems to be approaching through the mist.
+70322: A wooden boat approaches the bank, rippling the water around it, and
+bumps gently against the bank.
+70396: A ferry is waiting on the bank of the river.
+70428: The boat seems to made from petrified wood, and a sticker on the back
+reads 'my other boat's a trireme'.
+70502: You step gingerly onto the boat.
+70528: You stand unsteadily on the boat as it bobs up and down in the dark
+waters of the river. The solid stone bank outside the boat looks more than
+inviting.
+70632: The Ferryman stands here expectantly.
+70660: Completely covered in a black robe, only boney hands extrude from the
+form of the ferryman, one of which is outstretched, expecting something.
+70760: He (you presume it is a man) will not reply.
+70792: Well, that's a refreshing way to behave when facing the Ferryman.
+70840: The Ferryman's skeletal hand closes around the token, and he motions for
+you to sit. With a long pole he shoves the boat away from the bank, and with
+infinite patience rows the vessel across the water. Eventually the mist thins
+and you can see the far bank, and soon enough the ferry bumps against the rocky
+beach. You thank the Ferryman and step off onto reassuringly hard ground.
+71108: You flash the gold ticket again, the Ferryman visibly tuts, and motions
+for you to sit. As he paddles you across the river for another time, you get
+the feeling that he thinks you're abusing his good nature.
+71252: The river slurps in its container behind you and you thank whoever is
+watching that you are across it. Basically the east bank looks remarkably like
+the westbank, except for the path leading east.
+71386: You flash your season ticket and the Ferryman nods understandingly. He
+motions for you to sit and once again rows you across the river. You hop off
+onto the west bank of the river, and thank him again.
+71532: A ferry is waiting on the bank of the river.
+71564: The boat seems to made from petrified wood, and a sticker on the back
+reads 'my other boat's a trireme'.
+71640: You are in some sort of small man-made (or demon-made) chamber between
+two large underground caverns. Archways lead east and west, and there appears
+to be some sort of partially rubbed-away message above the east archway.
+71796: You step gingerly around the snoring hellhound and go through the
+imposing stone archway.
+71860: Cerberus snarls at you as you try to move in that direction, so you
+carefully edge back. No harm done.
+71932: You can make out a few words and letters; 'Abando', 'ye' and 'enter
+here' in that order. The rest is far too indistinct.
+72024: Cerberus, the three-headed dog, is tethered to the wall.
+72068: The big, black triple-skulled wolfhound growls and snarls in your
+direction, but cannot reach you thanks to the tether that secures it to the
+wall.
+72172: The big, black triple-skulled wolfhound growls and snarls in your
+direction, but cannot reach you thanks to the tether that secures it to the
+wall.
+72276: It's a small, cheap, red plastic dog dish with 'My Best Friend' written
+on the side in big blue letters. It seems to be just out of the dogs' reach.
+72384: You have difficulty with the moral dilemma in killing non-humans.
+72432: You kick the poisoned drinky over to the baying dog, whereupon it tears
+the bowl apart with its three heads and consumes the contents. After a short
+while the knockout pills take effect and, literally as one beast, the three
+heads whine and droop. Soon the monster just stiffens and falls over sideways,
+then commences snoring loudly.
+72664: You need to disguise it. The dog isn't the least bit interested.
+72712: The ambrosia on its own won't incapacitate the creature.
+72752: The current contents of the bowl would neither interest nor affect
+Cerberus.
+72808: Cerberus, the three-headed dog, is asleep on the floor.
+72848: Tongues lolling, Cerberus almost looks cute. Almost.
+72888: Tongues lolling, Cerberus almost looks cute. Almost.
+72928: Let sleeping dogs lie. This is the first time I've been able to say that
+in such an apt situation.
+73000: This is a narrow stone ridge which pokes out over a huge pit, the bottom
+of which is indistinct. A large sign on the far side of the room points down
+into the chasm.
+73116: The sign points downwards and reads 'Hell This Way. NO LIVING PEOPLE
+PLEASE!'.
+73188: You lean forward and peer over the edge of the pit, staring down into
+the blackness. Nothing is visible but the darkness.
+73272: You grimace, stand on the very edge and, sweating, hurl yourself down
+into the darkness. No invisible bridges this time as you plummet through layer
+upon layer of dark shadows, each darker than the last.
+73414: You don't know how long you fall for. Could have been hours, could have
+been days. Just as you begin to wonder if you have made a big mistake, the
+bottom of the pit becomes visible - a circle of dark red rock swarms into view.
+You brace yourself for landing, and feel a squeezing pain in your chest as the
+suicide pill takes affect. You clutch at yourself and howl in pain just before
+everything goes black... 
+
+ You awaken face-down on rough, crimson rock, and
+you feel oddly warm. As you struggle up to your feet, you realise that you are
+now dressed in a ragged leather tunic. Your skin is pale and your head hurts.
+You realise with a heavy heart that you have died, and have taken your place
+among the Damned. You look around at the cavernous realm of the Underworld,
+scowl at the stalactites and wince at the screams of anguish. Now how are you
+ever going to get back to the land of the living?
+74046: Just as you are getting into the whole falling business, a spooky laugh
+echoes around the pit and the air around you becomes red and warm. Stabbing
+pains invade your head and your blood seems to boil in your veins. When your
+vision clears, you find yourself back on the edge of the pit. 
+
+ "Bollocks,"
+you quip.
+74268: The scent of boiling sulphur fills your nostrils as you stand in the
+middle of a huge, hellish plain. The dirt beneath your feet seems to snap and
+bite at you, and the wails of the tortured Damned grate at your nerves. Paths
+lead north, south and east.
+74444: You are surrounded by tall ridges which impede movement to the north,
+east and west, but a path leads back south. Judging by the burn marks on the
+floor something quite energetic and very hot goes on here quite regularly.
+74596: It's one of those Viking hats with the two horns.
+74632: A gigantic formation of red rock rises out of the ground here, a
+formation which could conceivably be described as throne-shaped. Human skulls
+with the obligatory snakes crawling through them decorate the chair on the
+armrests and headrest. A very welcome path leads north.
+74820: Satan is here, sitting on his throne.
+74848: Satan, Beezlebub, Prince of Darkness... whatever you want to call him,
+he's here, and parking his enormous behind on his satanic chair.
+74948: "Go away, little human, you bore me."
+74980: "What makes you think I want that back? Put it in the Cracks of Gehenna,
+or something."
+75576: . Oh, well. Satan is well known for his sense of humour. Just be
+grateful he didn't drop you off in the sea, or a volcano, or in the middle of a
+mountain. 
+
+ Well, Arthur, you've done it. You've destroyed Hell's Cheesecake
+once and for all, and foiled Dr. Diablo's plans once again. It's going to be
+long walk back, but at least you'll have time to reflect on what a debt the
+world owes to you. 
+
+ Sigh.
+75872: "Go away, little human, you bore me."
+75968: This chap will not respond to prezzies.
+75996: Nearly beneath your feet and adding to the somewhat stifling air of the
+place is a river of lava, possibly one of a vast network of rivers. Rather
+uncomfortable mortal souls flow past, apparently not enjoying themselves much.
+The path leads back west.
+76172: What can be said? It's a horizontal flow of molten rock. It's also very
+warm.
+76232: You hurl the cake into the lava and it disappears in a burst of smoke.
+Now it's horrors will never again be unleashed into the living world.
+77960: endeavoured almost constantly to keep him in this universe. He was just
+that little bit less dangerous over here than over there. 
+
+ "What master plan
+has he hatched this time?" inquired Agent Kastanet, twiddling with her ID tags.
+
+
+ "He means to use the mystical powers of a certain artefact, the location of
+which has been known to us for many decades now." 
+
+ "You don't mean..." began
+Agent Llewellyn. 
+
+    "... Hell's Cheesecake?" finished everyone else. 
+
+ "The
+very same," said Agent Pemberton smugly. "As you know, the security in the
+Temple of Hell's Cheesecake is so tight that only one of us can get through,
+but as you know Diablo is a resourceful one. One of us will have to go to the
+temple and fetch the Cheesecake back here before Diablo gets there first." 
+
+
+"Who?" 
+
+ "Who else? The only one of us who has skived off all his assigned
+missions for the last six months, and just sits on his arse all day stuffing
+his face with pizza?" 
+
+ Agent Arthur Yahtzee looked up from his meal,
+pepperoni smeared over his face, and said, "Why's everyone staring at me?"
+

@@ -1,0 +1,447 @@
+13517: Nothing to do!
+13552: o. You have won
+13655: It is now pitch dark in here!
+13682: I beg your pardon?
+13746: Sorry, that can't be corrected.
+13775: Think nothing of it.
+13828: As good-looking as ever.
+13860: You can hardly repeat that.
+13885: You can't begin with a comma.
+13999: I didn't understand that number.
+14028: You can't see any such thing.
+14064: You aren't holding that!
+14106: I'm not sure what "
+14158: That's not a verb I recognise.
+14197: You can't see "
+14305: Nothing to do!
+14322: There are none at all available!
+15232: Please answer yes or no.
+15258: Are you sure you want to quit?
+15303: Failed.
+15323: Restore failed.
+15340: Ok.
+15358: Save failed.
+15373: Ok.
+15417: Transcripting is already on.
+15483: Transcripting is already off.
+15541: Score notification on.
+15562: Score notification off.
+15585: You have visited:
+15613: Objects you have handled:
+15638: None.
+16024: You are carrying nothing.
+16073: Taken.
+16084: You are always self-possessed.
+16617: Dropped.
+16725: Removed.
+16864: You lack the dexterity.
+16945: Done.
+17211: Done.
+17431: Wrahn seem interested.
+18070: You can't go that way.
+18630: But it's dark.
+18647: You find nothing of interest.
+18683: But it's dark.
+18774: You find nothing of interest.
+19902: . Not bad.
+19920: That was a rhetorical question.
+19974: That seems unnecessary.
+19997: Keep your mind on the game.
+20022: What a good idea.
+20041: You smell nothing unexpected.
+20068: You hear nothing unexpected.
+20093: You taste nothing unexpected.
+20128: Keep your hands to yourself!
+20153: You feel nothing unexpected.
+20178: If you think that'll help.
+20287: Oh, don't apologise.
+20317: Quite.
+20386: You achieve nothing by this.
+20474: You wave, feeling foolish.
+20624: You are unable to.
+20643: Nothing obvious happens.
+20693: That's not a direction.
+20716: Not that way you can't.
+20748: Keep your hands to yourself.
+20773: You achieve nothing by this.
+20806: Futile.
+20835: You talk to yourself a while.
+20862: This provokes no reaction.
+20890: There is no reply.
+20909: Nothing is on sale.
+20928: Your singing is abominable.
+20962: Time passes.
+34250: Duly noted.
+34265: Boing.
+34285: Bzzzzzzzzzzzzzzzz.
+44813: Learn gaydar.
+44947: Mmmmm, fellatio.
+45007: Fuck you.
+45020: Fellatio.
+45048: Seriously, I don't.
+45198: You're Jean Val-Jean.
+45223: You're Seven of Nine.
+45361: Mmmmm, twerp stew.
+45421: Oh, shut up, you.
+45468: The Hellmouth.
+45945: Zzzzzzz.
+45967: You have no legs.
+45986: God cares a lot.
+46097: Try pushing it in a direction.
+46162: Fuck you.
+46222: You smell so good now.
+46282: Get a room or something.
+46320: P.
+46546: Idiot.
+46594: Ed's a chronic wanker.
+49424: Score:
+49432: Moves:
+49440: Time:
+49448: You can't go that way.
+49780: Please give one of the answers above.
+49808: [You can't "undo" what hasn't been done!]
+49844: [Can't "undo" twice in succession. Sorry!]
+49884: "Oops" can only correct a single word.
+49912: It is pitch dark, and you can't see a thing.
+49944: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+50004: You seem to want to talk to someone, but I can't see whom.
+50048: To talk to someone, try "someone, hello" or some such.
+50088: I didn't understand that sentence.
+50148: You seem to have said too little!
+50172: You can't use multiple objects with that verb.
+50208: You can only use multiple objects once on a line.
+50244: You excepted something not included anyway!
+50276: You can only do that to something animate.
+50308: That's not something you need to refer to in the course of this game.
+50356: I didn't understand the way that finished.
+50388: Sorry, you can only have one item here. Which exactly?
+50540: Are you sure you want to restart?
+50564: The game file has verified as intact.
+50592: The game file did not verify as intact, and may be corrupt.
+50636: Attempt to begin transcript failed.
+50664: Attempt to end transcript failed.
+50688: You're carrying too many things already.
+50720: You can't put something on top of itself.
+50752: You can't put something inside itself.
+50780: That would scarcely empty anything.
+50836: You can only get into something free-standing.
+50872: But you aren't in anything at the moment.
+50904: You'll have to say which compass direction to go in.
+50944: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+51040: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+51124: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+51300: This dangerous act would achieve little.
+51328: Nothing practical results from your prayer.
+51360: The dreadful truth is, this is not a dream.
+51392: Digging would achieve nothing here.
+51420: You jump on the spot, fruitlessly.
+51448: You would achieve nothing by this.
+51472: There's nothing suitable to drink here.
+51500: But there's no water here to carry.
+51528: Real adventurers do not use such language.
+51560: Violence isn't the answer to this one.
+51588: There's not enough water to swim in.
+51616: There's nothing sensible to swing here.
+51644: That would be less than courteous.
+51668: Is that the best you can think of?
+51692: You lack the nerve when it comes to the crucial moment.
+51732: I don't think much is to be achieved by that.
+51764: You aren't feeling especially drowsy.
+51884: They are entertaining and witty and suave at all times.
+51924: Nothing practical results from your putting the mack-daddy on.
+51968: Unfortunately, this is not a text adventure.
+52308: Drink paint.
+52320: Gherkin slurpin'.
+52336: Send Ed Mueller your life savings.
+52400: No.
+52404: I know this because Tyler Durden knows this.
+52436: Amusing Things To Do
+     Am I cool enough?
+52504: Am I cool enough?
+52520: Remember the guy who went in the bathroom?
+52552: He is dead now.
+52564: Caitlin thinks the dead guy is Dante.
+52592: When he goddamn feels like it.
+52616: Bribe Randal with porn.
+52636: No, with GOOD porn.
+52656: I don't know.
+52668: She is pure evil.
+52684: Asian design major my ass.
+52704: Go to Blockbuster and rent *Clerks* already.
+52740: How do I freak out Dante?
+     When will Randal open the video store?
+  
+  How do I get Jay to give me a blunt?
+     What is the cat's name?
+     How do
+I get that Caitlin chick to leave Dante alone?
+52912: How do I freak out Dante?
+52932: When will Randal open the video store?
+52960: How do I get Jay to give me a blunt?
+52988: What is the cat's name?
+53008: How do I get that Caitlin chick to leave Dante alone?
+53048: Heroin is expensive and dangerous.
+53136: Well, you are.
+53148: Drink a lot.
+53160: I like hint menus.
+53176: Menus are neato.
+53188: Vitamins.
+53196: Ramen Noodles.
+53408: Who am I?
+53416: Where am I?
+53428: What is the point of this game?
+53464: Is Halloween really an evil holiday?
+53492: How do I get drunk?
+53508: Why is Ed Mueller such an awesome bloody programmer?
+53772: Far off toward the northwest, a small, oddly shaped building sits atop a
+small hill.
+53832: Being a pumpkin, you lack things like feet, legs, and brains.
+53896: Best to leave them alone, buddy.
+53920: It's an old church, an unpainted, one-room affair, a monument to the
+hard toils and simple, humble devotion of the pioneer-folk who hand-built it. 
+Recently the Cow-In-A-Box corporation bought it and turned it into a burger
+stand.  The Son Of God hangs from the roof, offering salvation and condiments
+to all. 
+
+This late in the afternoon, there's something disquieting about the
+shadow that the steeple casts.
+54472: Miller? 
+
+The shadow resembles a pumpkin monster.  Woooooo, pumpkin
+monster!!!!
+54552: Wooooooooooooooo.
+54568: He planted you.
+54580: Bored now.
+54600: Round.
+54606: You feel like such a whore. 
+
+First they washed you.  They rubbed your
+skin with a soft cloth, made you clean and gleaming.  Then they painted you a
+face, a cute little 'hello, sailor' smirk.  After examining your weight, luster
+and overall beauty, they determined your price. 
+
+Then they put you out with
+the others, to wait for passers-by.
+54860: It's okay to kill them cause Americans don't have souls.
+54916: Roundish.
+54924: Being a pumpkin, you have no hands.
+54952: Unfortunately, this is not a text adventure game.
+55002: How cuuuuuute.
+55114: The road is to the east.
+55132: "I just wanna take a whiz in your cornfield," you tell the farmer. 
+
+He
+snorts.  "Field's for paying customers only."
+55238: Now go beet off.
+55380: The road continues north.
+55904: Tax dollars at work my ass.
+55924: The back door is open.
+55940: The back door is closed.
+56016: A shiny key.
+56216: Jesus died for somebody's sins, but not yours.
+56252: Unlike most tables, this one has four legs.
+56284: It's mostly beef lips. 
+
+Leave it alone; this won first place in this
+year's science fair  [Footnote Ten].
+56418: Footnote Ten].
+56432: Bzzzzzzzzzzzzzzzzzzzz. 
+
+Wow, you haven't felt an electric weenie that
+good since your Paris summer with Andy Warhol.
+56616: A chemistry lab is south, and a cafeteria is to the west.
+56754: Another hallway is north.
+56776: A large, metalish cart to organise and shelve plates and what-not.
+56824: The cart is too heavy to pick up.
+56924: A nurse's station is southwest.
+57138: You can see Turtle, the friendly turtle mascot here.  Someone has
+painted mean and hateful slogans on his shell.
+57220: Yes, yes, tell me about your childhood.
+57252: Well, unfortunately, that's what Turtle gets for being openly gay in a
+rabidly right-wing podunk town like this.
+57492: All the world's a fucking stage.
+57532: Woooooooooooooooo.
+57546: Oh my Goddess!  It's the story of a psycho-killer who wanders the halls
+of a high school, strangling the cheerleaders and shit!  Is this foreshadowing?
+ Postshadowing?  Charcoal shading?  Cubis 
+
+Oh, forget it. 
+
+Do-over! 
+
+Oh, my
+Goodness.  It's the story of a teenage girl, coming of age in a sleepy Southern
+town at the turn of the civil rights movement.  She befriends an aging,
+alcoholic ex-prostitute, and together the women embark upon a journey of
+self-discovery.  Until some psycho killer picks their asses off.
+57924: Taken. 
+
+Touch it again and I'll break your damn arm.
+57966: Imagine the gymnasium at wherever you went to high school at.  That's
+exactly what this place looks like.  A hallway is south.  The girls' shower
+room is northeast.  If there were a boys' shower room it'd be northwest, but
+there isn't, cause nobody wants to see that.  The AV Club room is west.
+
+
+(Okay, *I* don't want to see that.)
+58216: What part of BLEACHERS don't you goddamn understand?
+58314: DUI!
+58376: This game!
+59082: But there's nothing in here.
+59220: You can see a buxom blonde cheerleader here, all naked and soapy and
+humming to herself and blithely oblivious to your presence.  Her neck is all
+soft and exposed.  She has the words DESIGNATED VICTIM tattooed on her butt
+[Footnote One].
+59852: If spam were silver.
+59898: Fuck.
+59904: Smells like teen spirit.
+60044: Wooooooooooooooo.
+60060: She helped bring you into this world, and she can take you back out of
+it.
+60320: He planted you.
+60332: He brought you into this world, and he can take you back out of it.
+60380: Bored now.
+60400: Round.
+60678: You can see Britney Spears here.  She has a boo-boo.
+60722: Nooooo!  What the hell is wrong with you?! 
+
+Britney is afraid and sad
+and begins to sniffle. 
+
+Poor Britney! 
+
+Love on the Britney!  Noogie on her
+head!  She was good today.  She ate all her peas and when she colored she
+stayed inside the lines.  Yay!  Good Britney! 
+
+Britney claps her hands and
+giggles.  :) 
+
+"We're all special cause God don't make junk!" Britney says, and
+blows you a kiss.
+61020: "You're special!" Britney says, and chews on her tail.
+61064: Etc.
+61068: A customer walks into the patch.  He begins examining you and your
+neighbors.
+61124: The customer eyeballs a fat pumpkin to your left.  He thumps it gently,
+checks its ripeness.
+61190: The customer shakes his head, and checks out another pumpkin to your
+right.
+61246: The customer shrugs, scratches his chin, and gazes at you.
+61292: The customer bends down and picks you up.  Seconds later, his head falls
+off, and he expires.  The farmer screams.
+61376: The farmer grabs his wife's arm.  "Dangit, maw, your wicca study group
+ain't been practicing no hexes on them punkins again, have ya'll?" 
+
+The wife
+blushes.  "Sorry!  It were supposed be a high-profits spell, not a
+deeeee-capitation spell."
+61556: The farmer and wife walk over, prop up the man's corpse, and grab his
+head. 
+
+Just before the wife can attempt a reattachment spell, however, a
+teenage boy ambles into the area. 
+
+"Kickass jack-o-lantern!"  he says,
+pointing to the customer's head.  "It looks just like a severed head!  How much
+ya'll want for it?" 
+
+The farmer consults with his wife a moment.  "Eight
+bucks," they finally decide. 
+
+"Sold!"  The kid hands the farmer a wad of
+bills, takes the head and disappears.
+61910: The wife gazes about a moment, then grabs you and slaps you down onto
+the corpse's neck.  "Pa," she shouts, "go get my carving knife, this one gonna
+need a real face." 
+
+She begins chanting. 
+
+Everything goes all dizzy-like...
+
+
+There is a flash of bright light, and then you realize you are still standing
+in...
+62144: She rules.
+62152: Foo.
+62164: harvey asks, "Is this desire?"]
+62200: harvey says, "You're not rid of me."]
+62280: harvey whispers, "You oughtta hear my long snake moan."]
+62332: harvey shouts, "I'm one big queen!"]
+62420: harvey hisses, "You leave me dry."]
+62516: harvey asks, "Who will love me now?"]
+62638: Poor killer!
+62838: Thppppppppppppppt.
+63012: For Special Edition Director's Cut alternate endings, try KISS BJORK and
+TASTE BJORK.
+63124: much more popular with the judges than the science fair's only other
+experiment-entry, 'A Time Machine That Actually Fucking Works, So Screw You,
+Mr. Frauhenhoer, Who Said I Would Never Amount To A Goddamn Thing'.
+63828: frank 
+
+(To use the footnotes, simply type, for example, FOOTNOTE SIX at
+the prompt.  To access the Special Edition SUPER BONUS BUILT-IN INTERACTIVE
+MEGA-GOLD HINT MENU, please type HINT at the prompt.)
+64016: Yes, yes, we are all quite thoroughly impressed.
+64136: You can see a cheerleader hanging out here, practicing for next week's
+talent show.  Sounds like... 'Mack The Knife.'  Mouth wide open, eyes closed,
+the cheerleader fails to notice that you have entered the room.
+64610: Go figure.
+64620: There is absolutely nothing funny about eating disorders.  Nothing at
+all.  The fact that while thousands of third-world kids starve to death, this
+cheerleader here sticks her finger down her throat in fear of gaining half a
+pound, this in no way strikes you as being a situation worthy of ridicule.
+65544: If she'd been a cornflake girl, this is not really, this is not really,
+this is not really happening.
+65616: You can see a cheerleader hanging out here, toking on a bowl of herbal
+refreshment.
+66378: An adorable, brunette waif of a cheerleader is here, making odd moaning
+and wailing noises for no apparent reason.
+66460: You kissy-kissy on her face. 
+
+"Mmmm," she says.  "I'm soooooo tense. 
+Why don't we go to the shower room?  You can give me a massage.  I want to be
+NEKKID and STEAMY STEAMY HOT.  I am ever-so ever-so delicious.  Gee, but what
+if my friend is in there?"   She giggles.  "Well, I guess she can join in-"
+
+
+"Wait, wait, wait," you say.  "This is starting to sound like a porno."
+
+
+Bjork is confused.  "This is a porno.  Why do you think all these
+cheerleaders are all over the place?  Hello, script-impaired much?" 
+
+"Oh. 
+Gee."  You shrug.  " Damn," you say, "is my face ever red.  Sorry 'bout all the
+murder.  I assumed that was what I was supposed to do." 
+
+"Actually," Bjork
+says, "your face is orange." 
+
+"Oh, stop nitpicking, silly-head," you say, and
+kill her anyway.  But by then, the porn-flick's director has called the cops,
+who haul your ass off to the electric chair. 
+
+Mmmmmm, pumpkin pie.
+67156: You attempt to attack the waif. 
+
+Idiot!  Haven't you examined *any* of
+these cheerleaders you're trying to kill off?  You can't murder BJORK! 
+[Footnote Fifty]  She gives you a spinning roundhouse kick! 
+
+Bjork goes bjerk!
+ She lets loose with a high-pitched Icelandic wail, sending shivers up and down
+your spine till your head (and all the glass in the immediate area) explodes!
+67440: You attempt to bite the waif. 
+
+"Hey!"  Bjork shouts.  She gives you a
+hard swat.  "Stop that!  Somebody help me!" 
+
+Ozzy Osborne dashes into the
+room, and grabs you.  "I am so incredibly and unbelieveably fucking drunk," he
+announces, and bites your head off.
+

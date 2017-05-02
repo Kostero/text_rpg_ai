@@ -1,0 +1,385 @@
+12645: Nothing to do!
+12680: o. You have won
+12764: It is now pitch dark in here!
+12791: I beg your pardon?
+12855: Sorry, that can't be corrected.
+12884: Think nothing of it.
+12937: As good-looking as ever.
+12969: You can hardly repeat that.
+12994: You can't begin with a comma.
+13108: I didn't understand that number.
+13137: You can't see any such thing.
+13173: You aren't holding that!
+13215: I'm not sure what "
+13267: That's not a verb I recognise.
+13306: You can't see "
+13414: Nothing to do!
+13431: There are none at all available!
+14345: Please answer yes or no.
+14371: Are you sure you want to quit?
+14418: Failed.
+14440: Restore failed.
+14457: Ok.
+14477: Save failed.
+14492: Ok.
+14540: Transcripting is already on.
+14608: Transcripting is already off.
+14668: Score notification on.
+14691: Score notification off.
+14716: You have visited:
+14746: Objects you have handled:
+14771: None.
+15163: You are carrying nothing.
+15214: Taken.
+15225: You are always self-possessed.
+15760: Dropped.
+15872: Removed.
+16013: You lack the dexterity.
+16094: Done.
+16362: Done.
+16577: Wrahn seem interested.
+17170: You can't go that way.
+17742: But it's dark.
+17759: You find nothing of interest.
+17797: But it's dark.
+17888: You find nothing of interest.
+19034: . Not bad.
+19054: That was a rhetorical question.
+19116: That seems unnecessary.
+19141: Keep your mind on the game.
+19168: What a good idea.
+19189: You smell nothing unexpected.
+19218: You hear nothing unexpected.
+19245: You taste nothing unexpected.
+19282: Keep your hands to yourself!
+19307: You feel nothing unexpected.
+19332: If you think that'll help.
+19455: Oh, don't apologise.
+19489: Quite.
+19568: You achieve nothing by this.
+19662: You wave, feeling foolish.
+19817: You are unable to.
+19836: Nothing obvious happens.
+19888: That's not a direction.
+19911: Not that way you can't.
+19945: Keep your hands to yourself.
+19970: You achieve nothing by this.
+20005: Futile.
+20036: You talk to yourself a while.
+20063: This provokes no reaction.
+20093: There is no reply.
+20114: Nothing is on sale.
+20135: Your singing is abominable.
+20173: Time passes.
+22130: [Advanced to "noun" token:
+38249: " of "
+38288: " list of "
+38369: " has no "time_left" property
+38399: The object "
+38459: The room "
+38473: " has no "description" property
+47753: Trace off.
+48483: Nothing is in scope.
+48590: Just use TALK TO.
+48721: No.
+48887: But you'd get Nazi cooties!
+49273: You can't, he might explode.
+49374: You really shouldn't try that.
+49437: Try aiming at something.
+49466: That's dangerous!
+49527: That's not a weapon!
+52296: WILLIAM TELL: THE GAME!!!!!!!!!!!
+52564: Score:
+52572: Moves:
+52580: Time:
+52588: You can't go that way.
+52920: Please give one of the answers above.
+52948: [You can't "undo" what hasn't been done!]
+52984: [Can't "undo" twice in succession. Sorry!]
+53024: "Oops" can only correct a single word.
+53052: It is pitch dark, and you can't see a thing.
+53084: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+53144: You seem to want to talk to someone, but I can't see whom.
+53188: To talk to someone, try "someone, hello" or some such.
+53228: I didn't understand that sentence.
+53288: You seem to have said too little!
+53312: You can't use multiple objects with that verb.
+53348: You can only use multiple objects once on a line.
+53384: You excepted something not included anyway!
+53416: You can only do that to something animate.
+53448: That's not something you need to refer to in the course of this game.
+53496: I didn't understand the way that finished.
+53528: Sorry, you can only have one item here. Which exactly?
+53680: Are you sure you want to restart?
+53704: The game file has verified as intact.
+53732: The game file did not verify as intact, and may be corrupt.
+53776: Attempt to begin transcript failed.
+53804: Attempt to end transcript failed.
+53828: You're carrying too many things already.
+53860: You can't put something on top of itself.
+53892: You can't put something inside itself.
+53948: You can only get into something freestanding.
+53980: But you aren't in anything at the moment.
+54012: You'll have to say which compass direction to go in.
+54052: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+54148: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+54232: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+54408: This dangerous act would achieve little.
+54436: Nothing practical results from your prayer.
+54468: The dreadful truth is, this is not a dream.
+54500: Digging would achieve nothing here.
+54528: You jump on the spot, fruitlessly.
+54556: You would achieve nothing by this.
+54580: There's nothing suitable to drink here.
+54608: But there's no water here to carry.
+54636: Real adventurers do not use such language.
+54668: Violence isn't the answer to this one.
+54696: There's not enough water to swim in.
+54724: There's nothing sensible to swing here.
+54752: That would be less than courteous.
+54776: Is that the best you can think of?
+54800: You lack the nerve when it comes to the crucial moment.
+54840: I don't think much is to be achieved by that.
+54872: You aren't feeling especially drowsy.
+55380: Try typing "showverb" and then the name of a verb.
+55448: Property value not routine or string: "
+55476: Entry in property list not routine or string: "
+55596: " can only be used as a player object if it has the "number" property
+55872: This cheap, imported arrow, like "Gosford Park," is long, dull and
+British-made.
+55936: You'd better not, as someone could get hurt. It's not sharp, but who
+knows who might somehow end up choking on it.
+56082: This is Street St. which is the main and only street in Swisserland
+City. They only have one street so things don't get confusing. To the north is
+the center of Swisserland City, which is in the middle of the city. To the
+south are the north gates. There are merchants here selling lots of things and
+shouting a lot and waving their arms and jumping up and down, and a lot of
+people, and a jeep. Life in the big city sure is confusing!!!!!!
+56398: You say to your SON, "Hello, SON, stay close to me so you do not die."
+He stares at you blankly in response.
+56488: You cannot go in that direction because that direction is HAUNTED.
+56540: It's a surprising jeep.
+56558: The street is packed with people here, as well, and the people come in a
+variety of wild shapes and colors. Right here is a man flying around with a jet
+pack. Over in this end is a curious fellow with a baseball for a head. Just to
+your right you recognize the familiar face of Vermont the grape vendor,
+standing in front of her box upon which a myriad of grapes of many different
+sizes and colors is laid.
+
+The street goes north, towards the town square, and
+south. To the east is the alley of instant death.
+56916: It's a cardboard box filled to the brim with grapes.
+56956: They're mostly crushed and moldy.
+56980: With the help of his jet pack, he is moving faster than a speeding
+bicycle, and at the same speed as a speeding man with a jet pack.
+57072: He's lying on the ground, not moving.
+57100: This gate is called the north gate even though it is to the south due to
+a horrible construction accident. Nobody ever mentions that fateful day...
+57204: The merry merchants are selling many things, such as potatoes, monkeys,
+octopus, cabbage, paperclips, and tomatoes.
+57288: "HELLO," say the merchants in unison, "WE ARE MERCHANTS!!"
+57348: The people are a happy people who listen with attention and a joy. Also,
+they are playing a banjo.
+57420: This your BOW, which is yours, you are carrying it. You use it to shoot
+ARROWS.
+57484: You cannot drop the BOW because it is made out of wood and would
+probably be eaten by termites.
+57552: You can't give away the BOW because it has your name written on it.
+57604: This is your leather QUIVER!!!!! You can tell it is yours because it has
+your name written on it.
+57804: Vermont is the name of Vermont, who is a happy funny grapemerchant
+shaped like a beachball!! Yay!!!!!!
+57880: Vermont the grape merchant is here, trying to sell her quota of five
+grapes before she leaves.
+57946: Vermont hands you a plump purple grape and says "Please take this plump
+purple grape!"
+58012: "Oh you are kissing me IgrerrergeergC!"
+58124: "Hip hop hooray and goodbye for now."
+58152: This is the alley of instant death. It looks just like a normal alley.
+58204: It looks exactly like you'd expect it to look like.
+58240: Now the street has ended and you are on the south side of the square. To
+your north is the more norther part of the square, and beyond even that you can
+see the northernmost part of the square, to the south of which is the
+aforementioned not as north as the north part of the square part of the square.
+The latter part of the square (the part of the square that is to the north of
+the south part of the square but is not as far north as the north part of the
+square) is to the north of you, and you can see the evil PRESIDENT'S box on a
+stick to your north, in that part of the square (the middle part between the
+north part, to the north of the middle part between the south and north parts,
+and the south part, where you are.) The south street heading south is to the
+south.
+
+There are stormtroopers here, stormtrooping. Every now and then you
+notice one of them trumpet recklessly.
+58856: You are too south of it to see any detail. Try getting more north
+relative to the pole. It is to your north.
+58932: You are too north of it to see any detail. Try getting more south
+relative to the pole. It is to your south.
+59008: It looks just like something which you can't see because you're not
+close enough to it.
+59072: The stormtroopers stormtroop wildly and with abandon. They have
+harnessed the power of hypnosis- you've seen them completely hypnotize a living
+cow in under six seconds.
+59192: You'd better not, you might end up with the shit hypnotized out of you.
+59242: This part of the square is in between the southern part of the square to
+your south, and the northern part of the square which you can see to your
+north. To the northern part of the square's south is you. Beyond the northern
+part of the square is the place where you want to go to, which is even farther
+north than the northern part of the square, even though the north part of the
+square which is the part of the square which is to your north is the part of
+the square that is the most north. That's because the place where you want to
+go is more north than the square itself, which is merely south in comparison to
+the location of the place where you want to go, which is really far to your
+north.
+
+To your north, but to the south of the northern part of the square, is
+the pole with the PRESIDENT'S box on it. The stormtroopers stormtroop around
+the pole, bedecked in fanciful Jews and accolades, making sure that all who
+pass treat the PRESIDENT with the proper respect. 
+
+To your south is the
+southern part of the square, while the northern part of the square lies
+northerly to your northern north.
+60016: You watch horrified as the stormtroopers stormtroop around a helpless
+old man, hypothesizing violently, and begin to brutally hypnotize him. You hide
+your SON's eyes as the poor man is hypnotized so badly that he collapses to the
+ground. Three stormtroopers grab him by each arm and drag him offscreen,
+chewing loudly.
+60240: A stormtrooper grunts dully and fucks a tree, motioning you to pass.
+60290: The stormtrooper grunts dully and fucks a tree, motioning you to pass.
+60344: A stormtrooper yelps and fucks himself sideways, barring your progress
+until you salute the box. He dances frenetically, as if to tell you not to try
+that again.
+60456: The stormtrooper shouts, belches, and stabs a baby in the head with his
+sword for no reason, refusing to let you pass until you salute the fucking box.
+He dies messily, as if to tell you that you really shouldn't try that again.
+60614: The stormtrooper barks roughly, draws a picture of a mountain goat and
+runs towards you, eating several buildings as he approaches. He levitates
+briefly and then punches you in the head six and a half times. When you wake
+up, you are in a marketplace next to the square.
+60804: This pole is shaped like a long, cylindrical pole. It's made out of
+wooden wood. It stands a million feet tall, and on top of the one millionth
+foot is the PRESIDENT'S box. The box is shaped like a square, but three
+dimensional. It's roughly the size of a rusty, white-painted motor home with
+frilly curtains on the windows, and accommodates the PRESIDENT nicely. You can
+see the PRESIDENT'S cute little nose poking out from between the Venetian
+blinds, vibrating slightly when a breeze hits it.
+61170: You salute the box salutarily. 
+
+"WHY HELLO, NOBLE WOODEN CITIZEN!" You
+hear a recording of the PRESIDENT'S voice issuing from a speaker at the base of
+the pole. "I AM THE PRESIDENT!!!! THANK YOU FOR SALUTING MY BOX!!!! PLEASE
+CONTINUE ON YOUR WAY AND ENJOY THE NOBLE CITY OF SWISSERLAND CITY!!!!" 
+
+There
+is a dull thud, a crackle, and the tape stops.
+61520: You push the pole and it slowly begins to topple. Because it's a million
+miles tall, it takes several minutes to finish falling. Before you can see it
+horizontal, a group of stormtroopers run up to you, shouting and shitting
+bricks, and seize you by the arms, legs and larynx. You are taken to jail where
+you are executed by a killer whale.
+61756: You continue on your way. Suddenly, you are attacked by a killer whale.
+61954: Usually, the old man is a popular make-out spot. Today, though, no young
+farm boy and his cousin lie in the old man's shade. Instead, WILLIAM TELL
+JUNIOR, who is your SON, has been glued to the old man. About four or five
+yards away, give or take a couple of miles, you are restrained by
+stormtroopers.
+62184: No! If you left now, your son would be stranded, and even worse, you
+wouldn't get the maximum score!
+62256: The old man's head is tilted straight up, and he stares, unblinkingly,
+right at the sun. Occasionally a drop of pus oozes out of his left eye and
+rolls down and off his cheek, falling into a small puddle collecting at his
+feet.
+62554: . SMARTHEAD! YOUR ADVENTURE ENDS HERE."
+62604: He is a merry, rotund little man with apple cheeks and a bulbous, fuzzy
+nose. He radiates pure evil.
+62676: The PRESIDENT is watching the proceedings merrily, bopping occasionally.
+62750: . WILLIAM TELL!!!!!! I AM THE PRESIDENT!!!!! LET ME TELL YOU I AM VERY
+DISAPPOINTED IN YOU. IT WAS VERY UNCALLED-FOR FOR YOU TO NOT SALUTE THE BOX.
+YOU HAVE HURT MY FEELINGS VERY MUCH. HOWEVER SINCE I AM A JUGULAR MAN I WILL
+LET YOU GO... JUST AS SOON AS YOU COMPLETE MY LITTLE TEST OF YOUR ARCHERY
+SKILLS!"
+
+You see him take something from one of the stormtroopers, and place
+it on your SON'S head. It is the grape that was given to you by Vermont, the
+shopkeeper, earlier in the game!
+
+"I KNOW FROM THE HORRIFIED LOOK IN YOUR
+EYES," he continues, "THAT YOU HAVE GUESSED MY BERRY PLAN! I WON'T KEEP YOU ANY
+LONGER... TEST YOUR SKILLS! BEFORE ME, SIRRAH! BEFORE ME AS ALWAYS! HA, HA HA,
+HAAAA...." nobly cackled.
+63512: You cannot speak to him, as your mouth fell off in the struggle.
+63560: You shoot him in the ass. He dies instantly, as you do when you are
+hypnotized into a stupor by a stormtroop of burping stormtroopers and then
+festively beaten to death.
+63676: His back is glued to the old man, and he gazes slack-jawed at you,
+drooling, apparently unaware of what is going on around him.
+63768: Your SON doesn't seem to know what's going on around him, or indeed who
+you even are. He lost most of his memories in the accident.
+63864: He moans softly and tries to eat it. His teeth, soft and useless from
+years of poor hygiene, simply bend around it.
+63948: You can't: you've lost your personal talking bee.
+63984: You look him in the eyes and tell him, "My bazaar trash observer has
+entered phase full melee." It doesn't matter, he can't understand anything you
+say to him.
+64098: You aim carefully, and your arrow flies high. Your breath tightens as it
+appears for a moment to be headed straight towards your beloved grape. You emit
+a sigh of relief as it narrowly misses, hitting your SON'S head a few inches
+below.
+
+The crowd that has gathered erupts with joy. A sour look strikes the
+PRESIDENT'S face. 
+
+"VERY WELL," he pissed-offedly roars above the crowd, "YOU
+SHALL GO FREE... THIS TIME!" He motions to a stormtrooper, who removes your
+beautiful, beaming grape from your dead SON'S head and places it in your open
+arms.
+
+The crowd that has gathered erupts with a collective "AWW!"
+64568: You'd like to, but for a variety of reasons, can't.
+64608: Why bother? No matter what you do, he'll have forgotten about it within
+a couple of minutes.
+64676: At this distance, you can barely make out its beautiful features.
+64724: The grape looks delicious, as purple and plump as a ripe goiter.
+64772: No, you'll obviously need it later in the game.
+64808: Vermont intended it for your SON. She didn't know, of course, that he
+can't eat solid foods, but it's the thought that counts.
+64902: The arrow strikes the grape in its center. You gasp in horror as the
+grape is splattered across the trunk of the old man. The PRESIDENT laughs
+evily.
+
+"HA, HA, HA," he cackles, "YOUR AIM WAS NOT AS GREAT AS I HAVE BEEN
+TOLD, AFTER ALL. YOU COULDN'T EVEN HIT YOUR SON FROM FOUR YARDS!"
+
+You double
+up with a bagful of agony and pain, unable to accept the horror of what you
+have just done. You have murdered your beloved grape!
+65272: You have a heart discussion with yourself about the analogical
+significance of David Lynch's "Lost Highway."
+65352: At the moment, you can't think of anything to say.
+65388: You look like William Tell.
+65410: Hello!!!! You are William Tell in this: a game about William Tell. In
+this game you live in Swisserland, which is where the Switzes live. The Switzes
+love to ski and make cheese and clocks and bank accounts. You, William Tell,
+are a Swiss in my game about Swisserland. You live in Swisserland City,
+Swisserland, which is the capital of Swisserland. The year is 1307 AD and a
+really bad man is PRESIDENT of Swisserland. The PRESIDENT lives in a box on top
+of a flagpole in the center of Swisserland City which is the capital of
+Swisserland and everybody who sees the box has to salute the box and say,
+"HELLO! BOX!!!" and act very reverential because that is where the PRESIDENT
+lives. This is important because you, William Tell, do not like the PRESIDENT
+at all and you are going to refuse to salute the box because if you don't you
+won't get the OPTIMAL ENDING and you won't collect all 10,000 POINTS.
+
+You,
+William Tell, live in the mountains of Swisserland in a BLUE hut. Today you
+come down from the mountains with WILLIAM TELL JUNIOR, your SON, who eats paint
+chips. 
+
+It is a regular day in Swisserland City and you are with your SON.
+Little do the both of you know what fate has in store for you...!
+

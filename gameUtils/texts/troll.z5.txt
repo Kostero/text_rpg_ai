@@ -1,0 +1,323 @@
+11637: Nothing to do!
+11672: o. You have won
+11755: It is now pitch dark in here!
+11782: I beg your pardon?
+11846: Sorry, that can't be corrected.
+11875: Think nothing of it.
+11928: As good-looking as ever.
+11960: You can hardly repeat that.
+11985: You can't begin with a comma.
+12099: I didn't understand that number.
+12128: You can't see any such thing.
+12164: You aren't holding that!
+12206: I'm not sure what "
+12258: That's not a verb I recognise.
+12297: You can't see "
+12405: Nothing to do!
+12422: There are none at all available!
+13332: Please answer yes or no.
+13358: Are you sure you want to quit?
+13403: Failed.
+13423: Restore failed.
+13440: Ok.
+13458: Save failed.
+13473: Ok.
+13517: Transcripting is already on.
+13583: Transcripting is already off.
+13641: Score notification on.
+13662: Score notification off.
+13685: You have visited:
+13713: Objects you have handled:
+13738: None.
+14124: You are carrying nothing.
+14173: Taken.
+14184: You are always self-possessed.
+14717: Dropped.
+14827: Removed.
+14966: You lack the dexterity.
+15047: Done.
+15313: Done.
+15524: Wrahn seem interested.
+16105: You can't go that way.
+16665: But it's dark.
+16682: You find nothing of interest.
+16718: But it's dark.
+16809: You find nothing of interest.
+17937: . Not bad.
+17955: That was a rhetorical question.
+18009: That seems unnecessary.
+18032: Keep your mind on the game.
+18057: What a good idea.
+18076: You smell nothing unexpected.
+18103: You hear nothing unexpected.
+18128: You taste nothing unexpected.
+18163: Keep your hands to yourself!
+18188: You feel nothing unexpected.
+18213: If you think that'll help.
+18322: Oh, don't apologise.
+18352: Quite.
+18421: You achieve nothing by this.
+18509: You wave, feeling foolish.
+18659: You are unable to.
+18678: Nothing obvious happens.
+18728: That's not a direction.
+18751: Not that way you can't.
+18783: Keep your hands to yourself.
+18808: You achieve nothing by this.
+18841: Futile.
+18870: You talk to yourself a while.
+18897: This provokes no reaction.
+18925: There is no reply.
+18944: Nothing is on sale.
+18963: Your singing is abominable.
+18997: Time passes.
+32367: Hey! No sleeping on duty!
+32404: That's not your strong point.
+41516: You regain your balance.
+41642: A "lean and hungry" gentleman
+41756: You're a troll. But you're not
+41822: Whoosh!
+42238: What, raw?
+42737: Still no good.
+43562: Slash!
+43942: A hollow voice says "Troll".
+43982: Nothing happens here.
+44038: That's not a verb I recognise.
+44454: Quack.
+44499: One.
+44618: Better luck next time round...
+44786: It's not that flexible.
+44827: Instakill misused.
+44892: Time passes...
+44961: Time passes...
+45031: You can't wait for that!
+47089: Hints have been disabled.
+47708: Why did you write this game?
+47967: End:
+51168: Score:
+51176: Moves:
+51184: Time:
+51192: You can't go that way.
+51524: Please give one of the answers above.
+51552: [You can't "undo" what hasn't been done!]
+51588: [Can't "undo" twice in succession. Sorry!]
+51628: "Oops" can only correct a single word.
+51656: It is pitch dark, and you can't see a thing.
+51688: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+51748: You seem to want to talk to someone, but I can't see whom.
+51792: To talk to someone, try "someone, hello" or some such.
+51832: I didn't understand that sentence.
+51892: You seem to have said too little!
+51916: You can't use multiple objects with that verb.
+51952: You can only use multiple objects once on a line.
+51988: You excepted something not included anyway!
+52020: You can only do that to something animate.
+52052: That's not something you need to refer to in the course of this game.
+52100: I didn't understand the way that finished.
+52132: Sorry, you can only have one item here. Which exactly?
+52284: Are you sure you want to restart?
+52308: The game file has verified as intact.
+52336: The game file did not verify as intact, and may be corrupt.
+52380: Attempt to begin transcript failed.
+52408: Attempt to end transcript failed.
+52432: You're carrying too many things already.
+52464: You can't put something on top of itself.
+52496: You can't put something inside itself.
+52552: You can only get into something freestanding.
+52584: But you aren't in anything at the moment.
+52616: You'll have to say which compass direction to go in.
+52656: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+52752: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+52836: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+53012: This dangerous act would achieve little.
+53040: Nothing practical results from your prayer.
+53072: The dreadful truth is, this is not a dream.
+53104: Digging would achieve nothing here.
+53132: You jump on the spot, fruitlessly.
+53160: You would achieve nothing by this.
+53184: There's nothing suitable to drink here.
+53212: But there's no water here to carry.
+53240: Real adventurers do not use such language.
+53272: Violence isn't the answer to this one.
+53300: There's not enough water to swim in.
+53328: There's nothing sensible to swing here.
+53356: That would be less than courteous.
+53380: Is that the best you can think of?
+53404: You lack the nerve when it comes to the crucial moment.
+53444: I don't think much is to be achieved by that.
+53476: You aren't feeling especially drowsy.
+53564: Commendable attitude, for a troll. However, you're only paid to attack
+adventurers.
+53696: You invoke the great trollgod Ushnaktha. Feel better now?
+53740: You swear sulphurously to yourself.
+53766: It's not much of a job, but the Dungeon Master was looking for a guard
+troll, so you volunteered. You were given the standard-issue axe, and told
+to... well, guard.
+53900: As nasty-looking as ever.
+53920: Trolls are sadists, not masochists.
+53948: Trolls rarely talk to others, let alone themselves.
+53984: This is a small room with passages to the east and south and a
+forbidding hole leading west. Bloodstains and deep scratches (perhaps made by
+an axe) mar the walls.
+54098: A low-pitched siren, designed by the Frobozz Magic Siren Company
+especially to be inaudible to adventurers, echoes through the dungeon. Right on
+cue, your shift-change shambles into the room from the eastern passageway, axe
+swinging from his hand (and occasionally notching chips from his ankles). Time
+to clock off and meet up with the Thief and your foreman the Cyclops; you were
+just starting to get the hang of this game "poker" last night.
+54452: You nod to him, one professional to another.
+54484: You idly wonder whether you'll recoup your losses with him and the other
+lads at poker tonight.
+54552: From the looks of the bulges, he's had good pickings.
+54592: You're meant to guard this room, not the passageway.
+54632: You're meant to guard this room, not the cellar.
+54668: The passages through there are twisty and all alike. You don't want to
+get lost.
+54728: You stretch up and touch the ceiling. Fairly solid.
+54768: You experimentally tap the floor with the haft of your axe. Doesn't seem
+worth trying to dig through.
+54840: You walk straight into a wall. Doesn't really hurt, but doesn't get you
+very far either.
+54904: What if an adventurer came upon you unawares? Fine guard you'd be.
+54952: Letting go of your issued weapon during a guard action is a capital
+offence. Usually, the enemy can be relied upon to carry out the execution.
+55052: Destruction of Dungeon Master property is most definitely outside the
+terms of your contract.
+55216: darts back into the cellar. Your orders don't cover this eventuality.
+Best to stay put,
+55312: The adventurer is even less of a conversationalist than you are.
+55356: Letting go of your issued weapon during a guard action is a capital
+offence. Usually, the enemy can be relied upon to carry out the execution.
+55456: I think that you have failed to grasp the strategic basics of this
+situation.
+55512: There's a time and a place for everything. This, apparently, is a time
+and a place for being attacked.
+55588: The adventurer doesn't appear in the mood. This may have something to do
+with
+55748: An elvish sword of great antiquity, glowing a bright blue.
+55792: The adventurer swings it out of your reach.
+55860: There's a trick to disarming adventurers. You're due for that training
+session in five day's time.
+55932: The lamp is on.
+55944: The adventurer swings it out of your reach.
+56016: Oh, excellent idea! Plunge the adventurer into darkness, and take
+advantage of your superior dark vision to finish off the combat quickly. Shame
+that
+56156: the lantern out of the path of your axe. Never mind. You'd only have got
+into a quarrel with the grues over the body, anyway.
+56244: You are still recovering from that last blow, so your attack is
+ineffective.
+56328: You swing your axe, but it misses.
+56354: Your axe barely misses the adventurer's ear.
+56428: Your axe crashes against the rock, throwing sparks.
+56466: Your axe gets the adventurer right in the side. Bet that hurt.
+56514: The flat of your axe skins across the adventurer's forearm.
+56664: Your axe swings down, gashing the adventurer's shoulder.
+56706: An axe stroke makes a deep wound in the adventurer's leg.
+56864: You land a killing blow. The adventurer is dead.
+56900: You neatly remove the adventurer's head.
+56932: Your axe stroke cleaves the adventurer from the nave to the chops.
+56980: Your axe bashes in the adventurer's skull.
+57086: The adventurer's swing misses you by an inch.
+57122: A mighty sword blow misses you by a mile.
+57154: The adventurer charges, but you jump nimbly aside.
+57194: Clang! Crash! You parry the adventurer's sword.
+57234: The adventurer strikes you on the arm. Ichor begins to trickle down.
+57286: The adventurer pinks you on the wrist, but it's not serious.
+57332: The adventurer's stroke lands, but it was only the flat of the blade.
+57382: The swordblow lands, making a shallow gash in your arm.
+57424: You receive a deep gash in your side from the elvish blade.
+57466: A savage blow on the thigh! You are hurt, but can maybe still fight.
+57562: The adventurer's sword flashes out and connects painfully with your
+midriff.
+57618: The force of the adventurer's blow knocks you back, stunned.
+57664: You fall back against the ferocity of the adventurer's attack.
+57710: It's curtains for you as the adventurer's sword removes your head.
+57760: The next, fatal blow strikes you square in the heart.
+57800: You take a final blow and slump to the floor dead.
+57876: It appears that that last blow was too much for you.
+57980: Now, let's take a look here... No, I don't think you deserve another
+chance. You are only a troll, after all.
+58100: If you're mistaking this for Zork, you're horribly deluded.
+58144: I think that phrase is getting a bit worn out.
+58176: You appear to be repeating yourself.
+58248: The adventurer says "Hey! I didn't ask for any spoilers!"
+58292: And a fine figure of a guard you look.
+58320: You can't make a judgement on that.
+58348: These feet were made for stompin'.
+58376: Well, if you say so. You're not very good at it, though. Umm...many?
+lots?
+58436: You have lost your mind. Not that there was much to lose.
+58480: Why count something when you can hit it with a big hefty axe instead?
+58612: You're bored, but not that bored.
+58680: his head from his neck. He doesn't look as if he
+58716: her head from her neck. She doesn't look as if she
+58752: Junior employees do not waylay senior employees. Not if they value their
+job.
+58808: You swing the axe with deadly force. Consider the adventurer
+instakilled.
+58860: You'd be dead by the time help arrived.
+58888: The Cyclops has his own job to do elsewhere.
+58920: You can only wait for something animate.
+58984: HINTS disabled.
+59364: Why did you really write this game?
+59392: And if it's only a coding exercise, why did you release it publicly?
+59664: net 4000); I can't remember what it was about, or who made the comment
+(probably, though not definitely, one of David Dyte, Dan Shiovitz, or Admiral
+Jota), but someone made a crack about how boring it would be to be the troll in
+Zork; just standing around, and if an adventurer comes along, kill them.
+
+I
+picked up on the idea as a neat one for a coding exercise; this is my first
+Inform game. Not much of a size, but I've learnt lots about all sorts of good
+stuff.
+
+[David Dyte has since claimed to be the miscreant responsible for
+coming up with the idea. Who am I to argue?]
+60088: Good question. I suppose someone might get a laugh out of the concept.
+Oh, and see if you can spot the deeply-buried, highly obscure Enchanter
+reference.
+60364: int-fiction, inter alia. Do I get to mention an addiction to Babylon 5
+here? No? Shame.
+60468: if you're interested. Does that help?
+60498: People who'd probably hate to be associated with this, and probably
+don't know why I'm thanking them, but whom I ought to mention for one reason or
+another:
+
+David "flatterer" Dyte, Lucian "Lucian" Smith, Neil de Mause, Dan
+"inky" Shiovitz, David Wildstrom, L. Ross Raszewski, Andrew Plotkin, Zak
+Arntson, Gareth Rees, Graham "of course" Nelson. And all those raif posters
+whose questions and answers I plundered via DejaNews.
+
+Most of the game text
+that I haven't made up on the spot was taken from Dungeon; some other from
+Zork, which, as it said in the blurb, is a registered trademark of Activision,
+Inc. and is used with permission. (Cheers, Laird.)
+
+Note that this game is
+freeware. Do with it what you will, bar hacking it about and not saying that
+you've done so. Gaudete.
+61084: Well, although this is only a small almost-game, I've tried to put in
+some fun stuff. The usual sort of thing, responses to 'xyzzy', 'zork', 'hello
+sailor', etc. More ways of hitting people, given the theme of the game. A
+couple of box quotes (No! Not the box quotes!) in response to swearing and
+thinking. And, which gave a considerable amount of trouble, you can > WAIT FOR
+adventurers. ("
+61376: he tells me...").
+
+Feel free to email me with comments, bugs, flames,
+suggestions and offers of money (ha!); though it's unlikely there'll ever be a
+release 4 of this game. There's only so much time you can spend on a single
+joke, after all...
+
+Oh, and if you finished the game without ever resorting to
+UNDO, congratulations - and don't you have better things to do?
+61764: J.R.R. Tolkien, "The Hobbit"
+61796: chapter 2, "Roast Mutton"
+61978: Not intelligent.
+62000: W.S. Gilbert, "Princess Ida"
+

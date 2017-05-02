@@ -1,0 +1,479 @@
+11213: Score:
+11227: Moves:
+11244: Time:
+11372: I beg your pardon?
+11416: gpm[Your interpreter does not provide "undo".  Sorry!]
+11479: fpm[Can't "undo" twice in succession.  Sorry!]
+11656: Sorry, that can't be corrected.
+11691: Think nothing of it.
+11714: d."Oops" can only correct a single word.
+11928: You can hardly repeat that.
+12158: You can't begin with a comma.
+12215: You seem to want to talk to someone, but I can't see whom.
+12306: To talk to someone, try "someone, hello" or some such.
+13956: I didn't understand that sentence.
+14063: You can't see any such thing.
+14096: You seem to have said too little!
+14128: You aren't holding that!
+14157: You can't use multiple objects with that verb.
+14197: You can only use multiple objects once on a line.
+14276: You excepted something not included anyway!
+14314: You can only do that to something animate.
+14352: That's not a verb I recognise.
+14382: That's not something you need to refer to in the course of this game.
+14438: You can't see "
+14483: I didn't understand the way that finished.
+14604: There are none at all available!
+14634: I didn't understand that number.
+17373: Sorry, you can only have one item here.  Which one exactly?
+21971: Nothing to do!
+22396: gpm[Your interpreter does not provide "undo".  Sorry!]
+22513: Please give one of the answers above.
+24515: Ikc     ahn
+It is now pitch dark in here!
+24726: At the moment, "it"
+24744: a ys., "him"
+24798: and "me" means
+27047: Score:
+27061: Moves:
+27138: Are you sure you want to quit?
+27174: Are you sure you want to restart?
+27209: Failed.
+27226: Restore failed.
+27239: Ok.
+27258: Save failed.
+27269: Ok.
+27283: The game file has verified as intact.
+27310: The game file did not verify properly, and may be corrupted (unless you
+are running it on a primitive interpreter which does not properly implement the
+VERIFY code).
+27503: Transcripting is already off.
+27526: End of transcript.
+27569: Score notification on.
+27593: Score notification off.
+28011: You are carrying nothing.
+28090: M.
+28169: Taken.
+28187: As the bishop said to the actress.
+28260: You already have that.
+28394: That isn't available.
+28467: That's hardly portable.
+28491: Fixed in place.
+28552: You're carrying too many things already.
+28668: You're carrying too many things already.
+28702: You're carrying too many things already.
+28778: Already on the floor.
+28800: You haven't got that.
+28875: Dropped.
+28899: Alas, it is closed.
+28921: But it isn't there now.
+28945: You'll need to take it off first.
+29008: Removed.
+29042: You need to be holding it before you can put it onto something else.
+29123: You can't put something on top of itself.
+29204: You lack the dexterity.
+29358: Done.
+29414: You need to be holding it before you can put it into something else.
+29521: Alas, it is closed.
+29543: You'll need to take it off first.
+29573: You can't put something inside itself.
+29737: Done.
+29810: That isn't in your possession.
+29847: First pick that up.
+30424: A surreal idea.
+30457: You can only get into something on the floor.
+30607: But you're aren't in anything at the moment.
+30643: You are on your own two feet again.
+30682: You'll have to say which compass direction to go in.
+30940: You can't go that way.
+31630: M.
+31660: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+31764: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+31856: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+32367: But it's dark.
+32380: You find nothing of interest.
+32411: But it's dark.
+32528: You find nothing of interest.
+32561: You can't see inside, since it is closed.
+32695: I can't see how to unlock that.
+32755: That doesn't seem to fit the lock.
+32819: I can't see how to lock that.
+32847: It is in fact locked now.
+32871: First you'll have to close it.
+32903: That doesn't seem to fit the lock.
+32967: That's not something you can switch.
+32999: It's already on.
+33055: That's not something you can switch.
+33087: It's already off.
+33143: That's not something you can open.
+33175: It seems to be locked.
+33197: It's already open.
+33251: That's not something you can close.
+33283: It's already closed.
+33399: You can't wear that!
+33448: You're already wearing that!
+33558: Not bad.
+33570: That was a rhetorical question.
+33594: That was a rhetorical question.
+33618: In this game, arson is (usually) forbidden.
+33662: for a moment there, a deep voice seemed to say "you're on your own".
+33714: The dreadful truth is, this is not a dream.
+33750: That seems unnecessary.
+33783: Keep your mind on the game.
+33806: What a good idea.
+33822: You smell nothing unexpected.
+33846: You hear nothing unexpected.
+33870: You taste nothing unexpected.
+33894: You feel nothing unexpected.
+33944: You feel nothing unexpected.
+33966: The ground is unsuitable for digging here.
+33998: In this game, cutting things up is never helpful.
+34038: You jump on the spot, fruitlessly.
+34066: You would achieve nothing by this.
+34094: You would achieve nothing by this.
+34122: There's nothing suitable to drink here.
+34154: But there's no water here to carry.
+34182: Oh, don't apologise.
+34212: Once upon a time adventurers had moral standards.
+34250: Quite.
+34276: Violence isn't the answer, you know.
+34306: There's not enough water to swim in.
+34334: There's nothing sensible to swing here.
+34366: You can't usefully blow that.
+34390: You achieve nothing by this.
+34414: No, you can't set that.
+34434: No, you can't set that to anything.
+34462: You wave, feeling foolish.
+34494: But you aren't holding that.
+34555: It is fixed in place.
+34577: You are unable to.
+34592: Nothing obvious happens.
+34619: It is fixed in place.
+34641: You are unable to.
+34656: Nothing obvious happens.
+34686: That's not a direction.
+34712: Not that way you can't.
+34750: Is that the best you can think of?
+34783: It is fixed in place.
+34805: You are unable to.
+34820: Nothing obvious happens.
+34868: You achieve nothing by this.
+34895: Futile.
+34915: You lack the nerve when it comes to the crucial moment.
+34974: No reply.
+34986: Nothing is on sale.
+35018: No reply.
+35094: I don't think much is to be achieved by that.
+35140: Time passes.
+35178: You certainly aren't drowsy now.
+35290: You see a cup filled with water here.
+35327: A big empty cup.
+35340: A big cup that's always filled to the brim with water.
+35394: Youch!! The water is so boiling hot that you can't bring the cup near
+it.
+35460: The water begins to fill the cup and doesn't stop till the whole pond
+dries up. It is amazing how the cup manage to hold all that water.
+35566: The cup is already full.
+35684: It is as polished as it can be.
+35707: Your best polishing effort has no effect on the dusty plate.
+35754: The wooden cabinet has been opened.
+35807: Its shelves are empty.
+35878: The contraption is made of stainless steel, has a slot about six inches
+long, a lever is attached to it's side, and a sign is pasted onto it.
+36135: That started the machine humming. A few moments later it quiets down and
+the lever springs back to its original position.
+36240: The dwarf seems to steal glances at you while you're not watching.
+36289: "HiHo, HiHo...", hums Gruffy, the dwarf.
+36349: Giving the silverware to the dwarf must have caught his attention, since
+he tosses you his axe in return and walks jubiliantly away. You hear him mumble
+something about the ingenious financial abilities of magicians.
+36503: He's the one holding the axe, not you!
+36537: "Touch me and you die."
+36622: The tremendous oak sways, hovers dangerously, then topples to the ground
+with a loud CRASH.
+36704: The oak is too heavy for your puny muscles.
+36735: The oak tree is firmly rooted to the ground.
+36780: The branches are beyond your reach.
+36840: Lying on it's side amidst the tall grass is a huge oak.
+36891: At the very tip of one long branch dangles a diamond encrusted key!
+36938: Just like any other ordinary oak tree you've encountered.
+37026: There is no fire to light the branch.
+37058: The wood is already burnt up.
+37093: Lighting the branch turns it into a handy torch.
+37133: Your torch finally burns up.
+37158: A double-edged axe is embedded in the ground.
+37199: It is wiser to heed the sign.
+37338: Hnpond of cool water.
+37371: You take a few sips and find the water refreshing.
+37413: The only thing you will get is wet if you don't use a container.
+37478: A surreal idea.
+37494: The greenhouse contains a variety of exotic plants, tropical greenery.
+In the middle of some purple-black shrubs sits
+37655: Someone has stolen all the bananas from the tree. It is now as bare as a
+new-born baby.
+37718: It is bulging with banana clusters, all of which are as hard as rock.
+37775: You can't put anything on the banana tree.
+37810: Some green bananas are scattered around.
+37847: Try as you might, you are unable to remove the peel.
+37923: A tall, healthy, and bright green beanstalk stretches high into the
+heavens. It is bursting with enormous beans and leaves, all too large to
+handle.
+38030: There is a four-foot-high plant occupying the plot.
+38080: I think the plant has enough water for the time being.
+38144: The plant shudders visibly, then all of a sudden shoots up in a long,
+green streak of leaves and zips through the ceiling. You cannot see where it
+ends.
+38290: You walk in holding the polished plate over your face. The sphinx
+catches sight of it's own face reflected in the mirror-like surface of the
+plate and turns to dust.
+38413: Facing you is a deadly stone guardian-sphinx. It has you fixed with it's
+fatal stare. You recall from your college lectures the result of meeting the
+sphinx's gaze - instant stonification.
+38641: A few seconds after planting the beans, a greenish plant emerges and
+struggles to a height of about four feet.
+38718: You threw the bean into the bubbling hot water and waited. A minute
+later, the water spits out the green bean which travels in a graceful arc and
+lands right back into your hand. Nothing else interesting has happened.
+38945: The bubbling recedes and at length ceases. After a while, the steam from
+the hot springs disappears.
+39016: As soon as you planted the blue bean, the temperature of the greenhouse
+started to fall rapidly. Somewhere an alarm sounded, and the soil spits out the
+blue bean which travels in a graceful arc and lands right back into your hand.
+Nothing else interesting has happened.
+39220: A portly gorilla emerges from the Pit's depths and bars your
+way.
+
+"Comin' to see the old boy, eh?" the gorilla chuckles, "Jolly good! Er -
+there is the small matter of a tiny fee, of course. Purely for entry purposes,
+you understand..." He beams good-naturedly.
+39422: A hairy arm blocks your way. "The fee, sir?"
+39522: There is a stout gorilla here, waiting expectantly.
+39574: The gorilla looks at your offering disdainfully. "Surely, you can do
+better than that," he yawns.
+39661: The gorilla's nostrils open wide. "Umm...er...that'll do nicely," he
+manages, relieving you of your fee. He stumbles over to the side and stares at
+it, drooling in admiration.
+39797: The lost of your flingshot must have affected your brain.
+39843: "An entry fee, sir, not a sexual favour!"
+39912: Bought anything for me?"
+39961: "I'm sorry but I was expelled from the obedience school the old boy has
+send me. I wasn't good at following orders, you see."
+40106: Xnscratches his armpits.
+40172: The bird wakes up, finds itself in familiar surroundings, and goes back
+to sleep again.
+40241: With a deafening SKRAKIT, the bird spreads its wings and flies away.
+40379: The lions chase you out of the den but go no further...
+40426: An oval table and satin seats mark this room as the dining room. The
+exits to the east and west are labeled, respectively, living room and den.
+40534: A section of the wall has opened to reveal a closet to the north.
+40598: It resists your attempts to move it. Maybe you should twist it.
+40663: The section of the wall slides smoothly close and the closet disappears
+from view.
+40734: A section of the wall slides smoothly open. There is now a closet to the
+north.
+40911: The lions growl hungrily.
+40957: Whoever said that "Music sooths the savage beast" obviously didn't know
+about these lions. They stare at you in disbelief as you blow your silly little
+horn.
+41087: The lions stop growling.
+41124: Removing your fur coat is a big mistake. The lions soon realised that
+they have been tricked. The only consolation is that your death is swift.
+41294: The ferocious-looking lions are glaring at you for disturbing them.
+41353: The lions seem to hold the wearer of the fur coat in awe. In fact they
+looked terrified.
+41416: They seem ready to tear you to pieces any time.
+41460: .
+The lions
+41495: decided that they cannot wait any longer. What follows is a little
+gruesome, let's say it involves some screaming and a bit of bloodshed. One
+thing is for sure:
+41650: The lions frown as if they vaguely recognised the fur coat. The frown
+was soon dispelld by growls as hunger overrules the attempts to think.
+41788: They back off in fright, leaving you clear passage to the doorway.
+41835: The lions will tear you to shreds. Definitely.
+41882: Leave the frightened kittens alone, you big bully!
+41919: There are too many lions to be dealt with by one throw.
+41970: Don't push your luck.
+41987: Losing your head, aren't you?
+42015: These lions are definitely not circus-trained.
+42083: It is doubtful that the lions will appreciate your show of generosity.
+42134: This is the living room. It is rather strange, since everything here
+seems to be alive. The chairs are singing, the lamp fixture is sweeping the
+carpet, and the air conditioner is
+42375: The door's black mood is suddenly replaced by a cheerful one. "Trying to
+get through?" it observes, "my pleasure." It opens wide.
+42474: Someone left a black horn on the floor.
+42517: Only a reed can fit into the horn.
+42564: As you play the horn, you feel a sense of calm over you.
+42610: This area appears to be the power source for the entire Pit complex.
+Pipes and wires are strewn about, and there is a series of holes on the far
+end, all occupied
+42751: About an inch in diameter. It
+42825: All the holes are occupied.
+42881: The object is a perfect fit. In fact, it seems to be stuck in the hole.
+And, oh yes, the entire room has lighted up.
+43021: The door closes and you feel yourself moving for a few minutes. Then the
+door slides open again.
+43099: You explore the rest of the cavern, carefully avoiding the 30 feet
+radius that contains the giant, but find no other exit.
+43250: A disgusting idea.
+43289: As you enter the cavern, a strong draft smelling of beer blows out your
+torch...
+43378: The eyes of the giant open wide. Then, upon catching sight of you, they
+open wider. Wildy and speechlessly gesticulating in horror, it bounds to its
+feet and scrambles bellowing out of the room.
+
+As the dust settles, you see a
+flight of stairs that was covered by the giant.
+43580: I wouldn't go within ten feet of those socks if I were you. You could
+die from the stench.
+43672: This is Blackwing's safe. Buried among his various treasures is your
+precious flingshot. You grab the flingshot (with a fair helping to some spoils)
+and fling yourself back home.
+43812: The keyholes are of the wrong size.
+43864: The bananas are now in the holes. I know this is difficult to believe,
+but the bananas acted as a key and caused a secret passageway to open revealing
+a staircase leading downward.
+43994: The secret passageway disappears.
+44027: You almost broke your tooth: this banana is made of gold.
+44075: Just say "up" or "down" will do.
+44107: It is prudent not to cut the plant that you're on.
+44361: Cursing and Spell Flinging.
+    Just two zifs ago, your bitter archenemy
+Blackwing son of Blackfeather has deviously contrived to seperate you from the
+most important instrument of your field - your magic flingshot. Being an expert
+Filcher, he has successfully executed his evil designs. But you don't panic,
+you keep calm. Only after scrambling through the village yelling at the top of
+your lungs and frantically searching through every nook and cranny for a clue,
+do you finally decide to consult your friend and fellow Flinger, Zinness son of
+Zinnesess.
+    Having reclined liesurely on his plush velvet sofa and chatted
+comfortably for about half a zif, he advises you to pursue Blackwing and obtain
+eternal vengeance. You bravely undertake the mission and declare your absolute
+confidence, but oddly you can't stand up since your knees are shaking too much.
+When you recover, Zinness takes you into his flingroom and transports you
+somewhere near Blackwing's abode; that is, the Pit.
+45306: Enchanter.
+45320: Master Flinger.
+45338: Effective Curser.
+45398: I wouldn't consider this a suitable place to start your agricultural
+experiments. Perhaps some other place where the environment is friendlier.
+45548: Frankly, your bare hands will do the job.
+45720: A LADS adventure downloaded from CompuServe,
+converted to AGT and
+"embellished" by David Malmberg
+converted to Inform 5.4 by Teo Kwang Liak
+
+This
+is a BETA test copy.
+45872: You can't go that way.
+45940: It is pitch dark, and you can't see a thing.
+45972: As good-looking as ever.
+45992: This cool grassy area is where Zinness flung you. Apparently you are
+somewhere near Blackwing's Pit. To the south a glass structure glints in the
+sun, and a dismal cottage lies to the east.
+46128: The cottage's interior is rather nice, actually. A heavy marble table
+sits among ruby tiles, gold trimming lines ornate pillars, and the sapphire
+studded ceiling is garnished with a crystal chandelier.
+46268: There is a setting of beautiful silverware here.
+46304: A fine set of silver pieces.
+46324: A dusty plate lies disconsolately in a dusty corner.
+46360: A wooden cabinet is fixed to the wall. It is closed.
+46412: I'm sorry, it's written in Polish.
+46440: This is the beginning of a pleasant meadow that continues to the east.
+Tall grass is swept with soft zephyrs, whistling through the elegant yews which
+surround you. There is a particularly large oak on your right. A glass
+structure glints in the sun to the west.
+46624: Sitting on a nearby tree stump is a gruff-looking dwarf.
+46664: Huge fingers stroke a fiery red beard as he hums a gruff tune. A double
+edged axe is strapped to his side.
+46740: A thick piece of branch that was broken off from an oak tree.
+46784: A very sharp tree-chopping tool.
+46808: You have reached the end of the pleasant meadow that started from the
+west. The grass over here is curiously singed at the bottom.
+46960: Crystal clear, probably drinkable.
+46992: This grey area is filled with stone sculptures of all types of
+creatures. Upon closer examination you note they are extraordinarily well
+carved. A strange feeling you usually don't get in museums comes over you.
+47140: A warning sign hangs above the entrance to the west.
+47176: The sign depicts the usual skull-and-crossed-bone sign. It is carved out
+of stone.
+47236: Too life-like to be sculpted by hands.
+47264: The room you've just entered is totally bare of all furniture. It is
+colored grey, and filled with dust.
+47340: This is a small cell whose walls are composed of a massive inter-twining
+of trailing vines which convene above you in a big tangle of leaves and ivy.
+47444: You recognize them as part of the magic bean family, classed by the
+revered magi-biologist, Jack son of Jackyl, under Aurius Stawcus. Two of them
+have different properties, but you can't remember what the properties are.
+47600: You recognize them as part of the magic bean family, classed by the
+revered magi-biologist, Jack son of Jackyl, under Aurius Stawcus. Two of them
+have different properties, but you can't remember what the properties are.
+
+The
+blue beans are cold to the touch.
+47788: Before you, spiralling downward, lies the great black maw of Blackwing's
+Pit.
+47844: The gorilla is covered with black fur, skin, muscles, veins, and
+whatever else gorillas are usually covered with. Most of his face is covered
+with a stupid grin. You assume he is stronger than you are.
+47988: You are standing in the grand hallway of the Pit. Faint light comes from
+an opening above you. Large open doorways beckon from three sides. A fireplace
+burns behind you.
+48108: The fire is blazing brightly. It warms the room cheerfully.
+48152: The object is about one inch long, round, one inch in diameter, and
+threaded at one end.
+48216: This appears to be a taxedermist display area. Stuffed creatures abound
+everywhere with plaques marking them below.
+48296: All written in Latin and you cannot understand a word of it.
+48340: Oddly enough, there is a bird here who is very much alive. It is
+sleeping.
+48396: The bird has a long beak, blue-green feathers, and sharp talons. It is
+presently asleep.
+48460: A brass ring is attached to the east wall.
+48492: This is obviously the den. A family of lions are presently occupying the
+room. Behind them to the northeast is an open doorway.
+48592: You interrupted a conversation going on between the door and the window.
+That made the door quite furious, and I doubt he'll let you through.
+48692: To the north, a door is hob-knobing with the fixtures.
+48732: It seems to be a musical chair, since it is participating in a chorus of
+other chair-voices.
+48796: Seems to be in poor health.
+48816: A rather diligent fellow.
+48836: The lovely black horn comes from the goat species Quatikus, and, if
+fitted with the proper reed, it supposedly will calm all anger and sooth savage
+beasts.
+48944: You are behind the den of lions. Whatever they were placed there to
+guard must have already been removed, as there doesn't seem to be anything of
+value about.
+49064: Someone has scribbled something on it: "All keys grow on trees.
+49112: You are in a tight closet, presumably the elevator. A red button is on
+the wall.
+49172: Big, red button. Designed to be pushed.
+49208: A coat has been carelessly discarded on the floor.
+49244: Oh my, a fur coat sewn from an entire lion skin.
+49280: This is a tremendous cavern. There is a stifling stench in the air. The
+elevator is back south.
+49348: A 20 feet tall, wide and deep giant is snoring gratingly over here.
+49396: A 20 foot tall, wide and deep giant is snoring gratingly over here. At
+every breath you are consumed by a fog of beer-black breath. In addition to his
+breath, his socks give off an odor that almost knocks YOUR socks off.
+49556: A flight of stairs plunges downward.
+49584: This is the bottom of the rickety staircase.
+49616: Before you stands a wooden wall, studded with many large keyholes.
+49664: The keyholes run from bottom to top, and are extraordinarily big.
+49712: This room is shaped like a hexagon. It is colored red, the overhead
+lights are shattered, and the floor has a colorful mosiac.
+49800: You're on a beanstalk! You can only go up or down this gigantic plant.
+49852: You are about one quarter up the tall beanstalk, and 200 feet above the
+greenhouse.
+49912: Down is more likely.
+49928: This is where the tall beanstalk thins out. Only the tip emerges amongst
+the fluffy white clouds. It is rather silent up here.
+50016: There is a golden banana here, glistening in the light.
+50056: Pure gold. Clouds may not have a silver lining but they sure have golden
+bananas.
+

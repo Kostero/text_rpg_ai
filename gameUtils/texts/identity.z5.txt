@@ -1,0 +1,1179 @@
+24684: There is no reply.
+24752: Nothing is on sale.
+25191: Dropped.
+25248: . Not bad.
+26185: Wrahn seem interested.
+26657: Done.
+26706: You are carrying nothing.
+26791: Keep your mind on the game.
+26816: You hear nothing unexpected.
+27760: But it's dark.
+27777: You find nothing of interest.
+27805: Quite.
+27835: Nothing to do!
+27870: o. You have won
+27953: It is now pitch dark in here!
+27980: I beg your pardon?
+28044: Sorry, that can't be corrected.
+28073: Think nothing of it.
+28126: As good-looking as ever.
+28158: You can hardly repeat that.
+28183: You can't begin with a comma.
+28297: I didn't understand that number.
+28326: You can't see any such thing.
+28362: You aren't holding that!
+28403: I'm not sure what "
+28455: That's not a verb I recognise.
+28493: You can't see "
+28600: Nothing to do!
+28617: There are none at all available!
+29028: That was a rhetorical question.
+29055: Score notification off.
+29078: Score notification on.
+29107: Objects you have handled:
+29132: None.
+29538: You have visited:
+29713: You are unable to.
+29732: Nothing obvious happens.
+29782: That's not a direction.
+29805: Not that way you can't.
+29952: You lack the dexterity.
+30033: Done.
+30081: Please answer yes or no.
+30107: Are you sure you want to quit?
+30227: Removed.
+30258: Failed.
+30277: Restore failed.
+30294: Ok.
+30304: You achieve nothing by this.
+30336: Save failed.
+30351: Ok.
+30458: There is no score in this story.
+30496: Transcripting is already off.
+30562: Transcripting is already on.
+30628: But it's dark.
+30718: You find nothing of interest.
+30988: Your singing is abominable.
+31022: You smell nothing unexpected.
+31049: Oh, don't apologise.
+31077: Keep your hands to yourself.
+31102: You achieve nothing by this.
+31331: Taken.
+31342: You are always self-possessed.
+31767: You taste nothing unexpected.
+31801: You talk to yourself a while.
+31828: This provokes no reaction.
+31854: What a good idea.
+31880: Futile.
+31909: Keep your hands to yourself!
+31934: You feel nothing unexpected.
+31959: If you think that'll help.
+32166: Time passes.
+32190: That seems unnecessary.
+32286: You wave, feeling foolish.
+48401: It won't help.
+60454: You can't drink gas!
+61621: You close the bulkhead door.
+61670: You can't see that here.
+63615: Kemcimpmopen.
+64743: The yak looks sleepy.
+65198: You hear static.
+65211: You hear nothing from the radio.
+65400: Invalid RADIO command.
+65463: Invalid RADIO command.
+65643: The radio panel is closed.
+66734: "Be well and go in peace."
+66947: Hmfilled with water.
+67155: There is no water to empty.
+67553: "Be well and go in peace."
+68156: "Be well and go in peace."
+68552: The guard is currently asleep.
+68629: And the guard falls asleep!
+68716: The guard is currently asleep.
+68898: The guard is currently asleep.
+68955: "Be well and go in peace."
+69021: The guard is currently asleep.
+69361: Invalid COMPUCOM command.
+69432: Invalid COMPUCOM command.
+69773: You climb into the cryotube.
+70292: ezgo,... Nothing found.
+70690: Congratulations!!
+70766: Some additional Statistics:
+71182: Noted. Thanks for reporting it!
+71287: I don't see how to do that.
+71334: Thank you!
+71346: You don't yet know who you are.
+71462: You cannot remove your belt.
+71486: You cannot remove your boots.
+71510: You cannot remove your shirt.
+71534: You cannot remove your pants.
+71614: You hum a simple tune.
+71635: The boy smiles.
+72011: Complete:
+72032: Moves:
+74578: in" or "notin
+74594: opmhas" or "hasnt
+74736: }" at end of "objectloop
+76268: Score:
+76276: Moves:
+76284: Time:
+76292: You can't go that way.
+76400: Violence isn't the answer to this one.
+76428: This dangerous act would achieve little.
+76456: I don't think much is to be achieved by that.
+76516: Digging would achieve nothing here.
+76544: There's nothing suitable to drink here.
+76572: That would scarcely empty anything.
+76600: You can only get into something free-standing.
+76672: But you aren't in anything at the moment.
+76704: But there's no water here to carry.
+76760: You can't put something inside itself.
+76788: You jump on the spot, fruitlessly.
+76816: You would achieve nothing by this.
+76868: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+76964: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+77048: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+77160: You see nothing unexpected in that direction.
+77424: Please give one of the answers above.
+77452: [You can't "undo" what hasn't been done!]
+77488: [Can't "undo" twice in succession. Sorry!]
+77528: "Oops" can only correct a single word.
+77556: It is pitch dark, and you can't see a thing.
+77588: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+77648: You seem to want to talk to someone, but I can't see whom.
+77692: To talk to someone, try "someone, hello" or some such.
+77732: I didn't understand that sentence.
+77792: You seem to have said too little!
+77816: You can't use multiple objects with that verb.
+77852: You can only use multiple objects once on a line.
+77888: You excepted something not included anyway!
+77920: You can only do that to something animate.
+77952: That's not something you need to refer to in the course of this game.
+78000: I didn't understand the way that finished.
+78032: Sorry, you can only have one item here. Which exactly?
+78132: Nothing practical results from your prayer.
+78188: That would be less than courteous.
+78212: Is that the best you can think of?
+78236: You can't put something on top of itself.
+78268: Are you sure you want to restart?
+78292: Attempt to end transcript failed.
+78316: Attempt to begin transcript failed.
+78344: You aren't feeling especially drowsy.
+78372: Real adventurers do not use such language.
+78404: There's not enough water to swim in.
+78432: There's nothing sensible to swing here.
+78460: You're carrying too many things already.
+78492: You lack the nerve when it comes to the crucial moment.
+78560: You'll have to say which compass direction to go in.
+78600: The game file has verified as intact.
+78628: The game file did not verify as intact, and may be corrupt.
+78672: The dreadful truth is, this is not a dream.
+78764: Nothing fruitful can be accomplished by jumping here.
+78804: Your singing is, quite frankly, not good.
+78836: That's certainly one way to try and get past your problems...
+78880: Getting upset won't solve your current dilemma.
+78916: If you are really stuck and frustrated, you can always try HINTS.
+79038: You cannot jumper the wire connections with the radio panel closed.
+79088: I can't figure out what you are trying to connect here.
+79176: I'm not sure that's a suitable container.
+79208: I'm not sure that's a suitable container.
+79264: The yak nearby is unable to avoid inhaling some of the fumes.
+79308: I'm not sure that's a suitable container.
+79338: Exiting the cryotube and entering the main compartment of the spacecraft
+has caused some memories to surface. The spacecraft looks familiar - even in
+its current damaged state. You remember being part of a crew assigned to this
+spacecraft.
+79508: You are standing in the main compartment of a spacecraft. The area
+around you is burned and heavily damaged. It would be inappropriate to say that
+you were standing on the floor since the craft has seemingly come to a
+catastrophic landing and is now resting, unnaturally, on its side. As best you
+can determine, you are standing on the port side bulkhead of the doomed craft.
+At your feet is a large bulkhead door. Nearby is a small hatch (currently
+closed). Several emergency lights are glowing dimly at various junctions along
+one wall. To one side of the craft are four firmly anchored cryotubes
+protruding at right-angles from what is now the wall. These tubes include the
+one that you emerged from (
+79996: ), two that are closed, cracked and damaged both containing what appears
+to be humanoid figures and a fourth tube that is closed and apparently empty.
+You can also see a large instrument control panel to one end of this area. The
+front viewshield of the craft is also visible from here.
+80320: You manage a mighty jump, but even at your maximum apex you still can't
+quite reach the escape pod.
+80392: You jump up into a cloud of smoke from the billowing fire and then land.
+80444: Try as you might, the upper hatch is just slightly out of reach even at
+your furthest reach.
+80508: You jump up into a cloud of smoke from the billowing fire and then land.
+80560: Sorry, you can't go that way.
+80584: The broken and cracked cryotubes are designed much the same as the one
+you were in. In one of the cracked tubes is a woman. In the other tube is a
+man. Both are dressed much the same as you are.
+80720: The broken cryotubes are well beyond your repair skills at this point.
+80768: The cryotubes, although cracked, are still locked and cannot be opened.
+80820: The broken cryotube is unresponsive.
+80846: With a fair bit of difficulty and careful balance, you manage to climb
+onto the cryotube.
+80912: The broken cryotubes are damaged beyond repair and cannot be unlocked or
+interfaced.
+80972: Through the broken cryotube you can see a woman of maybe 40 years of
+age. She is dressed in the same clothes as you. It appears this person is dead.
+81076: Through the broken cryotube you can see a man of maybe 30 years of age.
+He is dressed in the same clothes as you with the addition of a golden insignia
+on his shirt. It appears this person is dead.
+81216: The bulkhead door is rectangular and rather large - roughly two meters
+across by three meters tall. The bulkhead door is currently
+81308: With great effort, the bulkhead door opens inwards revealing a small
+pile of dirt, rock and rubble.
+81380: The bulkhead door is already open.
+81404: Unfortunately, the nearly infinite mound of dirt, rock and rubble blocks
+you way.
+81464: The dirt, rock and rubble fills the area around and beyond the bulkhead
+door.
+81520: It would take months to dig your way out that way.
+81556: The round hatch sits at your feet. It is roughly one meter in diameter
+and is currently closed. There is a small metal tag embedded into the hatch.
+81660: door. It appears the hatch mechanism has been damaged during the crash.
+81712: The tag reads "Escape Pod 1".
+81736: This hatch above you is very similar to the hatch below you. It is a bit
+too far up to make out any clear detail, however.
+81824: The upper hatch is several meters above you. You can't reach the Upper
+Hatch.
+81880: You can't see any hatch up there, just smoke above you.
+81920: Try as you might, the upper hatch is just too far to reach from where
+you are standing.
+81980: The main control panel of the craft is badly damaged. A number of
+exposed wires are visible - mostly charred and occasionally sparking to life
+with a crackle. Otherwise, the control panel appears lifeless and
+non-functional.
+82136: The control panel is well beyond your repair skills at this point.
+82184: The cryotube you were in is roughly two meters long and made of a thick
+black metal. There is a small window on one end of the tube.
+82300: You cannot get at the recessed lock mechanism.
+82332: The cryotube is part of the spacecraft and is far too large to be
+portable.
+82384: With a fair bit of difficulty and careful balance, you manage to climb
+onto the cryotube.
+82448: The main viewshield is largely covered with dirt and rocks on the
+outside, with only the slightest hint of sunlight filtering through in one
+corner. The spacecraft appears to be burrowed into the ground on the port side
+with debris covering most of the front section.
+82632: The Guidance System is destroyed.
+82660: The empty cryotube is much the same as the other cryotubes in this area.
+The tube appears undamaged and is closed.
+82740: The empty cryotube is closed and locked.
+82768: The empty cryotube is unresponsive.
+82884: The closet is too small and unstable to stand on.
+82920: The Fire Extinguisher is small and red. You see nothing else unusual
+about the Fire Extinguisher.
+83040: A small plastic jar with an air tight lid.
+83078: The parchment opens up to reveal a schematic.
+84280: You see nothing special about the tweezers.
+84312: You see nothing special about the bandages.
+84344: The lights are glowing dimly, but still bright enough that you can see
+the interior of the spacecraft reasonably well.
+84428: The electrical system is a mess of tangled wires partially fused and
+melted from extreme heat. Most of the wiring appears beyond repair.
+84576: You are lying prone on the inside of an all black cylinder. This area is
+cramped with only a minimum of room to move about. You see a small sensor panel
+located on the inside of the cylinder.
+84708: The cryotube is currently open and you can see a bit into the main part
+of the spacecraft. You would be able to see more if you could manage to get out
+of the tube.
+84820: Directly above you is a small window set into the frame of the tube. The
+cryotube is currently closed.
+84892: You can't manage to move in such tight quarters. Better get out of the
+tube first.
+84952: Sorry, you can't go that way.
+84976: The electrical fire is causing a slow but steady stream of smoke to fill
+the main part of the spacecraft.
+85048: There isn't much you can do about the fire and smoke from within the
+cryotube.
+85102: The smoke continues to accumulate in the main part of the spacecraft.
+85156: The lock mechanism is built into the tube and is not directly
+accessible.
+85208: The cryotube is roughly two meters long and made of a thick black metal.
+There is a small window on one end of the tube and an illuminated control panel
+to one side of the tube.
+85332: The COMPUCOM isn't a standard key. For help with that device, type
+COMPUCOM, HELP.
+85408: You cannot get at the recessed lock mechanism.
+85440: Pretty much impossible while your in it.
+85468: The cryotube is part of the spacecraft and is far too large to be
+portable.
+85520: As hard as you push against the tube, it doesn't budge. It appears to be
+securely latched and locked.
+85592: The window of the cryotube, though small, does let you see some of the
+main part of the spacecraft.
+85664: There is a small electrical fire and some smoke which fills the upper
+part of the spacecraft.
+85728: You'll need to get out of the cryotube.
+85756: You try to push the window, but it won't budge.
+85792: You tug at the window, but it won't budge.
+85824: You try to break the window, but it won't shatter.
+85860: The main sensor of the cryotube is a largely featureless slate of raised
+black steel with three concentric rings of red light. The light illuminates in
+a cyclic pattern of "waves" with the inner most ring being illuminated first,
+followed by the middle ring and finally the outer ring. This lighted pattern
+repeats.
+86076: Nothing happens when you touch the sensor panel on the cryotube.
+86120: The electrical fire is causing a slow but steady stream of smoke to fill
+the main part of the spacecraft.
+86196: The fire crisis has already passed.
+86224: Your lungs are getting enough of it already. Maybe you might try putting
+it out!
+86280: The fire has already been put out.
+86304: You can't put the fire out with that.
+86386: You try to put out the fire with your hands, but the fire is too hot.
+86438: You don't have a fire extinguisher.
+86468: The fire extinguisher makes quick work of the fire. The smoke begins to
+clear in the compartment around you.
+86544: The fire has already been put out.
+86570: The smoke continues to accumulate in the main part of the spacecraft.
+86624: You are now balancing precariously on the top of the cryotube.
+86732: You jump down to the spacecraft floor below you.
+86768: There is simply too much smoke to try going in that direction from your
+current position.
+86908: You climb through the hatch into an area where the escape pod would
+normally be docked... but the escape pod has already been jettisoned and so you
+soon find yourself outside the spacecraft again.
+87044: Sorry, the escape pod hatch above you is currently closed.
+87088: Sorry, you can't go that way.
+87158: There is a small metal tag embedded into the hatch.
+87200: You can't see any hatch here, just smoke above you.
+87240: You can't reach the hatch while seated.
+87268: You can't see any hatch here, just smoke above you.
+87308: You can't reach the hatch while seated.
+87344: The tag reads "Escape Pod 2".
+87368: More memories surface as you enter the escape pod for the first time.
+You seem to remember that you helped test the escape pod for the place you
+work.
+87476: You are in an escape pod. The pod is scarcely large enough to allow you
+to crouch somewhat awkwardly. In the middle is a wide seat. Above the seat is a
+small control panel.
+87596: The escape pod hatch is directly below you and is opened.
+87636: The escape pod hatch is directly below you and is closed.
+87676: Sorry, the escape pod hatch is closed.
+87708: Sorry, you can't go that way.
+87730: You cannot get up from the chair while being strapped in.
+87776: The escape pod Chair is actually two full bucket seats side-by-side with
+strong reinforced backing and a set of safety straps to secure the people
+inside with a matching set of strap receptacles on the chair.
+87920: The straps look very strong. There is a buckle on the end of the straps
+that appears to attach to a matching receptacle on the escape pod chair.
+88020: You remove the strap buckle from the receptacle.
+88056: The straps are not currently buckled into the receptacle.
+88098: You can only strap yourself in while in the chair.
+88136: You connect the strap buckle to the receptacle. You are now securely
+strapped into the seat.
+88202: I don't understand what you are trying to connect here. You'll need to
+be more specific about what you want to attach the straps to.
+88300: The receptacle is located on the escape pod chair.
+88336: The escape pod control panel has a single red handle and nearby a small
+sign is mounted.
+88396: **EMERGENCY INSTRUCTIONS**
+
+1. Pull Handle.
+
+*WARNING*
+escape pod hatch
+must be closed and occupants must be secure prior to ejection due to excessive
+force during separation from the spacecraft.
+88564: You are in a large clearing with a few sparse bushes and a scattering of
+thin trees nearby. To one side of this clearing sits the spacecraft, resting on
+its side and burrowed partially underground. The spacecraft has separated into
+two distinct pieces. In this area you can see the main fuselage section of the
+craft. To the south lies the engine section of the craft. To the north, the
+clearing continues. A short distance away the escape pod rests quietly.
+88880: From this vantage point you can see most of the spacecraft which you now
+remember boarding prior to insertion into the cryotube.
+88970: You climb up the side of the ship. At the top, you spot the opening
+where the escape pod was attached. The hatch appears damaged but you manage to
+squeeze through the opening and drop into the spaceship.
+89116: Sorry, you can't go that way.
+89140: The escape pod is resting quietly on 3 telescoping legs. A small hatch
+underneath is just visible.
+89210: Sorry, the escape pod hatch is closed.
+89244: The spaceship is heavily damaged. From this vantage point, you can see
+an opening up on top of the ship where the escape pod was jettisoned from.
+89344: The engine lies to the south.
+89368: The bushes in this area are sparse but seem to grow thicker to the
+north.
+89420: The main engines of the craft has separated from the main section is
+resting here. A single crack is visible on the side of the engine bulkhead from
+which a steady plume of light green gas rises.
+89556: Sorry, you can't go that way.
+89580: The engine bulkhead has cracked. Green gas rises from the engine.
+89628: I'm not sure that's a suitable container.
+89660: The main part of the spacecraft lies to the north.
+89696: The gas is thick, green and swirling.
+89724: The gas has a strong pungent smell.
+89752: You cannot seal up the crack as it is too large.
+89788: There is a steady stream of gas leaking from the crack.
+89828: You cannot seal up the crack as it is too large.
+89864: You are standing in a clearing north of the crashed spacecraft. There
+are several varieties of vine-covered bushes nearby. In the distance to the
+east a small mountain range can be seen. A lightly worn path exits this
+clearing to the east.
+90032: Sorry, you can't go that way.
+90056: These Berries are small, round and blue.
+90088: You take a cautious nibble on one of the blue berries and you begin to
+feel very sleepy... You stop before you get too drowsy.
+90176: These Berries are small, oval and red.
+90204: You take a cautious nibble on one of the Red berries and start to feel
+very sick. Suspecting they are not good for your health, you stop eating them.
+90308: The bushes are covered with a thin series of vines containing two types
+of berries: blue and red.
+90376: Tall, magnificent and foreboding.
+90400: You are on a rocky mountain path which winds its way east into the
+mountain range. Around you are several small outcroppings of wispy grass
+surrounded by large groupings of rocks. To the west the path slopes downwards
+onto more gentle terrain.
+90568: Sorry, you can't go that way.
+90592: The mountain yak is a massive animal, with a thick coat of long,
+grayish-brown hair. The back of the yak is humped at the shoulders. The beast
+sports horns which are spread outward and curved slightly upward, and the tail
+is long-haired and bushy.
+90768: The yak appears to have something wrong with its front foot as it
+struggles to maintain balance.
+90836: The mountain yak looks at you inquisitively.
+90868: Although it hardly seems possible, you swear that the yak just winked at
+you.
+90924: The mountain yak makes what could only be described as a purring sound.
+90976: The yak is unable hold equipment, only a rider.
+91010: The yak is unwilling to venture far from its mountain home. You cannot
+travel in that direction while riding the yak.
+91094: The yak sniffs at the blue berries but doesn't eat them.
+91138: The yak sniffs at the red berries and issues a high pitched groan. The
+yak does not eat the red berries.
+91214: The yak shuffles uneasily nearby.
+91242: The yak utters a low guttural sound.
+91272: The yak nibbles at a few bits of grass on the ground.
+91310: The yak is nearly fully awake again.
+91340: The yak is starting to wake up.
+91368: The yak doesn't understand your talking.
+91400: The yak is either unable to understand you or unwilling to do as you
+ask.
+91452: There is a wooden splinter wedged into the side of the yak's foot.
+91500: The yak's foot looks in reasonably good condition to you.
+91540: The splinter has been removed and is no longer causing the yak
+discomfort.
+91592: The splinter appears to be causing the yak some discomfort.
+91636: The yak no longer has a splinter that needs removing.
+91674: The yak bucks and does not allow you to take the Splinter out. Perhaps
+if it were less awake and alert.
+91750: You remove the splinter from the yak using the tweezers. The yak utters
+a long melodic guttural sound.
+91824: That's not an appropriate instrument to take the splinter with.
+91870: You try to remove the splinter with your hands, but you can't get a good
+grip on it. Perhaps if you had a more appropriate instrument.
+91968: That's not an appropriate instrument to take the splinter with.
+92020: You are in a long green valley with mountains to the west. A path forks
+here - going east and sloping somewhat upwards and another heading south,
+sloping downwards further into the valley. You can see small trails of smoke
+wisping into the sky to the south.
+92200: Sorry, you can't go that way.
+92224: You are standing on the edge of a cliff. To the east you can see across
+a vast ocean stretching towards the horizon where sky eventually meets water.
+There is a path sloping downwards to the west away from the cliff edge heading
+back towards the mountains. Near the cliff edge and lying dangerously close to
+the drop off point is a man who appears to be dead.
+92472: It's a long way down and you decide better of it.
+92508: The cliff ledge lies East! It's a long way down and you decide better of
+it.
+92564: Sorry, you can't go that way.
+92588: There is a radio-transmitter set up near the cliff ledge.
+92628: appears to be in working condition. The service panel to this unit is
+closed.
+92684: The radio appears to be in a non-functional condition. The service panel
+to this unit is open and a new interface board is mounted in place. There are
+numerous wires that look like they would attach to the interface board.
+92840: The service panel on the radio is closed.
+92870: A burnt out interface board lies discarded on the ground nearby.
+92976: You cannot talk to the radio-transmitter.
+93008: The radio-transmitter is simply too bulky.
+93224: The burnt-out radio interface board lies discarded to the side. It is a
+tangled mess of wires and jumpers - fused and twisted almost beyond
+recognition. There is a new interface board mounted on the radio.
+93366: The dial is attached to the radio and has a frequency range of
+0-10000.
+The radio frequency is current set to
+93450: The radio service panel is open and affixed to the inside of the panel
+is a sticker. The sticker reads:
+94386: A fuse is mounted on the inside edge of the open panel.
+94428: The fuse is located behind the panel which is currently closed.
+94472: The fuse is currently not in circuit and looks like it is not blown.
+There is a small label attached just below the fuse.
+94560: The fuse label is located behind the panel which is currently closed.
+94608: The fuse label says "Note to service technician: Fuse is out of circuit
+when service panel door is open."
+94684: The radio-transmitter interface board is mounted in place and the wiring
+is exposed. On the open panel there is a sticker.
+94988: The current wiring for this device is as follows:
+95026: The radio panel door is currently closed.
+95224: This man is dead, but you recognise him. His name was Kanera and you
+worked together as patrolmen for the Stellar Patrol. Memories surface - you and
+he were assigned to deep space patrol and were both aboard the spacecraft
+together along with two additional crewmembers. There are small bits of red
+berries in Kanera's mouth.
+95452: Memories you had forgotten on crash impact have been jarred to life
+again.
+95512: You find nothing after searching Kanera's body.
+95548: Tall, magnificent and foreboding.
+95572: The ocean stretches off into the distance as far as you can see. The
+color is generally a deep green with just a hint of shimmering blue where the
+sun strikes the surface.
+95692: The sun is bright.
+95708: You are standing at the center of a quaint village with several thatch
+huts nearby. To the south, you can see the rest of the village stretching off
+into the distance. A main path runs to the north back towards the mountains and
+also curves here to the east into a thicket of trees. The path through the
+thicket to the east is lined with torches. There are no people to be seen
+anywhere, but from this central point, you can clearly see a small hut, a
+medium hut and a large hut.
+96040: You don't want to disturb the rest of the village.
+96076: Sorry, you can't go that way.
+96100: The torches are lit and burning. They illuminate the path to the east
+which is shrouded by trees.
+96168: The torches are clearly set here with care. You decide not to touch
+them.
+96220: There is nothing unusual about the small village hut... other than it is
+small compared to the other huts.
+96296: There is nothing unusual about the medium village hut... other than it
+is a medium sized hut compared to the other huts.
+96380: There is nothing unusual about the big village hut... other than it is
+big as compared to the other huts.
+96456: The path runs back to the north (towards the mountains) and goes to the
+east into a thicket of trees.
+96528: You are standing in a small village hut. The thatched roof is slanted in
+at odd angles that require you to crouch down a bit in spots. There is a small
+village boy here painting the walls and humming to himself.
+96676: Sorry, you can't go that way.
+96698: The village boy is but a child. He is painting one of the interior walls
+of this hut and doesn't appear to happy about it.
+96786: The village boy goes about his chores of painting the wall.
+96832: To talk with someone, address the person such as "SAY HELLO TO BOY" or
+"ASK BOY ABOUT ITEM".
+96920: The tune he is humming is unfamiliar to you but strangely soothing.
+96968: The boy responds, "You are quite welcome!"
+97000: The village boy kindly responds, "I'm sorry, but I am very busy and
+cannot help you with that."
+97072: The boy does not seem interested in what you have to tell him.
+97146: "You have obtained the village seal!"
+97176: The boy shakes his head and says, "I wouldn't feel right. The elder gave
+that to you."
+97240: The boy responds, "My family lives here in the village."
+97284: The boy smiles and says, "It woke me up last night. At first I heard the
+noise and then when I looked out my window I could see the light in the sky. It
+is a gift given to us by the twin moons. Nobody is allowed to see it unless
+under permission from the village elder. The gift lies to the east of our
+village."
+97504: The boy responds, "I wish I didn't have to paint these walls. I'd much
+rather go up and see the 'gift' at the Sacred Grounds!"
+97600: The boy responds, "It's easy to get past the 2 sentry guards - you just
+need the village seal."
+97672: The village boy says... "I've had to paint these walls all day. But when
+I get a chance, I will obtain a village seal and get up to see the 'gift' that
+has been left for our people. I heard the noise last night when the gift was
+delivered. A larger flash of light to the west and a smaller one to the east -
+where the Sacred Grounds lie."
+97916: The boy smiles, "The village elder is like a father to all of us. But he
+is so busy these days with running the village and tending to the Harvest."
+98024: The boy responds, "The harvest is our busiest time of the year."
+98072: The boy responds, "The village seal lets you do all sorts of neat things
+around the village. Only the village elder can provide one."
+98168: The boy responds, "One of our three principal gods."
+98208: The boy responds, "The twin moons are two of our three principal gods."
+98260: The boy responds, "The Heavenly Sun and the Twin Moons guide us."
+98312: The boy responds, "There are many such beasts in the mountains."
+98360: The boy responds, "I was lost there once when I was younger, but the
+elder came and rescued me."
+98432: The boy responds, "There are two kinds of berries that grow here. The
+red ones are highly posionous and I know enough not to eat one. My mother uses
+the blue ones to put me to sleep when I'm not feeling well."
+98580: The village boy starts to speak, ponders for a second and then smiles
+but does not answer.
+98644: The boy says, "I can't think of anything meaningful to say about that."
+98696: With a child-like voice, the boy responds, "You seem nice and I would
+love to help but I cannot help you with that."
+98780: The boy thinks for a few seconds, smiles and says, "Hello."
+98824: The boy responds, "You are quite welcome."
+98856: The village boy smiles and says, "I'm glad you agree."
+98900: The village boy looks intrigued and then says, "I'm not really sure what
+to say to that."
+98964: The village boy examines your gift, laughs and says, "This is very kind
+of you, but I have no need for such an item."
+99050: You are standing in a medium village hut with sparse furnishings. While
+the hut wouldn't be considered a luxurious place to live, it is clean, sturdy
+and provides adequate shelter.
+99180: Sorry, you can't go that way.
+99292: There is no water in the pitcher to dissolve the berries in.
+99336: You grind up some of the blue berries and dissolve them in the water.
+99384: There is no water in the pitcher to dissolve the berries into.
+99428: The red berries do not dissolve in the water, instead they float. After
+a bit, you decide that you cannot mix the red berries with water.
+99524: , the woman says "Yes, please help yourself - the water in that pitcher
+is quite refreshing."
+99592: The pitcher is already full of water.
+99620: You can't fill the pitcher yourself as you have no water.
+99660: You don't see any water here that you can drink.
+99696: You drink the water. It was quite refreshing.
+99732: You pour the water on the ground.
+99756: You see a short, stout village woman standing here.
+99794: The village woman is a short, squat figure with a pleasant face and long
+black hair. She seems to be busy cleaning the hut.
+99884: The village woman goes about her chores of cleaning the hut.
+99928: To talk with someone, address the person such as "SAY HELLO TO WOMAN" or
+"ASK WOMAN ABOUT ITEM".
+100020: The woman responds, "You are quite welcome!"
+100056: The village woman kindly responds, "I'm sorry, but I am very busy and
+cannot help you with that."
+100128: The woman does not seem interested in what you have to tell her.
+100172: She says, "So you've met the boy? He works hard, like most of the
+people here."
+100232: The woman ponders for a bit and says, "I am what you see."
+100276: She says, "I'm not so fond of the cleaning, but the hut needs to be
+kept in order and there are no men in the village who can do it as well as I
+can."
+100384: The village woman says... "Unfortunately, I have not yet had the
+opportunity to visit the Sacred Grounds today but I have been told that a gift
+has been bestowed upon our people by the gods. If you are interested in seeing
+it, you will need permission from the village elder"
+100580: The woman responds, "The village elder is our chief and has never led
+us astray. He leads a busy life, running the village but he also has his hands
+full with the harvest."
+100704: The woman responds, "The harvest is our busiest time of the year."
+100752: The woman responds, "The village seal represents a combination of the
+Heavenly Sun and the Twin Moons. All friends of the village are given this seal
+- and all who possess it may roam freely about our lands. Only the village
+elder may grant the village seal."
+100936: The woman responds, "One of our three principal gods."
+100976: The woman responds, "The twin moons are two of our three principal
+gods."
+101032: The woman responds, "The Heavenly Sun and the Twin Moons guide us."
+101084: The woman responds, "There are 2 kinds of berries that grow here. The
+red berry is highly poisonous. The blue berries are used when you are having
+difficulty falling asleep."
+101208: The woman looks at the pitcher and says, "The silver pitcher is filled
+with water. It is yours to do with as you please."
+101296: The woman responds, "I would be more than happy to fill the pitcher
+with water for you."
+101360: The village woman starts to speak, ponders for a second and then smiles
+but does not answer.
+101424: The woman says, "I can't think of anything meaningful to say about
+that."
+101480: With a clear and strong voice, the woman responds, "You seem
+kindhearted and I would love to help you but I cannot help you with that."
+101576: The woman thinks for a few seconds, smiles and says, "Hello."
+101624: The woman responds, "You are quite welcome."
+101660: The village woman smiles and says, "I'm glad you agree."
+101704: The village woman looks intrigued and then says, "I'm not really sure
+what to say to that."
+101770: The village woman's eyes widen and she says, "You brought back the
+pitcher. I hope the water it contained quenched your thirst. If you want more
+water, just ask."
+101890: The woman is only mildly interested in what you have to show her.
+101938: The village woman examines your gift, laughs a bit and says, "This is
+very kind of you, but I have no need for such an item."
+102032: She looks at you and says, "Of course, I will gladly fill the silver
+pitcher for you!"
+102096: The pitcher is already filled with water.
+102128: The woman responds, "I don't quite see how to fill that for you."
+102176: The woman looks around and says, "I'm sorry, the silver pitcher doesn't
+appear to be here."
+102244: The woman says, "Please help yourself - the water in that pitcher is
+quite refreshing."
+102308: The woman says, "The pitcher is yours to do with as you please. Oh, I
+see that it's empty. Allow me to fill it for you." The woman fills the pitcher
+with water.
+102428: She looks at you and says, "Please, let me fill that pitcher with water
+for you." The woman fills the pitcher with water.
+102516: The woman says, "The pitcher is yours to do with as you please."
+102564: You are standing at the center of a big village hut. The hut is made of
+twigs and straw but appears rather sturdy. Near one end of the hut is a large
+table.
+102676: Seated at this table is the village elder who is scribbling some lines
+in a journal of sorts. He stops writing in his journal, looks up at you and
+says, "Welcome stranger, is there anything I can do for you?"
+102824: Seated at this table is the village elder who is scribbling some lines
+in a journal of sorts. He pauses every so often to look up at you
+inquisitively.
+102928: Sorry, you can't go that way.
+102952: The journal is written in a language you can't understand.
+102996: The Elder slides the journal closer to himself. "This is my journal,
+son."
+103052: village elder is a tall, slender figure with almost white hair and
+beard. His eyes convey both wisdom and kindness. He seems to be very engrossed
+in writing in his journal.
+103172: However, he stops writing in his journal every so often to admire his
+shiny new shovel.
+103234: Though mildly interested in you, the elder continues to write in his
+journal.
+103352: or "ASK ELDER ABOUT ITEM".
+103384: The elder responds, "You are quite welcome!"
+103420: The village elder kindly responds, "I'm sorry, but I cannot do as you
+ask at this time."
+103488: The elder does not seem interested in what you have to tell him.
+103532: The elder laughs and says, "He is a good boy, though sometimes he
+avoids doing his chores."
+103600: The elder says, "All the women of this village are hard working."
+103648: The elder smiles and says, "We are thankful for the yak, for it is a
+good animal during harvest."
+103720: The village elder begins... "The sacred grounds have always been
+special to our village. In fact, on this morning we were left a gift that was
+descended upon by the heavens! This is clearly a gift from the gods - and as
+such needs to be protected from those outside the village that may seek to
+steal it."
+103936: The elder responds, "The harvest is always time consuming and many of
+my tools have gotten worn over time."
+104012: The elder responds, "Our people believe in the exchange of gifts."
+104060: The elder responds, "This village has existed since before recorded
+history. It has always been a sacred place. The village seal represents a
+combination of the Heavenly Sun and the Twin Moons. All friends of the village
+are given this seal - and all who possess it may roam freely about our lands."
+104272: The elder responds, "I have always kept a journal since I can
+remember."
+104328: The elder responds, "One of our three principal gods."
+104368: The elder responds, "The twin moons are two of our three principal
+gods."
+104424: The elder responds, "The Heavenly Sun and the Twin Moons guide us."
+104476: The elder responds, "Friends share with the village and help the
+village."
+104532: The village elder starts to speak, ponders for a second and then smiles
+but does not answer.
+104596: The elder says, "I can't think of anything meaningful to say about
+that."
+104652: The kind-eyed elder responds, "You are young, and have much to learn...
+but I cannot help you there."
+104728: The village elder thinks for a few seconds, smiles and says, "Hello."
+104780: The village elder responds, "You are quite welcome, young man."
+104828: The village elder smiles and says, "I'm glad you agree."
+104872: The village elder looks intrigued and then says, "I'm not really sure
+what to say to that."
+104938: The village elder's eyes widen!  "That, my young friend, is a marvelous
+tool! So shiny and new... the harvest would be all that much quicker with such
+an instrument.
+105060: The village elder is only mildly interested in what you have to show
+him.
+105112: "You, kind stranger, would give me such a tool?  This is a wonderful
+gift! All that I can offer in return here is this seal of our village." The
+village elder hands you the village seal which is now in your possession.
+105268: The village elder examines your gift, shakes his head and smiles while
+saying, "This is very kind of you, but I have no need for such an item."
+105372: But you are already in possession of the village seal.
+105412: The elder responds, "The village seal is only given to village members
+and worthy friends."
+105480: The elder responds, "It is beyond my power to give you that."
+105528: A beautiful wooden village seal in the shape of a brilliant yellow sun
+with two ivory-colored inlays representing twin moons.
+105614: You make your way west through the thicket of trees. Along the path you
+encounter two guards. Neither looks happy to see you. The smaller one says, "Do
+you have permission to enter the sacred grounds?"
+
+You raise the village seal
+that you acquired from the village elder.
+The larger one says, "You may pass,
+stranger. Blessed are those that enter the Sacred Grounds."
+105882: You make your way west through the thicket of trees. Along the path you
+encounter two guards. Neither looks happy to see you. The smaller one says, "Do
+you have permission to enter the sacred grounds?"
+You fumble a bit, not knowing
+what to say or do.
+The larger one pipes up and shouts, "No visitors except on
+village elder business... begone!".
+
+You return to the village.
+106160: You are standing at the Sacred Grounds. There is a guard
+106204: nearby. An escape pod that looks suspiciously familiar rests to the
+east. The path back to the village lies to the west.
+106288: The guard is positioned between you and the escape pod.
+106328: Sorry, you can't go that way.
+106352: This pod looks very similar to the pod you used to escape from the
+spacecraft. However, this one has some char marks on the bottom that seem to
+indicate it has gone through atmosphere reentry.
+106484: The nearby guard is currently sleeping.
+106514: There is a guard nearby who has positioned himself directly between you
+and the escape pod.
+106640: or "ASK GUARD ABOUT ITEM".
+106672: The Guard continues to pace back and forth. He occasionally mutters
+something to himself about his water jug.
+106752: The guard eyes the silver pitcher and says, "All this standing around
+in the hot sun has got me thirsty."
+106828: The guard is not quite thirsty anymore.
+106856: The guard looks at the pitcher and sees that it is empty. "You mock my
+thirst." He hands you back the Silver Pitcher.
+106942: The guard looks at you and smiles! "Thank you, kind stranger, for
+bringing me water. I have been parched all day and had forgotten my water jug
+at home." He drinks all of the water and gives you back the empty pitcher.
+107100: The guard, quite startled by your offer, jumps back and says, "Those,
+stranger, are poison. Even children in the village know that!"
+107196: The guard looks at your offering and responds, "Ah... I see you've
+discovered the blue berries. They will make you sleepy. I can't eat them now
+since I'm on duty and musn't fall asleep while guarding the Sacred Grounds."
+107360: The Guard responds, "I am extremely thirsty and I left my jug of water
+back home."
+107420: The Guard says... "I have been charged with guarding the Sacred
+Grounds. This (he points to the escape pod) is a gift from the gods. Nobody can
+go near it while I'm on watch."
+107552: The Guard responds, "The village elder is our chief and has never led
+us astray. He has charged me with guarding this gift and I won't let him down."
+107660: The Guard responds, "The harvest is our busiest time of the year."
+107712: The Guard responds, "One of our three principal gods."
+107756: The Guard responds, "The twin moons are two of our three principal
+gods."
+107812: The Guard responds, "The Heavenly Sun and the Twin Moons guide us."
+107864: The Guard starts to speak, ponders for a second and then smiles but
+does not answer.
+107924: The Guard says, "I can't think of anything meaningful to say about
+that."
+107980: The Guard responds, "You are a stranger, but seem a decent sort. I
+would love to help you but I cannot help you with that."
+108072: The Guard thinks for a few seconds, smiles and says, "Hello."
+108120: The Guard responds, "You are quite welcome."
+108156: The Guard smiles and says, "I'm glad you agree."
+108196: The Guard looks intrigued and then says, "I'm not really sure what to
+say to that."
+108260: The Guard looks at you but says nothing...
+108292: With the guard sleeping, you quickly make your way to the escape pod.
+You manage to open the hatch and enter the pod.
+108376: The guard won't let you near the escape pod. Every time you get close
+to it, he pushes you back saying, "This is a gift from the gods! No person
+shall disturb it under my watch."
+108504: You are standing inside an escape pod. This one looks very much like
+the one you used to escape from the crashed spacecraft. There is a hatch below
+you that leads back to the Sacred Grounds.
+108636: Sorry, you can't go that way.
+108660: This one looks very much like the one you used to escape from the
+crashed spacecraft.
+108718: The journal is small and externally featureless except for a name
+inscribed on the cover - "Kanera". As you open the journal you begin to see
+that this is a diary of sorts. It talks about how Kanera had grown tired of his
+commitment with the Stellar Patrol and planned on ditching his commitment with
+the organization. The entire plan of sabotaging the spacecraft is well laid out
+- and was nearly perfectly executed. Except that Kanera didn't count on the
+fact that the radio would be damaged and need repair. The journal ends with an
+entry that indicates Kanera was trying to locate the crashed spacecraft and
+attempt to retrieve the radio schematic and fix the radio.
+
+In the back of the
+journal there is a small table scribbled in with the title of "Frequencies".
+Some of the frequencies have been crossed out beyond recognition.  The two that
+remain readable say:
+- 2125 pickup
+- 8142 emergency only
+109488: he device springs to life. The display is highly reflective - giving a
+clear readout even in poor lighting conditions. One end of the COMPUCOM has
+three small concentric circles of red light - with the innermost ring being
+illuminated first, followed by the middle ring and finally the outer ring. This
+pattern repeats. Although you continue to struggle to with your memory, this
+instrument does seem somewhat familiar as if it has always been an ally for you
+in your past.
+
+[To learn about the interface with
+109946: Taken - the only logical place for it is back where it belongs (worn on
+your wrist).
+110010: The only logical place for it is back where it belongs (worn on your
+wrist).
+110224: The laser appears to be damaged.
+110248: You set off in that direction but soon find that the terrain is too
+difficult to cross. You return to your original location.
+110336: As you approach this area you begin to feel lightheaded.
+110378: You feel more and more drowsy as you continue to remain in this area.
+110430: You are extremely drowsy now... and in a swoon you collapse. A short
+time later you wake up. Apparently you managed to roll away from the engine
+area and are now recovering at the main crash site.
+110596: The force of separation from the spacecraft bears down on you heavily
+and tosses you about the cabin. The subsequent impact of the Pod onto the
+ground is more than your body can tolerate. The last breath you take is a
+painful one before it all goes dark...
+110776: Although you were securely seated in the pod chair, the escape pod
+hatch was left open and upon separation from the escape pod it is jarred loose
+and smacks into you.
+110890: a sharp jolt of pressure hits your body as the pod separates from the
+spacecraft, knocking you unconscious... Sometime later you awaken, still
+strapped into the escape pod chair.
+111020: The yak stays distant - looking hungry.
+111048: You attempt to mount the yak but as you do the yak winces and bucks you
+off. There appears to be something wrong with the stability of this yak.
+111148: The yak skillfully navigates the twists and turns of the mountain
+paths. Before long, you arrive out the other side of the mountain range.
+111246: You enter the mountain range and soon find yourself overwhelmed with
+all of the twists and turns of the paths you encounter. A short time after you
+enter the mountain range you find a way out!  Unfortunately, you are still on
+the same side of the mountain you started on.
+111436: You climb out of the cryotube into the main part of the spacecraft.
+111484: The cryotube is currently closed.
+111510: You are not in the cryotube at the moment.
+111544: The cryotube is currently closed.
+111570: You are already in the cryotube at the moment.
+111608: You need to be in possession of the COMPUCOM to use it.
+112240: You move the COMPUCOM close to the sensor panel and activate the
+INTERFACE command. The cryotube control panel is successfully interfaced and
+the override for the cryotube door look has been activated.
+112392: Using the COMPUCOM has caused a slight triggering of your memory. You
+can now remember that this device was issued to you by the people you work for.
+112504: The cryotube sensor panel has already been interfaced.
+112544: Compucom INTERFACE attempt on unknown object.
+112612: You will need to use the COMPUCOM to do any sort of interfacing.
+112664: You need to be in possession of the COMPUCOM to use it.
+112708: Scanning...
+Status:  The fumes contains a natural toxin and should not
+be inhaled.
+112770: The escape pod Door is non-organic and comprised of several dense
+metals.
+The object does not have a standard infrared interface.
+112864: Scanning...
+Status:  The object is non-organic and comprised of several
+dense metals.
+The object uses a standard infrared interface.
+112962: Scanning...
+Status:  The object is organic and currently dead.
+113014: Scanning...
+Status:  The object is organic and currently alive.
+113066: A foreign object has been detected in the right front foot of this
+animal.
+113120: A small wound (currently healing) has been detected in the right front
+foot of this animal.
+113186: Scanning...
+Status:  The object is organic and contains a natural sleep
+agent.
+113246: Scanning...
+Status:  The object is organic and contains a natural toxin
+and is extremely poisonous.
+113320: Compucom SCAN attempt on unknown object.
+113352: You will need to use the COMPUCOM to do your scanning.
+113396: You need to be in possession of the COMPUCOM to use it.
+113442: You attempt to activate the laser but you only see a hint of a spark
+and a faint fizzle.
+113506: You will need to use the COMPUCOM to activate the laser.
+113554: The switch makes a clicking noise but the radio does not turn on.
+113602: With a click and a hum, the radio springs to life!
+113646: The switch makes a clicking noise but the radio does not turn on.
+113724: You will need to use a radio to do any sort of frequency dialing.
+113770: Transmission is not possible with the radio off.
+113808: You fire up the transmitter and within a few seconds a signal rises
+above the static noise...
+
+"THIS IS STELLAR PATROL 3... STELLAR PATROL 3... DO
+YOU COPY?"
+
+ You answer the call and relay your position. Not long after, a
+spacecraft arrives to take you home. After arriving back at the Stellar Patrol
+headquarters, you brief them on what you have learned about your adventure and
+the betrayal of Kanera...
+114134: You fire up the transmitter and within a few seconds a signal rises
+above the static noise...
+
+"Kanera... Kanera... is that you? The signal is very
+weak... difficult to hear... We've been waiting for your signal for... Please
+radio us your position and we'll arrange...". The voice trails off and once
+again the static and noise overpowers the signal.
+114396: You send a transmission using the radio, but there is only static for a
+reply.
+114452: You will need to use a radio to do any sort of transmitting.
+116096: Since part of the fun of Interactive Fiction is the puzzles and the
+obstacles that must be overcome to advance the story, getting a hint may take
+some of that fun out of it for you. However, if you are truly stuck (or pressed
+for time), it makes sense to get a little help in the form of a hint. This hint
+system tries to only show hints for puzzles and areas that have been
+encountered (so that you don't end up seeing a question that might give away
+some future event) and will show hints from a gentle nudge to a
+near-walkthrough.
+
+Please type Yes if you want to enter the hint system (Y/N):
+116512: This story has come to an grisly ending. Do you want to back up to the
+decision point that caused these events to unfold (Y/N)?
+116608: Unknown death... End of the Adventure...
+116644: turns in the spacecraft. This accounts for
+116676: turns in the escape pod. This accounts for
+116708: turns in and around the spacecraft crash site (outside). This accounts
+for
+116764: turns dealing with the yak. This accounts for
+116800: turns in and around the village. This accounts for
+116836: turns dealing with the radio. This accounts for
+116872: in and around the sacred grounds. This accounts for
+116912: The proper way of talking to someone is like this: "SAY <something> TO
+<someone>". For example, "SAY HELLO TO MAN". More importantly, to ask a person
+about something (which is NEEDED in this game) requires you to type in
+something like "ASK <person> ABOUT <something>". Try to keep the words short
+and simple - and do not be too verbose since it is hard for the game to
+interpret too many words. For example, try typing "ASK PILOT ABOUT WEATHER".
+117280: That's not something you can repair.
+117308: That's not something you can use here.
+117336: That's not something you can ride.
+117364: That's not something that can be connected to.
+117400: That's not something that can be disconnected from.
+117436: I don't know how to accomplish that.
+117464: Hmmm... Perhaps is you had something that would make the yak sleepy...
+117516: That's not something you can try to put to sleep.
+117552: That's not something you can extinguish.
+117684: Your boots are made of a durable all-black material.
+117724: Your belt is slim, long and made of a pliable all-black material. This
+belt appears a bit too long for you as it sits on your waist loosely.
+117824: Your pants are made of a fairly comfortable all-black material.
+117868: Your shirt is made of a fairly comfortable all-black material with a
+single gray stripe across the midsection.
+117944: You've been trying hard to remember more about your past, but nothing
+seems to quicken the slow triggering of your memory.
+118028: Digging here would not achieve any productive results. The ground in
+this area is simply too hard.
+118096: That's probably not an appropriate thing to pet.
+118132: I'm not sure what you are trying to Set.
+118164: I'm not sure what you are trying to secure.
+118196: I'm not sure what you are trying to remove.
+118228: I'm not sure what you are trying to refill.
+118260: I'm not sure what you are trying to block.
+118292: I'm not sure who you are trying to thank.
+118324: You are dressed in what appears to be a nearly all-black uniform. Black
+pants, black boots, black belt, and a mostly black shirt with a single thin
+gray stripe across both sleeves (just above the elbows) and a larger gray
+stripe around the entire shirt at your midsection.
+118512: "I'm sorry, Mother. I know this isn't the career you wanted for me. But
+it's something I believe in. I consider it a great opportunity and one I can't
+pass up."
+
+A silver-haired woman in her later years stands before you with her
+hands shaking and her eyes in tears. "I know, Jake. I know. You've always made
+good decisions, and I'm proud of you no matter what. It's just... so very
+dangerous. I'm worried. Why did you have to sign on with... with..."
+
+You reach
+out in a feeble attempt to comfort your mother, but the vision fades as it
+always does in this dream. Never a second opportunity, never another chance to
+make things right before...
+
+"Breeeeet... Breeeeet... Level 5 Emergency...
+Level 5 Emergency. Cryogenic pods activated. Hull Temperature now at critical.
+Guidance System damaged. Main Deflectors destroyed. Descent proceeding on last
+known trajectory..."
+
+Your hearing is always the first to respond after waking
+from cryogenic hibernation. A few seconds later the other senses begin to thaw
+and your eyes regain some level of focus. Normally the first thing you would
+see is the soft glow of the overhead cabin lights. This time, however, your
+senses are greeted by unfamiliar and harsh stimuli. The tremendous light and
+heat, bearing down with the intensity of a hundred suns, don't allow your eyes
+to open for more than an instant. The grating noise all around you builds to a
+fevered pitch as it drowns out the automated warnings.
+
+A few seconds later
+comes a thunderous boom, followed by darkness, and finally silence.
+
+When you
+regain consciousness you are in possession of the single worst headache you can
+remember. Granted, this is the
+119888: Be sure to examine everything in the tube...
+119940: You will need to use the COMPUCOM to get out of the tube.
+119988: Use the COMPUCOM to interface to the control panel within the cryotube.
+120088: You should really put the fire out!
+120116: There is a device you need to put it out.
+120148: Check the emergency supplies cabinet.
+120176: After the smoke clears, better have a look around.
+120212: Some of it may be useful, some of it may not.
+120244: Better take it all just to be sure!
+120272: You have looked carefully at the room after you put the fire out,
+right?
+120324: There is an upper hatch which is different than the lower hatch (this
+one is now on the ceiling).
+120392: The upper hatch is too far up to jump.
+120420: You will need to stand on something.
+120448: There must be something in the room that you can climb on.
+120488: Try climbing onto the cryotubes - you can reach the upper hatch from
+there.
+120568: Enter the escape pod and read the emergency instructions found there.
+120616: Follow the instructions carefully.
+120640: Close the hatch. Sit in the chair. Insert the strap into the
+receptacle. Pull handle.
+120704: Perhaps you should examine it.
+120788: The blue berries contain a natural sleep agent, the red berries are
+poisionous.
+120844: Yes.
+120848: You can climb the spacecraft, go Up or simply try to ENTER spacecraft.
+120904: Better not breathe it!
+120920: The gas has the effect of rendering humans or animals unconcious.
+120968: Try taking it with a container.
+120992: You will need the specimen jar to take the gas (found in the supply
+closet of the spacecraft).
+121060: You will need to make use of the mountain yak.
+121092: In order to use the yak to travel, you will need to ride it.
+121136: Once you are riding the yak, you can enter the mountain range.
+121180: First of all, the mountain yak is not hungry. Feeding won't help.
+121228: But there is something wrong with the yak. You get a clue by trying to
+ride it.
+121284: Try to examine the mountain yak.
+121308: You will need to examine the yak's foot.
+121340: And remove the splinter you found there.
+121368: Using the Tweezers (first aid kit).
+121396: But first you must put the yak to sleep.
+121424: Unfortunately, the yak won't eat the natural-sleep-inducing blue
+berries.
+121480: By using the gas found south of the crashed spacecraft (near the
+engine) you can put the yak to sleep.
+121552: Take some gas in the specimen jar and open it near the yak - then
+remove the splinter and ride the yak across the mountains.
+121640: The wiring is shot and the interface board damaged. But the interface
+board has already been replaced.
+121796: You will need a Schematic.
+121816: The Schematic was on the parchment that was stowed in the cabinet in
+the spacecraft you crashed in.
+121990: " board. Try the combinations.
+122016: Keep in mind that there are only 2 extra jumper connections shown on
+the interface panel "Delay" and "Select".
+122224: Once you get the radio connections, you need to close the panel to put
+the fuse in circuit.
+122288: And then you can set your frequency and transmit a message.
+122332: Kanera had some frequencies written down in his journal.
+122372: Which he left back in his escape pod.
+122400: You'll need to go to the sacred grounds near the village to find it.
+122448: Examine him.
+122460: You knew this man once. Your memories continue to surface after looking
+at him. But otherwise you don't need to bother with him.
+122552: Look around the village, there might be something useful here.
+122596: Enter each of the three huts and ask some questions to the people you
+meet.
+122648: There is also the mysterious path to the east that leads off into the
+forest thicket.
+122708: But you can't get by without the village seal.
+122744: He is wise. Try asking him some questions.
+122776: He has the ability to grant you access to the Sacred Grounds.
+122820: He has the Sacred Seal that you need to grant access to the Sacred
+Grounds.
+122876: You will need to give him something in exchange for the Seal.
+122920: He is still a villager and is in need of tools for the Harvest.
+122964: Give the Elder the shovel (found in the emergency closet of the
+spacecraft).
+123020: She is helpful. Ask her some questions.
+123052: Take the Silver Pitcher (she will gladly let you have it) and if you
+need more water, come back to see her for a refill.
+123140: He is truthful. Ask him some questions.
+123172: Ask him about the village elder, the village seal, the sacred grounds
+and about the guards.
+123236: He is very alert and will not let you pass unless you can immobilize
+him.
+123288: He is very thirsty...
+123308: You will need the pitcher of water that you can obtain from the woman
+in the medium village hut.
+123376: But quenching his thirst is not enough to get by, you must put him to
+sleep.
+123432: Put some of the blue berries (that you found near the yak) into the
+water. He will drink and soon fall asleep. Then enter the escape pod.
+123532: This journal was owned by Kanera - it may have some valuable
+information in it.
+123588: The frequency you need to work the radio and call for help is found in
+the journal.
+123688: . That's the one you need to get off this planet.
+123724: You must have the radio fixed and working.
+123756: Once working, you can dial in a frequency and try the transmit command
+with the radio.
+123816: The frequency you need is in the escape pod that landed at the Sacred
+Grounds.
+123872: Check the Journal for the correct frequency.
+123904: There are two frequencies listed. One of them won't get you off the
+planet.
+123960: The frequency you need to set is 8142 (SP=Stellar Patrol). Then use the
+RADIO, TRANSMIT command.
+124360: give" or test "has" or "hasnt" with a non-attribute on the object
+124408: , but it is longer than 2 bytes so you cannot use "."
+

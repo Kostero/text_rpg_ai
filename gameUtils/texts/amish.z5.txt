@@ -1,0 +1,163 @@
+9993: Nothing to do!
+10028: o. You have won
+10112: It is now pitch dark in here!
+10139: I beg your pardon?
+10203: Sorry, that can't be corrected.
+10232: Think nothing of it.
+10285: As good-looking as ever.
+10317: You can hardly repeat that.
+10342: You can't begin with a comma.
+10456: I didn't understand that number.
+10485: You can't see any such thing.
+10521: You aren't holding that!
+10563: I'm not sure what "
+10615: That's not a verb I recognize.
+10654: You can't see "
+10762: Nothing to do!
+10779: There are none at all available!
+11689: Please answer yes or no.
+11715: Are you sure you want to quit?
+11760: Failed.
+11780: Restore failed.
+11797: Ok.
+11815: Save failed.
+11830: Ok.
+11874: Transcripting is already on.
+11940: Transcripting is already off.
+11998: Score notification on.
+12019: Score notification off.
+12042: You have visited:
+12070: Objects you have handled:
+12095: None.
+12481: You are carrying nothing.
+12530: Taken.
+12541: You are always self-possessed.
+13074: Dropped.
+13182: Removed.
+13321: You lack the dexterity.
+13402: Done.
+13668: Done.
+13888: Wrahn seem interested.
+14527: You can't go that way.
+15087: But it's dark.
+15104: You find nothing of interest.
+15140: But it's dark.
+15231: You find nothing of interest.
+16359: . Not bad.
+16377: That was a rhetorical question.
+16431: That seems unnecessary.
+16454: Keep your mind on the game.
+16479: What a good idea.
+16498: You smell nothing unexpected.
+16525: You hear nothing unexpected.
+16550: You taste nothing unexpected.
+16585: Keep your hands to yourself!
+16610: You feel nothing unexpected.
+16635: If you think that'll help.
+16744: Oh, don't apologize.
+16774: Quite.
+16843: You achieve nothing by this.
+16931: You wave, feeling foolish.
+17081: You are unable to.
+17100: Nothing obvious happens.
+17150: That's not a direction.
+17173: Not that way you can't.
+17205: Keep your hands to yourself.
+17230: You achieve nothing by this.
+17263: Futile.
+17292: You talk to yourself a while.
+17319: This provokes no reaction.
+17347: There is no reply.
+17366: Nothing is on sale.
+17385: Your singing is abominable.
+17419: Time passes.
+43544: in" or "notin
+43560: opmhas" or "hasnt
+43702: }" at end of "objectloop
+45084: Score:
+45092: Moves:
+45100: Time:
+45108: You can't go that way.
+45440: Please give one of the answers above.
+45468: [You can't "undo" what hasn't been done!]
+45504: [Can't "undo" twice in succession. Sorry!]
+45544: "Oops" can only correct a single word.
+45572: It is pitch dark, and you can't see a thing.
+45604: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+45664: You seem to want to talk to someone, but I can't see whom.
+45708: To talk to someone, try "someone, hello" or some such.
+45748: I didn't understand that sentence.
+45808: You seem to have said too little!
+45832: You can't use multiple objects with that verb.
+45868: You can only use multiple objects once on a line.
+45904: You excepted something not included anyway!
+45936: You can only do that to something animate.
+45968: That's not something you need to refer to in the course of this game.
+46016: I didn't understand the way that finished.
+46048: Sorry, you can only have one item here. Which exactly?
+46200: Are you sure you want to restart?
+46224: The game file has verified as intact.
+46252: The game file did not verify as intact, and may be corrupt.
+46296: Attempt to begin transcript failed.
+46324: Attempt to end transcript failed.
+46348: You're carrying too many things already.
+46380: You can't put something on top of itself.
+46412: You can't put something inside itself.
+46440: That would scarcely empty anything.
+46496: You can only get into something free-standing.
+46532: But you aren't in anything at the moment.
+46564: You'll have to say which compass direction to go in.
+46604: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+46700: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+46784: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+46960: This dangerous act would achieve little.
+46988: Nothing practical results from your prayer.
+47020: The dreadful truth is, this is not a dream.
+47052: Digging would achieve nothing here.
+47080: You jump on the spot, fruitlessly.
+47108: You would achieve nothing by this.
+47132: There's nothing suitable to drink here.
+47160: But there's no water here to carry.
+47188: Real adventurers do not use such language.
+47220: Violence isn't the answer to this one.
+47248: There's not enough water to swim in.
+47276: There's nothing sensible to swing here.
+47304: That would be less than courteous.
+47328: Is that the best you can think of?
+47352: You lack the nerve when it comes to the crucial moment.
+47392: I don't think much is to be achieved by that.
+47424: You aren't feeling especially drowsy.
+47510: ACT I
+
+Lancaster County, Pennsylvania
+
+You are outside your barn, having
+just parked your buggy inside and stabled the horses. You brush the dust off
+the brim of your straw hat, loosen two of the hooks of your coat, and stroke
+your beard thoughtfully. Your adventurous spirit is tugging at you. Perhaps you
+shouldn't return to your home just yet.
+47762: Suddenly you realize that you're opposed to the use of electrically
+powered appliances such as computers.
+47838: PREFACE
+
+Somewhere in Lancaster County, Pennsylvania, lies a barn,
+constructed by Amish such as yourself, because everyone needs a
+barn.
+
+PROLOGUE
+
+You are outside that barn in Lancaster County, Pennsylvania,
+doing your normal routine, free from the depravity of the Englisch. But your
+adventurous spirit continues to drive your heart to the dangers and perils that
+spawn from adventure, and wearing buttons.
+
+INTRODUCTION
+
+In AMISHVILLE, you
+play the role of a normal Amish householder, living your life in your hometown
+with your fellow Plain People.
+

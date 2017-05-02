@@ -1,0 +1,255 @@
+23225: Identification number:
+24723: There is no reply.
+24760: Nothing is on sale.
+25213: Dropped.
+25361: . Not bad.
+26263: Wrahn seem interested.
+27399: Done.
+27482: You are carrying nothing.
+27597: Keep your mind on the game.
+27622: You hear nothing unexpected.
+28536: But it's dark.
+28553: You find nothing of interest.
+28611: Quite.
+28641: Nothing to do!
+28676: o. You have won
+28741: It is now pitch dark in here!
+28768: I beg your pardon?
+28832: Sorry, that can't be corrected.
+28861: Think nothing of it.
+28914: As good-looking as ever.
+28946: You can hardly repeat that.
+28971: You can't begin with a comma.
+29085: I didn't understand that number.
+29114: You can't see any such thing.
+29150: You aren't holding that!
+29191: I'm not sure what "
+29243: That's not a verb I recognise.
+29281: You can't see "
+29388: Nothing to do!
+29405: There are none at all available!
+29853: You must supply a noun.
+29876: You may not supply a noun.
+29901: You must name an object.
+29924: You may not name an object.
+29949: You must name a second object.
+29985: You must supply a second noun.
+30200: That was a rhetorical question.
+30227: Score notification off.
+30250: Score notification on.
+30622: You are unable to.
+30641: Nothing obvious happens.
+30781: That's not a direction.
+30804: Not that way you can't.
+30951: You lack the dexterity.
+31036: Done.
+31118: Please answer yes or no.
+31144: Are you sure you want to quit?
+31264: Removed.
+31295: Failed.
+31314: Restore failed.
+31331: Ok.
+31341: You achieve nothing by this.
+31373: Save failed.
+31388: Ok.
+31495: There is no score in this story.
+31556: Transcripting is already off.
+31622: Transcripting is already on.
+31688: But it's dark.
+31763: You find nothing of interest.
+32019: Your singing is abominable.
+32053: You smell nothing unexpected.
+32080: Oh, don't apologise.
+32109: Keep your hands to yourself.
+32134: You achieve nothing by this.
+32442: Taken.
+32453: You are always self-possessed.
+32965: You taste nothing unexpected.
+32999: You talk to yourself a while.
+33026: This provokes no reaction.
+33052: What a good idea.
+33078: Futile.
+33116: Keep your hands to yourself!
+33141: You feel nothing unexpected.
+33166: If you think that'll help.
+33477: Time passes.
+33520: That seems unnecessary.
+33642: You wave, feeling foolish.
+80227: Variable unavailable:
+80265: Variable stack offset wrong:
+80340: Variable stack offset wrong:
+88040: You can't move nothing.
+88078: You can't divide by zero.
+88491: Attempt to 'decide on nothing'.
+88525: Low level error.
+88675: The memory stack is exhausted.
+88717: Error handling external file.
+102856: After moving blanks to back:
+102907: Final state:
+108407: Pass 1:
+108419: Pass 2:
+108607: Pass 1:
+108619: Pass 2:
+108807: Pass 1:
+108819: Pass 2:
+109007: Pass 1:
+109019: Pass 2:
+109207: Pass 1:
+109219: Pass 2:
+109407: Pass 1:
+109419: Pass 2:
+109607: Pass 1:
+109619: Pass 2:
+109807: Pass 1:
+109819: Pass 2:
+110007: Pass 1:
+110019: Pass 2:
+110207: Pass 1:
+110219: Pass 2:
+110407: Pass 1:
+110419: Pass 2:
+110607: Pass 1:
+110619: Pass 2:
+114818: in" or "notin
+114834: opmhas" or "hasnt
+114976: }" at end of "objectloop
+116632: Score:
+116640: Moves:
+116648: Time:
+116656: You can't go that way.
+116848: Violence isn't the answer to this one.
+116880: This dangerous act would achieve little.
+116912: I don't think much is to be achieved by that.
+116976: There's nothing suitable to drink here.
+117008: You can only get into something free-standing.
+117088: You see nothing unexpected in that direction.
+117120: But you aren't in anything at the moment.
+117184: You'll have to say which compass direction to go in.
+117224: You can't put something inside itself.
+117256: You jump on the spot, fruitlessly.
+117320: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+117416: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+117504: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+117616: You see nothing unexpected in that direction.
+117824: Please give one of the answers above.
+117856: [You can't "undo" what hasn't been done!]
+117896: [Can't "undo" twice in succession. Sorry!]
+117936: "Oops" can only correct a single word.
+117968: It is pitch dark, and you can't see a thing.
+118000: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+118064: You seem to want to talk to someone, but I can't see whom.
+118112: To talk to someone, try "someone, hello" or some such.
+118152: I didn't understand that sentence.
+118216: You seem to have said too little!
+118240: You can't use multiple objects with that verb.
+118280: You can only use multiple objects once on a line.
+118320: You excepted something not included anyway!
+118352: You can only do that to something animate.
+118384: That's not something you need to refer to in the course of this game.
+118432: I didn't understand the way that finished.
+118464: Sorry, you can only have one item here. Which exactly?
+118568: You may not name a second object.
+118592: You may not supply a second noun.
+118616: You must name something more substantial.
+118648: The use of UNDO is forbidden in this game.
+118680: That noun did not make sense in this context.
+118808: That would be less than courteous.
+118864: You can't put something on top of itself.
+118896: Are you sure you want to restart?
+118920: Attempt to end transcript failed.
+118944: Attempt to begin transcript failed.
+118976: You aren't feeling especially drowsy.
+119008: Real adventurers do not use such language.
+119040: There's nothing sensible to swing here.
+119072: You're carrying too many things already.
+119104: You lack the nerve when it comes to the crucial moment.
+119144: You would achieve nothing by this.
+119200: The game file has verified as intact.
+119232: The game file did not verify as intact, and may be corrupt.
+119280: The dreadful truth is, this is not a dream.
+122992: I didn't understand that sentence.
+123288: Too many procedural rules acting all at once.
+123322: Too many rulebooks in simultaneous use.
+123358: Too many timed events are going on at once.
+123528: Too many activities are going on at once.
+123558: Tried to abandon an activity which wasn't going on.
+123598: Tried to end an activity which wasn't going on.
+123636: You can't remove nothing from play.
+123672: Tried to access property for a value which didn't fit:
+124298: Attempt to see if a snippet of text matches something which is not a
+topic.
+124358: Attempt to find route or count steps through an implicit relation.
+124408: Attempt to use a property of the 'nothing' non-object.
+124502: Attempt to ignore the turn sequence rules.
+124678: The list-writer has run out of memory.
+124710: Attempt to remove the player from play.
+124742: Attempt to remove a door from play.
+124770: Attempt to change the player to a person off-stage.
+124814: Phrase applied to an incompatible kind of value.
+124852: Memory allocation proved impossible.
+124884: Attempt to use list item which does not exist.
+124922: Syntax error in regular expression.
+124954: This interpreter does not support Unicode.
+124992: Only backdrops can be moved to multiple places.
+125138: You can't take the square root of a negative number.
+140016: "Okay", you think to yourself. "I NEED to get up. If I don't, the tax
+people will come to get me, and I won't be armed and ready!" You collect as
+much courage as you can, take a deep breath, and try once more. You actually
+manage as far as sitting up, but you lose your balance and flop backwards on
+your back. The bed releases a rather ominous cracking noise. Suicidal thoughts
+begin to cross your tiny, incapable mind.
+140408: As good-looking as ever.
+140456: No! It might have anthrax!
+140536: Suddenly half awake, you realize that the sound of your snoring is
+being acompanied by a hissing noise. "Oh right, the bomb," you think. Then the
+true realization hits you like a small red object emmiting a strange hissing
+noise. "Holy God!" you exclaim. "A bomb!" Note: You have reached the end of
+this short demo.
+140768: Suddenly you realize that for the past few minutes you were actually
+awake, and there really IS a red bomb in your bedroom. You promply fall back
+asleep and begin snoring again.
+140896: Suddenly, you begin dreaming...
+140920: Time passes. You begin snoring, although it sound more like an enraged
+koala.
+140992: YES!!! You FINALLY managed to stand up. It's such a shame that almost
+immediately your bedroom window smashed as a small, red object emmiting a
+suspicious hissing noise flew into your room and hit your forehead. Now, said
+suspicious, red object is not too heavy, and would not vibrate the body of a
+person with NORMAL body mass enough to knock them over, but you don't fall into
+that particular category of human beings (it can be argued that you don't fall
+under ANY category of human being). Now as you never learned from science
+classes you never attended, the mass of an object affects the force it has on
+the object it collides with. Your bed is ugly, but very sturdy (what else can
+you expect from an IKEA bed?), but were an object of your mass to fall onto it,
+even with fairly slow speed, the bed would explode into a pile of splinters.
+And this is exactly what happens when you fall back onto it. You are now
+unconcious, lying on the ruins of your bed. At least the bed looks nicer this
+way.
+141712: You are sleeping in bed. Everything is all woozy. The rest of your
+bedroom is north. Your alarm clock sits next to you. Judging by the bullet
+holes in the wall, the latest in redneck technology lies inside your pillow.
+141872: You are unconcious.
+141888: You dream that the suspicious red object emmiting the strange hissing
+noise was a bomb.
+141952: You got this shotgun back when you were a kid, the same year your
+parents bought you your first pet. Taxidermy has been one of your favourite
+pastimes ever since.
+142064: You have to be concious to do that. And besides, your bed is destroyed.
+142120: You try once more and fail once more.
+142152: You try once more to get out of bed. You fail miseraby.
+142192: You try three more times, but to no avail.
+142224: You try very hard to get up, but several factors, including your lack
+of a gym membership and those suspicious purple pills you consumed the previous
+evening, are preventing you from reaching your goal.
+142368: Your alarm clock is destroyed. You accidently shot it the previous
+evening after it had suddenly reminded you of your childhood. It's really quite
+similar to the time when you stepped on a cockroach because it reminded you of
+your social life. Poor cockroach.
+142616: This story file does not use a heap of managed memory.
+142952: give" or test "has" or "hasnt" with a non-attribute on the object
+143000: , but it is longer than 2 bytes so you cannot use "."
+

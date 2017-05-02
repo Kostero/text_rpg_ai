@@ -1,0 +1,304 @@
+22849: Identification number:
+24815: There is no reply.
+24852: Nothing is on sale.
+25343: Dropped.
+25491: . Not bad.
+26585: Wrahn seem interested.
+27744: Done.
+27827: You are carrying nothing.
+27942: Keep your mind on the game.
+27967: You hear nothing unexpected.
+29019: But it's dark.
+29036: You find nothing of interest.
+29094: Quite.
+29124: Nothing to do!
+29159: o. You have won
+29224: It is now pitch dark in here!
+29251: I beg your pardon?
+29315: Sorry, that can't be corrected.
+29344: Think nothing of it.
+29397: As good-looking as ever.
+29429: You can hardly repeat that.
+29454: You can't begin with a comma.
+29568: I didn't understand that number.
+29597: You can't see any such thing.
+29633: You aren't holding that!
+29729: That's not a verb I recognise.
+29767: You can't see "
+29877: Nothing to do!
+29894: There are none at all available!
+30342: You must supply a noun.
+30365: You may not supply a noun.
+30390: You must name an object.
+30413: You may not name an object.
+30438: You must name a second object.
+30474: You must supply a second noun.
+30727: That was a rhetorical question.
+30754: Score notification off.
+30777: Score notification on.
+31236: You are unable to.
+31255: Nothing obvious happens.
+31395: That's not a direction.
+31418: Not that way you can't.
+31565: You lack the dexterity.
+31650: Done.
+31732: Please answer yes or no.
+31758: Are you sure you want to quit?
+31917: Removed.
+31948: Failed.
+31967: Restore failed.
+31984: Ok.
+31994: You achieve nothing by this.
+32026: Save failed.
+32041: Ok.
+32148: There is no score in this story.
+32209: Transcripting is already off.
+32275: Transcripting is already on.
+32341: But it's dark.
+32445: You find nothing of interest.
+32730: Your singing is abominable.
+32764: You smell nothing unexpected.
+32791: Oh, don't apologise.
+32820: Keep your hands to yourself.
+32845: You achieve nothing by this.
+33153: Taken.
+33164: You are always self-possessed.
+33774: You taste nothing unexpected.
+33808: You talk to yourself a while.
+33835: This provokes no reaction.
+33861: What a good idea.
+33887: Futile.
+33925: Keep your hands to yourself!
+33950: You feel nothing unexpected.
+33975: If you think that'll help.
+34325: Time passes.
+34368: That seems unnecessary.
+34490: You wave, feeling foolish.
+47884: [Advanced to "noun" token:
+108282: Variable stack offset wrong:
+108352: Variable stack offset wrong:
+119742: You can't move nothing.
+119780: You can't divide by zero.
+120221: Attempt to 'decide on nothing'.
+120255: Low level error.
+120405: The memory stack is exhausted.
+120447: Error handling external file.
+120792: " of "
+120830: " list of "
+120910: " has no "time_left" property
+120940: The object "
+120999: The room "
+121013: " has no "description" property
+138297: After moving blanks to back:
+138348: Final state:
+144860: Actions listing on.
+144884: Actions listing off.
+145099: Nothing is in scope.
+150504: Trace off.
+152001: Pass 1:
+152013: Pass 2:
+152025: Pass 3:
+152269: Pass 1:
+152281: Pass 2:
+152293: Pass 3:
+152537: Pass 1:
+152549: Pass 2:
+152561: Pass 3:
+152805: Pass 1:
+152817: Pass 2:
+152829: Pass 3:
+153073: Pass 1:
+153085: Pass 2:
+153097: Pass 3:
+153341: Pass 1:
+153353: Pass 2:
+153365: Pass 3:
+153609: Pass 1:
+153621: Pass 2:
+153633: Pass 3:
+153877: Pass 1:
+153889: Pass 2:
+153901: Pass 3:
+154145: Pass 1:
+154157: Pass 2:
+154169: Pass 3:
+154413: Pass 1:
+154425: Pass 2:
+154437: Pass 3:
+154681: Pass 1:
+154693: Pass 2:
+154705: Pass 3:
+154949: Pass 1:
+154961: Pass 2:
+154973: Pass 3:
+155217: Pass 1:
+155229: Pass 2:
+155241: Pass 3:
+155561: Pass 1:
+155573: Pass 2:
+155585: Pass 3:
+155867: Pass 1:
+155879: Pass 2:
+155891: Pass 3:
+162693: in" or "notin
+162709: opmhas" or "hasnt
+162851: }" at end of "objectloop
+165196: Score:
+165204: Moves:
+165212: Time:
+165220: You can't go that way.
+165352: Violence isn't the answer to this one.
+165380: This dangerous act would achieve little.
+165408: I don't think much is to be achieved by that.
+165468: There's nothing suitable to drink here.
+165496: You can only get into something free-standing.
+165568: You see nothing unexpected in that direction.
+165600: But you aren't in anything at the moment.
+165660: You'll have to say which compass direction to go in.
+165700: You can't put something inside itself.
+165728: You jump on the spot, fruitlessly.
+165784: is now in its "brief" printing mode, which gives long descriptions of
+places never before visited and short descriptions otherwise.
+165876: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+165960: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+166072: You see nothing unexpected in that direction.
+166268: Please give one of the answers above.
+166296: [You can't "undo" what hasn't been done!]
+166332: [Can't "undo" twice in succession. Sorry!]
+166372: "Oops" can only correct a single word.
+166400: It is pitch dark, and you can't see a thing.
+166432: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+166492: You seem to want to talk to someone, but I can't see whom.
+166536: To talk to someone, try "someone, hello" or some such.
+166576: I didn't understand that sentence.
+166636: You seem to have said too little!
+166660: You can't use multiple objects with that verb.
+166696: You can only use multiple objects once on a line.
+166732: You excepted something not included anyway!
+166764: You can only do that to something animate.
+166796: That's not something you need to refer to in the course of this game.
+166844: I didn't understand the way that finished.
+166876: Sorry, you can only have one item here. Which exactly?
+166976: You may not name a second object.
+167000: You may not supply a second noun.
+167024: You must name something more substantial.
+167056: The use of UNDO is forbidden in this game.
+167088: That noun did not make sense in this context.
+167212: That would be less than courteous.
+167264: You can't put something on top of itself.
+167296: Are you sure you want to restart?
+167320: Attempt to end transcript failed.
+167344: Attempt to begin transcript failed.
+167372: You aren't feeling especially drowsy.
+167400: Real adventurers do not use such language.
+167432: There's nothing sensible to swing here.
+167460: You're carrying too many things already.
+167492: You lack the nerve when it comes to the crucial moment.
+167532: You would achieve nothing by this.
+167584: The game file has verified as intact.
+167612: The game file did not verify as intact, and may be corrupt.
+167656: The dreadful truth is, this is not a dream.
+168314: Best choices are all from the same group.
+170328: I didn't understand that sentence.
+170480: Variable unavailable for this action, activity or rulebook:
+170928: Too many procedural rules acting all at once.
+170962: Too many rulebooks in simultaneous use.
+170994: Too many timed events are going on at once.
+171160: Too many activities are going on at once.
+171190: Tried to abandon an activity which wasn't going on.
+171230: Tried to end an activity which wasn't going on.
+171268: You can't remove nothing from play.
+171296: Tried to access property for a value which didn't fit:
+171954: Attempt to see if a snippet of text matches something which is not a
+topic.
+172010: Attempt to find route or count steps through an implicit relation.
+172154: Attempt to ignore the turn sequence rules.
+172330: The list-writer has run out of memory.
+172362: Attempt to remove the player from play.
+172394: Attempt to remove a door from play.
+172422: Attempt to change the player to a person off-stage.
+172462: Phrase applied to an incompatible kind of value.
+172500: Memory allocation proved impossible.
+172528: Attempt to use list item which does not exist.
+172562: Syntax error in regular expression.
+172590: This interpreter does not support Unicode.
+172624: Only backdrops can be moved to multiple places.
+172758: You can't take the square root of a negative number.
+172800: You can't implicitly repeat through the values of this kind:
+172888: Attempt to set a variable to the wrong kind of object:
+172988: Property value not routine or string: "
+173016: Entry in property list not routine or string: "
+173052: Too many timers/daemons are active simultaneously. The limit is the
+library constant MAX_TIMERS (currently
+173136: " can only be used as a player object if it has the "number" property
+186960: Rules tracing now switched on. Type "rules off" to switch it off again,
+or "rules all" to include even rules which do not apply.
+187052: Rules tracing now switched to "all". Type "rules off" to switch it off
+again.
+187112: Rules tracing now switched off. Type "rules" to switch it on again.
+187164: (Scene monitoring now switched on. Type "scenes off" to switch it off
+again.)
+187224: (Scene monitoring now switched off. Type "scenes" to switch it on
+again.)
+187312: Try typing "showverb" and then the name of a verb.
+187382: There seems to be no such object anywhere in the model world.
+187684: And at the table opposite hers, sitting an albino boy.
+187724: As good-looking as ever.
+187756: He is obviously bothered from the teenage girl staring at himself,
+although he never turns his head from the sandwich he's eating. He is trying to
+ignore the examining looks on himself.
+187888: It's almost evening. You are sitting near the window in a small coffee
+house, two blocks away from your house. It's a bit dim inside.
+187988: One of his eyes was grippingly prominent. This eye gave the man a
+somewhat scary appearance, although he had an amiable face.
+
+You were thinking
+a hundred things, "Surely it is inborn. It must be hard for him. Maybe he is
+used to it. I wonder what would it be being like him. I wonder what kind of a
+childhood he spent." and so on. The questions you had absolutely would go
+unanswered. But as you thought these, you must have been staring at
+him.
+
+Suddenly he smiled, "Are you going somewhere or welcoming someone?" he
+asked.
+
+You sobered and answered, "Returning home."
+
+"Me too." he said, "I am
+evicted from prison."
+
+"Really? I'm sorry."
+
+"Yeah. I murdered a man."
+
+You
+could not find anything to say more.
+
+He triumphantly went on, "He was staring
+at me."
+188592: Since then, when you see someone staring at another, you recall him.
+Maybe he lied but that's all the same. You are looking out through the window
+to the reddening sky, smiling pitifully. "If only," you think, "the albino boy
+has killed someone too."
+188784: There is a teenage girl at one of the tables.
+188816: There was a man sitting against you. He caught your attention.
+188860: There were half an hour to the departure of the train and you were
+going to wait. You found a spare seat and sat down.
+188984: You don't want to go anywhere.
+189006: You don't want to stare at her, but you can't help it. Because since
+the albino boy came into the coffee house and sat down at the table opposite of
+hers, this teenage girl is staring at him. Apparently, it is the first time she
+ever sees an albino.
+
+She is trying hard not to look at the albino, but she
+can't manage and go on staring at his white hair. Who knows what she is
+thinking?
+189330: You throw them to the winds and look out from the window, thinking
+about the man you saw in a railway station several years ago.
+189456: This story file does not use a heap of managed memory.
+189776: give" or test "has" or "hasnt" with a non-attribute on the object
+189824: , but it is longer than 2 bytes so you cannot use "."
+

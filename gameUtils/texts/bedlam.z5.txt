@@ -1,0 +1,576 @@
+11412: Score:
+11426: Moves:
+11464: Time:
+12020: 'dba KpmTo repeat a command like "frog, jump", just say "again", not
+"frog, again".
+12101: You can hardly repeat that.
+12364: You can't begin with a comma.
+12425: You seem to want to talk to someone, but I can't see whom.
+12515: To talk to someone, try "someone, hello" or some such.
+13479: I didn't understand that sentence.
+13587: I didn't understand that number.
+13618: You can't see any such thing.
+13681: You aren't holding that!
+13710: You can't use multiple objects with that verb.
+13750: You can only use multiple objects once on a line.
+13829: You excepted something not included anyway!
+13867: You can only do that to something animate.
+13904: That's not a verb I recognise.
+13934: That's not something you need to refer to in the course of this game.
+13990: You can't see "
+14035: I didn't understand the way that finished.
+14136: Nothing to do!
+14152: There are none at all available!
+16230: Sorry, you can only have one item here.  Which one exactly?
+23474: At the moment, "it"
+23544: and "me" means
+24410: What is what?
+24438: Good question.
+24512: Good question.
+24548: Good question.
+33074: Nothing to do!
+33089: o. You have died
+33362: Please give one of the answers above.
+33393: It is now pitch dark in here!
+33420: I beg your pardon?
+33438: dxn[You can't "undo" what hasn't been done!]
+33480: ehn[Can't "undo" twice in succession. Sorry!]
+33552: Sorry, that can't be corrected.
+33581: Think nothing of it.
+33602: "Oops" can only correct a single word.
+33671: Please answer yes or no.
+33691: Are you sure you want to quit?
+33724: Are you sure you want to restart?
+33750: Failed.
+33765: Restore failed.
+33778: Ok.
+33791: Save failed.
+33802: Ok.
+33816: The game file has verified as intact.
+33843: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+33967: Transcripting is already on.
+34016: Transcripting is already off.
+34039: End of transcript.
+34060: Score notification on.
+34081: Score notification off.
+34104: You have visited:
+34129: Objects you have handled:
+34150: None.
+34367: You are carrying nothing.
+34409: Taken.
+34420: You are always self-possessed.
+34538: You already have that.
+34623: That isn't available.
+34664: That's hardly portable.
+34687: That's fixed in place.
+34711: You're carrying too many things already.
+34786: Already on the floor.
+34807: You haven't got that.
+34849: Dropped.
+34867: It is unfortunately closed.
+34892: But it isn't there now.
+34911: Removed.
+34992: You can't put something on top of itself.
+35069: You lack the dexterity.
+35146: Done.
+35188: You need to be holding it before you can put it into something else.
+35241: That can't contain things.
+35266: Alas, it is closed.
+35287: You'll need to take it off first.
+35403: Done.
+35444: That isn't in your possession.
+35467: First pick that up.
+35755: That's not something you can enter.
+35823: You can only get into something on the floor.
+35936: But you aren't in anything at the moment.
+36044: You'll have to say which compass direction to go in.
+36143: You can't go that way.
+36300: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+36402: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+36490: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+36849: But it's dark.
+36862: You find nothing of interest.
+36894: But it's dark.
+36966: You find nothing of interest.
+36994: You can't see inside, since it is closed.
+37077: That doesn't seem to be something you can unlock.
+37118: It's unlocked at the moment.
+37145: That doesn't seem to fit the lock.
+37199: That doesn't seem to be something you can lock.
+37238: It's locked at the moment.
+37263: First you'll have to close it.
+37290: That doesn't seem to fit the lock.
+37343: That's not something you can switch.
+37374: That's already on.
+37417: That's not something you can switch.
+37448: That's already off.
+37493: That's not something you can open.
+37524: It seems to be locked.
+37545: It's already open.
+37641: That's not something you can close.
+37672: It's already closed.
+37715: You're not wearing that.
+37762: You can't wear that!
+37783: You're not holding that!
+37806: You're already wearing that!
+37855: That's plainly inedible.
+37888: Not bad.
+37903: That was a rhetorical question.
+37930: This dangerous act would achieve little.
+37964: Nothing practical results from your prayer.
+38000: The dreadful truth is, this is not a dream.
+38037: That seems unnecessary.
+38060: Keep your mind on the game.
+38085: What a good idea.
+38104: You smell nothing unexpected.
+38131: You hear nothing unexpected.
+38156: You taste nothing unexpected.
+38188: Keep your hands to yourself!
+38213: If you think that'll help.
+38234: You feel nothing unexpected.
+38259: Digging would achieve nothing here.
+38290: Cutting that up would achieve little.
+38321: You jump on the spot, fruitlessly.
+38354: You would achieve nothing by this.
+38383: There's nothing suitable to drink here.
+38416: But there's no water here to carry.
+38447: Oh, don't apologise.
+38469: Real adventurers do not use such language.
+38504: Quite.
+38515: Violence isn't the answer to this one.
+38548: There's not enough water to swim in.
+38579: There's nothing sensible to swing here.
+38612: You can't usefully blow that.
+38639: You achieve nothing by this.
+38664: No, you can't set that.
+38687: No, you can't set that to anything.
+38718: You wave, feeling foolish.
+38748: But you aren't holding that.
+38812: It is fixed in place.
+38833: You are unable to.
+38852: That would be less than courteous.
+38877: Nothing obvious happens.
+38905: Is that the best you can think of?
+38934: That's not a direction.
+38953: Not that way you can't.
+38981: Keep your hands to yourself.
+39002: You achieve nothing by this.
+39032: Futile.
+39039: You lack the nerve when it comes to the crucial moment.
+39087: You talk to yourself a while.
+39110: This provokes no reaction.
+39137: There is no reply.
+39156: Nothing is on sale.
+39175: Your singing is abominable.
+39201: I don't think much is to be achieved by that.
+39238: Time passes.
+39253: You aren't feeling especially drowsy.
+39331: You blink your eyes as the blaring alarm jars you into waking reality.
+You come to the sad realization that it was all a dream. The well-endowed
+Priness Zomar ceases to be and your bulging pecs have been replaced by the
+reality that is your huge beer gut.
+39515: Your bedroom is a nicely orchestrated mess. Clothes and furniture are
+strewn about in an almost artistic fashion. Salividor Dali would proud, if you
+had any idea who he was. Right next to the unmade bed is a tiny, wooden
+dresser. The only exit is to the south.
+39707: You would love to return to the loving embrace of Princess Zomar, but
+there is much to do today.
+39787: You hear...
+39809: You wobble a bit as you try to maintain balance on two feet. The raging
+hangover tells you that you were really knocking 'em down last night
+39915: It is against your principles to make that bed.
+39960: That would require acrobatics far beyond your capacity.
+40012: Oh, God! How cliche! "Look under the bed." Can there be just one bed in
+any text adventure that doesn't contain important items underneath? Apparently
+not. You find a baseball bat.
+40148: Don't push your luck, pal!
+40179: It's just a tiny bedside dresser with one drawer. It has a faint
+chemical odor you can't quite place.
+40252: It's just a tiny bedside dresser with one drawer. It has a faint odor of
+model airplane glue.
+40322: You begin to calm down.
+40354: It's wedged shut.
+40384: You wedge the screwdriver in and try to pry it open. There is a snap and
+the screwdriver breaks apart in your hand. You jump up and down, screaming and
+cursing. Your blood is really boiling over the culmination of the day's rotten
+events. You feel ready to grab a rifle and head out to the nearest tower.
+40625: The bat splinters into a thousand pieces. Apparently, the dresser is
+made out of a harder wood than the bat.
+40717: You're far too calm and level-headed to do something as destructive as
+that.
+40772: One order of fire wood, coming right up. Although by the time you finish
+with the dresser, all that remains is useless pile of splinters. You raise the
+axe over your head in triumphant glee, shouting a bacchanalian victory chant.
+You look up and see Barbara the door staring at you. She rolls her eyes, lets
+out a soft sigh, and walks off.
+41030: You can't quite place the odor, but the fumes make you dizzy.
+41075: Model airplane glue. Somebody has effectively glued this drawer shut.
+You have a good idea just who.
+41162: No. You would get slivers in your fingers and hands. That would hurt.
+41213: You pull out a copy of the Holy Bible.
+41252: That probably isn't a good idea.
+41287: You open it up to find it hollowed out. It's your secret compartment for
+hiding things like money. It's the one place that Tony would never, ever dream
+of looking.
+41414: You struggle to refrain from laughing at the sight of Tony falling for
+the oldest trick in the book.
+41497: Tony looks up and sees the coin. He drops what he's doing and tries to
+pick it up. He has no success but that makes him try all the harder.
+41624: You yank and pull, but the coin doesn't budge. It looks like it's stuck
+there for good.
+41702: Giggling impishly, you glue the coin permantly to the ground. You stand
+up and do your best to act casual.
+41800: A nagging doubt lurks at the back of your mind. Wouldn't there be a
+better place to glue the coin?
+41879: You feel a jolt of electricy zap you. This thing is really going
+haywire.
+41939: Click. Nothing seems to happen. The snooze button appears to be broken.
+42011: One swing of the bat effectively shatters the alarm into smithereens.
+You hear the voice of your wife, Barbara, from down the hall. "I hope you just
+didn't smash the alarm clock with a baseball bat."
+
+   With the ringing gone
+from your ears you can finally think straight. You remember that the big Spike
+Tyler-Ethan Holigram Boxing Match is on later today. And the only place to
+watch that is at Phil's bar under the heavy influence of alcohol. Well, it
+looks like you have a busy day ahead of you. But first you need to find your
+car keys and rid yourself of this nasty hangover. Get to it!
+42442: "BEEP BEEP BEEP BEEP"
+42479: You share Babe Ruth's physique, but not his swing.
+42591: A thorough search is impossible with the room in this state.
+42639: You can hardly hear yourself think with that racket going on. The music
+echoes of the walls so it is impossible to trace in to any specific source.
+42761: What? With your own two hands? Surely you could find some other sucker
+to tackle this chore.
+42828: With the aid of your broom and dustpan, you manage to find a room in all
+this mess.
+42906: You've picked up enough around here.
+42943: The coating of dried glue protects the stereo from your feeble blows.
+42996: The stereo has been glued to the desk.
+43030: You wonder if Raffi was meant to be played at that volume.
+43077: Are you deaf?
+43095: None of the knobs turn. They've been well glued.
+43140: The volume has been glued stuck.
+43175: There is only so much cleaning you're willing to do.
+43224: You find money, gold, jewels, riches, and treasures far beyond your
+wildest dreams. In fact, the treasures ARE your wildest dreams. I've had it up
+to here with the "look under the bed" routine. Trust me, you will effectively
+solve this game without having to look under any more beds.
+43433: Aaaaauuuuuuugggghhh!!!!!!
+43463: You drink the screwdriver in one gulp. Aaaahhhhh! That hit the spot.
+That is, until you realize that it was the wrong kind of screwdriver. The tool
+gets stuck in your throat and you are rushed into the emergency room for a
+quick operation. You miss the boxing match, but it isn't all bad. You've
+provided the hospital with a very good laugh.
+43715: Before your common sense kicks in and prevents you from doing such a
+foolish act, you put the end of the tube into your mouth and squeeze. At the
+hospital, the doctors inject acetone to dissolve the glue. Unfortunately, all
+of this provides you with a mild case of poinsoning and you miss the boxing
+match.
+
+Well, it seemed like a good idea at the time.
+43978: The tube is too tiny to handle with the oven mitts on.
+44017: Glue spurts out all over your fingers.
+44069: The fumes make you dizzy. The toluenes from the glue swim through your
+bloodstream in a mission to destroy your brain cells. They reach their
+destination only to find no brain cells left to destroy. Discouraged, they go
+home.
+44230: The fumes make you dizzy.
+44263: The tube seems stuck you your fungers.
+44301: The bathroom smells strongly of soap. Blue and green tiles cover the
+floor. A bath, toilet, and sink are wedged into this tiny place. Above the sink
+is a medicine cabinet which is closed.
+44441: The bathroom smells strongly of soap. Blue and green tiles cover the
+floor. A bath, toilet, and sink are wedged into this tiny place. Above the sink
+is a medicine cabinet which is open.
+44574: It is a bottle of Painaway pills.
+44605: Unfortunately, the bottle is closed.
+44636: Unfortunately, the bottle is open.
+44671: You struggle in vain. You never could figure out those child-proof caps.
+44733: Your headache vanishes. Now you feel fit enough to drink some more beer.
+44805: Barbara shouts out, "For God's sake, put some clothes on."
+44858: The plaid curtains are very tacky.
+44890: They've been opened up to allow the sun to shine through.
+44939: You open the curtains, allowing sunlight to fill the room. Barbara is
+too engrossed in her show to notice.
+45039: It's no time for dilly-dallying. You've got a busy day ahead of you.
+45099: You give her a gentle peck on the cheek. She glares at you, wondering if
+you have done something wrong.
+45177: Who do you think you are? O.J. Simpson?
+45237: "You know I could never figure those things out."
+45316: "I think I know where they are. I'll look for them when my show is over.
+45377: "I told you never to call me that."
+45413: "That lemon? I don't know why you are so passionate about that piece of
+junk."
+45480: "I always liked it."
+45505: "He's out back, I think."
+45536: "I'm your wife, remember?"
+45568: "You're not watching that thing here!"
+45622: for the day. If you want to watch your stupid boxing match, go someplace
+else."
+45700: "It's my favorite show. It watch it everyday without fail."
+45751: "Your one true love."
+45779: "What about the remote control? You're not getting it. That's for damn
+sure."
+45878: "I'm not going anywhere."
+45928: Barbara gets up and vanishes. She returns with a broom and dustpan. She
+hands them to you and resumes her show.
+46007: "You're on thin ice, buster!"
+46120: V.
+46132: The cord has been burnt through.
+46157: The cord attaches the television set to the wall.
+46200: Sunlight shines upon it.
+46229: The cord is securly fastened to the wall.
+46279: You hold the magnifying glass over the cord. It seems to be taking
+forever to burn.
+46419: huts off. Barbra asks you, "Is there any particular reason why you just
+ruined our television set?"
+
+Uh oh. She sounds mad this time.
+46539: The television seems to shut off for some reason.
+46574: This television set, a 13" Nadir brand, sits crookedly on a shabby
+formica stand. This set is your pride and joy, right alongside your wife and
+child. (Well, maybe not your child.) It is currently showing "All My Traumas",
+Barbara's favorite show. A cord extends from the set and is connected to a
+wall.
+46802: There are no controls on the set.
+46835: Best leave her alone. You've done enough damage for one day.
+46890: Bad idea. Barbara was already incensed enough. Calling her "Babs", the
+moniker she has always loathed, has pushed her over the brink. The veins bulge
+in her neck and eyes turn an eeire shade of crimson before she finally
+explodes. I will spare you the grisly details of what follows. Let's just say
+it takes the proctologist five hours to remove television set.
+47174: "Is that what this is about? Your stupid keys? For the love of God..."
+She gets up and disappears. She returns with the car keys and throws them at
+you. She then picks up the phone and calls the television repairman to come
+repair the damage you just did. Screaming various nasty comments about your
+parents, Barbara sits back down in a huff.
+47426: Barbara seems a bit too miffed for idle chatter.
+47466: Barbara seems a bit too miffed for idle chatter.
+47508: Trust me. Now is not the time to order her about.
+47555: Handling this oven has been forbidden to you.
+47595: You must think you're playing Hitchhiker's or something.
+47647: The grass is firmly rooted. It won't budge.
+47685: Dr. Livingston couldn't hack his way though that thicket.
+47735: Tony sits next to an anthill, frying ants with a magnifying glass.
+47796: He takes one look at you and breaks out in a fit of uncontrollable
+laughter.
+47857: Tony is doubling over with laughter.
+47886: Tony is your precocious eight-year-old son. His hobbies include model
+airplanes, vandalism, and getting suspended from school. Besides that, he plays
+a mean game of Whist.
+48016: He is currently doubling over with laughter.
+48049: He is currently frying ants with a magnifying glass.
+48097: Tony is too busy laughing to pay any attention to you.
+48141: He winces as you show your fatherly affection.
+48178: Tempting. Very tempting.
+48224: Tony feigns disinterest.
+48246: Tony feigns interest.
+48278: He takes the bottle and opens it with effortless ease. He hands it back
+to you with a smile.
+48346: kdibk q."Got tired of hiding it under your bed, eh?" he chuckles as he
+takes the bat and throws it out into the thick grass.
+48444: "Cool. Thanks, Dad."
+48474: He accepts your gift saying, "I'll find your secret hiding place
+someday."
+48532: "I have no use for that."
+48563: "Get your own!"
+48704: "How old do you think I am? Sheesh!"
+48743: "Whatever it is, I didn't do it."
+48780: "You're good for a laugh."
+48812: "I dunno. I didn't take them this time."
+48845: "I'm bored with your questions. You go now."
+48887: "I like it here. Methinks I'll stay."
+48928: Tony chuckles for a moment. "You're hilarious, Dad!"
+48971: Tony shrugs and goes back to ignoring you.
+49013: The ants shrivel from the heat. Tony cackles insanely at this.
+49058: The ants are no doubt relieved that Tony has moved on to other things.
+49115: You grab a handful of ants. They bite you until your drop them.
+49174: The ants burn to a crisp. Hey, this IS fun! No wonder the boy seemed so
+enthused.
+49248: He swings it away from you. "Get your own," he says.
+49294: Tony is to engrossed in the coin to pay you any mind.
+49339: Right. You strain your back picking up pixie sticks.
+49383: Barbara has forbidden you from touching this machine.
+49430: Please don't do that.
+49457: You can't. You're too attached to them. Literally. You're clothes have
+somehow affixed themselves to your body. Imagine that.
+49564: A couple of moths flit away as you collect your clothes. However did
+they survive being run through the washing machine?
+49659: You put on your tattered and mildewy clothes.
+49710: As you obscure your puny naughty bits, Tony stops giggling. He brushes a
+tear from his eye and goes back to his ant frying.
+49807: You must think you're still dreaming. Notice that the rippling pectorals
+have disappeared.
+49882: Hey, genius! You do have to be inside to start the car.
+49930: These type of vehicles usually require keys to operate. And since you
+don't know how to hotwire...
+50001: Off you go...
+50031: Don't pick at it. You get a lot more respect driving around in a red
+car.
+50091: You hear a shriek. People flee in mortal terror. Parents grab their
+crying children and seek refuge inside their home. Eventually, it dawns upon
+you that you are stark naked. You titter a bit at your predicament. The police,
+however, don't share your sense of humor. You're charged with Indecent
+Exposure, and Conspiracy to Commit Genocide. The good news is that the charges
+were dropped.
+
+The evidence wouldn't hold up in court.
+
+(drum fill)
+50422: You doubt it will support your weight.
+50465: You give it a few good whacks. It will still take a looooong time before
+you chop this thing down.
+50534: You might as well try to cut it down with a herring.
+50979: (type "memo" for author's comments)
+51010: Heads fly and body parts soar through the air as you swing your mighty
+sword at the horde of evil barbarians. One by one, the minions of the evil
+overlord Kroz persishes from the wrath of your unforgiving blade. As the last
+of them collapse in a bloody heap at your feat. You raise your arms and shout
+out in victory. Princess Zomar rushes up to your side and caresses your bulging
+pectorals.
+  "Thank you, mighty one, for rescuing me from a fate worse than
+death," she says in a breathy voice.
+  "Say no more," you respond. "It was not
+just my duty. It was my privilege."
+51423: "You are wounded," she gasps as she sees the cuts along your rippling
+biceps. "I must annoint them with various balms and ointments. I need to gather
+the magic healing lotion and rub it ever so thoroughly all over your body. But
+first, I must dress the wounds. Please forgive me, for I have nothing to dress
+them with apart from my sheer silk nightgown."
+  With that, she starts ripping
+off large shreds of her gown and gingerly wraps them around the wounds, taking
+time to slide her hands over your body. She leans towards you ear, brushing her
+large billowy breasts against your shoulder, and whispers, "BEEP BEEP BEEP
+BEEP"
+51886: Oooooooo. Better watch it with that profanity. You wouldn't want to
+offend anybody with such vulgar talk.
+51966: That's the spirit!
+51982: Bear with me. I just haven't gotten around to implementing a scoring
+system yet. I'll do it in the completed game. Promise.
+52079: The fact that you've never won a fight in your life prevents you from
+doing this.
+52136: You love to smash things, but somebody might need that later.
+52187: That would be difficult without any glue.
+52218: You've learned from experience that you have to be more careful than
+that when dealing with glue. Last time you fooled around with it you were stuck
+to the cat for a year.
+52338: You really should reconsider that.
+52650: om. Feel free to drop me a line if you're stuck or (God forbid) have any
+typos to report. You can also tell me how to type the 'at' symbol without
+causing an error during compilation. How's a guy to print his E-Mail address
+correctly? Thank you.
+52830: Hhhmmmmmm. You may want to be a tad more specific.
+53724: An Interactive Preview
+Copyright (c) 1997 by Michael Zey.
+53792: You can't go that way.
+53868: It is pitch dark, and you can't see a thing.
+53900: As good-looking as ever.
+53944: You hear Barbara's voice come from down the hall. "You're not stepping
+one foot out of that room until you turn off that damn alarm clock."
+54044: I wasn't lying, you know. The only exit is to the south.
+54088: This bed has been the basis of a life-long argument between you and your
+wife, Barbara. She insists that it should be made every morning. You believe
+that daily ritual is a futile gesture because, after all, it will just get
+"unmade" again later that night.
+54268: A pile of splinters sit where the dresser used to be.
+54308: It's a small pile are sharp, pointy wooden slivers.
+54348: Embossed on the cover are the words, "Salvation lay within!" How true
+those words are.
+54436: is on one side. Somebody has drilled a tiny hole through his head.
+54484: An alarm on the dresser is screeching.
+54512: It's a piece of junk. It doesn't even display the time since your son,
+Tony, ripped the hands off. Although for such a small device, it produces one
+hell of a noise. There is a snooze button on top.
+54656: This bat belongs to Tony, your son. You confiscated it from him when he
+had taken to smashing mailboxes with it.
+54736: A short hallway extends from here to the east. Your room is to the
+north. The hellhole that is Tony's room is to the west. Loud music blares from
+that direction. There is a bathroom to the south.
+54876: You take one step in, but find yourself having to flee in agony. There's
+no way you can handle that loud music with the headache you've got.
+54976: This room is such an unholy mess, it boggles the mind that anybody could
+possibly live in it. Loud music pours from some unseen source. Nothing
+productive can be done here with room in this state. It really defies
+description. You can flee this evil place to the east.
+55164: There is no escape...except to the east.
+55196: Tony's room is still a veritable mess, but at least now one can function
+it it. Clothes, toys, and debris litter the soiled carpet. A rumpled bed sits
+in one corner. Against the opposite wall is a medium-sized desk. The only exit
+is to the east.
+55372: The place is still a mess, but you've clean up as much as you care to.
+55424: Music blares from a stereo sitting on the desk.
+55460: It emits very loud music. (If you can call what that kid listens to
+"music".) The knobs appear to have been coated with some sort of glue.
+55560: Unmade, just like yours. You taught your son well.
+55600: Your missing screwdriver. You wondered what happened to it.
+55644: It's a tube of glue used for model airplanes. The boy has apparently
+been very busy with it. It's nearly empty.
+55724: It's a tube of glue used for model airplanes. It's currently empty.
+55776: Kitsch is the word to describe the tasteless decor of the living room.
+The walls are painted with garish pastels and the curtains are a bright plaid.
+Plastic covers all the furniture. A hallway heads to the west. There is an
+archway on the northwall that leads into the kitchen. You can leave the house
+to the south. A television set sits in the center of the room.
+56032: All the furniture is decorated with a floral pattern and is covered with
+plastic.
+56088: Your wife, Barbara, sits on the sofa watching some show on television.
+56140: Barbara is lovely and (in order to survive life with you) very patient.
+Her attire matches the gaudy decor of the living room perfectly. The day
+Barbara dies, polyster stock prices will plummet.
+56276: This shabby formica stand wobbles slightly under the weight of the
+television set.
+56332: It's here somewhere.
+56348: Sunlight fills the room.
+56368: Barbara, seated on the sofa, is staring at you. She looks mad.
+56416: If looks could kill....
+56436: You can't see any such thing.
+56460: The walls, floor, and appliances of this kitchen are all various shades
+of off-white, creating a slight disorientating effect. The ceiling above the
+oven has been smoked black due to a small number of cooking mishaps, all of
+them having occured when Barbara made the mistake of letting you cook. A
+refrigerator is nest to the door to the garage, which goes southeast. You can
+either pass south through an archway to the living room or go outside to the
+north.
+56776: You can't imagine a more depressing sight.
+56808: The back yard hasn't been mowed in quite some time. The grass is thick
+enough for even the most intrepid explorers to get lost in. A brick patio near
+the back door (which you are standing on) provides some refuge from the
+greenery. You can enter the house to the south.
+56996: Better stay on the patio. Who knows what is living in there?
+57040: Bricks have been neatly laid here to form a patio, providing an oasis of
+sorts amid the thick grass that surrounds you.
+57124: The back yard is choked with weeds and tall grass.
+57160: Tony is trying to pick up the fifty-cent piece.
+57196: Tony is your precocious eight-year-old son. His hobbies include model
+airplanes, vandalism, and getting suspended from school. Besides that, he plays
+a mean game of Whist. He is currently trying to pick up the fifty-cent piece
+you glued to the ground.
+57376: The garage smells strongly of exhaust fumes. The walls are painted with
+oil and grease. Not the cleanest of garages, but it has always provided your
+precious vehicle with sweet, sweet sanctuary. A door to the northwest goes back
+into the house, or you can go outside by heading due south.
+57576: The less said about them, the better.
+57604: One stylin' dude.
+57620: Your beautiful red car sits in the middle of the garage.
+57660: It's an Edsel. She's been clunky throughout the years, but you kept 'er
+going. The red paint has peeled in some spots revealing a grey coat underneath.
+57768: It's has peeled in some spots revealing the original grey coat
+underneath.
+57820: This ring of keys holds the key to start your car.
+58182: . Your father would call it "The Family Tree". It has been a source of
+pride for generations. You can walk through the front door to the north or
+enter the garage that's northeast of here.
+58316: It's way too far to walk. Better take the car.
+58352: Your father told you that this tree symbolizes pride. Actually, you've
+always thought it a bit of an eyesore.
+58432: Embedded in "The Family Tree" is an axe. You've been trying to chop that
+tree down. (It looks ugly.)
+58508: You're wearing your birthday suit. For the unenlightened, that means
+you're naked.
+

@@ -1,0 +1,1296 @@
+22917: qhnfeeding "Neo-Nazi" Redcough
+24221: Nothing to do!
+24256: o. You have won
+24337: It is now pitch dark in here!
+24364: I beg your pardon?
+24428: Sorry, that can't be corrected.
+24457: Think nothing of it.
+24510: As good-looking as ever.
+24542: You can hardly repeat that.
+24567: You can't begin with a comma.
+24681: I didn't understand that number.
+24710: You can't see any such thing.
+24746: You aren't holding that!
+24787: I'm not sure what "
+24839: That's not a verb I recognise.
+24877: You can't see "
+24984: Nothing to do!
+25001: There are none at all available!
+25905: Please answer yes or no.
+25931: Are you sure you want to quit?
+25976: Failed.
+25995: Restore failed.
+26012: Ok.
+26029: Save failed.
+26044: Ok.
+26088: Transcripting is already on.
+26154: Transcripting is already off.
+26212: Score notification on.
+26233: Score notification off.
+26256: You have visited:
+26284: Objects you have handled:
+26309: None.
+26691: You are carrying nothing.
+26740: Taken.
+26751: You are always self-possessed.
+27276: Dropped.
+27382: Removed.
+27519: You lack the dexterity.
+27600: Done.
+27864: Done.
+28083: Wrahn seem interested.
+28713: You can't go that way.
+29266: But it's dark.
+29283: You find nothing of interest.
+29319: But it's dark.
+29409: You find nothing of interest.
+30528: . Not bad.
+30546: That was a rhetorical question.
+30600: That seems unnecessary.
+30623: Keep your mind on the game.
+30648: What a good idea.
+30667: You smell nothing unexpected.
+30694: You hear nothing unexpected.
+30719: You taste nothing unexpected.
+30754: Keep your hands to yourself!
+30779: You feel nothing unexpected.
+30804: If you think that'll help.
+30912: Oh, don't apologise.
+30942: Quite.
+31011: You achieve nothing by this.
+31098: You wave, feeling foolish.
+31247: You are unable to.
+31266: Nothing obvious happens.
+31316: That's not a direction.
+31339: Not that way you can't.
+31370: Keep your hands to yourself.
+31395: You achieve nothing by this.
+31428: Futile.
+31456: You talk to yourself a while.
+31483: This provokes no reaction.
+31511: There is no reply.
+31530: Nothing is on sale.
+31549: Your singing is abominable.
+31583: Time passes.
+45774: Let's not be too drastic.
+45799: That wouldn't help.
+45827: You aren't carrying anything.
+45885: The floor squeals.
+45918: Hey, don't be shy.
+45985: You ponder your predicament.
+46027: You're wide awake already.
+46054: That wouldn't help.
+46077: Right.
+56008: "Hi, babe," you say.
+56102: You exchange pecks on the cheek.
+56142: The caretaker is out cold.
+56194: The caretaker is out cold.
+56373: He's asleep.
+56512: He's asleep.
+56602: "Are you still here, boy?"
+56642: You wouldn't dare.
+56892: You don't have it.
+56974: It's a soggy tennis ball.
+57081: You don't need to hide that.
+57239: It's tied to the iron ring.
+57296: You aren't carrying the rope.
+57359: And you have the key!
+57595: A piece of rope is tied to it.
+57716: Nothing else here.
+57800: In here? You must be joking.
+57866: You don the gas mask.
+58085: Aha! Now we're talking.
+58572: You don't want the soggy towel.
+58714: There's no label on the disk.
+58796: It doesn't have any buttons.
+58989: Huh? Where did that door go?
+59305: You can't. The tub is full.
+59364: It doesn't look very well.
+59407: It's already on.
+59439: "Burp - BLEEP."
+59536: . It's empty.
+59655: The printer is already on.
+60008: He already has one of those.
+60150: Grey, cracked, and uneven.
+60212: The caretaker is out cold.
+60332: How mean!
+60341: He grunts and shoves you away.
+60404: You can't reach the window.
+60594: Pointless.
+60695: "Nice globe," you remark.
+60746: You don't have it.
+60936: You spin the globe. It stops at
+61377: You can't. The cook is using it.
+61506: You can do without this trash.
+61552: It doesn't seem to open.
+61578: What are you: some kind of swot?
+61676: The field stretches south.
+61741: You don't need any more roses.
+62132: You don't have any polish.
+62194: The door is already open.
+62239: Gasp! It's the staff room!
+62325: The water isn't running.
+62434: You decide to wait for the film.
+62562: Just try cooking something.
+62870: That's of no use to you.
+63003: Now you're just being silly.
+63047: The skylight is closed.
+63113: It is closed.
+63142: It's already closed.
+63168: You can't lock the skylight.
+63430: Horrid little things.
+63584: You can't. The window is closed.
+63887: You don't know how to close it.
+64099: Ooh, you wouldn't!
+64190: You've got better things to do.
+64259: It's locked already.
+64330: That's not remotely practical.
+64503: rope. It sways slightly.
+64528: It's attached to the ceiling.
+64574: That's not really appropriate.
+64750: You talk to the cat. It
+64847: You gingerly pick up the cat.
+64878: Have you tried:
+65107: There's no oven here.
+65151: There's no pool table in sight.
+65327: You can't see a telephone here.
+65354: What do you want to sit on?
+65378: That's already unlocked.
+65432: What do you want to cut?
+65484: What do you want to dig with?
+68182: in" or "notin
+68198: opmhas" or "hasnt
+68340: }" at end of "objectloop
+70032: Score:
+70040: Moves:
+70048: Time:
+70056: You can't go that way.
+70388: Please give one of the answers above.
+70416: [You can't "undo" what hasn't been done!]
+70452: [Can't "undo" twice in succession. Sorry!]
+70492: "Oops" can only correct a single word.
+70520: It is pitch dark, and you can't see a thing.
+70552: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+70612: You seem to want to talk to someone, but I can't see whom.
+70656: To talk to someone, try "someone, hello" or some such.
+70696: I didn't understand that sentence.
+70756: You seem to have said too little!
+70780: You can't use multiple objects with that verb.
+70816: You can only use multiple objects once on a line.
+70852: You excepted something not included anyway!
+70884: You can only do that to something animate.
+70916: That's not something you need to refer to in the course of this game.
+70964: I didn't understand the way that finished.
+70996: Sorry, you can only have one item here. Which exactly?
+71148: Are you sure you want to restart?
+71172: The game file has verified as intact.
+71200: The game file did not verify as intact, and may be corrupt.
+71244: Attempt to begin transcript failed.
+71272: Attempt to end transcript failed.
+71296: You're carrying too many things already.
+71328: You can't put something on top of itself.
+71360: You can't put something inside itself.
+71388: That would scarcely empty anything.
+71444: You can only get into something free-standing.
+71480: But you aren't in anything at the moment.
+71512: You'll have to say which compass direction to go in.
+71552: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+71648: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+71732: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+71908: This dangerous act would achieve little.
+71936: Nothing practical results from your prayer.
+71968: The dreadful truth is, this is not a dream.
+72000: Digging would achieve nothing here.
+72028: You jump on the spot, fruitlessly.
+72056: You would achieve nothing by this.
+72080: There's nothing suitable to drink here.
+72108: But there's no water here to carry.
+72136: Real adventurers do not use such language.
+72168: Violence isn't the answer to this one.
+72196: There's not enough water to swim in.
+72224: There's nothing sensible to swing here.
+72252: That would be less than courteous.
+72276: Is that the best you can think of?
+72300: You lack the nerve when it comes to the crucial moment.
+72340: I don't think much is to be achieved by that.
+72372: You aren't feeling especially drowsy.
+72460: You won't learn anything by talking to yourself.
+72496: You don't feel the need to exercise right now.
+72532: You glance down and see a slightly chubby 14-year-old in school uniform.
+It's you, Rick Hejlsberg, academic failure and master troublemaker.
+72636: Oh, please. You're not in assembly now.
+72668: There's a reason you're not in the school choir.
+72704: Time enough for that in tomorrow's Geography lesson.
+72744: Careful! People have been suspended for less.
+72780: Honestly! Wait until you get home.
+72840: utters a sound like "prrrow"
+72860: At last, the report is yours! You return to your empty form room to read
+it.
+72916: English: "Rick has a lively imagination. His excuses for late homework
+are always witty and inventive. Rick often lacks motivation in his studies, but
+does possess some skill with the pen. Indeed, I have frequently had to caution
+him against flicking ink at his classmates."
+
+Well, that one could definitely
+be worse.
+73144: French: "Richard's vocabulary is limited and he sometimes struggles to
+express his thoughts. He has similar problems in French."
+
+Oh, thanks a lot.
+73302: Blister writes that same phrase in every report, every year. And people
+call you lazy.
+73364: History: "This boy is insolent, indolent, and ignorant. His failure is a
+certainty, not only in this year's history examinations, but across the entire
+school curriculum and beyond."
+
+Good old Redcough - always the optimist. Hope
+he enjoys his scones.
+73548: Mathematics: "Rick's ratio of chatter to work has been converging to
+infinity this year. As far as I can extrapolate from my colleagues' comments,
+Rick's mathematical skills are commensurate with his progress in other
+subjects."
+
+"Extrapolate"? "Commensurate"? Is that a good thing or a bad thing?
+On the up side, if you don't know what she's talking about, your parents
+probably won't either.
+73836: Geography: "Rick's geographical abilities are extremely limited, to the
+extent that he rarely manages to find his way to lessons. I understand that he
+may not anticipate a career in geography, but I hope that his chosen path will
+be morally sound: the head urgently wishes to see Rick in connection with a
+school sports trophy."
+
+Whoops. Now, where did you leave that correction
+fluid...?
+74116: The chewing gum is of a greyish hue and has fluff stuck to it.
+74160: I think you're just supposed to chew it.
+74192: You peel the gum away from the desk with a moist plopping sound. It's
+still warm! Yeuch.
+74256: Ah yes, this brings back memories. All first-years have to wear these
+green monstrosities. It's a prestige thing.
+74340: It's too tight. You can't take it off!
+74372: It's far too small for you, but you struggle into the blazer. Now you
+look just like a first-year!
+74444: Despite the childish red plastic handles, these scissors are passably
+sharp.
+74500: You give the scissors a few practice snips and drop them into your
+pocket.
+74552: A whole stack of school reports - but only one that matters to you!
+74600: You don't need all of these papers.
+74632: You don't want to read them. If history repeats itself, you'll get the
+gist at some point anyway.
+74704: They're stapled firmly to the wall.
+74736: The textbooks are from the "Maths is Fun!"(tm) range, and their covers
+depict various smiling children (exactly one of whom is Chinese, and exactly
+one of whom is black) weighing and measuring items. You aren't fooled for a
+second.
+74904: You can't. You're allergic to calculus.
+74936: It's a small triangular-bladed implement for digging and weeding.
+74984: Seven or eight members of the Diptera genus, sadly passed away. Their
+small, black, hairy corpses are an outrage against hygiene.
+75076: Remember the old lady who swallowed a fly? You don't want to start on
+that slippery slope to horse consumption.
+75156: You surreptitiously scoop the flies into your pocket. Never know when
+you might need 'em!
+75232: Katie has light brown hair and green eyes. You've been involved with her
+for about two months, but it feels like forever. The funny thing is, whenever
+you tell anybody that, they think you're being romantic.
+75378: "Oh, how sweet!" Katie gives you a hug.
+"Anything for you, babe," you
+exaggerate. "You know that."
+"Ooh, I almost forgot," Katie adds, "Oscar wanted
+to talk to you. He said he'd be in the car park."
+75536: "You like the roses?"
+"They're beautiful!" Katie exclaims, then narrows
+her eyes. "Why? Are you about to own up to something?"
+75636: You're supposed to give them to the one you love, not chat about them!
+75686: She seems distracted. "You know, Rick, I've been thinking about our
+relationship."
+Uh oh.
+75758: "What's wrong with our relationship?"
+Katie sighs. "You're just not
+romantic, Rick. I wish you'd do things for me sometimes."
+You grit your teeth
+and wonder which Hugh Grant movie she just watched.
+75908: "So things are okay between us, right?"
+"Of course, Rick," Katie
+smiles.
+Well, you think to yourself, at least that's one problem out of the
+way.
+76020: You don't feel like that discussion today. Katie is "just not ready",
+she "needs some space right now", and she has at least a dozen more phrases
+from Swizz! magazine to batter you with.
+76156: That's no way to treat your sweetheart.
+76184: She doesn't seem particularly impressed. Hmph.
+76220: He stands at the base of the tower, peering suspiciously around.
+76268: You shout down to Bladdey, but there is no response.
+76308: How do you propose to do that from a first-floor window?
+76348: How do you propose to do that from a first-floor window?
+76388: Dropping anything else on him would be overkill.
+76424: You'll have to open the window first.
+76452: Dropping that on Bladdey wouldn't work very well.
+76490: Blister is a rather fat, grumpy teacher with a ludicrous black beard. He
+is in charge of the Art department and responsible for the computer room, but
+avoids teaching if he can help it.
+76620: He looks rather startled, having been woken by the pool explosion.
+76668: Right now, he is avoiding teaching by being sound asleep.
+76850: Blister frowns, evidently thinking of all those stairs to climb. "Oh,
+you probably just saw it doing something you don't understand. After all, you
+don't have any evidence of a virus, do you?"
+77078: Blister replies, "but you'd better behave up there."
+77150: Blister makes a sarcastic little noise.
+77244: blister. "Let me see that! Hand it over!"
+77290: Blister to confiscate that.
+77322: blister the pages of garbage.
+"Another virus," he sighs, lumbering off
+to the computer room. "Well, I suppose I'd better go and take a look."
+Just
+then, you hear someone crying. Looking outside, you see a familiar first-year
+pupil running into the languages block.
+77516: He shifts in his chair, grunts, and goes back to sleep.
+77556: Never look directly at "Neo-Nazi" unless you fancy a detention for
+rudeness. Oscar swears blind that Redcough once foamed at the mouth when he
+received homework two days late.
+77680: "How dare you!" booms the fascist. "I said I wanted my dinner to be hot!
+Didn't I say that?"
+"Yes sir."
+"This is stone cold!"
+"Yes sir."
+"Well? Don't
+just stand there, you fool; take my dinner and bring it back hot!"
+77852: Redcough frowns down at the mixture of mash, peas, and sausage.
+"Well,
+at least it's hot!"
+"Yes sir."
+"What, are you still here? You look like you
+need some exercise, boy. Go down to the swimming pool and try fifty laps. I'll
+be checking up on you!"
+78040: Redcough glowers at you. "What are you doing with that, boy?" He
+replaces it on the wall display.
+78112: "I don't want that!" Redcough exclaims.
+78156: Oscar, your sometime partner in crime, shares your academic incompetence
+and love of mischief. His spiked blond hair projects in all directions.
+78256: You see a crowd of pupils swarming out of the Maths block. Oscar's test
+must have finished.
+78324: "You took your time!" complains Oscar. "Listen: I need your help. I've
+got a mental arithmetic test in, like, ten minutes, and you know I can't do
+maths to save my life."
+78452: You show Oscar the mobile phone. "Looks like it has a calculator
+mode."
+"Hey, if I could sneak that in... can I borrow it?"
+78548: Oscar is only interested in finding a way to survive his upcoming mental
+arithmetic test.
+78612: "How's that going to help me in a maths test?"
+78646: You hand the mobile phone to Oscar. "There you go. Just pray it doesn't
+ring while you're adding up on it."
+"Ah, this should help me, uh, check my
+answers," he grins. "By the way, my brother gave me this. I thought you might
+have some fun with it."
+He flips a computer disk in your direction and walks
+off towards the Maths block, whistling.
+79018: Blister hasn't spotted it - after all, he's in charge of the computer
+room - but he just emits a cavernous yawn and bumbles onward to the Art block.
+79124: The soggy tennis ball has been slit open. The empty space cries out to
+be filled.
+79184: What a neat hiding place! You found this ball in the grass, but nobody
+would think to find grass in the ball.
+79260: The ball has already been slit open.
+79288: You slit the ball open, revealing its grey rubber insides.
+79332: The scissors make no impact on the tough tennis ball.
+79372: You can't cut the ball with that.
+79396: You're best off keeping it hidden inside the ball.
+79432: You stuff the sachet of cannabis inside the tennis ball.
+79472: You retrieve the soggy tennis ball.
+79500: A piece of strong rope, just the thing for... well, whatever strong rope
+is for.
+79560: You tug on the rope. The brick drops to the ground, revealing a creased
+old map tucked into the crevice.
+79636: There's no point in pulling a loose brick around!
+79672: The rope isn't attached to anything!
+79700: You deftly knot the rope around the ring.
+79732: You wind the rope around your hand and take it with you.
+79772: This is the lost first-year's locker.
+79800: Johnny, the school bully, looks very much at home in his usual haunt,
+the toilets. His trendy Puffa jacket and Air Head trainers do little to counter
+the ugly scowl on his face.
+79928: Emboldened by the head's whisky, you accept Johnny's offer of a fight. A
+few awkward blows are exchanged; then Johnny mutters a rude word and stumbles
+out of the toilets with a hand over his nose.
+80068: You'd like to take him at his word - but, remembering that Johnny is a
+veteran of many playground scraps, you decide that this would be unwise.
+80168: "Some *@!# took my hash," Johnny spits. "You wanna *@!#ing fight?"
+80234: The secretary is one of those people who are practically allergic to
+their own allergies. She is trying to sort a pile of papers, but keeps stopping
+to sneeze or rub her eyes.
+80360: "Not now - atishoo! - I'm busy with these reports."
+80400: You place the fidgeting animal on the secretary's desk. "I found this
+and thought someone might have lost it." The secretary replies with a
+remarkable volley of sneezes and abandons her papers in search of more tissues.
+The cat, too, darts out of the room.
+80580: Left of the blackboard, the narrow passage leads north into darkness.
+80628: The narrow passage leads back to the English classroom.
+80668: The iron ring is slippery and stained orange with rust.
+80708: The brick seems loose, but you can't get a good grip on the slippery
+iron ring.
+80764: There's no point in pulling a loose brick around!
+80800: Each sheet in this stack of paper is filled with the crazed outpourings
+of a mentally traumatised computer.
+80876: You gather up the wasted sheets of paper.
+80908: Oh-ho, what have we here? A sachet of cannabis!
+80944: Like a fatal bullet, the report has your name on it; and if your parents
+get hold of it before you do, it might be equally dangerous.
+81040: "If you think you can just waltz in here for your report, you're
+mistaken," says the secretary. "You can pick it up tomorrow when it's signed
+and sealed."
+81152: This gas mask is a genuine wartime relic. It seems to be in working
+order.
+81204: Realising how silly you look, you take the gas mask off again.
+81252: The paper clip has unwound slightly. It's more like a twist of wire.
+81304: The cook's own "bangers and mash", garnished with a few stray hairs. It
+looks rather cold and chewy.
+81376: The cook's own "bangers and mash", now somewhat overcooked. The mashed
+potato is crispy and the topmost sausage looks positively post-nuclear.
+81480: You decide against this dangerous act of masochism.
+81516: You have a furious gardener to thank for this attractive bouquet.
+81564: You aren't hungry. You aren't a swarm of aphids, either.
+81608: It can't be of any use... can it?
+81636: You'd rather not. Something about it looks fishy.
+81672: You take the slippery little fish.
+81700: The caretaker's brass key unlocks Bladdey's cupboard in the tower.
+81748: The small, shiny key dropped by the first-year bears the number 102.
+81798: Staring at the map, you gradually work out your position in the
+labyrinth. You follow the marked path and find yourself in...
+81924: Nothing noticeable about this one. It certainly doesn't look like the
+sort of book that would open a secret passage when pulled, or anything like
+that.
+82032: You hear a grating noise somewhere above you.
+82064: You hear another grating noise and a clunk.
+82096: How strange. It seems to be attached to the shelf.
+82132: The exact money for a school dinner. Don't worry: no first-years were
+harmed during the creation of this game. (Well, just the one - but let's not
+talk about my hobbies.)
+82256: You gather up the handful of coins.
+82284: The towel is no longer clean or white, but it's doing a good job of
+covering the worst of the mud.
+82352: Solicitously washed and ironed by somebody's mother, the towel is
+spotlessly clean and eye-achingly white.
+82428: You spread the towel over the muddy patch.
+82460: You roll up the towel and tuck it under your arm.
+82496: A bottle of the finest Butchered Grouse malt whisky.
+82536: Any more of it would make you sick.
+82564: You take a swig of the head's whisky. Suddenly you feel strong and
+fearless.
+82620: You stow the bottle away in your jacket.
+82652: It looks like any other floppy disk - but, knowing Oscar's brother, this
+one is primed to wreak digital havoc on some unfortunate terminal.
+82752: Hash. Weed. Ganja. A small plastic packet of whatever you choose to call
+it.
+82808: That would make you ill. Especially the sachet.
+82844: You're not going to smoke it, so there's no point in opening the sachet.
+82896: You furtively slip the packet into your pocket. Hey, that sort of
+rhymes.
+82952: This rather nifty gadget is covered in blinking lights and emits a soft
+rippling sound. Proof of extra-terrestrials - or just another Japanese toy?
+83056: The translator burrs as you pick it up.
+83084: Sunlight filters into your form room, where you are obliged to register
+each morning and afternoon, and falls across the tables as though reluctant to
+get itself dusty on the linoleum floor. The school's budgetary concerns are
+manifested in the hard wooden chairs and scratched, worn desks which surround
+you. A doorway leads east.
+83312: The floor is scuffed and dusty. Bladdey the caretaker has been
+neglecting it again.
+83376: These desks have been in the wars - and by the looks of things, they
+lost. Each desk bears numerous obscene carvings which testify to hours of
+boredom.
+83484: One of them has chewing gum stuck underneath.
+83520: Dirty words, dirty poems, and initialled love-hearts which, if not
+exactly dirty, at least have an air of sloppy hygiene.
+83612: They look about as old as it's possible to be without actually becoming
+valuable.
+83668: No time to sit around. You need to find that report!
+83708: A ridiculous Puffa jacket that makes its wearer look like the Michelin
+Man's evil twin. It's black on the outside, with a garish orange lining.
+83812: Being seen with Johnny Pike's jacket would earn you a severe kicking.
+83864: You are lost in the nightmarish staff room maze, with indistinguishable
+exits in all directions. Wherever you look, your eyes are accosted by
+half-finished crosswords and mugs of tepid coffee. Pale, haggard teachers pass
+you in all directions, clutching worn briefcases and faded notes for lessons
+that never happened.
+84084: You turn a corner and find yourself back in reception.
+84124: Christ. This place is terrifying.
+84150: You feel as though you've somehow walked in a circle.
+84196: They look like zombies. You wonder how long they've been lost here.
+84244: "Excuse me," you begin.
+The teachers stumble past, staring, unheeding.
+84304: Most of the chipped enamel mugs are stone-cold; and they are too
+gloomily similar to serve as landmarks in the maze.
+84388: There are safer ways to make a frothy cappuccino.
+84424: This phone doesn't have Java support.
+84452: Soaking that in coffee wouldn't help you.
+84484: You'd feel bad. There might still be some wizened old professor
+wandering the maze in search of the lukewarm pick-me-up he mislaid in his
+youth.
+84728: You don't have the heart to take away the one last diversion available
+to these poor souls.
+84792: You stand in the headmaster's office, deep within the fiendish
+labyrinth. The room is an opulent shrine to all that is plush and expensive. A
+number of wall-mounted portraits offset a bookcase and a cabinet. The maze is
+north.
+84956: Austere depictions of former headmasters and staff members.
+85000: You carefully tilt the portraits, but there's nothing behind them. The
+headmaster must have a better financial strategy than the old "safe behind the
+picture" - a bank account in some offshore tax haven, perhaps, judging by the
+furniture in here.
+85172: The glass-fronted bookcase holds many books.
+85208: Education, public speaking, child psychology... Your eyes slide off the
+spines like butter from a non-stick pan.
+85292: The books don't interest you at all.
+85320: Compared with the bog-standard furniture in your form room, this
+handsome oak cabinet is a museum piece.
+85392: Your unartistic presence defiles the Art block. Splashes of paint in
+various primary colours are liberally distributed over the wooden desks and
+wall displays. The room also boasts some clay sculptures which exhibit no
+particular form or talent - hence termed "abstracts". The playground is east.
+85642: Blister would insist on calling vermilion, ochre, and ultramarine.
+85696: Not very inspired. Take this one, for example. Is it an owl? A dog? A
+sarcophagus, perhaps? The only thing it definitely isn't is art.
+85800: The phallic carvings on some of the desks are actually very good. Mind
+you, anything looks good when it's in the same room as the second-years'
+sculptures.
+85916: You can only hope that the walls were graced with these efforts so that
+the more competent artists could take their work home. Even "efforts" is
+something of an overstatement.
+86040: Very red, and very permanent. Only a lid stands between it and crimson
+chaos.
+86096: The lid of the marker pen is a chunky red cylinder.
+86132: You remove the lid of the marker pen. Poisonous marker pen fumes rapidly
+fill the air. A quick-thinking first-year opens the window. You replace the
+lid.
+86244: You remove the lid of the marker pen. The open window quickly dispels
+the toxic marker pen fumes. You replace the lid.
+86328: You remove the lid of the marker pen - and hastily replace it as the air
+fills with poisonous fumes.
+86400: Even the gas mask can't stop your eyes from watering!
+86440: You creep cautiously into Bladdey's supply cupboard, half-expecting to
+brush against a skeleton but stumbling into the light switch instead.
+86540: This is Bladdey's supply cupboard.
+86568: In the dim electric glow, you perceive an array of brushes, chemicals,
+and other cleaning equipment. The exit is west.
+86656: Remembering the skylight in the Maths block, you look around for a
+broom, but find nothing suitable. Nice try, though!
+86740: There's nothing of interest here.
+86764: The cleaning equipment is of no use to you.
+86796: "Silver polish"? It looks pale pink to you.
+86832: The king of proprietary putties: sticky, greyish, and oh so versatile.
+86884: You'll decide you'll leave that kind of filling to a qualified dentist.
+86936: You take the tub of Polyfilla. A ghostly voice booms, "Polyfilla is a
+registered trade mark of Polycell Products!"
+87174: Since the IT department consists of a single part-time Art teacher, its
+efforts are to be praised. You can go north.
+87260: It has a floppy disk drive and a dot-matrix printer. Not quite state of
+the art? Well, you should see the state of the Art block.
+87420: Blister has actually removed the power button: a bold gambit, since the
+school's wiring is a dangerous mess and localised power cuts are not uncommon.
+87528: The cables weave around the room attractively.
+87610: computers are venerable beige boxes with red function keys. These ones
+look a bit battered, but their sturdy construction has withstood the ravages of
+time, boredom, and potato crisp fragments.
+87766: micros. Its screen display dwindles to a tiny dot and vanishes.
+87840: You'd better leave it. You wouldn't want to be caught with the
+incriminating evidence.
+87904: That doesn't belong in a disk drive.
+87932: You place the disk in the drive and restart the computer. The usual
+delay is followed by an interesting selection of beeps and error messages. The
+printer soon joins the fun and churns out page after page of meaningless
+garbage.
+88088: This ageing dot-matrix printer is known to staff and pupils as the
+Screecher. (The headmaster has vetoed all attempts at obtaining a modern laser
+printer, on the grounds that laser pointers are banned in school and it "would
+send out a conflicting message".) A green light indicates that it is ready to
+print.
+88304: You can't find a power switch, and you can't reach the plug. Anyway, the
+printer is supposed to stay on.
+88380: You are at the bottom of the leaning, decrepit structure known as the
+tower. To one side you see rows of dusty lockers, their numbers obscured by the
+fungal growth of many years. Stairs lead up, and a door to the east leads out
+of the tower.
+88552: The lockers have plastic doors in a faded orange hue that shows signs of
+once having been bright red. Judging by the accumulated dust and grime, most of
+them haven't been used for years.
+88680: You try a random locker, but it won't open.
+88712: This is the first floor of the tower. Litter-strewn stairs lead up and
+down. Westwards is the English classroom, whereas to the east is a cupboard
+owned by Bladdey, the caretaker, rumoured to contain all manner of gruesome
+secrets. To the north is a classroom filled with first-years.
+88912: You can't just walk into a first-year lesson!
+88948: The cupboard is locked. Your suspicions increase tenfold.
+89044: Apple cores, empty crisp packets, and sweet wrappers.
+89084: Picking up litter is supposed to be the caretaker's job.
+89124: The cupboard door is tall and dark but not especially handsome, making
+it only partially suitable for a banal horoscope.
+89208: You insert the paper clip into the keyhole and jiggle it around. The
+door refuses to budge.
+89272: This, the second floor of the tower, reputedly harbours that curious
+branch of academia known as "humanities". In practice, however, this consists
+only of the History room, to the east, and your form room, to the west. Stairs
+lead up and down, as they generally do.
+89460: Redcough seems to have locked his door. You don't suppose he's the kind
+to have guests for dinner. Unless he's a cannibal.
+89548: You now stand at the top of the tower. Thankfully, stairs lead down, but
+you also have the option of visiting the isolated Geography department,
+somewhere to the west, or the computer room, to the south.
+89720: Blister must be trying to fix the infected computer.
+89840: He stares studiously ahead and tries to pretend you're talking to
+someone else.
+89896: You can't help wondering whether the knife would get something more out
+of him.
+89952: "It's you again!" he snivels. "You took my locker key!"
+89996: "So why are you crying?" you ask. He shakes his head. "I don't trust
+you. You took my dinner money. I couldn't even afford any sweets."
+90098: "So what happened?"
+"I - I went to the toilet, and there was a horrible
+bully there! I hate this school."
+At least he's starting to fit in.
+90208: He chews silently and looks at you with bovine eyes.
+90244: You don't have a suitable weapon!
+90268: You've always wanted to try this. "Give us your dinner money!" you
+advise. The first-year drops some money and a key on the floor and runs off
+crying.
+90376: The poor kid's been through enough already.
+90408: There's no point in handing it to him, but you might be able to give him
+a good scare with it.
+90476: You return the locker key to its owner. The sense of moral rectitude is
+almost overwhelming.
+90540: You squash the chewing gum into the first-year pupil's palm.
+Surprisingly enough, he accepts your goodwill gesture and cheers up slightly.
+90640: You are squelching across the freshly tarmacked playground: the only
+part of the school to receive a facelift in recent years and, you note wryly,
+the only part that didn't really need one. Parts of the old surface are still
+visible where the playground borders the field to the north. You can also go
+west to the Mound, east to the car park, or south into the main school
+building.
+90904: No sign of Bladdey. He seems to have recovered - or perhaps they hired a
+new caretaker to move him out of the way.
+90988: Bladdey raises a warning finger. "Yer can't go on the field, 'cause it's
+muddy."
+91052: You notice a paper clip lying here.
+91080: A key has fallen out of his pocket.
+91108: He stands at the base of the tower, peering suspiciously around.
+91156: Bladdey does not respond. His selective deafness is legendary
+91200: The changing room is sparsely furnished with narrow benches. Clothes and
+bags hang above them. A single long window at ceiling height brightens the
+silent gloom a little. Doors lead west to the gym, east to the swimming pool,
+and north back outside to the car park.
+91384: The swimming pool is in use. You'll have to come back later.
+91428: The window runs along the west wall just below the ceiling, admitting a
+moderate amount of daylight without compromising the privacy of the changing
+room.
+91540: Meanly designed to fit in as many rows as possible, the narrow benches
+provide just enough support for half a buttock.
+91624: The hanging clothes and bags make that impossible.
+91664: The schoolbags, tokens of their owners' social status, run the gamut
+from weather-beaten satchels to the latest in overpriced sports gear.
+91760: That would be getting a little too close to serious theft.
+91846: Borogrund's is eagerly working towards an Orwellian dystopia where
+colours are prohibited.
+91910: A solitary flash of green draws your attention to a blazer.
+91956: You've got your own school uniform.
+91984: This is the History classroom, usually occupied by "Neo-Nazi" Redcough.
+The tables are arranged in straight lines with military precision, while the
+wall display is anti-Semitically asymmetrical on the back wall. The door is
+west.
+92150: Redcough wheels on you as you turn to leave.
+"You, boy! Go down to the
+kitchen and see if that idle wretch has finished preparing my dinner! Bring it
+back here on the double. And it had better be hot!"
+"Yes sir," you reply.
+92320: No chewing gum or carvings on these. Like everything else in Redcough's
+classroom, they have an air of spit and polish. More spit than polish, if you
+sit in the front row.
+92604: Nixon's desk at the front, and there is a large window at the back. The
+exit is east.
+92672: He must have been collecting these for years. You could probably arrange
+them in chronological order by the fadedness of the cover pictures.
+92772: Various outdated tomes about rocks and glaciers.
+92808: No. They're good for plagiarising when you have to write an essay, but
+that's about it.
+92872: The Geography teacher is a pale, worried sort of chap. His broad
+northern accent means that nobody can understand a word he says, and his dull
+personality ensures that nobody wants to.
+93000: It's no good. You can't understand his northern accent.
+93042: The universal translator hums into life.
+93134: nixon sighs. "Bladdey never comes oop 'ere to clean. Too many stairs, I
+reckon."
+93268: Nixon responds with startling rapidity.
+"Don't you have any other
+interests?"
+"Silverware," he admits sheepishly. "I've quite a collection."
+93376: "How did you get into teaching?" you ask.
+"Do you know, lad, I can't
+rightly remember," he admits. "How do I get out?"
+"What would you rather be
+doing?"
+"Ah, I don't know. I keep meaning to sort my collection of silver
+spoons."
+93616: Nixon.
+93622: "You collect silverware?" you ask.
+"Oh, aye."
+93662: "Would you be interested in, oh, say, a sports trophy?"
+"That I might,
+lad."
+93766: Nixon proclaims. "You can only form the minds of reasoning animals upon
+facts."
+93920: Nixon.
+93928: You can use the translator to talk to him without giving it away!
+93976: You can't very well start throwing things at him until you've found a
+way to communicate.
+94104: Nixon.
+94122: nixon exclaims loudly, "This could be worth summat!"
+From the floor
+below, a voice barks, "Silence!" Apparently, "Neo-Nazi" Redcough is back in
+residence.
+94242: Nixon turns the trophy over in his hands, looks distastefully at the
+layer of dust it deposits on his palms, and passes it back. "If it was real
+silver, who'd have treated it like that?"
+94376: All the fun of a world map - on a sphere!
+94602: Nixon would never allow his globe to leave the classroom.
+94644: The highest in the school, this window affords a less than picturesque
+view of your unpleasant little town.
+94720: You notice some dead flies lying underneath.
+94752: This window isn't designed to open - and no wonder. Teaching geography
+to thirty kids must make a fifty-foot drop seem tempting.
+94844: Steam rises to obscure your vision in the stainless steel jungle that is
+the school kitchen. Huge piles of plates are stacked to one side of the metal
+sink, while from somewhere around the back you hear the thuds and squeals of
+what is apparently a live cow being chopped up for tomorrow's beef lasagne. The
+dining hall is north.
+95076: The cook is ugly and grey-haired, rather like the meals she serves up,
+but she's a friendly sort. She is stirring the noxious contents of an
+industrial-grade saucepan.
+95194: "What's cooking?" you enquire.
+"Scones!" says the cook
+95292: "I'd like a school dinner," you say.
+95320: "Again?" chuckles the cook. "You're having me on."
+She's right: no
+mortal man could stomach two of those in a day.
+95408: "Got your dinner money, love?" asks the cook.
+95444: "Is it fun being a cook?" you ask.
+"Good enough for me, love," she nods.
+95500: "How do you stack the plates so high?" you ask.
+The cook slyly taps the
+side of her nose. "Trade secret."
+95580: The cook may be short-sighted, but she doesn't cook anything that's
+still moving.
+95640: No. There are practical jokes, and then there's manslaughter.
+95688: The cook drops the "raisins" into the simmering saucepan.
+95732: You wince as the cook stirs the putty into the scone mixture.
+95776: You give the dinner money to the cook. She hands you a plate of... of...
+something.
+95840: This would be a dangerous place for a fight.
+95872: You don't even want to know what's in there.
+95904: The cook isn't quite that short-sighted.
+95940: It's like being in a sauna. One that smells of school dinners.
+95988: It seems reasonable to hypothesise that the sink has hot and cold taps
+and a plughole, but the clouds of steam make it impossible to find out.
+96088: If you got that close to the sink, the steam would boil you alive.
+96140: The stack of plates rises majestically into the mist. Now you can say
+you've seen the great wall of china.
+96216: "Careful with those, love!" the cook admonishes.
+96252: You wouldn't be able to reach the top of the pile.
+96288: Looks threatening.
+96304: The knife is already bright and clean.
+96332: You slip the knife into your pocket. Oops - that'll need mending later.
+96384: You stand in the English classroom, blessed by its south-facing window
+with more sunlight than any other room in the tower and by its proximity to
+Bladdey's cupboard with an occasional cleaning. There is a large blackboard.
+The desk at the front of the room bears a small snowstorm of unmarked essays.
+The exit is east.
+96608: The teacher's desk has a pile of essays on it.
+96648: "Romeo loves Julleit a lot. You can tell this because Romeo say's for
+swear its sight, I never saw true beatty till this night. This shows he really
+loves Julleit. Shackspear wanted to convey the amount of love between the
+lovers."
+
+No wonder nobody's bothered to mark them.
+96848: The blackboard holds some fascinating secrets about "your", "you're",
+"their", and "they're". You should probably know about these things, but you
+don't want too. You still have trouble distinguishing between a catastrophe and
+a coma.
+97020: There's no blackboard eraser. Teachers have started locking them away to
+discourage amateur attempts at stage smoke.
+97104: Most of the windows in the tower are grimy, but this one has been
+cleaned in the past few days. Light twinkles erratically from the patches of
+cleaning solution that Bladdey neglected to rinse off.
+97240: Whew! This is heavy enough to stun somebody! As an added bonus, it
+contains an alphabetically ordered list of words and their definitions.
+97340: You're not lugging that thing around again!
+97372: You heave the dictionary off the table and secrete it about your person.
+97424: Away towards the perimeter fence, this is one of the quieter parts of
+the school field, rumoured to be a UFO crash site. There is an elliptical
+scorch mark in the grass here
+97576: , but no actual remains are visible since (claim the UFO advocates) the
+military removed all traces in the dead of night and even now are experimenting
+on the surviving alien. You, of course, believe none of this.
+97728: It's quite convincing. It looks as though a large burning disc struck
+the ground with great force. The truth is out there.
+97816: Technically out of bounds, this is the garden of some unfortunate soul
+whose house borders the school field. An irregular path meanders from east to
+west between the rose beds. A toolshed stands on one side. The school field is
+east.
+97980: Being in the garden is risky. You're not going right up to the house.
+98032: The toolshed is a small windowless building painted reddish-brown.
+98080: You don't want to trespass further than necessary!
+98120: Roses are red; violets are blue. These roses look quite thorny to you.
+98172: You can't grip the thorny stems, and they just bend under the knife.
+There must be a better tool for the job.
+98252: You snip through a few stems and take the roses.
+98288: Ouch! The stems are laden with thorns. You suck your injured fingers.
+98340: You are in the main Chemistry lab. A pungent smell of burnt rubber
+creeps into your nostrils. The desks and stools bear the permanent scars of
+corrosive chemicals and "accidental" fires. Doorways lead east and south.
+98492: As you approach the toilets, the stomach-churning smell drives you back.
+It's nauseating!
+98560: These ingenious desks have Bunsen burners and sinks built into them, so
+that pupils can not only start localised fires but also put them out before the
+teacher comes back.
+98684: Most of the four-legged stools have taken considerable chemical damage.
+You trust that the experimenters wrote up their findings with a hypothesis,
+diagram, and conclusion.
+98804: Nah. They're terribly uncomfortable.
+98832: You wouldn't get far with one of these.
+98860: This small brown jar contains several submerged chunks of caesium and
+bears a multitude of safety warnings. Apparently, it reacts violently with
+water. Hmmm.
+98972: Caesium salad would probably be fatal.
+99000: You screw the cap back onto the jar.
+99028: You unscrew the cap from the jar of caesium.
+99060: This swanky, richly carpeted area of the school, complete with coffee
+table, is the reception, where prospective parents are led and/or misled. The
+receptionist typing away in the office next door glares indignantly at you
+whenever she makes a spelling error. An impressive archway leads north, while
+to the west you see a small, plain door.
+99296: The door is closed. Another darned puzzle to solve...
+99336: The receptionist scowls back at you through the glass partition. She
+must be incredibly good at making coffee, you decide, because she clearly
+wasn't chosen for her people skills.
+99460: She waves her hands at you angrily. Perhaps she really wanted to be a
+traffic warden. At any rate, she doesn't want to deal with you.
+99560: The office is a small, untidy room of fax machines and photocopiers. A
+glass partition separates it from the main reception area.
+99652: You can't get into the office from here.
+99688: It's a partition. It's made of glass. Ergo, it is a glass partition.
+99740: This handsome piece of mahogany is a coffee table in name only. You're
+quite certain that nobody would ever be permitted to place a hot, spillable
+drink on it.
+99852: The carpet is deep red and expensive.
+99984: The trophy just looks like a tarnished, two-handled metal cup.
+100028: The silver trophy now flashes in the light. Well, gosh.
+100068: You blow some dust off the trophy and set to work, using your shirt as
+a cloth. Minutes later, the trophy looks like new, and your shirt rather less
+so. You throw the empty polish tin in the general direction of a bin you once
+saw.
+100228: You slide the trophy under your shirt. Nobody saw a thing, right?
+100276: A printed label on the door warns, "No Entry". Underneath, a poor
+speller has scrawled in yellow chalk, "No exit ether".
+100368: You bang on the door. It stays closed.
+100396: You cautiously push the door open.
+100420: You are in the entrance lobby of the languages block, festooned with
+drawings. This is as far as you can penetrate, because all of the classrooms
+are perpetually occupied. From one of them, a guttural German love song drifts
+out to offend your ears. You can see the car park outside to the south.
+100628: "Du bist unertraeglich; du bist egoistisch; treibst mich in den
+Wahnsinn ..."
+100692: You're still not sure how drawing Asterix and Obelix was supposed to
+help your class learn French, but it sure was fun.
+100844: mirror, basin and urinal. The tiled wall opposite is covered in badly
+scrawled graffiti, and on the floor are a few puddles of dubious origin. You
+can go west. Please.
+100964: The mirror also looks into you.
+100988: Seven years' bad luck on top of a week of detention?
+101028: The mirror is built into the wall.
+101052: The basin has hot and cold taps. There's a mirror above it.
+101096: You don't need to put things in there.
+101124: You turn on one of the taps, eliciting a spluttering trickle of rusty
+sludge that runs for a few seconds and tails off.
+101208: You'd rather not.
+101224: You can do without a golden shower.
+101256: They might just be water, but you're not inclined to investigate.
+101304: You can do without a golden shower.
+101336: "My mother made me a homosexual", one reprobate has scrawled across the
+tiles. Underneath, in a neater hand, someone has added: "If I give her the
+wool, will she make me one too?"
+101468: Flimsy off-white shelves stretch from one end of the library to the
+other, populated with carefully selected young adult literature. Somewhere
+behind this literary jungle, you hear the assistant librarian shouting for
+quiet at the top of her repellent voice. The exit is south.
+101664: Dozens of books. Most of them are stupid teenage angst novellas in
+bite-proof plastic covers. You're no fan of literature, but even you know when
+to feel patronised.
+101780: One book looks particularly unremarkable.
+101816: Each shelf is filled with books of all descriptions. It strikes you
+that this doesn't say much for the library's filing system.
+101908: Loud music blasts into your ears as you stand in the smoke-filled sixth
+form common room. The walls are bedecked with posters. Various saggy sofas are
+occupied by sixth-formers, who sit and smoke around the pool table. The exit is
+west.
+102074: The air smells like burning rope and urine.
+102112: The sofas seem to have taken their cue from the surrounding decor and
+reverted to an earlier evolutionary stage, something akin to Siamese beanbags.
+102216: No time to sit around. You need to find that report!
+102256: The cue is actually a vandalised chair leg. You have to admire the
+initiative of the sixth form.
+102324: The pool cue is in use - and sixth form pool games rarely end.
+102368: Noticing that the pool game has been abandoned, you reach across and
+take what serves for a cue.
+102436: The pool table's sine wave cross-section complements the bent cue.
+102488: Bluish cigarette smoke fills the room.
+102516: The posters advertise cancelled gigs by unknown indie bands.
+102560: Splashed with sauce and boasting a large "Failed" sticker, the
+microwave oven is a major source of radiation, which local action groups have
+erroneously blamed on the nearby power station for years.
+102700: There's no way you're carrying that around.
+102736: What monumental slackers! They are certainly well prepared for life at
+university.
+102868: They smile and wish you peace. It's bizarre!
+102902: "What's up, guys?" you ask.
+"More to the point, what are you doing in
+our common room?" one of the sixth-formers replies.
+102996: "Hey, could I use the microwave?" you ask.
+"No!" comes the reply.
+103048: "Don't you know smoking is dangerous?" you ask.
+"It's relaxing!" one of
+the sixth-formers protests.
+"Wish we had something more relaxing to smoke,"
+mutters another, glancing at you doubtfully.
+103190: "I bet I could kick your lazy arses at pool," you exclaim.
+"I bet we
+could kick your scrawny arse out of our common room," comes the reply.
+103294: "Do these bands even exist?" you ask, indicating the posters.
+"Listen,
+kid," says one of the sixth-formers. "One day you'll grow out of mainstream pop
+and start getting into serious bands."
+"Yes," you reply, "seriously fictional
+ones."
+103472: Some of them are prefects. You can't just hand over a packet of drugs
+in plain view.
+103532: You hand the ball to the nearest sixth-former, uttering the cryptic
+words, "Johnny Pike asked me to give you this free sample." A great cheer goes
+up from the sixth-formers as they bundle the prefects out of the room on
+various pretences. Cigarettes of a dubious nature are rolled and smoked.
+103736: This is a singularly uninspiring area of the school field, which
+extends north and west. The long grass is in need of mowing. To the south, the
+field gives way to tarmac.
+103860: You discover a soggy old tennis ball.
+103888: It seems to be greener on the other side.
+103920: You stand at the junction of two corridors, the main one connecting the
+tower (to the west) with the dining hall (east). A trail of muddy footprints
+originates from the battered glass doors that open north onto the playground.
+The reception area is south.
+104098: "Oof!"
+"Oh, excuse me."
+You bump into the head's secretary. You have
+barely got your apology out before she hurries into reception and through the
+staff room door.
+104228: These rain-spattered glass doors open onto the playground.
+104272: The doors are propped open all day. Having pupils open and close them
+was found to cost a lot in replacement glass.
+104352: There aren't any solid clods of mud among the shiny wet footprints
+today, which suggests that the marshy field has been declared "out of bounds".
+104456: Devoid of pupils and their cacophony, the Music room drowses in
+silence. A few rows of rickety tables await the next class. Some curiously
+shaped instruments are propped against the back wall; others lie in cases on
+the floor. A muffled hubbub comes from the dining hall, to the west.
+104706: Borogrund's, relying chiefly on hand-me-downs from the rest of the
+school. These old-fashioned tables even have slots for ink-wells.
+104808: You look at the instruments. A few are familiar to you, but others look
+more like instruments of torture than the musical variety. The last school
+concert only reinforced this impression.
+104940: No! The cases look like little coffins.
+104972: You cast a speculative glance at one brass monstrosity, but realise you
+wouldn't even know which end to blow into.
+105052: Leave the instruments alone. They're heavy, expensive, and fragile.
+105104: One or two keys are missing, but the piano seems to be in working
+order.
+105156: Never mind the piano. It's a red herring - wait, what's this?
+105204: You shift the piano slightly, but find nothing.
+105240: This is your Maths classroom. Its cream walls are plastered with
+unidentifiable pictures made from coloured paper - or, as political correctness
+would have it, "work done by some of the less able students". Unit bricks and
+fragments of plastic are scattered over the floor, and a cupboard is set into
+the west wall. Beneath a small skylight, a doorway leads north.
+105494: You grab the frame of the open skylight and slowly haul yourself onto
+the roof.
+105642: Borogrund's, either the pupils throw unit bricks around, or they start
+throwing calculators.
+105708: Thanks, but you already know how to count.
+105744: The remains of a "shatterproof" ruler, no doubt.
+105780: These shards of plastic are useless to you.
+105816: Plenty of lurid triangles, but they're not exactly Picasso.
+105860: You've never fancied yourself as an art thief.
+105896: It's a varnished wooden wall-mounted cupboard. Tasteful.
+105940: The square hinged window is filmed with dirt.
+105972: It is open, revealing a cloudless sky.
+106000: Opening it was a pain. You'd rather leave it open.
+106040: You stand on a chair and push at the skylight, but you aren't quite
+tall enough to push it all the way open. Perhaps a broom handle or some such
+implement would help.
+106156: You can't open the skylight with that.
+106184: You jab the pool cue skywards. Small pieces of moss and gravel rain
+into the room as the skylight falls all the way open.
+106268: Somebody must have confiscated this mobile phone: they're not allowed
+in lessons. It's in a trendy black and silver case and appears to be capable of
+doing sums and playing some stupid blocky game, but you don't have time to work
+out all the different modes.
+106448: You consider removing the batteries, but decide against it. They're
+probably weird, tiny ones that wouldn't work in anything else.
+106540: The mobile phone is switched off.
+106564: You've got nobody to call. No point wasting the batteries.
+106608: The first-year classroom is in a chaotic state. The pupils are doing
+every conceivable thing except work. A substitute teacher pleads ineffectually
+for silence. Above a sea of paper aeroplanes, a large window looks out across
+the playground. The door is south.
+106792: The substitute teacher is trying to establish some order in the
+classroom, but it's painfully clear that she doesn't know where to begin. She
+was probably knee-deep in paper aeroplanes by the time she finished announcing
+her name.
+106952: "Do you like our aeroplanes, Miss?" you ask in the best first-year
+voice you can muster.
+"Pick those up right away!" the teacher snaps
+unconvincingly.
+107062: "There's a lost first-year wandering the school," you say. "One of
+yours?"
+"How do you know?" demands the teacher. "Have you been sneaking out of
+my lesson?"
+107184: "Lively bunch of scallywags, aren't we?" you comment.
+"Yes, you little
+mother- I mean, your mother should buy you a blazer that fits," the substitute
+teacher improvises lamely.
+107314: "How's teaching?" you ask.
+"Get back to your seat!" orders the
+exasperated substitute.
+107384: , Miss?" you ask.
+"Yes! No! I don't care. Go and sit down!" says the
+teacher.
+107452: You have no desire to interact with these giggly menaces.
+107496: They're rather clumsily made. Still, the first-years haven't had your
+years of plane-building experience.
+107572: You pick up one of the paper aeroplanes and throw it. The plane
+nosedives back into the pile.
+107640: . You look down to the playground
+107700: . He seems to have been concussed by a dictionary. So much for the old
+assertion that "words can never hurt me".
+107780: You reach to close the window. At once, every girl in the room wails,
+"Leave the window open: it's hot in here!" You sigh.
+107872: You reach to open the window. At once, every girl in the room wails,
+"Don't open the window: it's freezing in here!" You are clearly outnumbered.
+107980: You heave the dictionary out of the window. It plummets down onto
+Bladdey's head and knocks him out for the count!
+108060: Throwing that out of the window wouldn't help.
+108096: This central region of the playground is known as the Mound, although
+the origins of that picturesque moniker are lost in the mists of time. The
+Chemistry lab is north, the Art block is west and the playground stretches to
+the east. There is a large grassy mound here.
+108284: The mound is a lush green island in a sea of bland tarmac. Regrettably,
+its idyllic slopes are out of bounds to pupils.
+108368: Climbing on the mound is forbidden, and it's visible from half the
+classrooms in the school.
+108432: This is the dining hall, a constant hive of activity since the
+introduction of sliding timetables and their multiple lunch periods. Teachers
+cower over their plates as the more unruly pupils catapult food at each other.
+Plates fly in and out of a hatch to the kitchen, located to the south. The
+library is north, the Music room is a fair distance to the east and a pair of
+swing doors leads west.
+108704: You leave the kitchen just in time to see your girlfriend Katie wander
+through the dining hall.
+"Hey, Rick, I'm going to the Art block to hand in some
+homework. Meet me there in a little while, okay?"
+She is gone before you can
+reply.
+108880: The pupils are sitting in close-knit social clusters in order to
+chatter, eat, and gesticulate, sometimes managing all three simultaneously.
+108980: The pupils pay no attention to you.
+109012: The teachers are tucking into their food with relish. Pupils tend to
+prefer ketchup. Anyway, you have to cover school dinners in something.
+109110: "Where can I find the cook?" you ask.
+"She's in the kitchen," says one
+of the teachers, waving her fork in that general direction.
+109208: "Good food?" you ask.
+The nearest teacher stifles a snort. "You're new
+around here, eh?"
+109276: "How do I get served?" you persist.
+"Give the cook some money. Tell you
+what, though, she should be paying us to eat this stuff."
+109374: "How's it going?" you enquire.
+"There is a general murmur of
+dissatisfaction.
+109434: "I can't believe how badly these kids are behaving!" you
+exclaim.
+"That's a good one, coming from Rick Hejlsberg," says your woodwork
+teacher.
+109558: redcough eat with the rest of you?"
+"Because he's a very kind fellow,"
+sneers the Religious Education teacher.
+The others snigger behind their hands.
+109672: The food doesn't look very appetising.
+109700: You can't run off with somebody else's dinner. Get your own!
+109748: The serving hatch connects the kitchen and dining hall.
+109788: It's not nearly big enough. If you want to go into the kitchen, you can
+just walk south!
+109852: The serving hatch is already open.
+109876: It's already being used for plates.
+109904: You peer through the serving hatch into a cloud of steam. "Mind out,
+love," comes the cheerful voice of the cook. "Hot dinners coming through!"
+110008: You are in a small, shadowy recess behind the blackboard. The brickwork
+is damp and blotched with mildew. You see daylight to the south.
+110108: There is an iron ring set into one of the bricks.
+110148: You've seen this powdery white stuff in the nastier parts of school
+before, but never in such quantities.
+110224: The school's swimming pool stretches before you, surrounded by an
+endless chequerboard of blue and white tiles. There is a grimy ring of green in
+the pool corresponding to a decrease in the level of water - popularly believed
+to be siphoned off by the school kitchen. A trail of large puddles marks the
+recently travelled route west from pool to changing rooms.
+110472: The thought of diving into that sludge isn't very appealing, and
+Redcough probably won't check up on you; so you decide against it.
+110572: The spilled water reflects the lights and chequered tiles.
+110616: The chequered tiles are stippled and shining with condensation.
+110660: Twenty metres in length, the pool is about two thirds full of greenish
+water.
+110716: You throw the caesium into the pool. The unopened jar bobs about
+harmlessly.
+110770: You hurl the open jar of caesium into the murky depths. Seconds later,
+a mushroom cloud of boiling water erupts up to the ceiling, to the
+accompaniment of an ear-shattering crash fit to wake the dead.
+
+Who said
+science can't be fun?
+110936: That would certainly go with a bang. Perhaps you should wait until you
+really need a loud noise.
+111004: No. It probably wouldn't work after that.
+111036: That's the wrong kind of pool, Einstein.
+111068: It's too late to put this fish back in the wild.
+111104: You won't get any good luck that way.
+111132: Throwing that in the pool would achieve nothing.
+111168: You are on a very muddy east-west path leading alongside the field. The
+deep-brown monotony is divided by a few waterlogged bicycle tracks. The bottom
+of somebody's garden is visible to the west. The entrance to the Maths block is
+south.
+111336: It's just too muddy. You're in enough potential trouble over your
+report without ruining your shoes as well. You'd need to put down a plastic
+sheet or something.
+111452: There's a test in progress. You peer in through the window in search of
+Oscar. He gives you a furtive thumbs-up sign.
+111536: Rain, feet and bicycles have turned the path into something of a swamp.
+It gets even muddier to the west.
+111612: The school car park, bordered by a row of large oak trees, is empty but
+for a few teachers' cars and a dilapidated minibus. You can go north to the
+languages block, west to the playground or east to the sixth form block. A
+metal door leads south to the changing room.
+111804: The spreading boughs of the oaks protect any vehicles parked below from
+rain, other than the occasional hail of acorns. Their upper branches sway
+gently in the breeze.
+112046: redcough's menacing "Careless work costs lives".
+112084: Better not. You don't want to set off any alarms.
+112124: The old school minibus is a veteran of four failed MOTs and a small
+fire.
+112176: You try the doors of the minibus, but they won't open.
+112216: This door leads to the changing rooms; its sturdy metal construction
+and proximity to the showers imbue it with vague, unpleasant connotations of
+Nazi Germany. To the chagrin of the girls, who claim that Bladdey the caretaker
+squints in at them, it is fitted with a standard keyhole.
+112416: You kick the metal door. It doesn't seem to care.
+112452: Without a key, you suspect it would be harder to lock this door than it
+was to unlock it.
+112516: You can't see anything through the keyhole, but you can hear that
+nobody's in there at the moment.
+112588: You insert the paper clip into the keyhole and jiggle it around.
+Eventually there is a click and the door swings open.
+112672: The squeaky floor of the gym, divided by coloured lines into courts and
+goal areas, bears a surreal resemblance to a London Underground map. The far
+wall is a disorganised blockade of gym equipment, with a basketball hoop
+suspended eight or nine feet above the mess. A climbing rope hangs invitingly
+from the ceiling. The changing room is east.
+112912: The floor is made of something beige and plasticky that squeals when
+you jump on it.
+112976: Blue gym mats, vaulting horses, benches, and related paraphernalia.
+You're really not interested in any of this.
+113056: The rope is very slightly frayed in places, but it looks safe enough.
+113104: The vandalised rope droops sadly, cut down in its prime.
+113144: You can't reach high enough to cut any more rope.
+113180: You can't cut a thick rope with plastic-handled school scissors!
+113228: Small shavings drift to the ground as you frantically saw at the rope
+with the kitchen knife. After a minute's work, the tail of the rope drops to
+the ground.
+113340: You've never been one for heights.
+113368: The basketball hoop projects from a miscellany of metalwork on the
+ceiling.
+113420: You miss the hoop. The soggy tennis ball lands with an unhealthy thump
+and makes no effort to bounce.
+113492: You are standing on the flat, gravelled roof of the Maths block. From
+this vantage point, you can see the tower, the playground, the car park, and
+most of the field. The only safe exit, however, is down through the skylight.
+113652: The cat has a cute ickle nose and pwitty fluffy fur.
+113688: It looks dissatisfied and hungry.
+113712: The cat gobbles up the scorched little fish and rubs against your legs.
+Mercenary.
+113772: You are about to offer the fish to the cat, when you remember that it's
+a red herring. It can't be of any use!
+113852: You don't like the look of those claws.
+113880: The cat, more agile than you are, keeps its distance.
+114428: Spend some time in every location, and examine anything that might be
+of interest. Talk to people: some of them will help you, but they might want
+something first. Collect items and use them creatively to advance in your
+quest.
+
+You can always 'save' your game progress and 'restore' it later.
+114636: A hollow voice says something obscene.
+114664: Please be more specific about what you want to do.
+114700: You don't smoke. You don't even have a lighter!
+114736: That doesn't need to be cooked again.
+114764: That doesn't need to be cooked again.
+114792: Nah. You're not a fan of Chinese food.
+114824: That's not really suitable for microwave cooking.
+114866: that's our microwave!" exclaims one indignant sixth-former. "You kids
+can't come in here and use it."
+114940: You wouldn't be able to steal cooking utensils from under the cook's
+nose. Anyhow, you're frightened of this kitchen. Everything seems to be made of
+scalding hot steel.
+115060: That isn't something you can play.
+115088: You lack the necessary musical skill.
+115116: Text adventure pool wouldn't be much fun.
+115148: You survey the computer room with a critical eye. Even if there were
+games on these relics, they'd probably be text-based. Ugh!
+115240: You don't know how to operate the mobile phone.
+115384: Hmm. The previous owner got most of the flavour out of it.
+115428: That's not something you want to chew on.
+115460: The mobile phone is switched off.
+115484: That's not a suitable digging implement.
+115516: You don't think there's any treasure down there.
+115552: You'd be caught if you started an excavation so close to the school
+buildings.
+115608: Frankly, you're afraid to dig around here any more.
+115648: You thrust the trowel into the burnt earth. Hey, there's some kind of
+silvery object down here. It's a universal translator!
+115740: You can't see any earth to dig into.
+115768: You don't see any flowers growing here.
+115818: Borogrund's School - a world of intrigue, mystery, deceit, and
+excruciatingly bad dinners. Above a scattering of ugly grey outbuildings,
+Borogrund's four-storey tower block rises to assault the eye in a bitter and
+largely futile attempt to get a second glance. 
+
+The end of term looms, and
+with it the prospect of your school report. Your parents have made it very
+clear that the report must praise you as a talented and conscientious
+individual. Being none of the above - but ever loyal to your parents - you make
+it your quest to seek out the offending report and... amend it. 
+
+Borogrund's
+isn't just a strange name. It's a strange place. Expect the unexpected. Predict
+the unpredictable. And for pity's sake, don't go into the staff room
+unprepared...
+116668: give" or test "has" or "hasnt" with a non-attribute on the object
+116716: , but it is longer than 2 bytes so you cannot use "."
+

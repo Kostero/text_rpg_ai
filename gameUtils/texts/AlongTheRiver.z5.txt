@@ -1,0 +1,703 @@
+35469: Identification number:
+36915: There is no reply.
+36952: Nothing is on sale.
+37405: Dropped.
+37553: . Not bad.
+38455: Wrahn seem interested.
+39591: Done.
+39674: You are carrying nothing.
+39789: Keep your mind on the game.
+39814: You hear nothing unexpected.
+40728: But it's dark.
+40745: You find nothing of interest.
+40803: Quite.
+40833: Nothing to do!
+40868: o. You have won
+40933: It is now pitch dark in here!
+40960: I beg your pardon?
+41024: Sorry, that can't be corrected.
+41053: Think nothing of it.
+41106: As good-looking as ever.
+41138: You can hardly repeat that.
+41163: You can't begin with a comma.
+41277: I didn't understand that number.
+41306: You can't see any such thing.
+41342: You aren't holding that!
+41383: I'm not sure what "
+41435: That's not a verb I recognise.
+41473: You can't see "
+41580: Nothing to do!
+41597: There are none at all available!
+42045: You must supply a noun.
+42068: You may not supply a noun.
+42093: You must name an object.
+42116: You may not name an object.
+42141: You must name a second object.
+42177: You must supply a second noun.
+42392: That was a rhetorical question.
+42419: Score notification off.
+42442: Score notification on.
+42814: You are unable to.
+42833: Nothing obvious happens.
+42973: That's not a direction.
+42996: Not that way you can't.
+43143: You lack the dexterity.
+43228: Done.
+43310: Please answer yes or no.
+43336: Are you sure you want to quit?
+43456: Removed.
+43487: Failed.
+43506: Restore failed.
+43523: Ok.
+43533: You achieve nothing by this.
+43565: Save failed.
+43580: Ok.
+43687: There is no score in this story.
+43748: Transcripting is already off.
+43814: Transcripting is already on.
+43880: But it's dark.
+43955: You find nothing of interest.
+44211: Your singing is abominable.
+44245: You smell nothing unexpected.
+44272: Oh, don't apologise.
+44301: Keep your hands to yourself.
+44326: You achieve nothing by this.
+44634: Taken.
+44645: You are always self-possessed.
+45157: You taste nothing unexpected.
+45191: You talk to yourself a while.
+45218: This provokes no reaction.
+45244: What a good idea.
+45270: Futile.
+45308: Keep your hands to yourself!
+45333: You feel nothing unexpected.
+45358: If you think that'll help.
+45669: Time passes.
+45712: That seems unnecessary.
+45834: You wave, feeling foolish.
+101151: Variable unavailable:
+101189: Variable stack offset wrong:
+101260: Variable stack offset wrong:
+108740: You can't move nothing.
+108778: You can't divide by zero.
+109191: Attempt to 'decide on nothing'.
+109225: Low level error.
+109375: The memory stack is exhausted.
+109417: Error handling external file.
+125456: After moving blanks to back:
+125507: Final state:
+133227: Pass 1:
+133239: Pass 2:
+133423: Pass 1:
+133435: Pass 2:
+133619: Pass 1:
+133631: Pass 2:
+133815: Pass 1:
+133827: Pass 2:
+134011: Pass 1:
+134023: Pass 2:
+134207: Pass 1:
+134219: Pass 2:
+134403: Pass 1:
+134415: Pass 2:
+134599: Pass 1:
+134611: Pass 2:
+134795: Pass 1:
+134807: Pass 2:
+134991: Pass 1:
+135003: Pass 2:
+135187: Pass 1:
+135199: Pass 2:
+135383: Pass 1:
+135395: Pass 2:
+135614: Pass 1:
+135626: Pass 2:
+135929: Pass 1:
+135941: Pass 2:
+136123: Pass 1:
+136135: Pass 2:
+136319: Pass 1:
+136331: Pass 2:
+136598: Pass 1:
+136610: Pass 2:
+136795: Pass 1:
+136807: Pass 2:
+137026: Pass 1:
+137038: Pass 2:
+137223: Pass 1:
+137235: Pass 2:
+137419: Pass 1:
+137431: Pass 2:
+137685: Pass 1:
+137697: Pass 2:
+137914: Pass 1:
+137926: Pass 2:
+138146: Pass 1:
+138158: Pass 2:
+138378: Pass 1:
+138390: Pass 2:
+138610: Pass 1:
+138622: Pass 2:
+138807: Pass 1:
+138819: Pass 2:
+139038: Pass 1:
+139050: Pass 2:
+139270: Pass 1:
+139282: Pass 2:
+139502: Pass 1:
+139514: Pass 2:
+139699: Pass 1:
+139711: Pass 2:
+139930: Pass 1:
+139942: Pass 2:
+140127: Pass 1:
+140139: Pass 2:
+140323: Pass 1:
+140335: Pass 2:
+140519: Pass 1:
+140531: Pass 2:
+140715: Pass 1:
+140727: Pass 2:
+140981: Pass 1:
+140993: Pass 2:
+141175: Pass 1:
+141187: Pass 2:
+141371: Pass 1:
+141383: Pass 2:
+145478: in" or "notin
+145494: opmhas" or "hasnt
+145636: }" at end of "objectloop
+147232: Score:
+147240: Moves:
+147248: Time:
+147256: You can't go that way.
+147380: Violence isn't the answer to this one.
+147408: This dangerous act would achieve little.
+147436: I don't think much is to be achieved by that.
+147496: There's nothing suitable to drink here.
+147524: You can only get into something free-standing.
+147596: You see nothing unexpected in that direction.
+147628: But you aren't in anything at the moment.
+147688: You'll have to say which compass direction to go in.
+147728: You can't put something inside itself.
+147756: You jump on the spot, fruitlessly.
+147812: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+147908: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+147992: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+148104: You see nothing unexpected in that direction.
+148300: Please give one of the answers above.
+148328: [You can't "undo" what hasn't been done!]
+148364: [Can't "undo" twice in succession. Sorry!]
+148404: "Oops" can only correct a single word.
+148432: It is pitch dark, and you can't see a thing.
+148464: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+148524: You seem to want to talk to someone, but I can't see whom.
+148568: To talk to someone, try "someone, hello" or some such.
+148608: I didn't understand that sentence.
+148668: You seem to have said too little!
+148692: You can't use multiple objects with that verb.
+148728: You can only use multiple objects once on a line.
+148764: You excepted something not included anyway!
+148796: You can only do that to something animate.
+148828: That's not something you need to refer to in the course of this game.
+148876: I didn't understand the way that finished.
+148908: Sorry, you can only have one item here. Which exactly?
+149008: You may not name a second object.
+149032: You may not supply a second noun.
+149056: You must name something more substantial.
+149088: The use of UNDO is forbidden in this game.
+149120: That noun did not make sense in this context.
+149244: That would be less than courteous.
+149296: You can't put something on top of itself.
+149328: Are you sure you want to restart?
+149352: Attempt to end transcript failed.
+149376: Attempt to begin transcript failed.
+149404: You aren't feeling especially drowsy.
+149432: Real adventurers do not use such language.
+149464: There's nothing sensible to swing here.
+149492: You're carrying too many things already.
+149524: You lack the nerve when it comes to the crucial moment.
+149564: You would achieve nothing by this.
+149616: The game file has verified as intact.
+149644: The game file did not verify as intact, and may be corrupt.
+149688: The dreadful truth is, this is not a dream.
+153896: I didn't understand that sentence.
+154152: Too many procedural rules acting all at once.
+154186: Too many rulebooks in simultaneous use.
+154218: Too many timed events are going on at once.
+154384: Too many activities are going on at once.
+154414: Tried to abandon an activity which wasn't going on.
+154454: Tried to end an activity which wasn't going on.
+154492: You can't remove nothing from play.
+154520: Tried to access property for a value which didn't fit:
+155130: Attempt to see if a snippet of text matches something which is not a
+topic.
+155186: Attempt to find route or count steps through an implicit relation.
+155236: Attempt to use a property of the 'nothing' non-object.
+155326: Attempt to ignore the turn sequence rules.
+155502: The list-writer has run out of memory.
+155534: Attempt to remove the player from play.
+155566: Attempt to remove a door from play.
+155594: Attempt to change the player to a person off-stage.
+155634: Phrase applied to an incompatible kind of value.
+155672: Memory allocation proved impossible.
+155700: Attempt to use list item which does not exist.
+155734: Syntax error in regular expression.
+155762: This interpreter does not support Unicode.
+155796: Only backdrops can be moved to multiple places.
+155930: You can't take the square root of a negative number.
+171872: He looks like a stereotypical construction worker - yellow hardhat,
+fluorescent shirt.
+171936: They still have the corks, but alas, no wine.
+172728: old, or it needs a key. Just by the keyhole, you presume the latter.
+172924: "A costume? I don't have one. But if you're doing a rally then you
+could always borrow some diving gear from around here."
+173012: "Ah, twas a loverly green, a loverly green boat. Now all I have left
+are these flippers and this snorkel... I even lost me key. Give anything for me
+key."
+173128: "But," you ask, "How may I ever reach the land behind that gate? I have
+no key."
+173192: "Chyea, I'll sign that...." He signs it.
+173228: "Contract? To stop the dredging? Fine. I drafted it for you. Here, it's
+legal if he signs it - I put myself as the witness, I guess..."
+173332: "Costume? Yeah, I'm a tree. Why aren't you in costume?"
+173380: "Environment team GO!"
+173400: "Finally... Progress... A map... Now I don't need my binocugoggles
+anymore!"
+173464: "Gee, I'm bored. Oh, uhh... Ice cream is 5 Bucks.
+173508: "Hi! I work for the council, on stormwater!" Before you can talk, he
+continues. "But I lost my papers!"
+173588: "I told you, my mother might have a costume in her car. The only car in
+the game."
+173648: "I used to have a key, but I traded it to my..." She looks shifty. "Uh,
+try the guy beneath the fig tree in the playground."
+173780: "I'm always on the looks outs for aliens and alien artifacts. If you be
+seeing any of them, bring "em to me."
+173860: "I'm not talking to you if that's all you have to say."
+173904: "I'm playing here. I just wish I could play somewhere with a larger
+crowd..."
+173964: "Ice cream? Right... Here you go! You're lucky you bought it just now
+174020: "In her car. It's a silvery-grey Horizon."
+174056: "Is that... Alien?"
+174076: "It's a long story," you reply, "Know where I can get one?"
+174124: "Just get him to sign that."
+174148: "Just speak to the guy under the fig tree!"
+174180: "Little girl, you're a bit young for drugs, aren't you?"
+174224: "Little girl, you're a little young for drugs, aren't you?"
+174272: "MMMM!!! I love sugar!" He drifts off.
+174308: "Man, I wish we could fill that hole. There's nothing to be found on a
+day like today!" Closer inspection of the pipe reveals a small hole in it,
+wider than your finger.
+174432: "Me key! Me key! Here, take me gear, I don't need it anymore! TAKE IT!
+I LOVE YOU!"
+174508: "My letter? For me? Where... Oh... this letter... Here, keep quiet -
+take five bucks."
+174580: "My papers! Thanks! I'll do anything to repay you!"
+174620: "Now that hit the spot! Delicious!"
+174648: "Right then! I shall stop the dredging!"
+174680: "Rightio, people! Ready to begin!?"
+174712: "Some'n nicked me boat! Me boat!"
+174740: "Spare costumes. She might have a spare costume."
+174780: "That old thing? Here you go. Now, I gotta shoot through..."
+174828: "That's it? Oh, well... I have this glue..."
+174868: "There's only one reason I'm actually here... I don't really care about
+the dredging, really."
+174940: "This dredging thing is terrible!"
+174968: "Ugh. Car. In. Go."
+174988: "Uh, my mother might have one." Sandy replies. "She usually carries
+spares."
+175048: "Well, I wanted sugar in my coffee, and they're all out! That's why I'm
+annoyed!"
+175136: "Wow! That's a huge crowd! I'll play over there!"
+175176: "Wow, you fixed it! Great! I don't have anything to give - a wrench!
+Take my wrench! It's so very useful!" He gives you the wrench in his pocket.
+It's horribly warm.
+175300: "Yeah... I'm a lawyer." He looks pretty depressed.
+175344: "Yuk! Soft serve! That kind of rubbish is over processed and
+disgusting!"
+175460: , type "clues on dredger" and type "clues on mayor" for help about
+175508: , type "clues on marina". For help about
+175540: , type "clues on pipes". For help on
+175624: . The north entrance is closed. The only thought clouding your mind is
+whether they serve the fish raw, as there doesn't seem to be a kitchen.
+175724: . There's a great looming gate in the way, though.
+175968: A bit old for you, isn't he?
+175992: A blue wrapper from a oddly named "River Ice Cream Confectionary
+Lolly", purportedly a type of ice cream.
+176072: A brass keyhole.
+176084: A burst pipe in the road is squirting upwards at an alarming rate.
+176156: A contract to stop the dredging. It has been signed by yourself and a
+lawyer.
+176228: A great big looming gate. Or is it a door? Whatever it is, it needs a
+key. It looks kinda evil for some reason.
+176308: A half empty tube of superglue.
+176332: A large bag of sugar is on the ground.
+176360: A lawyer appears to be browsing suits.
+176388: A letter to Adrian. It is not stamped.
+176420: A paper disposable cup from Twisted Fish.
+176452: A plastic rectangle with "No Dredge Pledge" scrawled on it. It used to
+be part of your picket sign...
+176528: A red, faded letterbox.
+176548: A shiny metal disc with odd symbols on it.
+176580: A shiny piece of metal in a disc shape... You pocket it.
+176640: A sign is posted over some pieces of gold-coloured metal. "TREASURES
+FROM THE DEEP". How deep? How valuable? Many questions will never be answered.
+176792: A standard-issue wrench. It has the amazing property of being able to
+fix any machine, within reason.
+176864: A sweet bowl rests on the counter. It contains some sweets.
+176908: A wrapper from an ice cream floats across the ground.
+176948: Adrian is here and even in costume (a box) he is still wearing his
+signature hat.
+177020: Adrian's hat is a hat with ADRIAN written across it, but he somehow
+pulls it off without looking like he's up himself. Classy.
+177116: Again, wharfs are generally surrounded by water. This is a GAME. You
+can't swim.
+177180: Ah, the playground brings back memories. Jail in the steel maze.
+Swinging on the swings. Naturally, the playground itself hasn't changed a bit,
+and is still here with its underwater-themed jail maze.
+177324: All ready! Now I just need to get to the green.
+177372: Along the River is largely plot driven with puzzles that make no sense.
+If you want to ask for help about
+177448: An ice cream machine sits forlornly in the corner.
+177484: And if you have an item that does something unique and has an odd name,
+try using it when in the same room as the piper.
+177568: And where do you expect to get the soap from!?
+177604: Anything?
+177612: Argh! There is a really annoying sound... those horrid pan-pipes!
+177664: Bill Clinton's toupee! Oh, wait, just dust.
+177700: Binocugoggles! Magnifying since 1952!
+177732: Boat, boat, boat, boat, boat, boat, GOOSE! A goose! In an empty gap
+where a boat is definitely not, there is a goose.
+177824: By ducking under the chain you access the ferry. It is fairly dark on
+board. You can see the dredging machine just out of reach of the ferry.
+177924: Cheap and semi-transparent, not in a good way.
+177960: Coffee stop is a standard coffee location, except for the fact that
+there are no chairs.
+178024: Drugs are just not good for a girl your age.
+178056: Environment rally. You don't wanna be seen destroying such a tree as
+that.
+178112: Ewww! He'd taste terrible!
+178136: Finally you spy a little button on it, and on pressing it, a piece of
+paper falls out. The key remains functional, and you have a slip of paper.
+Hooray!
+178244: Five bucks.
+178256: He doesn't have anything more to say to you, or a very long attention
+span, either.
+178316: He has black hair hanging down to his armpits. His irritating
+ballooning pants are a combination of striped red, yellow and green. He is
+playing annoying panpipes.
+178432: He manages stormwater, not dredging, if you are thinking of killing
+him.
+178484: He pours his coffee directly into the sugar, and pours the lot down his
+throat.
+178540: He pulls them up to his eyes.
+178564: He runs in that direction, the horrible sounds he was making leaving
+with him.
+178620: He smells... marky.
+178636: He tosses them aside.
+178652: He turns away.
+178664: He's definitely shady. Is he concealing something in his coat?
+178712: His only defining feature is his tin foil hat. And his nose.
+178756: I'd really like if it was cooler today...
+178792: In the distance you can see a faint crowd.
+178824: In this game, to talk to people about any topic, just use the command
+TALK TO {person}.
+178896: In this game, use the TALK TO {person} command.
+178940: It appears to be empty.
+178960: It appears to be producing fine smooth ice cream.
+178996: It doesn't reply, but then, you weren't expecting it to either.
+179072: It is smoking violently.
+179092: It pushes easily open.
+179108: It says, "Xyzzy, plugh, irvaj, plover." Very very odd.
+179152: It won't fit.
+179164: It's a silvery-grey Horizon, currently discontinued. It looks tattered.
+179220: It's a silvery-grey Horizon, with a mouldy smelling interior, messed up
+door handles and pixels missing from the dashboard. It happens to be owned by
+Sandy's mother Shelly, who is also in the car. It is in the car park, which is
+179384: It's already on and doing what it does.
+179452: It's an ornate key. Apparently, it opens the Marina Gate.
+179496: It's broken, and switching it on or off is not doing anything but
+making a hilarious clicking noise.
+179568: It's broken. It won't work. EVER.
+179600: It's his, not your's, and he needs it more than you.
+179660: It's not yours.
+179672: It's shiny and protects the brain from extraterrestrial mind reading.
+179720: It's shut, at this hour of the day.
+179748: It's so hot today. So very hot
+179772: It's vibrant red, at least, it would be if it was newer.
+179816: It's your picket sign. It reads "No Dredge Pledge". You really haven't
+been good at phrasing in the past and now is no different. It's made up of a
+piece of plastic attached to a wooden stake.
+179956: Just a plain cardboard box. You wish you'd thought of that.
+180008: Just like the ones down the road, but bigger.
+180040: Just rows and rows of generic clothes.
+180084: Lilly is currently dressed in a black 32 Flavours apron and a black 32
+Flavours hat.
+180180: Lots of things happen at once, you know. Lots of things. In fact,
+everything you do seems to take the exact same amount of time, and happen all
+at once. It's so odd.
+180300: MESSED. UP.
+180316: Main Street would normally stretch east and west (like most things in
+this town) but today there only remains a small fraction for pedestrians, due
+to roadblocks for a triathalon or something.
+180452: Mark Edenbank deflects your blows with his super-fast ninja skills.
+180500: Mark Edenbank, a council representative, is standing in the foyer.
+180560: Mayor Shepford is here and he looks mightily annoyed.
+180600: Mayor Shepford returns to normal.
+180624: Mega Shop is your one stop shop for all of your shopping needs!
+(Disclaimer: Mega Shop may not be a/an one stop shop for your/other
+shopping/browsing needs). There are rows and rows of clothes.
+180810: ppears. "Lets get going!"
+180880: Murder is frowned upon in most countries, unless you're possessed by,
+like, John DeFoe or something.
+180956: Murdering a drug dealer is still a crime.
+180988: No branches you can reach...
+181012: No matter how hard you push or pull, the car does not budge.
+181056: No matter how hard you try, you simply cannot open the key. It just
+doesn't seem to want to open. How odd.
+181132: Nope, Waldo ain't here.
+181172: Nosey.
+181180: Not interested in the slightest.
+181204: Now that would look rather odd from the inside. Or the outside, for
+that matter.
+181264: Now that you are at the final destination of the rally it is officially
+over. However, you have accomplished nothing and realise that soon the council
+will begin dredging anyway. Perhaps you can find a way to stop the whole
+dredging movement...
+181436: Now that you are at the final destination of the rally, you check out
+the surrounding, peaceful scenery...
+181512: Nutty.
+181520: OUCH!
+181544: Oh dear. It's so so hot
+181564: Oh no! The dredgers! They've started early! I have GOT to stop them!
+181620: Oh no! You were supposed to be in costume! Wait - is that Sandy on the
+wharf? Surely she would know what to do. You do
+181712: Once again, there are two ways to stop the dredger. Put some sugar in
+it's petrol tank, or convince a guy from the council to stop it for you. Your
+choice.
+181824: Please press SPACE to continue.
+181852: Protest, remember? Gotta keep appearances up.
+181932: Red and yellow barriers filled with concrete powder. Water isn't in the
+council's budget, anyway.
+182044: Sand islands, each one a pristine environment with such wildlife as
+yabbies and small fish. The fish are in the water, not on the sand, you
+understand.
+182160: Sandy is so named from her sand-coloured hair. It's a nickname, you
+see, not her actual name.
+182228: She organised the whole rally, after considerable effort. No-one seems
+to care about the environment these days.
+182308: She takes a deep, unnecessary breath before continuing. "Maybe there's
+some in one of the boats behind that giant gate."
+182396: Shelly sits in the front seat of her car. She's bored out of her mind,
+but has to make sure Sandy isn't seeing any boys here.
+182488: Shelly's name is actually derived from her daughter's. She sells
+seashells, after all.
+182552: Shiny with the wear of a thousand souls - uh, soles.
+182592: Smaller-than-usual corks, about the width of your finger.
+182636: Smooth, soft serve ice cream in a disposable paper cup.
+182676: So you want to get into the marina. You need a key. Have you spoken to
+Sandy yet? >TALK TO SANDY. Follow her instructions to get the key, then unlock
+the marina gate with it. Simple. Then just don the gear and you're set.
+182844: Some ice cream is here.
+182864: Some small, hypersugary sweets are in a small, wooden bowl on the
+counter.
+182968: Tall, wonderful trees of an indeterminate species.
+183004: That would be cannabalism, and is frowned upon in today's culture.
+183052: That would be theft. THEFT!
+183076: The Alma Schooner, or at least the bit you can see, is mainly wooden
+planks sealed with a black substance, as dark as pitch. There is a trapdoor
+here but it appears to be fake and other than that there is no where else to go
+but
+183236: The Council Headquarters is a large, glass building, where people
+attack other people using words, despite the adage. There is a spectacularly
+polished wooden floor, and no visible way of reaching higher levels.
+183384: The Marina itself is rather unimpressive, just a large row of boats.
+183436: The Nielson Wharf is a pretty drab thing, just wooden planks really,
+heading out into the river and then bending around. There's a large ugly ship
+parked at the wharf (that's
+183560: The Town Green really is the centre of the town. Everything just
+branches away from it, really. Tall trees surround you.
+183672: The burst pipe has a stake sticking out of it. It seems to be blocking
+the water.
+183732: The burst pipe is already fixed.
+183756: The caravan park has no visible means of vehicle entrance, so how the
+caravans reach it elude you. However, that fact shouldn't matter as most of
+these caravans have been here for years, and one has a letterbox.
+183904: The dredger appears to be powered by a combination of petrol (which you
+can tell by the open petrol cap) and a landline electrical current, judging by
+the power cable stretching over to the council. And no, it is uncuttable,
+before you think of that.
+184080: The dredger, for a reason unclear, explodes due to the sugar in its
+petrol tank. Hooray! Perhaps now the council will think twice about dredging
+the river!
+184192: The ferry port is where the ferry leaves to the other side of the
+river. However, the ferry is out of order today, judging by the sign. It looks
+as if you can duck under the chain, to the
+184396: The gate is much too high and slippery and flat and... Look, you can't
+climb it.
+184456: The gloomy clouds are shadowing the river.
+184488: The glorious Park Green astounds you. Tall trees surround you. To the
+184540: The glue is dry to the touch.
+184564: The goose will not like that. You must always please the goose.
+184612: The group of protesters move east...
+184640: The group of protesters move south...
+184668: The header reads "planning guidelines".
+184700: The ice cream machine is like a chunk of metal with a tube sticking
+out. It has a nut on the side.
+184768: The key slides neatly into the lock. You turn it, and the gate pushes
+easily open.
+184828: The keyhole is one of them newfangled ones which you can't look
+through. And besides, who are you, Poirot?
+184904: The main part of the shopping centre is a large dome shape with a glass
+ceiling. There's a function on to your east and west, and the gun shop is
+closed, so the only ways you can move are
+185036: The mayor wants sugar, and you want to make him sign the contract. Do
+it all while he's under the sugary influence.
+185120: The only benefit to this distaste is that you can eat the ice cream
+yourself.
+185176: The other way... Easily enough solved by something you'll find in the
+caravan park.
+185236: The petrol tank is open.
+185256: The pipe is surrounded by a freshly dug hole in the street. It may
+never be filled.
+185316: The pipe player chases after you and snatches the panpipes back. He
+can't remove the corks! Finally, you have shut him up.
+185404: The pipe player chases after you and snatches the panpipes back. He
+removes the corks.
+185464: The pipe player chases after you and snatches the panpipes back.
+185508: The ship just looks out of place in the corroding wharf, that's all.
+According to the white text painted on the side (Arial?) it is called the Alma
+Schooner.
+185624: The sky sure is gloomy today.
+185648: The wharf is chiefly white, but time has flaked away a fair amount of
+the paint. From here you can see numerous sand islands and boats. It's a
+beautiful sight. To the
+185768: The wine corks just slip out again. They aren't wide enough.
+185812: The wrench is rendered uneffective by the fact the machine works.
+185860: There are some papers in the tree.
+185884: There are some wine bottles in the corner.
+185916: There are two parts to the gear, a snorkel and some flippers. The
+snorkel is yellow and blue, and the flippers are a loverly, vibrant green.
+186016: There is a crazy old man standing next to an empty boat spot. He sure
+looks crazy.
+186076: There is a cup filled with soft-serve ice cream, deliciously smooth.
+186124: There is a horribly annoying sound here - that being pan-pipes,
+horrible pan-pipes.
+186184: There is a man here in funny-looking parachute pants. He is playing a
+set of (extremely annoying) panpipes.
+186260: There is a shady looking man under the fig tree.
+186320: There is an old man sitting on a fold-up chair in front of a caravan.
+He has a tin-foil hat.
+186388: There is nothing to look at.
+186408: There isn't a waiter-dude around.
+186436: There stands a proud fig tree here, no doubt hundreds of years old.
+186484: There's two ways to solve this puzzle with two different outcomes. You
+can either nicely get him to be quiet, or you can forcefully shut him up. Have
+you tried taking his pipes? He keeps snatching them back? Shame. Maybe you need
+to plug them with something..? Maybe you need to glue that something in place?
+Perhaps solving one person's problem will solve another's. That leaking pipe,
+for instance, has a hole in it larger than your finger, but about the same
+width as your picket sign.
+186828: They are driving you BONGO!
+186852: This goose is also a type of fish.
+186876: This is definitely not the place to do that. You want a bar, or
+something.
+186932: Tubey.
+187064: iner-esque furniture and self-assembled plastic, as well as treasures
+from the deep (as the sign says). There appears to be just one large room, with
+two large gaps in the wall to the north and the
+187204: Unnecessary.
+187216: Until the rally starts back up, there isn't much to do, really, and you
+can't relax with those pan pipes around... You decide to do everyone else here
+a favour, and get rid of that pan-pipe player.
+187356: Useless, reckon.
+187440: Violence is one of the things you dislike. That, dredging, and those
+songs that get stuck in your head.
+187516: Well, if no one else wants it you may as well...
+187628: has organised a protest against it. You are planning to take part in
+that protest. You are supposed to meet at the marina, and then walk...
+187744: YOU WALK SLOWLY TO THE CAR PARK. You find capitals are necessary. The
+gate closes behind you. In another universe, a house is razed to the ground
+shortly before the planet. This requires thinking.
+187900: Yep, looks like tar.
+187916: Yep. Definitely Mark Edenbank.
+187940: Yep. Definitely not there.
+187960: Yes, there is definitely not a boat in that boatless gap.
+188004: You -just- can't reach.
+188024: You already opened it and retrieved a small piece of paper.
+188068: You always did talk to yourself. Shame.
+188124: You aren't going to leave here directly.
+188156: You aren't that desperate, and anyway, that would flag him on the
+pedophile list.
+188216: You aren't the police; besides, you already know what he conceals under
+his coat.
+188356: D. But then, she organised it.
+188380: You back away slowly.
+188412: You can tell it's fake due to the edges, and from seeing a lot of fakes
+in your time.
+188472: You can't reach.
+188488: You choose to enquire about his boat.
+188516: You don't have any.
+188532: You don't have the gate key.
+188556: You don't have the panpipes.
+188580: You don't have them.
+188596: You don't just get into someone else's car.
+188628: You don't know exactly why a letter addressed to Adrian would be found
+inside the letterbox, but it was.
+188704: You don't need to return to the marina; and besides, you are supposed
+to stay around the Town Green.
+188852: You explain that in a game such as this giving an item is usually
+rewarded with an item.
+188912: You explain that you just want the key.
+188940: You hand him the binocugoggles and point.
+188992: You have nothing to fix it with.
+189016: You might need it later.
+189036: You might need it.
+189052: You might need to put it on something else, first.
+189088: You nod. That ice cream machine was pretty alien.
+189124: You pick up your picket sign - "No Dredge Pledge". You have never
+really been good at phrasing. Holding it high above your head, you march to the
+first destination, the breakwall, and the true centre of town.
+189276: You pick up your picket sign - "No Dredge Pledge". You have never
+really been good at phrasing. Holding it high above your head, you march to
+your intermediate destination, the breakwall, and the true centre of town,
+whereupon the group spreads out.
+189456: You push hard on the door. It refuses to budge. Either the door is
+189504: You ram the end of the picket sign into the burst pipe, blocking the
+rushing water from leaving. The plastic bit of your sign falls off into your
+hand.
+189608: You really are smaller than most people, and wouldn't stand a chance in
+a fight.
+189664: You shout "IRVAJ!" and nothing much happens. It does, however, restore
+a large sense of Deja Vu.
+189740: You shout "PLOVER!" at nothing in particular. Suddenly, everybody
+gathers and starts shouting, "Where? Where!?". Out of the crowd you recognize a
+small man in a dressing gown, holding an empty cup of tea. Just like that, they
+are gone again.
+189920: You shout "PLUGH!" at a small dog near your feet. It looks at you
+briefly, cocks it's head and says "Fool!" before scurrying away.
+190020: You shout into the wind, "XYZZY!". The wind shouts back at you,
+"Fool!". Or that's how it sounded, anyway.
+190108: You slide the corks into the panpipes. They stick.
+190144: You slip the sugar-filled sweets into the tank. That'll stop it from
+working!
+190200: You slot the corks into the panpipes.
+190228: You snatch the panpipes off of the Pipe Player.
+190264: You stretch out the rubbish pincers, and -just- reach.
+190304: You take down the papers in the tree using the pincer.
+190344: You twist the nut on the side of the machine. It coughs, then shoots
+out a steady stream of creamy and smooth ice cream! You take some with a
+handily placed cup.
+190496: You would blackmail him, but you aren't in the mood.
+190536: You'll kill it to death!
+190556: Your friend Lilly is behind the counter, in a 32 Flavours apron and
+hat. She is currently
+190624: Your teeth bit into something hard, and you spit it out into your hand.
+191116: This story file does not use a heap of managed memory.
+191436: give" or test "has" or "hasnt" with a non-attribute on the object
+191484: , but it is longer than 2 bytes so you cannot use "."
+

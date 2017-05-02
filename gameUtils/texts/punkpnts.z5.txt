@@ -1,0 +1,1982 @@
+18281: Nothing to do!
+18316: o. You have won
+18399: It is now pitch dark in here!
+18426: I beg your pardon?
+18490: Sorry, that can't be corrected.
+18519: Think nothing of it.
+18572: Leave narcissism for the preps.
+18608: You can hardly repeat that.
+18633: You can't begin with a comma.
+18747: I didn't understand that number.
+18776: You can't see any such thing.
+18812: You aren't holding that!
+18854: I'm not sure what "
+18906: That's not a verb I recognise.
+18945: You can't see "
+19053: Nothing to do!
+19070: There are none at all available!
+19980: Please answer yes or no.
+20006: Are you sure you want to quit?
+20051: Failed.
+20071: Restore failed.
+20088: Ok.
+20106: Save failed.
+20121: Ok.
+20165: Transcripting is already on.
+20231: Transcripting is already off.
+20289: Score notification on.
+20310: Score notification off.
+20333: You have visited:
+20361: Objects you have handled:
+20386: None.
+20770: You are carrying nothing.
+20819: Taken.
+20830: You are always self-possessed.
+21363: Dropped.
+21471: Removed.
+21610: You lack the dexterity.
+21691: Done.
+21957: Done.
+22177: Wrahn seem interested.
+22816: You can't go that way.
+23376: But it's dark.
+23393: You find nothing of interest.
+23429: But it's dark.
+23520: You find nothing of interest.
+24648: . Not bad.
+24666: That was a rhetorical question.
+24720: That seems unnecessary.
+24743: Keep your mind on the game.
+24768: What a good idea.
+24787: You smell nothing unexpected.
+24814: You hear nothing unexpected.
+24839: You taste nothing unexpected.
+24874: Keep your hands to yourself!
+24899: You feel nothing unexpected.
+24924: If you think that'll help.
+25033: Oh, don't apologise.
+25063: Quite.
+25132: You achieve nothing by this.
+25220: You wave, feeling foolish.
+25370: You are unable to.
+25389: Nothing obvious happens.
+25439: That's not a direction.
+25462: Not that way you can't.
+25494: Keep your hands to yourself.
+25519: You achieve nothing by this.
+25552: Futile.
+25581: You talk to yourself a while.
+25608: This provokes no reaction.
+25636: There is no reply.
+25655: Nothing is on sale.
+25674: Your singing is abominable.
+25708: Time passes.
+49218: This room is messy enough!
+49465: You like the way you smell now.
+49514: This room is messy enough!
+49561: You can't see a plug here.
+49679: A red and black noose.
+49750: You're already standing.
+49829: You're already sitting.
+50214: The prayers drone on.
+50248: The prayers drone on.
+50282: The prayers drone on.
+50316: The prayers drone on.
+50603: You skulk back to your seat...
+50642: Why bother?
+50725: Littering's a little petty, no?
+50763: It's too full.
+51218: That won't fit.
+51370: It's loud.
+51529: Another house song.
+51548: A rock ballad.
+51568: A ska song. Jackson dances.
+51834: Quite locked. Naturally.
+51960: It won't fit.
+52109: You don't want to be a mooch.
+52380: Stu gives you a chin-jut nod.
+52458: You don't want to be a mooch.
+52506: Stuart rants about Pannus.
+52533: Stu yawns.
+52548: Stuart scratches his pits.
+52594: You don't want to be a mooch.
+52962: You don't want to be a mooch.
+53019: "Sorry man, I'm all out."
+53109: "Use it well, young Skywalker."
+53136: He looks at you with confusion.
+53569: You clamber up to the window...
+53750: Locked up for the night.
+54304: The scratching continues.
+54536: Pannus has locked her down.
+55180: It's clean, if a little cloudy.
+55209: It's shiny.
+56685: Don't bother with that.
+56704: Taken.
+56729: With what?
+56930: Flush what?
+59840: in" or "notin
+59856: opmhas" or "hasnt
+59998: }" at end of "objectloop
+61444: Score:
+61452: Moves:
+61460: Time:
+61468: You can't go that way.
+61800: Please give one of the answers above.
+61828: [You can't "undo" what hasn't been done!]
+61864: [Can't "undo" twice in succession. Sorry!]
+61904: "Oops" can only correct a single word.
+61932: It is pitch dark, and you can't see a thing.
+61964: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+62024: You seem to want to talk to someone, but I can't see whom.
+62068: To talk to someone, try "someone, hello" or some such.
+62108: I didn't understand that sentence.
+62168: You seem to have said too little!
+62192: You can't use multiple objects with that verb.
+62228: You can only use multiple objects once on a line.
+62264: You excepted something not included anyway!
+62296: You can only do that to something animate.
+62328: That's not something you need to refer to in the course of this game.
+62376: I didn't understand the way that finished.
+62408: Sorry, you can only have one item here. Which exactly?
+62560: Are you sure you want to restart?
+62584: The game file has verified as intact.
+62612: The game file did not verify as intact, and may be corrupt.
+62656: Attempt to begin transcript failed.
+62684: Attempt to end transcript failed.
+62708: You're carrying too many things already.
+62740: You can't put something on top of itself.
+62772: You can't put something inside itself.
+62800: That would scarcely empty anything.
+62856: You can only get into something free-standing.
+62892: But you aren't in anything at the moment.
+62924: You'll have to say which compass direction to go in.
+62964: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+63060: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+63144: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+63320: This dangerous act would achieve little.
+63348: Nothing practical results from your prayer.
+63380: The dreadful truth is, this is not a dream.
+63412: Digging would achieve nothing here.
+63440: You jump on the spot, fruitlessly.
+63468: You would achieve nothing by this.
+63492: There's nothing suitable to drink here.
+63520: But there's no water here to carry.
+63548: Real adventurers do not use such language.
+63580: Violence isn't the answer to this one.
+63608: There's not enough water to swim in.
+63636: There's nothing sensible to swing here.
+63664: That would be less than courteous.
+63688: Is that the best you can think of?
+63712: You lack the nerve when it comes to the crucial moment.
+63752: I don't think much is to be achieved by that.
+63784: You aren't feeling especially drowsy.
+63870: The half-power night florescents give your surroundings an eerie colour.
+63924: The half-moon seems to have a sickly glow, but that might be your nausea
+talking.
+63984: You're in a dark, poorly lit and packed club. Everyone's staring at the
+band as they go about tuning and shifting their instruments. The guy next to
+you has a mohawk that flops over to the side, as if the heat had wilted it. In
+contrast, the skinhead in front of you is reacting to the heat like a Mexican
+jumping bean, the muscles of his back tensing and releasing, tensing and
+releasing.
+64254: Before you can do anything, the band explodes into action. The crowd
+coalesces into a single entity and leans towards them, falls back, ripples
+spastically. Being part of this lurching creature makes your spine
+tingle.
+
+You're pressed from all sides by people suddenly activated by sound --
+but you can't hear anything. You can practically feel the sonic waves, see it
+on the faces of the people around you... You strain to hear the music... 
+
+The
+guy with the mohawk plants his boot in the skinhead's linked hands. His pierced
+nostrils flaring, hands gripping the skinhead's shoulders, he launches himself
+on the crowd. Improbably, they hold him aloft as he rolls over a bed made of
+their shoulders, heads and outstretched hands. You can't quite believe what
+you're seeing, and suddenly you hear something:
+
+"Honey?"
+
+You whip around and
+look to see who spoke, but there's nothing except the unremarkable brick wall
+of the club lined with people standing on chairs to get a better view. None of
+them are looking at you.
+
+You look back. The guy with the mohawk is still
+rolling over the crowd, but for some reason he's got a tie on. And his blue
+hair is flickering like flames. The skinhead offers his linked hands to boost
+you up, and you quickly put your foot in. But your foot is bare. He looks at
+you, his dark eyes questioning. You realize with dawning horror that it isn't
+just your foot that's bare -- you're  in your underwear. You feel, rather than
+see, the eyes of the people in the crowd move towards you, brace yourself for
+the mocking laughter sure to ensue... 
+
+"Honey! Get up!"
+
+You're in your
+bed.
+
+Your mother bustles in with your uniform, freshly ironed, and hangs it on
+your bathroom doorknob. "OK, honey, we're off," she says, stopping at the foot
+of your bed and putting her hands on her hips. "Better hurry or you'll miss
+your bus. Don't want to be late for the very first day of high school!"
+
+You
+smile weakly as she kisses you goodbye and leaves, trying to rekindle the
+feelings in your dream.
+65732: Your room is a mess -- posters slowly peel off the walls to join the
+small heaps of clothes that spot the floor like death mounds. There's a path
+south through the junk from your bed to your bathroom, one going north to the
+rest of the house.
+65900: You're not ready to face school yet.
+65928: Your school uniform, worn once in the fitting room of the suit store,
+radiates a crisp and calm assurance. You hate it already.
+66020: You can't reach it from your bed.
+66044: You just can't bear to. You've got to do something to balance out the
+primness of it first.
+66110: You pull on the polyester slacks and button up the starchy shirt. As you
+knot your tie, you catch a glimpse of yourself in the bathroom mirror and note
+how nicely the preppy uniform is set off by your new hairstyle.
+
+You curl your
+lip in a nasty sneer and give yourself the finger. Today's your first day at
+the most authoritarian and repressive school in the city, and this is your only
+weapon.
+
+Play it right, and it'll be enough.
+
+Giving your Sid poster a knowing
+wink, you toss your blazer jacket over your shoulder and stalk out of the room.
+66532: After you arrive at school, everyone is coralled into an assembly in the
+gymnasium. Speech after speech about the school's venerable traditions are
+trotted out -- the most prevalent of which, as far as you can tell, is
+officious dullness.
+
+You're pretty close to being bored to death. Disrupting
+this assembly, therefore, is simply a matter of self-preservation.
+66792: You've got ten measly bucks to your name.
+66824: Eight freaking dollars -- not even enough to buy a cassette with.
+66872: The clothes stink, but they stink like you so you don't even notice.
+66920: Even if you didn't need to get into uniform, they're dirty.
+66964: Your older sister gave you her Smiths poster when she went to college,
+and there's a Platinum Blonde one you really meant to take down years ago. But
+most prominent is the Sid Vicious poster you got at a headshop this summer --
+Sid's being rude and ugly in the most appealing way imaginable, giving a middle
+finger to the world.
+67196: Not exactly essential for your first day at school.
+67232: You'd like to spend more time with it than you do. When you're not
+dreaming in it, you're dreaming of it.
+67308: This grotty little tiled room might not be pretty, but it's got the
+ultimate luxury for a fourteen-year-old boy: privacy. On the negative side,
+it's also got a massive mirror that reminds you of your wretched physicality
+every time you take a dump.
+67484: Ah, plugging up toilets is SO elementary school...
+67556: For the purposes of this game, you have an infinitely expanding bladder
+and intestinal tract.
+67620: Really, it's not worth a second look.
+67648: You really don't have time to shower.
+67676: From the mirror, a punk gazes back.
+67704: The mirror-fronted cabinet reflects a medium-sized, pimply faced
+man-child with a chronic case of bedhead and a face not even Cyndi Lauper could
+love.
+67812: You bought these hair clippers a while ago, but haven't had the guts to
+use them yet.
+67872: The blade plates are fuzzy with your hair.
+67902: You lift the electric shaver and hold it in your grip almost reverently,
+placing your thumb on the red switch. Its cord uncoils and hangs in the air as
+you turn it over.
+68024: It's done enough work for today. Let it sleep.
+68344: a   
+
+Finished with it, you switch it off and return it to the cabinet.
+As you shut it, you see a punk in the mirror -- the hair defiantly greasy, the
+acne now angry scars. Your flaws suddenly make sense. You rub your hand over
+your shorn scalp and stare at your new self with a mixture of joy and terror.
+68560: Looks a little like a mouse. Hedgehog, even.
+68596: Ah, you'll clean up after school. You're already late.
+68640: It's black and has the Pope Innocent III school crest right over your
+heart. Aw.
+68700: Don't go undressing. Nudity is hippy shit.
+68732: A red and black noose.
+68748: A nicely charred mockery of a tie.
+68772: Don't go undressing. Nudity is hippy shit.
+68804: The gymnasium is packed with boys, all wearing the same uniform and the
+same glazed expression. The rows and rows of chairs face a stage on which
+various old codgers parade their inability to say anything interesting. You
+slump in your chair and entertain yourself by reading the variety of pointless
+competitions on the pennants around the room, and look longingly at the exit to
+the east -- even the washroom to the south looks good.
+69102: You get out of your seat and squeeze by countless grey knees...
+69152: You stand up for a moment, but no one seems to notice. You sit down
+again.
+69208: Aw, any jackass can cause a disruption by talking. You've gotta do
+something that has a bit of flare.
+69280: You close your eyes, but you get bored with the inside of your eyelids
+after a few minutes.
+69344: You pray for release from this tiresome assembly, but realize that
+you're going to have to call on a higher power than God for that -- namely,
+yourself.
+69554: ]
+
+That was a good start. But evidently you're going to have to do
+something more extreme to end this borefest.
+69636: "We expect you to act as representatives of the school at all times," a
+portly old brother is saying, "That means being Christian, courteous, and well
+groomed." You take in the huge stains on his armpits, clearly visible even with
+a black shirt, and note that he's somehow smudged his white priest's
+collar.
+
+You hear something being repeated, chanted. You look over and see that
+the skinhead's looking straight at you and grinning with all his teeth.
+69956: You hear muffled (but still discernibly dull) things from the gym.
+70004: "And disrespect to the uniform will be treated as severely as disrespect
+to one of your teachers. You are encouraged to wear your blazer to and from the
+school, but if you choose not to, bear in mind that jean jackets are absolutely
+forbidden." That strikes you as a weird restriction -- is this 1985 or 1958? A
+man with a beard leans over and whispers something  to the brother and he nods.
+"Cowboy boots are also forbidden."
+
+This elicits some snickering from the older
+boys around you, and the bearded man leans forward again. The brother, tiredly,
+adds: "Boots of any sort will not be tolerated... except winter boots," the old
+man adds, glancing at the bearded man for confirmation. The bearded man nods,
+and you can practically see him pulling the puppet strings as the brother turns
+back to the crowd.
+70576: You hear muffled (but still discernibly dull) things from the gym.
+70624: "I'd like to introduce all you to your vice principal, Mr. Pannus." The
+bearded man rises. 
+
+The skinhead fake-coughs into his fist: "Penis." Pannus
+either doesn't hear or pretends not to.
+70766: You hear muffled (but still discernibly dull) things from the gym.
+70816: "Thank you, Brother Matthews," Mr. Pannus begins, tilting the mike up
+towards his well-trimmed beard. "Last year, two boys were expelled for
+behavioural problems. You are attending an elite academy, and it is a privilege
+to be doing so -- not a right -- so if you behave like animals, be prepared to
+be treated as such." 
+
+The skinhead's chant starts up again, just below your
+ability to hear. "------or -----er"? You're suddenly sure he's calling you a
+poser, and you rub your new stubble nervously. You glance at the other two, but
+they're ignoring him, looking supremely bored as they lean against the wall.
+71262: You hear muffled (but still discernibly dull) things from the gym.
+71312: Mr. Pannus nods to a boy who brings a flag to the front, and then looks
+to the band. 
+
+You sneak a glance at the skinhead, who's still watching you. In
+the silence before the band begins, he does a daring triple-fake-cough:
+"Hard-Core-Niner!" 
+
+You look away, pretending to yawn. Well, it's better than
+being called a poser.
+71552: You hear muffled (but still discernibly dull) things from the gym.
+71600: "Please stand for the national anthem," says Mr. Pannus. Everyone
+stands. The band blares to life.
+71676: You hear muffled (but still discernibly dull) droning from the gym.
+71726: The national anthem continues, and you notice that the three freaks
+standing against the wall have slumped to the ground.
+71812: You hear muffled (but still discernibly dull) "music" from the gym.
+71862: The national anthem goes on, heedless of brassy bloopers.
+71906: You hear muffled (but still discernibly dull) "music" from the gym.
+71958: With a crashing of symbols, the anthem stumbles towards a close.
+72006: You hear muffled (but still discernibly dull) "music" from the gym.
+72058: The national anthem is finished. Everyone sits down, except for the boys
+on the wall, who stand.
+72130: You hear muffled (but still discernibly dull) "music" from the gym.
+72182: A skinnier and older brother approaches the mike and starts to lead the
+prayers. "Our Father..."
+72256: You hear muffled (but still discernibly dull) droning from the gym.
+72306: You hear muffled (but still discernibly dull) droning from the gym.
+72358: You hear muffled (but still discernibly dull) droning from the gym.
+72410: You hear muffled (but still discernibly dull) droning from the gym.
+72462: You hear muffled (but still discernibly dull) droning from the gym.
+72514: The prayers drone on. Man, you've gotta do something. Anything.
+72566: You hear muffled (but still discernibly dull) droning from the gym.
+72620: You'd like to, but there's teachers guarding the exit.
+72660: From this distance, all you can see is that he's a stiff looking man
+with a beard.
+72720: A beard and a lined face make him look like a suffering saint. Indeed,
+most of the students wished he'd be a martyr. He's leaning against his desk
+with his arms crossed, staring at your face as if it held mystical knowledge.
+72876: Leave the obvious forms of violence to the jocks.
+73108: Maybe this punk thing isn't for you. 
+
+You grow your hair back and join
+the debating team, and with the friends you make there you get a job straight
+out of school as an advertising exec. You mate, spawn and die.
+74060: You want to, but you just don't got the juice yet.
+74096: He stares at you for a full two seconds. Then, in a caring voice: "Why
+are you wasting my time with stupid questions?"
+74182: Pannus stares at you without blinking.
+74212: Pannus rubs his beard and considers you as if you were a mathematical
+problem.
+74268: Pannus stares at you without blinking.
+74296: Pannus blinks, disproving your notion that he might indeed be reptilian.
+74388: They're a placid sea of bowl cuts.
+74416: He's flying on auto-pilot, this one -- he barely seems to be able to
+keep his eyes open.
+74480: LAWN DART SEMIREGIONALS 1971 -- CITYWIDE VOLLYBALL CHAMPS '81 -- RUGBY
+NATIONALS 1976 -- BIG WASTE OF TIME 1985.
+74620: There's a bunch of freaks leaning against the west wall, staring at you
+in a not-entirely-friendly way.
+74696: There's three of them lined up together against the west wall -- a goth,
+a mod, and a skinhead with a predatory grin. They're too far away to see much
+more.
+74848: You have it always at the ready -- you never know when you'll have to
+give it to someone.
+74912: All right -- look at it like the punk's version of the samurai sword.
+Unless it's worthy of drawing blood, you don't just whip it out.
+75008: Even if it was possible, you still wouldn't.
+75042: This is the bathroom part of the changeroom, which exits to the north.
+It has the usual assortment of bathroom fixtures: urinals, mirrors, sinks, and
+a toilet stall.  A big white garbage can sits in one corner, full almost to
+overflowing.
+75212: Someone stole the puck. Either the hockey team was really hard up or
+we're dealing with some sick puppies here.
+75292: It's an eminently throwable handful of tree mush.
+75328: You turn the faucet on and off, turning the paper into a soaked glob.
+75376: You turn it on. You turn it off. Who said high school isn't fun?
+75424: You avoid mirrors, when you can.
+75448: It's plastic, so you're pretty sure it'd crumple under your weight.
+75500: The can is full, but you've managed to tuck in a long piece of toilet
+paper, which hangs over the side nearly to the floor.
+75588: The open can is filled to capacity, almost exclusively with paper
+towels.
+75640: You manage to get it tucked into the can, although most of it trails
+down the side.
+75698: Before you flick the lighter you notice that the smoke detector is a few
+feet above the can. It'd be going off before you left the room. If this was a
+Hollywood movie you'd have a fuse handy.
+75836: It's mounted on the ceiling, well out of your reach.
+75876: It looks to be thoroughly spattered with goo.
+75908: The stall appears to be smoking. You wonder where it picked up the
+habit.
+75960: The stall has quit smoking, but there's still a slight haze above it.
+76010: It's locked, but your rattling provokes a sudden coughing, a choking, a
+flushing, and a huge jock stumbles out of the stall wreathed in smoke. When he
+sees it's only you, his face collapses in relief -- for about a second, until
+annoyance replaces it. 
+
+He washes his hands menacingly. "Better watch your
+step, niner," he says, his grizzled jaw clamped. He looks terrifyingly like a
+real man. "Stomp you and your stupid haircut into the ground." He wipes his
+mammoth hands off on your blazer, and leaves the bathroom.
+76382: The jock's not going to be pleased when he realizes he's lost his fire.
+Especially this beauty of a Zippo, with its Olde English script engraving of
+JOSH KIX ASS on it.
+76512: You pluck the silver beauty off the floor. You test it out, feeling your
+dormant pyromania flicker to life with the flame.
+76600: As you pity the janitor who's gotta clean this bespeckled beast, you
+notice a lighter beside it.
+76668: Really, it's not worth a second look.
+76696: Ah, plugging up toilets is SO elementary school...
+76768: For the purposes of this game, you have an infinitely expanding bladder
+and intestinal tract.
+76832: There's only about two feet left. Enough for two average dumps or one
+industrial strength.
+76900: The Path, the thin sidewalk that links the school grounds to the real
+world, is neither on nor off school property. It's no-man's-land, and all
+suspect activity takes place here. Like most legendary spots, it's rather
+unimpressive in actuality -- it's a butt-littered sidewalk that heads west to
+the school and east to freedom.
+77132: Stuart lifts his hand, his eyes a little hurt. "Dontcha want to try 'em
+on?"
+77410: ODE in there. Dying for a smoke." He pulls out a pack and taps out a
+cigarette. The goth removes a silver case and puts a cigarillo between his thin
+lips.
+77520: You watch the fire engine pull up. 
+
+"Stu, can I bum one?" says Jackson.
+
+
+Stu gets his lit and exhales sharply, stares at him for a second. Finally
+offers him the pack.
+77648: The three guys stand there in silence. You sense they're not sure of
+you, waiting for something.
+77720: You almost wander off, but decide that you'd rather hang out with these
+guys.
+77776: You almost wander off, but decide that you'd rather hang out with these
+guys.
+77832: The Path, the thin sidewalk that links the school grounds to the real
+world, is neither on nor off school property. It's no-man's-land, and all
+suspect activity takes place here. At night, with the moon shining down, it's a
+little more mysterious, but it's still just a butt-littered sidewalk going east
+and west.
+78056: Everyone's staring at you. Drink or give it to someone else.
+78100: Are you joking? The suburbs are scary enough during the day.
+78144: Ah, you'll wait for these guys... better to go as a unit.
+78188: The huge red vehicle, summoned by your mischief, idles while the firemen
+talk to someone from the administration.
+78268: The seniors, between pulls on their cigarettes, give you withering
+looks.
+78320: You reconsider. Being jocks, they're more liable to answer a question
+with a punch.
+78420: Almost hidden by the long grass around the sign is the empty bottle.
+78574: You don't feel much like drinking, so you pass it on.
+78618: You ignore Stu's scowl and pass it on.
+78652: You try to pass it on. Stu grabs the bottle and gives it back to you.
+"Drink up, H.C." 
+
+You make a face. 
+
+"I don't believe that the guy who's been
+bumming smokes from me all week won't have a drink with me!"
+78812: Making sure the bottle's closed, you shake it for a while. It's hard to
+tell in this light, but the concoction seems a little red.
+78904: You shake it, but it feels rather pointless.
+78936: The ammonium triiodide is a reddish colour.
+78968: You don't want to take it out with your hands, but you could empty the
+bottle on something.
+79150: ]
+
+Satisfied with your night's work, you toss the bottle and head off
+for home.
+
+The following Monday, you note the blackened pedestal with
+satisfaction, and the Path is abuzz with the mystery. "I saw it in the office,"
+Stuart was saying gleefully. "Only the head is left, the rest of the statue is
+totally trashed. They had a crane lower it and then BOOM!"
+
+"You think someone
+blew up the Pope?" says one of the older boys. "Naw. You'd need a remote
+control or something. They probably just dropped it."
+
+"Actually, you wouldn't
+need a remote," you say. "If you spread a large enough quantity of, say,
+ammonium triiodide and let it dry..." you say, trailing off. When you notice
+you have everyone's attention, you grin. "That's just hypothetical, of course."
+79712: Aw, you don't want to blow up the science teacher. There's bigger fish
+to fry.
+79904: able on the stage. The washroom is to the south and you can leave up the
+stairs to the east.
+
+The student council has done a half-assed job of
+decorating the walls with construction paper leaves, footballs and Peanuts
+characters, but what's leaning against the walls is far more interesting: shy
+clumps of girls. Your heart speeds up to match the diamonds of light that sweep
+the floor, which has a few dancers on it.
+80222: and makes some requests. He comes back and says something inaudible and
+gives you the thumbs-up. You smile back.
+80312: plays some rap that you don't know. Jackson leans back against the wall
+and crosses his arms, and you do the same.
+80392: Billy Idol comes on. For some reason, the crowd chants "Hey
+motherfucker, get LAID, get FUCKED!" at the chorus -- naturally, so do you, as
+abstract as those concepts are to you.
+80530: Synthesizer music starts up, attracting preps like flies.
+80574: The Clash's "Should I Stay or Should I Go" starts up. Jackson starts
+dancing, an intense little hopping coupled with a mouthing of the words that
+shows his lyrical knowledge.
+80704: Some house is played, and Jackson stops dancing, plucking his Fred Perry
+shirt and wiping his brow.
+80776: Another house song makes Jackson sit down on the floor in disgust.
+80824: The next song's first few notes make Jackson scramble to his feet. By
+the time "One Step Beyond" is sung, he's out on the floor grinning madly,
+dancing the stylized running dance Stuart was doing earlier -- shanking, was
+it? No -- skanking.
+81002: On the next song, David Lee Roth suggests "Might as well Jump," and the
+rockers are doing just that, getting as much mileage out of their hair-whipping
+move as they can. Jackson looks at them and rolls his eyes.
+81156: A Ramones song comes on. Dave's eyes light up and he bounces onto the
+dance floor and is quickly surrounded by other dancers, his head popping up
+above the crowd as if on some kind of pogo stick.
+81292: Some irritating pop song with a rap chorus.
+81324: You don't have to go.
+81340: Are you kidding?! After what you went through to get in here?
+81384: Are you kidding?! After what you went through to get in here?
+81428: He's decked out in his white Fred Perry shirt and pressed trouserpipe
+pants.
+81484: The music's really too loud for conversation.
+81556: When the lights from the strobe or the disco ball hit them, they look
+pretty cool. Otherwise, they look like people moving weirdly in the dark.
+81656: They're dancing. You don't want to bug them.
+81738: is way too into it, his eyes closed and head bobbing. Thankfully, he
+doesn't seem to be addicted to the mike.
+81816: Jackson's already requested some decent music.
+81892: They're little more than silhouettes, but they certainly are female.
+81940: Sure, you'd like to talk to the girls... but even if the music was low
+enough, there would still be the paralyzing fear issue.
+82072: While you know that the cafeteria is its same old dingy self, your brain
+is telling you that it's spinning and painfully bright.
+
+Mr. Collins, the
+obnoxious overgrown jock of a gym teacher, stands beside two of his apes behind
+the ticket table set up for the dance. He's grinning in a nauseatingly
+infuriating way. God, you feel ill.
+82306: You vomit all over the floor. "Waste of a good puke..." murmurs
+Stu.
+
+Collins's smirk twitches with disgust, but before he can get his
+condescending hands on you, you flip the ticket table over. 
+
+The cash box
+makes a terribly satisfying clatter. 
+
+The next couple of minutes are a bit of
+a blur -- making a break; seeing Stu and Dave's escaping backs as you lean over
+to excise the last bit of liquid from your stomach lining; being carried back
+to the school by two big lugs who you flail alternately with screams about your
+inalienable rights as an individual and kicks to their groins; a second break,
+which similarly ends with you passed out in the field; and finally,
+incarceration in...
+82804: You wake groggily -- sober enough to be conscious, and still drunk
+enough to want to fuck shit up.
+82876: A thug.
+83076: ]
+
+Collins' smirk twitches with disgust, but before he can get his
+condescending hands on you, you flip the ticket table over. 
+
+The cash box
+makes a terribly satisfying clatter. 
+
+The next couple of minutes are a bit of
+a blur -- making a break; seeing Stu and Dave's escaping backs as you lean over
+to excise the last bit of liquid from your stomach lining; being carried back
+to the school by two big lugs who you flail alternately with screams about your
+inalienable rights as an individual and kicks to their groins; a second break,
+which similarly ends with you passed out in the field; and finally,
+incarceration in...
+83520: You wake groggily -- sober enough to be conscious, and still drunk
+enough to want to fuck shit up.
+83632: This room is filled with a grid of massive black worktables. An even
+larger demonstration table squats at the front of the room, behind which is a
+chart of the table of elements. It's weird to see the moon shining through the
+window you're so accustomed to staring out of during the day. There's an exit
+to the south.
+83854: You clamber out the window and cautiously climb down the trellis...
+83908: Well, naturally, they've locked you in.
+83940: The window's closed.
+83956: The window's closed.
+83972: Outside, the night calls. There's a few strands of ivy curling up from
+the trellis.
+84032: You open the window. After shaking the trellis attached to the side of
+the school you decide it's sturdy enough to offer an escape down. But then,
+you're drunk.
+84148: Sturdy and soaked with chemicals.
+84172: The building blocks of the universe are depicted in a neat series of
+boxes, with no indication of their legacy of poisonous mushroom clouds. You
+just hope they're not on the exam.
+
+There's a finger-sized ring at the bottom.
+84332: The chart snaps up out of reach and reveals a glass-fronted cupboard.
+84380: This cupboard contains the science class supplies -- the left
+compartment has all the glassware and the right compartment has all the
+chemicals.
+84480: Specify which compartment, the right or the left.
+84608: You hammer on the glass fruitlessly. Your eyes land on a sticker near
+the bottom: "Now Unbreakable!"
+84684: An astonishing array of alphabetically arranged chemicals and solutions.
+84736: You're shocked to find it unlocked.
+84764: You hammer on the glass fruitlessly. Your eyes land on a sticker near
+the bottom: "Now Unbreakable!"
+84840: You scan through the rows and rows of chemicals and solutions but can't
+find that.
+84900: There's so many!
+84916: There's too many to take them all -- specify what chemicals you'd like
+to take from the right compartment.
+84998: Iodine.
+85004: Slopping a little, you manage to fill the mickey with solution.
+85048: There's no markings on the bottle, so you have no idea of how much you'd
+be left with. There's gotta be a better container around here somewhere.
+85152: There's so much solution, you'd be better off putting a grain of salt in
+the sea.
+85212: The ammonium hydroxide container is a little less than half full.
+85260: This litre bottle of concentrated ammonium hydroxide is nearly full.
+There's enough to feed an army here. Assuming an army of some kind of bug-eyed
+monsters that drink ammonia like we drink lemonade.
+85400: Unremarkable except for its smell.
+85424: Built like cement blocks stacked together, his baby face looks perfectly
+normal without hair. He's got red suspenders and shiny black monkeyboots, a
+tiny grenade hanging from his left ear, and he's hole punched his tie so many
+times it looks like swiss cheese.
+85608: Leave the obvious forms of violence to the jocks.
+85642: You casually hand it over to Stu, who glances at you suspiciously... and
+then breaks out in a huge grin. "So you've met Terry, eh?" he says,
+smiling.
+
+"Yeah," you say casually, "Got him to do me up one of these."
+
+You
+flash Stu the counterfeit ticket, and he starts to laugh. "Yeah, it's gonna
+suck, school dances always do..." the skinhead says, exhaling smoke in a
+world-weary way. "But it's pretty much the only thing goin'. Few chicks at
+least." 
+
+You nod and shrug.
+
+"Yeah, we're meeting up here later tonight. You
+should come, H.C. Should be able to score some booze, take a little bit of the
+lameness out of the evening's festivities."
+
+Careening onto the path, Mophead
+stops in front of you and says, "Shudda SEEN this guy, Stu-Fart, he fuckin'
+gave Penis the FINGER." Mophead lights up a smoke quick as lightning. "The
+FINGER! To PENIS!" Mophead goes to high-five you and you let him. "Aw man, that
+was AWEsome!"  Mophead gloats.
+
+You shrug, lean against the fence and try not
+to grin too broadly as your exploits are recounted blow by blow.
+86476: You start to ask Stu if he knows anyone selling tickets, but stop. You
+feel like a total loser, since they were on sale all week. Maybe Dave or
+Jackson have an extra...
+86600: "All I can say is that kid's lucky that I can get excuse slips," Stu
+looks at his rainbow slashed pants and shakes his head grimly. "In fact, if he
+wasn't in detention I'd be kicking his ass anyway."
+86744: "When they're not peacocks or junkies, I can tolerate 'em," he says.
+"Good for fights against Nazi skins, and some of the chicks are cute."
+86848: "The stuck-up sonsabitches are beneath my notice," Stuart says, managing
+to sound aristocratic and brutal in the same sentence.
+86938: "This fucking school is fucking full of pompus sadistic pricks who
+pretend to be all about God and shit. The name of the school is perfect -- this
+guy Pope Innocent started wars with money people gave him as bribes to get into
+heaven."
+
+Stu stops ranting, a second later a crazy grin lights up his face.
+"You see the statue of him on the front lawn?" he asks you.
+
+You think for a
+second, but can't. "Uh, no."
+
+Stu flicks off some ash. "That's right," he says,
+trying to give you a sly look but bursting out in a cackle. "They can keep
+setting him up, we'll keep knocking him down." Stuart looks over his shoulder
+to see if anyone's been listening, but seems satisfied they haven't.
+87432: "People got the wrong idea about skinheads," Stuart holds forth. "The
+original skins were just working class guys. Nazi skins are posers who I
+consider it my sacred duty to roll. Fuckin' Hitler lovers aren't my brothers."
+He spits on the pavement for emphasis.
+87620: You start to say something about the boots, but Stuart holds up a hand.
+"No, don't thank me," he says magnanimously.
+87708: Stuart smirks and shoots Jackson a glance. "He's all right... Haven't
+had to kick his mod ass in a while."
+87788: Stuart shrugs and rubs his head. "He got busted by Penis last period for
+giving out copies of that zine. He's in detention."
+
+You look at the zine with
+new appreciation of its taboo status.
+87924: "Stinks of those weird cigarettes he smokes," he says.
+
+"Better than
+smelling of the shit coming outta your ears," Dave mumbles.
+88020: Stuart yawns. "Count Chocula? Dunno. Maybe in the library working on his
+special project."
+88088: Stu looks at his "personalized" tie, and then your still crisp one, and
+looks away.
+88148: Stuart looks at your toasted tie with approval.
+88184: Stu surveys the bleak surroundings. "Pretty great, ain't it?"
+88232: "Yeah, I've read that thing. Pretty useful for Hardcore Niners like
+yourself. A Punk Primer."
+88304: Stu just sneers at you, saying nothing.
+88376: "Since when you the boss of me, niner?"
+88406: Stu laments the state of his markered-up slacks.
+88444: Dave has a curtain of curly bangs he wears draped over his angular face,
+which is mirrored by the plethora of loose threads he's unravelled from his
+tie. His pointy toed boots fit neatly into his specially tapered slacks.
+88600: Leave the obvious forms of violence to the jocks.
+88636: "You wouldn't like my brand," Dave says, blowing a ring. "Too strong."
+88880: ]
+
+Dave looks down at your boots and then gives you a sideways look.
+"Their best one is the song 'Nazi Punk, Fuck Off'..." 
+
+"Yeah, Nazis suck," you
+concur. 
+
+"You know Nazis wear red laces?" 
+
+"Oh," you say, feeling like an
+idiot. "Yeah. Well, Stuart said he took -- rolled -- a skin for these."
+
+
+"Huh," says Dave. "Well, I think they got laces at the caf." He goes back to
+his carving. 
+
+"You boys be quiet," says the librarian suddenly. 
+
+"Fuck off,
+you old biddy," says Dave, hidden behind his book. 
+
+She doesn't even look up.
+89388: "Didn't we already have this conversation?" Dave asks you impatiently.
+89440: Now that you're here, you can't bear to tell Dave you don't have a
+ticket. Maybe it's just his way, but he always seems kind of cold and
+contemptuous of you. If only there were some way to impress him...
+89588: Dave shrugs, unwilling to talk about Jackson when he's standing right
+there.
+89644: Dave looks at you, as if deciding whether to take you into his
+confidence. "I never really trust mods," he says finally. "All they gotta do is
+dress differently and, poof, they're preps." He pauses for a few seconds.
+"Jackson's pretty cool, though."
+89826: "This is 1985. Punk is dead..." Dave smiles a small smile. "But it's a
+very pretty corpse."
+89904: Dave shrugs, unwilling to talk about Stuart when he's standing right
+there.
+89960: "As boneheads go, he's OK," Dave says, tugging a bang.
+90004: Dave looks at his "personalized" tie, and then your still crisp one, and
+looks away.
+90064: Your toasted tie makes Dave smile a twisted smile.
+90100: "This place sucks the sweat off a dead man's balls," Dave says with
+disgust. "What made you come here?"
+
+You decide to shrug rather than reply, "My
+mom."
+90216: "Don't worry, her ass is glued to that chair," Dave says.
+90260: "A font of knowledge," Dave mumbles. "Fucking funny, too."
+90308: Dave looks at you blankly through his bangs.
+90380: "Since when you the boss of me, niner?"
+90410: Jackson's a handsome boy with his hair carefully gelled and cut short.
+He wears a voluminous bomber jacket with the target symbol on the back, and
+neat little brogues -- he's not violating uniform regulations at all unless you
+count the union jack sewn to his tie.
+90596: Leave the obvious forms of violence to the jocks.
+90632: "We've been friends since grade nine homeroom."
+90668: "Pretends to be tough, but he's a sweet guy."
+
+"Come over here and I'll
+pretend you a knuckle sandwich," Stuart bristles in a convincing growl.
+90776: Jackson looks at his "personalized" tie, and then your still crisp one,
+and looks away.
+90840: Your toasted tie clearly impresses Dave.
+90872: "It's the only place Penis doesn't hassle us."
+90908: "Hey man," says Jackson cheerfully.
+90976: Jackson runs his hand through his hair and sighs.
+91012: Mophead goes through his marker collection, checking them for moistness.
+91064: Jackson diligently copies out bible passages.
+91098: Mophead hums louder and louder until Pannus' eyes flick his way.
+91188: This room is filled with a grid of massive black worktables. An even
+larger demonstration table squats in front of a chart of the table of elements.
+You're seated two to a table on stools, and it feels like you should be doing
+something cool like dissecting rats or building robots -- but so far, you've
+been sitting there learning about non-reactive molecules. No wonder you've been
+staring out the window. There's an exit to the south.
+91494: "Hardcore, hold up," Stuart says, stepping in front of you while
+continuing to nod remorsefully at the teacher.
+91580: You decide to keep your trap shut -- you don't want to be held after
+class and miss your only chance to get a ticket.
+92132: The teacher quiets the class down, smirking slightly but with a nervous
+eye on the door. Not turning around, he says, "Even if we did, we wouldn't have
+the equipment to distil it. You getting this down, Jaimie?" 
+
+"Yes sir. You
+seem to know an awful lot about making drugs, sir." 
+
+Another laugh spreads
+through the class. 
+
+Mophead is out of Stuart's range, talking to the boy
+behind him urgently. From the angle you're at, you can see the boy pass him two
+markers. Mophead grins at Stuart.
+92490: "Does anyone have any intelligent questions about the test on Monday?"
+the teacher says, turning around to see Stuart mid-lunge. He ignores it. 
+
+"Is
+exercise four on it, sir?" one chubby boy asks. 
+
+He looks blank for a second,
+grabs the exercise book off Stuart's desk and flips through it. "No," he says,
+"One through six, not including four. We didn't do exercise four."
+92872: By this point Mophead has amassed a thick handful of markers and has put
+an elastic band around them. He shows it to Stuart under the desk, the uncapped
+tips glinting wet. Stuart is frantically rifling through the pencil case of the
+boy behind him for reinforcements, when the teacher turns his back.
+
+Stu feels,
+rather than sees, the rainbow wound on his leg from knee to ankle. You see his
+eyes close and his teeth clench. Mophead raises his clenched fists to the sky
+in slow motion, silent victory. "You're so dead!" Stuart hiss-shouts. 
+
+"What's
+that, Stuart?" says the teacher without turning around. 
+
+"Nothing sir."
+93318: The bell rings. 
+
+You move quickly, but not quickly enough. Stuart steps
+in front of you. 
+
+"Hey H.C.," Stuart says, "Wait 'till you see --" He stops as
+he notices the teacher is standing beside him with his arms crossed. 
+
+The
+teacher starts to lecture Stuart.
+93518: The teacher continues to berate Stu as he pulls up the table of elements
+and returns some chemicals to the cupboard behind it. You crumple your ten in
+your pocket anxiously, feeling your chances of getting a ticket drain away.
+93676: The teacher wraps it up. "And you," he says, swiveling around, "unless
+you want to flunk and repeat this class like your friend here, you'll start
+bringing your books to class!" 
+
+You nod but he's already turned his back.
+
+
+You rush out the door, Stuart beside you. 
+
+"Hey, so I rolled this Nazi
+skinhead last night," he says, "for his docs." 
+
+You rush down the hall and
+down the stairs, but Stuart continues obliviously. "They're too small for me.
+But they're awesome -- fourteen-holed with steel toes." 
+
+You arrive on the
+first floor just in time to see them folding up the table. "Nope, sold out,"
+you hear some guy being told. 
+
+You stop there, stunned. Stuart keeps talking,
+"Come out to the Path and I'll show you them." 
+
+Numbly, you follow him.
+94238: He pulls a pair of boots out of his khaki backpack and drops them in
+front of you, then gropes for his smokes. 
+
+"Yep," Stu says. "That Nazi
+bonehead never knew what hit him." He takes a drag. "OK," he says, not looking
+at you. "Try 'em on."
+94424: Better not. You've already been on a fifteen minute "washroom break."
+94476: Nothing inspires daydreaming like a beautiful blue sky. Although a
+beautiful blue movie comes close.
+94548: There's a patch on it that depicts a fist busting through a swastika on
+it: SMASH FASCISM! Judging by the stitching, Stuart sewed it on himself.
+94660: Stuart is giving you boots, not an entire wardrobe. Don't press your
+luck.
+94716: Sturdy and soaked with chemicals.
+94740: The building blocks of the universe are depicted in a neat series of
+boxes, with no indication of their legacy of poisonous mushroom clouds. You
+just hope they're not on the exam.
+94864: He's an alright guy, with only the occasional freakout.
+94944: Stuart's shaved head and grimaces give the feeling of a pitched battle
+to even a marker fight.
+95052: You've never actually seen his eyes, but apparently they're there
+somewhere under that huge mass of blond hair.
+95316: You heard this guy in the caf one day arguing that there was a direct
+connection between how many questions you asked in class and how well you did.
+Apparently he's putting the theory to the test.
+95492: They're beautiful boots. Thick soled, shiny black criss-crossed with red
+laces. The toes are bulbous and slightly squared off.
+95584: They're beautiful boots. Thick soled, shiny black criss-crossed with
+black laces. The toes are bulbous and slightly squared off.
+95680: Don't go undressing. Nudity is hippy shit.
+95712: You step into the boots and lace them up, pretending that you've worn
+14-hole docs every day of your life. 
+
+"Yeah," Stuart says, looking at you
+appraisingly, "That's better. You won't look like such a poser tonight at the
+dance." 
+
+You feel sick thinking about how you haven't got a ticket, but you
+muster up a grateful smile. 
+
+He sits down on the ground and leans against the
+fence, puffing away.
+
+You bum a smoke from Stu. "What a mooch," he gripes,
+"Score you an awesome pair of docs and you take my last smoke, too."
+
+You smoke
+quickly and nervously, then toss the butt in the graveyard.
+
+Man. Stu's pissed
+and you don't even have a ticket to the dance. You wonder if Dave or Jackson
+has an extra.
+96228: You step into the boots and lace them up, pretending that you've worn
+14-hole docs every day of your life.
+
+"Yeah," Stuart says, looking at you
+appraisingly, "That's better. You won't look like such a poser tonight at the
+dance." 
+
+You feel sick thinking about how you haven't got a ticket but you
+muster up a grateful smile. You wonder if Dave or Jackson has an extra one.
+
+
+He sits down on the ground and leans against the fence, puffing away.
+
+He
+looks at you in the boots and nods again. "You'll wanna get new laces for them,
+though. Unless you want people thinking you're a Nazi. That's what red laces
+mean."
+
+You nod, hoping your blase expression hides the fact that this was
+entirely new information to you.
+96744: These one-room portables are meant to be temporary, but the battered
+aluminum boxes look older than the school itself. Ugly things, but they do
+serve nicely to obscure the activities of the Path from prying eyes in the
+school. You can venture south to the field or enter the playground by going
+west.
+96952: A track rings the large multi-purpose field, and trees ring the track.
+The school looms to the west, its window eyes silently judging the players.
+This is where boys become men, where the raw ore of youth is pounded into iron,
+where the limits of the body and spirit are tested. 
+
+Where the jocks frolic,
+in other words.
+97176: Even if you were prepared to climb the vine trellises, the windows are
+closed.
+97232: Even if you were prepared to climb the vine trellises, the windows are
+closed.
+97288: There's a bunch of jocks throwing around a melon shaped ball and running
+around in a very intense fashion.
+97362: One of them's the guy whose lighter you found. He notices you staring at
+them. "What you looking at, faggot?" he shouts between catching and throwing
+the ball.
+97480: Why not just walk into a thresher?
+97556: a    
+
+As one, their faces turn ugly -- then they look at each other in
+silent consultation. The lighter guy tosses the ball to someone else and stomps
+towards you.
+97952: Might be a rugby ball, but then again, it might not. Sports are not your
+speciality.
+98012: Pretty, but so what?
+98028: Are you SURE you're old enough to be in high school?
+98068: There are thick vines all over the western wall between the windows. To
+some people, it might be pretty, but to you it just reeks of rich pretention.
+98172: Forget it. There's a class going on up there.
+98208: The asphalt is painted with various arcane patterns of white lines which
+you assume are used for playing some game, but you've never seen anyone doing
+anything but shoot hoops here. The side door to the school cafeteria is propped
+open to the west, the portables squat to the east, or you can go AWOL and head
+north.
+98428: Peeking in the door, you can see Collins and his hockey stick directing
+his students in cleaning up. Specifically, cleaning up your upchuck. You decide
+the night air is doing you good.
+98560: They're faded to the point where you're not absolutely sure they're
+there.
+98616: A little bent out of shape and entirely innocent of net.
+98656: This is the road that heads north to the outside world and south back to
+the school. At the end of the school day it's choked with escaping boys, but
+now it's completely featureless. 
+
+Beside the lane is a rather large concrete
+sign, with a cross on one side and an empty pedestal on the other.
+98860: No way. The 'burbs are scary enough during the day.
+98944: It's a concrete block with holes drilled in it, presumably for securing
+something to.
+99004: Your liquor-addled brain seems to recall that the secretary said the
+statue would be reinstalled tomorrow. "Popey's comin' home," you mumble to
+yourself.
+99116: Nothing remarkable about it, but it brings to mind something Jackson
+said earlier in the week: "Isn't it kind of morbid that we worship this thing
+used to inflict the death penalty? Isn't that kind of like wearing an electric
+chair around your neck?"
+99292: This is the front door of the school, but other than the name carved
+above the southbound archway and the signage warning people to report to the
+office, there's not a lot of ceremony. Misleadingly plain for a school this
+pompous.
+99452: Despite the plainness, there's a boy drawing the entryway in a large
+sketchbook. He spares you a brief glance.
+99530: He's spikey-haired and Asian, and is using a thin-lined marker to draw
+in the sketchbook. He doesn't pay you much mind.
+99620: Leave the obvious forms of violence to the jocks.
+99654: Terry takes the money and the slips and pockets them. Then, from his
+sketchbook, he places an original ticket beside a blank piece of cardboard.
+With a thin line marker, he draws in the dancing leafs, the bubble style
+lettering that says FALL DANCE!, and all the small details the original
+incorporated to make it counterfeit proof. When he's done, he looks over his
+handiwork and then hands it to you.
+
+He turns his attention to the slips next,
+removing another original from the back of his sketchbook. He forges a
+signature on one of them, then checks the "slacks" infraction. He hands it to
+you. "This is for Stuart."
+100098: He gives you a glance, slightly longer than average, then goes back to
+sketching. Just when you think he's ignored you completely, he says, "Why ask
+me?"
+
+Going along with the cloak-and-dagger routine, you stare off into space a
+second yourself. Then, not looking at him, you say "They're sold out. A certain
+mop-headed fellow told me you might be able to hook me up."
+
+Terry nods. "Ten
+bucks."
+
+"I only got eight," you say. "C'mon." 
+
+Terry shakes his head.
+"Niners," he says with disgust. "I need some of those office slips for uniform
+violations. Get me some of those and you can have it for eight."
+
+Terry goes
+back to his sketching.
+100572: He looks at your boots. "I don't do favours for Nazis."
+100616: "It's for the yearbook," he mumbles, not looking up.
+100656: You mention the band, but it doesn't seem to impress him. "You've
+learned to read, eh niner?"
+100728: He glances up briefly, but then goes back to his work.
+100808: Terry's counterfeit is so good you wonder if he drew the original art
+as well.
+100864: It's decorated with "A-Ha" and "Love and Rockets" stickers.
+100912: There's a prominently displayed trophy case and rows and rows of
+official looking plaques to impress parents on their way south to the office.
+The hallway continues east, and north is the way back outside.
+101056: Go that way and you'll trip the alarm for sure.
+101092: You wonder if this school will turn you into the kind of entity that
+gives a rat's ass about such things.
+101164: The office is quiet and orderly, with a large counter protecting the
+office proper from its visitors. Two doors against the far wall are, according
+to the signs, the lairs of Brother Matthews and Mr. Pannus, and sandwiched
+between them is a massive painting of Pope Innocent III.
+101364: You expect that the principal and vice-principal having offices here
+has something to do with how quiet it is.
+101440: It's a counter that separates the wheat from the chaff.
+101480: The slips excuse the bearer for missing a piece of uniform -- when
+they're filled out and signed. Which they aren't. They're given to students
+once they've been punished for said infraction and are only good for that day.
+101638: "Why don't you just leave those right there, dear," the secretary says
+in a steely tone.
+101708: You stealthily slide the slips off the counter.
+101742: This slip excuses Stuart for having "improper slacks", and is rather
+convincingly signed.
+101812: This is a very strange cartoonish depiction of Pope Innocent III. The
+colours are really bright, and his slightly cross-eyed gaze is almost goofy and
+not at all that of a MILITANT PASTOR AND GREAT MONARCH, which the plaque
+screwed into the frame insists he is.
+102016: Although she's keying information into the computer, the secretary's
+huge glasses make it impossible to tell if she's looking at you.
+102110: The secretary has the grey bun and the grandmotherly stylings that are
+guaranteed to negate even the most determined teenage lust. You wonder if it's
+deliberate, because she seems younger, handling her computer without the
+tutting and fretting of the aged.
+102292: Leave the obvious forms of violence to the jocks.
+102326: She tilts her glasses and her eyes meet yours for the first time.
+"That's Pope Innocent the Third," she says, turning around in her seat to look
+at him. "He was a great man."
+102460: Her face breaks into a toothy smile. "Well, I guess it shows we're
+sisters, doesn't it? We came here together the day it opened, twenty five years
+ago. We had our pick of the bunch, chose this one on account of its name.
+Innocent. Lovely, isn't it?" She looks back at the painting on the wall. "A
+very interesting man, too. Just finished reading a book about him."
+102724: "Administrative use only, dear."
+102750: "Wouldn't know, dear," she says distractedly. "Shouldn't you be in
+class?"
+102812: "He took the bull by the horns," the secretary continues, her back to
+you. "He didn't take any nonsense from the heretics, he launched a Crusade when
+they got uppity! He did God's work. A great man."
+102960: She seems lost in reverie, staring at the painting as if she remembered
+him personally.
+103022: She swivels around and looks at you. "Oh, well, you're new here aren't
+you? So you haven't even seen the wonderful statue of him that stands beside
+the sign in front of the school." Her face darkens and she returns to the
+computer, tapping the keys a little harder than she needs to. "We had to clean
+it after someone --" She looks at you sharply, and you get the smirk off your
+face just in time. She seems to notice your mohawk for the first time. "Well,
+never mind. He'll be back on his pedestal tomorrow morning." She shakes her
+head, pointing back at Innocent. "He wouldn't put up with that kind of monkey
+business, I tell you that."
+103782: She turns back to the screen and starts looking through the school
+records. "Oh, man, there's some good stuff here... teacher's salaries... wow,
+the entire annual budget?" 
+
+She pulls a small skull-festooned notebook out of
+her jacket pocket and starts writing things down. "Fuck, I can barely see..."
+104008: The science lab is to the north and stairs lead up and down. Grey
+lockers and doors to various classrooms line the hall, which continues to the
+west.
+104112: You can just make out Mr. Collins standing at the bottom of the stairs,
+and you don't fancy explaining yourself to the big ape.
+104202: There's a class in progress. Didn't you get enough?
+104244: Locked. Teachers aren't morons, you know.
+104276: There's a class in progress. Didn't you get enough?
+104316: Locked. You do, however, see Stuart through the little window lying
+unconscious on the table. Oh, that Southern Comfort.
+104404: They're (by administrative decree) painfully non-descript.
+104448: You peek in the window, and see nothing interesting going on in the
+class. Just a whole lot of that learning stuff.
+104528: This is as high as this high school gets. You can go back down, south
+to the library, or you can follow the hallway west. Lockers and classroom doors
+line the walls.
+104644: There's a class in progress. Didn't you get enough?
+104684: Locked. Teachers aren't morons, you know.
+104716: They're (by administrative decree) painfully non-descript.
+104760: You peek in the window, and see nothing interesting going on in the
+class. Just a whole lot of that learning stuff.
+104840: The musty little room is choked with books, with barely enough room for
+a reading table and the librarian's desk. It's hard to imagine a better way to
+discourage reading.
+104960: The scratching is coming from behind Dave's book.
+104996: You hear a strange scratching sound.
+105024: You realize the scratching is coming from behind Dave's book. It's
+quite loud, and when you look at him questioningly, he mumbles, "She's totally
+deaf."
+105136: The scratching pauses for long enough for Dave to sweep the shavings
+off the table.
+105196: On the reading table is a carving. It's kind of round with some lines
+in it...
+105254: it looks kind of familiar, though. You've seen it before. But where?
+105308: oh, forget it. It's all greek to a geek like you.
+
+You glance at the
+shelves of books around you, wishing that at least one of them was about
+something as useful as iconography of punk.
+105440: The reading table has a carving of the Dead Kennedys logo on it.
+105756: ZINE, if you were so inclined.
+105782: Handwritten above a series of arcane symbols and definitions is: "We at
+Virus believe that, while pretending to be the exact opposite, the hardcore
+scene has become an elitist club. To combat that, and for historical record, we
+give you the Iconography of Punk Rock."
+
+Scanning the symbols, you recognize
+the one Dave was carving -- it's for a band called "Dead Kennedys".
+106052: Handwritten above a series of arcane symbols and definitions is: "We at
+Virus believe that, while pretending to be the exact opposite, the hardcore
+scene has become an elitist club. To combat that, and for historical record, we
+give you the Iconography of Punk Rock."
+
+You scan the symbols, and don't
+recognize a single one, but you're glad you have it in case you do come across
+one.
+107416: of concentrated ammonium hydroxide solution. Stir the mixture for 5
+minutes -- a red precipitate should form. Transfer the moist precipitate onto
+several layers of filter paper placed on the floor of the fumehood, away from
+any breakable objects. Spread out the solid and permit it to dry for one
+hour.
+
+While you are waiting, answer the questions provided in the laboratory.
+These are to be handed in before you leave the laboratory."
+
+(At this point,
+the editors have handwritten: SURE TEACH, RIGHT AFTER I FINISH BLOWING UP THE
+SCHOOL!)
+
+"When the sample has dried, carefully tap it with the end of a
+yardstick, keeping as far away as possible. No other characterization is
+required, or advisable."
+108082: propaganda about how great the church is shoved down our throats. So
+here's the antidote, a truth serum that might be bitter but is essential to the
+survival of a free thinking brain:"  It's followed by a list of saints and some
+of their not-so-saintly actions. You scan down the list and discover your
+school's namesake...
+
+"Pope Innocent III: Oh how ironic. This guy milked his
+power for all it was worth, stealing the land and money of condemned heretics
+(can you say economic incentive?) and using it to go on Crusades to kill other
+people who pronounced God differently. Kudos to the boyz at Pope who markered a
+Hitler moustache on the statue of their patron tyrant."
+108560: You flip through the zine, but don't find that.
+108596: Dave's book is named Lives of the Saints. He's not reading it, but
+rather using it to conceal the fact that he's busy at work carving a symbol
+into the pine wood of the desk with a tiny penknife.
+108734: The librarian has the grey bun and the grandmotherly stylings that are
+guaranteed to negate even the most determined teenage lust. Presumably, given
+the similarities to the school secretary, they're sisters -- but no one cares
+enough to ask.
+108944: Stacked high with the same musty books that line the walls.
+108988: The dust on these books are so thick that the names on the spines are
+actually illegible.
+109052: There's a paperback spread-eagled on the librarian's desk.
+109096: "Tough Love: Power Popes Through The Ages" is the title of the book.
+Smaller type on the back informs you that the Expanded Edition includes "Misery
+and the Human Condition". You flip through it, your eye drawn by a red
+underline in a chapter about Pope Innocent III. Someone liked the word
+"Vergentis" -- it's underlined and annotated in the same red pen: "Perfect!".
+109372: "Tough Love: Power Popes Through The Ages" is the title of the book,
+which is all you can see from here.
+109452: This is the most remote part of the school, and so naturally your
+locker is here. For added fun, the detention room is directly north -- its
+deadly silences only broken by barked orders and sobs. Needless to say, you
+visit your locker as infrequently as possible.
+109636: There's brave, then there's stupid.
+109664: You'd like to put that off as long as possible.
+109700: Battered by three decades of rough-housing.
+109732: Better not -- it makes enough noise to attract the detention room
+monitor, and you're not allowed to be up here during your lunch hour.
+109964: sticker) but you keep forgetting.
+
+There's a small pile of textbooks in
+there.
+110024: It's your science textbook, an English reader, and a French textbook.
+None of which you want to even look at after class -- never mind carry around
+-- thanks very much.
+110146: You notice there's a 5.25" floppy disk sitting on top of them.
+110196: It's for your computer class.
+110250: ]
+
+"Brilliant!" she exclaims, stuffing her notebook away and closing
+the disk drive. "This is gonna be the best Virus ever!" 
+
+You try to remember
+why that sounds familiar, and then pull out your well-worn copy of the zine.
+"You did this?" 
+
+She looks at it, obviously pleased that you have it. "Yup.
+Well, me and my friend Leo -- I do most of the work, though." 
+
+She stares at
+the screen. "I wonder how people are going to feel about the fact that the
+combined budgets of the art and the music departments are one third of the
+rugby team's?" She taps some keys and the disk drive grinds and glows red.
+110688: Naw, you don't really know what you're doing -- you're worried it'll
+get erased or something.
+110758: There's a constant hubbub in this large room, which is intended for
+eating food. There's a lot more card players, arguers, wrestlers and crammers
+than there are diners, however, and they're all playing out their little
+dramas. Off to the side is a tiny food booth, occupied by Old Pudge.
+
+There's a
+stairwell to the west, and you can smell the fresh air coming from the east
+door.
+111032: ASK PUDGE ABOUT what you'd like to buy.
+111068: The game they are playing is called Briskola, which uses an Italian
+deck with swords, pots, feathers, and suns. Apparently there's extra points
+awarded for style and insults. 
+
+One fellow jumps onto the bench and slams down
+his card with a shout: Deesh!
+111248: They're too involved in their own worlds to answer.
+111324: There's two seniors wrestling on the floor, their brushcuts shining
+with exertion. At first you think the teacher who's there is trying to break it
+up, but then you realize he's giving them advice on their holds.
+111472: They're too involved in their own worlds to answer.
+111548: The arguers are facing off across the table, a small crowd around them.
+One preppy boy with red hair and freckles is pointing at a guy with a monobrow
+and coifed black hair. 
+
+"New Order are way fucking better than the Shits,"
+says the preppy boy, propping his foot up on the seat. 
+
+"The Smiths have real
+songs, not synthesized crap like New Odour," the other guy shoots back.
+
+
+"Yeah, well Morrissey's a fag!" 
+
+"You're the fag!" The discourse devolves
+from there.
+111892: They're too involved in their own worlds to answer.
+111968: Apparently, some boys are convinced that homework is obligatory and
+that tests matter. It's charming.
+112040: They're too involved in their own worlds to answer.
+112116: No one likes to be stared at while they eat.
+112148: They're too involved in their own worlds to answer.
+112224: You don't see it here, but who knows what Pudge has behind the counter?
+ASK PUDGE ABOUT stuff.
+112300: He sells a surprising variety of things, meeting all teenage boy needs
+-- excepting, perhaps, porn and smokes. The fat old man is wedged in his booth,
+wiping up something, his apron swaying with the exertion.
+112508: Leave the obvious forms of violence to the jocks.
+112542: You point at your boots. "I need laces," you say to Old Pudge, and he
+looks under the counter. He pulls out two exceptionally long black laces like
+they were spaghetti and slaps them on the counter. "Two bucks," he says, and
+you gladly pay. 
+
+Excited, you sit down in the middle of the floor, remove the
+red laces and start lacing up the black ones. It takes a while to thread
+fourteen eyeholes, and you attract the attention of quite a few boys. When
+you've tightened them and stood up again, you find yourself looking into Mr.
+Pannus' unsmiling bearded face. 
+
+"Those boots are not regulation, are they."
+He pauses for a moment for you to process this non-question. "Come with me," he
+says softly, and you walk behind him to...
+113068: Pudge squashes his belly against the counter to look over at your
+boots. "What's wrong with those?" he retorts.
+
+You have no reply.
+113164: You're not hungry, especially for caf food.
+113196: You can't even ask. Even though Pudge is a fat middle-eastern guy with
+a disfiguring birthmark on his face, he still looks too much like your dad.
+113300: Old Pudge grunts and shakes his head, continues rubbing grease around
+the counter.
+113440: A crossroads of sorts, the stairwell area allows you to go up to the
+second floor, down to the gym, and east to the caf. This is where, according to
+the daily PA announcements, boys tend to "linger" -- and said lingering causes
+clogging and potential accidents. Consequently, lingering in the stairwell is
+forbidden.
+113664: Door's locked, and you can hear shouts and ball-echoes within to
+further repel you.
+113724: It's a classroom that evokes the feel of an interrogation chamber
+without resorting to a single bare bulb. There's a blackboard and a large
+teacher's desk. All except a few of the desks have been removed, and Jackson
+sits at one of them. The other boy is Mophead, who gives you a vacuous grin.
+113932: Not the place to chitchat, with Pannus standing right there.
+113976: "Not until you give me what I've asked for," Pannus says.
+114020: Pannus swiftly cuts you off.
+114040: It's a tattered New Testament that Jackson is copying out for the
+duration of his detention time -- a classic punishment which teaches even more
+dislike of the holy book.
+114160: You had no idea they made markers in Puke Green and Violent Red, but
+there you go.
+114220: It's a big wooden teacher's desk, on which is an envelope with a couple
+of dance tickets sticking out of it.
+114296: Pannus notices your interest in the tickets. "It's completely sold
+out," he says, stroking his beard like a pet, "These are for the boys who will
+take the tickets at the door." He looks at you for a second, his green eyes
+seeming to flicker. "I'll tell you what. If you clean the blackboard, I'll let
+you be on the first shift."
+114532: When you reach for the ticket, Pannus hands you a cloth and nods at the
+board. "Better give it a good buff. Get it as shiny as those boots of yours."
+There's an amused look in his eye now.
+114666: You reach again for the ticket, prepared to slink out with it, but
+Pannus places a finger on the pile. He's noticed the zine peeking out of your
+pocket. 
+
+"Did you know that little... pamphlet has been banned from the
+school?" he enquires, his eyebrows lifted. "Maybe you don't. Well, let's do a
+trade, shall we?" 
+
+You sneak a glance at Jackson, who gave you Virus -- the
+first sign of camaraderie. Jackson's eyes are glassy and his nostrils are
+flared.
+115000: The blackboard is filled with crossed-off names.
+115328: Ominously, the blackboard is filled with crossed-off names.
+115370: The girl has really short hair except for her bangs. She's wearing a
+black leather jacket and a laced up skirt.
+115452: A cute punk girl is here, trying to look bored.
+115698: " she breathes. She hits the spacebar and a password request comes up.
+She tries a few: Jesus, God, Pope. 
+
+"Denied. Damn," she says.
+115804: Kym's face is an unearthly green as she tries password after password.
+115856: Kym's trying to jot down all the juicy information, but there's too
+much of it.
+115912: Leave the obvious forms of violence to the jocks.
+115946: "What's this?" She flips through it. "Vergentis, huh," she murmurs,
+typing it in. "Ha!" she says, and you sit down beside her. "Nice work, sleuth,"
+she says, plucking the back of your mohawk. Your mouth curls a little
+involuntarily at the contact, and she notices. 
+
+She looks at you for a second.
+"You're not so tough when you smile..."
+116200: "Rad!" Kym says. "Put it in the computer!"
+116236: "School computers always have a pretty easy password," she says.
+116284: She glances at the painting. "Not as innocent as he looks, I bet," she
+quips.
+116344: "I wish this damn computer had a disk in it," she says as she scribbles
+down the info from the spreadsheet. "Can't even see what I'm writing here."
+116452: "I refuse to answer that question on the grounds that it might
+incriminate me," Kym cracks.
+116518: You lean in towards her, noticing how the letters from the computer
+screen reflect in her eyes before she closes them. A dry kiss, and then a
+not-so-dry one, and then her tongue is in your mouth. You slide your hand down
+the back of her shaved head and onto her studded collar as she slides her hand
+up your leg. You grip her collar and gasp as she slides her hand across your
+crotch and down the other leg.
+
+She smiles at you and bites her lip.
+"Wanna?"
+
+>
+116842: You nod, not sure exactly what she has planned but not really picky,
+either. She moves the chairs enough so she can lie down behind the secretary's
+desk. Her face is suddenly serious, and young, and then she pulls up her skirt.
+You take off your pants, thanking god that the dark hides the baby blue of your
+underwear, and lie down beside her.
+
+When you're fucking, you think about how
+you can hear the music from downstairs, that you're a few inches away from
+Pannus' office, that sex feels really different than jacking off, that neither
+of you have moaned in a few minutes.
+
+So you pull out and yank your pants up
+over your still-hard cock. She gets her panties from under one of the desks and
+dresses. "Thanks," you say, aware of the sub-porn quality of what just
+happened, but not wanting her to feel bad.
+
+She shrugs, and moves the chair
+back to the computer. "I don't know what the big fuss is about," she says,
+sitting down.
+
+She turns back to the screen and starts looking through the
+school records. "Oh, man, there's some good stuff here... teacher's salaries...
+wow, the entire annual budget?" 
+
+She pulls a small skull-festooned notebook
+out of her jacket pocket and starts writing things down. "Fuck, I can barely
+see..."
+117726: She shrugs. "Yeah, me neither," she  says, sitting at the
+computer.
+
+She turns back to the screen and starts looking through the school
+records. "Oh, man, there's some good stuff here... teacher's salaries... wow,
+the entire annual budget?" 
+
+She pulls a small skull-festooned notebook out of
+her jacket pocket and starts writing things down. "Fuck, I can barely see..."
+118002: Kym, her green eyes aglow with mischievous excitement, heads west down
+the hall checking doors.
+
+A second later, Kym whisper-yells "Hey! This one's
+open!" and then disappears south into the office.
+118192: He's got short green hair and a Skate or Die! t-shirt, and is talking
+animatedly to Jackson.
+118304: You're in a maze of twisty subdivisions, all alike.
+118344: After you drop it, a wandering landscaper leafblows it back into your
+hands!
+118398: After wandering for what seems like months, the landscape of
+cookie-cutter identical houses folds in on itself and you collapse into
+gibbering madness.... 
+
+When you open your eyes you find yourself in...
+118548: You decide to make a break for it.
+118930: You and Dave are sitting against the fence, waiting for the others. You
+pick up and toss pebbles into the shadows across the Path. Dave keeps plucking
+at his skull-buckle boots and not saying anything. You wish goths were more
+talkative, but his veil of hair (which he's dyed black for the occasion) is
+impenetrable. 
+
+You're a little cold. You're wearing a sleeveless union jack
+t-shirt without a jacket, since the rest of your ensemble -- khaki pants rolled
+up to show off your docs and a gelled up mohawk -- doesn't go with your dumpy
+corduroy jacket. You look at Dave's long overcoat with jealousy. 
+
+Stuart and
+Jackson appear, talking. They're dressed for the dance. "I don't -- there they
+are." 
+
+"Hey," Stuart says, thumping against the fence opposite you. "We're
+late 'cause Jackson's a total pussy." 
+
+"Shut up," says Jackson. "We ended up
+getting it, didn't we?" 
+
+"Yeah, well, if you had just gone in and got it..."
+Stuart goads, pulling the flat bottle out of his army jacket and shaking it.
+
+
+"What are you shaking it for?" Dave says scornfully. "You don't shake liquor.
+It's not orange juice." 
+
+Stuart shrugs, unscrewing the top. "Can't hurt," he
+says, a slightly embarrassed look on his face. "If you're such a fucking
+expert, why didn't you get it?" 
+
+"What did you get?" you say, wanting to be
+part of the conversation. 
+
+Stuart takes a swig and hands it to you.
+119948: You swallow a small mouthful quickly, squeeze your eyes shut until the
+retching feeling passes, and pass the  bottle to Dave. 
+
+"So I was like,
+'Jackson -- just go in and get it,'" Stuart says. "You dress like someone's
+dad, they'll never ask you for ID.' But he wouldn't, so we had to wait for some
+rocker to come along who'd buy for us." 
+
+Dave takes two swigs and hands it to
+Jackson, who hands it to Stuart. "Even Hardcore here is drinking, guy," Stu
+says with a smirk, handing the bottle to you. You swig and pass it on. 
+
+"You
+remember what happened the last time," Jackson says. "I want to actually get
+into the dance this time. Pannus has still got me in detention from last year!"
+
+
+"Well, I mean, you puked in front of him," Dave says with a rare smile.
+"We're lucky we went in before you." 
+
+Stuart is snickering. "You were so
+fucked that night. The only thing that sucked about it was that you had a
+chance to puke on Penis and you puked on your own shoes. That's a shame."
+
+
+"Well," Jackson says, "They're obviously going to be watching me tonight, and
+I want to get into the dance." 
+
+"So you can show off all your skanking skills
+when they play One Step Beyond?" says Stuart, getting to his feet and
+mock-dancing. 
+
+Jackson laughs, watching Stuart's scowling dance moves. 
+
+"Ah,
+it's going to suck anyway. They always do," says Dave, passing the bottle to
+Stuart. "Last time we missed the only Cult song they played." 
+
+"That's why you
+should have got the stuff faster," says Stuart over the bottle. "We would have
+gotten in with the first rush of people and no one would notice we were drunk."
+
+
+"Yeah, it's not like we stick out or anything," Jackson says dryly. "Besides,
+who was a half-hour late getting to my place tonight?" 
+
+You take another swig.
+It's not getting any less vile, but it's almost finished. 
+
+"How hard is it to
+go into a store and buy something?" says Stuart. 
+
+"You're almost a year older
+than me. You're sixteen," Jackson says. 
+
+You're a bit nervous with the mention
+of age, since you're fourteen. 
+
+Rolling his eyes, Stuart takes the bottle from
+Dave and polishes it off. "It doesn't have anything to do with that. With my
+innocent young face, I couldn't buy milk past the due date." 
+
+"OK, let's go,"
+Jackson says, getting to his feet and pulling out some gum. He hands everyone
+one piece, which you start to chew. Blueberry. 
+
+As you get up, you notice a
+little dizziness. Everyone heads west, taking careful steps, and as you pass
+the portables Stuart whips the empty bottle into the night and cocks an ear.
+
+
+When there's no smash he frowns. "Damn. Missed the sign.". 
+
+You enter the
+school and walk through the caf. The sudden bright lights intensify your
+dizziness into nausea. 
+
+The ticket table is set up just outside the gym door,
+beside the stairwell. The sudden stop in front of it brings up bile. The
+senior, who takes Jackson's ticket and lets him go, looks at you guardedly.
+Then he tells you to wait. 
+
+A moment later, Mr. Collins, the gym teacher,
+appears. He's got a hockey stick over his shoulder and a smarmy grin on his
+face. 
+
+"What have you boys been up to tonight?" he says, tapping at the sides
+of your mohawk with the flat of his stick. "Other than hairdressing?" 
+
+The
+know-it-all attitude sets off an explosion of rage in your head -- and,
+unfortunately, also detonates an acid ball in your stomach. You're going to be
+sick.
+122550: o we had to wait for some rocker to come along who'd buy for us."
+
+
+Dave takes two swigs and hands it to Jackson, who passes it of to Stuart.
+"C'mon guy," Stu says, "Show Hardcore here how it's done." 
+
+"You remember what
+happened the last time," Jackson says. "I want to actually get into the dance
+this time. Penis has still got me in detention from last year!" 
+
+"Well, I
+mean, you puked in front of him," Dave says with a rare smile. "We're lucky we
+went in before you." 
+
+Stuart is snickering. "You were so fucked that night.
+The only thing that sucked about it was that you had a chance to puke on Penis
+and you puked on your own shoes. That's a shame." 
+
+"Well," Jackson says,
+"They're obviously going to be watching me tonight, and I want to get into the
+dance." 
+
+"So you can show off all your skanking skills when they play One Step
+Beyond?" says Stuart, getting to his feet and mock-dancing. 
+
+Jackson laughs,
+watching Stuart's scowling dance moves. 
+
+"Ah, it's going to blow anyway," says
+Dave, passing the bottle to Stuart. "The last time we missed the only Cult song
+they played." 
+
+"That's why we should have got the stuff faster," says Stuart
+over the bottle. "We would have gotten in with the first rush of people and no
+one would notice we were drunk." 
+
+"Yeah, it's not like we stick out or
+anything," Jackson says dryly. "Besides, who was the one who was a half-hour
+late getting to my place tonight?" 
+
+"How hard is it to go into a store and buy
+something?" says Stuart. 
+
+"You're almost a year older than me. You're
+sixteen," Jackson says. 
+
+You're a bit nervous with the mention of age, since
+you're fourteen. 
+
+Rolling his eyes, Stuart takes the bottle from Dave and
+polishes it off. "It doesn't have anything to do with that. With my innocent
+young face, I couldn't buy milk past the due date." 
+
+"OK, let's go," Jackson
+says, getting to his feet and pulling out some gum. He hands everyone one
+piece, which you start to chew. Blueberry. 
+
+Everyone heads west, taking
+careful steps, and as you pass the portables Stuart whips the empty bottle into
+the night. A second or two later there's a distant, but still tremendously
+satisfying, smash. 
+
+You enter the school and walk through the caf to where
+they've set up the ticket table. 
+
+You and Jackson get in with your tickets but
+Stuart and Dave are stopped at the door. 
+
+As you enter the stairwell area, you
+hear a crash from the caf. Mr. Collins, hockey stick in hand, rushes past you
+to see what's happened. 
+
+You figure you don't want to know. Jackson gives you
+a raised eyebrow and heads down the stairs. You follow him to...
+124460: You pause a second, wondering if you're doing this out of some kind of
+herd instinct. There are other ways to prove your punkness.
+
+You sure you want
+to do this?
+124576: He winces, but hands one over.
+
+You flick your lighter and manage the
+first puff without choking. But the second and third leave you watery-eyed and
+hacked out. Stuart enthusiastically pounds on your back through it all,
+guffawing, "Hey there H.C., take it slow."
+
+"Hey!" yells one of the bigger boys
+on the Path. "That's my fucking lighter." He stomps up to you and yanks it out
+of your hand, almost taking a finger with it. He looks like he's going to kick
+your ass, but then notices Stuart standing behind you.
+
+"Fucking freaks," he
+says after a second, and goes back to his friends.
+
+[You get five punk points
+for that.]
+125072: Two weeks later, it's the day of the fall dance. You've decided that,
+lame or not, you want to go -- and your last chance to get a ticket is right
+after this class. There's ten minutes left, and you're a coiled spring waiting
+for the bell to end science class. There's nothing you can do but wait...
+125288: Smiling, perhaps, at the attention you're giving her, she shouts
+something. You shake your head and cup your ear. She tries again, and then just
+points at the exit. Seeing Jackson and the guy were somehow communicating --
+mostly with hand signals -- you go upstairs. 
+
+"I like how you dance," she
+says, walking up the stairs. In the sudden light, you can see that she has way
+too much makeup and that her legs are a little thick. "You can tell a lot about
+a person by how they dance." 
+
+You nod, dumbly. 
+
+"So you go here?" she says,
+looking around and noticing the gym teacher, standing in front of the stairs.
+
+
+"Yeah, it sucks," you mumble, stunned at your eloquence. 
+
+"They're fucking
+fascists at my school too," she says, staring daggers at Collins. "But they're
+stupid..." 
+
+She raises her voice. "He was making the sign of Satan during that
+song! Isn't this a Catholic school!" she says, her voice echoing in the
+stairwell. 
+
+Collins blinks, folds his arms, unfolds them, and finally heads
+downstairs. 
+
+"I'm Kim," she says, watching him go. "Spelled like gym." 
+
+You
+shake her hand admiringly. 
+
+"Let's explore," she says, heading upstairs. You
+follow her.
+126152: Destruction of school property is fine, but littering's too petty to be
+punk. Besides, you've got enough pockets for twice as much as you're carrying.
+126300: Judging by the chip on your shoulder, you like carrying around unwieldy
+objects. But this is ridiculous.
+126374: Positioning yourself directly under the gently flashing mechanical
+snitch, you whip the glob. Splat!
+
+You've gummed up the works quite nicely.
+126480: You're new to this troublemaking stuff, aren't you? Here's a clue:
+maximum impact for minimum effort, OK niner?
+126564: With what? Your burning ambition?
+126590: Looking up at the (hopefully) decommisioned smoke detector, you light
+one of the towels in the can and head back to your seat in the auditorium. A
+few seconds after your bum hits the chair the smoke leaking out of the
+changeroom sets off the gymnasium's fire alarm. The brother saying prayers
+looks at the roof, as if betrayed by God.
+
+The crowd of boys goops like
+molasses towards the exit, and just as you squeeze out the front door someone
+grabs your collar. 
+
+Shit, you think. Caught so soon? The game's barely begun.
+
+
+It's the skinhead. "Well, Hardcore Niner," he says, slapping down your blazer
+and straightening your tie, "Let's get a look at you!" 
+
+The mod and the goth
+join him, and the three of them scrutinize you in the bright sun of the
+basketball court. It's beginning to fill up with increasingly rambunctious
+boys. 
+
+"Hey," one coifed gino says to someone who's just emerged. "What the
+fuck did I tell you to do? Huh?" The boy mumbles something that is, apparently,
+unsatisfactory, since the gino gives him a slap in the forehead. You look away,
+just glad that you're not that kid. 
+
+The mod pokes his head towards the east,
+"Let's go to the Path before Penis comes out." He includes you in this, and the
+four of you walk away together, the skinhead and the goth in front. 
+
+"I'm
+Jackson," says the mod, "They're Stuart and Dave. That was you, back there,
+wasn't it?" 
+
+You shrug noncommittally. 
+
+He smiles and hands you a small
+photocopied magazine. "You might like this zine. It's full of interesting
+stuff. A friend of mine made it." 
+
+"Thanks," you say.
+127740: Scorch marks might make your your uniform cooler, but it'd hardly show
+up on your black blazer.
+127806: Holding your tie away from you, you flick your lighter and run the
+flame under it -- teasingly quick at first, and then slowly, letting it catch.
+The guys on the Path shout various alarmed and encouraging things, but you just
+watch the polyester blend start to smoke -- and at the last possible second you
+whip it off and stomp out the fire. 
+
+After it's out, you put it around your
+neck and calmly start putting a knot in it. 
+
+Stuart squints at the scorched
+and smoke-scarred tie. "You a firebug or something, H.C.?" he says, with
+admiration in his eyes. 
+
+"Hey!" yells one of the bigger boys on the Path.
+"That's my fucking lighter." He stomps up to you and yanks it out of your hand,
+almost taking a finger with it. He looks like he's going to kick your ass, but
+then notices Stuart standing behind you. 
+
+"You left it in the washroom," you
+explain, trying not to sound like a wimp. Then, on instinct, you sniff the tie.
+"Mmmm," you say. "Burnt polyester." 
+
+He backs off a bit, and gives you and
+Stuart a disgusted look. "Fucking freaks," he says. Stuart laughs a high
+pitched laugh as the jock leaves, shaking his head.
+
+[You get five punk points
+for that.]
+128688: Two weeks later, it's the day of the fall dance. You've decided that,
+lame or not, you want to go -- and your last chance to get your ticket is right
+after this class. There's ten minutes left, and you're a coiled spring waiting
+for the bell. But there's nothing you can do but wait.
+128892: You light a corner of the toilet paper and head back to your seat in
+the auditorium. A few seconds after your bum hits the chair the fire alarm
+starts ringing. The brother saying prayers looks at the roof, as if betrayed by
+God.
+
+The crowd of boys goops like molasses towards the exit, and just as you
+squeeze out the front door someone grabs your collar. 
+
+Shit, you think. Caught
+so soon? The game's barely begun. 
+
+It's the skinhead. "Well, Hardcore Niner,"
+he says, slapping down your blazer and straightening your tie, "Let's get a
+look at you!" 
+
+The mod and the goth join him, and the three of them scrutinize
+you in the bright sun of the basketball court. It's beginning to fill up with
+increasingly rambunctious boys. 
+
+"Hey," one coifed gino says to someone who's
+just emerged. "What the fuck did I tell you to do? Huh?" The boy mumbles
+something that is, apparently, unsatisfactory, since the gino gives him a slap
+in the forehead. You look away, just glad that you're not that kid. 
+
+The mod
+pokes his head towards the east, "Let's go to the Path before Penis comes out."
+He includes you in this, and the four of you walk away together, the skinhead
+and the goth in front. 
+
+"I'm Jackson," says the mod, "They're Stuart and Dave.
+That was you, back there, wasn't it?" 
+
+You shrug noncommittally. 
+
+He smiles
+and hands you a small photocopied magazine. "You might like this zine. It's
+full of interesting stuff. A friend of mine made it." 
+
+"Thanks," you say.
+129964: Arson is an art, my dear boy. And, frankly, you're behaving like a
+hack.
+130020: You (rather masterfully) flush the toilet.
+130052: For the duration of this game, you have an infinitely expanding bladder
+and intestinal tract.
+130116: Punk as it might be, you're still shy about exposing your privates in
+public.
+130454: a    
+
+After the song, a guy and a girl come up to you. The guy starts
+talking to Jackson, or rather, shouting over the music. They seem to know each
+other.
+130568: You move around a bit, but without decent music you can't really get
+into it.
+130624: You dance, watching the punk girl watch you.
+130656: Yeah, that's punk! you think. But after a minute of straining and
+grunting you give up, amazed at how strong they're making polyester blends
+these days.
+130848: Profanity's a good starter, but there's more dynamic ways to cause
+trouble in this game.
+130912: You refuse to sing without at least three chords backing you up. At
+least until your voice stops cracking.
+130988: You want to live your dreams, not live in them. Get your ass up.
+131036: You're not really tired -- just tired of your boring life.
+131080: You zone out for a while, imagining yourself at a real punk rock show.
+You don't know that much punk rock music, so your imagined band has a limited
+repertoire of covers, but it's exciting all the same.
+131224: You linger for a while, to no effect.
+131306: ]
+
+Two boys wander by and linger for a minute. One of them has two
+dance tickets, side by side, and looks from one to the other. "I can't tell the
+difference," he eventually says. "That's what I'm sayin'!" says the first boy,
+grabbing one of the tickets back. "His parents are like, master forgers in Hong
+Kong or something. Passports and shit."
+
+You're dying to ask them who, but you
+can't -- they're preps. You cross your arms and stare into space until they
+finish up lingering and leave.
+131906: yie. ATTACK STU). If you'd like to see how far into the game you are,
+check your SCORE, and you can UNDO one turn. There's also INFO on the game
+itself.
+
+And that's all the help you get. Hints are for fucking posers.
+132388: morg/punkpoints>. On the basis that the creation of this game was only
+possible with the help of a community unmotivated by profit, this game is
+freeware. Enjoy!
+132504: Your decision of whether to drink or not entirely changes the endgame.
+132552: Your decision of whether to drink or not entirely changes the endgame,
+and how you interact with Kym affects your fate.
+133324: , which gives you the rank of Old School.
+
+Eventually, you become a
+co-editor of Virus, and when Pannus discovers this he tries to get you
+expelled. But the impassioned rant you publish and distribute to the school at
+large -- arguing that Thou Shalt Not Lie demanded the honest journalism found
+in publications like Virus, and pointing out that the original meaning of
+"catholic" was "tolerant" -- finds its supporters in the administration, and
+you're just suspended.
+
+After graduation, you and Kym and your son get a place
+downtown. It's close to the market and Anthony's daycare. You get a well-paying
+government job and Kym volunteers as an intern at a left-wing magazine.
+133808: , which gives you the rank of Old School.
+
+With your love of
+explosions, it's only a matter of time before you convince Stuart and Jackson
+to join you in forming an incredibly noisy punk band. The Papacidal Maniacs
+didn't win the school battle of the bands (Penis introduced you as the
+Pepto-Bismol Maniacs, and later had cause to regret it) but you do get to play
+a gig downtown before you split up.
+
+Many bands and years later, your friend's
+band, Fuck You Mr. Man, suddenly needs a replacement for their pregnant
+bassist, so you blow off Christmas exams and go on tour. Somewhere between
+Saskatoon and Calgary your friend becomes more than a friend and you never come
+back. The Vancouver drunk-punk house you start together becomes mythic.
+

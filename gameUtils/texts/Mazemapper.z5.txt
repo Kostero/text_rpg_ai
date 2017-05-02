@@ -1,0 +1,442 @@
+28801: Identification number:
+30243: There is no reply.
+30280: Nothing is on sale.
+30733: Dropped.
+30881: . Not bad.
+31783: Wrahn seem interested.
+32879: Done.
+32962: You are carrying nothing.
+33077: Keep your mind on the game.
+33102: You hear nothing unexpected.
+34016: But it's dark.
+34033: You find nothing of interest.
+34091: Quite.
+34121: Nothing to do!
+34156: o. You have won
+34221: It is now pitch dark in here!
+34248: I beg your pardon?
+34312: Sorry, that can't be corrected.
+34341: Think nothing of it.
+34394: As good-looking as ever.
+34426: You can hardly repeat that.
+34451: You can't begin with a comma.
+34565: I didn't understand that number.
+34594: You can't see any such thing.
+34630: You aren't holding that!
+34671: I'm not sure what "
+34723: That's not a verb I recognise.
+34761: You can't see "
+34868: Nothing to do!
+34885: There are none at all available!
+35333: You must supply a noun.
+35356: You may not supply a noun.
+35381: You must name an object.
+35404: You may not name an object.
+35429: You must name a second object.
+35465: You must supply a second noun.
+35696: That was a rhetorical question.
+35723: Score notification off.
+35746: Score notification on.
+36118: You are unable to.
+36137: Nothing obvious happens.
+36277: That's not a direction.
+36300: Not that way you can't.
+36447: You lack the dexterity.
+36532: Done.
+36614: Please answer yes or no.
+36640: Are you sure you want to quit?
+36760: Removed.
+36791: Failed.
+36810: Restore failed.
+36827: Ok.
+36837: You achieve nothing by this.
+36869: Save failed.
+36884: Ok.
+36991: There is no score in this story.
+37052: Transcripting is already off.
+37118: Transcripting is already on.
+37184: But it's dark.
+37259: You find nothing of interest.
+37515: Your singing is abominable.
+37549: You smell nothing unexpected.
+37576: Oh, don't apologise.
+37605: Keep your hands to yourself.
+37630: You achieve nothing by this.
+37938: Taken.
+37949: You are always self-possessed.
+38461: You taste nothing unexpected.
+38495: You talk to yourself a while.
+38522: This provokes no reaction.
+38548: What a good idea.
+38574: Futile.
+38612: Keep your hands to yourself!
+38637: You feel nothing unexpected.
+38662: If you think that'll help.
+38973: Time passes.
+39016: That seems unnecessary.
+39138: You wave, feeling foolish.
+103638: Variable stack offset wrong:
+103708: Variable stack offset wrong:
+113116: You can't move nothing.
+113154: You can't divide by zero.
+113595: Attempt to 'decide on nothing'.
+113629: Low level error.
+113779: The memory stack is exhausted.
+113821: Error handling external file.
+131644: After moving blanks to back:
+131695: Final state:
+140885: Pass 1:
+140897: Pass 2:
+140909: Pass 3:
+141153: Pass 1:
+141165: Pass 2:
+141177: Pass 3:
+141421: Pass 1:
+141433: Pass 2:
+141445: Pass 3:
+141689: Pass 1:
+141701: Pass 2:
+141713: Pass 3:
+141957: Pass 1:
+141969: Pass 2:
+141981: Pass 3:
+142225: Pass 1:
+142237: Pass 2:
+142249: Pass 3:
+142493: Pass 1:
+142505: Pass 2:
+142517: Pass 3:
+142761: Pass 1:
+142773: Pass 2:
+142785: Pass 3:
+143029: Pass 1:
+143041: Pass 2:
+143053: Pass 3:
+143297: Pass 1:
+143309: Pass 2:
+143321: Pass 3:
+143565: Pass 1:
+143577: Pass 2:
+143589: Pass 3:
+143833: Pass 1:
+143845: Pass 2:
+143857: Pass 3:
+144139: Pass 1:
+144151: Pass 2:
+144163: Pass 3:
+144485: Pass 1:
+144497: Pass 2:
+144509: Pass 3:
+144829: Pass 1:
+144841: Pass 2:
+144853: Pass 3:
+145173: Pass 1:
+145185: Pass 2:
+145197: Pass 3:
+145479: Pass 1:
+145491: Pass 2:
+145503: Pass 3:
+145787: Pass 1:
+145799: Pass 2:
+145811: Pass 3:
+146095: Pass 1:
+146107: Pass 2:
+146119: Pass 3:
+146441: Pass 1:
+146453: Pass 2:
+146465: Pass 3:
+146747: Pass 1:
+146759: Pass 2:
+146771: Pass 3:
+147093: Pass 1:
+147105: Pass 2:
+147117: Pass 3:
+147437: Pass 1:
+147449: Pass 2:
+147461: Pass 3:
+147743: Pass 1:
+147755: Pass 2:
+147767: Pass 3:
+148051: Pass 1:
+148063: Pass 2:
+148075: Pass 3:
+148359: Pass 1:
+148371: Pass 2:
+148383: Pass 3:
+148667: Pass 1:
+148679: Pass 2:
+148691: Pass 3:
+148937: Pass 1:
+148949: Pass 2:
+148961: Pass 3:
+149205: Pass 1:
+149217: Pass 2:
+149229: Pass 3:
+155362: in" or "notin
+155378: opmhas" or "hasnt
+155520: }" at end of "objectloop
+157184: Score:
+157192: Moves:
+157200: Time:
+157208: You can't go that way.
+157340: Violence isn't the answer to this one.
+157368: This dangerous act would achieve little.
+157396: I don't think much is to be achieved by that.
+157456: There's nothing suitable to drink here.
+157484: You can only get into something free-standing.
+157556: You see nothing unexpected in that direction.
+157588: But you aren't in anything at the moment.
+157648: You'll have to say which compass direction to go in.
+157688: You can't put something inside itself.
+157716: You jump on the spot, fruitlessly.
+157772: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+157868: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+157952: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+158064: You see nothing unexpected in that direction.
+158260: Please give one of the answers above.
+158288: [You can't "undo" what hasn't been done!]
+158324: [Can't "undo" twice in succession. Sorry!]
+158364: "Oops" can only correct a single word.
+158392: It is pitch dark, and you can't see a thing.
+158424: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+158484: You seem to want to talk to someone, but I can't see whom.
+158528: To talk to someone, try "someone, hello" or some such.
+158568: I didn't understand that sentence.
+158628: You seem to have said too little!
+158652: You can't use multiple objects with that verb.
+158688: You can only use multiple objects once on a line.
+158724: You excepted something not included anyway!
+158756: You can only do that to something animate.
+158788: That's not something you need to refer to in the course of this game.
+158836: I didn't understand the way that finished.
+158868: Sorry, you can only have one item here. Which exactly?
+158968: You may not name a second object.
+158992: You may not supply a second noun.
+159016: You must name something more substantial.
+159048: The use of UNDO is forbidden in this game.
+159080: That noun did not make sense in this context.
+159204: That would be less than courteous.
+159256: You can't put something on top of itself.
+159288: Are you sure you want to restart?
+159312: Attempt to end transcript failed.
+159336: Attempt to begin transcript failed.
+159364: You aren't feeling especially drowsy.
+159392: Real adventurers do not use such language.
+159424: There's nothing sensible to swing here.
+159452: You're carrying too many things already.
+159484: You lack the nerve when it comes to the crucial moment.
+159524: You would achieve nothing by this.
+159576: The game file has verified as intact.
+159604: The game file did not verify as intact, and may be corrupt.
+159648: The dreadful truth is, this is not a dream.
+161692: I didn't understand that sentence.
+161816: Variable unavailable for this action, activity or rulebook:
+162292: Too many procedural rules acting all at once.
+162326: Too many rulebooks in simultaneous use.
+162358: Too many timed events are going on at once.
+162524: Too many activities are going on at once.
+162554: Tried to abandon an activity which wasn't going on.
+162594: Tried to end an activity which wasn't going on.
+162632: You can't remove nothing from play.
+162660: Tried to access property for a value which didn't fit:
+163318: Attempt to see if a snippet of text matches something which is not a
+topic.
+163374: Attempt to find route or count steps through an implicit relation.
+163518: Attempt to ignore the turn sequence rules.
+163694: The list-writer has run out of memory.
+163726: Attempt to remove the player from play.
+163758: Attempt to remove a door from play.
+163786: Attempt to change the player to a person off-stage.
+163826: Phrase applied to an incompatible kind of value.
+163864: Memory allocation proved impossible.
+163892: Attempt to use list item which does not exist.
+163926: Syntax error in regular expression.
+163954: This interpreter does not support Unicode.
+163988: Only backdrops can be moved to multiple places.
+164122: You can't take the square root of a negative number.
+164164: You can't implicitly repeat through the values of this kind:
+164252: Attempt to set a variable to the wrong kind of object:
+179120: Hmm ... everything else seems pretty self-explanatory.
+179164: If you don't know what you're looking for, and you're, oh I dunno,
+surrounded by grass?, try >LOOK IN THE GRASS or >SEARCH THE GRASS.
+179284: Maybe you're wondering how to talk to a character. >TALK TO (character)
+ought to do it.
+179660: So, for instance, LOOK, LOOK AT FISH, TAKE FISH.
+180020: All you discover by searching the grass is a deep hole, leading who
+knows where?
+180076: And here you are again. Next time, don't assume you even WANT to find
+the center of a maze! Oh okay, I guess you should get a couple points ...
+180184: As good-looking as ever.
+180204: At any given time, you are in a specific location, or room. When you go
+into a room, the game will print a description of what you can see there. This
+description will contain two vital kinds of information: things in the room you
+can interact with or take, and a list of exits, or ways out. If you want to see
+the description again, you may just type LOOK.
+180456: Aw, turn yourself off, ya babbler!
+180484: Aw, turn yourself on, ya wanker!
+180516: Be thorough. If you still can't figure out what to do, try opening
+windows, looking under beds, etc. Sometimes objects are well-hidden.
+180640: C'mon c'mon c'mon c'mon, touch me, babe!
+180672: Certainly not.
+181068: Chickenshit.
+181080: Clickety-clack!
+181092: Consider the genre of the game. Mysteries, romances, and thrillers all
+have their own types of action and motivation. What are you trying to do, and
+how do conventional characters go about doing that? What's the right sort of
+behavior for a detective/romance heroine/spy?
+181316: Did you ever try ...
+181332: Do you always pick the most boring person in the room to talk to?
+181396: Empty as the vacuum between the stars of space.
+181444: Examine every object and look at everything in your inventory. Open all
+the doors you can find, and go through them. Look inside all closed containers.
+Make sure you've exhausted all the options in your environment.
+181750: D. Put a checkmark next to a room when all the exits have been tried
+and you know where they lead.
+181856: Gobble gobble, gulp!
+181872: Good idea considering your circumstances.
+181904: He feels like a sack of straw.
+181928: He's supposed to scare the crows.
+182048: You're not, but you won't.
+182088: If you'd like to know where you can put that ...
+182128: In some locations, IN and OUT will also be useful.
+182208: It doesn't fit anything and never has. By the way, did you notice that
+there's no lock anywhere in this game?
+182288: It looks easy to grab.
+182304: It's kinda fastened down.
+182324: It's way too small for the likes of you.
+182364: Maniac! Fiend! Banana nut cake!
+182480: Most IF games are set in a world made up of rooms without internal
+division. Movement between rooms is possible; movement within a room does not
+always amount to anything. >WALK OVER TO THE DESK is rarely a useful sort of
+command. On the other hand, if something is described as being high or out of
+reach, it is sometimes relevant to stand on an object to increase your height.
+This kind of activity tends to be important only if prompted by the game text.
+182812: Most of the actions you can perform in the world of IF are brief and
+specific. >WALK WEST or >OPEN DOOR are likely to be provided. >TAKE A JOURNEY
+or >BUILD A TABLE are not. Things like >GO TO THE HOTEL are on the borderline:
+some games allow them, but most do not. In general, abstract, multi-stage
+behavior usually has to be broken down in order for the game to understand it.
+183120: Never use the FIND verb, as this puts the object back in your
+possession. Instead say SEARCH THE GRASS when you arrive at a location.
+183224: Nifty maze, huh?
+183240: No go, no throw.
+183256: No.
+183292: So sue.
+183314: Okay, so what am I supposed to do here?
+183396: Occasionally, you will find that the game does not recognize the name
+of an object even though it has been described as being in the room with you.
+If this is the case, the object is just there for scenery, and you may assume
+that you do not need to interact with it.
+183580: Okee-dokee.
+183596: Once at Plowed Field, wait for the wind to stop, then follow its
+directions.
+183652: Once you've gotten your bearings, you may want to explore. Move from
+room to room, and check out every location available.
+183740: One thing that IF does tend to model thoroughly is containment. Is
+something in or on something else? The game keeps track of this, and many
+puzzles have to do with where things are -- in the player's possession, lying
+on the floor of the room, on a table, in a box, etc.
+183944: Other characters in IF games are sometimes rather limited. On the other
+hand, there are also games in which character interaction is the main point of
+the game. You should be able to get a feel early on for the characters -- if
+they seem to respond to a lot of questions, remember what they're told, move
+around on their own, etc., then they may be fairly important. If they have a
+lot of stock responses and don't seem to have been the game designer's main
+concern, then they are most likely present either as local color or to provide
+the solution to a specific puzzle or set of puzzles. Characters in very
+puzzle-oriented games often have to be bribed, threatened, or cajoled into
+doing something that the player cannot do -- giving up a piece of information
+or an object, reaching something high, allowing the player into a restricted
+area, and so on.
+184900: Someone will probably be able to tell you how to get around it.
+184944: Pleasant, and you believe it's telling you something.
+184984: Pleasant, but it seems thoroughly random at the moment.
+185024: Please press SPACE to continue.
+185128: Puffs of straw fill your eyes and blind you. When you can see again,
+the scarecrow is gone.
+185200: QUIT ends the game.
+185232: RESTART puts the game back to the way it was at the beginning.
+185312: RESTORE puts the game back to a previous saved state. You may keep as
+many saved games as you like.
+185400: Rephrase. If there's something you want to do, but the game doesn't
+seem to understand you, try alternative wordings.
+185484: Reread. Look back at things you've already looked at. Sometimes this
+will trigger an idea you hadn't thought of.
+185580: Rows of turnips sprout happily beneath a brooding scarecrow who seems
+to regard you wisely.
+185644: SAVE saves a snapshot of the game as it is now.
+185744: Wrap it up and I'LL take it.
+185982: likewise, notice the verbs that the game itself uses. Try using those
+yourself. Games often include special verbs -- the names of magic spells, or
+other special commands. There's no harm in attempting something if the game
+mentions it.
+186200: That's it.
+186212: That's what you've been doing all along, ain't it?
+186252: That's you, all right.
+186300: The first ten rooms or so can be mapped with the objects you brought.
+Then you should return and pick them all up again so you can start dropping
+them in unmapped rooms. Don't worry, you don't have far to go from here.
+186452: The first thing you want to do when starting a game is acquaint
+yourself with your surroundings and get a sense of your goal. To this end, you
+should read the introductory text carefully. Sometimes it contains clues. You
+will also want to look at the room you are in. Notice where the exits from the
+room are, and what objects are described here. If any of these seem
+interesting, you may want to EXAMINE them.
+187116: The grasses are too thick that way.
+187144: The scarecrow doesn't seem inclined to converse further.
+187184: The scarecrow looks at you with a look one would use on someone who's
+just broken wind at a High Mass.
+187256: The scarecrow says "So you got here. Big deal. Now, can you find where
+you started again? Sure you can?" He seems to smirk.
+187348: The scarecrow wouldn't let you; plus, you don't care for turnips.
+187400: The tall grass extends as far as you can see, rippling slightly in the
+wind.
+187508: So, no!
+187524: There are a few simple commands for controlling the game itself. These
+are:
+187580: There are usually assorted things you may do with these objects. OPEN,
+CLOSE, WEAR, EAT, LOCK, and UNLOCK are especially common.
+187700: They look like turnips, all right.
+187768: This is one of those clarinets.
+187792: This is one of those pairs of dice.
+187820: This is one of those rusty keys.
+187844: This is one of those silk-lined wallets.
+187876: This is one of those toy trucks.
+187900: This is the grass kind of grass, not whatever other kind of grass you
+might've been thinking of (nudge nudge, wink wink).
+187988: This time the scarecrow has decided you're just an uncouth lowlife, and
+looks away.
+188048: Throughout the game there will be assorted objects that you can do
+things with. Most importantly, you may TAKE or GET items, and (when you are
+tired of them) DROP them again. INVENTORY (abbreviated I) will list the items
+you are currently holding.
+188236: Try out all your senses. If the game mentions texture, odor, or sound,
+try touching, smelling, listening to, or tasting objects.
+188328: Try variations. Sometimes an action doesn't work, but does produce some
+kind of unusual result. These are often indications that you're on the right
+track, even if you haven't figured out quite the right approach yet. Pressing
+the red button alone may only cause a grinding noise from inside the wall, so
+perhaps pressing the blue and then the red will open the secret door.
+188644: Well, if you can handle it, I can.
+188684: When you spotted this prairie of shoulder-high grass you knew what it
+was, and you were ready for it. You've done this sort of thing before, so you
+went home and picked up everything you could carry, especially things you
+didn't consider good for anything else.
+189272: NE (or by finding the other end of the hole, of course).
+189358: OKAY?
+189368: You can't see that here.
+189388: You look and look, but it doesn't seem to be around here.
+189432: You might also want to examine yourself (EXAMINE ME) to see whether the
+author has left you any clues about your character. TAKE INVENTORY will tell
+you what you're carrying, as well.
+189596: You succeeded, for what that's worth.
+189624: You'd develop a bad habit of thinking you could put stuff IN your
+wallet.
+190076: This story file does not use a heap of managed memory.
+190396: give" or test "has" or "hasnt" with a non-attribute on the object
+190444: , but it is longer than 2 bytes so you cannot use "."
+

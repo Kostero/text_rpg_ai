@@ -1,0 +1,389 @@
+11454: Nothing to do!
+11489: o. You have won
+11651: fhn[Your interpreter does not provide "undo". Sorry!]
+11748: Please give one of the answers above.
+11779: It is now pitch dark in here!
+11806: I beg your pardon?
+11824: dxn[You can't "undo" what hasn't been done!]
+11866: ehn[Can't "undo" twice in succession. Sorry!]
+11938: Sorry, that can't be corrected.
+11967: Think nothing of it.
+11988: "Oops" can only correct a single word.
+12022: It is pitch dark, and you can't see a thing.
+12073: As good-looking as ever.
+12097: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+12160: You can hardly repeat that.
+12185: You can't begin with a comma.
+12213: You seem to want to talk to someone, but I can't see whom.
+12288: To talk to someone, try "someone, hello" or some such.
+12356: I didn't understand that sentence.
+12426: I didn't understand that number.
+12455: You can't see any such thing.
+12482: You seem to have said too little!
+12511: You aren't holding that!
+12535: You can't use multiple objects with that verb.
+12575: You can only use multiple objects once on a line.
+12615: I'm not sure what "
+12650: You excepted something not included anyway!
+12686: You can only do that to something animate.
+12721: That's not a verb I recognise.
+12751: That's not something you need to refer to in the course of this game.
+12805: You can't see "
+12848: I didn't understand the way that finished.
+12943: Nothing to do!
+12960: There are none at all available!
+13034: Sorry, you can only have one item here. Which exactly?
+13994: Please answer yes or no.
+14020: Are you sure you want to quit?
+14056: Are you sure you want to restart?
+14088: Failed.
+14108: Restore failed.
+14125: Ok.
+14143: Save failed.
+14158: Ok.
+14176: The game file has verified as intact.
+14208: The game file did not verify as intact, and may be corrupted (unless you
+are playing it with a very primitive interpreter which is unable properly to
+perform the test).
+14338: Transcripting is already on.
+14395: Transcripting is already off.
+14444: Score notification on.
+14465: Score notification off.
+14488: You have visited:
+14516: Objects you have handled:
+14541: None.
+14925: You are carrying nothing.
+14974: Taken.
+14985: You are always self-possessed.
+15370: You're carrying too many things already.
+15554: Dropped.
+15664: Removed.
+15753: You can't put something on top of itself.
+15830: You lack the dexterity.
+15911: Done.
+16110: You can't put something inside itself.
+16201: Done.
+16503: Wrahn seem interested.
+16722: You can only get into something freestanding.
+16844: But you aren't in anything at the moment.
+16958: You'll have to say which compass direction to go in.
+17060: You can't go that way.
+17246: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+17348: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+17436: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+17750: Darkness, noun. An absence of light to see by.
+17881: But it's dark.
+17898: You find nothing of interest.
+17934: But it's dark.
+18025: You find nothing of interest.
+19195: . Not bad.
+19213: That was a rhetorical question.
+19240: This dangerous act would achieve little.
+19274: Nothing practical results from your prayer.
+19310: The dreadful truth is, this is not a dream.
+19347: That seems unnecessary.
+19370: Keep your mind on the game.
+19395: What a good idea.
+19414: You smell nothing unexpected.
+19441: You hear nothing unexpected.
+19466: You taste nothing unexpected.
+19501: Keep your hands to yourself!
+19526: You feel nothing unexpected.
+19551: If you think that'll help.
+19577: Digging would achieve nothing here.
+19644: You jump on the spot, fruitlessly.
+19677: You would achieve nothing by this.
+19706: There's nothing suitable to drink here.
+19739: But there's no water here to carry.
+19770: Oh, don't apologise.
+19792: Real adventurers do not use such language.
+19827: Quite.
+19838: Violence isn't the answer to this one.
+19871: There's not enough water to swim in.
+19902: There's nothing sensible to swing here.
+19966: You achieve nothing by this.
+20054: You wave, feeling foolish.
+20204: You are unable to.
+20223: Nothing obvious happens.
+20246: That would be less than courteous.
+20284: Is that the best you can think of?
+20313: That's not a direction.
+20336: Not that way you can't.
+20368: Keep your hands to yourself.
+20393: You achieve nothing by this.
+20427: Futile.
+20439: You lack the nerve when it comes to the crucial moment.
+20491: You talk to yourself a while.
+20518: This provokes no reaction.
+20546: There is no reply.
+20565: Nothing is on sale.
+20584: Your singing is abominable.
+20610: I don't think much is to be achieved by that.
+20647: Time passes.
+20662: You aren't feeling especially drowsy.
+41935: You're a reasonable man so you know you can't walk to Baltimore.
+41994: You'd get fired if you drove your Thunderbird through the office!
+42055: Your engine roars into action!
+42118: You are in your V-8 Ford Thunderbird. You feel the powerful engine
+idling waiting for your next move.
+42195: Luxurious leather, full instrumentation. Very nice. But totally
+incapable of going anywhere until you turn her over.
+42292: You head south, towards and onto the New Jersey Turnpike.
+42357: You're a reasonable man so you know you can't walk to Baltimore.
+42414: You're a reasonable man so you know you can't walk to Baltimore.
+42471: There's not very much to look at. This is Delaware after all.
+42533: You're a reasonable man so you know you can't walk to Baltimore.
+42590: You're a reasonable man so you know you can't walk to Baltimore.
+42657: You're a reasonable man so you know you can't walk to Baltimore.
+42714: You're a reasonable man so you know you can't walk to Baltimore.
+42766: Baltimore! The expanse of the city is all around you. The lights, the
+cars, the action that can only be found in a city.
+42922: It may be late at night but there's nothing like a big city full of
+millions of people to break the static schedules of sleep. Speaking of which,
+you really should get some. You can't meet with your service rep until morning
+and you're about ready to drop. The best thing to do now is find a decent hotel
+and crash.
+43155: It's good to be in Baltimore. You've visited a couple of times before
+and you're always glad to be back. Baltimore may not be as attractive as Boston
+or New York but it's a city nevretheless.
+43304: You can't go back to New Jersey just yet. You still have to take care of
+your router.
+43392: Three men all armed with rather nasty weapons approach you. All at once
+they deprive you of your valuables and your life. Your gut feeling was right.
+This place was not safe!
+43528: You can't reach the cat from inside your car.
+43561: The cat hisses at you and runs a bit out of your reach.
+43612: You can't reach the cat from inside your car.
+43645: She warmly accepts your touch and starts to purr loudly.
+43705: Hotel management would probably disapprove of you plowing through the
+lobby in your car.
+43775: You really should check in and get some sleep.
+43825: Not so fast! You'll get to your hotel room soon enough.
+43887: "Hello there. May I help you in some way?"
+43929: "Good evening. You may check in whenever you're ready."
+43972: The desk clerk looks slightly puzzled.
+44007: I don't think the desk clerk is your type.
+44043: Look, maybe you don't like the hotel but that is no excuse for violence!
+44108: You leave your hotel room and find your way to...
+44151: You don't have to "go" right now.
+44197: Local traffic laws probably have something to say about you driving
+through the promenade in your Thunderbird.
+44295: "Hello, you must be Howard. Finally good to meet you after all our phone
+calls."
+44363: "Good morning. But I suspect that it won't be good for you until I give
+you this new router I have."
+44438: Robert looks at you expectantly.
+44469: I don't think Robert is your type in more ways than one.
+44515: Robert came here to help you. Hurting him is hurting you!
+44575: You hand Robert your old router and he gives you the new one.
+
+"I tested
+your internet circuit and found a breach. I dispatched an engineer last night
+to repair it. Just plug this new router in and you'll be all set."
+With router
+in hand you practically fly back to your office in New Jersey, breaking the
+speed limit in each state you pass. You hook up the new router and the lights
+begin to blink in their normal, methodical pattern.
+
+Your callers begin to
+logon and open their browsers. You have restored service. Your callers are
+ecstatic and praise you on your dedication of going so far out of your way for
+them, especially on a holiday.
+45026: Robert doesn't seem the least bit interested.
+45137: You hand Robert your old router and gives you the new one.
+"I tested
+your internet circuit and found a breach. I dispatched an engineer last night
+to repair it. Just plug this new router in and you'll be all set."
+With router
+in hand you practically fly back to your office in New Jersey, breaking the
+speed limit in each state you pass. You hook up the new router and the lights
+begin to blink in their normal, methodical pattern. Your callers begin to logon
+and open their browsers. You have restored service. Your callers are ecstatic
+and praise you on your dedication of going so far out of your way for them,
+especially on a holiday.
+45598: Another fine day in the Internet Service provider business. You hang up
+the phone as you complete the order for that brand new MUD you're going to
+install on the server. It's Saturday night right before Easter and in the heart
+of the Spring Break. Your customers are going to love the new game. You'll have
+it up and running in just a few minutes in the nick of time for all those
+people with alot of spare time. You turn to your computer to begin downloading
+the new game file so you can wrap up and go home. Thunder rumbles. A storm is
+coming.
+45981: As you begin to glide your mouse to the top of your browser to enter a
+URL
+there is a flash outside and the lights flicker! Instantly you hear lots
+of
+loud buzzing noises as the many reserve power supplies in your office come
+to life to keep your internet server online. The buzzing stops, the lights
+stay
+on. Satisfied, you enter the URL of the web page you want to visit and hit
+[Enter]. Your browser tells you it is unable to find the server. Impossible! In
+a split second a wave of fear crosses your mind as you realize the one way this
+could happen...
+46378: In panic you run into the computer room and it looks like Christmas;
+Your Cisco router, that magical box that puts your server onto the internet, is
+hysterically blinking. Your worst nightmare becomes real: You are an Internet
+Service Provider without the Internet.
+46586: There's nothing here you can pet!
+46618: She warmly accepts your touch and starts to purr loudly.
+46667: Do you really think you can check yourself in right here, ace?
+46716: You already checked in!
+46739: You hand your credit card to the desk clerk who then busily taps away at
+a computer. After you hear a printout being generated he nods and hands you a
+room key. With room key in hand you find your way to...
+46899: Are you sure you're in the right place for that?
+46939: You search your pockets for your room key but come up empty. You'd
+better have a room key if you plan on checking out.
+47028: You hand your room key to the clerk who, in turn, hits a few keys on his
+computer as you hear a printer starting to run. The printing noise stops and
+the gentleman hands you your receipt as he thanks you for your stay.
+47187: This is not the time to call your technical contact.
+47229: You haven't got your cellular phone on you and you know how expensive
+hotel phones are.
+47298: You power up your cellular phone and dial the tech support number for
+your internet backbone provider. You explain the situation to an operator who
+asks you to hold after you tell her your tale of woe. When she takes you off
+hold she tells you that Robert himself, president of the company, will meet you
+tomorrow at the bar at the Baltimore Promenade. The operator reminds you to
+bring your current router with you. You thank the operator and end the
+call.
+
+Now would be the perfect time to get some rest. If you don't hit that
+king sized bed soon you're going to be useless in the morning.
+47714: This is no place to go to sleep!
+47751: You dive into the king sized bed and it feels every bit as comfortable
+as it looked. That isn't saying much considering, due to your exhaustion, you'd
+probably find a bed of nails comfortable. You sleep fitfully.
+
+The phone rings
+a few times. It's the wakeup call you asked for. You groggily acknowledge it
+and get out of bed. You'd better get to Baltimore Harbor and meet with Robert.
+48026: You sleep like a rock. The telephone by your bed rings a few times then
+stops. It must be that wakeup call you asked for. You shake the sleep from your
+head. You get the unnerving impression you were having a bad dream and you wake
+up with the nagging feeling that you neglected to do something crucial.
+49382: et/random and stay tuned. I'll be updating my page quite often with
+status reports.
+51708: An Exercise in Interactive Fiction
+Copyright (c) 1997 by Howard A.
+Sherman
+For help & info about this game type "info" at any prompt.
+51968: Score:
+51976: Moves:
+51984: Time:
+51992: You can't go that way.
+52096: This is one of Tandy's best models. The usual buttons are present which
+allow you to make phone calls. In addition, there are controls for volume
+adjustment and speed dialing.
+52220: A basic Motorola pager which displays the phone number of whoever beeps
+you.
+52276: All leather. The simple once-over fold type. Simple but nice.
+52324: It's actually a credit-card type plastic card with some dots on it. The
+number '101' is clearly visible along one edge.
+52412: This is a sheet of old-style computer paper with the tractor holes on
+the ends. At the top is the Ramada Inn logo and beneath it is a summary of your
+charges for your night's stay at the hotel. A quick glance at the total at the
+bottem tells you that you paid a pretty fair price.
+52718: ROM changers, a 17 inch computer monitor and various other equipment. A
+doorway to the east leads to the main set of offices.
+52808: A Cisco 1000 Router is here, its various lights blinking hysterically.
+52864: The router is a thin box, gray in color. It has a display panel in the
+front. The legend 'Cisco' is displayed prominently on the panel.
+52964: It is apparent that the occupants of this office think of work first and
+organization last. Each of four desks are cluttered with print-outs, computer
+equipment and telephones. These cramped offices are lined with filing cabinets
+in addition to the desks. Free space is definitely a commodity. The computer
+room lies to the west, the main exit is south.
+53208: You are in the parking lot outside the Excaliber Office. Many parking
+spaces are here keeping the shrubs and the garbage dumpster company. The
+Excaliber Office is to the north.
+53444: Your Thunderbird is parked here, it's powerful engine audible under the
+hood.
+53500: Your Ford Thunderbird is parked here.
+53528: You are driving down the New Jersey Turnpike towards Baltimore. Trees
+and streetlamps are a blur as you drive along at a quick pace.
+53624: After just crossing the Delaware Memorial Bridge and paying your toll,
+you continue towards Baltimore on Route 295 South.
+53716: As you cross over a long bridge spanning a beautiful body of water on
+both sides of you, you relax a bit in spite of your demanding mission. The road
+is smooth, the traffic is light and A Flock of Seagulls playing on your stereo
+makes you wish you were making this trip under more relaxed circumstances.
+53968: You are at the end of a street where three tall buildings form a
+junction. Garbage dumpsters, a few homeless people and street lights populate
+this area. You feel a little unsafe.
+54092: What a cute cat! She has the colors of a tabby and looks to be hardly
+older than a kitten. She takes her attention off of a mouse she was spying to
+look up at you and give a soft 'meow.'
+54224: You pull into the parking lot of the Ramada and park your car. You are
+so tired you do this automatically, taking the first spot your eyes lock on.
+The entrance to the hotel lobby is to the north.
+54360: You are just outside the Ramada Inn, Baltimore. The hotel itself is a
+modern three story building. Neatly trimmed shrubs are all around. A glass door
+beckons you to the hotel lobby to the north.
+54500: This hotel must have been remodelled recently. Plush carpeting feel like
+pillows beneath your feet. The decor, in general, is very modern. A few
+comfortable chairs and couches are scattered throughout the room. To the west
+lies the front desk. A hallway to the east leads to guest rooms.
+54704: A single black door would usually lead guests to rooms on the upper
+floors. However, a large 'Out of Order' sign hanging on the elevator call
+button rules out this possibility.
+54828: The front desk is actually a black lacquor counter behind which you see
+two computer terminals, a printer and an elaborate phone system. A small wicker
+basket containing books of matches is sitting on the counter just out of reach.
+The main lobby is to the east.
+55008: Pretty sharp. Glossy black with the red Ramada logo on the outside and a
+toll free telephone number.
+55078: !!! Hello, Traveller !!!
+
+This hotel is equipped with the very latest in
+customer service amenities. For example:
+
+To check in to the hotel just type
+"checkin".
+To check out of the hotel just type "checkout".
+
+Enjoy your stay!
+55256: The desk clerk is a middle aged man, perhaps 40ish, of Indian descent.
+He looks like he's fighting sleep.
+55394: V.
+55400: This is a comfortable room, if a little small. A king sized bed
+dominates the middle of the room. By the window is a small round table with two
+chairs facing each other. A writing desk is also here with a lamp on it. The
+carpeting beneath your feet is soft and springy. The room has a fragrant smell
+to it; the smell of clean without the smell of Mr. Clean, if you know what I
+mean. Immediately adjacent to your room is the bathroom.
+55704: One of the best spots in the city! The slight smell of brine tingle your
+nostrils as you look at the light reflecting on the ocean. Classic wooden ships
+with their sails flapping slightly in the wind line the docks. A few people are
+walking about. Many of them seem to be milling about in the promenade off to
+the west.
+55924: Bustling with activity you hardly know where to begin. To the west is a
+food court with every imaginable delicacy, to the north rows of carts with
+various interesting and colorful trinkets invite you and to the south is a bar
+overlooking an exquisite view of the harbor and the Atlantic Ocean at large.
+56132: Your stomach grumbles slightly as you take in the fragrant aromas of
+every type of food on earth. All around you can be seen stands for seafood,
+pizza, sushi, hamburgers, tacos and more. Tables nearby are populated with
+parents with their children, businessmen and tourists enjoying their food.
+56336: Rows of carts line this part of the promenade manned by merchants making
+their living. If ever you wanted a beeper, a souvenir coffee mug or an Orioles
+baseball cap you've come to the right place.
+56472: This view alone is worth your entire trip. The full expanse of the ocean
+is laid out in front of you as far as you can see. Others seem to share your
+opinion as most of the bar's patrons are enjoying their drinks sitting at
+tables which take full advantage of this panoramic view.
+Off in the distant you
+see a medium-sized yacht moving along at a good pace.
+56720: This room could be the bridge of a starship. Computer terminals are
+everywhere displaying network status screens of everytype.
+56808: Robert is a middle-aged man of thin build. A finely groomed moustache
+accompanies a thoughtful look, as if he is working on a physics problem at this
+very moment. And considering his mindset he may very well be. 
+
+Robert is
+holding a carboard box.
+

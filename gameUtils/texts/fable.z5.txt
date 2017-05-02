@@ -1,0 +1,269 @@
+17129: Nothing to do!
+17164: o. You have won
+17248: It is now pitch dark in here!
+17275: I beg your pardon?
+17339: Sorry, that can't be corrected.
+17368: Think nothing of it.
+17439: You can hardly repeat that.
+17464: You can't begin with a comma.
+17578: I didn't understand that number.
+17607: You can't see any such thing.
+17643: You aren't holding that!
+17740: That's not a verb I recognise.
+17779: You can't see "
+17890: Nothing to do!
+17907: There are none at all available!
+18836: Please answer yes or no.
+18862: Are you sure you want to quit?
+18907: Failed.
+18927: Restore failed.
+18944: Ok.
+18962: Save failed.
+18977: Ok.
+19021: Transcripting is already on.
+19087: Transcripting is already off.
+19145: Score notification on.
+19166: Score notification off.
+19189: You have visited:
+19217: Objects you have handled:
+19242: None.
+19626: You are carrying nothing.
+19675: Taken.
+19686: You are always self-possessed.
+20333: Dropped.
+20479: Removed.
+20618: You lack the dexterity.
+20699: Done.
+20965: Done.
+21204: Wrahn seem interested.
+21995: You can't go that way.
+22670: But it's dark.
+22687: You find nothing of interest.
+22723: But it's dark.
+22843: You find nothing of interest.
+24124: . Not bad.
+24142: That was a rhetorical question.
+24187: You are already awake.
+24208: That seems unnecessary.
+24240: What a good idea.
+24259: You smell nothing unexpected.
+24286: You hear nothing unexpected.
+24311: You taste nothing unexpected.
+24346: Keep your hands to yourself!
+24371: You feel nothing unexpected.
+24396: If you think that'll help.
+24505: Oh, don't apologise.
+24535: Quite.
+24604: You achieve nothing by this.
+24692: You wave, feeling foolish.
+24861: You are unable to.
+24880: Nothing obvious happens.
+24930: That's not a direction.
+24953: Not that way you can't.
+24985: Keep your hands to yourself.
+25010: You achieve nothing by this.
+25043: Futile.
+25072: You talk to yourself a while.
+25099: This provokes no reaction.
+25127: There is no reply.
+25146: Nothing is on sale.
+25165: Your singing is abominable.
+25199: Time passes.
+28185: [Advanced to "noun" token:
+57465: " of "
+57504: " list of "
+57585: " has no "time_left" property
+57615: The object "
+57675: The room "
+57689: " has no "description" property
+74793: Trace off.
+75971: Nothing is in scope.
+77706: You can't go ne from here!
+77762: You can't go se from here!
+77818: You can't enter anything here.
+78054: How many kisses did she get:
+78080: One...
+78252: . Not bad.
+78372: You lock the book with the key.
+78470: The inscription reads, "Wisdom."
+81007: in" or "notin
+81023: opmhas" or "hasnt
+81165: }" at end of "objectloop
+83400: Score:
+83408: Moves:
+83416: Time:
+83424: You can't go that way.
+83668: [Your interpreter does not provide "undo". Sorry!]
+83756: Please give one of the answers above.
+83784: [You can't "undo" what hasn't been done!]
+83820: [Can't "undo" twice in succession. Sorry!]
+83860: "Oops" can only correct a single word.
+83888: It is pitch dark, and you can't see a thing.
+83920: That's difficult unless your eyes are prehensile.
+83956: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+84016: You seem to want to talk to someone, but I can't see whom.
+84060: To talk to someone, try "someone, hello" or some such.
+84100: I didn't understand that sentence.
+84160: You seem to have said too little!
+84184: You can't use multiple objects with that verb.
+84220: You can only use multiple objects once on a line.
+84256: You excepted something not included anyway!
+84288: You can only do that to something animate.
+84320: That's not something you need to refer to in the course of this game.
+84368: I didn't understand the way that finished.
+84400: Sorry, you can only have one item here. Which exactly?
+84552: Are you sure you want to restart?
+84576: The game file has verified as intact.
+84604: The game file did not verify as intact, and may be corrupt.
+84648: Attempt to begin transcript failed.
+84676: Attempt to end transcript failed.
+84700: You're carrying too many things already.
+84732: You can't put something on top of itself.
+84764: You can't put something inside itself.
+84792: That would scarcely empty anything.
+84848: You can only get into something free-standing.
+84884: But you aren't in anything at the moment.
+84916: You'll have to say which compass direction to go in.
+84956: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+85052: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+85136: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+85224: Darkness, noun. An absence of light to see by.
+85312: This dangerous act would achieve little.
+85340: Nothing practical results from your prayer.
+85372: Keep your mind on the task at hand.
+85400: Digging would achieve nothing here.
+85428: You jump on the spot, fruitlessly.
+85456: You would achieve nothing by this.
+85480: There's nothing suitable to drink here.
+85508: But there's no water here to carry.
+85536: Real adventurers do not use such language.
+85568: Violence isn't the answer to this one.
+85596: There's not enough water to swim in.
+85624: There's nothing sensible to swing here.
+85652: That would be less than courteous.
+85676: Is that the best you can think of?
+85700: You lack the nerve when it comes to the crucial moment.
+85740: I don't think much is to be achieved by that.
+85772: You aren't feeling especially drowsy.
+86122: Best choices are all from the same group.
+86324: Try typing "showverb" and then the name of a verb.
+86424: Property value not routine or string: "
+86452: Entry in property list not routine or string: "
+86488: Too many timers/daemons are active simultaneously. The limit is the
+library constant MAX_TIMERS (currently
+86572: " can only be used as a player object if it has the "number" property
+86874: manual' in this game means "manual pronoun assignment", which is the
+process of assigning 'it', 'them', 'her', and 'him' only to objects that you
+type. If it is off, the objects in the same room as you or that you are
+carrying will be assigned pronouns after an 'inventory' or 'look' command. To
+use it, type 'manual pronouns on' or 'manual pronouns off'. It defaults to on.
+87146: You're not inside anything that you can exit.
+87184: Limbo is a special room, not intended to be visited.
+87224: The is fog everywhere, obscuring the entire landscape. Max feels
+suddenly like a huge cloud has lifted him up and taken him away. He wonders
+where he has gone.
+87840: Max is in the operating room of a hospital. His wife is on the operating
+table, breathing quite heavily. There are several doctors and nurses in the
+room. He tries to touch one of them but his hand passes right through. His wife
+is breathing heavier now. He goes to her, tries to talk to her. She does not
+hear. A nurse comes up to Max and tells him if he is cannot calm down he will
+have to leave. He watches quietly as they cut open his wife's stomach. He
+watches the birth of his son. The nurse comes up to him, handing him the baby.
+The doctors have begun to sew up his wife. "You will have to leave now," the
+nurse says. He looks down at his baby son, but the child is gone.
+88320: Max is in bed with his grandfather Willie. Willie is snoring quite
+loudly. Max turns over to tell his grandfather to be quiet when he is assailed
+by the smell of grandfather's breath. Willie is fond of cigars and they give
+his breath the aroma of used dragon smoke. Max starts to get out of bed, but
+finds he is surrounded by an impenetrable darkness. The bed seems to be
+floating. Willie begins talking in his sleep. "What's the matter with you," he
+says. "You never listen to anything I tell you. You think you're so smart.
+You're a bum just like your father. Never listen to me." Willie begins to swing
+his hands in his sleep. Max ducks and dodges. Finally he lifts his pillow in
+self defense. Under the pillow is a wet cigar.
+88836: Max is in cantor Diamond's study. The cantor is a tall man with an open
+face and kind eyes. Max is listening to him sing a passage from the haftorah.
+Morris Diamond has the most beautiful voice in the world. Long before Max has
+ever heard opera, he has heard enough of Morris Diamond to change his life
+forever. When he hears the cantor sing he is swept up in the peculair feeling
+of tremendous joy and unspeakable sorrow. The cantor's voice touches him in a
+way that Max can never forget. Morris asks Max to repeat the passage. Although
+he does not have a bad singing voice, his chanting cannot compare with the
+cantor's. Max begins to weep, not for his lack of talent, but for his lack of
+feeling. How could he follow such a voice. Morris Diamond goes to his desk and
+opens a drawer. He takes out a small book and places it on the table before
+Max.
+89880: Max is walking down a cobble street when a small boy, perhaps a year
+old, falls to the pavement from a second story window. The baby gasps and then
+does not move. For a moment, Max is paralyzed with horror. Before he can
+recover, a woman comes running out of the house screaming, "my baby, my baby."
+She lifts the child up high into the air above her, sobbing hysterically. She
+runs back inside the house and closes the door behind her.
+90188: It is after the first snowfall of winter. The lake has frozen solid. Max
+stands on the newly formed ice and listens to the quietness. He can hear the
+tinkle of icecicles banging against each other in the wind as they hang off the
+evergreen brahcnes. Max feels he is at he center of the universe and that
+center is calm. He thinks of Morris Diamond. Max can hear the faint sound of a
+dog barking two miles away.
+90472: Quite unexpectedly, Max finds himself at his front door. How long has he
+been walking, he wonders. And what was he doing out on a night like this?
+90576: He can't remember. The fog has obliterated the street behind him. He
+fumbles for his house keys, opens his door and climbs the steps.
+90672: "A fine thing," he mumbles," to be walking around on such a night. A
+person could get lost."
+90816: Max is surrounded by flames. The whole forest is burning! If Max does
+not do something soon, he will be burned alive.
+90900: Max find himself in the only part of the forest not in flames, a patch
+of poison ivy. He walks through it gingerly trying not to touch anthing, but he
+is already beginning to feel itchy all over his body.
+91040: The is fog everywhere, obscuring the entire landscape. Max feels
+suddenly like a huge cloud has lifted him up and taken him away. He wonders
+where he has gone.
+91152: The is fog everywhere, obscuring the entire landscape. Max feels
+suddenly like a huge cloud has lifted him up and taken him away. He wonders
+where he has gone.
+91264: Max watches four young girls jump rope in a red bricked alley not far
+from his home. They play with an intensity that precludes any awareness that
+they are watched. The rope skips across the concrete as the girls chant with
+great seriousness,
+91432: Suddenly the eldest girl spins around and stares at Max. The other girls
+all fall in behind her. The jump rope lies on the ground, lifeless.
+91532: Max is sitting next to Cora on a large green couch. It is the hottest
+day of the summer. They are content to sip lemonade, chat softly and wait for
+Cora's roommate to leave the stuffy apartment. Max's desire for Cora is finally
+answered as she slips into his arms. He unbottons her blouse and beholds a
+vision that will mark him for the rest of his life. Cora's breasts are
+beautiful She wears a small silver cross around her neck which falls with
+erotic precision in the tuck of her cleavage. A drop of sweat has beaded up on
+Cora's collar bone and falls slowly down to meet the cross. For Max, the drop
+of sweat is pure magic, the most remarkable thing he has ever witnessed in his
+entire life. Cora looks at him warmly and smiles.
+92044: It really would make more sense to specify a living creature. Hostility
+really requires a target of some sort.
+92120: opens easily in your hands. Inside
+92148: The huge fish shines in the light. It gazes mournfully at your with its
+lidless eye. You notice a bulge in the fish's belly.
+92236: A huge fish lies at your feet.
+92260: You unlock the book with the key.
+92284: The small book has an old leather cover with faded Hebrew letters on the
+cover. The single word, when translated, means "understanding," or
+"recognition." The book is held closed by a small silver lock.
+92428: That's difficult unless your eyes are prehensile.
+92464: The small silver key has an inscription etched on its length.
+92508: A small, silver key is here.
+92532: Grampa Willie really has to stop smoking in bed! You both were lucky
+this time. The soggy old cigar has gone out. It smells just the way Willie's
+breath does.
+92648: The wet cigar is burnt on one end and chewed on the other.
+92700: "A Fable" was written, in GAGS, by Stan Heller.
+92740: It's nothing more than a maze given a surreal overcoat. And it's not a
+very good maze either.
+92808: Is this game supposed to mean anything? Play the MiSTing and find out!
+
+
+
+>quit

@@ -1,0 +1,253 @@
+11033: Nothing to do!
+11068: o. You have won
+11152: It is now pitch dark in here!
+11179: I beg your pardon?
+11243: Sorry, that can't be corrected.
+11272: Think nothing of it.
+11325: As good-looking as ever.
+11357: You can hardly repeat that.
+11382: You can't begin with a comma.
+11496: I didn't understand that number.
+11525: You can't see any such thing.
+11561: You aren't holding that!
+11603: I'm not sure what "
+11655: That's not a verb I recognise.
+11694: You can't see "
+11802: Nothing to do!
+11819: There are none at all available!
+12729: Please answer yes or no.
+12755: Are you sure you want to quit?
+12800: Failed.
+12820: Restore failed.
+12837: Ok.
+12855: Save failed.
+12870: Ok.
+12914: Transcripting is already on.
+12980: Transcripting is already off.
+13038: Score notification on.
+13059: Score notification off.
+13082: You have visited:
+13110: Objects you have handled:
+13135: None.
+13521: You are carrying nothing.
+13570: Taken.
+13581: You are always self-possessed.
+14114: Dropped.
+14224: Removed.
+14363: You lack the dexterity.
+14444: Done.
+14710: Done.
+14921: Wrahn seem interested.
+15502: You can't go that way.
+16062: But it's dark.
+16079: You find nothing of interest.
+16115: But it's dark.
+16206: You find nothing of interest.
+17334: . Not bad.
+17352: That was a rhetorical question.
+17406: That seems unnecessary.
+17429: Keep your mind on the game.
+17454: What a good idea.
+17473: You smell nothing unexpected.
+17500: You hear nothing unexpected.
+17525: You taste nothing unexpected.
+17560: Keep your hands to yourself!
+17585: You feel nothing unexpected.
+17610: If you think that'll help.
+17719: Oh, don't apologise.
+17749: Quite.
+17818: You achieve nothing by this.
+17906: You wave, feeling foolish.
+18056: You are unable to.
+18075: Nothing obvious happens.
+18125: That's not a direction.
+18148: Not that way you can't.
+18180: Keep your hands to yourself.
+18205: You achieve nothing by this.
+18238: Futile.
+18267: You talk to yourself a while.
+18294: This provokes no reaction.
+18322: There is no reply.
+18341: Nothing is on sale.
+18360: Your singing is abominable.
+18394: Time passes.
+41252: Obvious exits:
+41427: You can also see:
+41730: The rules poster says:
+44964: Score:
+44972: Moves:
+44980: Time:
+44988: You can't go that way.
+45320: Please give one of the answers above.
+45348: [You can't "undo" what hasn't been done!]
+45384: [Can't "undo" twice in succession. Sorry!]
+45424: "Oops" can only correct a single word.
+45452: It is pitch dark, and you can't see a thing.
+45484: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+45544: You seem to want to talk to someone, but I can't see whom.
+45588: To talk to someone, try "someone, hello" or some such.
+45628: I didn't understand that sentence.
+45688: You seem to have said too little!
+45712: You can't use multiple objects with that verb.
+45748: You can only use multiple objects once on a line.
+45784: You excepted something not included anyway!
+45816: You can only do that to something animate.
+45848: That's not something you need to refer to in the course of this game.
+45896: I didn't understand the way that finished.
+45928: Sorry, you can only have one item here. Which exactly?
+46080: Are you sure you want to restart?
+46104: The game file has verified as intact.
+46132: The game file did not verify as intact, and may be corrupt.
+46176: Attempt to begin transcript failed.
+46204: Attempt to end transcript failed.
+46228: You're carrying too many things already.
+46260: You can't put something on top of itself.
+46292: You can't put something inside itself.
+46348: You can only get into something freestanding.
+46380: But you aren't in anything at the moment.
+46412: You'll have to say which compass direction to go in.
+46452: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+46548: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+46632: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+46808: This dangerous act would achieve little.
+46836: Nothing practical results from your prayer.
+46868: The dreadful truth is, this is not a dream.
+46900: Digging would achieve nothing here.
+46928: You jump on the spot, fruitlessly.
+46956: You would achieve nothing by this.
+46980: There's nothing suitable to drink here.
+47008: But there's no water here to carry.
+47036: Real adventurers do not use such language.
+47068: Violence isn't the answer to this one.
+47096: There's not enough water to swim in.
+47124: There's nothing sensible to swing here.
+47152: That would be less than courteous.
+47176: Is that the best you can think of?
+47200: You lack the nerve when it comes to the crucial moment.
+47240: I don't think much is to be achieved by that.
+47272: You aren't feeling especially drowsy.
+47360: You're In The Paddling Room. Against the wall is the infamous BendMaster
+5000 Restraint. To the north is a door marked "OFFICE".
+47464: The Bendmaster 5000 restraint system is the most effective way to
+prevent the resistant miscreant from evading or delaying the full measure of
+paddling. It keeps them bent down, and keeps their hands from interfering with
+or being injured by the paddle.
+47640: You see a worried looking, bent-over kid nonchalantly struggling to free
+himself from the BendMaster 5000, which shows no sign of allowing it.
+47744: The kid is wailing and carrying on with a blotchy red-faced passion,
+still securely bent over in the BendMaster 5000.
+47832: This is the reception office, and you are here along with a
+receptionist; You notice a sign with "Rules" written in red letters above the
+receptionist's cash register. To the south you can see a door marked "PADDLING
+ROOM".
+48004: The Kid Is Smirking And Rolling His Eyes.
+48040: The Kid Has Now Stopped Smirking And Rolling His Eyes. He looks a bit
+apprehensive about being in the BendMaster 5000.
+48132: The kid appears to be suffering from both BLOTCHY RED FACE SYNDROME and
+BURNT BEHIND SYNDROME at this point and has taken up a vitriolic form of
+wailing to prove his point. No trace of smirking is on his face now.
+48304: The kid is shrieking his fool head off and trying frantically to grip
+his behind.
+48442: HHHHAAAAAAAAAAHHHAAAAAA". He no longer appears to be interested in
+making farting noises. Occasionally, he pauses in his shrieking to say
+"Huh-huh-huh-huuuuh!", but relapses into screaming shortly thereafter.
+48608: Waaaaaahaaaahaaaaaaa.. It buuurrrrrnsss.. Woooahhhaaaaa
+48652: The kid repeatedly throws his middle finger up at you vigorously and
+laughs.
+48704: Woooooooaaaaaaaaaa.... It burrrrrrrns... Huh-HuhWaaaaaaaa
+48752: The kid makes farting noises with his mouth as you speak. He laughs
+loudly and flicks you off repeatedly and vigorously.
+48836: The receptionist is filing papers and answering the phone. She appears
+to be an old bag for the sake of easy reference.
+48920: "I see you've paddled that unruly little ape! That will teach him a
+thing or two!" She addresses the kid, "Brine! Brine! Are you going to behave
+now or does Dr. Beltway need to put you back in the BendMaster 5000 and paddle
+you again?" Brine seems to have no sense of space or time, and only continues
+his loud squalling, grabbing mechanically at his rear with both hands, his face
+locked in a reddened, open-mouthed rictus of abject despondence.
+49240: She says, "That kid elbowed a little girl in the nose and then kicked
+his teacher. He needs a paddling! His parents said that they always use
+time-out but that he doesn't seem to pay any attention to it."
+49384: She says, "What are you, on drugs? You already took the kid!"
+49432: She says "I believe in paddling! I love this job! Paddling's where it's
+at!"
+49604: This is the parking lot for The Paddling Werkshoppe. To the south is the
+entrance. To the east the Baylor School of Punishment can be seen.
+49708: You are standing at the entrance to the world-renowned Baylor School of
+Punishment. The magnificence of the building entrances you, and the stone
+gargoyles at the corners of the rooftop seem to be sending a warning to unruly
+children everywhere. To the west you see the Paddling Werkshoppe and to the
+east the arched stone entryway towers above you.
+49952: This is the foyer for the Baylor School of Punishment. Vaulted ceilings
+echo Claude King's "Wolverton Mountain" which is coming from hidden speakers.
+To the west you see the entrance, and hallways to the south and north marked
+"Paddling Hall" and "Time Out Hall", respectively.
+50156: You are in a brightly-lit grand hallway with one door marked
+"Information" to the east.
+50220: You enter the room and a wizened old man seated behind a oak desk says
+"You seek the wisdom of the paddle? Come and ask me what you wish!".
+50320: The old man has a long white beard and lots of knowledge in his head.
+50368: "Children need paddlings like fish need water! Without paddlings,
+children grow up to be rotten, ignorant, lawbreaking morons!"
+50460: "You need a paddle! Without a paddle, an adult is just a cartoon
+character to a child. With a paddle, the adult becomes a powerful force of
+justice and order in the hedonistic and ignorant world of the child."
+50608: "That Beltway fellow is an upstanding man of great fortitude and honor!
+I am proud to have his Paddling Werkshoppe in the same adventure with me!"
+50712: "This school tries to show the right way to discipline children. We
+encourage paddling where the Time-Out method fails, which is nearly everywhere.
+50816: Time-Out is practice for prison advocated by stupid people who eat a lot
+of milquetoast. Don't waste your time.
+50896: "I have nothing worthwhile to say about that!"
+50936: The paddle has "Heat For The Seat" written on one side and "Baylor
+School" on the other side. It has holes drilled in it.
+51028: This is a dimly lit hall smelling of dust and milquetoast. There is a
+door to the east marked "Time-Owt Infermashun".
+51116: This room is both dusty and musty, smelling of milquetoast. You see a
+young man in a dunce cap seated behind a filthy desk.
+51204: The milquetoast looks like hog-slop in a "Mighty Morphin' Power Rangers"
+bowl.
+51264: The young man is wearing expensive clothes and a large red dunce cap
+marked "DUNCE" in bold black letters. He is holding a dripping spoon in his
+dirty hand, and appears to be hungrily eyeballing the bowl of milquetoast you
+have in your hand.
+51436: The young man is wearing expensive clothes and a large red dunce cap
+marked "DUNCE" in bold black letters. He is holding a dripping spoon in his
+dirty hand, beating it on the desk, and chanting, "We want milquetoast!"
+loudly.
+51600: The young man is wearing expensive clothes and a large red dunce cap
+marked "DUNCE" in bold black letters. He appears to be very fond of
+milquetoast, slurping it in a revolting fashion as portions of it drip down his
+face.
+51756: Hey! Drop that milquetoast! It's mine, dammit!
+51792: Where's my milquetoast, you son of a whore!!
+51828: "Duh, I like Time-Out 'cause it gives kids a chance to rest between
+misbehaving sessions and 'cause it gets kids ready for prison. I think kids
+should eat more milquetoast, too. Sluuuurrrrpppp.."
+51972: "Slurrrrp.... Duh, I like milquetoast.. Sluuuurrrrpppp"
+52020: You wind up mightily, prepared to deliver the first blazing whack, when
+you notice that you have no paddle.... Goofball...
+52112: The receptionist says, "Don't screw with me, buster. I'm in no mood for
+foolishness!". Paddlings are best applied to children.
+52208: Before you even finish the thought, the Old Man waves his hands in an
+arcane manner, causing you to wail your own face with the paddle with a
+resounding "SMACK!". "I thought you had more sense than that", the Old Man says
+with a sly grin.
+52382: The young man sees you coming at him, waves his milquetoast-soaked hands
+in your direction, and you swing the paddle forcefully into your own face!
+"POP!" 
+He says, "At least the old guy down the hall only paddles children who
+don't care that they did something wrong! Your'e a big idiot, trying to paddle
+me just for liking milquetoast!"
+52628: wildly and severely, shouting "You Will Respect My Authoritah!!" until
+you realize that you are acting like a complete ass, and become sheepish.
+"Silly Adventurer, Paddlings Are For Children."
+52772: You may only paddle the kid one time. Punishment is good, abuse is bad.
+52864: The Kid Writhes, Wiggles, and Dodges your attempts to apply the heat to
+his seat.
+52990: AAHHHAAAAAAAAAHHAAAAAAAA.
+

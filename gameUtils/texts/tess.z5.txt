@@ -1,0 +1,431 @@
+14906: "The Eternal Soul"
+14973: "Seeks the Exact"
+15047: "Reasons and Answers"
+15215: "Of Countless Tesseracts"
+16672: There is no reply.
+16740: Nothing is on sale.
+17177: Dropped.
+17235: . Not bad.
+18374: Wrahn seem interested.
+18892: Done.
+18941: You are carrying nothing.
+19002: Keep your mind on the game.
+19027: You hear nothing unexpected.
+20076: But it's dark.
+20093: You find nothing of interest.
+20121: Quite.
+20151: Nothing to do!
+20186: o. You have won
+20269: It is now pitch dark in here!
+20296: I beg your pardon?
+20360: Sorry, that can't be corrected.
+20389: Think nothing of it.
+20442: As good-looking as ever.
+20474: You can hardly repeat that.
+20499: You can't begin with a comma.
+20613: I didn't understand that number.
+20642: You can't see any such thing.
+20678: You aren't holding that!
+20775: That's not a verb I recognise.
+20814: You can't see "
+20925: Nothing to do!
+20942: There are none at all available!
+21340: That was a rhetorical question.
+21367: Score notification off.
+21390: Score notification on.
+21419: Objects you have handled:
+21444: None.
+21912: You have visited:
+22088: You are unable to.
+22107: Nothing obvious happens.
+22157: That's not a direction.
+22180: Not that way you can't.
+22329: You lack the dexterity.
+22410: Done.
+22459: Please answer yes or no.
+22485: Are you sure you want to quit?
+22645: Removed.
+22676: Failed.
+22696: Restore failed.
+22713: Ok.
+22723: You achieve nothing by this.
+22756: Save failed.
+22771: Ok.
+22878: Transcripting is already off.
+22944: Transcripting is already on.
+23010: But it's dark.
+23130: You find nothing of interest.
+23433: Your singing is abominable.
+23467: You smell nothing unexpected.
+23494: Oh, don't apologise.
+23523: Keep your hands to yourself.
+23548: You achieve nothing by this.
+23777: Taken.
+23788: You are always self-possessed.
+24315: You taste nothing unexpected.
+24350: You talk to yourself a while.
+24377: This provokes no reaction.
+24403: What a good idea.
+24429: Futile.
+24458: Keep your hands to yourself!
+24483: You feel nothing unexpected.
+24508: If you think that'll help.
+24755: Time passes.
+24779: That seems unnecessary.
+24875: You wave, feeling foolish.
+48826: o. You have failed
+67962: Please.
+69113: The stack is now inoperative.
+69175: Nothing special happens here.
+69198: You are falling inwards...
+69283: The stack is now inoperative.
+69322: You are falling outwards...
+69558: Reading.
+69576: Dreaming.
+69763: Exit:
+69773: Exits:
+70060: It's too cold!
+70077: The pool is cold, not hot.
+70173: You have finished the book.
+70417: You are in the dimensia chamber.
+70449: You are in point-land.
+70475: You are in line-land.
+70499: You are in plane-land.
+70525: You are in sphere-land.
+70634: That won't fit in the projector.
+70702: That's part of the projector.
+70734: Nothing special happens.
+70940: Click.
+70957: The lights dim.
+70975: The light changes.
+71141: You are out of ideas.
+71171: You thought of an idea.
+71214: That doesn't work.
+71347: . It is not proven
+71453: The supposition is now a lemma.
+71476: That doesn't work.
+71509: It's already proven.
+71597: It's already proven.
+71635: opeyhm. It is not proven
+71771: That doesn't work.
+71814: It's already proven.
+71849: It's already proven.
+71975: Yafs sbvnhnfilter active.
+72262: You see colorless letters.
+72543: The being doesn't need that.
+72922: It's an abstraction!
+72943: You can't take that.
+73043: Never mind, then.
+73080: Wrong.
+73134: The field wavers again.
+73292: The future is out of reach.
+73364: The past is out of reach.
+73641: The coil is bitterly cold.
+73805: The coil isn't a good container.
+73872: It's too hot to handle.
+73935: Hot!
+74009: That's redundant.
+74042: The plasma floats free.
+74194: You rolled + +.
+74276: History shifts around you.
+74790: You're not sleepy yet.
+74822: You are no longer sleepy.
+74871: Wow, that was some dream.
+74946: There's no writing there.
+74974: You aren't holding the stack.
+75001: The stack is now inoperative.
+75027: Stack:
+75127: You aren't sure what that means.
+75185: Nothing special happens.
+75258: It's not clear how to stop that.
+75353: Therefore you are.
+75370: That isn't possible.
+75390: That doesn't work.
+75406: That doesn't work.
+75422: That isn't possible.
+75502: Unlikely.
+75514: That can't be pumped.
+75606: Nothing seems to be listening.
+78239: in" or "notin
+78255: opmhas" or "hasnt
+78397: }" at end of "objectloop
+80426: An Abstract Adventure by David Lo
+Ported to Inform by Andrew
+Plotkin
+First-time players should type "about".
+80732: Score:
+80740: Moves:
+80748: Time:
+80756: You can't go that way.
+80860: Violence isn't the answer to this one.
+80888: This dangerous act would achieve little.
+80916: I don't think much is to be achieved by that.
+80976: Digging would achieve nothing here.
+81004: There's nothing suitable to drink here.
+81032: That would scarcely empty anything.
+81060: You can only get into something free-standing.
+81132: But you aren't in anything at the moment.
+81164: But there's no water here to carry.
+81220: You can't put something inside itself.
+81248: You jump on the spot, fruitlessly.
+81276: You would achieve nothing by this.
+81328: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+81424: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+81508: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+81852: Please give one of the answers above.
+81880: [You can't "undo" what hasn't been done!]
+81916: [Can't "undo" twice in succession. Sorry!]
+81956: "Oops" can only correct a single word.
+81984: It is pitch dark, and you can't see a thing.
+82016: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+82076: You seem to want to talk to someone, but I can't see whom.
+82120: To talk to someone, try "someone, hello" or some such.
+82160: I didn't understand that sentence.
+82220: You seem to have said too little!
+82244: You can't use multiple objects with that verb.
+82280: You can only use multiple objects once on a line.
+82316: You excepted something not included anyway!
+82348: You can only do that to something animate.
+82380: That's not something you need to refer to in the course of this game.
+82428: I didn't understand the way that finished.
+82460: Sorry, you can only have one item here. Which exactly?
+82560: Nothing practical results from your prayer.
+82616: That would be less than courteous.
+82640: Is that the best you can think of?
+82664: You can't put something on top of itself.
+82696: Are you sure you want to restart?
+82720: Attempt to end transcript failed.
+82744: Attempt to begin transcript failed.
+82772: You aren't feeling especially drowsy.
+82800: Real adventurers do not use such language.
+82832: There's not enough water to swim in.
+82860: There's nothing sensible to swing here.
+82888: You're carrying too many things already.
+82920: You lack the nerve when it comes to the crucial moment.
+82988: You'll have to say which compass direction to go in.
+83028: The game file has verified as intact.
+83056: The game file did not verify as intact, and may be corrupt.
+83100: The dreadful truth is, this is not a dream.
+83160: Violence is not necessary, most of the time.
+83192: You have reached the final part of your mission. You have gained access
+to the complex, and all but the last procedure has been performed. Now comes a
+time of waiting, in which you must search for the hidden 12-word message that
+will aid you at the final step. But what choice will you make when that time
+comes?
+83416: Transcendence is not so simple a matter.
+83506: It's a Space-Time Activated Continuum Key.
+
+(You can push the stack or
+pop it. It is also useful to scan things with the stack.)
+83624: You must be holding the stack to push it.
+83656: You must be holding the stack to pop it.
+83684: You can't transcend reality in this adventure.
+83718: A voice echoes: Enter password.
+83746: A voice echoes: audio link complete. Enter password.
+83852: You are in a researcher's office.
+83876: You see the images of a mathematical universe.
+83908: You are in a green house.
+83928: You see the reflections of a mirror world.
+83960: You are in a cryogenic lab.
+83984: They look like sleeping pills.
+84024: Gulp! Suddenly you feel a little drowsy.
+84088: You gingerly dip the coil into the icy fluid.
+84120: Better not -- the cold might damage it.
+84152: You are in a library.
+84168: The title is "Interactive Adventures".
+84198: You are now reading an adventure...
+84228: You are in an alien atheneum.
+84256: The title is: "The Science and Beauty of a Geometric Nature."
+84304: It has expired.
+84344: . The slot contains an image disk
+84368: . The buttons are labelled zero to four
+84396: With a few kicks and blows, both you and the projector feel better.
+84444: Better not try that again, or you'll really break it.
+84484: The projector begins to start, fizzes and grinds, then stops.
+84528: There is chaos here.
+84544: It bears a slight resemblence to the current universe.
+84584: Losing yourself in the embrace of chaos would not serve your goal.
+84632: That's fixed in place. Well, not fixed. Unfixed in place. Disordered in
+place? Oh, forget it.
+84704: There is some Fatou dust here.
+84728: It looks like the remains of an exploded Julia set.
+84764: You see a von Koch snowflake here.
+84792: It doesn't look like the coastline of Britain.
+84828: You see Mount Mandelbrot here.
+84852: It looks the same at all scales.
+84876: There is a tombstone here.
+84924: You are in the twilight of thought.
+84956: The idea is very vague and not fully developed.
+84992: The idea developed into a contradiction.
+85020: It is true and false, but neither is correct, and both are right.
+85068: You proved that the contradiction can't be proven.
+85104: You are at the outer limits.
+85124: Somehow a contradiction keeps coming into the proof.
+85160: You are in inner space.
+85180: It's a basic fact.
+85196: You are beyond the edge of forever.
+85224: He looks almost asleep.
+85244: He mumbles, "Bother me not, I'm contemplating the ultimate question."
+85296: He wakes up, looks at the theorem, and shouts: "Eureka!  This proves
+that the universe doesn't exis..."
+85376: He mumbles, "Disturb me not with such unimportant things."
+85420: You are at the brink of time.
+85448: It's the basis of a complex system.
+85476: You are in the shadow of tomorrow.
+85500: Somehow a contradiction keeps coming into the proof.
+85536: You sense the absence of some basic foundation.
+85570: The hypothesis is now a theorem.
+
+Suddenly, a hyper-spatial cliff passes
+by and the lemma leaps to its demise.
+85652: It's a rather specialized fact.
+85676: Nice try, but this isn't that lemma.
+85704: It begins: "The metaphysical existentialism of reality..." The rest is
+incomprehensible to you.
+85776: You are in an abyss of non-existence.
+85860: You are in a mirrored hall.
+85880: You are in a mirror hallway.
+85904: It looks like two speakers connected by a band. There is a groove in the
+band
+85984: . You are wearing the transmutator like a set of headphones
+86028: It's difficult to listen to the transmutator without putting it on.
+86076: The singularity slides in with a click.
+86104: You cannot remove the singularity.
+86128: You are in a transparent vault.
+86156: It looks like a device used for increasing the dimensions of geometric
+and topological objects.
+86224: Sorry, you can't upgrade a product that way.
+86256: You are in a hall of mirrors.
+86280: You are in a chamber of crystal.
+86304: You see flashes along deeply etched lines.
+86356: Object too unstable.
+86372: The prism shatters along the lines and mysteriously reorganizes itself
+into a tetrahedron.
+86496: It expands a dimension, but quickly collapses back.
+86532: It shatters, but quickly reforms itself.
+86564: You are in a glass sphere.
+86584: It looks like a hyper-plant-being.
+86612: The being is already high enough.
+86692: The being is whispering too softly.
+86720: You hear a harmonic song in a strange language.
+86778: melody. But you are unable to follow even a single voice.
+86852: The being is rooted in the 4th dimension.
+86884: Plants don't eat solid nutrients.
+86908: Dendrites appear from hyperspace and absorb the liquid. The plant-being
+thanks you.
+86968: You are at the origin.
+86984: It looks like a mobius strip.
+87008: The mobius strip expands one dimension.
+87036: With some tricky cuts, you end up with a mobius strip again.
+87080: It is a bottle with no inside or outside, full of a 4-D liquid.
+87128: It is an empty bottle with no inside or outside.
+87164: You can't go any higher in this universe.
+87196: The fluid flows in and then flows out by itself.
+87232: The klein bottle can't seem to contain the plasma.
+87268: The klein bottle is now full of 4-D liquid.
+87300: You can't figure out how to put that inside the klein bottle.
+87344: You are at the infinite point.
+87368: The function has many sharp points, all of which are at (1/2+bi).
+87420: You are not really into great episodes of frustration.
+87460: The group consists of converging parallel lines, aleph-null, the last
+prime number, 1/0, and uncountably many others.
+87548: The group has infinitely many reasons to stay where it is.
+87588: You are by a field of absolute certainty.
+87620: You are on the contradicting premises of a deduction.
+87660: You see the lights of an electromagnetic continuum.
+87696: You are in a set of all sets that are not members of themselves.
+87744: It looks like a heart of gold.
+87766: What is the probability of getting this improbability?
+87808: Improbably, you take the improbability.
+87836: The improbability's presence warps the fabric of the field.
+87880: You are in n-dimensional space.
+87904: It's a very vicious-looking integral.
+87932: It's too difficult; you'll need something else to help you.
+87976: The function and the integral cancel out nicely, and everything is
+reduced to a singularity.
+88040: It is shaped like a narrow band.
+88064: That might not be good for your finger.
+88092: You are on a closed timelike curve.
+88120: A shadowy figure does something to a cube, which augments
+incomprehensibly.
+88204: You are in a spectral vortex.
+88228: You are in a sea of radio frequencies.
+88292: . A glowing plasma floats within the coil
+88360: You feel resistance as you rotate the coil.
+88392: The coil couldn't even contain a 3-D liquid.
+88428: The coil isn't affecting the plasma.
+88456: The magnetic field of the coil contained the plasma.
+88492: You are in an ionic storm.
+88516: It looks like glowing hot plasma.
+88552: The plasma dissipates as the solid melts into a puddle of liquid.
+88628: You are in a chromatic whirlpool of infrared to ultraviolet.
+88672: You are in an ocean of magnetic monopoles.
+88704: There are changing numbers on the sides.
+88732: The hexahedron expands one dimension.
+88760: It looks like a 4-D solid.
+88796: You can't go any higher in this universe.
+88828: Your dimension is too low to eat that.
+88860: It looks like some 4-D liquid.
+88896: You can't go any higher in this universe.
+88928: You are not at all sure how to pick up a four-dimensional liquid.
+88976: Your dimension is too low to drink that.
+89004: The liquid spills complexly on the ground.
+89036: You are in a scintillating shower of light.
+89090: are. If you like this program, hate it, or really don't care at all,
+then I would be happy to hear from you (a letter, a post-it note, etc). Please
+share unmodified copies of this adventure with everyone. 'Set the software
+free.'"
+89348: a). Whether any of this contact information has survived the
+vissicitudes of times, I cannot say.
+89692: To this you may add that Andrew Plotkin ported it to Inform during a
+boring December week in 2003.
+
+I first played
+89780: on a Unix server at CMU in 1989 or so. It was a small and whimsical
+game, and I liked it. I think it should not be lost. So here it is.
+
+I *have*
+modified the game, to a degree. I've adapted it somewhat to modern IF
+conventions, and to the capabilities of the modern parser. I've also made so
+bold as to fix a few design flaws; the game can no longer be made unwinnable. A
+touch of Reverse Polish is also my fault. Nonetheless, I hope I have preserved
+the spirit of the original.
+90136: This game does not distinguish between BRIEF and VERBOSE mode.
+90188: This game does not distinguish between BRIEF and VERBOSE mode.
+90240: This game does not distinguish between BRIEF and VERBOSE mode.
+90292: A dream within a dream would have been quite poetic, but time did not
+allow for it.
+90350: As you sleep, you begin to have a strange dream...
+90392: Reality is not a fragment of nightmares and dreams.
+90430: You are no longer reading the book.
+90492: Reality is like a book that you can't stop reading.
+90528: This is not a good place to think.
+90552: You'll have to say what you want to fill that with.
+90588: There isn't a source of cold here.
+90616: There isn't a source of heat here.
+90642: Correct password.
+
+Self-destruct sequence completed. Overriding Doomsday
+countdown.
+90710: The Doomsday complex is destroyed. You have given your life to save
+Earth. Thank you.
+90776: As the complex disintegrates around you, the stack, sensing your danger,
+overloads all its circuits to regain a moment's control. With a final burst of
+energy, the stack implodes, projecting a stasis field around you that protects
+you from the destruction.
+
+From the smoldering debris of the Doomsday complex
+you pick up the pieces of the stack and reflect on how as you risked your life
+to save Earth, the stack has given its own to save yours. As you walk away, you
+solemnly swear to repair the stack, for the adventures that lie ahead.
+91150: Incorrect password.
+
+Self-destruct aborted. Resuming Doomsday countdown.
+91212: Enter "stop reading" to stop reading the adventure.
+91252: Enter "wake up" to wake up from your dream.
+91284: Sorry, quasi-hyper-neo-mathematics is beyond me.
+

@@ -1,0 +1,342 @@
+16928: There is no reply.
+16996: Nothing is on sale.
+17454: Dropped.
+17511: . Not bad.
+18640: Wrahn seem interested.
+19155: Done.
+19204: You are carrying nothing.
+19289: Keep your mind on the game.
+19314: You hear nothing unexpected.
+20378: But it's dark.
+20395: You find nothing of interest.
+20423: Quite.
+20453: Nothing to do!
+20488: o. You have won
+20571: It is now pitch dark in here!
+20598: I beg your pardon?
+20662: Sorry, that can't be corrected.
+20691: Think nothing of it.
+20744: As good-looking as ever.
+20776: You can hardly repeat that.
+20801: You can't begin with a comma.
+20915: I didn't understand that number.
+20944: You can't see any such thing.
+20980: You aren't holding that!
+21076: That's not a verb I recognise.
+21114: You can't see "
+21224: Nothing to do!
+21241: There are none at all available!
+21652: That was a rhetorical question.
+21679: Score notification off.
+21702: Score notification on.
+21731: Objects you have handled:
+21756: None.
+22229: You have visited:
+22423: You are unable to.
+22442: Nothing obvious happens.
+22492: That's not a direction.
+22515: Not that way you can't.
+22662: You lack the dexterity.
+22743: Done.
+22791: Please answer yes or no.
+22817: Are you sure you want to quit?
+22976: Removed.
+23007: Failed.
+23026: Restore failed.
+23043: Ok.
+23053: You achieve nothing by this.
+23085: Save failed.
+23100: Ok.
+23208: There is no score in this story.
+23246: Transcripting is already off.
+23312: Transcripting is already on.
+23378: But it's dark.
+23498: You find nothing of interest.
+23798: Your singing is abominable.
+23832: You smell nothing unexpected.
+23859: Oh, don't apologise.
+23887: Keep your hands to yourself.
+23912: You achieve nothing by this.
+24141: Taken.
+24152: You are always self-possessed.
+24675: You taste nothing unexpected.
+24709: You talk to yourself a while.
+24736: This provokes no reaction.
+24762: What a good idea.
+24788: Futile.
+24817: Keep your hands to yourself!
+24842: You feel nothing unexpected.
+24867: If you think that'll help.
+25113: Time passes.
+25137: That seems unnecessary.
+25233: You wave, feeling foolish.
+72721: You toss the duck skyward.
+72791: Taken.
+72808: Removed.
+73071: The duck swims to the south.
+73111: The duck swims to the south.
+73503: "Quack quack QUACK!"
+73528: "Quack QUACK quack QUACK?"
+73844: The bag is sealed.
+73883: That won't fit inside the hole.
+74117: There is a rowboat here.
+77165: Not with your hands full.
+77414: Not bloody likely.
+78382: At your surface!
+78422: That won't work.
+78438: That won't work.
+78470: You don't know how to make that.
+78498: That can't be torn.
+78518: That can't be punctured.
+79639: . You'll have to untie it first.
+79713: . You'll have to untie it first.
+79970: You can't untie that.
+80718: You can't do that.
+80982: pounces on the duck. You
+84825: in" or "notin
+84841: opmhas" or "hasnt
+84983: }" at end of "objectloop
+87320: Score:
+87328: Moves:
+87336: Time:
+87344: You can't go that way.
+87452: Violence isn't the answer to this one.
+87480: This dangerous act would achieve little.
+87508: I don't think much is to be achieved by that.
+87568: Digging would achieve nothing here.
+87596: There's nothing suitable to drink here.
+87624: That would scarcely empty anything.
+87652: You can only get into something free-standing.
+87724: But you aren't in anything at the moment.
+87756: But there's no water here to carry.
+87812: You can't put something inside itself.
+87840: You jump on the spot, fruitlessly.
+87868: You would achieve nothing by this.
+87920: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+88016: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+88100: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+88212: You see nothing unexpected in that direction.
+88476: Please give one of the answers above.
+88504: [You can't "undo" what hasn't been done!]
+88540: [Can't "undo" twice in succession. Sorry!]
+88580: "Oops" can only correct a single word.
+88608: It is pitch dark, and you can't see a thing.
+88640: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+88700: You seem to want to talk to someone, but I can't see whom.
+88744: To talk to someone, try "someone, hello" or some such.
+88784: I didn't understand that sentence.
+88844: You seem to have said too little!
+88868: You can't use multiple objects with that verb.
+88904: You can only use multiple objects once on a line.
+88940: You excepted something not included anyway!
+88972: You can only do that to something animate.
+89004: That's not something you need to refer to in the course of this game.
+89052: I didn't understand the way that finished.
+89084: Sorry, you can only have one item here. Which exactly?
+89184: Nothing practical results from your prayer.
+89240: That would be less than courteous.
+89264: Is that the best you can think of?
+89288: You can't put something on top of itself.
+89320: Are you sure you want to restart?
+89344: Attempt to end transcript failed.
+89368: Attempt to begin transcript failed.
+89396: You aren't feeling especially drowsy.
+89424: Real adventurers do not use such language.
+89456: There's not enough water to swim in.
+89484: There's nothing sensible to swing here.
+89512: You're carrying too many things already.
+89544: You lack the nerve when it comes to the crucial moment.
+89612: You'll have to say which compass direction to go in.
+89652: The game file has verified as intact.
+89680: The game file did not verify as intact, and may be corrupt.
+89724: The dreadful truth is, this is not a dream.
+89886: It's your first day on the job at the Speedy Express delivery company,
+and there's one last batch of cargo to be delivered before you can call it a
+day. You start to wonder whether you followed the directions correctly when the
+road dead-ends at a large body of water. Then you remember the shift
+supervisor's parting words as you pulled out of the warehouse this morning: "By
+the way, you do know how to row, don't you?"
+90188: It's an oar. For rowing. Bigger than a wooden spoon, smaller than... a
+giant wooden spoon.
+90256: You're at the southern shore of a wide river which runs east to west as
+far as you can see. A stretch of fine sand here makes for a scenic, if narrow,
+beach. A wooden dock extends out several feet from the beach into the water.
+Across the river, a hundred yards or so to the north, you can just make out the
+far shore. To the south is the road you drove in on, your delivery van parked
+off on the shoulder.
+90540: Unless you can walk on water, you'll have to find another way across.
+90592: You can't go any further inland while you're in the boat.
+90636: You've got a job to do -- better stick around until you've completed
+your delivery.
+90696: You've reached the northern shore of the river. The beach, smaller and
+rockier than at the other shore, quickly gives way to a forest on its north
+side. A dock similar to the one on the south shore juts out into the water.
+Nailed to a thick tree at the edge of the forest is a small sign, marking the
+beginning of an overgrown country lane which leads north through the trees.
+90956: Unless you can walk on water, you'll have to find another way across.
+91008: You can't go any further inland while you're in the boat.
+91052: Based on the condition of the driveway, it doesn't look like the owner
+is expecting any visitors.
+91120: South of you is the nearest shore; the river deepens to the north.
+91168: You're halfway across the river, equidistant from the north and south
+shores. A cool breeze blows across the water giving you a pleasant chill.
+91268: If you had an anchor (and no delivery to make), you'd drop it here and
+enjoy the peace and quiet.
+91416: To the north you can see the shore. South takes you back to open water.
+91468: A young red fox. Its fur is soft and shimmers slightly in the bright
+afternoon sun.
+91528: Taken. As you pick it up, the fox huddles close to your body like a
+faithful pet to its owner.
+91596: Removed. As you pick it up, the fox huddles close to your body like a
+faithful pet to its owner.
+91664: Your average white-feathered, orange-billed waterfowl. It walks like a
+duck, swims like a duck, quacks like a duck... and, you suspect, tastes like a
+duck (with sufficient exposure to heat and some orange sauce).
+91816: How would you like it if someone starting pulling things off of *your*
+body?
+91872: SLURRRRRRRP! Tastes like... chicken?!
+91912: You fold the duck's head underneath its wing. It briefly falls asleep,
+but wakes up after having a nightmare about being forced to wear a little blue
+sailor's outfit.
+92028: You pick up the duck and toss it skyward.
+92058: It flaps its wings a few times and then glides back down to the ground.
+92284: You grab the duck as it swims by and put in back in the boat with you.
+92332: You swim after it to make sure nothing bad happens.
+92372: A large burlap sack full of grain.
+92448: The material is thin and is already worn from sliding around in the back
+of the van. If you're not careful, you might end up with a hole in the bottom.
+92556: You don't think the customer would be pleased to find his package open.
+92608: As you make a hole in the bottom of the sack, a small pile of grain
+falls to the ground.
+92672: You quickly set the sack back down, covering the hole so you don't lose
+any more grain.
+92736: You quickly cover the hole so you don't lose any more grain.
+92780: You don't want to make the hole any bigger; you've already lost enough
+grain as it is.
+92844: If you pick up the sack now, the rest of the grain will spill out of the
+hole.
+92900: You slip the invoice into the hole in the sack. The weight of the grain
+holds it in place, blocking the opening and preventing any more grain from
+falling out.
+93012: A small pile of grain from the larger sack.
+93042: The duck nibbles politely at the pile of grain.
+93080: The duck pecks furiously at the pile of grain.
+93116: The duck sniffs curiously at the pile of grain.
+93152: A slip of paper which details your current delivery.
+93648: Tied to one post of the dock is a rowboat.
+93680: An old metal rowboat, rickety but seaworthy, with a wooden oar attached
+to each side.
+93740: A length of rope is tied to the bow.
+93884: You need both hands to row. You'll have to drop everything first.
+93932: Company policy prohibits you from transporting two pieces of cargo at
+once.
+94092: You prepare to shove off, but the fox doesn't seem comfortable with the
+idea of water travel. It nervously skitters around in boat before finally
+jumping back out onto the shore.
+94216: You can't get out of the boat until you reach land.
+94252: The duck appears to be tired of all the back-and-forth travel. It hops
+out of the boat and sits stubbornly on the shore.
+94338: The duck appears to be tired of all the back-and-forth travel. It hops
+out of the boat and sits stubbornly on the shore.
+94428: It is made of twisted little threads, all alike.
+94464: Your SpeedEx(TM) delivery van. Unfortunately, it's not an amphibious
+model, so you can't take it any further than this shore.
+94560: You'd best complete your delivery first.
+94592: You didn't drive all the way out here just to pack up and go home.
+94640: The dock is made of parallel wooden planks supported by thick round
+posts which have been sunk deep into the ground. A few of the planks look newer
+than the others and may have been replaced. You can picture young children
+sitting here, perhaps with fishing poles, their bare feet dangling into the
+water below.
+94854: A rowboat is tied to one of its posts.
+94886: A length of rope is tied to one of its posts.
+94924: This dock is more worn than the other one. Several of the planks are
+cracked, though the sturdy wood shows no signs of breaking any time soon.
+95022: A rowboat is tied to one of its posts.
+95054: A length of rope is tied to one of its posts.
+95092: It's a big evergreen tree. Needles, branches, bark -- the whole pine
+yards.
+95148: A wide river, clear and calm. It's perfect for all kinds of water
+activities.
+95204: You'll have to get out of the boat first.
+95236: If you jump out now, you won't be able to climb back into the boat.
+95284: There's no way you can swim with that heavy sack tied to you.
+95328: The fox refuses to follow you into the water.
+95400: You're already swimming. Just say where you want to go.
+95440: You take a sip of the cool river water. Aaahhhh... refreshing.
+95488: As a new employee, you received the only uniform anyone could find on
+short notice: a bright orange jumpsuit left over from the days of a previous
+branding campaign. It's a roomy one-piece with the company logo embroidered on
+the front pocket and the words "ORANGE YOU GLAD YOU USED SPEEDY?" printed in
+large letters across the back. Wearing it, you feel less like a delivery person
+than a convict with corporate sponsorship.
+95800: You're pretty sure it's against company policy to make deliveries in the
+nude.
+95856: You attempt to put the duck down the front of your jumpsuit, but the
+resulting kicks and squawks convince you that it's a bad idea.
+95948: The sack is much too large. If you want to play Santa, try a pillow
+instead.
+96004: You're afraid you won't be able to find it in there if you need it
+again.
+96056: You gently tuck the young fox into the front of your jumpsuit. It seems
+content to stay nestled there with its head just peeking out of the top.
+96156: A scrap of wood with the number 47 hand-painted in a rustic script.
+(Hey, at least it's not Comic Sans.) Scrawled in fading pencil beneath the
+number are the words "Drop Deliveries Here".
+96296: The nail is embedded deep into the tree, and has been for some time.
+It's not coming out.
+96360: It's barely more than two ruts in the dirt.
+96392: Just say which direction you want to go.
+96420: You'll have to get into the boat first.
+96448: A hollow voice says, "I pity the fool who uses lame magic words."
+96496: A hollow voice sighs, "Especially that one."
+96532: The duck objects. Strenuously. You take some time and reconsider, and
+decide not to push the issue.
+96604: That's not something you can walk on.
+96660: You can't get out of the boat until you reach land.
+96724: The duck swims gracefully beside you.
+96808: and try to stop the carnage, but it's too late. By the time you reach
+them, all that's left of the duck is a pile of white feathers.
+96960: waddle over to the sack of grain. Suddenly it pokes its bill through the
+thin burlap and begins devouring the grain as it pours out. Before you can
+intervene, the sack is full of holes and the remaining product is scattered
+everywhere.
+97124: There'll be plenty of time for pleasure boating after you finish your
+delivery.
+97180: There'll be plenty of time for recreational swimming after you finish
+your delivery.
+97240: The shore tapers off here, making it impossible to pass without getting
+into the water.
+97300: As you arrive with the last of the cargo, you begin to hear a low rumble
+coming from the direction of the woods. Soon you can make out the distinct
+sounds of a sputtering motor and of tree branches thwacking against steel and
+glass. Finally a battered pickup truck emerges from the lane and squeals to a
+halt on the beach. The door opens and an old man in overalls and a straw hat
+steps out.
+
+He gives you (and your jumpsuit) the once-over, then glances back
+to the truck where you nervously presume is located a large-caliber weapon of
+some sort. Fortunately he decides to give you a second look and eventually
+spots the SpeedEx logo on your pocket. "So, you brought my stuff, huh," he says
+in a gruff yet nonchalant voice. "I trust you didn't have any problem gettin'
+them over here?" Though he looks like someone who would appreciate a good yarn,
+you're anxious to get home and so you simply shake your head no.
+
+Anxious to
+get going, you say, "Well, I'd better be on my way, then," and the old man tips
+his hat in a gesture of thanks. He turns and begins loading the cargo into his
+truck, all the while whistling a jaunty tune that sounds strangely familiar.
+You're about to head back across the river when the man leans out of the truck
+and yells to you:
+
+"Say, you look like a bright person, maybe you can help me
+with something. I know these four guys with a lamp who are trying to cross a
+bridge..."
+98316: HINTS disabled.
+98716: give" or test "has" or "hasnt" with a non-attribute on the object
+98764: , but it is longer than 2 bytes so you cannot use "."
+

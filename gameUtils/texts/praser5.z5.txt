@@ -1,0 +1,310 @@
+8527: Please answer yes or no.
+9750: Are you sure you want to quit?
+9797: Failed.
+9817: Save failed.
+9832: Ok.
+9844: Ok.
+9862: Restore failed.
+9875: Ok.
+9913: Unable to begin transcript.
+9939: Beginning transcript.
+9956: End of transcript.
+9991: Unable to end transcript.
+10081: You perceive nothing special.
+10299: You can't go that way.
+11045: You already inhabit the center.
+12208: "That's half of it..."
+12262: "You need no more from me."
+14340: . You feel drawn to it...
+15273: That makes no sense.
+15397: You see no such thing.
+15468: You see no such thing.
+15496: That makes no sense.
+15620: You have no such thing.
+15693: You have no such thing.
+18153: in" or "notin
+18169: opmhas" or "hasnt
+18311: }" at end of "objectloop
+20226: You can't "undo" what hasn't been done.
+20260: You can't "undo" twice in succession.
+20290: [Your interpreter does not provide "undo".  Sorry!]
+20380: Would you like to RESTART, RESTORE a saved game, UNDO your last move, or
+QUIT?
+20454: [Your interpreter does not provide "undo".  Sorry!]
+20544: Please give one of the answers above.
+20572: An Interactive Puzzle by Andrew Plotkin. Copyright 1989-2005.
+20628: First-time players should type "about" and "credits".
+20812: The Rules:
+20822: Wander around. Puzzles will be posed. Eventually you win.
+20872: Philosophy:
+20882: Some games make their puzzles too dense, by packing too many puzzles
+into the same sets of clues. Some make theirs too sparse, by putting in too
+many red herrings. I have tried to achieve a balance, by doing both.
+21036: Playing the Game:
+21050: Type one of the highlighted words to go in a direction, examine an
+object, or talk to a creature. You do not need to use Adventure-style commands
+like "take sword" or "read parchment". A single word will work.
+
+Type a
+creature's name to begin speaking to it. (Merely naming its species is rarely
+sufficient!) Creatures often ask questions, or pose riddles. When you are
+speaking to a creature, you will see a double ">>" prompt. You can then type a
+word or phrase to try to answer the riddle. If you are correct, you will be
+rewarded.
+
+(You can still move in directions, and examine objects, at the ">>"
+prompt.)
+21504: Special commands:
+21672: Free hint:
+21680: Don't make assumptions about what you're being asked.
+21720: Acknowledgements:
+22200: . I stole a puzzle out of PRASER 5 to put in it, too.)
+
+The structure of
+the planes (and the Plane of Structure) were snitched from Roger Zelazny's
+22404: History:
+23376: Possessions have no meaning here.
+23400: Are you sure you want to restart?
+23564: I'm afraid I don't know how to do that.
+23620: You find yourself in a doorless room.
+23676: There is no reply.
+23704: This is the center, apparently. The planes of existence stretch out
+around you; some open and beckoning, some blocked to your spirit. Most are
+esoteric and of little importance to you, but you are drawn to several: the
+physical, or
+23896: .
+
+This place seems to revolve around a multi-dimensional object, a
+23956: which seems to continue through all the planes. Your sight cannot
+penetrate it.
+24012: Your perception cannot penetrate the monolith.
+24044: You stand at the center of a grassy plain. The only feature in sight is
+an immense rectangular
+24120: , black and unreflective.
+
+Paths lead away in the four cardinal
+directions. To the
+24252: Yep, it's big, black, and rectangular all right. You can probably guess
+the proportions. You notice a piece of
+24378: The sign is written in an ornate calligraphy, and bears four arrows,
+pointing along the four paths.
+24452: "There Here be Emblems, four in Number. A Mark Each Bears, Enigmatic and
+Hidden; You may Discover Each by the Acrostic of Names Each Emblem Flaunts."
+24570: You stand on a low hill, under skies suddenly gray and clouded. At the
+crest, a wooden rod rises from the ground, twenty feet high and a foot thick.
+Bolts of lightning continuously blast from the clouds and strike the rod; the
+noise is deafening.
+
+You see
+24760: You read the words:
+24926: The plains here are divided by a wide river, whose waters rush by with
+immense power. The air is full of the sound of the torrent as it splashes among
+the rocks.
+
+Standing on the near bank is a silver chalice, as tall as a man.
+Engraved on the sides are
+25112: You read the words:
+25262: The ground is dark and bare here, stripped by the constant roaring wind
+that blows across this place.
+
+A giant sword of glittering steel is embedded in
+the ground, rising twice as high as your head. The hilt is ornately wrought,
+and fine
+25440: You read the words:
+25454: Off with its head!
+
+- I behead a flavorsome seed, and discover the
+Way.
+- I behead an illusion, and discover an illusionist.
+- I behead a single
+bird, and discover a mountain top.
+- I behead a sick-house, and discover a
+savour.
+- I betail a shape, and discover a short distance.
+- I betail a strip,
+and discover a bone.
+25692: You find yourself on the peak of a stony mountain. The lands below are
+strangely obscured in mist. Balanced on the peak is a wide disk of some glowing
+crystal.
+
+You see
+25816: You read the words:
+26092: Carved around the rim of the disk are a row of small circles:
+26636: You are standing on turf, but the land curves strangely. Hills rise at
+odd angles, even curving out over empty air. Some features of terrain are
+worse; looking up, for example, you notice a segment of the ground that seems
+to have gotten stuck overhead, upside down, connected to a mound by a narrow
+bridge of grassy soil.
+
+The impression of weirdness is reinforced by the trees
+and bushes that stick out of the ground here and there; they are perpendicular
+to the grass, no matter what angle that means.
+
+A neat path leads
+27012: into a depression. A third leads
+27038: onto a precariously projecting prong of a hill.
+
+Poking out of the
+ground is a rough stick with a
+27124: "Their names are Hypborea, Alaseia, Iriphaea, and Loprasme."
+27172: You are standing half-way up a mound. Gravity seems to have shifted, as
+you're still standing perpendicular to the grass, even though it looked like a
+60-degree angle before you started climbing.
+
+The improved view makes this
+place worse; the ground in the distance is as likely to be above the "horizon"
+as below it; and in either case, daylight could be showing through gaps
+underneath. Everything is covered with neatly-cropped grass, though.
+
+A path
+goes
+27532: it.
+
+A tawny sphinx lies by the path. Its dark eyes follow you silently,
+but it remains otherwise motionless.
+28450: E. So what is the shape of the figure OSRHP, and what is its area in
+square bloits?" It smiles gently and curls up again.
+28540: "Both the shape and the area, please."
+28572: The sphinx shakes his head slowly.
+28596: The sphinx blinks slowly, displaying perhaps the faintest sign of
+surprise at your answer. "The serpent's name is Proealms, but you must unlock
+it."
+28702: You are standing in a depression in the crest of a hill. You note with
+some unease that another hill arches overhead, and the hill you are on is
+considerably longer on one side than on the other.
+
+A narrow path leads
+28868: .
+
+Grazing in the depression is a black unicorn, its silver horn
+gleaming even in the diffuse sunlight. It watches you curiously, and without
+fear.
+28972: "What form lies hidden in the Sphinx's riddle?" the unicorn asks. "Tell
+me that, and perhaps I'll help you."
+29056: The unicorn shakes its head and snorts into its beard.
+29096: The unicorn nods. "I know the name of the pegasus. Start at the number
+of my race; then follow the Way of Water, then Air, then Water, then Earth,
+then Water thrice more."
+29224: This is a narrow hill-side. Really narrow, in fact; the hill is barely
+more than ten feet wide. The laws of gravity seem to be in bad shape, as you're
+standing straight out from the side of the hill.
+
+The path continues
+29388: the hill towards the top, which seems strangely elongated. You could
+also go back
+29452: .
+
+A white pegasus is perched here, cropping the grass and apparently
+unconcerned about the precariousness of the situation.
+29540: The creature intones, "My grandmother has four; my father has three; my
+name has two; you, only one. To what am I referring?" It looks at you
+expectantly.
+29668: The pegasus winks conspiratorially and says, "The last name of the Norn
+is hidden in the clues of the Literal Plane. The first name is Fyreen. Tell the
+whole to Typhon -- once you know Typhon's name, that is!"
+29822: This is a grassy slope at the edge of a precipitous drop. Peering
+cautiously over the edge, you see blue sky below.
+
+A small path leads
+29964: A passel of nymphs are clustered by the precipice, apparently paying no
+attention to the danger. There are four of them; a sylph, a dryad, a naiad, and
+an oread.
+30080: The sylph asks, "Answer me this: what is the Way as Air?"
+30124: The sylph shakes her head, her eyes twinkling.
+30160: The sylph says, "The sphinx's name is Arlumere."
+30200: The dryad asks, "Tell me the name of the Way as Fire."
+30244: The dryad shakes her head, her eyes twinkling.
+30280: The dryad looks up and says, "The griffon is called Adracaston."
+30328: The naiad asks, "First, tell me the name of the Way as Water."
+30376: The naiad shakes her head, her eyes twinkling.
+30412: The naiad smiles at you and murmurs, "The name of the unicorn is
+Aelacimos."
+30468: The oread asks, "What is the Way as Earth?"
+30504: The oread shakes her head, her eyes twinkling.
+30540: The oread smiles. "The Plane of Structure is already open to you."
+30590: The oread looks at you, glances at the other three maidens, and nods.
+"The way to the Plane of Structure will be opened to you."
+30688: You feel a faint silvery sensation impinge on your soul.
+30728: This area is quite flat, which would be comforting if it were inclined
+less than 45 degrees. As usual, you are angled to match. Hills rise all about
+you.
+
+A path leads
+30888: an amphitheatre-like cavity cut into the side of another.
+
+Resting near
+here is a large golden griffon. It looks somnolent, but its alertness is
+betrayed by a piercing blue eye peering from beneath a half-closed lid.
+31040: The griffon looks at you down its hooked beak. "Try this one: I am
+forever on the Way, but I will never reach its end. I see the Way in three
+aspects. With my first eye, I see it as endless motion; with my other eye, I
+see it as eternal stasis. Yet I have a third eye, which sees both without
+contradiction; perceiving entropy, the energy of the Way decaying inevitably
+down to silence. What am I?"
+31332: "Nope," the griffon says.
+31352: The griffon ruffles its wings and says, "The name of my cousin the
+hippogryph is 3, 6, 1, 12, 4, 5, 2, 8."
+31438: You're standing on a spit of grassy soil that projects out over a cliff.
+It narrows further ahead, becoming a mere bridge that twists horrifyingly up
+into the air.
+
+The path follows it
+31576: into space, even where the bridge is barely wider than the path. A
+safer-looking path leads back
+31652: to the other side.
+
+A hippogryph balances nervously on the spit, its
+wings half-spread and waving slightly to maintain balance. It seems oblivious
+of you.
+31764: The beast looks over and snaps, "The key to the snake's name is
+west-south-east-south. Now go away!"
+32118: the knob. From your perspective, of course, it leads straight down along
+the side of the spire.
+
+A Typhon, a giant serpent with the head of a human, is
+tangled unconcernedly on one side of the knob. It looks up at you lazily, and
+you note with some nervousness that the human head has retained the fangs of
+the serpent.
+32344: The beast grins at you, and begins absent-mindedly sharpening its fangs
+on a stone.
+32404: That apparently doesn't interest the Typhon.
+32436: "Well done, mortal; perhaps the human race has some wit about it after
+all. I will open the Plane of Essence to your passage. We will see how you
+confront the Monolith."
+32564: You feel a faint silvery sensation impinge on your soul.
+32604: A plane of existence stretches out below you. You feel drawn to it, but
+at the same time blocked; your spirit cannot pass into it without aid.
+32704: Floating in space here is a colorless sphere. Within it you see the
+letter
+32756: The object here is lens-shaped, convex on both sides, with a sharp rim.
+Inside it you see the letter
+32828: A cylinder, as wide as it is high, drifts nearby. It contains the letter
+32916: Here you you see a pyramid -- the square-based type. Inside is the
+letter
+33004: Floating nearby you see an octahedron. Within it is the letter
+33048: Here you see, in all its glory, a dodecahedron. Inside it is the letter
+33100: A plane of existence stretches out below you. You feel drawn to it, but
+at the same time blocked; your spirit cannot pass into it without aid.
+33200: The omnipresent monolith has not failed you -- its essence is clearly
+visible in this plane. However, from this perspective, it is no longer
+impenetrable! An
+33388: . The center of the darkness has a strange
+33424: The monolith distorts oddly as you approach; as you pass through its
+surface, you are totally enveloped in blackness.
+33508: A red glow appears before you; it is bright, but illuminates nothing in
+the darkness around you. From it, a crackling voice says, "Speak the Mark of
+Fire."
+33624: A blue glow appears. A soft voice asks, "What is the Mark of Water?"
+33676: A yellow glow waxes before you, and a voice breathes, "What is the Mark
+of Air?"
+33736: A green glow appears, and from it a ponderous voice intones, "Speak now
+the Mark of Earth."
+33948: You are in a square room. The floor and ceiling are grey slate, but the
+walls are various colors:
+34060: The monolith twists out of existence as you feel the familiar sensation
+of planar travel. A deep voice intones, "You win." A thousand-piece
+brass-and-kazoo band strikes up a congratulatory hymn, and a crowd of cheering
+elementals carries you off to Valhalla for a well-earned nap.
+34600: give" or test "has" or "hasnt" with a non-attribute on the object
+34648: , but it is longer than 2 bytes so you cannot use "."
+

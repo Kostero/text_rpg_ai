@@ -1,0 +1,665 @@
+19169: Nothing to do!
+19204: o. You have won
+19288: It is now pitch dark in here!
+19315: I beg your pardon?
+19379: Sorry, that can't be corrected.
+19408: Think nothing of it.
+19461: As good-looking as ever.
+19493: You can hardly repeat that.
+19518: You can't begin with a comma.
+19632: I didn't understand that number.
+19661: You can't see any such thing.
+19697: You aren't holding that!
+19739: I'm not sure what "
+19791: That's not a verb I recognize.
+19830: You can't see "
+19938: Nothing to do!
+19955: There are none at all available!
+20865: Please answer yes or no.
+20891: Are you sure you want to quit?
+20936: Failed.
+20956: Restore failed.
+20973: Ok.
+20991: Save failed.
+21006: Ok.
+21050: Transcripting is already on.
+21116: Transcripting is already off.
+21174: Score notification on.
+21195: Score notification off.
+21218: You have visited:
+21246: Objects you have handled:
+21271: None.
+21655: You are carrying nothing.
+21704: Taken.
+21715: You are always self-possessed.
+22248: Dropped.
+22356: Removed.
+22495: You lack the dexterity.
+22576: Done.
+22842: Done.
+23062: Wrahn seem interested.
+23701: You can't go that way.
+24261: But it's dark.
+24278: You find nothing of interest.
+24314: But it's dark.
+24405: You find nothing of interest.
+25533: . Not bad.
+25551: That was a rhetorical question.
+25605: That seems unnecessary.
+25628: Keep your mind on the game.
+25653: What a good idea.
+25672: You smell nothing unexpected.
+25699: You hear nothing unexpected.
+25724: You taste nothing unexpected.
+25759: Keep your hands to yourself!
+25784: You feel nothing unexpected.
+25809: If you think that'll help.
+25918: Oh, don't apologize.
+25948: Quite.
+26017: You achieve nothing by this.
+26105: You wave, feeling foolish.
+26255: You are unable to.
+26274: Nothing obvious happens.
+26324: That's not a direction.
+26347: Not that way you can't.
+26379: Keep your hands to yourself.
+26404: You achieve nothing by this.
+26437: Futile.
+26466: You talk to yourself a while.
+26493: This provokes no reaction.
+26521: There is no reply.
+26540: Nothing is on sale.
+26559: Your singing is abominable.
+26593: Time passes.
+50663: It's a porcelain sink.
+50695: The sink isn't on.
+50733: The flask is full.
+51068: You take another sheet of paper.
+51241: The flask is already full.
+51509: Roy arrives from his room.
+51540: Roy climbs down the stairs.
+51572: Roy climbs down the stairs.
+51605: Roy hurries northwest.
+51633: Roy arrives from the southeast.
+51668: Roy climbs down the stairs.
+51700: Roy climbs down the stairs.
+51809: The lights suddenly come on.
+51892: Roy climbs up the stairs.
+51922: Roy climbs up the stairs.
+51953: Roy leaves southeast.
+51981: Roy arrives from the northwest.
+52016: Roy climbs up the stairs.
+52046: Roy climbs up the stairs.
+52077: Roy returns to his room.
+52193: It's already empty.
+52293: The flask is empty.
+52756: It's empty.
+52785: That's not drinkable.
+53070: You eject the disk.
+53106: That won't open the computer.
+53243: That's not a suitable container.
+53278: The flask is already full.
+53459: The flask is full.
+53831: Patricide is not the answer.
+54085: But you haven't called anyone.
+54190: The fuse box won't budge.
+54280: You've already cut the wire!
+54424: You replace the fuse.
+54537: You turn the power back on.
+54737: The source beaker is empty.
+54833: It's already empty.
+54855: You empty the source beaker.
+54949: The destination beaker is empty.
+55049: It's already empty.
+55071: You empty the beaker.
+55161: The destination beaker is empty.
+55261: It's already empty.
+55283: You empty the beaker.
+55695: There's nothing to climb.
+55840: You blow the candle out.
+55947: You tie the rope to the post.
+56010: It isn't attached to anything.
+56077: Wheeeeeeeeesplat.
+56485: You escape the sewer maze.
+56939: The panel hisses shut.
+57053: SUPPLEMENTARY FUEL:
+57152: MAIN PROCESSOR:
+57221: It doesn't fit.
+57332: It's shut tight.
+57400: The lever is stuck.
+60562: There's nothing there to pour.
+60590: There's nothing here to dial.
+60866: You can't replace that.
+63304: in" or "notin
+63320: opmhas" or "hasnt
+63462: }" at end of "objectloop
+64668: Strange, Different, and Altogether Weird
+Copyright (c) 1996 Gregory
+Janson.
+Transcribed into interactive fiction form by Patrick Walton.
+64932: Score:
+64940: Moves:
+64948: Time:
+64956: You can't go that way.
+65288: Please give one of the answers above.
+65316: [You can't "undo" what hasn't been done!]
+65352: [Can't "undo" twice in succession. Sorry!]
+65392: "Oops" can only correct a single word.
+65420: It is pitch dark, and you can't see a thing.
+65452: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+65512: You seem to want to talk to someone, but I can't see whom.
+65556: To talk to someone, try "someone, hello" or some such.
+65596: I didn't understand that sentence.
+65656: You seem to have said too little!
+65680: You can't use multiple objects with that verb.
+65716: You can only use multiple objects once on a line.
+65752: You excepted something not included anyway!
+65784: You can only do that to something animate.
+65816: That's not something you need to refer to in the course of this game.
+65864: I didn't understand the way that finished.
+65896: Sorry, you can only have one item here. Which exactly?
+66048: Are you sure you want to restart?
+66072: The game file has verified as intact.
+66100: The game file did not verify as intact, and may be corrupt.
+66144: Attempt to begin transcript failed.
+66172: Attempt to end transcript failed.
+66196: You're carrying too many things already.
+66228: You can't put something on top of itself.
+66260: You can't put something inside itself.
+66288: That would scarcely empty anything.
+66344: You can only get into something free-standing.
+66380: But you aren't in anything at the moment.
+66412: You'll have to say which compass direction to go in.
+66452: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+66548: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+66632: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+66808: This dangerous act would achieve little.
+66836: Nothing practical results from your prayer.
+66868: The dreadful truth is, this is not a dream.
+66900: Digging would achieve nothing here.
+66928: You jump on the spot, fruitlessly.
+66956: You would achieve nothing by this.
+66980: There's nothing suitable to drink here.
+67008: But there's no water here to carry.
+67036: Real adventurers do not use such language.
+67068: Violence isn't the answer to this one.
+67096: There's not enough water to swim in.
+67124: There's nothing sensible to swing here.
+67152: That would be less than courteous.
+67176: Is that the best you can think of?
+67200: You lack the nerve when it comes to the crucial moment.
+67240: I don't think much is to be achieved by that.
+67272: You aren't feeling especially drowsy.
+67360: It's a porcelain sink with water gushing out.
+67392: You can't pour the water into that.
+67420: You fill the flask with tap water.
+67444: You can't tie the towel onto that.
+67472: You tie the towel onto the rope. It's now long enough to reach the
+ground!
+67584: Sleek white walls surround your futuristic bedroom, which has been your
+abode for as long as you can remember. The room is disorganized enough that you
+nonetheless never know what's hiding in it. Your large bed with its rumpled
+sheets lies in the southwest corner, opposite a chest of drawers. A writing
+desk and a stool stand next to you, and a wastebasket lies nearby. A door leads
+north to a bathroom, and a western door leads to a hall.
+67892: Your bed is meager but comfortable. Its red sheets lie haphazardly on
+the simple mattress.
+67960: It's a simple metal wire wastebasket.
+67992: Your antiquated television set is broken.
+68024: Unfortunately, it seems to be broken.
+68056: Your stool is unceremoniously planted in front of your writing desk.
+68108: Your large wooden writing desk contains two drawers. You can't seem to
+recall their contents.
+68180: The bright orange "Blaster" yo-yo has been your toy - and weapon - of
+choice since your early childhood. By flinging the yo-yo at various
+supernatural adversaries, you have accomplished many great deeds.
+68324: The modern metal chest of drawers stands in the southeast corner of the
+room.
+68384: Many sheets of plain notebook paper.
+68412: You take one of the sheets of paper.
+68440: You've already taken a sheet of paper.
+68468: A sheet of plain notebook paper.
+68492: You have nothing with which to burn the paper.
+68524: What, and burn the house down in the process? I think not.
+68568: The paper burns to a crisp, and the ashes blow away.
+68608: The paper burns up, leaving a pile of ashes in the ashtray.
+68652: The ashes are the burnt remains of the piece of paper.
+68692: You try to pick up the ashes, but they slip through your fingers.
+68740: You can't pour the ashes into that.
+68768: You scoop a few ashes into the flask.
+68796: This plain bathroom's walls are adorned with porcelain tiles. A toilet
+stands along the north wall, and a giant mirror fills the western wall. A sink
+lies in front of it. Doors lead to the north, to Roy's room, and south, to your
+own bedroom.
+68968: Your brother, Roy, makes his living in this spacious room. A massive
+window fills the north wall, and a large bed lies next to it. Roy's chest of
+drawers stands opposite the bed. Across the room is a high-tech computer,
+69124: A door leads south, to a bathroom, and the room opens into a hall to the
+west.
+69180: Your older brother, Roy, stands about six feet tall. His thick-rimmed
+glasses complement his wild hair and his plain white T-shirt. Roy carries an
+aura of technological authority, and you've learned that it's generally best to
+leave him alone.
+69352: Roy himself sits in front of his computer, engrossed in his
+computational activities.
+69412: Exasperated, your older brother Roy shuffles quickly to his destination.
+69464: From your prior scuffles, you know this to be a bad idea.
+69504: He's too engrossed in his computing to answer.
+69540: He dismissively replies, "Not now, Jace. I'm busy making UltraZeux
+games."
+69600: Roy screams, "Stay OUT of my stuff!" You freeze; you'll have to find
+some other way to acquire
+69676: Roy howls across the house, "WHAT?! I haven't saved my work yet!"
+69728: Roy mutters, "I'd better go down and check the fuse box..."
+69774: Roy gets up and leaves the room.
+69852: Roy muses, "Hmm... nothing wrong here."
+69886: Roy muses, "Ah, here's the problem." He flips the power switch, and the
+lights come on.
+69956: Roy sighs, "Is this somebody's idea of a joke? I guess I'll go buy a new
+wire." He glares at you and warns, "Don't touch my computer!" Then he saunters
+up the stairs.
+70080: Roy enters the room, starts his computer, and sits down to resume his
+work.
+70136: Roy's chest contains two drawers. You have no idea what they contain;
+Roy has been known to forcefully protect his property.
+70228: A industrial-strength sledgehammer, good at swatting flies and smashing
+things to bits.
+70364: It's a standard 3.5-inch floppy disk.
+70396: It's a shiny metal wastebasket sitting next to Roy's computer.
+70444: In contrast to yours, Roy's large bed is neatly made. It appears
+comfortable and is covered with a green blanket.
+70524: This Erlenmeyer flask has found many uses in Roy's chemistry
+experiments. It contains
+70588: A clear Erlenmeyer flask lies next to Roy's bed.
+70624: You pour the flask's contents out.
+70652: The flask is only big enough to hold liquids.
+70684: A feminine voice reports, "Main fuel irregularity detected. Flushing
+main fuel tank." You hear a whooshing sound.
+70768: A feminine voice reports, "Supplementary fuel irregularity detected.
+Flushing supplementary fuel tank." You hear a whooshing sound.
+70864: The top of the destination beaker is sealed off.
+70900: That's not something you can pour the contents of the flask into.
+70948: That vial should have been kept out of reach of children like you.
+Ammonia and bodily fluids don't mix.
+71020: You feel queasy as you drink the vinegar. Ugh!
+71056: You cough as you drink down the pool water. You feel a little sick.
+71104: Pure chlorine is one of the most toxic substances known, in case you
+weren't aware.
+71164: You take a refreshing drink of water.
+71192: You take a satisfying drink of water.
+71220: You really shouldn't play with poisonous substances.
+71258: Roy's high-tech computer, a 686, is running Windows 2001. You don't know
+how to use it very well, and you're sure that Roy has locked it down. The
+computer has a floppy drive
+71392: The disk already contains the hacking software.
+71428: As far as you can tell, the computer only accepts floppy disks.
+71472: The power is off, so the computer isn't accepting floppy disks.
+71520: The computer refuses to show any signs of activity in response to the
+disk.
+71572: No way! Roy will be back any second!
+71732: The computer promptly copies the hacking software onto the disk and
+ejects it.
+71788: Tampering with Roy's equipment is akin to suicide.
+71824: You unscrew and open the computer case, hoping you didn't damage its
+internals.
+71880: You can't open it with your bare hands.
+71908: The computer is programmed to switch on and off automatically.
+71952: You don't understand the function of most of the parts inside Roy's
+advanced computer, but a large label reading "686" catches your eye.
+72052: You close the computer case and replace the screws.
+72088: It's a tiny chip, thankfully intact, labeled "Intel 686."
+72136: You carefully remove the processor.
+72164: It's a standard 3.5-inch diskette with hacking software on it.
+72212: This is a cramped hallway on the second floor of your house. Doors lead
+to the northeast, to Roy's bedroom, and to the southeast, to your own. To the
+north is a balcony overlooking the mountains. A stairway leads south to the
+first floor.
+72380: You stand atop your house's balcony overlooking a serene mountain scene.
+In the distance, you can discern the lofty peaks, barely illuminated by the
+moonlight. A sliding door leads south back into your house, while a revolving
+staircase to the north descends down to your swimming pool.
+72580: Your family takes pride in this large, comfortable swimming pool outside
+your house. Lights pierce the darkness to illuminate its still waters. A small
+inflatable life preserver floats in the center of the pool. A metal staircase
+leads north to your balcony; all other exits are blocked by a high fence.
+72792: At this time of night, the water is too cold for a swim.
+72836: It's a long blue bath towel, currently dry.
+72872: It's a long yellow bath towel, currently dry.
+72908: You fill the flask with water from the pool.
+72940: It's a small doughnut-shaped life preserver. Thankfully, your family has
+never had to use it.
+73008: It's floating too far away to reach.
+73036: A string lies on the side of the pool, attached to something in the
+water.
+73088: The string disappears into the depths of the water. You can't make out
+what it's connected to.
+73156: You pull the string to reveal a thermometer.
+73188: A pool thermometer lies here.
+73212: The pool thermometer reads 60 degrees Fahrenheit. You're glad that you
+didn't swim in the pool.
+73284: It's not strong enough to destroy the thermometer.
+73320: You smash the thermometer to pieces! A pool of mercury begins to form
+near its remains.
+73388: Nice job on the thermometer. Not much is left.
+73424: It's a pool of mercury, the insides of the now-defunct thermometer.
+73472: You really shouldn't play with poisonous substances.
+73512: You can't pour the mercury into that.
+73540: You scoop some mercury into the flask.
+73568: The mercury slips right through your fingers.
+73600: You stand in the entrance to your house, a large yet nondescript
+chamber. Your front door is to the south, while your family's entertainment
+room lies to the northwest. A flight of stairs leads upward, and a long hallway
+stretches to the east.
+73772: A comfortable couch spans the north side of this relatively small family
+room. Across from it, a television set rests on a dresser. To the east, a small
+staircase leads into your darkened basement. The only other door leads
+southeast to the rest of your house.
+73952: The small television is currently off. You usually don't watch it very
+often, since your family doesn't pay for more than a few news stations.
+74052: You switch on the television set and begin to watch the news...
+
+"And
+just in: A bank robbery in progress! Uh... hold on while we contact the police,
+currently stationed around the strange crater found last night..."
+74270: in disgust. You can't stand the violence and crime.
+74308: This long, drab corridor runs from east to west, back to the entrance to
+your house. To the north, a door leads into your house's kitchen. Your parents'
+bedroom lies to the northeast, while their bathroom is to the southeast.
+74468: Your house's kitchen is in disarray. Various pots, pans, and cookery are
+strewn about the room. A fancy porcelain sink lies on the counter to the west,
+while two drawers line the opposite wall. The only exit is south, back to the
+hallway.
+74636: It's a large wooden spoon, the sort used for making pasta and the like.
+74688: It's a really long, sharp, cool-looking butcher knife. The logo on it
+reads, "Fine Cookware by Smith and Co."
+74772: A glass vial of some mysterious liquid rests on the counter.
+74816: The unmarked vial holds a pale green liquid, which gives off a strange
+odor.
+74872: You can't pour the mysterious liquid into that.
+74908: You pour the mysterious liquid into the left hole. A feminine voice
+reports, "Main fuel irregularity detected. Flushing main fuel tank." You hear a
+whooshing sound.
+75028: You pour the mysterious liquid into the right hole. A feminine voice
+reports, "Supplementary fuel irregularity detected. Flushing supplementary fuel
+tank." You hear a whooshing sound.
+75192: The mysterious liquid would be better left where it is.
+75232: The flask should have been kept out of reach of children. Ammonia and
+bodily fluids don't mix.
+75300: Like your own, this small bathroom's walls are covered with porcelain
+tiles. A shower lies in the southeastern corner; next to it is an ordinary
+sink. The exit is northwest, back to the hallway.
+75440: You tiptoe cautiously into a well-furnished modern room, the living
+quarters of your parents. Your mother is away on business, but your father
+sleeps soundly - and noisily - in the center of a massive bed on the west wall
+of the room. A small table is positioned in one corner; and a telephone rests
+on top of it. A plain door leads south, back into the hallway.
+75696: Your father snores loudly as he sleeps soundly in the bed, completely
+unaware of your presence.
+75764: You shove and shout at him, but nothing you can do wakes him up.
+75812: You have nothing to burn him with.
+75836: You asked for a puppy, but noooo...
+75864: Cackling with glee, you set your father's head on fire! Burn, Daddy,
+burn! After the inferno subsides, his face is blackened and charred - obviously
+smoking was bad for his health.
+75996: A cigarette lighter lies haphazardly thrown on the ground here.
+76040: It's a standard cigarette lighter in a blue plastic case.
+76080: A touch-pad telephone rests on the table.
+76110: The telephone touch-pad has three digits: 1, 2, and 3. You rarely use
+it, and as such you can't remember any numbers to dial right away.
+76212: "Hello? Hello?" you ask. No answer. You must have dialed the wrong
+number.
+76272: A recorded feminine voice on the other end answers, "Police station. I'm
+sorry, but we're busy at the moment." *click*
+76364: A recorded feminine voice on the other end asks, "Police station. Code
+number, please."
+76428: A masculine voice responds, "Hang on! We'll be right there!" *click*
+76484: A quite different voice responds, "Don't waste our time, kid." *click*
+76540: Your house's dark basement is littered with a myriad of various
+apparatus from Roy's chemistry experiments. Beakers, flasks, and jars fill the
+room's recesses, most of which are broken. The dim light comes from a single
+naked bulb hanging from the ceiling. The only exit is to the west, where stairs
+lead back into the main part of your house.
+76780: The fuse box is a sizable gray container with no discernible markings.
+76828: A large metal fuse box is affixed to the wall.
+76860: It's a brilliant red fuse that looks like it affects something
+important.
+76912: It's a brilliant red fuse that looks like it affected something
+important at one time.
+76972: You have nothing suitable with which to cut the wire.
+77012: You cut the wire from the fuse box. Boy, it sure is dark in here.
+77060: Try as you might, you can't pull the wire out.
+77096: You replace the fuse, and the lights come on.
+77128: A large power switch.
+77144: You switch the power off. Instantly, the house becomes pitch black
+77236: Roy probably built this still system, which, according to the label,
+separates chemicals into their components. It consists of a button and three
+beakers: one labeled "source" and two labeled "destination."
+77384: A giant chemical still apparatus fills the southern wall.
+77424: It's a large green button mounted on the side of the still.
+77468: The still becomes a flurry of activity as the mysterious liquid
+decomposes into ammonia and vinegar!
+77536: The still churns and grinds as the pool water decomposes into pure water
+and chlorine!
+77596: Strangely enough, nothing happens.
+77624: It's a clear glass beaker anchored in place and labeled "Source." It
+contains
+77684: You can't pour the contents of the beaker into that.
+77724: It's a clear glass beaker labeled "Destination 1." It contains
+77772: You can't pour the contents of the beaker into that.
+77812: It's a clear glass beaker labeled "Destination 2." It contains
+77860: You can't pour the contents of the beaker into that.
+77900: You stand on the sidewalk before your house. A flickering lamp post
+dimly illuminates the street, which stretches from east to west. The scene has
+an austere feel; even your house looks somewhat foreboding. Beyond it, you can
+see a range of mountains, shrouded in fog.
+78110: . Blob." You apologize profusely.
+78140: is quite simply a green blob of goo. You're not quite sure how you know
+78192: It's a heavy manhole cover - too heavy for you to lift. Inscribed in it
+are the words, "METROPOLITAN SEWER SYSTEM."
+78292: Examining it closely, you can faintly hear the sound of running water
+below.
+78348: A covered manhole lies in the middle of the street.
+78384: The manhole cover lies beside the manhole.
+78416: It's far too heavy for you to lift.
+78444: It's too heavy for you to move with your bare hands.
+78484: It's too heavy for you to move with your bare hands.
+78524: You've already moved the manhole cover away.
+78556: With great effort, you pry the manhole cover off.
+78592: The gaping manhole leads down into the sewer system. Thankfully, a
+series of rungs have been inserted along the sides of the pit, so you won't
+need to jump down.
+78704: A gaping manhole beckons you downward into the sewer system.
+78748: You stand at the eastern end of the road below a massive oak tree.
+Nestled within the tree's branches is your sizable treehouse, a favorite
+hangout of yours for years. The paved street ends to the east, and your house
+is located just west of here.
+78920: A thick braided rope dangles from the treehouse.
+78956: It's a thick braided rope.
+78976: You'd have to climb the rope and cut it from the top.
+79016: This dark and plain treehouse, illuminated only by moonlight, is
+nevertheless roomy and comfortable. Steadfast wooden boards compose the walls.
+A hole in the ground leads out of the treehouse, to the moonlit street below.
+79170: You leap out of the treehouse onto the street below.
+79212: An unlit candle rests on a table.
+79236: You have nothing with which to light the candle.
+79272: You light the candle with the cigarette lighter.
+79308: It's an extremely heavy metal crowbar, perfect for smashing objects,
+practicing law enforcement, or moving heavy things.
+79392: It's a post attached to the ground near the treehouse's opening.
+79440: A small vertical post is attached to the ground near the exit.
+79484: It's a heavy braided rope that supports your weight easily.
+79526: Attached to the post is a heavy braided rope that stretches to the
+ground.
+79580: You can't seem to unravel the knot.
+79608: Nothing you have would be suitable to cut the rope.
+79644: Cutting it up would achieve little.
+79672: With the butcher knife, you cut the rope from the post.
+79712: You tie the rope onto the rock and throw it over the chasm.
+79756: Flashing lights, traffic cones, and roadblocks are scattered everywhere
+around this section of road. An enormous gaping crater, perhaps fifteen meters
+wide, fills the center of the street. A strange orange glow filters upward from
+the fissure, although you can't discern its source. In fact, you have no idea
+how deep the crevice runs. The road stretches to the east and west, although
+the western exit is blocked by a series of roadblocks.
+80062: A policeman comes up to you and sternly directs you away, informing you,
+"Sorry, kid. This place is blocked off for safety reasons. Go on home."
+80172: You don't see any way to climb down.
+80200: A large gray rock lies next to the chasm.
+80232: It's a large stone precariously close to the side of the pit.
+80276: The stench of rubbish fills the stale air of this darkened sewer. Tiny
+glints of light filter in through a multitude of aerial manholes far out of
+reach. Fortunately, your exit features a crude stepladder, allowing you to
+leave as you please (which seems like a fairly attractive option at the
+moment).
+80488: Gushing water blocks any further travel; to the west you can make out a
+small crawlway, but the path to it is blocked by the filthy sewer water.
+80588: To the west you discern a small crawlway, accessible by sloshing through
+the ankle-high water.
+80656: The torrent of water blocks your path.
+80684: You find yourself in a maze of tight, cramped sewer pipes. You have no
+idea how long or how far this maze stretches, and the sameness of it all
+distorts your sense of direction. Pipes lead to the
+80908: If it were only that easy.
+80928: The sewer maze opens up into a massive chamber. Rushing water fills this
+mammoth room; the only dry land is the small platform on which you stand. The
+walls stretch up almost higher than you can make out. The corroded ceiling
+itself is barely visible. An enormous grating is visible to the east. The only
+exit you can discern is west, back to the sewer maze.
+81180: The gushing water is far too deep to cross.
+81212: What appears to be a killer... grape nut glares at you, teeth bared.
+81264: The killer grape nut, for lack of a better name, is a brown blobby
+creature about three feet wide. Its features seem to consist of little more
+than a pair of red eyes and slavering fangs set in a wrinkled brown face. It
+clearly resents your intrusion.
+81440: You'll need something more than your bare hands to defeat this foe.
+81488: As the yo-yo hits the killer grape nut, it freezes instantly. Then it
+dissolves into the floor, howling in pain. Soon, nothing is left but a few
+wrinkled slabs of skin.
+81608: The killer grape nut attacks you... and wounds you!
+81648: The killer grape nut attacks you... and kills you!
+81688: A strange golden key lies on the edge of the platform.
+81728: The gold key is extremely shiny - almost unnaturally so. No markings are
+visible on it. The shaft is simply a cylinder; it doesn't seem to be designed
+for a lock with tumblers. It's nothing like any other key you've ever seen.
+81892: You must be many meters deep now; you can barely see the midnight sky
+and full moon far above you. Before you is a massive white spacecraft of some
+sort. Composed of a wide dome structure with huge rockets and strange thrust
+mechanisms, it is a formidable and imposing structure. A slightly recessed
+panel on the side seems to be the only way in or out. Alien markings decorate
+its exterior. Perhaps most amazingly, it appears mostly intact. The rope
+stretches upward to the night sky. Unfortunately, however, it doesn't quite
+make it to a safe distance above the ground.
+82292: You leap off the rope. The ground warmly greets you.
+82332: You'll have to get onto the rope first.
+82360: It's a thickly braided rope, not quite long enough to reach the ground.
+82412: That would achieve absolutely nothing.
+82440: You can't reach the rope from here.
+82468: Oddly enough, a small signpost has been erected at the bottom of this
+chasm.
+82524: The sign reads, "Coming Soon: Yet Another MacDumbell's Fat-Food
+Restaurant."
+82588: The door to the spacecraft, a white panel, is perfectly smooth. A tiny
+cylindrical hole is in its center.
+82664: You'll have to get off the rope first.
+82692: The panel slides open with a touch.
+82720: You slip the strange key into the cylindrical hole, and you hear a
+gentle click in response.
+82784: The interior of the spacecraft is a truly astounding sight. Rows upon
+rows of strange panels and arcane readings line the domed sides of the ship.
+Slumped on the floor are two dead cows, who seem to have been the sole
+occupants of the now-vacant ship. A massive display - still functional - fills
+the eastern wall, and a bright red lever complements it. To your right, a pair
+of holes bear important-looking labels. Opposite them, an
+approximately-four-inch slot is embedded in the wall, next to a large metal
+box. As far as you can tell, the only exit is to the west, back to the crater.
+83194: The cover of the notebook reads, "Ship Log Book." You read through the
+last few...
+
+"D007:932.4 - Capsule 'MeadowMuffin' launched from main space
+station. Mission: To collect data on Earth and the human race in order to
+facilitate enslavement procedures.
+
+"D007:933.7 - Entered Earth's atmosphere.
+Composition of atmosphere will prevent any further communication with space
+station.
+
+"D007:933.8 - Laser-guided breaking system defective. Speed cannot be
+decreased. Disaster imminent. Placed ship into standby mode with maximum
+security. Will attempt to relay distress signal to space station."
+83648: The book's cover reads, "Ship Technical Manual." You read through the
+first few pages...
+
+"The ship's main fuel consists of a graded liquid chemical
+mixture of chlorine, mercury, and carbon. In contrast, the supplementary fuel
+consists of a carefully weighted combination of hydrogen, oxygen, and ammonia.
+The fuels are not interchangeable.
+
+"The ship is equipped with an emergency
+fuel ejection system which will drain all fuel in the event of a
+misconfiguration or emergency."
+83992: The hole is about fifteen centimeters across. A placard above it reads,
+"Main Fuel."
+84056: The hole is about fifteen centimeters across. A placard above it reads,
+"Supplementary Fuel."
+84124: The display is littered with various incomprehensible numbers and
+symbols, but you can understand the large message in the center of the
+screen:
+
+MAIN FUEL:
+84240: They look exactly like dead bovines. You can't believe it, but they
+appear to have been the only life forms aboard the ship. They appear to have
+died from the impact of the crash.
+84368: It's a small slit, measuring about three to four inches long and about
+half a centimeter tall.
+84436: The disk fits in the slot, but some force from within pushes it out.
+84484: You insert the hacking diskette into the drive. You hear some mechanical
+grinding noises and watch as the computer loads Roy's hacking program...
+84588: It's a think metal container, a few centimeters on each side. A label on
+the front reads, "MAIN PROCESSOR".
+84676: Charred blast marks mar the front of this destroyed processor. You can
+barely make out the numbers "686" on the front of the die.
+84768: It's a giant red switch labeled, "LIFTOFF," mounted below the display.
+84824: You pull the liftoff lever. Almost immediately, the soft hum of the
+engines becomes a roar as a voice says, "Liftoff engaged." You are thrown
+against the wall as the ship's thrust propels it upward, out of the crater and
+toward an unknown destination.
+
+Standing up and peering at the display, you
+watch your home planet slowly shrink into the background. You have a feeling
+you won't be seeing Earth again for some time.
+85140: To gain access to Roy's computer, you must break his security lock.
+85232: blocks in the center. For instance, a large green block with a
+85320: the puzzle. You break Roy's security lock when no dots are visible.
+85372: To match the colors, slide the rows of blocks. Use the WASD keys
+85464: specified direction. To return to the main game, press Q. To reset
+85548: Hit any key to continue.
+85760: program to disable its security. His program works by smashing
+85916: Hacking Bits. You must ram all three Bits into the Security Bits
+85992: You cannot control the Hacking Bits directly. You must flip gates to
+86044: change the direction of movement for the Bits. The current gate is
+86140: to another gate using the WASD keys. Bits generally bounce off gates,
+86236: through instead. Gates only influence turning decisions.
+86332: into other Hacking Bits. If you do, the program will reset. When you
+86700: of displaying colors. Weirdness relies on the use of color for
+86744: some of its more difficult puzzles. You will need an interpreter
+86856: The universe: huge, vast, 99.993% empty space, and lifeless... with a
+few exceptions.
+
+Earth: The only known inhabited planet.
+An insignificant
+pebble infested with insignificant specks of life.
+
+One of these specks, Jace
+Nyglus, is about to learn of his insignificance.
+87068: You'll have to specify a number to dial.
+87100: It appears that you can only dial four-digit numbers with three possible
+digits: 1, 2, and 3.
+87168: It appears that you can only dial four-digit numbers with three possible
+digits: 1, 2, and 3.
+87236: It appears that you can only dial four-digit numbers with three possible
+digits: 1, 2, and 3.
+

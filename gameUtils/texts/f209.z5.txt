@@ -1,0 +1,324 @@
+11138: Nothing to do!
+11173: o. You have won
+11432: Please give one of the answers above.
+11463: It is now pitch dark in here!
+11490: I beg your pardon?
+11508: dxn[You can't "undo" what hasn't been done!]
+11550: ehn[Can't "undo" twice in succession. Sorry!]
+11622: Sorry, that can't be corrected.
+11651: Think nothing of it.
+11672: "Oops" can only correct a single word.
+11706: It is pitch dark, and you can't see a thing.
+11757: As good-looking as ever.
+11781: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+11844: You can hardly repeat that.
+11869: You can't begin with a comma.
+11897: You seem to want to talk to someone, but I can't see whom.
+11972: To talk to someone, try "someone, hello" or some such.
+12040: I didn't understand that sentence.
+12110: I didn't understand that number.
+12139: You can't see any such thing.
+12166: You seem to have said too little!
+12195: You aren't holding that!
+12219: You can't use multiple objects with that verb.
+12259: You can only use multiple objects once on a line.
+12299: I'm not sure what "
+12334: You excepted something not included anyway!
+12370: You can only do that to something animate.
+12405: That's not a verb I recognise.
+12435: That's not something you need to refer to in the course of this game.
+12489: You can't see "
+12532: I didn't understand the way that finished.
+12624: Nothing to do!
+12641: There are none at all available!
+12715: Sorry, you can only have one item here. Which exactly?
+13688: Please answer yes or no.
+13714: Are you sure you want to quit?
+13750: Are you sure you want to restart?
+13782: Failed.
+13802: Restore failed.
+13819: Ok.
+13837: Save failed.
+13852: Ok.
+13870: The game file has verified as intact.
+13902: The game file did not verify as intact, and may be corrupted (unless you
+are playing it with a very primitive interpreter which is unable properly to
+perform the test).
+14032: Transcripting is already on.
+14089: Transcripting is already off.
+14138: Score notification on.
+14159: Score notification off.
+14182: You have visited:
+14210: Objects you have handled:
+14235: None.
+14619: You are carrying nothing.
+14668: Taken.
+14679: You are always self-possessed.
+15061: You're carrying too many things already.
+15239: Dropped.
+15349: Removed.
+15438: You can't put something on top of itself.
+15515: You lack the dexterity.
+15596: Done.
+15795: You can't put something inside itself.
+15886: Done.
+16122: Wrahn seem interested.
+16341: You can only get into something freestanding.
+16578: But you aren't in anything at the moment.
+16692: You'll have to say which compass direction to go in.
+16794: You can't go that way.
+16980: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+17082: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+17170: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+17644: But it's dark.
+17661: You find nothing of interest.
+17697: But it's dark.
+17788: You find nothing of interest.
+18958: . Not bad.
+18976: That was a rhetorical question.
+19003: This dangerous act would achieve little.
+19037: Nothing practical results from your prayer.
+19073: The dreadful truth is, this is not a dream.
+19110: That seems unnecessary.
+19133: Keep your mind on the game.
+19158: What a good idea.
+19177: You smell nothing unexpected.
+19204: You hear nothing unexpected.
+19229: You taste nothing unexpected.
+19264: Keep your hands to yourself!
+19289: You feel nothing unexpected.
+19314: If you think that'll help.
+19340: Digging would achieve nothing here.
+19407: You jump on the spot, fruitlessly.
+19440: You would achieve nothing by this.
+19469: There's nothing suitable to drink here.
+19502: But there's no water here to carry.
+19533: Oh, don't apologise.
+19555: Real adventurers do not use such language.
+19590: Quite.
+19601: Violence isn't the answer to this one.
+19634: There's not enough water to swim in.
+19665: There's nothing sensible to swing here.
+19729: You achieve nothing by this.
+19817: You wave, feeling foolish.
+19967: You are unable to.
+19986: Nothing obvious happens.
+20009: That would be less than courteous.
+20047: Is that the best you can think of?
+20076: That's not a direction.
+20099: Not that way you can't.
+20131: Keep your hands to yourself.
+20156: You achieve nothing by this.
+20190: Futile.
+20202: You lack the nerve when it comes to the crucial moment.
+20254: You talk to yourself a while.
+20281: This provokes no reaction.
+20309: There is no reply.
+20328: Nothing is on sale.
+20347: Your singing is abominable.
+20373: I don't think much is to be achieved by that.
+20410: Time passes.
+20425: You aren't feeling especially drowsy.
+42734: Fool.
+42742: Hands to yourself, buddy.
+42778: What was it like back then?
+42815: What are you, three months old?
+42844: It doesn't look hungry.
+42914: The world waits while you ruminate about your place within it.
+42967: I believe kitty needs a breath mint first.
+43003: Better not, he'd scratch your face off.
+43048: You scratch under his chin, as he strains against you.
+43087: You bend down to pet him, but he deftly evades your advances.
+43140: The cat grumbles a bit as you hoist him up.
+43176: Methinks there's more to this than that.
+43212: The cat hisses and begins to flip out, so you decide against it.
+43267: Words cannot describe the relief that the cat shows while being
+released.
+43527: The cat scratches at the door.
+43580: i.
+The cat lumbers into the room, then sighs heavily as he notices you.
+43636: The cat saunters up next to you, as if to say, "I'm here now.  Go away."
+43719: The cat makes his way down the stairway to the northeast.
+43779: The cat scrambles up the stairway to the southwest.
+43955: The cat looks around curiously, and sniffs the room for a bit before
+spotting the glorious lump of cow parts you have so generously left for him. 
+For a moment, you can see a glint of appreciation in his eyes as he devours the
+treat. Then you remember he's got a respiratory infection which makes his eyes
+perpetually runny.
+44207: The cat goes over to the empty bowl, looks over it mournfully, then
+turns and hisses at you.  What a lovely relationship.
+44331: It only works once, doofus.
+44361: A magic cheeseburger appears on it!
+44397: The cat food bowl sits in the corner, wielding a lump of cat "food"
+menacingly.
+44459: There is an empty cat food bowl on the floor in the corner. Bits of old,
+decaying, dried-up cat food speckle the rim.
+44608: Or something.
+44692: I'd leave the bowl there.
+44729: Give the cat some sense of stability in his life.
+44799: . system... "The cat food bowl is for cat food loading and unloading
+only."
+44871: You attempt to open the can telepathically from across the room, to no
+avail.
+44935: Your fingers pry at the lid, but it's most securely attached.
+44999: I believe there are tools specialized for this sort of thing.
+45057: You go get the glue and I'll just wait here.
+45108: You'd rather not have to clean that up.
+45144: Do you see a problem with this?
+45182: Probably not a good idea.
+45211: You deftly open the can with your trusty can opener, revealing some
+really frightening cat food.
+45289: It's bad enough to have to smell it, you don't want it on your fingers.
+45402: The cat food slowly slides out of the can and into the bowl, making
+quite the grotesque slurping sound all the way.
+45483: Amazingly, you managed to get all the food into the bowl the first time.
+45534: Put the what into the what, now?
+45571: It's too unwieldy to carry while open.
+45614: It's too hard to open while you're carrying it.
+45725: There's no room, what with all that...stuff in there.
+45906: There's just too much...STUFF.
+45940: Hmmm... [shuffle, clank, rip] ...
+46008: That's sure to be helpful, eh?
+46052: Your very favorite plastic flashlight!
+46099: You discovered you have way too much useless garbage.
+46183: Fool.
+46199: Your car keys dangle from the ignition.
+46270: You'll have to turn the car off.
+46318: The beam bursts forth from the flashlight, and momentarily grazes what
+appears to be some sort of light switch on the wall.
+46482: i'm guessing "on" and "off".
+46742: You brave your way down the steps, gripping the handrail tight.
+46869: You need to get out of here...fast.
+47081: You might want to close the door, first, lest you fall out.
+47146: You drive...
+47159: Driving there would have to be considered stupid beyond belief.
+47208: You put the pedal to the metal, and turn the steering wheel left and
+right, yet the car fails to move, since it's not currently running.
+47316: Hard to do that from the outside.
+47346: The engine lets forth a horrible scraping sound as you try to turn it on
+when it's already on.
+47417: Hotwiring just ain't your style.
+47551: Meowmeister doesn't like vehicles.
+47586: Who are you, Lou Ferigno?
+47618: You fire up its willing engine, responding with a roar.
+47670: The engine sputters a few times and falls silent.
+47730: By the way, your car was just stolen.  Probably shouldn't have left it
+running.
+47811: After spending several hours at your local watering hole, you come home
+refreshed and relaxed.  That is, until you notice that you left your front door
+open, and your cat has run away, and everything you own (which, admittedly, was
+not much, but it was all you had) has been stolen.
+
+After a few moments of
+fervent introspection, you go down to your local pawnshop, trade your car in
+for a gun, and blow your head off, right there in the store.
+
+The last sight
+you see, as your lifeblood spills over onto the pawn shop floor, is the
+pawnshop owner grabbing a mop.
+48224: As you head off into the distance, you see a large ball of fur in your
+rearview mirror running out of the parking lot, and trying to follow you.  Its
+progress is slowed, however, by a large van which is not able to stop in time,
+and does unpleasant things to the skeletal structure of whatever animal it
+was.
+
+That's when it dawns on you that you left your cat outside.
+
+Not able to
+live with the guilt of your cat's untimely demise, you jump out of your moving
+car into the middle of the road.
+
+The van doesn't stop in time for you either.
+48616: After swimming in the ocean for what seemed like an eternity, you come
+home, happy, renewed, and ready to face the world.  What you weren't quite
+ready to face was the sight of your cat lying dead in the kitchen, with his
+food bowl next to him, severely scratched and dented from his futile attempts
+to get nourishment from the plastic.  Starvation had finally taken its toll. 
+After realizing that you really did love that cat, and he was basically the
+only thing left in your life that you cared about, you head right back outside
+and throw yourself over the railing of the walkway, head-first into the
+pavement below.
+
+It gets messy from there.
+49068: You head off to the bowling alley for a few hours of relaxing pin abuse.
+ While you're bowling, a gorgeous blonde supermodel notices your superb form. 
+You get to talking, and it turns out that she just broke up with her
+international-airline-pilot boyfriend, and is looking for more of a regular
+type of guy, with a regular old apartment, and a regular old car.  And a cat. 
+She loves cats.
+
+You make plans to meet up later at a restaurant.  You begin
+your drive home, walking on air, and smiling wider than you've ever before had
+reason to.
+
+As your mind goes over every inch of this goddess you've just met,
+you go right through a red light.
+
+A car hits you dead-on from the driver's
+side, killing you instantly.
+
+But at least you died happy!
+49627: As we sew the tapestry of our lives, we work with only one thread at a
+time.  Some are bright, some dark, some with colors we can't quite
+describe.
+
+At the moment, you are working with one particularly dull, frayed
+thread, and one sorry excuse for a needle.  The events of the past year are
+immaterial right now.  All you know is that "home" is not what it used to mean,
+and this is not where you want to be.
+
+If you could just get away... even for
+an hour or two.
+52106: You can't see a damn thing.
+52280: Score:
+52288: Moves:
+52296: Time:
+52304: You can't go that way.
+52434: e09.  Its true symbolic magnificence is once again belied by its current
+squalid nature.  You wonder for a while how anyone could actually live in a
+place like this, until you remember that you pay the rent here.  The endless
+white of the undecorated walls is interrupted only by a hallway to the south,
+the kitchen to the east, and the front door to the north.
+52684: He appears to be quite hungry, and not at all pleased with you.
+52728: A large, selfish cat stares at you impatiently.
+52764: He no longer seems hungry, but you can still tell he hates your guts.
+52812: The door has seen better days, but it serves as an acceptable obstacle
+between your apartment and the rest of the universe.
+52896: The front door swings wide, clinging to squeaky hinges.
+52936: The front door is closed, displaying its chipped, off-white countenance
+with pride.
+52996: Looks pretty boring to me, eh?
+53020: Oooh, it's got a big magic cheeseburger on it.
+53208: The living room is painfully visible to the west.
+53272: What will they think of next?
+53296: New "18 Lives", for the schizophrenic cat.
+53336: It looks and smells a lot like cat food.
+53504: a passage to the north leads into what would be called a "living" room,
+if you had a life, and your walk-in closet is to the west.
+53672: Just lots of little odds and ends.
+53776: It will go unfulfilled, however, since all you have is old torn apparel
+not even worthy of being folded.
+54034: But then you remember to read the note from the author again.
+54076: As one might expect, it's furnished with an on/off switch.
+54120: It appears to be a standard light switch.
+54152: A light switch adorns the wall of the closet.
+54248: Gee, I wonder what it does.
+54436: Down a rather shaky flight of stairs to the northeast, the parking lot
+beckons, while the door back into the apartment <shudder> is south.
+54536: They're worn down, like the rest of this place.
+54966: The stairway leading up to the southwest seems to serve only as a
+conduit between your cages of anguish.
+55044: Your shiny blue car sits here idling, wasting valuable natural
+resources.
+55096: Your shiny blue car sits here silently.
+55222: What?
+55298: The note reads...
+
+Hi.  Welcome to my "game", which exists solely to
+help me learn the Inform language.  I apologize if you thought this was going
+to be a real game.
+

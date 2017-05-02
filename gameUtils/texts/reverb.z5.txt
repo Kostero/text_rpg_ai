@@ -1,0 +1,1263 @@
+16286: Nothing to do!
+16321: o. You have won
+16580: Please give one of the answers above.
+16611: It is now pitch dark in here!
+16638: I beg your pardon?
+16656: dxn[You can't "undo" what hasn't been done!]
+16698: ehn[Can't "undo" twice in succession. Sorry!]
+16770: Sorry, that can't be corrected.
+16799: Think nothing of it.
+16820: "Oops" can only correct a single word.
+16854: It is pitch dark, and you can't see a thing.
+16905: As good-looking as ever.
+16929: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+16992: You can hardly repeat that.
+17017: You can't begin with a comma.
+17045: You seem to want to talk to someone, but I can't see whom.
+17120: To talk to someone, try "someone, hello" or some such.
+17188: I didn't understand that sentence.
+17258: I didn't understand that number.
+17287: You can't see any such thing.
+17314: You seem to have said too little!
+17343: You aren't holding that!
+17367: You can't use multiple objects with that verb.
+17407: You can only use multiple objects once on a line.
+17447: I'm not sure what "
+17482: You excepted something not included anyway!
+17518: You can only do that to something animate.
+17553: That's not a verb I recognise.
+17583: That's not something you need to refer to in the course of this game.
+17637: You can't see "
+17680: I didn't understand the way that finished.
+17772: Nothing to do!
+17789: There are none at all available!
+17863: Sorry, you can only have one item here. Which exactly?
+18836: Please answer yes or no.
+18862: Are you sure you want to quit?
+18898: Are you sure you want to restart?
+18930: Failed.
+18950: Restore failed.
+18967: Ok.
+18985: Save failed.
+19000: Ok.
+19018: The game file has verified as intact.
+19050: The game file did not verify as intact, and may be corrupted (unless you
+are playing it with a very primitive interpreter which is unable properly to
+perform the test).
+19180: Transcripting is already on.
+19237: Transcripting is already off.
+19286: Score notification on.
+19307: Score notification off.
+19330: You have visited:
+19358: Objects you have handled:
+19383: None.
+19767: You are carrying nothing.
+19816: Taken.
+19827: You are always self-possessed.
+20209: You're carrying too many things already.
+20387: Dropped.
+20497: Removed.
+20586: You can't put something on top of itself.
+20663: You lack the dexterity.
+20744: Done.
+20943: You can't put something inside itself.
+21034: Done.
+21270: Wrahn seem interested.
+21489: You can only get into something freestanding.
+21726: But you aren't in anything at the moment.
+21840: You'll have to say which compass direction to go in.
+21942: You can't go that way.
+22128: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+22230: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+22318: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+22792: But it's dark.
+22809: You find nothing of interest.
+22845: But it's dark.
+22936: You find nothing of interest.
+24106: . Not bad.
+24124: That was a rhetorical question.
+24151: This dangerous act would achieve little.
+24185: Nothing practical results from your prayer.
+24221: The dreadful truth is, this is not a dream.
+24258: That seems unnecessary.
+24281: Keep your mind on the game.
+24306: What a good idea.
+24325: You smell nothing unexpected.
+24352: You hear nothing unexpected.
+24377: You taste nothing unexpected.
+24412: Keep your hands to yourself!
+24437: You feel nothing unexpected.
+24462: If you think that'll help.
+24488: Digging would achieve nothing here.
+24555: You jump on the spot, fruitlessly.
+24588: You would achieve nothing by this.
+24617: There's nothing suitable to drink here.
+24650: But there's no water here to carry.
+24681: Oh, don't apologise.
+24703: Real adventurers do not use such language.
+24738: Quite.
+24749: Violence isn't the answer to this one.
+24782: There's not enough water to swim in.
+24813: There's nothing sensible to swing here.
+24877: You achieve nothing by this.
+24965: You wave, feeling foolish.
+25115: You are unable to.
+25134: Nothing obvious happens.
+25157: That would be less than courteous.
+25195: Is that the best you can think of?
+25224: That's not a direction.
+25247: Not that way you can't.
+25279: Keep your hands to yourself.
+25304: You achieve nothing by this.
+25338: Futile.
+25350: You lack the nerve when it comes to the crucial moment.
+25402: You talk to yourself a while.
+25429: This provokes no reaction.
+25457: There is no reply.
+25476: Nothing is on sale.
+25495: Your singing is abominable.
+25521: I don't think much is to be achieved by that.
+25558: Time passes.
+25573: You aren't feeling especially drowsy.
+39396: You're a pancake!
+39547: Okay, let's recap the story so far. Your afternoon got off to an
+interesting start when you foiled an escape attempt by Guido "The Armadillo"
+Calzone. This heroic-but-not-terribly-bright action brought down the wrath of
+the local mafia down on you, who tried to assassinate you inside a department
+store. They also left a "special delivery" for you which started an earthquake.
+You were also responsible for uncovering the illicit activities of the corrupt
+mayor, who then sent every cop and trooper in the area to take care of you. So,
+you're hounded by the police, wanted dead by the mob, and trying to cope with a
+massive earthquake.
+
+As you step outside, you can see that the people of the
+town have succumbed to the general chaos of the environment, and now the town
+of San Doppleton is marred by heavy rioting.
+40129: A security guard steps out of the building after you. He stations
+himself in front of the office building, arms folded.
+40257: Things aren't that bad. Yet.
+40286: You're a lover, not a fighter. Then again, you're not much of a lover
+either.
+40352: Got to learn to curb those violent tendencies.
+40391: What did that ever do to you?
+40544: Oh, help, police, somebody stop him.
+40582: You're not holding that.
+40611: You swing for a while. Guess that makes you a real hep cat.
+40654: You can't swing on that.
+40683: Taken.
+
+You are now holding yourself. In the self you see yourself,
+which contains yourself. Yourself contains...
+
+On second thought, let's NOT do
+that.
+40806: Not in this game, bro. You must be looking for the sequel,
+"Reverberating Goddesses of Phobos".
+40883: Same to you, dude, and so's your mom.
+40924: I thought you'd like it.
+40960: Good memory.
+40976: Well, hurry up and get your act together. This is no time to screw
+around.
+41036: Forget it. You may be a dork, but at least you're a chivalrous dork.
+41092: Well, I've got news for you, Donatello. The sewer vent it just too small
+for you to fit inside.
+41168: Well then, you'd better wait for the author to finish writing "Wronger
+of Rights."
+41229: Nobody asked you anything, doofus.
+41270: Robert "Tasty" Tasker would kill you if heard you insulting his
+stationery.
+41329: Smart boy.
+41342: Well, now I'm reminding you.
+41370: Okay, if it makes you feel better to think so.
+41409: I sure hope not!
+41427: That's right, you're not. Now focus on the job at hand... it's pizza
+time, dude!
+41494: Your mommy would be so proud.
+41517: Nobody asked you anything, doofus.
+50310: You jump off the floor. The Russian judge almost gives you a 9.0, but
+you screw up on the landing and collapse in a heap.
+50470: You're not holding onto anything important anyway.
+50583: That doesn't seem to have a nozzle.
+50643: a good lob and it lands on the ground a couple of feet away. It's a good
+thing you're so good at surfing, because you'll never be a football star.
+50761: What are you talking about?
+50786: Excuse me for not paying attention... I must have missed the part when
+you tied it to something.
+50858: You remember hearing that word from some little grom on the beach last
+year. You have no idea what it means, but it sounds way cool.
+50954: Yah, same to you. Whaddup?
+50978: I agree, this sucks.
+51018: A hollow voice in your head says "Penis", a little bit louder than you
+did.
+51074: This really isn't that kind of game.
+51102: Shake, rattle, and roll!
+51176: I can't believe you don't know what THAT means.
+51233: axm
+
+Life sucks. Today has been just another crummy day in another
+dismal spring which you've spent delivering pizzas. This afternoon has totally
+been dragging, except for that bit of excitement an hour ago when you broke the
+soda machine. You thought your boss was going to rip you a new
+orifice.
+
+Anyway, you've just finished mopping up behind the counter. There's
+only one more hour left on your shift and you're anxious to get out of here. Go
+home, watch the tube, blast some tunes, maybe scan the new "Surfers Monthly"
+magazine... gonna be a nice relaxing evening.
+
+Shyeah, right. That's what YOU
+think.
+51734: You see a woman hail a taxi and drive off.
+51772: Two men bump into each other. They murmur apologies and go their
+separate ways.
+51836: A man and a woman walk by holding hands. They make a cute couple.
+51890: Two teenaged girls go by carrying shopping bags.
+51932: A guy in a business suit walks past you.
+51968: A big ugly low rider cruises by, blaring rap music loud enough to make
+the sidewalk shake.
+52058: Some guy in a dark suit with a very obvious bulge in the pocket walks
+by. You turn your face, trying not to be recognized.
+52169: A police car drives by. You press yourself against a wall until it goes
+by.
+52239: You hear somebody yell "Hold it right there!!!"  Seeing a uniformed
+police officer, you panic for a moment... then breathe a sigh of relief as he
+rushes past you and arrests a rioter.
+52398: Yelling wildly, several rioters rush out of Mr. Tasty's Pizza Parlor
+carrying a big pepperoni. You think about stopping them, but then decide you
+value your life more than this job.
+52541: A rioter throws a rock at the mayor's window. The rock bounces to the
+ground, barely missing you. Those windows are pretty durable.
+52708: The building you are in shakes ominously under the force of the
+earthquake. You lean up against a wall until it subsides.
+52801: The fronds wave at you in unison.
+52843: The ground trembles under your feet. It feels like an earthquake might
+be in progress.
+52916: You lurch for a moment as the ground makes loud rumbling noises. Sounds
+like an earthquake is about to hit. A bad one.
+53056: Mr. Tasty's Pizza Parlor", where you are currently working. Not much of
+a job, but it keeps you from going broke during the nine months of the year
+when you can't pull down the bucks as surfing instructor. The rest of the
+parlor is southwest.
+
+There is something pressing that you think you have to
+do, but you can't think what it might be.
+53325: Mr. Tasty's Pizza Parlor". To the southwest is the rest of the
+restaurant.
+53396: You walk around to the front of the pizza parlor.
+53466: Tasty's Pizza Parlor". The counter separating you from the back of the
+parlor stretches in front of you on the northeast corner of the room. To the
+south is an exit to the street.
+53603: yhn
+
+Annoyingly, you can't shake this feeling that you're forgetting to
+do something important. Your glance strays idly towards the counter in the
+middle of the room...
+53746: You walk behind the counter.
+53817: As you step towards the door, there is a massive explosion. It seems to
+have come from
+53950: lxmthe bomb which you so carelessly left behind. I guess there's a
+proximity trigger on that thing.
+54021: Too bad. It looks like exposing crime doesn't pay.
+54066: It's a majorly boring counter which you're unfortunately very familiar
+with.
+54469: Mr. Tasty's" stationery with the name Bob "Tasty" Tasker and lots of
+balloons and smiley faces all over the border. Isn't that cute?
+54658: It's already open!
+54736: They don't get more closed than this.
+54768: You close the pizza box.
+54808: The grease on the box is tempting, but experience shows that cardboard
+is indigestible.
+54895: You'd be out of a job in no time for eating a customer's pizza. In the
+interest of letting you scrape out a living, I'll assume that you changed your
+mind before it was too late.
+55063: My, aren't you persistent. You don't REALLY want to jeopardize your
+career (lame and pathetic though it is) just to satisfy some momentary hunger
+pangs, do you?
+55182: Your startling discovery has driven all thoughts of food right out of
+your mind.
+55263: Digging through layers of cheese, you discover and confiscate a metal
+file.
+55316: You don't find anything new.
+55344: Yeah, good idea. Why don't you just take the whole pizza out of the box
+and carry it around in your hands and see how big a mess you can make. NOT.
+55466: It's a long, hard metal file, the kind that you see in prison escape
+movies all the time.
+55711: How cheesy can you get?"
+55752: Okay, fine. You grab a slice of pizza and take a big bite out of
+it.
+
+OUCH!  Your teeth clamp down on something hard and metallic. You drop the
+slice and look under a layer of cheese. Inside you discover a metal file, which
+you take.
+55934: San Doppleton is where you live, work and play -- at least until summer.
+It has the typical California culture; which is to say, none. But at least it's
+just forty minutes' drive from Santa Barbara and the beach, so you can't
+complain much.
+56113: You stand in the heart of San Doppleton's main drag, the business
+district. The street goes east and west. The sidewalk runs by a pizza parlor,
+with a sewer vent nearby.
+56259: As you start to walk away, the bomb explodes!
+56342: What do you think you are, a Ninja Turtle?
+56430: containing the bomb into the sewer duct. Moments later, you breathe a
+sigh of relief as you hear a quiet splash. No doubt you've saved yourself and
+the city from certain destruction.
+
+An absolutely massive explosion rocks the
+ground beneath your feet. Buildings tremble all around you and the pavement
+lurches sickeningly. After a moment the shockwaves die down, but you still feel
+an occasional tremor. Seems like you might have triggered some sort of
+geological disaster.
+56775: into the sewer duct, where it is washed away and lost forever. Bet you
+feel pretty stupid now.
+56858: They're the people that you meet, when you're walking down the street,
+each day. They're completely uninteresting.
+56946: They're just those normal, nameless dudes and chicks that you meet every
+day, here in the city. Nothing noteworthy.
+57034: Normal passersby, the kind you see all the time and usually ignore. You
+can't think of any reason to change that habit now.
+57131: You see a cop standing there and decide not to risk it.
+57183: Approaching the edge of town, you suddenly shy away. You're SURE there
+was something you were supposed to do before going home today. What was it
+again?...
+57298: You shouldn't leaving town until you deliver that pizza. It would cost
+you your job, and we all know how important THAT is to you.
+57617: an excellent psychological reason why your character may not go in that
+direction. Well, technically you are on a mission from the District Attorney.
+But that doesn't seem to be a good enough reason, since you're a paranoid
+little guy and you'd rather go home anyway. Besides, this is a very short game
+by design and I JUST DON'T HAVE THE TIME to make up sensible rationales for
+you, other than that there's no game that way and if you left then I'd have to
+give you a "game over" message, which is clearly impolite.
+
+So here's your
+reason. Gigantic, rabid gerbils are blocking your way out of town. And you
+can't go that way.
+58079: Why don't you just go inside instead of fooling around with it?
+58175: You didn't buy the hairspray!
+58212: If you leave the store with the hairspray, that would be shoplifting.
+You don't want to start a life of crime, do you?
+58309: The clerk seems to have been knocked out and dragged somewhere by the
+thug on his entrance. You brazenly walk out with your shoplifted item.
+58441: The clerk seems to have run away in the confusion of the riots. You
+brazenly walk out with your shoplifted stuff.
+58530: The clerk doesn't want anything to do with you unless you are buying
+something.
+58590: Racks of clothing line the walls.
+58623: You compare the blouses and tights for a while, satisfying your secret
+desire to cross dress. But the prices make you gag.
+58719: This ain't Home Improvement. Besides, you're broke.
+58762: The shelves are lined with bottles of perfume, cologne, hairspray, and
+other cosmetic paraphernalia.
+58916: You can go northwest to the clothing department, or west to the hardware
+department.
+59013: As you start to steps away the thug, not entirely incapacitated, trips
+you up.
+59084: Doubled over in pain, the thug is powerless to stop your retreat.
+59136: The thug stops you!
+59170: gotexm
+As you enter the cosmetics department, a big thug steps out of
+the shadows. Making a mocking bow in your direction, the thug says: "Greetings.
+I am Sammy 'The Inhospitable' Toriglioni, and I will be joining you for your
+dying pleasure this afternoon."  He pulls a gun out of his suit coat and
+bounces it lightly in one hand.
+59499: Don't bother.
+59522: It's plastic, it's purple, it's cylindrical, and you can use it to spray
+things. Like hair, for example. That's where the name comes from.
+59651: It has kind of a rancid fruity smell. What were you expecting?
+59709: You wave the hairspray around at random. The air now has kind of a
+rancid fruity odor, which clears away after a few seconds.
+59816: You do not blind him further, since his eyes are already squinched shut
+in pain.
+59892: You spritz the thug right in the face. He is so totally surprised to
+have you actually fight back that he takes the shot right in the eyes and
+winces, momentarily unabled to fight back. He's not down yet, but this might be
+a good time to finish him off.
+60076: That worked on ONE guy at point blank range. It's not going to work on
+all these guys. Even if you managed to spray one of them, the rest would
+destroy you before you had a chance to move.
+60235: You've got a lot of things to worry about today that are worse than your
+hair problems.
+60378: You apply a little hairspray. You're sure
+60456: You don't have any money, dude. This has something to do with your lame
+job.
+60534: He's big and mean. At the moment he's rubbing his eyes and bellowing
+angrily.
+60596: He's big, mean, and lying on the floor gasping for breath.
+60639: He's big and mean. He prevents you from exiting.
+60700: You give him a kick to the stomach, and a passable imitation of a karate
+chop on the back. Normally this wouldn't have worked, but since he was
+temporarily blinded, he never saw you coming. He collapses on the floor,
+momentarily winded. This would be a great time for you to get out.
+60903: You move in for another attack.
+60933: You make a fist and lunge at the thug. He sees you coming from a mile
+away. Though clearly astonished that you have chosen to interrupt the
+obligatory bad guy soliloquy, he doesn't mind stopping long enough to shoot
+you.
+61104: "We're going to get you now. You'll be sorry you ever tried to cross
+us."
+61169: "He's da boss."
+61200: "What a bitch."
+61225: "I'm gonna kick your ass."
+61265: "I'm the guy that was sent ta kill ya."
+61296: The thug ignores you and continues his ranting.
+61336: He really doesn't care.
+61383: "SO, ya wanted to be a hero, kid?  I'd say your future as the Lone
+Ranger isn't looking too promising."
+61472: The thug says, "Don't get me wrong. We were greatly impressed with your
+style in totally screwing up all our plans for Guido's escape and the biggest
+crime wave this city has ever seen. It's just that we really couldn't respect
+ourselves if we let you live."
+61666: The thug tosses his gun from hand to hand. He has an easy, casual air
+about him, knowing that you're trapped and savoring the suspense.
+61775: The thug postures and generally acts menacing. He's obviously
+overconfident and just dragging out the moment of execution.
+61875: The thug is tired of talking.  The newspaper will report the next day
+that you accidentally shot yourself five times in the head and seven times in
+the chest.
+61999: Not to be stopped by a little thing like hairspray, the thug straightens
+and blasts you in both kneecaps.
+62080: The thug gets up and kicks your ass.
+62188: SOMETHING, QUICK!!!!!
+62217: The pizza box seems to be ticking. Hmm, interesting. You didn't know
+these things had any mechanical parts.
+62296: Now that the bomb is gone, the pizza box can be used once again to
+actually hold pizzas.
+62371: It's already open!
+62421: ihn... AND THERE'S A BOMB INSIDE!!!!!
+62478: They don't get more closed than this.
+62517: You close the box. You hope maybe if you can't see the bomb, it won't
+hurt you.
+62576: You close the pizza box.
+62615: The box flops around crazily and the bomb falls out right next to you.
+Maybe this is a good time to contemplate how aerodynamic a big flat hunk of
+cardboard can be. Then again, maybe there isn't much time to contemplate
+anyth
+
+KABOOM!!!!!
+62788: Without even looking in the box, you fling it as hard as you can. It
+flies open and a bomb falls out, exploding on impact with the ground.
+62947: You'd have to wrestle it away from its owner first... and trust me,
+you'd lose.
+63010: A security guard stands in front of the entrance to the government
+building, looking bored.
+63093: The guard steps aside and lets you pass.
+63127: The security guard stands in your way. "Sorry," he says. "I can't let
+anybody in without a badge, unless they're on official business."
+63242: "Yeah, yeah, official business, pizza delivery to Jill Thompson, I know.
+So go on up there already."
+63326: The guard looks suspicious as you explain that you have a pizza delivery
+for Jill Thompson, the District Attorney. Pulling a cellular phone off of his
+uniform, he dials a number that you presume is for Jill's office. After a few
+moments, he hangs up and grudgingly steps aside for you.
+63561: "We've had to step up security around here. Apparently some punk broke
+into the mayor's office earlier today, and with the riots going on, the mayor
+needs to be as closely guarded as possible."
+63715: "I can't let you in unless you can convince me that you've got some kind
+of official business up there."
+63801: "Looks like a pizza box. What about it?"
+63834: "I can't tell you anything about that."
+63892: Um, okay. That's an interesting idea, but if you lose your pizza now
+then you won't be able to make your delivery and you'll get in all kinds of
+trouble. Better not.
+64029: You'd never fool the guard into thinking that you were making a pizza
+delivery with an empty box. At least not while it's OPEN!
+64142: You are in a crowded courthouse.
+64170: You are in a deserted courthouse.
+64561: "Miss Thompson," says the judge, "I've had about enough of you wasting
+this court's time. Unless you can demonstrate a clear threat to public safety,
+I'm going to recommend that Mr. Calzone be transported to a minimum security
+prison pending further review. His trial is to be held next week."
+64820: "Your honor, I wish you would reconsider," says
+64863: ipn. "The defendant has a long history of disappearances, and it is
+counsel's opinion that he will not be around in a week to stand trial. I
+recommend transporting him to a more secure prison."
+65005: "Your opinion is duly noted, Miss Thompson," says the judge
+sarcastically. "But the fact is, the 'long history' you refer to is based on
+hearsay. Now, I recommend you gather some solid evidence when you prepare for
+the trial, because the minimal research you've obviously done won't be enough
+to convict the defendant."
+65248: ipn tries desperately to convince the judge that Guido "The Armadillo"
+Calzone plans to escape, but it's obvious she won't get anywhere without more
+evidence.
+65508: ipm approaches and shakes your hand warmly. "That was a brilliant work
+in there, kid. If it hadn't been for you, Guido might have escaped from jail." 
+Seeing your blank look, she says, "My name Jill Thompson. I'm San Doppleton's
+District Attorney. For the past four years, I've been pursuing this local mafia
+branch, trying to bring some serious legal action down on them. These guys seem
+to own everything in town, and they already know me by sight. So I can't find
+any more clues before the trial but you can. Please try dig up whatever
+information you can, I'll be up in my office if you need me. I work at Gunther
+& Associates. It's on the third floor of that tall building over there, you
+can't miss it."
+
+Jill walks away to the west.
+66061: The bomb explodes!
+66118: Thinking fast, you deposit the bomb in the sewer duct. Moments later,
+you breathe a sigh of relief as you hear a quiet splash. No doubt you've saved
+yourself and the city from certain destruction.
+
+An absolutely massive
+explosion rocks the ground beneath your feet. Buildings tremble all around you
+and the pavement lurches sickeningly. After a moment the shockwaves die down,
+but you still feel an occasional tremor. Seems like you might have triggered
+some sort of geological disaster.
+66495: For a lawyer, Jill strikes you as being a serious babe. She's in her
+mid-thirties, dressed in a power outfit and sporting a serious no-nonsense look
+that tells you she's going to go places in her career.
+66643: You've never been up to date on local politics, but you can see that the
+DA is an attractive brunette in her mid-thirties. Why, that would make her
+only, uh... ten years old than you!
+
+The more you look at her, the more you
+think she's a total babe! You bet she could totally go for a guy like you! 
+After all, she's a brilliant, successful career-oriented woman with a promising
+future ahead of her, and you're... you're a college dropout pizza delivery
+boy.
+
+Never mind.
+67005: The district attorney stands in the middle of the courtroom, looking
+flustered.
+67071: "I'm happy right where I am. Unless you got something important to tell
+me, I advise you to stop wasting my time."
+67171: "I don't see that here."
+67192: "I don't want it, thanks."
+67225: "I don't have it!"
+67246: "But I need it!"
+67264: Jill hands it over.
+67279: Jill doesn't want to.
+67302: Jill didn't ask you anything.
+67335: "Please don't interrupt, I'm giving testimony."
+67394: I've been the DA for two years."
+67432: "I suspect that something very serious is going down involving the local
+mafia branch. It's up to you to investigate."
+67532: You'll have to specify whether you mean the metal file that Guido
+planned to escape with, or the secret file you uncovered in the mayor's office.
+67653: "Thanks for preventing Guido's escape."
+67700: "That secret file you dug up has sure been helpful."
+67739: "It would be nice if we could dig up some incriminating information
+about the mayor."
+67820: "I really appreciate all your help."
+67856: "They're the citizens of San Doppleton. You don't get out much, do you?"
+67925: "I didn't order it. Maybe the defendant did.
+67989: "Good work getting past that guard, Stan. That was very creative."
+68040: "I can't get past him. I hope you can."
+68085: "Sounds like somebody's out to get you. What I don't understand is, who
+could have planted that bomb in the pizza box?"
+68192: "You know your boss better than I do."
+68288: Thanks to you, now I can finally prove it!"
+68321: I only wish I could find a way to prove it..."
+68358: "Sorry, I can't tell you anything about that."
+68399: Like Jill would care.
+68421: She dodges. Apparently Jill doesn't find you as cute as you find
+yourself.
+68507: dhgipn opens her briefcase, pulls out a can of mace, blasts you with it,
+and puts it away. After a moment, the pain subsides.
+68662: dhpipm looks astonished when you tell her where you found the file. She
+marches smartly up to the stand and shows this new evidence to the judge, who
+can't argue with her logic. He orders Guido into a maximum security prison
+pending further review.
+
+As the courtroom clears out, the bailiff drags Guido
+past you. With intense calm, Guido looks you right in the eye and says, "That
+was a mistake, my friend. It don't pay to mess with The Family.
+68982: "I believe THIS belongs to me," he adds, ungraciously snatching the
+pizza box from your hands on the way out.
+69071: 8 opm
+
+"I believe THIS belongs to me," he adds, collecting the pizza box
+from the floor on the way out.
+69169: dhpipn looks annoyed. She says "I didn't order that!"
+69210: "Please don't just hand me every object you find lying around. This
+isn't a Sierra game, you know."
+69295: Your effort to sweep Jill off her feet fails pathetically.
+69342: Guido "The Armadillo" Calzone sits here, smirking.
+69404: Guido grins broadly. "Yes, I ordered a pizza!"
+69448: Guido's glances around shiftily for a moment, then scowls. "I don't know
+anything about that," he says pointedly.
+69531: Guido looks away and smirks. Looks like he doesn't care what you have to
+say.
+69593: He punches you back.
+69612: _fddXnGuido snaps his fingers and several very large thugs appear out of
+nowhere to make short work of you.
+
+Since he did this in full view of the
+judge, he of course gets sentenced to life plus 25 and never escapes. Not that
+that's any consolation to you.
+69835: Guido grins shiftily and takes the pizza from you. He hands it to his
+lawyer so he can eat it later. You walk away, congratulating yourself on a job
+well done.
+
+Several days later, a crime wave hits the city, more enormous and
+devastating than any you've ever seen. You never figure it out for sure, but
+you always suspect that it was all your fault.
+70085: Guido grins shiftily and takes the pizza from you. He hands it to his
+lawyer so he can eat it later. He undoubtedly thinks he's going to use that
+file to escape. But you'll have the last laugh, since you so cleverly took out
+the file first.
+70264: After cleverly taking the file out of the pizza so that Guido would not
+be able to escape, you now decide it would be an EVEN BETTER idea to give it to
+him. Maybe you were hoping that he'd make a mistake in front of the court.
+Nope. Experienced professional that he is, Guido pockets the file in one smooth
+motion and no one notices a thing.
+
+Several days later, Guido's escape is front
+page news, but most of the newspapers get stolen in the ensuing crime wave
+anyway.
+70599: He doesn't want it.
+70643: Forget it. You'll have to wait until a little later in the game.
+70722: The defense attorney low-fives Guido under the table, muttering, "Looks
+like your contact came through." You don't understand, but you decide to just
+walk away, congratulating yourself on a job well done.
+
+Several days later, a
+crime wave hits the city, more enormous and devastating than any you've ever
+seen. You never figure it out for sure, but you always suspect that it was all
+your fault.
+71003: The defense attorney low-fives Guido under the table, muttering, "Looks
+like your contact came through." You smile privately to yourself. You'll have
+the last laugh, since you so cleverly took out the file first.
+71156: "Don't bother me, I'm busy getting rich by defending big mafia dons."
+71210: He just doesn't want to be bothered.
+71243: It's better if you leave him alone. He's busy, and you don't want to be
+slapped with contempt of court.
+71336: The stairs angle up and back, and you emerge south.
+71419: Let's keep it that way.
+71478: The stairs angle up and back, and you emerge north.
+71588: Jill runs out of her office. "Stan!  Thank goodness you made it!  The
+mafia has just regrouped in the mayor's office to discuss their final plans for
+total citywide domination! Reinforcements from the state are on their way, but
+they're going to need some kind of diversion to get into the building without
+being caught by the mayor's troops!  Can you do that for us?"
+
+Of course you
+can; you're the hero. (A paper-thin excuse if you ever heard one, but you don't
+seem to have enough excitement in your life anyway.)
+
+Jill runs back into her
+office.
+71991: The doors on this floor are all locked, and trust me, they're going to
+stay that way.
+72052: You have no business in any of these offices.
+72100: The stairs angle up and back, and you emerge south.
+72204: Jill stops you. "Sorry," she says, "but it gets kind of drafty up here
+in the afternoons."
+72273: A lawyer stops you. "Sorry," he says, "but it gets kind of drafty up
+here in the afternoons.
+72360: The stairs angle up and back and you emerge south.
+72464: The stairs angle up and back and you emerge west.
+72514: This door leads to the mayor's office. It is
+72642: Two big, mean guys are blocking the door.
+72680: There's about a bazillion mafia guys and they're all blocking your exit.
+72751: It's just a solid oak floor. Nothing special.
+72786: It's an oak floor with a great big gash in it.
+72831: You beat on the floor with your fists. It doesn't help.
+72885: Swinging the axe high above your head, you pause for just a minute and
+look Mr. Tasker in the eye. "I'll see you all in hell," you comment
+lightly.
+
+You bring the axe down with a mighty chop, smack in the middle of the
+crack in the floor. A gigantic rift opens in the floor. The mafia guys topple
+and fall right down into the office below. Having seen it coming, you manage to
+leap onto the window sill, out of harm's way.
+
+At the same moment, the door
+opens with a loud crash. Seven heavily armed police officers barge in, aiming
+their weapons at you. "You're under arrest..." they begin to say.
+
+"No, YOU'RE
+under arrest," says a voice behind them. You grin broadly as you see Jill
+leaning on the door frame. Backing her up is a great big SWAT team. Using the
+evidence that you collected for her, Jill was able to get support from the
+state's higher court and expose the corrupt local government.
+
+"How convenient
+that your mafia friends just happened to land right in my office," says Jill.
+Looking past her, you see all the dark suited guys being handcuffed and booked
+by the SWAT team. The team leader adds, "You're all under arrest for bribery,
+corruption, public endangerment, impersonating police officers... and, um,
+extreme stupidity."
+
+"Take 'em away, boys," says Jill.
+
+As the police drag Mr.
+Tasker past you, he says to you, "I hope you realize... YOU'RE FIRED!"  "Fine!"
+you reply. "You can take this job and shove it anyway."  Jill chimes in,
+"Especially since you have a brilliant career as a hired investigator ahead of
+you!"
+
+You look at Jill as the dust begins to settle. "Really?" you ask. "How
+about a future on date with you?" She smiles and gives you a big kiss. The
+earth moves for you. Or maybe it's just the quake.
+74191: Oh my. You seem to have crashed (pardon the pun) a private party of some
+sort. There are a couple of dozen guys wearing suits and dark glasses. And
+sitting imperiously at the mayor's desk, glaring at you behind a bevy of
+bodyguards, is... <gasp> your boss, Mr. Tasker!!!
+74402: Robert "Tasty" Tasker speaks. "Stan, you idiot, can't you get ANYTHING
+right?  I ask you to make one simple delivery in the afternoon and you have to
+go and ruin all my plans."
+74547: Robert "Tasty" Tasker continues his rant. "By now, I'm sure even YOU
+have figured out that Guido was just a fall-guy, a figurehead. His escape from
+jail would have been a purely symbolic event. I'm the real leader of the mafia
+around here. A pity that information won't do you any good since you'll be
+dead."
+
+Your eyes are drawn to a movement on the street below. Looking through
+the broken glass, you see a huge squad of police cars. You breathe a sigh of
+relief... maybe they're here to save you!
+
+A huge tremor shakes the office
+building.
+74950: Outside the window, a cop steps out in front of the cars, holding a
+bullhorn. "STANLEY, THIS IS THE SAN DOPPLETON POLICE. YOU ARE UNDER ARREST FOR
+ILLEGAL BREAKING AND ENTERING, ASSAULT ON A STATE OFFICIAL, AND ESPIONAGE. COME
+OUT WITH YOUR HANDS UP."  Your sigh of relief dies.
+
+"With the mayor receiving
+kickbacks from us, you didn't *really* think the police would be on your side,
+did you Stan?" says Mr. Tasker wryly. "Looks like you're all finished, kid."
+75387: Robert "Tasty" Tasker, overbearing pizza guy and mafia don
+extraordinaire, keeps talking. "After you fouled up the escape of our front
+man, I figured that bomb would have done you in. But it looks like I'm going to
+have to finish you myself, since I just can't rely on incompetent employees
+anymore." 
+
+Another tremor shakes the building. You notice a hairline crack
+opening up in the floor.
+75678: "Think of this as a favor, Stan," says Mr. Tasty as he reaches into his
+coat pocket. "You're a terminal loser. If I didn't conclude your pitiful little
+life this way, you'd never have amounted to anything anyway. Maybe you'll get
+your name in the papers now."
+
+Outside, you hear the police shouting on the
+bullhorn. "WE HAVE GIVEN YOU FAIR WARNING. WE ARE NOW COMING UP TO GET YOU."
+75999: Robert "Tasty" Tasker draws his hand out of his pocket, and he is
+pointing a gun at you.
+
+The building rumbles violently. The floor is definitely
+cracked. It looks like this structure won't last much longer. 
+
+Outside, you
+see the police filing into the building.
+76200: Following the boss's lead, all the other guys in suits reach into THEIR
+coats and pull out guns. This is definitely not a comfortable situation.
+76315: The room reverberates with a loud wave of clicking as the mafia guys all
+cock the hammers on their guns. "I wish I could say it's been nice knowing you,
+Stan... but it really hasn't," says Mr. Tasker.
+
+You hear the heavy tread of
+booted footsteps on the stairs, coming up beneath you.
+
+The ground trembles and
+shakes crazily under your feet. The crack in the floor is slowly widening. You
+have a feeling your time left on this earth is very, very short.
+76653: All hell breaks loose as the door splinters and smashes open and the
+mayor's police force barges in. Gunfire, screaming, the ground giving way
+beneath your feet, and every other kind of pandemonium you can possibly
+imagine. It seems kind of like overkill to tell you that you're dead at the end
+of it.
+76876: You'd have to fight your way past all those mafia guys first. Frankly,
+I'd give you better odds to win the California state lottery three times in a
+row.
+76992: "Shut up, Stan. When I want your opinion, I'll give it to you."
+77043: Mr. Tasker will not be swayed from his plan, and you can't get at him
+behind all the rows of bodyguards.
+77332: You raise the axe high above your head and give a loud barbarian yell.
+As you rush toward the horde of mafia guys, one of them pulls out his gun and
+shoots you. Contrary to conventional wisdom, they don't always miss.
+77508: You open the mayor's file cabinet. A massive quantity of paperwork is in
+there.
+77572: Amongst the paper you see a particular file which looks suspicious.
+77697: As you walk into the office, Jill spots you. "Hi!" she says. "Listen,
+Stan. I have reason to believe that the Mayor is tangled up in the mafia. I
+managed to use some connections to get this key. It unlocks the mayor's
+cabinet."  She hands you a key. "I'd use it myself, but I already have several
+eyes on me at all times. They know me."
+77986: You smugly retrieve the file.
+
+Just are you're starting to feel
+disappointed about how easy it was to search around in the mayor's secret
+files, you hear a commotion out in the hall. Suddenly, you find yourself
+staring into the shifty face of Mayor Winnick himself. He quickly assesses the
+situation and makes a curt gesture. In walks a very large, very ugly lackey,
+who begins to approach with a nasty look in his eye.
+78303: A broken glass box.
+78318: "In case of emergency, break glass."
+78367: It's already broken.
+78388: It's too strong to break with your bare hands.
+78430: Oh sure, like THAT'S going to work.
+78468: You smash the glass.
+78508: Kind of grasping at straws now, aren't you?
+78613: Since the box is secured to the wall, it doesn't go anywhere. You bang
+yourself up pretty well, though.
+78705: You can't do anything with it while it's behind the glass.
+78759: The mayor is guarded by his lackey.
+78786: Rather than concentrating on the mayor himself, maybe you should channel
+your efforts into getting the heck out of here.
+78875: Full marks for effort, zero for creativity. He's bigger, stronger, and
+better armed than you.
+78974: The henchman approaches with a mean gleam in his eye. It is highly
+recommended that you find an escape route.
+79061: The henchman is almost upon you.
+79099: The henchman riddles you with bullets.
+79139: You smashed it up pretty good. Now it's just a bunch of shards of glass
+lying on the ground.
+79264: It doesn't or close anymore. It's just a big mess of broken glass.
+79316: You open up the window.
+79345: It doesn't or close anymore. It's just a big mess of broken glass.
+79397: You close the window.
+79427: You excuse yourself for your rude entrance and leap back out the way you
+came. Finding yourself hanging from the windowsill once again, you take your
+chances and jump. Too bad Jill wasn't around to catch you this time.
+79590: You have no reason to do such an obviously suicidal thing.
+79656: Desperately looking for a way out, you climb out the open window. You
+find yourself dangling from the window sill over a three-story drop.
+79767: The window is closed.
+79794: It's already broken.
+79819: The mayor stares at you, astounded that you would add insult to injury
+by vandalizing his office after robbing him. He shoves his henchman aside and
+strangles you with his bare hands.
+79946: You smash the window up real good. Alerted by your violent assault on
+his office, the Mayor himself bursts into the room together with a guard. To
+your surprise, instead of arresting you, the guard pushes you through the
+window.
+80195: If you let go of that window sill, that could be arranged.
+80243: The mayor and his favorite thug are in there. Let's not push our luck,
+okay?
+80305: Unless you're Spiderman, that's not very likely.
+80363: Unless you can fly, that's not very likely.
+80396: Unless you can walk through walls, that's not very likely.
+80507: Inside the window, you hear the mayor and the lackey congratulating each
+other on getting rid of you.
+80591: Inside the window, you hear the mayor and the lackey engaged in low
+conversation, too quiet for you to hear.
+80678: You hear the mayor inside, advising that they check to make sure you're
+really gone.
+80759: The mayor and the lackey look out the window. They are surprised to see
+you.
+80824: You're in trouble now. The lackey is drawing his gun.
+80878: Being perverse, the lackey shoots your hand. You release your grip and
+fall.
+80962: You release your grip on the window and you're falling, falling...
+
+In
+the interest of good taste, we'll spare you the details of what happens at the
+bottom.
+81087: Timing, Stan. Timing is everything.
+81144: You release your grip on the window and you're falling,
+falling...
+
+"GOTCHA!"  You find yourself in the remarkably strong arms of Jill,
+who hauls you into her window and onto solid ground. You've never been so happy
+to see anyone in your life.
+81326: etvkxm
+You briefly relate to Jill what's just been happening to you.
+Jill looks thoughtful as she takes the file from you. "So you uncovered
+evidence that the mayor is connected to the mob?  And he knows that you found
+out. This sounds serious. If I'm not mistaken, every cop in the district is
+going to be after your head pretty soon.
+
+"Good work, though, Stan. Don't stop
+now. I'm going to phone the state police and see if I can get outside help on
+this case."
+81666: You're already holding onto it.
+81704: Just let go of the window sill so you can free your hands first...
+81774: Don't mess with it. If you release your grip on the ledge, you'll fall.
+81856: You frantically kick on the window below you, hoping that somebody will
+hear.
+81918: You kick on the window again. Something's definitely happening down
+there.
+81986: It's closed.
+82044: There seems to be some activity in the room on the second story.
+82101: The window down below is opening.
+82141: Somebody sticks their head out of the second story window... by god,
+it's Jill!
+82238: Jill looks up at you anxiously.
+82274: Jill didn't ask you anything.
+82302: The idea here is to DO something. You're not going just hang here and
+ask her stupid questions.
+82376: Jill's a little to startled by your predicament to react to what you're
+saying.
+82437: Your lips just aren't that long.
+82484: Kick Jill in the face?
+82516: Jill nods frantically. She holds out her arms trying to reach you.
+82635: If you let go of that rope, that could be arranged.
+82689: You climb up the rope. Smart move.
+82721: The rope swings a little bit, and nothing more.
+82832: The window is closed and locked from the inside. You can't do anything
+with it.
+82897: You bang on the window for a while. It doesn't yield, but you do succeed
+in attracting the attention of the mafia guys inside. They finish you off right
+there.
+83039: You'll either have to drop the rope or untie it first.
+83078: The stairs angle down and back and you emerge south.
+83174: Giving a mighty yell, you boldly leap off the side of the building!  The
+rope tightens and then swings you back towards the building. You do your best
+to look like Bruce Willis as you haplessly zoom towards the window...
+83336: CRASH!!!
+83372: Looking behind you as you leap off the roof, you can't help thinking
+that it might have been a better idea to be holding the other end of the rope.
+83477: You take a dive off the third story roof. To be honest, it's not the
+most brilliant idea you've had this evening. A height like this is not enough
+to kill you, but quite enough to cause you severe pain and make you spend the
+rest of your life as a vegetable in the hospital.
+83670: There are hardly any storms in Southern Cal, but when it rains it pours.
+Right now, there's not a cloud in the sky. So for all practical purposes, the
+lightning rod is just a big stick conveniently anchored to the top of this
+building.
+83911: In a freak act of nature, a lightning bolt leaps out of the clear sky
+and strikes the rod just as you touch it with the metal file. You should know
+better than to saw off parts of buildings.
+84060: The coil of rope is tied to the lightning rod.
+84097: Hope that rope holds.
+84114: It is a coil of rope, about twenty-five feet long.
+84161: The place is filled with debris from the riots. Lying on the ground you
+see a rope and a hammer which have been randomly flung off the shelves.
+84269: A rope lies in a heap on the ground, one end tied to the lightning rod.
+84372: You cleverly tie the rope to the lightning rod, dropping the other end
+on the ground.
+84433: By golly, it looks like the rope is ALREADY TIED THERE. You are about as
+astounded as can be by this revelation, considering that you were the one who
+tied it in the first place.
+84582: Oh, I know what you're trying to do. You want to anchor yourself to the
+lightning rod and rappel down the side of the building, right? Well, forget it.
+The rope is so short that you can barely reach the edge of the roof while it's
+tied around your waist. Frustrated, you untie yourself and muse that just
+climbing down would be easier.
+84819: Maybe tying yourself up would satisfy some kind of kinky fetish of
+yours, but you aren't coordinated enough to do it anyway.
+84911: Jill doesn't know you well enough to let you tie her up.
+84957: Guido didn't get to be a big mafia don by allowing puny little pizza
+guys to capture him. He resists your assault easily.
+85062: . As nice as it looks there, you change your mind and take back the
+rope.
+85131: The rope isn't tied to anything.
+85166: You untie the rope and leave it on the ground.
+85209: You untie the rope and take it with you.
+85254: The rope is tied up at the TOP, remember?
+85305: You climb around on the unattached rope for a while. Then you realize
+how stupid you look and you stop.
+85393: You climb down the rope as far as you can. For the second time today,
+you find yourself outside a third story window.
+85494: You climb back up the rope.
+85565: You pick up the other end of the rope. Now what?
+85615: You've already got one end.
+85664: You drop your end of the rope.
+85695: You release the rope and plummet to the ground.
+85748: You can't swing on the rope unless you're hanging from something.
+85800: Well... yes, good idea, but you might want to be holding on to the rope
+first.
+85877: You swing back and forth for a minute, but you realize that you'll never
+get enough momentum to break inside. If only you could get more leverage.
+86106: "Reverberations" is my entry in the second annual interactive fiction
+competition. As you have probably noticed already, the narration has a very
+regional Southern California flavor to it. Knowing that competition games may
+be witnessed and judged by people from out of the country, a "Surferese to
+English" dictionary has been provided. If you don't understand a slang word
+such as "dude", for example, try typing "explain dude" and I will clarify.
+
+For
+people who aren't familiar with interactive fiction, here's a brief overview.
+This game is a short story in the style of a comedy/action thriller. You play
+the role of the main character, Stan. The game will describe your environment
+and your situation. It is then up to you to type, in simple English statements,
+what Stan should do next in order to further the story. To get a feel for the
+game, try beginning with these commands:
+
+EXAMINE COUNTER
+   READ NOTE
+   TAKE
+PIZZA BOX
+   GO SOUTHWEST
+
+It pays to examine everything and try every dumb
+action you can think of. Remember, if you get yourself killed, you can always
+type UNDO to back up one move. So don't be shy.
+
+Have fun, dude!  Later days.
+87687: Usually this is the point where I burst into tears and say "There are
+just so many people to thank!"  But there aren't that many.
+
+I would DEFINITELY
+like to thank Gilbert Quintana for his infinite patience in testing and
+critiquing this game, always on much too short notice. I only wish I'd been
+able to use more of your ideas.
+
+I would also like to thank my mom, who does
+not like text adventures at all, but nevertheless managed to come up with a
+couple of neat plot twists that made the final cut. (For the record, the bomb
+starting the earthquake and the hairspray escape scene were both her ideas, but
+she denies it vehemently.)
+
+And, of course, I must obviously thank Graham
+Nelson a lot. If it hadn't been for the magnificent Inform compiler, I might
+never have had the patience to write a text adventure that didn't suck. Or this
+one, for that matter.
+
+Finally, I want to thank Greg Kuperberg for playing
+"Reverberations" two years after the competition, and caring enough to report a
+whole slew of juicy bugs and inconsistencies which I fixed.
+88744: Guido "The Armadillo" Calzone is the guy who ordered a pizza.
+88903: Well, persistence pays. Try it again!
+89031: Give her the file.
+89257: Throw the bomb into the sewer. Sorry about the consequences, but it's
+unavoidable.
+89430: After you spray the thug, attack him in any way you can. Then leave.
+89567: Search the drawer.
+89813: After you see her emerge down below, drop the window sill.
+90028: Show a pizza box to the guard.
+90314: Chop the floor with the axe.
+92612: A Hectic Voltairian Adventure
+Copyright (c) 1996 by Russell
+Glasser.
+Updated and revised 1998
+92844: Score:
+92852: Moves:
+92860: Time:
+92868: You can't go that way.
+92968: You look blond and studly, if you do say so yourself. Your tan's kinda
+faded, though. Remember, just another month till summer.
+93060: The front of the pizza parlor is southwest.
+93092: You could walk behind the counter to the northeast, or exit to the
+south.
+93144: It's a large, flat, greasy cardboard box. Hastily scrawled on the
+outside is the word "Calzone". Which is weird, because it's clearly a pizza.
+93364: The street runs east and west here, or you could return to the pizza
+parlor to the north.
+93428: By the sidewalk you can see a small sewage outlet.
+93464: That's where you work.
+93488: On this end of the street, a department store called Barkley's sits to
+the south.
+93548: The street runs back west, and Barkley's is to the south.
+93622: Now serving you at 623 convenient California locations!
+93664: You are in the clothing department at Barkley's. There are many racks of
+clothes here. You may exit to the north. To the southwest lies the hardware
+department, and southeast is the cosmetics department.
+93808: You can go deeper into the store southwest or southeast. The street lies
+north.
+93864: He is dressed in a weedy little clerk outfit.
+93896: You are in the hardware department at Barkley's. There are tools all
+over the place. You can go northeast to the clothing department, or east to the
+cosmetics department.
+94016: Northeast to the clothing department, or east to the cosmetics
+department.
+94068: Just looking at it all makes your testosterone level rise, and you feel
+the need to give something more power.
+94144: Northwest to the clothing department, or west to the hardware
+department.
+94196: You are approaching the center of downtown San Doppleton. There is a
+courthouse to the south. The street runs east and west.
+94284: You are in downtown San Doppleton. The street coming from the east ends
+at a three-story office building to the west.
+94368: The street runs east from here, and ends at an office building on the
+west side.
+94424: The gun is pointed right at you!
+94448: He stands in front of the government building with his arms folded.
+94496: You can only go north.
+94512: Looks like you really made somebody mad when you ratted on Guido "The
+Armadillo" Calzone. For a moment you contemplate revising your good samaritan
+complex.
+94624: You recognize the defendant, Guido "The Armadillo" Calzone from dozens
+of newspaper photos which stem from this highly publicized trial. The man looks
+unusually at ease, considering that he's potentially nine hundred and fifty
+thousand years in jail for a wide variety of charges. In fact, he has such an
+air of confidence about him that you'd almost think he was planning to escape
+or something.
+94900: This guy looks just as sleazy as his client.
+94932: Stern and imperious.
+94948: You are in an office building. The exit to the street is east. There is
+also a flight of stairs heading up to the north.
+95032: There are fronds on either side of the exit on the east.
+95072: Typical California lobby fronds. They look like good fronds with each
+other (har, har).
+95136: To the east you can see an office door labelled "Gunther & Associates";
+other than that, the office doors on this floor are pretty unremarkable. The
+stairs go up to the south and down to the north.
+95280: You try a few of the office doors, but they're locked and there is no
+response to your knocking.
+95348: To the east is a door labelled "John Winnick, Mayor of San Doppleton".
+The stairs go up to the north and down to the south.
+95440: You try a few of the office doors, but they're locked and there is no
+response to your knocking.
+95508: You are in a bustling law office. The east wall is dominated by a large
+window.
+95564: You can only go west, back to the hall.
+95592: Through the closed window, you see a pretty unremarkable spectacular
+view of downtown San Doppleton.
+95664: You are in a high-rise government building. You can go southeast to the
+street or up some stairs to the west.
+95740: Up the stairs or southeast to the street.
+95772: You are on the second floor of the government building. You can go back
+down the stairs to the west or up some more stairs to the east. To the east is
+an office.
+95888: You try a few of the other office doors, but they're locked and there is
+no response to your knocking.
+95960: You are in the mayor's office. To the east is a window overlooking a
+second-story drop. There is a glass box mounted on the north wall.
+96056: If you want to jump out the window, you'd better say so. Personally, I
+think you're crazy.
+96124: The only exit is west into the hall. That is, unless you count that big
+window on the other side.
+96192: You never liked your boss much BEFORE you found out he was a mafia don.
+Your opinion of him has not improved now that he's trying to kill you.
+96296: They just stare at you. They're pretty obviously pissed off, but their
+faces register absolutely no emotion.
+96372: A big file cabinet with a bunch of drawers.
+96404: Um, well Stan, it appears to be a key. What we have is basically a small
+flat metal thing with a little round handle on one end and some ridges on the
+other that are intended to slide into a locking mechanism. Jill already told
+you that it unlocks the Mayor's file cabinet. So on the whole, there's not a
+lot more to be said.
+96632: At the top it's labelled "My connection with the mafia, by Mayor John
+Winnick."
+
+Well well, won't Jill be happy to see THIS!  For a moment you think
+about how utterly ridiculous it is that the mayor would make his illicit
+activities so easy to discover.
+96816: A heavy fire axe.
+96836: John Winnick, mayor of San Doppleton, is here, looking like a corrupt
+political slimeball. And he means business.
+96920: This guy is about to kick your ass.
+96946: You are dangling over a three-story drop, desperately clutching the
+window ledge with your fingertips. And as if that weren't bad enough, a very
+angry mayor and a very large security guard are inside, and they're both very
+eager to get rid of you.
+
+Your feet are just low enough to touch the window on
+the next floor below you.
+97176: You're hanging on it.
+97232: The window is open, you're hanging out of it, and inside there are two
+guys trying to get rid of you.
+97304: Your feet are dangling near a window down below.
+97340: The mayor is leaning out the window, looking at you.
+97384: The lackey is leaning out the window, looking at you.
+97428: Jill's head is right near your dangling foot. She seems unsure what to
+do next.
+97484: You are swinging gently in the breeze (and the force of the worsening
+earthquake) outside the mayor's window. Looks like a big party going on in
+there. You can see the mayor, a bunch of security thugs, and lots of other guys
+wearing sunglasses and suits. Luckily, no one seems to have noticed you yet.
+97696: You can't get in the window.
+97720: The window is closed and locked from the inside this time.
+97760: You are on the roof of the government building. You can go back down the
+stairs to the north. There is a lightning rod sticking up.
+97852: It's a big old ball-peen hammer.
+97876: That's something that you don't have.
+97910: . SEE chick.
+97932: a term used to address a male with whom the speaker is especially
+familiar. Abbreviation of brother, though the reference is usually towards a
+good friend.
+98040: Bruce Willis is an unexplainably popular American film actor, best known
+for his roles in the "Die Hard" series. Mr. Willis' movies are always filled
+with lots of explosions, broken things, and extremely dramatic entrances such
+as the one you just performed.
+98252: xtremely attractive and/or sexy one. SYNONYM: babe. ANTONYM: dog.
+Feminists, my sincerest apologies for including such demeaning words in this
+otherwise highly nonsexist game.
+98468: That's a very naughty word which your mother wouldn't want to hear you
+using.
+98532: an unattractive woman or girl. ANTONYM: babe.
+98614: . A man or boy; a person of the male sex. Polite and friendly
+connotation.
+98672: In joke, text adventure fans. Steve Meretzky's controversial game,
+"Leather Goddesses of Phobos", was one of the first computer games to
+incorporate sexual content.
+98798: . A young surfer; a beginner. Condescending but not necessarily
+insulting.
+98876: yes, "Hangin' out" is a play on words, because "to hang out" also means
+to lounge or loiter, to relax. Don't you just hate puns like that?
+98980: Hoof it, v.i. To move quickly; to leave.
+99064: there was a craze involving four characters from a comic book series.
+The characters were "Ninja Turtles", four human-sized reptiles named after
+Renaissance painters, who lived in sewers and had a fondness for eating pizza.
+The craze spawned an animated series, three really bad live-action movies, and
+endless plastic toys, among other things.
+99312: You must be referring to the coolest text adventure ever written.
+99360: Rule, v.i. Being exceptionally good or desirable; fun or strongly
+motivating. The experience of attending a rock concert by subject's favorite
+artist "totally rules". ANTONYM: "suck".
+99584: Shyeah, interj. Derived from "sure" and "yeah"; yes. In the sample
+phrase "Shyeah, right", the intent is heavily sarcastic or skeptical,
+expressing extreme doubt about the prededing statement.
+99728: Suck, v.i. Being bad or unpleasant. An experience which sucks is to be
+avoided. A person who sucks is obnoxious, stupid, or generally irritating.
+Probably loosely derived from the concept of oral sex. ANTONYM: "rule".
+99898: . Television. Shortened form of "boob tube".
+100244: Choose an area of the game where you would like hints.
+
+     BEGINNING
+
+     MIDDLE (after Guido is in jail) 
+     END (once the riots have started) 
+
+    FUN STUFF TO TRY
+100432: Look around you. Have you seen what's on the counter?
+  (3 hints left)
+100560: . S. W. S.
+  (1 hint left)
+100586: In real life, you wouldn't have the benefit of hindsight. But since
+this isn't real life, read the text and figure out how you lost the game.
+  (4
+hints left)
+100702: Your action of delivering the pizza caused Guido to escape and
+subsequently go on a crime spree. Now how did that happen?
+  (3 hints left)
+100884: Now that you know you'd be responsible for Guido's escape, you could
+just walk away and refuse to deliver the pizza. But there seems to be a higher
+moral imperative here.
+  (3 hints left)
+101068: She doesn't have enough evidence to prove that Guido plans to escape.
+But you do.
+  (1 hint left)
+101140: Uh... what am I supposed to be doing? 
+     I delivered that pizza and
+lost the game!  What's up with that? 
+     Okay, so now I know what happened.
+Of what use is this information to me?
+101442: That other pizza box didn't used to be on the counter. What's in it?
+ 
+(3 hints left)
+101508: Right, you knew that. Okay, you've got a bomb on your hands. How can
+you get rid of it?
+  (2 hints left)
+101820: Okay, not QUITE long enough to escape. You'll have to do one other
+thing first.
+  (1 hint left)
+101940: She gave you a key to the mayor's filing cabinet. Use it.
+  (1 hint
+left)
+102056: Well, of course it wouldn't be THAT easy to escape. But notice how
+conveniently you've positioned yourself...
+  (4 hints left)
+102290: I keep getting blown up in the pizza parlor! 
+     What's with this
+thug who keeps killing me in the department store? 
+     What do I do in the
+mayor's office? 
+     There's a very angry mayor in the room with me. Help! 
+  
+  I'm in imminent danger of being a pancake.
+102552: Well, the guard outside won't let you in unless you're on "official
+business", right?
+  (3 hints left)
+102628: Think about *your* profession. What kind of official business could you
+possibly have?
+  (2 hints left)
+102826: You can't get in the door anymore. An assault from above might work
+better.
+  (4 hints left)
+102934: What, you tried climbing down the rope?  That's WRONG. You need to make
+a much more dramatic entrance.
+  (2 hints left)
+103322: "Another tremor shakes the building. You notice a hairline crack
+opening up in the floor."
+  (1 hint left)
+103402: I want to get into the mayor's office building, but there's a guard
+there. 
+     Now how do I get back to the mayor's office? 
+     This sure looks
+like a grand finale to me. I'm too young to die!
+

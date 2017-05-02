@@ -1,0 +1,291 @@
+12057: Nothing to do!
+12092: o. You have won
+12176: It is now pitch dark in here!
+12203: I beg your pardon?
+12267: Sorry, that can't be corrected.
+12296: Think nothing of it.
+12349: As good-looking as ever.
+12381: You can hardly repeat that.
+12406: You can't begin with a comma.
+12520: I didn't understand that number.
+12549: You can't see any such thing.
+12585: You aren't holding that!
+12682: That's not a verb I recognise.
+12721: You can't see "
+12832: Nothing to do!
+12849: There are none at all available!
+13778: Please answer yes or no.
+13804: Are you sure you want to quit?
+13849: Failed.
+13869: Restore failed.
+13886: Ok.
+13904: Save failed.
+13919: Ok.
+13963: Transcripting is already on.
+14029: Transcripting is already off.
+14087: Score notification on.
+14108: Score notification off.
+14133: You have visited:
+14163: Objects you have handled:
+14188: None.
+14574: You are carrying nothing.
+14623: Taken.
+14634: You are always self-possessed.
+15281: Dropped.
+15427: Removed.
+15566: You lack the dexterity.
+15647: Done.
+15913: Done.
+16152: Wrahn seem interested.
+16943: You can't go that way.
+17618: But it's dark.
+17635: You find nothing of interest.
+17671: But it's dark.
+17791: You find nothing of interest.
+19072: . Not bad.
+19090: That was a rhetorical question.
+19144: That seems unnecessary.
+19167: Keep your mind on the game.
+19192: What a good idea.
+19211: You smell nothing unexpected.
+19238: You hear nothing unexpected.
+19263: You taste nothing unexpected.
+19298: Keep your hands to yourself!
+19323: You feel nothing unexpected.
+19348: If you think that'll help.
+19457: Oh, don't apologise.
+19487: Quite.
+19556: You achieve nothing by this.
+19644: You wave, feeling foolish.
+19813: You are unable to.
+19832: Nothing obvious happens.
+19882: That's not a direction.
+19905: Not that way you can't.
+19937: Keep your hands to yourself.
+19962: You achieve nothing by this.
+19995: Futile.
+20024: You talk to yourself a while.
+20051: This provokes no reaction.
+20079: There is no reply.
+20098: Nothing is on sale.
+20117: Your singing is abominable.
+20151: Time passes.
+23137: [Advanced to "noun" token:
+48241: " of "
+48280: " list of "
+48361: " has no "time_left" property
+48391: The object "
+48451: The room "
+48465: " has no "description" property
+67461: Trace off.
+68639: Nothing is in scope.
+68732: It won't fit in the slot.
+68765: You're just fooling around.
+68786: Indeed.
+68813: Okay.
+69768: Stalactites abound.
+69800: The ground here is muddy.
+69926: Moss covers the walls.
+69968: The walls are ragged and sharp.
+69998: Small boulders litter the area.
+70203: Don't destroy nature.
+70274: The air of this room is stale.
+70301: The air is very moist.
+70322: The air here is fresh.
+70352: A strong, earthy scent.
+70375: A distant earthy aroma.
+70394: You smell nothing.
+70456: You hear water dripping nearby.
+70492: You hear water rushing nearby.
+70571: The room is silent.
+71106: And risk losing it? Better not.
+71182: And risk losing it? Better not.
+71810: kalsbtdufhzvpxm. It is inscribed with
+73378: You can't go that way.
+73511: You climb up.
+73529: You climb down.
+73545: You walk down the tunnel.
+75007: Pits lead up and down.
+75033: Openings lead up and down.
+75071: Fissures lead up and down.
+75099: A chimney goes up and down.
+75224: A pit leads up.
+75254: A ramp leads upwards.
+75278: A fissure on the roof leads up.
+75310: A chimney goes up.
+75332: A slope goes up.
+75354: A steep climb leads up.
+75380: A shaft above can be climbed.
+75410: A climbable pillar goes up.
+75438: A ladder formation leads up.
+75512: A pitch leads down.
+75546: A ramp slopes downwards.
+75582: A chimney goes down.
+75606: A slope goes down.
+75628: A steep climb leads down.
+75666: A climbable pillar goes down.
+75696: A ladder formation leads down.
+76270: That's not a verb I recognise.
+79367: in" or "notin
+79383: opmhas" or "hasnt
+79525: }" at end of "objectloop
+81492: A Voyage To The Inner Self 
+Copyright (c) 2001 by Peter Blanston.
+81708: Score:
+81716: Moves:
+81724: Time:
+81732: You can't go that way.
+82064: Please give one of the answers above.
+82092: [You can't "undo" what hasn't been done!]
+82128: [Can't "undo" twice in succession. Sorry!]
+82168: "Oops" can only correct a single word.
+82196: It is pitch dark, and you can't see a thing.
+82228: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+82288: You seem to want to talk to someone, but I can't see whom.
+82332: To talk to someone, try "someone, hello" or some such.
+82372: I didn't understand that sentence.
+82432: You seem to have said too little!
+82456: You can't use multiple objects with that verb.
+82492: You can only use multiple objects once on a line.
+82528: You excepted something not included anyway!
+82560: You can only do that to something animate.
+82592: That's not something you need to refer to in the course of this game.
+82640: I didn't understand the way that finished.
+82672: Sorry, you can only have one item here. Which exactly?
+82824: Are you sure you want to restart?
+82848: The game file has verified as intact.
+82876: The game file did not verify as intact, and may be corrupt.
+82920: Attempt to begin transcript failed.
+82948: Attempt to end transcript failed.
+82972: You're carrying too many things already.
+83004: You can't put something on top of itself.
+83036: You can't put something inside itself.
+83064: That would scarcely empty anything.
+83120: You can only get into something free-standing.
+83156: But you aren't in anything at the moment.
+83188: You'll have to say which compass direction to go in.
+83228: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+83324: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+83408: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+83584: This dangerous act would achieve little.
+83612: Nothing practical results from your prayer.
+83644: The dreadful truth is, this is not a dream.
+83676: Digging would achieve nothing here.
+83704: You jump on the spot, fruitlessly.
+83732: You would achieve nothing by this.
+83756: There's nothing suitable to drink here.
+83784: But there's no water here to carry.
+83812: Real adventurers do not use such language.
+83844: Violence isn't the answer to this one.
+83872: There's not enough water to swim in.
+83900: There's nothing sensible to swing here.
+83928: That would be less than courteous.
+83952: Is that the best you can think of?
+83976: You lack the nerve when it comes to the crucial moment.
+84016: I don't think much is to be achieved by that.
+84048: You aren't feeling especially drowsy.
+84398: Best choices are all from the same group.
+84600: Try typing "showverb" and then the name of a verb.
+84668: Property value not routine or string: "
+84696: Entry in property list not routine or string: "
+84816: " can only be used as a player object if it has the "number" property
+85080: Okay, you're not fooling around. You walk off the cave and drive off
+into the sunset.
+85234: You have found the truth about yourself.
+85332: . The ceiling is twenty or so feet above you.
+85396: . The roof here is very low, and you have to keep hunched.
+85440: Small stalactites adorn the ceiling.
+85468: Stalactites and their accompaining stalagmites are all around.
+85512: Mud covers the ground, making it hard to proceed.
+85548: Some of the stalactites have formed calcite columns.
+85584: Columns of stone span the height of the cave.
+85616: Translucent dripstone curtains hang from the walls.
+85652: The walls are covered with shards of translucent rock.
+85692: Flakes fallen from the ceiling cover the ground with debris.
+85736: A triangular shaped curtain of stone covers a wall.
+85772: The walls have a spongy texture, littered with small holes.
+85816: The walls resemble swiss cheese, with lots ot large round cavities.
+85864: Small clumps of moss cover the ground.
+85928: The ground is riddled with cracks.
+85952: Very interesting, but unimportant right now.
+85984: The pungent scent of decomposition.
+86012: You hear a distant dripping sound.
+86036: You hear a distant rushing sound.
+86060: You hear a distant flapping sound.
+86084: You hear a distant hissing sound.
+86108: You hear a creaking sound nearby.
+86132: You hear a distant creaking sound.
+86156: You hear a confused low cacophony of distant sounds.
+86192: You are in a white cylindrical room without obvious exits.
+86232: The excursion has ended, and you are standing by the end of a cave. The
+path back has been closed for security, and the only way to go is east and
+out... unless you count a narrow passage to the north.
+86372: You can't go back through here. You'd need to go around the cave and
+enter another excursion, paying another eight dollars. And frankly, you're not
+in the mood of seeing this drab cavern again.
+86508: What, and miss a chance to explore?
+86828: A strange machine is attached to the cave floor here.
+86866: A cubical metallic device, connected to the floor by tubes and cables.
+It has a round slot in its top, large enough to fit a coin in it. Under the
+slot is a plaque inscribed with the symbols:
+87004: A pointing machine is attached to the cave floor here. It is pointing
+87056: It is a needle-shaped device, mounted on a base that's attached firmly
+to the cave ground by strange flat bolts. The needle is pointing
+87152: . Attached to the base is a plaque with the symbols:
+87192: You push at the needle, and it spins one eighth of a turn. It is now
+pointing
+87248: You pull on the needle, and it spins one eighth of a turn. It is now
+pointing
+87304: A dark monolith has been erected here.
+87332: A dark stone, slightly shorter than you, firmly attached to the floor.
+You can see tubes and cables in the parts where the stone has flaked off. Six
+symbols are inscribed on both of the larger faces of the stone:
+87480: The monolith yields slightly when forced, but will move no further.
+87528: Your trusty battery-operated waterproof flashlight. Its batteries are
+new: Being stranded in a cave because your light went out would be embarassing.
+87632: Sturdy and waterproof. Your only hope for orientation when you're
+underground. It's pointing, well, north.
+87712: The token falls into the slot with a *klunk*. A few moments later, it
+falls off another opening, somewhat altered.
+87814: You really expected more.
+
+You expected to crawl through tunnels, to
+climb down pits, to barely escape with life. Instead you were met with a
+humdrum walk through a well-illuminated walkway and a canned speech on a half
+dozen types of stalactites. Next time you'll read the brochure with more
+attention... You didn't even have a chance to use your new flashlight and
+compass.
+
+But wait... what's that opening by the exit?
+88120: You hear the pointing machine turning creakily as you leave.
+88188: A ramp spirals both upward and downward.
+88220: A slope leads upwards and downwards.
+88248: A steep climb leads both up and down.
+88276: A shaft can be climbed up or down.
+88304: A climbable pillar stretches both up and down.
+88340: A ladder formation goes up and down.
+88368: An opening on the ceiling leads up.
+88396: An opening on the floor leads down.
+88424: A fissure on the ground leads down.
+88452: A shaft below can be climbed down.
+88480: Drawn in by the environment, you shout the word. As you expected,
+nothing happens.
+88540: That's not a verb I recognise. But something happens anyway.
+88584: As you touch the monolith, the room twists and turns, walls, ceiling and
+ground dissolving off into nothingness... only the stone remains, but not for
+long, and it soon breaks off in the void. Other walls enclose your view again,
+and a new floor emerges under you...
+88774: Some suggestions for your adventure in The Great:
+
+* Pay attention to
+all markings, symbols, lines and angles. If you look around, the answer will
+soon be obvious.
+* Your other senses aside from sight are very important when
+cave adventuring. Even an empty room may hold the greatest secrets.
+* Remember
+the items in your inventory. Some may be used in the most unlikely of ways!
+

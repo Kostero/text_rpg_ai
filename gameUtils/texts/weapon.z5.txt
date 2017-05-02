@@ -1,0 +1,1133 @@
+42249: Nothing to do!
+42284: o. You have won
+42386: It is now pitch dark in here!
+42413: I beg your pardon?
+42477: Sorry, that can't be corrected.
+42506: Think nothing of it.
+42559: As good-looking as ever.
+42591: You can hardly repeat that.
+42616: You can't begin with a comma.
+42730: I didn't understand that number.
+42759: You can't see any such thing.
+42795: You aren't holding that!
+42837: I'm not sure what "
+42889: That's not a verb I recognise.
+42928: You can't see "
+43036: Nothing to do!
+43053: There are none at all available!
+43963: Please answer yes or no.
+43989: Are you sure you want to quit?
+44034: Failed.
+44054: Restore failed.
+44071: Ok.
+44089: Save failed.
+44104: Ok.
+44148: Transcripting is already on.
+44214: Transcripting is already off.
+44272: Score notification on.
+44293: Score notification off.
+44316: You have visited:
+44344: Objects you have handled:
+44369: None.
+44755: You are carrying nothing.
+44804: Taken.
+44815: You are always self-possessed.
+45348: Dropped.
+45456: Removed.
+45595: You lack the dexterity.
+45676: Done.
+45942: Done.
+46162: Wrahn seem interested.
+46801: You can't go that way.
+47361: But it's dark.
+47378: You find nothing of interest.
+47414: But it's dark.
+47505: You find nothing of interest.
+48633: . Not bad.
+48651: That was a rhetorical question.
+48705: That seems unnecessary.
+48728: Keep your mind on the game.
+48753: What a good idea.
+48772: You smell nothing unexpected.
+48799: You hear nothing unexpected.
+48824: You taste nothing unexpected.
+48859: Keep your hands to yourself!
+48884: You feel nothing unexpected.
+48909: If you think that'll help.
+49018: Oh, don't apologise.
+49048: Quite.
+49117: You achieve nothing by this.
+49205: You wave, feeling foolish.
+49355: You are unable to.
+49374: Nothing obvious happens.
+49424: That's not a direction.
+49447: Not that way you can't.
+49479: Keep your hands to yourself.
+49504: You achieve nothing by this.
+49537: Futile.
+49566: You talk to yourself a while.
+49593: This provokes no reaction.
+49621: There is no reply.
+49640: Nothing is on sale.
+49659: Your singing is abominable.
+49693: Time passes.
+63047: You can't burn that.
+63076: There's nothing to feel.
+64982: o. You have lost
+76613: Hints have been disabled.
+78177: Cheryl takes off the goggles.
+78270: You can't look under that.
+78295: You're standing on it already.
+78482: You can't look under that.
+78507: You're already there.
+79251: Cheryl says, "Two."
+80102: Cheryl says, "Very clever."
+80149: Cheryl says, "Very clever."
+80172: Cheryl is not interested.
+80205: Cheryl is busy with the probe.
+80755: Cheryl says, "Very funny."
+81157: Cheryl is busy with the probe.
+81426: Cheryl says, "Do it yourself."
+81624: Cheryl says, "Umm... right."
+82412: Yi-Lono-Mordel installation:
+82784: It's not on.
+82811: It's already on.
+82971: It is already open.
+84270: Nothing happens.
+84388: The fusion generator shuts down.
+84723: Cheryl takes off the goggles.
+86318: Nothing happens.
+86662: Nothing happens.
+86883: Nothing happens.
+87276: She is outside the forcefield.
+87346: She is outside the forcefield.
+87992: It's much too thin.
+88973: You trigger the top sensor.
+89042: You trigger the bottom sensor.
+89121: You trigger the bottom sensor.
+89179: You are wearing them.
+89202: Cheryl is wearing them.
+89369: That would be difficult.
+89399: Nothing there.
+89603: That wouldn't accomplish much.
+90030: The pale flesh of human wrists.
+90064: There's nothing under them.
+90248: You don't have the handcuffs.
+90283: You're no Houdini.
+90388: Not bloody likely.
+90532: The forcefield is in the way.
+90599: That would accomplish nothing.
+90689: That would accomplish nothing.
+90852: There's no good reply to make.
+90965: It's already there.
+91152: It's already there.
+91383: Er, how'd you get that?
+91457: You're not holding the probe.
+91640: You frown.
+91674: You nod.
+91708: You wink.
+94072: in" or "notin
+94088: opmhas" or "hasnt
+94230: }" at end of "objectloop
+95692: Score:
+95700: Moves:
+95708: Time:
+95716: You can't go that way.
+96040: Please give one of the answers above.
+96068: [You can't "undo" what hasn't been done!]
+96104: [Can't "undo" twice in succession. Sorry!]
+96144: "Oops" can only correct a single word.
+96172: It is pitch dark, and you can't see a thing.
+96204: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+96264: You seem to want to talk to someone, but I can't see whom.
+96308: To talk to someone, try "someone, hello" or some such.
+96348: I didn't understand that sentence.
+96408: You seem to have said too little!
+96432: You can't use multiple objects with that verb.
+96468: You can only use multiple objects once on a line.
+96504: You excepted something not included anyway!
+96536: You can only do that to something animate.
+96568: That's not something you need to refer to in the course of this game.
+96616: I didn't understand the way that finished.
+96648: Sorry, you can only have one item here. Which exactly?
+96800: Are you sure you want to restart?
+96824: The game file has verified as intact.
+96852: The game file did not verify as intact, and may be corrupt.
+96896: Attempt to begin transcript failed.
+96924: Attempt to end transcript failed.
+96948: You're carrying too many things already.
+96980: You can't put something on top of itself.
+97012: You can't put something inside itself.
+97040: That would scarcely empty anything.
+97096: You can only get into something free-standing.
+97132: But you aren't in anything at the moment.
+97164: You'll have to say which compass direction to go in.
+97204: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+97300: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+97384: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+97560: This dangerous act would achieve little.
+97588: Nothing practical results from your prayer.
+97620: The dreadful truth is, this is not a dream.
+97652: Digging would achieve nothing here.
+97680: You jump on the spot, fruitlessly.
+97708: You would achieve nothing by this.
+97732: There's nothing suitable to drink here.
+97760: But there's no water here to carry.
+97788: Real adventurers do not use such language.
+97820: Violence isn't the answer to this one.
+97848: There's not enough water to swim in.
+97876: There's nothing sensible to swing here.
+97904: That would be less than courteous.
+97928: Is that the best you can think of?
+97952: You lack the nerve when it comes to the crucial moment.
+97992: I don't think much is to be achieved by that.
+98024: You aren't feeling especially drowsy.
+98112: This dangerous act would achieve little.
+98140: conversation fragments. Mind you, you can't see them all in one
+playthrough, anyway. 
+
+Besides exploring the conversations further, you might
+try: 
+
+   commanding Cheryl to use her gun 
+   examining things while wearing
+the goggles 
+   pointing at things, including the handcuffs 
+   turning off the
+forcefield before revealing your secret 
+   using the probe's first appearance
+as a distraction for the sequence stud 
+   looking under the handcuffs 
+  
+REPLYing instead of TALKing (only a few differences) 
+
+Authors might be amused
+at this line of code: 
+   has lockable openable worn clothing locked
+pluralname;
+98580: Just use TALK or REPLY to engage in idle chitchat; for
+non-conversational communication, see the information in ABOUT.
+98674: [Type "ABOUT" for special information about interacting with
+98728: There is no scoring in this game, only winning and losing.
+98772: You glance down at your body, taking care not to let the loathing show
+on your face, but there is really nothing worth noticing.
+98860: Unless you count these idiotic handcuffs.
+98892: You glance down at your body for a fresh reminder of your situation.
+98940: Even with the goggles on, Cheryl won't let you get too close.
+98984: It's unlikely you'll be able to wrest anything away from Cheryl by
+force.
+99036: You'd love to put more distance between you, but Cheryl insists on
+standing close... but not too close.
+99164: HINTS disabled.
+99988: om/~buzzard/games/if/ ) or by email. 
+
+The Weapon was written in
+February-March and October 2000; it received brief alpha testing in November
+and beta testing in December 2000; further bugfixing occurred in January and
+May/June 2001. Thanks to Dan Schmidt for encouraging me to finish it and to
+Emily Short for running two minicomps that kept me writing IF while my
+enthusiasm for fixing The Weapon's 200+ bugs was flagging.
+100310: Cheryl says, "This is our chance to make a difference, Tolan. But only
+if we do it according to my rules. You're going to see what sort of information
+you can get displayed. As soon as you bring some Yi text up, you stop. You
+don't touch anything until I say it's ok to continue. Got it?"
+100522: You reply, "Of course. I will do it your way rather than not at
+all."
+
+Cheryl says, "I'd be more glad to hear that if I actually trusted you,
+Tolan."
+100638: Cheryl says, "As you asked, the guards will keep their distance so they
+won't disturb your concentration. It'll just be you and me. And, since I'm no
+mechanist, I've got this--just so I can keep tabs on you." She shows you a
+holographic reproduction of this room, hovering over a black base. "There are
+sensors for movement, electromagnetic radiation, and I don't know what else,
+all analyzing this room. This little display lets me monitor the activity
+everywhere in the room so I can see what you're up to. So don't think you'll
+get away with anything."
+101040: "I am not intending to get away with anything, Cheryl," you reply. "I
+just want to crack the Yi-Lono-Mordel nut."
+101126: Cheryl says, "This is a chance to make history together, Tolan. So
+crack it, but leave opening it all the way to me."
+101216: Cheryl sighs. "Tolan, do you have any idea how important it is we
+figure this place out, once and for all?"
+101296: You reply, "It must be pretty important for you to take a chance on
+me."
+101348: Cheryl says, "The problem is with the Lono, as you might guess."
+101400: You say, "Are not the Lono long gone? Or is there a Terran Alliance
+secret?"
+101458: Cheryl replies, "Gone, but not forgotten. We didn't lie about anything,
+though. After the battle at Calder's Star, every last one of their ships
+retreated through the wormhole back to their galaxy."
+101608: You say, "But?"
+101622: "But," Cheryl continues, "They swore an oath. Apparently the same one
+they swore against the Yi, millennia ago. They're going to be back, Tolan, back
+with a vengeance. Soon. So before they show up, I'm going to have found a way
+to put an end to it--and that's why you're here."
+101832: Cheryl says, "They're coming back, Tolan. Soon, we think. So before
+they show up, I'm going to have found a way to put an end to it, with your
+help."
+101948: You say, "The Yi-Lono-Mordel certainly looks promising that way."
+102000: Cheryl says, "You probably never realized it, Tolan, but the Yi had a
+somewhat high opinion of themselves. The word Yi isn't just their name--it
+means 'the end' or 'the ultimate'. The 'Yi-Lono-Mordel' isn't 'the Yi's Lono
+weapon'; it's 'the final Lono weapon'. They were planning to win their war with
+it."
+102236: Cheryl says, "So I guess I'll finally make it into the history books by
+doing it for them."
+102304: You say, "Until humanity won the war for them."
+102340: Cheryl says, "We didn't win the war. Just a battle. The Terran
+Alliance's forces are terribly depleted. Who knows what additional forces the
+Lono have sitting in their galaxy?"
+102472: You say, "Maybe none at all."
+102496: Cheryl says, "Maybe not, but I'm not willing to take that chance,
+especially not with an opportunity like Yi-Lono-Mordel in my hands."
+102600: You say, "Their current galaxy."
+102626: Cheryl says, "Yes, their current galaxy. Who knows how many galaxies
+they've chased the Yi through?"
+102704: You say, "A better question: how many times have they been turned back
+before?"
+102762: Cheryl says, "I don't think they ever have, Tolan. They're angry.
+Really angry. They swore an oath against us. The same one they swore against
+the Yi--they stressed that part. We know how much they hate the Yi. And now
+we'll get the same treatment."
+
+Cheryl says, "There's a difference between us
+and the Yi, though. They run. We're going to fight. And I'm going to be the one
+to bring the bastards down."
+103068: You say, "The Yi tried to fight, Cheryl. They had weapons."
+
+You pause,
+decide to say just a little more. "Look at this place. They just tired of it."
+103184: Cheryl says, "Given that oath, I'd imagine never. Unless perhaps that
+was the Yi's transgression long ago."
+103266: Cheryl says, "Tolan, my superiors don't want you anywhere near here. If
+they find out, I'll be in a lot of trouble."
+103356: You say, "Even if I find a way to win the war?"
+103392: Cheryl says, "If I manage to find a way to win the war, they'll forgive
+me. But I can't tell them about it yet. They don't trust you at all. I don't
+really trust you. But we've worked together, so I'm sure I can keep you under
+control, and more importantly, I'm sure you can get me access. I know you can
+do this. I don't know if anybody else could."
+103652: You smile. "Nobody else could."
+103678: Cheryl says, "And of anyone, I'm the only one who will be able to make
+heads or tails out of whatever information you can dig up."
+103774: Cheryl says, "Cooperation will payoff in the end."
+103816: You say, "I hope so, Cheryl. I do hope so."
+103852: You say, "Heads or tails. Yes, indeed. I am sure you can figure it out
+if I bring up some text."
+103924: Cheryl says, "Regardless of how it ended, we did make a good team at
+the last dig. I'm glad I can give you the chance to work with me again."
+104028: You say, "I treasure this opportunity."
+104058: Cheryl says, "Yes? I do see you, Tolan."
+104096: You say, "Just checking."
+104118: Cheryl says, "Why is it I don't like the sound of that?"
+104164: Cheryl says, "That's a bit of Mechanism I've never seen before."
+104216: You say, "I will try to avoid further surprise."
+104252: Cheryl says, "Tolan, we both have to be here. So please don't make it
+any worse for me."
+104320: You say, "The urge has passed now."
+104348: Cheryl says, "Try not to hurt yourself exercising those unused muscles,
+Tolan."
+104408: You say, "Just because I never smile around you does not mean I never
+smile."
+104466: Cheryl says, "Oh right, I'm the dead serious one."
+104510: Cheryl says, "Is there a problem?"
+104540: You say, "Well, yes, I think that is fairly obvious. But it can not
+stop me."
+104600: Cheryl looks at you quizzically.
+104624: You say, "Just thinking outside. Out loud, I mean."
+104666: Cheryl stares at you.
+104688: You say, "What?"
+104704: Cheryl says, "Nothing."
+104726: Cheryl says, "Are you okay?"
+104752: You say, "I am fine."
+104770: Cheryl says, "Umm, ok."
+104794: Cheryl says, "You better know what you're doing here, Tolan."
+104844: You say, "I'm looking for the manual override."
+104880: Cheryl says, "Well, of course. I'd help, but I'm busy watching you."
+104936: You say, "Of course."
+104954: Cheryl says, "What exactly is that?"
+104988: You say, "It is a wiring crossover terminal. Something is not connected
+correctly."
+105050: Cheryl says, "Oh, right, I should have recognized it."
+105096: Cheryl says, "Are those goggles helpful? Can you see anything through
+them that isn't on my hologram?"
+105172: You say, "Not that I am aware of."
+105200: Cheryl says, "I can't imagine how you can stand wearing those bulky
+things. Of course they make a huge difference in what you see."
+105296: Cheryl says, "You're making quite a bit of progress, Tolan."
+105344: You say, "No. This is little more than turning the lights on."
+105392: Cheryl says, "Oh, well, sure, for a place this big and complicated,
+that would be true."
+105460: Cheryl says, "What's on that screen?" She approaches from other side of
+the slab. "Bah. See if you can find some text there."
+105556: You say, "I will watch out for text."
+105586: Cheryl says, "What's this?" She takes a step closer to it. "Shoot, no
+text."
+105652: You say, "I am not exactly sure."
+105678: Cheryl says, "Cool, that must be Yi-Lono-Mordel. I'm sure there's more
+to this, Tolan. Find me some text!"
+105768: You say, "I am on watch for anything that might produce significant
+text, I promise."
+105830: Cheryl says, "Can you believe the scope of this place? Astrophysical
+engineering on this scale is so beyond what we can do."
+105922: Cheryl says, "All this power. It must be destructive on an unimaginable
+scale. Or astonishingly subtle."
+106002: Cheryl says, "Well, we'll know soon enough."
+106040: You say, "Have you ever seen one of the wormholes?"
+106078: Cheryl, "No, but I suppose they produce a similar feeling."
+106128: You say, "The wormholes are amazing, they defy human imagination." You
+pause to let that sink in. "This place is bigger."
+106218: Cheryl says, "Are you sure you know what you're doing, Tolan?"
+106272: You say, "Trial and error is part of the process of Mechanism."
+106320: Cheryl says, "Make sure you err on the side of safety."
+106364: You say, "I am being cautious, but we can not afford too much caution."
+106416: Cheryl says, "What are those?"
+106444: You say, "It seems it will not display any information unless you
+activate these controls."
+106510: Cheryl says, "I knew it! The place must be very important to have its
+information so protected. It's rather uncharacteristic of the Yi, but I
+expected that all along."
+106636: You say, "You are right."
+106658: Cheryl says, "How clever."
+106684: You say, "Took you long enough to notice."
+106716: Cheryl says, "I'm surprised the Yi would have had such a physical
+control system. I could have operated that myself."
+106804: You say, "Yes, odd."
+106822: Cheryl says, "Well, it's really to be expected that a place like this
+would have things we've never seen before."
+106908: You say, "Well, it has been fun, Cheryl. But it is over now." 
+
+Cheryl
+says, "What do you mean?"
+106986: You say, "Yi-Lono-Mordel is powered up and ready to go." 
+
+Cheryl says,
+"Ready? What is Yi-Lono-Mordel?"
+107074: You say, "It is the Yi's ultimate weapon, just like you said. You
+remember the Lono planet-buster? Yi-Lono-Mordel is more. Far more. It is a
+galaxy smasher. I think. I believe. I hope." 
+
+Cheryl stares at you silently.
+107244: You say, "We can only assume the Yi did not use it because they did not
+want to wipe out humanity along with the Lono--at least, not if humanity
+managed to stop the Lono."
+107366: You say, "So now I will get to do the honors." 
+
+Cheryl says, "What?
+Destroy the galaxy? Why?"
+107444: You shake your head. "Cheryl, Cheryl. Come now. Why do you think I
+would want to destroy all of humanity?" 
+
+Cheryl says, "I know you too well to
+believe you're a psychopath. So I don't know."
+107592: You say, "You do not know me at all, Cheryl. I am different from
+everyone you know. Different from every human being in the galaxy, in fact.
+Differently motivated."
+107712: You say, "Did your superiors suspect? Did they tell you to keep me
+away, or did they tell you to kill me? Tell me." 
+
+Cheryl considers replying,
+but hesitates.
+107832: You say, "Never mind, it matters not."
+107862: Cheryl says, "How did you know? Tolan, we can stop this. I won't let
+them kill you. I'll help you escape. I have friends..."
+107964: You say, "Ah, poor Cheryl. Your sympathies are misdirected. Your
+superiors were right. For you it was kill or be killed."
+108056: You say, "Well, enough discussion. I find it hard enough to control
+this pathetic human body without forcing myself to try to make human speech.
+Say goodbye, 'Milky Way'."
+108182: Cheryl opens her mouth to speak, but she is, for once, at a loss for
+words.
+108340: . Electro-magnetic waves and electric potentials travel in chaotic
+eddies along the walls, turbulently recoiling from the boundaries of the window
+and the doorway.
+108452: and sterility. The featureless white wall is broken up only by the
+large elliptical window in the ceiling and the circular doorway through which
+you entered.
+108560: A cluster of forms sits in the center, atop the slightly concave floor.
+108612: In the center sits a slab over which gleams of energy fields dance and
+shimmer, surrounded by two energy-neutral curved shapes.
+108700: In the center sits a slab, two swept curves surrounding it.
+108744: The doorway leads out of the room, past the sentry station, and out to
+the rest of the installation on this "asteroid". Somewhere back there is the
+brig in which you have been for the last three months
+108936: You can only see a doorway, not a door.
+108964: You can only see a doorway, not a door.
+108992: Looking out the window you can only get the faintest sense of the
+magnitude of Yi-Lono-Mordel. The sun you now orbit is on the opposite side from
+this window, although you can see one star, very close. The other asteroids are
+in the same orbit, so they'd never appear above you
+109280: The forms consist of a raised slab (in the same proportions as the
+ellipsoidal room, but a rectangular parallelepiped instead) and two gleaming
+swept curves (one on each side of the slab).
+109412: Though the reason they are shaped into hyperboloids is unknown to you,
+you are well aware that each of these metal lumps served as an energy locus for
+a Yi--in this environment, a work location. The two sit on either side of the
+slab, one on the side nearest the door, one on the far side. They would be far
+too awkward to serve as a chair for your body.
+109660: For a moment you consider trying, but you know from experience that you
+could not find any stable point on which to rest.
+109744: Although they are seemingly metallic, no free electrons wander the
+surface of these shapes; you can find nothing to influence.
+109832: Currents race through the slab, pink and purple, in intricate,
+unchanging eddies. Warm to the touch, it allows control over the whole of
+Yi-Lono-Mordel. There is a glowing notch in the top center edge.
+109976: A crisscrossing of thin lines of energy marks the control surface
+covering the slab.
+110192: . In the top center edge on the side opposite the door is a small
+notch.
+110244: Extending across much of the surface of the slab is a slightly raised
+control surface.
+110304: Sticking out of a slot in the slab is an electropulse probe.
+110348: There is an open slot in the slab where the probe emerged.
+110392: The slab is room-temperature and lacking in electric potential.
+110436: There is no access to the inside of the slab.
+110468: It's time to rest, sure enough, but not that way.
+110504: There'll be time enough for resting later.
+110536: You recognize the glowing notch as a standard Yi heat-sensitive
+triggering device; human body temperature happens to be sufficient to activate
+this one.
+110828: You touch the the notch with a minimal pressure.
+110864: It is cooler than the rest of the slab, and you can feel the heat from
+your finger being drawn out momentarily.
+111054: Cheryl says, "Ok, this is interesting." She peers at the control
+surface.
+111116: You apply your finger to the notch, and the control surface slides back
+into the recesses of the slab, leaving no visible indication that it was ever
+there.
+111224: The floor is such a gentle concave slope, with its lowest point at the
+center under the various forms, that you cannot tell whether it is elliptical,
+spherical, parabolic, hyperbolic, or something higher-order.
+111528: Coruscations of energy play under many of the surfaces of the room.
+111624: Easier said than done, since the whole extends across twenty star
+"systems". All that you can see of it right now is this control room and the
+one star out the window.
+111748: says, "Show's over, huh?" She
+111820: Good thing they're sturdy enough to take a fair amount of abuse.
+111868: Cheryl says, "I already gave you the key."
+111900: Cheryl says, "Tolan, I don't trust you further than I can throw you.
+Until I see a problem you can't solve with the handcuffs on, forget it."
+112004: Cheryl says, "Fine, but you better be on your best behavior,
+Tolan."
+
+She tosses the key to the handcuffs onto the floor next to you.
+112104: Cheryl stands here, studying the information display.
+112144: Cheryl stands here, wearing your electromagnetic-translating goggles.
+112308: . You spent the last three months looking forward to seeing her again,
+but now that you do, you wonder why you found her pug nose and staring eyes
+attractive in your memories.
+112428: Perhaps it was just that you had little else to think about.
+112470: Cheryl says, "
+112542: ("Rectangular parallelepiped"! How can any sane creature stand to use a
+language with no proper word for the simplest form with parallel sides? It's a
+wonder humanity made it off Terra.)
+112680: Cheryl turns to face you, her laser pistol in her hand. "Before I get
+too carried away, let me make sure you don't get up to any monkey business
+here." She summons the guards, then adds, "Don't move a muscle, or I'll have to
+shoot you."
+
+And that ends it. You never get the chance to fulfill your
+destiny.
+112904: Cheryl says, "You can have this once I'm sure it's safe, Tolan."
+
+She
+examines the probe carefully, then aims it so neither end is pointing at either
+of you, and fiddles with it for a moment.
+113046: Cheryl says, "Huh. Just an electromagnetic toy." She sets it down on
+the slab.
+113110: Cheryl says, "I can't believe you've gotten access to all of this stuff
+without finding any text for me to look at."
+113196: Cheryl says, "Tolan, there's got to be some text you can display for
+me."
+113252: Cheryl says, "Perhaps if I don't see some text very soon, we should
+just stop for the day."
+113320: Cheryl says, "Ok, that's it. Find me something to read now, or we'll
+stop."
+113380: Cheryl says, "I mean it. I'll give you to the count of three. One."
+113434: Cheryl says, "Three. That's it. I can't believe you can't find any
+text. The Yi loved to write things down." She pauses for a moment, staring at
+you. "I wonder if you haven't been avoiding displaying any text
+intentionally."
+
+She draws her laser pistol and aims it at you.
+
+You never get
+another chance.
+113662: Cheryl notices the changed display on the viewscreen. "What is that?
+Move away from the controls, Tolan. I want to decipher that text." She draws
+her laser pistol and points it at you.
+113798: You look down at the viewscreen as you raise your hands for Cheryl and
+determine that this is exactly what you needed to know.
+
+Unfortunately, you'll
+never get the chance to make use of the information.
+113944: Too bad you'll never get another chance.
+113976: Cheryl stops you. "You're not going anywhere, Tolan. Not until we make
+more progress."
+114044: Cheryl takes the goggles from you. "
+114072: Something interesting to see this way, Tolan?
+114108: Got something to show me?
+114180: Cheryl sees you moving towards her, and pulls off the goggles. She
+gives you a warning look as she drops them on the floor.
+114268: You could not manage it while wearing those handcuffs.
+114308: You may have the handcuffs off, but Cheryl has a laser pistol.
+114352: Just allowing Cheryl to see deeper into the electromagnetic spectrum
+isn't enough to make her sufficiently attractive to you.
+114440: You consider just how many sacrifices you would be willing to make to
+achieve your goals; reflecting on it, there is really nothing you would not be
+willing to do. But
+114560: Cheryl has a laser pistol.
+114580: Cheryl isn't paying sufficiently close attention.
+114616: Cheryl isn't paying attention right now.
+114684: You would prefer not to do something that might provoke Cheryl and earn
+you a trip straight back to the brig.
+114760: Cheryl says, "No, you can't leave."
+114792: Cheryl says, "I'll stand, thanks."
+114824: Cheryl says, "Seen it."
+114846: Cheryl says, "Yes, yes, you've turned the tables by transforming a
+restricting device into a tool. I get it."
+114932: Cheryl says, "You couldn't think I'm going to put those on."
+114982: Cheryl says, "Don't look at me, you're the mechanist."
+115030: Cheryl says, "So what do things look like through those?"
+115080: Cheryl says, "That looks far too dangerous.
+115112: You may be the expert, but there are some chances I won't take.
+115164: Cheryl says, "I'm not that stupid, Tolan."
+115200: Cheryl says, "Trust me, Tolan, I will the minute you give me a good
+reason to."
+115260: Cheryl says, "I'm not feeling particularly suicidal, not that it would
+work."
+115320: Cheryl says, "I don't think that would be a good idea."
+115364: Cheryl says, "
+115376: This monitor hologram is how I'm keeping tabs on you. If I don't have
+it, you're not going to get to do anything, anything at all
+115520: . You can't have it
+115540: Cheryl thinks for a moment and then speaks again. "However, I recall we
+confiscated a pair of electromagnetic-sensitive goggles from you back when
+we... found... you here." She speaks into her communicator.
+
+Several minutes
+later, one of the guards stands in the doorway and tosses the goggles on the
+floor next to you, then leaves.
+115780: Cheryl says, "
+115792: You think you're amusing? If there's something that you need a laser
+pistol for, I think you'll just have to let me do the shooting for you.
+115892: I'm not giving it to you. If you need something shot, maybe I'll do it.
+115952: Cheryl says, "
+115964: You must be on artificial stimulants, Tolan.
+115996: Or are you running a fever?
+116016: You're nuttier than I remember you being.
+116048: Get it yourself.
+116128: Cheryl says, "
+116184: Cheryl says, "
+116282: But I guess you can take the handcuffs off."
+
+She tosses the key to the
+handcuffs onto the floor next to you.
+116364: Cheryl says, "Uh, right."
+116388: Cheryl looks at you oddly.
+116408: Cheryl says, "We can't both wear those."
+116480: Cheryl isn't particularly interested.
+116548: Cheryl says, "
+116608: Cheryl's pretty careful about keeping her distance, so examining her at
+range is all you can do.
+116676: You try to get a better look at Cheryl's monitor hologram as the probe
+fires; it looks like you only see eleven flickers of white, but you can not be
+sure, and Cheryl does not look comfortable with the idea of you standing any
+closer.
+116948: Apparently standard issue to military officers, the spiky protrusions
+and powerful energies flashing over it leave no question as to the purpose of
+this device.
+117208: At least the Yi tend to be subtle about it.
+117380: You can't throw the key through the forcefield.
+117686: Cheryl says, "You don't expect me to go get that for you, do you
+Tolan?"
+117748: You toss the key across the room.
+117772: Cheryl says, "Changed your mind?"
+117804: Projected on the left half of the far wall of the room is an
+installation status display.
+117868: It's a little too hard to make out the display through the visual noise
+of the goggles.
+118192: The indicator corresponding to this asteroid is glowing brighter than
+those for the other asteroids.
+118262: The indicator for this asteroid on the status display turns bright
+yellow.
+118316: The indicators for the other asteroids around this star light up a bit
+brighter.
+118372: The indicator for this asteroid on the status display turns hot pink.
+118422: The indicator for this asteroid on the status display begins flashing.
+118474: On the installation status display, the indicator corresponding to this
+asteroid changes color.
+118544: Projected on the right half of the far wall of the room is a large
+display full of Yi text.
+118608: It is difficult to make out the details through the visual noise of the
+electromagnetic goggles.
+118676: It is an oblong display filled with Yi text, none of which you can
+read.
+118728: In the center of the right side of the room is a white pillar.
+118772: The access panel on the pillar is open, exposing a fusion generator
+bay.
+118824: An electropulse probe sticks out of the bay.
+118856: The pillar is aglow with dancing, swirling greens and aquas.
+118900: The fusion generator is an elliptical pillar, with small amounts of
+energy playing over it. Energy flows in a regulated way across an access panel,
+which is
+119024: the fusion generator. It is an elliptical white pillar, almost two
+meters tall, one meter wide, and half a meter deep. On the long front side is
+an access panel, which is
+119220: The access panel is open and an electropulse probe sticks out of the
+bay.
+119272: The access panel is open, revealing a fusion bay.
+119436: It may work like the slab.
+119456: The access panel has no seams you could work your fingernails into, and
+nothing else you could grip.
+119528: The probe blocks it from closing.
+119552: You close the generator access panel.
+119580: An interlock prevents the panel from opening while the reactor is
+active.
+119632: You touch your fingers to the access panel and immediately recognize
+the subtle flow of energy through the surface. How much easier this would be if
+you could see in the electromagnetic spectrum!
+119844: . The access panel swings open, revealing
+120248: You recall noticing a tool stud which might give you something useful
+for analyzing the situation.
+120320: The electropulse probe sticks out of the bay.
+120352: There is little energy flow to be seen, since the generator is off.
+120400: That will not fit in the fusion generator bay.
+120432: The twelve contacts are arranged around the edge of the plasma
+generation zone in perfect symmetry. They all look quite identical.
+120524: The plasma generator consists of several components whose independent
+functioning you are not familiar with. The overall configuration is
+unmistakably familiar from other Yi mechanisms you have worked with.
+120668: The thing you suspect is a plasma containment system looks perfectly
+serviceable. The twelve contacts arranged around the bay must be the loci of
+some sort of magnetic field used to contain the plasma.
+120808: The control surface is covered with a large grid of studs arranged in a
+hexagonal packing; it also features a set-in viewscreen.
+120900: It's a little hard to make out the details of the screen through the
+processing of the goggles.
+120968: The viewscreen is a small, perfectly square display set into the
+control surface.
+121028: The display seems to suggest activating the ignition stud again will
+fire Yi-Lono-Mordel.
+121092: The display is reading out some sort of indicators about an ignition
+sequence. It is vaguely familiar, but you do not see anything concrete.
+121280: Although you can not understand the Yi writing, you can recognize a
+number of the control icons in the sequence: power-up, then transmit go, then
+control rods, then ignition.
+121404: Powering up you have done; no doubt there are studs to trigger the
+other three.
+121464: It shows some indecipherable icons.
+121490: Each of the thousands of studs arrayed in a regular hexagonal packing
+across the control surface has a color and shape, but those two together are
+not enough to make each unique. However, it resembles all the other Yi
+mechanisms you have encountered in your life; although nobody else in the
+galaxy might ever realize it, the third axis of encoding is in the electric
+potential of the stud. Although the human body is poorly suited to the task,
+your long study has made you sensitive to this dimension as well. With that
+extra information and your encyclopedic knowledge of Yi technology, you can
+hazard a guess about many of these controls.
+122072: Although you could touch more than one stud at a time, you couldn't
+possibly align your energies through more than one at once.
+122232: Activating this stud will bring up a large display on which will be
+shown what you imagine must be a detailed description of the purpose behind
+Yi-Lono-Mordel and information on how to use it--none of which would do you any
+good, since you can not read Yi writing.
+122416: You are not certain that this is the information it displays, but you
+did activate and then deactivate this stud several months ago, so you are quite
+positive about it being full of Yi text.
+122548: This is the only stud you were able to activate when you were here
+before, and you are positive that it will produce the information Cheryl's
+looking for--which would make her bring today's session to a halt. It might be
+enough information for her to figure out what this place is; if so, you'd never
+get a chance to try again. So you better not activate it unless you've got
+122832: The projection of the information screen fades away.
+122868: Cheryl turns to face you, anger flooding her face.
+122908: "Damn you, Tolan, what the hell are you doing?"
+122946: "I've had more than enough of your games, Tolan." She draws her laser
+pistol and points it at you. "I guess it's back to the brig with you."
+
+Back to
+the brig, and then worse, no doubt... and the end of all your plans.
+123112: A large display appears on the right wall of the room, filled with line
+after line of Yi text.
+123208: turns to look at the display. "That's it! You've found it. Wonderful!"
+She walks over to take a closer look at it. "Oh, Tolan, I think the first word
+is 'humans'! I think this might be addressed to us! The first ever
+communication from the Yi."
+123392: Activating this stud should power on and off all the major systems
+needed to use Yi-Lono-Mordel.
+123464: Nothing happens.
+123476: It's not going to work until you can recalibrate the ninth contact
+point.
+123528: Nope, still not working.
+123548: Nothing happens.
+123592: Given the years of disuse, perhaps the generator is in need of minor
+maintenance. You search the control surface and find
+123768: Well, maybe not until after you remove the probe.
+123804: Well, maybe not until you close the access panel.
+123840: Nothing happens.
+123852: It would be typical of the Yi to have a safety interlock which requires
+the access panel be shut.
+123920: Activating this stud powers on and off all the major systems needed to
+use Yi-Lono-Mordel.
+123986: The fusion generator pillar radiates a sequence of colors: dark red,
+deep purple, light blue, and then builds and peaks with a very bright yellow.
+124092: Cheryl's monitor hologram reveals significant electromagnetic activity
+beginning to occur within the fusion generator.
+124174: Cheryl says, "
+124228: It looks like powering up was a good place to start; that was fairly
+obvious. But you have no intuition about what to do next with a mechanism on
+this scale; the grid of stud offers thousands of studs, any of which could
+plausibly be involved.
+124400: Activating this stud ought to produce some sort of more detailed
+display of the Yi-Lono-Mordel status.
+124476: Knowing the way the Yi tend to compartmentalize knowledge, it will
+hopefully not give any detail about the point of the entire mechanism.
+124572: The installation status display fades away.
+124604: Activating this stud enables or disables a detailed display of the
+Yi-Lono-Mordel status.
+124796: Cheryl looks at the status display to see if there's anything new.
+124846: Cheryl glances at the status display.
+125032: . It probably has text that Cheryl could decipher, but hopefully it
+includes symbolic instructions
+125272: Unfortunately, Cheryl seems to be able to see the viewscreen pretty
+clearly.
+125328: The viewscreen returns to its normal display.
+125360: The viewscreen lights up, pulsing and probing energies dancing all over
+its surface.
+125420: The viewscreen lights up with a list of Yi text and corresponding
+control iconography.
+125480: You are no coward, but you know when you can use some help, so you
+always have an eye open for something like this.
+125620: --and Yi forcefields are nearly impenetrable by human technology. This
+125728: You touch your fingertip gently against the forcefield stud while
+focusing your mind to concentrate your energies through it. But you can not
+quite achieve the right electrical flow, because the handcuffs on your wrists
+short-circuit your hands.
+125896: You lower the forcefield.
+
+Cheryl levels her laser pistol at you.
+"Tolan, I don't know what you're up to, but I'm not taking any more chances
+with you."
+126010: You lower the forcefield. 
+
+Cheryl says, "Don't scare me like that,
+Tolan. We've got it all set now. We'll be famous throughout history: Cheryl
+Thadafel, the greatest Yi linguist ever, who decoded how to use Yi-Lono-Mordel
+to defeat the Lono once and for all." 
+
+Her pistol is in her hand and pointing
+at you. "Don't worry, Tolan. Your name will be right alongside mine, I imagine.
+I'm not sure whether the footnote will say this was your last act, or the first
+act of a less disreputable career; I'll leave that to the Terran Alliance to
+decide. They ordered me--ordered me--not to let you anywhere near this place,
+but I knew I could keep you in line, and of course I was right."
+
+
+Unfortunately, this was not the end you were seeking.
+126552: You watch a Yi forcefield materialize around the slab.
+126592: Activating this stud enables and disables a Yi forcefield around the
+control slab.
+126652: Cheryl notices the activity on her hologram monitor. She turns to face
+you. "Tolan, you're a dead man. I told you not to mess with anything." She
+draws her laser pistol, but hesitates. "Hell, that's a Yi forcefield, isn't it?
+Well, you can't stay in there forever."
+126848: Cheryl notices the activity on her hologram monitor. She turns to face
+you. "Tolan, if I'm not mistaken, there's a forcefield around this slab... and
+us." Her laser pistol is in her hand. "I suggest you lower that forcefield. If
+I'm forced to use this... well,
+127042: might be trapped here for a while, but the Terran Alliance will ship
+the technology to break the field eventually. So why don't you make it easy on
+the both of us?"
+
+Little choice: in death there will be no second chances.
+Unfortunately, this has tipped them off, and you'll never get a second chance
+in what's left of your life, either.
+127284: Activating this stud no doubt transmits a signal of some sort,
+presumably to the other asteroids in the Yi-Lono-Mordel installation.
+127384: Considering their ability to miniaturize, the Yi would not need an
+external transmission source; the transmitter is probably right inside the
+slab.
+127488: Knowing the Yi, the transmitter is inside the slab.
+127528: However, given the location and energy necessary, the signal it
+produces will surely be visible on Cheryl's monitor hologram or through your
+electromagnetic goggles.
+127644: Transmitting such a signal will be very visible on Cheryl's hologram.
+127696: There is no point to doing that again.
+127764: Activating this stud transmits a signal of some sort, presumably to the
+other asteroids in the Yi-Lono-Mordel installation.
+127852: Cheryl's monitor hologram lights up with a burst of radiant energy from
+the probe and from the transmission, both interfering with each other and
+masked by the surroundings of the control slab.
+
+An icon on the viewscreen
+changes subtly.
+128016: You see a large burst of electromagnetic radiation deep within the
+control slab at the same time there is a similarly-sized multicolored burst
+from the probe.
+128126: Cheryl's monitor hologram lights up in two places; a blurry blue sphere
+within the control slab, and a larger, overlapping, multicolored sphere
+centered just below the surface of the slab, but not low enough to contain the
+other.
+128290: Cheryl's monitor hologram lights up in two places; a blurry blue sphere
+within the control slab, and a larger, partially overlapping multicolored
+sphere centered just above the surface of the slab.
+128432: Cheryl's monitor hologram lights up in two places; a multicolored
+sphere for the probe and a blurry blue sphere within the control slab.
+128530: You see an enormous burst of electromagnetic radiation deep within the
+control slab.
+128592: A very bright blue ball appears on Cheryl's monitor hologram in the
+center of the control slab.
+128662: says, "What was that? I suspect that's what a signal transmission would
+look like. Don't touch a thing, Tolan." She draws her laser pistol. "Until I
+can find out what just happened, I'm sending you back to the
+brig."
+
+Unfortunately, once she finds out what just happened, they'll probably
+opt for a harsher penalty than just the brig.
+128908: Activating this stud should give you access to the fusion generator
+used to power this facility.
+129064: The elliptical pillar disappears back into the floor.
+129104: Activating this stud gives you access to the fusion generator used to
+power this facility.
+129166: You see a momentary swarming spin of energy on the floor to the right.
+129220: A pale green energy appears on the monitor hologram.
+129256: Cheryl says, "What's that? Don't touch..."
+129376: Activating this stud will hopefully provide some sort of tool for
+working on the generator bay.
+129444: This stud controls a probe storage mechanism.
+129518: Rising out of the slot is an electropulse probe.
+129580: says, "What is that? Hands off, Tolan." She grabs it as it emerges.
+129636: The probe sinks into the slot, which closes over it.
+129676: The slot through which the probe emerged closes.
+129712: Activating this stud will recalibrate the ninth contact point in the
+fusion generator bay if the contact is appropriately stimulated at the same
+time.
+129814: You are confident it will power up now.
+129848: Activating this stud would recalibrate the ninth stud in the fusion
+generator bay, but that is no longer necessary.
+130048: Activating this stud should give access to the final control system.
+130096: You are very fortunate that the Yi compartmentalize information
+displays from controls this much.
+130164: Activating this stud should give access to the final control system.
+130212: The control rods sink back into the surface of the slab.
+130252: You better not, since the cuffs will unlock, and you can't get to the
+key.
+130306: There is no room for the handcuffs in the slab, so they end up sitting
+on top of it.
+130368: This stud gives access to the final control system.
+130460: A speaker at the doorway crackles to life. "Dig Leader, some time ago
+we detected a transmission to the surrounding asteroids, and have just
+determined it came from the control room."
+130590: The voice on the speaker returns. "Also, a freighter in the area
+reports a signal was sent out to the neighboring stars."
+131252: The indicator corresponding to this asteroid on the installation status
+display turns white.
+131318: Cheryl looks at the monitor hologram in dismay, then turns to face you.
+131372: She takes off the goggles and drops them on the floor.
+131410: Cheryl says, "What are you up to, Tolan?"
+131452: She takes off the goggles and drops them on the floor.
+131490: Her laser pistol is in her hand, aimed quite steadily at you. "Well,
+Tolan, I guess you've been making more progress here then you've been letting
+on. I'm afraid I'm going to have to bring a halt to your games." She speaks
+into her communicator, summoning a contingent of guards. "I'm sorry you
+couldn't play by my rules, Tolan. We need the Yi-Lono-Mordel so badly, you know
+that. But we have to understand it before we use it. None of this
+recklessness." 
+
+Unfortunately, once they understand it, you're never going to
+get another chance.
+131884: A shimmering field of energy surrounds the slab.
+131968: Yi force field you've encountered.
+131996: At least it's working in your favor for once.
+132032: There is really nothing to be seen with the useless human visual
+system.
+132084: You cannot put anything outside the forcefield.
+132120: You are not going anywhere with that forcefield up.
+132156: The energy activity in the room drops back to the level from before you
+activated the ignition stud.
+132228: The indicator corresponding to this asteroid on the installation status
+display turns grey.
+132294: Cheryl says, "I guess even you can change your mind."
+132424: A pair of handcuffs is holding the rods together.
+132488: You have never seen anything like this in your experience with Yi
+equipment.
+132544: You touch each of the rods one at a time, but the handcuffs prevent you
+from touching both at the same time.
+132620: The rods are being held by the handcuffs.
+132652: You try to reach and touch both of the rods at the same time, but the
+handcuffs prevent you.
+132716: You push the rods, but although they do not seem immobile, they do not
+seem to be going anywhere.
+132784: Perhaps they might succomb to pressure in other directions.
+132828: The rods are being held by the handcuffs.
+132860: You try to reach and touch both of the rods at the same time, but the
+handcuffs prevent you.
+132924: You pull the rods together, towards each other, and they move until
+they are much closer.
+132988: An icon on the viewscreen changes slightly. The rods
+133128: You pull the rods together and attempt to slip the goggles on the rods,
+but the goggles cannot stretch far enough.
+133208: You better not, since you can't get to the key to lock them again.
+133256: You take the handcuffs off the rods, which return to their original
+configuration.
+133316: The rods poke up out of this thin crack.
+133344: Although the rods have a subtle electric potential, you cannot find any
+way to trigger them energistically.
+133420: The control rod seems to give fractionally; you try the other and get
+the same result.
+133484: You could do that, but it would not help at all.
+133520: The probe is sticking out of the probeslot.
+133552: This narrow rectangular slot is where the probe emerged.
+133592: That wouldn't fit in the slot that held the probe.
+133628: You put the "top" end of the probe back into the slot, leaving the
+sensors exposed. The probe is held in place firmly, but sticks up out of the
+slot.
+133760: half-meter-long rod, the electropulse probe is a common Yi device for
+working with certain kinds of Yi technology. The subtle interplay of electric
+and magnetic fields found in mechanisms can be stimulated with the probe,
+useful for detection, analysis, or calibration. At one end are two control
+sensors.
+133974: The probe is sticking out of a slot in the slab.
+134052: There's no way to make it probe repeatedly; you'll have to use the
+sensors.
+134108: You can't throw the probe through the forcefield.
+134230: Cheryl says, "You don't expect me to go get that for you, do you
+Tolan?"
+134332: Huh. Tolan, I'd never have thought you'd be one to admire beauty.
+134384: Quite neat.
+134396: It's nice, but I've seen it before.
+134424: Wow.
+134428: Hmm.
+134432: Uh huh.
+134442: The probe fires on the delay as well, with similar results.
+134488: A sharp, multi-colored burst of electromagnetic radiation pulses out of
+the tip of the probe.
+134554: A sharp, multi-colored burst of electromagnetic radiation pulses out of
+the tip of the probe.
+134672: --all but the ninth one, which stays utterly black. There is probably a
+recalibration stud for each of the contacts
+134752: amongst the giant array of controls on the slab.
+
+It is a good thing
+you got the goggles; the probe flash tends to overwhelm the details on Cheryl's
+hologram anyway.
+134874: A burst of electromagnetic radiation pulses out of the probe; Cheryl's
+monitor hologram lights up with a shimmering multi-colored sphere which slowly
+fades.
+135086: Cheryl says, "That was a strange thing to do."
+135126: Cheryl's monitor hologram lights up with a burst of radiant energy from
+the probe, just under the surface of the slab.
+135212: Cheryl's monitor hologram lights up with a burst of radiant energy from
+the probe, just at the surface of the slab.
+135336: Cheryl's monitor hologram lights up with a multi-colored iridescent
+sphere which slowly fades away.
+135408: At the same time, a number of smaller points of white appear in the
+part of the hologram corresponding to the fusion bay, but you cannot make out
+the details from here.
+135748: The top sensor will trigger the probe to fire immediately.
+135788: The bottom sensor triggers the probe to fire after a delay.
+135832: You trigger the bottom sensor, and the electromagnetic activity in the
+probe drops significantly.
+135980: The electromagnetic activity in the probe drops to ambient levels.
+136036: You've used these goggles for so long it's impossible not to think of
+them as a superior part of an otherwise inferior body. Even though the
+translation of broadband electromagnetic emissions into your visual perceptual
+system is limited by that selfsame perceptual system, it's better than nothing.
+136300: . Whorls and eddies of energy play over every surface of the room but
+the window. Although it is a far cry from being able to directly perceive this
+much of the electromagnetic spectrum, it is far, far more than you have been
+forced to live with for some time.
+
+The one drawback is that it is difficult to
+read displays, since the display spectrum is compressed to such a narrow band,
+and the display circuitry itself is exposed.
+136648: You take off the goggles, revealing the drab world of the natural human
+visual spectrum.
+136712: Cheryl won't let you get close enough to check.
+136808: . You have seen them often enough in your lifetime
+136988: You don't have anything appropriate to do that with, and even if you
+did, Cheryl would probably have something to say about it.
+137080: You don't have anything appropriate to do that with.
+137120: Cheryl would probably get annoyed with you if you tried to break out of
+them.
+137176: And she has a laser pistol.
+137196: You cannot take the handcuffs off while they're locked.
+137236: The handcuffs are locked quite securely around your wrists.
+137280: You cannot take the handcuffs off if they're locked.
+137320: Now is not the time to be fooling around.
+137352: You can't wear them if they're already locked.
+137388: They're hooked around the control rods.
+137416: You shut the handcuffs around your wrists; they lock with a snap.
+137464: You better not, since you can't get to the key to lock them again.
+137512: You unlock the handcuffs, and the rods pull apart, dropping the cuffs
+onto the slab.
+137572: It is pitch black. You might not want to do this.
+137608: You pass the sentry watching the doorway to the Yi control room, hardly
+aware of his presence, and step inside, stopping before the owner of the
+familiar, frowning face just inside. Your escorts come to a halt behind
+you.
+
+"Tolan," the tall, wiry woman says to you.
+
+You steel yourself for the
+need to speak. "Cheryl," you reply. "Dig Leader Cheryl Thadafel. I knew you
+would have need of the greatest Mechanist in the galaxy. Again." The longest
+speech ever to cross these lips?
+
+"Tolan, this is going to be on my terms, or
+not at all."
+
+You turn your empty hands face-up. "Cheryl, this is important to
+me. It is the
+138060: . Whatever the restrictions, I cannot miss this
+opportunity."
+
+"Especially if the restrictions required you be kept away from
+it. Enough. I don't have much else to work with here, do I?" As she dismisses
+the guards, you sweep your eyes about the room.
+
+Again.
+
+This time you will
+pull it off--regardless of Cheryl's desires.
+138302: EXAMINE everything to learn what the character you're controlling
+knows, even tiny objects which are unlikely to have traditional descriptions.
+
+
+The only other significant deviation of this game from typical interactive
+fiction is in communication with other characters:
+138670: If someone threatens to incapacitate you if you don't do as they tell
+you, take the threat seriously. You can always UNDO if things do go wrong; the
+game prevents you from taking actions that would require more than one UNDO to
+recover from--that is, actions that put the game in an unwinnable state.
+
+
+Hints and credits are available by typing HINT. 
+
+Remember, EXAMINE
+everything to learn what the character you're controlling knows.
+138992: The handcuffs are already holding the control rods together.
+139036: You pull the rods together and slip the handcuffs on them.
+139076: They seem to hold the rods together quite handily.
+139112: An icon on the viewscreen changes slightly.
+139144: You can't put the handcuffs on if they're already locked.
+139188: You put on the handcuffs and lock them securely.
+139224: You don't have anything to shoot with.
+139252: Cheryl says, "Don't come any closer, Tolan."
+139288: You'd better not.
+139304: Maybe if you had more than two hands you could pull that off.
+139348: You don't think talking right now would accomplish anything.
+139392: Cheryl circles the slab and gives you a look of warning.
+139432: You don't see any access to the innards of the slab, so first you set
+the probe on top of the slab.
+139504: I'm not sure what you're trying to do.
+139532: You don't have anything useful to probe with.
+139564: If you want to talk to Cheryl, use TALK or REPLY.
+139608: You'll have to explain just how you want to go about that.
+

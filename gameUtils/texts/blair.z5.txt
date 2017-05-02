@@ -1,0 +1,843 @@
+16005: Nothing to do!
+16040: o. You have won
+16124: It is now pitch dark in here!
+16151: I beg your pardon?
+16215: Sorry, that can't be corrected.
+16244: Think nothing of it.
+16297: As good-looking as ever.
+16329: You can hardly repeat that.
+16354: You can't begin with a comma.
+16468: I didn't understand that number.
+16497: You can't see any such thing.
+16533: You aren't holding that!
+16575: I'm not sure what "
+16627: That's not a verb I recognise.
+16666: You can't see "
+16774: Nothing to do!
+16791: There are none at all available!
+17701: Please answer yes or no.
+17727: Are you sure you want to quit?
+17772: Failed.
+17792: Restore failed.
+17809: Ok.
+17827: Save failed.
+17842: Ok.
+17886: Transcripting is already on.
+17952: Transcripting is already off.
+18010: Score notification on.
+18031: Score notification off.
+18054: You have visited:
+18082: Objects you have handled:
+18107: None.
+18493: You are carrying nothing.
+18542: Taken.
+18553: You are always self-possessed.
+19086: Dropped.
+19196: Removed.
+19335: You lack the dexterity.
+19416: Done.
+19682: Done.
+19893: Wrahn seem interested.
+20474: You can't go that way.
+21034: But it's dark.
+21051: You find nothing of interest.
+21087: But it's dark.
+21178: You find nothing of interest.
+22306: . Not bad.
+22324: That was a rhetorical question.
+22378: That seems unnecessary.
+22401: Keep your mind on the game.
+22426: What a good idea.
+22445: You smell nothing unexpected.
+22472: You hear nothing unexpected.
+22497: You taste nothing unexpected.
+22532: Keep your hands to yourself!
+22557: You feel nothing unexpected.
+22582: If you think that'll help.
+22691: Oh, don't apologise.
+22721: Quite.
+22790: You achieve nothing by this.
+22878: You wave, feeling foolish.
+23028: You are unable to.
+23047: Nothing obvious happens.
+23097: That's not a direction.
+23120: Not that way you can't.
+23152: Keep your hands to yourself.
+23177: You achieve nothing by this.
+23210: Futile.
+23239: You talk to yourself a while.
+23266: This provokes no reaction.
+23294: There is no reply.
+23313: Nothing is on sale.
+23332: Your singing is abominable.
+23366: Time passes.
+46458: There is no response.
+46758: The doors are open!
+46806: It's way too heavy.
+46903: Funtack is smeared all over it.
+46936: A timebomb is attached to it.
+47172: V.
+47312: What are you talking about?
+47333: No.
+47348: Nah, he'd just write you up.
+47384: What makes you think I care?
+47411: I didn't ask you.
+47483: The can is empty.
+47515: Nah. It's not worth it.
+47892: The skeleton follows you...
+48606: He is quite dead.
+48701: The wall remains unphased.
+48743: There is no point in that.
+48768: There is no reply.
+48812: Laura follows you...
+48870: Laura, politely declines.
+48962: "What do you want"
+48990: "I haven't got all day!"
+49085: What would I do with that?
+49132: You bothered me for that?!
+49172: "Sorry, I failed chinese."
+49269: "Kevin, are you a virgin?"
+49332: "Have you seen my hair grease?"
+49373: awvrv.
+Jon Link follows you...
+49567: That doesn't fit in the panel.
+49690: The display reads:
+49782: The timebomb is beeping.
+52534: An Interactive In-Joke.
+Copyright (c) 1996 by Jesse Burneko.
+52744: Score:
+52752: Moves:
+52760: Time:
+52768: You can't go that way.
+53012: [Your interpreter does not provide "undo". Sorry!]
+53100: Please give one of the answers above.
+53128: [You can't "undo" what hasn't been done!]
+53164: [Can't "undo" twice in succession. Sorry!]
+53204: "Oops" can only correct a single word.
+53232: It is pitch dark, and you can't see a thing.
+53264: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+53324: You seem to want to talk to someone, but I can't see whom.
+53368: To talk to someone, try "someone, hello" or some such.
+53408: I didn't understand that sentence.
+53468: You seem to have said too little!
+53492: You can't use multiple objects with that verb.
+53528: You can only use multiple objects once on a line.
+53564: You excepted something not included anyway!
+53596: You can only do that to something animate.
+53628: That's not something you need to refer to in the course of this game.
+53676: I didn't understand the way that finished.
+53708: Sorry, you can only have one item here. Which exactly?
+53860: Are you sure you want to restart?
+53884: The game file has verified as intact.
+53912: The game file did not verify as intact, and may be corrupt.
+53956: Attempt to begin transcript failed.
+53984: Attempt to end transcript failed.
+54008: You're carrying too many things already.
+54040: You can't put something on top of itself.
+54072: You can't put something inside itself.
+54128: You can only get into something freestanding.
+54160: But you aren't in anything at the moment.
+54192: You'll have to say which compass direction to go in.
+54232: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+54328: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+54412: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+54500: Darkness, noun. An absence of light to see by.
+54588: This dangerous act would achieve little.
+54616: Nothing practical results from your prayer.
+54648: The dreadful truth is, this is not a dream.
+54680: Digging would achieve nothing here.
+54708: You jump on the spot, fruitlessly.
+54736: You would achieve nothing by this.
+54760: There's nothing suitable to drink here.
+54788: But there's no water here to carry.
+54816: Real adventurers do not use such language.
+54848: Violence isn't the answer to this one.
+54876: There's not enough water to swim in.
+54904: There's nothing sensible to swing here.
+54932: That would be less than courteous.
+54956: Is that the best you can think of?
+54980: You lack the nerve when it comes to the crucial moment.
+55020: I don't think much is to be achieved by that.
+55052: You aren't feeling especially drowsy.
+55138: "Hello kiddies. It's me again, Dean Worsen. Enjoying the show? Well, I'm
+sorry to interrupt but I just couldn't wait to tell you all about our next
+CLASS. Here's a few scenes and a chance to AUDIT it.
+
+"Meet professor Collins,
+the head of the computer science department. He enjoys working late on the
+weekends. But this Saturday night he's going to learn his lesson because down
+in the basement the psychology department lab animals have plans of their own.
+If Dr. Collins isn't careful he may have to contend with... 
+                  
+           PARDEE ANIMALS 
+On the next Tales From The College..."
+55600: Suddenly you feel a great pain in your head. You let out a scream of
+agony as your already fractured mind splits into more pieces. Then the pain
+subsides leaving you sweat drenched, panting for breath and even less rational
+than you began.
+55770: Your hands fly to your head and your knees buckle as you experience the
+most excruciating pain that you have ever felt. Your mind has split into too
+many pieces to handle. You briefly glimpse the horizon of true insanity before
+collapsing into a pool of your own drool.
+
+"Well, kiddies, I guess you missed
+the DEAD LINE. As for me, I think it's time to SPLIT! Tata!"
+56044: "Hello, kiddies, welcome to the first ADDition of TALES FROM THE
+COLLEGE. I'm your host Mr. Worse, Dean of PERMANENT student residence. Since
+this is my FIRST-YEAR show, I wanted to show you a DOUBLE ROOM but I had
+trouble selecting a roommate. I couldn't DIFFERENTIATE between them. So,
+tonight I've decided to introduce you to Kevin Johnson. But unfortunately he's
+been experiencing a BINARY BREAKDOWN. Perhaps, you can ADVISE him or maybe all
+he needs is...A BREATH OF FRESH BLAIR!"
+
+*SNAP* That was the sound of your last
+nerve cracking. You've lived here in Blair Hall too long. The neglectful RA,
+the screams at night, the fights in the halls and the vomit in the bathroom.
+You've tolerated it all until now. But now the sight of the broken dryer has
+caused the very last ounce of tolerance you had to come smashing down. You mind
+has performed a complete register dump of it's ability to think rationally. You
+are experiencing a BINARY BREAKDOWN!
+56812: There is no reason to knock on that.
+56840: These keys are your life blood. On the ring is, your room key, your
+mailbox key, and your check point security tag.
+56932: It's your laundry basket. Isn't it cute. :)
+56972: It is in need of washing.
+56996: You rummage through your laundry and in one of your pockets you find
+your keys!
+57056: This room is supposed to be the laundry room. If not for the word of
+your RA you would easily have believed that this was the junkyard. The hallway
+is to the east.
+57172: The cause of your current mental condition is rusting in the corner. It
+looks like it has received quite a beating from some blunt object.
+57268: A broken dryer slouches in one corner.
+57296: When you press the start button the dryer suddenly begins to rumble.
+Then sparks fly from the wires everywhere and you have to duck out of the way
+in order to avoid being burned. The dryer begins to heat up and starts to glow
+with an eerie red color. After a few moments there is a loud BANG and the dryer
+begins to cool down.
+57524: You walk over to the smoldering dryer and see that it's contents has
+been utterly destroyed.
+57592: Unlike it's unfortunate companion the washer is looking quite healthy.
+57642: The companion machine, a washer, sits beside it.
+57680: It seems you have forgotten your quarters.
+57712: Why would you put that in the washer?
+57820: This is one of the small dark hallways of blair. It leads off to the
+south. To the west you can make out the laundry room.
+57908: A bulletin board hangs on the wall here.
+57936: "Announcing a special seminar for Blair residence: Coping With
+Evolution."
+57992: "Reminder: You ARE attending Lafayette College which is an institute of
+higher learning."
+58060: "Chicken worshipping is strictly prohibited."
+58096: "Notice: Until the check point security system can be fix a lock has
+been placed on the front door. Please see RA for key (in emergencies only)."
+58204: "Notice: You have classes. Go to them. If you can't remember what they
+are please see the dean."
+58276: These are the doors that leads to the outside.
+58312: Unfortunately, a large heavy chain with an even larger and heavier
+padlock is securing it.
+58376: It is secured with a sturdy femur bone.
+58404: The outside doors are closed.
+58428: The outside doors are thrown wide open.
+58456: You secure the door with they mighty femur bone!
+58492: The chain is looped through the two door handles and is sealed with a
+heavy duty padlock.
+58556: You lift the fire axe when suddenly you hear a cry for help. At first
+you think that it's one one of the residents realizing their impending fate but
+then the voice calls again and you relize that it is a woman! You can't leave a
+poor innocent woman to die in blair! You hear the cry again. It seems to be
+comming from upstairs.
+58784: You bring the heavy axe down on the chain which, in a glorious blaze of
+sparks cleanly severs it!
+58852: The chain resists your every effort.
+58880: This is more of Blair's dungeon like hallway. It continues off to the
+north and south. You see the bathroom off to the east.
+58968: You head towards the bathroom door but a grotesquely over whelming
+stench comes wafting from the door and you are repelled backwards!
+59132: This is the famous keystone pillar of Blair. You understand that Blair
+was constructed on top of a sink hole which collapsed a few years ago. As a
+result Blair shifted in such a way that it became necessary to construct this
+pillar in order to keep Blair from caving in on itself. An inscription on it
+reads: 
+                         The Keystone Pillar of Blair 
+                
+            Constructed in 1967 
+                               Paid in Part By
+
+                             Sigma, Sigma, Sigma
+59496: You smear the icky blue ooze all over the pillar.
+59532: You push the bomb against the Funtack and, amazingly, it holds!
+59580: You place the bomb against the pillar. But with nothing to hold it in
+place it just slides to the floor.
+59652: No. There's really no point in that.
+59680: No matter how hard you tug it simply won't come loose.
+59720: Try as you might the sticky ooze refuses to come off.
+59760: This door goes in and out of your Resident Advisor's room.
+59804: There is a good amount of shaving cream dripping from the door.
+59848: There is a closed door to the west.
+59876: The door to the west is open.
+59900: This rag is dripping with shaving cream.
+59928: A soaking wet rag has been tossed in one corner.
+59964: On closer examination you notice that the rag is indeed a small doll's
+dress that has been all crumpled up.
+60040: This is a little doll's dress. It is slightly sticky from the slowly
+drying shaving cream.
+60104: You slip the little dress onto the doll.
+60132: Nah. It looks so cute on the doll.
+60292: You notice he is carrying a set of keys.
+60322: The RA is lounging on the couch.
+60350: The RA begins to unbutton his pants... then he notices you.
+60398: You think the RA is doing some homework! But then you realize he's only
+making a paper airplane.
+60470: The body of your RA is sprawled out on the floor.
+60510: The door to the RA's room opens and your RA steps out into the hall. He
+takes a moment to observe the mess that has been made out of his door. Anger
+begins to rise in his eyes and he looks at you with a level of burning hate
+that only the shades who walk in hell even begin to imagine.
+
+"You did this!"
+he cries and seizes you by the neck. Your spine experiences a violent wrenching
+sensation...
+
+"Hello, kiddies, it's me again, Dean Worsen. Was that what you
+call a TWIST ending? Or did you just SHAVE the best for last? Oh well, I guess
+this has been a real BACK BREAKING experience for you. Ha ha ha ha ha!"
+60966: Off in the distance you hear a cry of anger so hate filled that waves of
+fear ride up and down your spine.
+61044: I don't know anything about that.
+61072: They are are a bit sticky with blood.
+61104: You gingerly pick up the keys, being careful to shake off as much blood
+as you can.
+61164: This is the pit they call the bathroom. The floor is a lovely light
+yellow color from the vomit stains and the sinks are shaded an odd light brown
+color. You really don't want to know what that is splattered all over the
+mirrors.
+61322: You remove the gas mask and the stench hits you like a lead pipe right
+in the stomach. You vomit into the sink and then try to reach the door as you
+begin to lose consciousness... 
+
+"Well, kiddies, that ending sure STUNK, didn't
+it? Maybe next time you'll NOSE better! Ha ha ha ha ha!"
+61536: There is a bottle of shaving cream sitting on the shelf here.
+61580: It is a bottle of Shaving Cream. It feels quite full.
+61620: You spray the thick foamy lather all over the door.
+61656: See! This game even includes the bathroom... uh... oh wait... that's the
+kitchen sink isn't it? No, don't have one of those. Sorry.
+61760: You turn the sink on. A great rush of think brown ooze comes pouring
+out. You quickly turn it off.
+61832: It is just an ordinary distorted, cracked, and stained mirror. You
+quickly look away since you can't stand the horrible inaccurate reflection of
+yourself.
+61940: This is your Resident Advisor's Room. You think you can make out what
+looks like a bed under a pile of smelly clothing. You guess that what is
+supporting that huge pile of papers in the corner is a desk.
+62088: This is a very strange looking alarm clock. It appears as though it has
+been altered incredibly. The back panel is missing and there is a jumble of
+wires, diodes, and transistors spills haphazardly out.
+62232: There are two protruding rods with rings at the end which seem as though
+there should be wires attached to them.
+62308: You have attached a capacitor to the two rods.
+62340: An alarm clock has been thrown on the floor here.
+62376: That doesn't fit in the alarm clock.
+62404: You connect the wires to the ends of the rods. The alarm clock's digital
+display flickers for a few moments and then goes black.
+62496: There is no point in removing the wires.
+62524: You flick the on switch but nothing happens.
+62556: You can't make up your mind as to which was more offensive; this pile or
+the pile in the laundry room.
+62628: Well, extrapolating from the general size and shape of the pile of
+papers you would guess that this is an ordinary desk.
+62712: I said, you THINK you see a bed there. You can't quite be sure.
+62764: It reminds you of the academic version of the Gordian Knot.
+62808: This is yet another cramped hallway of Blair. Besides the usual ambiance
+of death and decay the only thing of interest about it is that it turns west
+into a stair well.
+62924: This door goes in and out of your room.
+62952: Your door lies to the south. It is closed.
+62984: Your door lies to the south. It is open.
+63016: This odd feature of this door is the pentigram carved into it.
+63060: To the east is an odd looking door since the number has been scratched
+off and replaced with a pentigram.
+63132: A pile of wood and metal which was once the east door lies here.
+63176: You whip out your crowbar and begin to pry at the door with all of your
+force! After a few minutes there is a great cracking and snapping sound as the
+door pulls away from the frame and falls to the floor. You really hate locked
+doors.
+63340: I just want you to know that no other adventure game would have let you
+do that.
+63396: You might want to try breaking the door with something more suitable.
+63444: This is your room. But as usual you do not feel at home. You're pretty
+sure your roommate hasn't broken or stolen anything of yours while you were
+away but then again, you never can be sure. You take a moment to admire your
+side of the room. The sight of your neat and tidy bed makes you feel at ease
+for just a moment but then you accidentally glance at your roommate's side of
+the room and the shocking reality of Blair Hall comes flooding back into your
+mind.
+63764: Your bed looks warm and inviting. Unfortunately one of the symptoms of a
+binary-breakdown is insomnia.
+63836: So that's what's missing!
+63856: Oh! Whew, for a moment there you thought they were yours but then you
+realized that you have more taste than that.
+63936: A rather large book is lying on the floor.
+63968: It is titled, "Kiriyeva's Standard Encyclopedia of Lafayette College
+Computer Science Student Slang"
+64070: the condition of having ones personality split in such a way as to be
+categorized as follows: 
+
+Stage 0:                      Original Personality 
+ 
+                                    / \ 
+                                   /  
+   \ 
+                                /           \ 
+                          
+  /                \ 
+Stage 1:                Rational           Irrational 
+  
+                       / \              /   \ 
+                       /      \ 
+        /       \ 
+Stage 2:            /           \  Pure Cunning     Pure
+Psychosis 
+                Pure Logic  Pure Emotional 
+
+  People who are
+predominately left brained will tend to follow the left half of the above tree
+while conversely predominately right brained people will follow the right path
+of this tree. In the rare instances of of well balanced individuals, a tendency
+to haphazardly flip flop back and forth from path to path has been exhibited.
+These people should be considered EXTREMELY DANGEROUS 
+   Unfortunately, not
+much is known about the disease past these few stages since no individual has
+survived longer than stage two. The advancement from stage to stage varies from
+individual to individual but generally spans from 2-4 hours with death
+resulting in no more than 8 hours.
+65238: and thus the living group was renamed Sigma, Sigma, Sigma to reflect
+this observation. It is more normally referred to as Tri-Sigma.
+65352: A creature to be avoided at all costs. It is rumored that a great
+computer scientist once came up with an algorithm to deallocate this
+monstrosity from the memory of the world. Unfortunately, he died in a fire that
+consumed both him and his algorithm.
+65720: You can't seem to find an entry on that.
+65750: Your clothes closet stands in one corner to the right.
+65792: It is just the cabinet where you keep your clothes. Since your
+roommate's clothes are all over the room you sometimes wonder WHAT he keeps in
+his.
+65900: This is just your black hooded terry-cloth bath robe.
+65940: It is a small box made for containing various sewing equipment.
+65984: It is an ordinary sewing needle. It has already been threaded.
+66028: They are a good sturdy pair of scissors and nothing more.
+66068: Your roommate's closet stands in the left corner.
+66104: This is your roommate's closet. Since his clothes are outside you wonder
+what might be inside.
+66172: The skeleton is staring at you blankly.
+66200: It is an ordinary human skeleton. It stares at you in a rather
+un-nerving manner.
+66258: The skeleton steps out of the closet and stands beside you.
+66304: The skeleton stares at you blankly.
+66332: The skeleton stares at you blankly.
+66360: The skeleton stares at you blankly.
+66388: You smash the skeleton into a pile of bones, screaming "Stop staring at
+me!!!!"
+66448: You had no idea a rubber chicken mask could have such a demonic look to
+it.
+66500: You can't put the chicken mask on over the gas mask.
+66540: You remove the mask from the skeleton.
+66568: It is all that is left of the poor skeleton in the closet. Most of the
+bones are smashed.
+66632: However, a good strong looking femur bone remains intact.
+66672: This is the strongest bone in the human body.
+66704: You pull the femur from the pile of bones.
+66736: You can hardly believe the sight of this room. The walls are completely
+painted black. The walls are covered with tiny shelves. All of which are lined
+with candles. Drawn on the center of the floor is a pentigram.
+66888: It is just your ordinary five pointed star.
+66920: Kneeling before the pentigram is a being clothed in dark robes.
+66964: The dark robed figure has prostrated himself before you. He occasionally
+mumbles a chant or prayer consisting mostly of chipping or clucking noises.
+67066: The black figure turns to look at you. Hatred burns in his evil eyes. He
+cries, "Begone! Vial intruder!"  He reaches into his robes and draws out a
+blood stained meat cleaver and advances upon you...
+67214: The black robed figure looks at you. His eyes light up with wonder. He
+prostrates himself on the ground before you and says, "Oh master, my home is
+your home."
+67332: The figure then notices Link and exclaims, "Oh, master! I see you have
+brought us a sacrifice."
+
+The figure opens up a previously unseen closet and
+wheels out a very odd looking device: Two vertical wooden beams held an equal
+distance apart by two horizontal wooden beams which have holes in them.
+
+The
+figure grabs Jon Link and straps him into the device. His head clasped in the
+top beam and his feet feet secured in the lower. The figure then begins to
+mumble some kind of chant and Link begins to scream!
+
+The figure stops abruptly
+and pulls the lever attached to the device. Two glistening blades shoot across
+the horizontal beams. Link's feet tumble to the ground and his head pops off
+like a bottle cap. Blood spews from either end of his maimed causing two
+circular pools to form: one on the ceiling one on the floor.
+
+Suddenly, the red
+sticky ooze begins to change color. In moments the ruby pools have become a
+dark green swirling mist. You hear distant demonic chanting. Green shafts of
+light shoot down from the ceiling engulfing Links still twitching body.
+
+A
+great wind forms in the room. The black robbed figure is swept up into the
+green shaft of mist and light. You try to resist the whirlwinds pull but find
+it is useless. You too are sucked into the green void.
+
+The last thing you hear
+is the din of a flock of chickens clucking.
+68278: The black robed figure suddenly looks very angry! He screams,
+"Deciever!" and draws a blood stained meat cleaver from his robes. The last
+thing you remember is your blood spraying across the walls. 
+
+"Well, kiddies, I
+guess you were just too REVEALING. Or maybe you were just too CHICKEN to finish
+the game. Oh, well, better CLUCK next time. Ha ha ha ha!"
+68552: Lying in the center of the pentagram is a rubber chicken idol.
+68596: The rubber chicken feels oddly icy in your hands. The way it seems to
+stare at you is slightly disturbing as well.
+68676: Behind the pentagram stands a pedestal engraved with dark evil symbols.
+68728: The symbols on the pedestal resemble barn yard animals in twisted evil
+positions.
+68784: An evil looking black book lies open on the pedestal.
+68822: It is dark leather bound book entitled: "Voodoo For Dummies". The book
+contains many spells, incantations and hexes but the only thing that catches
+your eye is a lesson in voodoo dolls. It reads: 
+
+                  1) Find a
+suitable doll. 
+                  2) Soak it in leopard saliva. 
+              
+   3) Dress it in the victims anger. 
+                  4) Find a suitable
+torturing device. 
+                  5) Torture doll.
+69140: Against the back wall is a large poster of Foghorn Leghorn. It is
+surrounded in a black border and black candles illuminate his arrogant beak
+giving him the appearance not all unlike Richard III
+69276: Looking at it makes you shudder.
+69300: As you peel the poster from the walls a horrid blue ooze comes seeping
+over from around the sides and crawls down the wall. It slithers to you and
+finally comes to rest inches from your feet.
+69432: Funtack is that amorphous blob that claims to be able to hold posters to
+walls. Unfortunately this rarely is the case. It is rumored that a chemistry
+professor was on the verge of proving that funtack is indeed the closest thing
+to primordial-ooze left on earth. However this professor died of a heart attack
+induced by a poster which fell on him in the middle of the night.
+69688: This is a dark and dingy stair well. A set of stairs do lead up and you
+can return to the hallway to the east.
+69764: You are at the top of the stairs. Another dark hallway is to the east.
+69816: As you enter the stairwell you hear a noise behind you. You look back
+and see that the surviving inhabitants of Blair have gathered near the broken
+wall. They do not look happy. Suddenly, they scream in rage and come charging
+down the hall after you!
+69990: The inhabitants of Blair have caught you. They drag you away to one of
+the dark holes of a room. You are then strapped down to a table and you feel
+the ropes cutting into your arms. The many hidous faces look down upon
+you.
+
+Suddenly, there is a loud boom, followed a sudden rush of heat and pain.
+Your last thought is of Laura.
+70224: The thronging mass of Blair inhabitants appears to you as a single
+multi-headed creature screaming only for your blood!
+70308: The Blair inhabitants are in pursuit behind you!
+70344: The Blair inhabitants are in pursuit behind you!
+70380: The Blair inhabitants are getting closer!
+70412: You can almost feel the inhabitants' angry breath down your neck!
+70460: The inhabitants are nearly here! You can see them reaching out for you!
+70512: You better do something quick! The inhabitants are right on top of you!
+70564: Through the doors you can see the inhabitants approaching!
+70604: The inhabitants are a lot closer to the door now!
+70640: The inhabitants have almost reached the door. In just a moment they will
+be here!
+70700: The inhabitants slam into the locked door but the mighty femur holds!
+Inside you can hear their hellish screams and cries!
+70784: The inhabitants flood out into the street. They grab you and lift you up
+over their shoulders. They begin to march away with you. In the distance you
+hear a great explosion but it is drowned out by the chanting inhabitants, "Kill
+the beast! Kill the beast!"...
+70972: You can't do that to the inhabitants!
+71000: This is once again a dark and dingy hallway of Blair which continues to
+be a dark and dingy hallway off to the north. To the west is the stairs.
+71100: The only thing of interest is the sign which reads, "Beware Of Cat".
+71152: On the east wall there is a closed door. A sign hangs on it which reads,
+"Beware Of Cat".
+71220: The door to the east is open.
+71242: You tentatively open the door. Suddenly something strikes you hard in
+the chest and you fall to the ground. When you land you feel a heavy weight
+come down on top of you. You open your eyes and have just enough time to see
+the face of a hungry leopard before it claws them out. 
+
+"Hello, kiddies, I
+must say that wasn't exactly a PURRfect ending. In fact, it was an absolute
+CATastrophe. Maybe next time you'll do a LITTER better. Hahahahahahahahahaha!"
+71576: This room is a mess. Everything in it has been chewed to bits. One of
+the things that you contentedly notice is that fresh blood has been splattered
+all over and a few indistinguishable chunks of human (used loosely) flesh have
+been thrown about.
+71748: You notice that it has a pained expression on it's face. Like it
+recently ate something that didn't agree with it.
+71828: A large spotted cat is lying in a corner of the room.
+71868: The cat yawns a great toothy yawn at you.
+71900: You feel no remorse.
+71916: A chewed up doll lies one corner of the room.
+71948: The doll has a little name tag. It reads: 
+
+                Molly 
+
+It
+looks as though some monstrous creature has had part of it for breakfast.
+72052: It is wearing a shaving cream soaked dress.
+72084: You torture Molly for a bit. Although fun, nothing obvious happens.
+72134: As you joyfully plunge the scissors into sweet innocent Molly's body you
+hear a far off wail of a tortured mind, body and soul followed by a hollow
+thud.
+72244: As you joyfully plunge the scissors into Molly's body, the RA sits up
+and clasps his chest as if in great pain. You withdraw the scissors and again
+plunge them into the sweet Molly's body. This time blood spews from the RA's
+mouth, forever staining the carpet with a deep crimson hue. Once again you
+withdraw and once again you plunge the pointed instrument into Molly's body.
+The RA lurches forward screaming for gods mercy and collapses into the
+spreading pool of his own blood.
+72584: Beside the body you see a set of keys.
+72612: The body of your RA is lying face down in a pool of blood.
+72656: This is more of the never ending small and dim corridor. To the west is
+the lounge.
+72716: The hallway abruptly ends (so I lied about it being never ending) in a
+brick wall that you have never noticed before.
+72798: An odd message has been scrawled across the wall in white chalk:
+
+      
+            Three, six, nine, 
+                   The goose drank wine. 
+      
+            The monkey chewed tobacco 
+                   On the street car
+line. 
+                   The line broke 
+                   The monkey got
+choked 
+                   And they all went to heaven 
+                   In a
+little row boat. 
+
+For an instant you think you hear someone calling for help
+from behind the wall.
+73144: The wall has been smashed to pieces.
+73172: You claw at the wall for a while screaming, "Let me out! Let me out!"
+and then realize that you ARE on the outside of the wall.
+73268: You attempt to pry the bricks apart with the crowbar but you can't seem
+to get a good hold on them.
+73336: You begin to hack away at the wall with the fire axe. In a few moments
+you have cleared away most of the wall.
+
+From the newly formed hole steps one
+of the most beautiful women you have ever seen. Her deep green eyes sparkle
+like jade stone in moonlight. Her long silky blond hair flows like a river of
+molten gold. Your eye follows the curve of her body like a lion stalks it's
+prey.
+
+Suddenly, she speaks to you, "Thank you for saving me! Last night I was
+walking home and and out of the darkness came these horrible shadowy creatures.
+They grabbed me and brought me to this horrid place. And then they...then
+they... the bricked me up behind this wall! Oh, forgive me, my name is Laura."
+73824: You can't quite tell, but you think you hear something...moving.
+73872: It is an ordinary Blair door; rusty on it's hinges and streaked with the
+residue of weekends past.
+74016: A large mean looking resident opens the door. He steps into the hall and
+asks, "What do you want?"
+74088: Her beauty is beyond words.
+74108: Laura is looking at you with that lost look that says, "Help me, you big
+strong man, you."
+74176: "Let's talk latter. For right now can we just get out of here?"
+74224: You wrap your arm around Laura's waist and pull her to you. You then dip
+her over backwards and thrust your tongue between her slightly parted lips. You
+are reminded of of chocolate syrup on a creamy sundae.
+74368: Kevin, you may be going crazy but you are still a gentleman!
+74412: This is a very scary looking student. His head is shaved and he has a
+schwastika tattooed on to his arm.
+74484: A resident of Blair is looking at you expectantly.
+74622: He then goes back in his room and closes the door.
+74660: "Well? What are you waiting for?"
+74688: "Are you just gonna stand there and gape?"
+74720: "So? Why'd you knock on my door?"
+74748: You begin to raise the crowbar but then think better of it. Too many
+witnesses.
+74804: You raise the crowbar above your head and bring it down with a mighty
+blow! Blood spurts from the resident's head! You feel new found power and
+repeatedly raise the crowbar and bring it down heavily. Buckets upon buckets of
+blood splash the walls and your clothes. A manic laugh escapes from you as the
+thick red ooze drips from the tip of the crowbar. The dryer is avenged.
+75064: He looks pretty big. You might need something more.
+75160: I don't know anything about that.
+75184: "I don't have time to talk about that!"
+75216: "What? Do I look like your slave?"
+75244: The resident stops you. "Hey, you knock on my door and now you won't
+tell me what you want?"
+75312: A bloody pulpous mass spreads across the floor.
+75348: At least he knows how the dryer feels.
+75376: This is the lounge. Of course that is if you define a lounge as a place
+to store broken furniture. The hall is to the east.
+75464: Jon Link is chattering away at you.
+75492: Jon Link is smelly, ugly, loud, obnoxious and generally unpleasant.
+75542: "You know, Blair's kind of homey if you think about it..."
+75590: "The other day a friend of mine was telling me about Fortran++"
+75642: "And then she says, 'Not me too!' He he he he he. Get it?"
+75692: "You know I wish I could remember what room my friend lived in."
+75740: "I run the radio station on this campus, you know?"
+75780: "So what are you doing tonight. Can I come along?"
+75820: "Do you know the difference between two women having sex and a peanut?"
+75872: "I saw this really stupid movie with John Cleese in it. It was called,
+'How To Irritate People.'  I didn't get it at all"
+75966: Link looks at the door and considers it for a moment. His eyes then
+light up and he says, "Yeah, this is where my friend lives. I can't believe I
+couldn't remember that. Heh heh he he."
+
+Link then opens the door and steps
+inside. For a few seconds there is only silence. Then a high pitched shriek
+pierces the air! It is soon drowned out by a deep guttural roar! All sounds
+then fade into a juicy cracking and crunching sound.
+76272: "Oh! Happy Happy Happy Happy Jon!"
+76304: Jon is too busy talking to listen to you.
+76336: Nah, that would be too good for him.
+76364: Try as you might Link won't stop talking long enough for you to get a
+word in.
+76420: You can't get a word in edge wise.
+76448: You take a moment to vomit at the thought.
+76480: Link pays no attention and just keeps talking.
+76512: It looks as though the television has suffered the same horrible fate as
+the dryer downstairs.
+76632: However, you do notice a loose panel on it.
+76664: These wires are all attached to a black box. When you touch two wires
+together they spark indicating that the black box is probably some kind of
+capacitor which still has some charge in it.
+76796: Of all the things you have seen in Blair this one takes the cake. The
+walls of this room are covered with posters of Nazi Germany propaganda. The
+room is near wall-to-wall war equipment.
+76928: Tossed in one corner of the room is a gas mask.
+76964: Hmmmm.... It looks like it would fit you perfectly.
+77004: You can't put that on over the chicken mask.
+77036: Tucked away under the bed you see several, tightly packed sticks of
+dynamite.
+77092: It is a pack of about twenty sticks of dynamite set into a black box.
+The box has a square hole in it that looks like some kind of socket. The
+possibilities flood into your mind.
+77216: The wires seem to "click" into place very nicely. However, something
+still seems to be missing so you take them out again.
+77304: The alarm clock slides into the hole. However, nothing seems to be
+securing it so you remove it.
+77472: That doesn't seem to fit in the hole very well.
+77508: These have got to be worth something, somewhere.
+77544: Grenades, Uzis, Automatic Rifles, you name it, it's here.
+77592: It seems you have built yourself a nice a little timebomb.
+77634: Your time to reach minimum safe evacuation distance has expired. Issuing
+detonation initialization sequence, now. Detonation initialization sequence
+completed. Detonating.
+77758: You hear a great rumbling noise which is followed by a flash of bright
+blinding light and searing heat...
+
+"Well, goodness, gracious, great balls of
+FIRE, kiddies. That certainly wasn't a very COOL ending. Maybe this game is
+just ASHing too much of you. Are you feeling the HEAT yet? Ha ha ha ha ha!"
+78402: RY it. Ha ha ha ha!"
+78420: There is a great blinding flash of light followed by a terrible rumbling
+noise! The ground shakes and the sky goes dark with flying dirt and
+rubble.
+
+When the light fades Blair Hall lies in ruins. Broken glass, chunks of
+concrete and body parts lie scattered about. You take a moment to catch your
+breath. You finally have a moment of peace and sanity.
+
+You then walk out,
+limping, sweat drenched and panting, among the chaos. Then,
+78758: you exclaim "Blair Hall is no more! And no more shall it's evils shadow
+over this campus! No longer need freshman males fear to be unwilling sentenced
+to an unjust housing assignment. The evil is over! Do you hear me world? The
+evil is over!"  You fall to your knees, tears of joy, fear and uncertainty
+forming in your eyes. Again you mumble, "Over."
+79016: Laura puts a comforting arm around your shoulder.
+79052: In the distance you hear the sound of an approaching siren. 
+
+"Hello,
+again kiddies, it's me again, Dean Worsen. That's what I would call an
+EXPLOSIVE ending! It certainly brought tear GASSES to my eyes. I hope you've
+enjoyed the LESSON. I certainly did, which is more than I can say for poor
+Kevin Johnson. Last I heard he was recovering from his BINARY breakdown quite
+nicely. Well, kiddies, it's time for me to take a SABBATICAL. Tata! Ha ha ha ha
+ha ha!"
+79412: You notice that the buttons which control the actual time seem to be
+broken. The only thing you can do is turn it on or off.
+79500: Perhaps you had better find a more strategic place to put it first.
+79546: As you press the on button the display flickers and a soft feminine
+voice says, "Activated."
+
+A Sudden instinct in you cries, "Duck!" and you just
+barely avoid having your head cut off by a heavy fire axe! You turn around and
+see a wild and crazed looking resident. He is wielding an axe and the look in
+his eyes cry murder!
+79780: As you press the off button the soft feminine voice responds, "The
+cancel detonation feature has been deactivated. To override this setting
+consult Chapter 12 Section 9 of your timebomb users manual or call technical
+support at 1-800-STOP-BOM.
+79992: The maniac has a crazed look in his eyes that scream, "kill, Kill,
+KILL!"
+80052: He is wielding a heavy fire axe in your direction.
+80088: He reaches out to you with his bare arms clasping for your throat!
+80136: The maniac swings at you with the axe but you manage to duck away!
+80184: You feel an icy breeze go over your head as you dodge another axe blow!
+80236: You are almost blinded by plaster dust as the maniac's axe cuts into the
+wall!
+80290: The maniac raises the axe the above his head. You try to side step his
+attack but you aren't quick enough. He brings the axe down and plants it square
+in the chest. Your back arches with pain and a great spray of blood bursts
+chest...
+
+"Heh heh, well kiddies, I guess in a way you could say you
+were...AXING for it. Or may be you're just not CUT out for this job. Ha ha ha
+ha ha ha!"
+80572: You manage to dodge the maniacs groping hands.
+80604: The maniac grabs hold of your arm but you are able to pull away!
+80648: The maniac swings his arms at you but you avoid them.
+80686: The maniac gets a hold of your throat! You feel his tightening grasp
+cutting off your air supply. You put in a few last feeble attempts to break
+free as you gasp for your last breath of air...
+
+"Well, kiddies, maybe you will
+never GASP the solution. Next time you should leave yourself a little more
+BREATHING room. Ha ha ha ha ha!"
+80932: You swipe at the maniac with your crowbar! Unfortunately, he counters
+with his axe and in a shower of sparks cuts the crowbar clean in two!
+81028: The maniac catches hold of your crowbar and wrenches it from your hands!
+He then bends it with his bare hands and tosses it away!
+81120: You swing the axe with all your might and in one smooth motion sever the
+maniacs head from his body! A great spray of blood shoots from the twitching
+torso splattering the dingy walls with a coat of crimson fluid as the head
+rolls down the hall.
+81288: You flail out at the maniac but he dexterously dodges your blows.
+81336: "Questions! That all they ever do is ask me questions!"
+81380: The maniac just stares at you with more hatred than ever!
+81420: You turn to run but the maniac moves to block your path!
+81460: It is just an ordinary heavy duty fire axe.
+81492: You grab hold of the axe and wrestle it away from the maniac!
+81536: Blood oozes on to the floor from the stump and there is still the
+occasional twitch.
+81596: The maniac's decapitated body is sprawled on the floor.
+81636: The maniac's head bares an expression of shock and horror. Blood still
+drips from the ragged neck.
+81708: The maniac's head has come to rest here.
+81740: You bath yourself in the warm rays of the sun. It feels as if you have
+not been outside in years. The fresh air smells as sweet as roses in the
+spring. Unfortunately, you are still in the shadow of the hideous Blair
+building which is south of you.
+81912: What? And miss all the fun?
+81936: There is no way you are going back in there!
+

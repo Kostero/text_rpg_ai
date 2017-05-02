@@ -1,0 +1,335 @@
+12108: There is no reply.
+12176: Nothing is on sale.
+12634: Dropped.
+12691: . Not bad.
+13819: Wrahn seem interested.
+14334: Done.
+14383: You are carrying nothing.
+14468: Keep your mind on the game.
+14493: You hear nothing unexpected.
+15557: But it's dark.
+15574: You find nothing of interest.
+15602: Quite.
+15632: Nothing to do!
+15667: o. You have won
+15749: It is now pitch dark in here!
+15776: I beg your pardon?
+15840: Sorry, that can't be corrected.
+15869: Think nothing of it.
+15922: As good-looking as ever.
+15954: You can hardly repeat that.
+15979: You can't begin with a comma.
+16093: I didn't understand that number.
+16122: You can't see any such thing.
+16158: You aren't holding that!
+16254: That's not a verb I recognise.
+16292: You can't see "
+16402: Nothing to do!
+16419: There are none at all available!
+16830: That was a rhetorical question.
+16857: Score notification off.
+16880: Score notification on.
+16909: Objects you have handled:
+16934: None.
+17407: You have visited:
+17601: You are unable to.
+17620: Nothing obvious happens.
+17670: That's not a direction.
+17693: Not that way you can't.
+17840: You lack the dexterity.
+17921: Done.
+17969: Please answer yes or no.
+17995: Are you sure you want to quit?
+18154: Removed.
+18185: Failed.
+18204: Restore failed.
+18221: Ok.
+18231: You achieve nothing by this.
+18263: Save failed.
+18278: Ok.
+18385: There is no score in this story.
+18423: Transcripting is already off.
+18489: Transcripting is already on.
+18555: But it's dark.
+18675: You find nothing of interest.
+18975: Your singing is abominable.
+19009: You smell nothing unexpected.
+19036: Oh, don't apologise.
+19064: Keep your hands to yourself.
+19089: You achieve nothing by this.
+19318: Taken.
+19329: You are always self-possessed.
+19852: You taste nothing unexpected.
+19886: You talk to yourself a while.
+19913: This provokes no reaction.
+19939: What a good idea.
+19965: Futile.
+19994: Keep your hands to yourself!
+20019: You feel nothing unexpected.
+20044: If you think that'll help.
+20290: Time passes.
+20314: That seems unnecessary.
+20410: You wave, feeling foolish.
+23533: [Advanced to "noun" token:
+50443: That is Wristslitter's function.
+50577: You have no olfactories.
+50618: But you might rust!
+50641: You wish.
+50971: You parry the red robot's blow!
+51420: " of "
+51458: " list of "
+51538: " has no "time_left" property
+51568: The object "
+51627: The room "
+51641: " has no "description" property
+69929: Trace off.
+70999: Nothing is in scope.
+71128: This is boxing, not a duel.
+71190: How unsporting!
+71229: You don't swing that way!
+71483: No, the robot. Not the crowd.
+71632: The baker is glad you like it.
+71711: Leave the bell alone.
+72134: Michael C. Martin
+72209: Don't get too hasty.
+72242: You never know what hit you.
+72263: Who do you want to distract?
+72295: You quietly swear revenge.
+72389: Who do you want to talk to?
+72426: You can't even lift yourself.
+72454: Try punching the robot, perhaps.
+72494: That's the general idea, yes.
+72522: Your magical powers are spent.
+72570: " you say.
+
+"
+75177: in" or "notin
+75193: opmhas" or "hasnt
+75335: }" at end of "objectloop
+77464: An Interactive Boxing Match
+by Benjamin Mullins.
+77660: Score:
+77668: Moves:
+77676: Time:
+77684: You can't go that way.
+77792: Violence isn't the answer to this one.
+77820: This dangerous act would achieve little.
+77848: I don't think much is to be achieved by that.
+77908: Digging would achieve nothing here.
+77936: There's nothing suitable to drink here.
+77964: That would scarcely empty anything.
+77992: You can only get into something free-standing.
+78064: But you aren't in anything at the moment.
+78096: But there's no water here to carry.
+78152: You can't put something inside itself.
+78180: You jump on the spot, fruitlessly.
+78208: You would achieve nothing by this.
+78260: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+78356: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+78440: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+78552: You see nothing unexpected in that direction.
+78816: Please give one of the answers above.
+78844: [You can't "undo" what hasn't been done!]
+78880: [Can't "undo" twice in succession. Sorry!]
+78920: "Oops" can only correct a single word.
+78948: It is pitch dark, and you can't see a thing.
+78980: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+79040: You seem to want to talk to someone, but I can't see whom.
+79084: To talk to someone, try "someone, hello" or some such.
+79124: I didn't understand that sentence.
+79184: You seem to have said too little!
+79208: You can't use multiple objects with that verb.
+79244: You can only use multiple objects once on a line.
+79280: You excepted something not included anyway!
+79312: You can only do that to something animate.
+79344: That's not something you need to refer to in the course of this game.
+79392: I didn't understand the way that finished.
+79424: Sorry, you can only have one item here. Which exactly?
+79524: Nothing practical results from your prayer.
+79580: That would be less than courteous.
+79604: Is that the best you can think of?
+79628: You can't put something on top of itself.
+79660: Are you sure you want to restart?
+79684: Attempt to end transcript failed.
+79708: Attempt to begin transcript failed.
+79736: You aren't feeling especially drowsy.
+79764: Real adventurers do not use such language.
+79796: There's not enough water to swim in.
+79824: There's nothing sensible to swing here.
+79852: You're carrying too many things already.
+79884: You lack the nerve when it comes to the crucial moment.
+79952: You'll have to say which compass direction to go in.
+79992: The game file has verified as intact.
+80020: The game file did not verify as intact, and may be corrupt.
+80064: The dreadful truth is, this is not a dream.
+80418: Best choices are all from the same group.
+80672: Try typing "showverb" and then the name of a verb.
+80736: That's said to be a sign of mental illness.
+80768: Violence is the answer to this one, but it's best to direct it
+appropriately.
+80824: Such self-absorption is unbecoming.
+80852: Impossible. Your legs have no joints.
+80880: The audience is making far too much noise to hear anything specific.
+81324: Your faith moves the crowd, who all drop to their knees as well and pray
+for salvation from Jesus Christ. The show of faith and brotherly love causes
+you to weep openly. You embrace the red robot. "Let's go have a Bible study!"
+you shout. The crowd roars its agreement.
+81516: You play a MIDI of "Shave and a Haircut".
+81552: You always make sure you're fully charged before a match.
+81592: The red robot does not accept your apology.
+81624: Real robots do not use such language.
+81652: You analyze the situation, formulating plans of attack and carefully
+considering any openings the red robot might give you. While you're doing this,
+the red robot whacks you in the head.
+81784: You are attached to the floor of the ring. There is no escape for you.
+81836: A few dents and dings from the previous rounds mar your gleaming blue
+exterior.
+81890: The red robot parries your blow!
+81916: You deal the final blow to the red robot, sending his head flying
+upwards. You wouldn't think it possible if you couldn't hear it, but the crowd
+begins to cheer even more loudly than before. The red robot's manager looks on
+in horror, quickly jumping into the ring to push his client's head back into
+place.
+
+You're quickly ushered out of the arena and to safety as the fans begin
+to mob the ring. You're taken to a waiting limo. Your manager is already
+waiting inside, grinning broadly.
+
+"Nice work, Blue. I had faith in you the
+entire time." You try to thank him, but he's too excited to listen. "I just got
+off the phone with a few contacts of mine -- y'know, in the breakfast gears
+business and stuff -- and it's lookin' very good for you. I tell you, a match
+this big, you'll be gettin' the biggest endorsement deal there ever was. We're
+both going to be rich! Let's go out to celebrate!"
+82554: As the red robot's fist connects with your face, you feel your head
+begin to jerk upwards. You don't have long to feel sorry for yourself; you
+black out shortly afterward.
+82712: Property value not routine or string: "
+82740: Entry in property list not routine or string: "
+82776: Too many timers/daemons are active simultaneously. The limit is the
+library constant MAX_TIMERS (currently
+82860: " can only be used as a player object if it has the "number" property
+83124: You are standing in the ring of one of the greatest robot boxing
+stadiums in the entire world. Thousands of screaming fans have packed the arena
+to see your match. It's time for the fight to end it all.
+83264: You are attached to the floor of the ring. There is no escape for you.
+83316: The red robot is the reigning champ of robotic boxing. No one expected
+you to hold your own against him, but you're no pushover; you've given him a
+run for his money.
+83436: The red robot stares at you intently.
+83464: You have to wait for the match to start, or else you'll be disqualified.
+83516: Those kinds of robot fights were outlawed years ago.
+83552: You don't dig the red robot at all. He is your eternal foe.
+83596: You point and shout, "Hey, look! Behind you! Something cool!"
+
+It
+doesn't work.
+83660: You have to wait for the match to start, or else you'll be disqualified.
+83712: Those sorts of moves are strictly prohibited.
+83744: The red robot just looks at you. What a jerk!
+83780: The red robot ignores you completely. How rude.
+83816: He doesn't want it. Has he no respect for the power of croissant?
+83864: this violence is senseless. Why can't blue robot and red robot coexist
+in harmony?
+83922: You reach out to embrace your red brother. Unfortunately, it appears he
+does not share your pacifist views. While you're vulnerable, he pummels you
+mercilessly.
+84040: The audience is packed into every available seat in the stadium, with
+plenty more sitting in the aisles. They're watching you intently, and making
+quite a commotion.
+84156: You'd better not. Your manager is still making payments on the loan he
+had to take out to pay the settlement from the last time.
+84248: You forgot to bring your flamethrower.
+84276: You dig the audience members that cheer for you, anyway.
+84316: Save it for after the match, Romeo.
+84344: You give the audience a smile and a wave, to the excited cheers of your
+fans. You imagine they'll all be telling their friends when they get home,
+"Blue waved at
+84460: You shout something to the audience, but they can't hear you over all
+the racket in the stadium.
+84528: You throw the croissant to a young lady in the audience. She is overcome
+with joy and begins screaming to her friends about her new treasure.
+
+Being
+famous is awesome.
+84648: You shouldn't have any other items to give. This is a bug.
+84690: A little girl in the front row bellows with rage. "The robot requires
+additional pummeling! Continue!"
+84768: The crowd screams with pleasure.
+84794: The audience roars with approval.
+84822: A man in the audience yells, "Knock his block off, Red!"
+84870: A woman seated behind you yells, "Go Blue! Kill that red bastard!"
+84926: The crowd holds its breath in anticipation of your next moves.
+84976: A warm, flaky croissant, engineered for tastiness. It was given to you
+by a kindly French baker.
+85048: How can you even think of doing such an injustice to this marvelous
+croissant?!
+85104: That is the duty of a lowly kitchen bot.
+85132: You throw the croissant to the floor and stamp on it in disgust. You
+barbarian!
+85188: You throw the croissant to a young lady in the audience. She is overcome
+with joy and begins screaming to her friends about her new treasure.
+
+Being
+famous is awesome.
+85308: You are filled with the terrible power of French baked goods!
+85352: It rings when the match starts. That's about all there is to it.
+85398: The bell rings! The match has started!
+85430: Four rounds have gone by. You and the red robot have remained neck and
+neck for the lead, with two wins each. The robot that emerges victorious in the
+fifth round will become Champion of Robotic Boxing, with all the praise and
+adulation that title implies. 
+
+Also, you get a pretty sweet endorsement deal
+from a leading gear manufacturer. 
+
+The final round is about to begin. Get out
+there and win!
+85820: Have you tried...
+
+...praying?
+...hugging the red robot?
+...throwing the
+match?
+...cheating?
+...thinking? ...magic word XYZZY?
+86280: With a grin, you reach forward and press the red robot's OFF button. You
+pummel him mercilessly until his head pops up. Your manager assured you that
+the judges wouldn't be able to tell it from any old knockout, but he was wrong.
+The judges quickly discover your foul play, and alert the authorities.
+86492: Yeah, you'll get you someday. Bastard.
+86522: You make only a token effort to defend yourself, allowing the red robot
+to pop your head up. It may not be a glorious way to go, but it is profitable.
+Your manager bet a ton of cash on the red robot, and you'll get your share of
+it, fair and square. There's a nice sprocket you've had your eyes on for a
+while, maybe a lube job.
+
+On your way out of the stadium, you are stopped by a
+small child. "Why'd you lose, Blue? You never lose like that. You can't have
+lost like that."
+
+Your ears burn with shame. "Shut up, kid!" you shout. You run
+to your waiting limo, and seat yourself.
+86944: I used to be a champ, and now I'm just trash.
+86980: You bury your face in your hands and sob.
+87012: It's said that that is a sign of mental illness.
+87048: Oh, come now. Are you just entering silly, implausible commands to see
+if I anticipated them? For shame, sir and/or madam!
+87138: You close your eyes in deep concentration and intone the magical word
+XYZZY...
+
+You open your eyes and find yourself in a bakery in beautiful Paris!
+The baker smiles at you and presses something into your palm.
+
+"
+87296: " the baker replies.
+
+The spell wears off, and you find yourself back in
+the boxing ring.
+87696: give" or test "has" or "hasnt" with a non-attribute on the object
+87744: , but it is longer than 2 bytes so you cannot use "."
+

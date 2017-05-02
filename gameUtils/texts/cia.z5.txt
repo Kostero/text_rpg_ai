@@ -1,0 +1,267 @@
+13714: Nothing to do!
+13749: o. You have won
+14008: Please give one of the answers above.
+14039: It is now pitch dark in here!
+14066: I beg your pardon?
+14084: dxn[You can't "undo" what hasn't been done!]
+14126: ehn[Can't "undo" twice in succession. Sorry!]
+14198: Sorry, that can't be corrected.
+14227: Think nothing of it.
+14248: "Oops" can only correct a single word.
+14282: It is pitch dark, and you can't see a thing.
+14333: As good-looking as ever.
+14357: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+14420: You can hardly repeat that.
+14445: You can't begin with a comma.
+14473: You seem to want to talk to someone, but I can't see whom.
+14548: To talk to someone, try "someone, hello" or some such.
+14616: I didn't understand that sentence.
+14686: I didn't understand that number.
+14715: You can't see any such thing.
+14742: You seem to have said too little!
+14771: You aren't holding that!
+14795: You can't use multiple objects with that verb.
+14835: You can only use multiple objects once on a line.
+14875: I'm not sure what "
+14910: You excepted something not included anyway!
+14946: You can only do that to something animate.
+14981: That's not a verb I recognise.
+15011: That's not something you need to refer to in the course of this game.
+15065: You can't see "
+15108: I didn't understand the way that finished.
+15200: Nothing to do!
+15217: There are none at all available!
+15291: Sorry, you can only have one item here. Which exactly?
+16264: Please answer yes or no.
+16290: Are you sure you want to quit?
+16326: Are you sure you want to restart?
+16358: Failed.
+16378: Restore failed.
+16395: Ok.
+16413: Save failed.
+16428: Ok.
+16446: The game file has verified as intact.
+16478: The game file did not verify as intact, and may be corrupted (unless you
+are playing it with a very primitive interpreter which is unable properly to
+perform the test).
+16608: Transcripting is already on.
+16665: Transcripting is already off.
+16714: Score notification on.
+16735: Score notification off.
+16758: You have visited:
+16786: Objects you have handled:
+16811: None.
+17197: You are carrying nothing.
+17246: Taken.
+17257: You are always self-possessed.
+17639: You're carrying too many things already.
+17817: Dropped.
+17927: Removed.
+18016: You can't put something on top of itself.
+18093: You lack the dexterity.
+18174: Done.
+18373: You can't put something inside itself.
+18464: Done.
+18700: Wrahn seem interested.
+18919: You can only get into something freestanding.
+19156: But you aren't in anything at the moment.
+19270: You'll have to say which compass direction to go in.
+19372: You can't go that way.
+19558: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+19660: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+19748: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+20222: But it's dark.
+20239: You find nothing of interest.
+20275: But it's dark.
+20366: You find nothing of interest.
+21536: . Not bad.
+21554: That was a rhetorical question.
+21581: This dangerous act would achieve little.
+21615: Nothing practical results from your prayer.
+21651: The dreadful truth is, this is not a dream.
+21688: That seems unnecessary.
+21711: Keep your mind on the game.
+21736: What a good idea.
+21755: You smell nothing unexpected.
+21782: You hear nothing unexpected.
+21807: You taste nothing unexpected.
+21842: Keep your hands to yourself!
+21867: You feel nothing unexpected.
+21892: If you think that'll help.
+21918: Digging would achieve nothing here.
+21985: You jump on the spot, fruitlessly.
+22018: You would achieve nothing by this.
+22047: There's nothing suitable to drink here.
+22080: But there's no water here to carry.
+22111: Oh, don't apologise.
+22133: Real adventurers do not use such language.
+22168: Quite.
+22179: Violence isn't the answer to this one.
+22212: There's not enough water to swim in.
+22243: There's nothing sensible to swing here.
+22307: You achieve nothing by this.
+22395: You wave, feeling foolish.
+22545: You are unable to.
+22564: Nothing obvious happens.
+22587: That would be less than courteous.
+22625: Is that the best you can think of?
+22654: That's not a direction.
+22677: Not that way you can't.
+22709: Keep your hands to yourself.
+22734: You achieve nothing by this.
+22768: Futile.
+22780: You lack the nerve when it comes to the crucial moment.
+22832: You talk to yourself a while.
+22859: This provokes no reaction.
+22887: There is no reply.
+22906: Nothing is on sale.
+22925: Your singing is abominable.
+22951: I don't think much is to be achieved by that.
+22988: Time passes.
+23003: You aren't feeling especially drowsy.
+45209: Exits are:
+45249: None!
+45364: Oh No! They've caught up to you! They pull out guns!
+45421: You think that they are on to you... You hear noises.
+45482: The door man looks at your badge and then throws you out.
+45565: You open the sculpture, and two things fall out!
+45602: You try, but you can't.
+45650: Pop! A cup of coffee comes out of the machine.
+45707: The guard won't let you!
+45749: Pop! A section of the wall opens.... 
+Revealing something very
+interesting.
+45814: You can't.
+45843: The doors slide open with a woosh!
+45870: The doors are already open.
+45930: The doors close and you feel as if the room is moving.
+Suddenly the
+doors open again.
+46006: The doors close and you feel as if the room is moving.
+Suddenly the
+doors open again.
+46082: The doors close and you feel as if the room is moving.
+Suddenly the
+doors open again.
+46156: There's no power for it.
+46246: O.K. You've opened the door.
+46273: Its locked!
+46292: You can see it has a drawer in it.
+46329: It is in the desk and locked.
+46385: Its hard.. But you break it. Two things fall out.
+46426: You try, but can't.
+46453: Its stuck!
+46473: It says:
+We have discovered one of CHAOS' secret words.
+It is: BOND007. 
+To be used in a -tasteful- situation.
+46612: R.
+46629: You drop the cup and it breaks into small pieces.
+The coffee soaked into
+the ground.
+46718: The tape is playing a message:
+
+We have uncovered a number that will
+help you. That number is:
+46792: . Please watch out for hidden traps. Also, there is something in the
+sculpture.
+46852: The screen is dark.
+46957: You already did that.
+47087: eet deep on one monitor. On the other side of the pit, you see a large
+hook.
+47142: The screen is dark.
+47186: O.K. You've opened the door.
+47213: Its locked!
+47245: Rip! The bag goes to pieces, and something falls out!
+47286: There isn't anything sharp enough.
+47317: You can't. It is too strong.
+47423: The guard looks at you suspiciously and then throws you back.
+47519: The guard takes your coffee and drinks it. He falls asleep right away.
+47578: You can't. It doesn't work.
+47619: The guard draws his gun and shoots you!
+47670: You can hear someone yawning.
+47717: The guard wakes up!
+47778: The door opens slowly..
+47799: You've got the combination wrong!
+47851: The floor is wired with electricity! You're being electrocuted!
+47923: Sirens go off all around you! Guards run in and shoot you to death!
+47980: A secret door slams shut behind you!
+48034: You cut the case and reach in to pull something out.
+48073: You try, but it doesn't work.
+48107: You can see a gleaming stone inside.
+48161: There is electricity coursing through the square! You're being
+electrocuted!
+48242: The lever goes all the way up and clicks.
+Something seems different now.
+48305: The lever goes all the way down and clicks.
+Something seems different
+now.
+48363: The lever has electricty coursing through it! You're being electrocuted!
+48469: You throw the rope and it snags on the hook.
+48587: You push the button on the box and...
+48629: There is a blinding flash!
+48664: Hooray! You've recovered the ruby!
+You win!
+48708: Nothing Happens.
+48794: You put the small capsule into the cup of steaming hot coffee.
+48855: You try to drop it but if falls into the cup of coffee!
+48916: The button on the wall goes in .....
+Click! Something seems different
+now.
+49009: Writing on wall says:
+For instructions, type 'orders' please.
+49094: Your mission is to recover a ruby that is being used in top secret
+government projects as a part in a laser projector.
+
+The ruby has been captured
+by a secret spy ring known as CHAOS. We suspect they are under cover somewhere
+in this neighborhood. Good luck!
+49292: Whoops! A trap door opens underneath you and you find yourself falling!
+49357: Nothing happens.
+51932: Score:
+51940: Moves:
+51948: Time:
+51956: You can't go that way.
+52056: You are on a busy street.
+52080: You are in the lobby of the building.
+52108: There's a button near the doors.
+52132: You are in a small room.
+52156: You are in a visitors room.
+52176: You are in a dingy anteroom.
+52196: You are in the president's office.
+52224: It looks fragile.
+52240: It looks heavy.
+52252: You are in a hallway.
+52268: It looks fragile.
+52284: You are in a security office.
+52308: You are in a cafeteria.
+52328: You are in a maintenance closet.
+52352: Its a very strong bag.
+52368: You are in a short corridor.
+52400: There is a small slit beside the door.
+52452: You are in a hallway made of metal.
+52480: You are in a small plain room.
+52504: You are in a small sound-proofed cubicle.
+52536: You are in a side corridor.
+52556: You are in the power generator room.
+52584: It says: Watch out! Dangerous!
+52608: You are in a sub-basement below the chute.
+52640: You are in the entrance to the secret complex.
+52672: You are in a secret monitoring room.
+52700: You see a room with a case on a pedestal in it.
+52784: You are on the other side of the pit.
+52812: You are in a long corridor.
+52832: You are in a narrow cross corridor.
+52860: You are in a secret laboratory.
+52884: You are in a large room.
+52904: You see a picture of a grinning jackal.
+52932: You are in a cross-examination room.
+52960: You are in the office of the chief of CHAOS.
+52996: You are in a small bathroom.
+53016: You are in the CHAOS control room.
+53044: You are near the end of the complex.
+

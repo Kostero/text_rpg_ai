@@ -1,0 +1,157 @@
+10549: Nothing to do!
+10584: o. You have won
+10668: It is now pitch dark in here!
+10695: I beg your pardon?
+10759: Sorry, that can't be corrected.
+10788: Think nothing of it.
+10841: As good-looking as ever.
+10873: You can hardly repeat that.
+10898: You can't begin with a comma.
+11012: I didn't understand that number.
+11041: You can't see any such thing.
+11077: You aren't holding that!
+11174: That's not a verb I recognise.
+11213: You can't see "
+11324: Nothing to do!
+11341: There are none at all available!
+12270: Please answer yes or no.
+12296: Are you sure you want to quit?
+12341: Failed.
+12361: Restore failed.
+12378: Ok.
+12396: Save failed.
+12411: Ok.
+12455: Transcripting is already on.
+12521: Transcripting is already off.
+12579: Score notification on.
+12600: Score notification off.
+12623: You have visited:
+12651: Objects you have handled:
+12676: None.
+13062: You are carrying nothing.
+13111: Taken.
+13122: You are always self-possessed.
+13769: Dropped.
+13915: Removed.
+14054: You lack the dexterity.
+14135: Done.
+14401: Done.
+14640: Wrahn seem interested.
+15373: You can't go that way.
+16048: But it's dark.
+16065: You find nothing of interest.
+16101: But it's dark.
+16221: You find nothing of interest.
+17502: . Not bad.
+17520: That was a rhetorical question.
+17574: That seems unnecessary.
+17597: Keep your mind on the game.
+17622: What a good idea.
+17641: You smell nothing unexpected.
+17668: You hear nothing unexpected.
+17693: You taste nothing unexpected.
+17728: Keep your hands to yourself!
+17753: You feel nothing unexpected.
+17778: If you think that'll help.
+17887: Oh, don't apologise.
+17917: Quite.
+17986: You achieve nothing by this.
+18074: You wave, feeling foolish.
+18243: You are unable to.
+18262: Nothing obvious happens.
+18312: That's not a direction.
+18335: Not that way you can't.
+18367: Keep your hands to yourself.
+18392: You achieve nothing by this.
+18425: Futile.
+18454: You talk to yourself a while.
+18481: This provokes no reaction.
+18509: There is no reply.
+18528: Nothing is on sale.
+18547: Your singing is abominable.
+18581: Time passes.
+63412: in" or "notin
+63428: opmhas" or "hasnt
+63570: }" at end of "objectloop
+65692: Score:
+65700: Moves:
+65708: Time:
+65716: You can't go that way.
+66048: Please give one of the answers above.
+66076: [You can't "undo" what hasn't been done!]
+66112: [Can't "undo" twice in succession. Sorry!]
+66152: "Oops" can only correct a single word.
+66180: It is pitch dark, and you can't see a thing.
+66212: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+66272: You seem to want to talk to someone, but I can't see whom.
+66316: To talk to someone, try "someone, hello" or some such.
+66356: I didn't understand that sentence.
+66416: You seem to have said too little!
+66440: You can't use multiple objects with that verb.
+66476: You can only use multiple objects once on a line.
+66512: You excepted something not included anyway!
+66544: You can only do that to something animate.
+66576: That's not something you need to refer to in the course of this game.
+66624: I didn't understand the way that finished.
+66656: Sorry, you can only have one item here. Which exactly?
+66808: Are you sure you want to restart?
+66832: The game file has verified as intact.
+66860: The game file did not verify as intact, and may be corrupt.
+66904: Attempt to begin transcript failed.
+66932: Attempt to end transcript failed.
+66956: You're carrying too many things already.
+66988: You can't put something on top of itself.
+67020: You can't put something inside itself.
+67048: That would scarcely empty anything.
+67104: You can only get into something freestanding.
+67136: But you aren't in anything at the moment.
+67168: You'll have to say which compass direction to go in.
+67208: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+67304: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+67388: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+67564: This dangerous act would achieve little.
+67592: Nothing practical results from your prayer.
+67624: The dreadful truth is, this is not a dream.
+67656: Digging would achieve nothing here.
+67684: You jump on the spot, fruitlessly.
+67712: You would achieve nothing by this.
+67736: There's nothing suitable to drink here.
+67764: But there's no water here to carry.
+67792: Real adventurers do not use such language.
+67824: Violence isn't the answer to this one.
+67852: There's not enough water to swim in.
+67880: There's nothing sensible to swing here.
+67908: That would be less than courteous.
+67932: Is that the best you can think of?
+67956: You lack the nerve when it comes to the crucial moment.
+67996: I don't think much is to be achieved by that.
+68028: You aren't feeling especially drowsy.
+68156: It looks to be about the length of a 100-story building on its side.
+68208: How could we achieve maximum annoyance levels if you could go anywhere
+interesting?
+68268: A small brass key lies here, smug in its inanimacy.
+68304: Upon further inspection, you see it is just a regular ol' key.
+68368: Trust me.
+68416: It looks to be about the length of a 100-story building on its side.
+68468: How could we achieve maximum annoyance levels if you could go anywhere
+interesting?
+68528: It's a rather annoying door, what with being all closed and everything.
+68580: A very big door stands closed to your east.
+68632: Boy would I be annoyed if I were you.
+68668: I guess you will need that key after all.
+68700: You're gonna need a key for this.
+68724: You appear to be about 1/4 of the way from the west end of the hallway.
+68800: How very proud you must feel!
+68824: It looks like you're about 1/4 of the way from the east end of the
+hallway.
+68880: You're at neither end of this east-west hallway, which stretches in a
+most annoying fashion in either direction.
+68958: Welcome to the Annoyomatic 2000!  Guaranteed to raise your blood
+pressure at least to a significantly unhealthy level.  Enjoy!
+69064: A hollow voice says, "Hold on, I'm on the other line."
+69124: The only winning move is...well, you know.
+

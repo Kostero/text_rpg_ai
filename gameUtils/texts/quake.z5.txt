@@ -1,0 +1,915 @@
+17061: Nothing to do!
+17096: o. You have won
+17179: It is now pitch dark in here!
+17206: I beg your pardon?
+17270: Sorry, that can't be corrected.
+17299: Think nothing of it.
+17352: As good-looking as ever.
+17384: You can hardly repeat that.
+17409: You can't begin with a comma.
+17523: I didn't understand that number.
+17552: You can't see any such thing.
+17588: You aren't holding that!
+17685: That's not a verb I recognise.
+17724: You can't see "
+17835: Nothing to do!
+17852: There are none at all available!
+18781: Please answer yes or no.
+18832: Failed.
+18852: Restore failed.
+18869: Ok.
+18887: Save failed.
+18902: Ok.
+18946: Transcripting is already on.
+19012: Transcripting is already off.
+19070: Score notification on.
+19091: Score notification off.
+19114: You have visited:
+19142: Objects you have handled:
+19167: None.
+19551: You are carrying nothing.
+19600: Taken.
+19611: You are always self-possessed.
+20258: Dropped.
+20404: Removed.
+20543: You lack the dexterity.
+20624: Done.
+20890: Done.
+21129: Wrahn seem interested.
+21920: You can't go that way.
+22595: But it's dark.
+22612: You find nothing of interest.
+22648: But it's dark.
+22768: You find nothing of interest.
+24049: . Not bad.
+24067: That was a rhetorical question.
+24121: That seems unnecessary.
+24144: Keep your mind on the game.
+24169: What a good idea.
+24188: You smell nothing unexpected.
+24215: You hear nothing unexpected.
+24240: You taste nothing unexpected.
+24275: Keep your hands to yourself!
+24300: You feel nothing unexpected.
+24325: If you think that'll help.
+24434: Oh, don't apologise.
+24464: Quite.
+24533: You achieve nothing by this.
+24621: You wave, feeling foolish.
+24790: You are unable to.
+24809: Nothing obvious happens.
+24859: That's not a direction.
+24882: Not that way you can't.
+24914: Keep your hands to yourself.
+24939: You achieve nothing by this.
+24972: Futile.
+25001: You talk to yourself a while.
+25028: This provokes no reaction.
+25056: There is no reply.
+25075: Nothing is on sale.
+25094: Your singing is abominable.
+25128: Time passes.
+28113: [Advanced to "noun" token:
+53569: " of "
+53608: " list of "
+53689: " has no "time_left" property
+53719: The object "
+53779: The room "
+53793: " has no "description" property
+72805: Trace off.
+73983: Nothing is in scope.
+75398: to check your health. Type
+75903: It's too far away.
+76257: LOADING.
+76889: You can see three Medkits here.
+77718: Oh you can't be serious.
+77846: Pvg.
+80085: You've already pushed this one!
+80417: You've already pushed this one!
+80784: You've already pushed this one!
+81469: There's lava in the way.
+81616: Sal scratches himself loudly.
+81685: Sal belches.
+81784: Sal yawns.
+81941: Wrong game, man.
+82021: Truly a king among men.
+82044: Thy lord and master.
+82101: At your ser- hey! Cut that out!
+82157: Yeah, you wish.
+82261: Stupid Fact:
+82665: I beg your pardon sir!
+82774: Attack who with what?
+83775: It's a bird! It's a plane!
+84033: LOADING GL_QUAKE.
+84087: USING LUMINANCE LIGHTMAPS.
+84156: SOUND INITIALIZATION.
+84216: INITIALIZING CORE AUDIO.
+84337: DRIVER FAILED.
+84358: BUILDING MESHES.
+84412: BUILDING ARENA.
+84464: RETICULATING SPLINES.
+87643: in" or "notin
+87659: opmhas" or "hasnt
+87801: }" at end of "objectloop
+89956: Score:
+89964: Moves:
+89972: Time:
+89980: You can't go that way.
+90312: Please give one of the answers above.
+90340: [You can't "undo" what hasn't been done!]
+90376: [Can't "undo" twice in succession. Sorry!]
+90416: "Oops" can only correct a single word.
+90444: It is pitch dark, and you can't see a thing.
+90476: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+90536: You seem to want to talk to someone, but I can't see whom.
+90580: To talk to someone, try "someone, hello" or some such.
+90620: I didn't understand that sentence.
+90680: You seem to have said too little!
+90704: You can't use multiple objects with that verb.
+90740: You can only use multiple objects once on a line.
+90776: You excepted something not included anyway!
+90808: You can only do that to something animate.
+90840: That's not something you need to refer to in the course of this game.
+90888: I didn't understand the way that finished.
+90920: Sorry, you can only have one item here. Which exactly?
+91124: Are you sure you want to restart?
+91148: The game file has verified as intact.
+91176: The game file did not verify as intact, and may be corrupt.
+91220: Attempt to begin transcript failed.
+91248: Attempt to end transcript failed.
+91272: You're carrying too many things already.
+91304: You can't put something on top of itself.
+91336: You can't put something inside itself.
+91364: That would scarcely empty anything.
+91420: You can only get into something free-standing.
+91456: But you aren't in anything at the moment.
+91488: You'll have to say which compass direction to go in.
+91528: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+91624: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+91708: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+91884: This dangerous act would achieve little.
+91912: Nothing practical results from your prayer.
+91944: The dreadful truth is, this is not a dream.
+91976: Digging would achieve nothing here.
+92004: You jump on the spot, fruitlessly.
+92032: You would achieve nothing by this.
+92056: There's nothing suitable to drink here.
+92084: But there's no water here to carry.
+92112: Real adventurers do not use such language.
+92144: Violence isn't the answer to this one.
+92172: There's not enough water to swim in.
+92200: There's nothing sensible to swing here.
+92228: That would be less than courteous.
+92252: Is that the best you can think of?
+92276: You lack the nerve when it comes to the crucial moment.
+92316: I don't think much is to be achieved by that.
+92348: You aren't feeling especially drowsy.
+92698: Best choices are all from the same group.
+92900: Try typing "showverb" and then the name of a verb.
+92936: It appears that that last blow was too much for you. I'm afraid you are
+dead.
+92992: You are in perfect health.
+You can be killed by a serious wound.
+93076: moves.
+You can be killed by a serious wound.
+93148: moves.
+You can be killed by one more light wound.
+93216: Property value not routine or string: "
+93244: Entry in property list not routine or string: "
+93364: " can only be used as a player object if it has the "number" property
+93868: thinks he managed to hurt you, but in actuality only scratched your
+armor a bit. You don't have the heart to tell him otherwise, so you act like it
+hurt really, really badly.
+93992: does no damage at all. Poor, poor doggie.
+94084: points. It's only a flesh wound.
+94140: points. It won't kill you, but you'd really rather it not happen again.
+94308: points. That could have been much worse.
+94368: points. It won't kill you, but you'd really rather it not happen again.
+94456: points. You'll be fine tomorrow, but it really smarts.
+94704: hits you right in the ear, taking it clean off. It's a good thing those
+Medkits are so effective, because you've really grown quite attached to that
+ear.
+94880: You find yourself in a room with three corridors, each leading to a
+slipgate. On either side of you are stone pyres, their flames flickering
+softly. Directly in front of you is a metal structure with the word QUAKE
+carved into it. The structure splits into three corridors, to the northwest,
+north and northeast respectively.
+95108: It's a simple enough torch, flickering quietly to itself and not
+bothering you.
+95164: This game is lit well enough as is, so you really won't be needing a
+torch. Besides, you're much too badass to let a measly Grue kill you.
+95264: It's big and metal, with the word QUAKE carved into it.
+95308: Yeah, I'd like to see you try, Hercules.
+95340: You are standing in a dingy room with flickering lights. There are tools
+everywhere and wooden planks scattered across the floor. The slipgate you
+entered through lies directly behind you to the south.
+95480: There is a small bowl of pudding sitting on the table, looking awfully
+tasty.
+95536: The pudding is white, creamy and very likely extremely yummy.
+95580: How can you have any pudding if you don't eat your meat?
+95620: The pudding is simply heavenly...it's far better than you could ever
+possibly have hoped it could be. It makes this whole adventure of yours
+worthwhile.
+95728: You emerge from the slipgate into a room with four hallways. To the
+West, a metallic frame beckons you, with bright red arrows pointing to it,
+making you wonder why on Earth someone would bother putting bright red arrows
+on a doorway. To the Northwest is an oddly shaped doorway covered in some sort
+of latticework, with checkered stone steps leading you into a gothic hallway.
+To the Northeast is a box-like doorway adorned with what can only be described
+as "Gothic Aztec" wallpaper, and a pair of pseudo-Nordic runes. And to the East
+is a plain old wooden doorway, with plain old wooden steps. You can see the
+flickering light from a torch coming down its hallway. 
+
+Directly beneath your
+feet is a metal plate with something scratched on its surface.
+
+Behind you to
+the south lies the slipgate you just emerged from.
+96300: They're bright, red arrows. Perhaps you should follow them to the west?
+96352: They're just decoration, man! Can't you find something more important to
+do?
+96408: Plain old latticework. If you want more than that, I'm afraid you'll
+have to enable OpenGL.
+96476: "Gothic Aztec" is so last year.
+96500: You have an advanced degree in Nordic languages, so it's only a trivial
+matter to read the runes that are affixed to the doorway. As you suspected,
+they don't mean a damn thing.
+96624: They're stone and you step on them.
+96650: As you enter the West portal room, the words "THIS IS THE FIRST EPISODE:
+DIMENSION OF THE DOOMED" materialize in front of you. After briefly panicking
+slightly, you continue, when all of a sudden the words, "THE MYSTICAL PAST
+COMES ALIVE..." pop up. Carefully, doing your best not to trip any more mystery
+words, you tiptoe your way into the room.
+
+The room is dimly lit, and one light
+keeps flickering on and off in a strobe effect that you find to be quite
+annoying after a few seconds. The walls are metallic and rusted, a theme you
+see repeated on the slipgate directly in front of you to the north.
+97120: Metal, rusted walls.
+97136: If the light keeps flickering like that, it's going to give you a
+migraine.
+97192: You walk past the lattice archway into a gray corridor with flickering
+torches and a checkerboard floor. As you make your way down the hallway, the
+words "THIS IS THE SECOND EPISODE: THE REALM OF BLACK MAGIC. ANCIENT CASTLES
+AND STRANGE BEASTS AHEAD..." pops into your head. There is a large metal door
+directly to the North at the end of the hallway, and the way you came in
+beckons to the southeast.
+97524: You know, if you had some giant chess pieces, this would be really cool.
+97576: The large metal door has no keyhole that you can see, nor does there
+seem to be any opening mechanism. Perhaps all you need to do is simply walk
+through it?
+97684: You walk up the rather dull wooden steps to come to a plain room with
+two flickering torches and a big pool of water in the center. As you approach,
+the words "THIS IS THE FOURTH EPISODE: THE ELDER WORLD. YOUR WORST NIGHTMARES
+COME TRUE..." appears in your mind.
+
+You find this peculiar, because as of this
+morning your worst nightmare was mysterious words appearing in your mind.
+
+The
+only path by land is the one by which you arrived here, to the west.
+98044: The pool of water looks inviting. Perhaps you should take a swim?
+98092: The pool of water sits there motionless, just asking to be dived into.
+98144: They're made of wood and you step on them.
+98174: You dive into the water, only to discover that it in fact has no bottom,
+but rather is puzzlingly suspended in mid-air. You think about this for a
+moment, before realizing that while this water may not be bound by the laws of
+physics, you are, and the next thing you know, you are falling.
+
+You land right
+on your rear, causing you no small amount of discomfort. That's sure to leave a
+mark, and it robs you of 10 hit points.
+98476: You find yourself in a circular stone room with wooden planks positioned
+around, presumably holding the ceiling (and by proxy, the water that's just
+hovering there) in place. Directly in front of you to the north, at the top of
+some plain wooden stairs, lies a small room with metal bars blocking the
+entrance. Behind you to the south lies a plain old boring (but still quite
+pretty) slipgate.
+98748: They're just plain old wooden planks. You want to know more? Install
+OpenGL and look for yourself.
+98820: You're no scientician, but something just seems odd to you about a large
+pool of water hovering over your head.
+98900: It's much too high to attempt that.
+98928: As you walk up the plain wooden stairs, the metal bars retract into
+holes in the ceiling, like some sort of medieval supermarket door. To call the
+area you walk into next a room would be a deep insult to rooms everywhere (and
+lord knows they're an easily offended lot). This closet has two very small
+bodies writhing in agony on the walls and an archaic-looking metal slipgate in
+front of you to the north. And that's it. Clearly the designers of this room
+expected you to be wowed by the aquatic passageway they installed in lieu of a
+normal door to the previous room.
+99320: As you ascend the steps to this corridor, the words "THIS IS THE THIRD
+EPISODE: THE NETHERWORLD.  PRIMAL FEAR IN A STRANGE DIMENSION..." pops into
+your head. You really wish that sort of thing would stop. It's quite
+disconcerting. 
+
+Directly in front of you, past a metal grate that flows over
+some lava to the north, lies what appears to be a thick  metal door of some
+kind. The path by which you entered lies behind you to the southwest.
+99672: It's too far down for you to reach, or else you'd have yourself a nice,
+steaming cup of lava.
+99740: It's too far down for you to reach, or else you'd have yourself a nice,
+steaming cup of lava.
+99808: It's big and metal, and is the only thing keeping you from falling to
+your certain death in boiling hot lava.
+99884: It's big and metal, and doesn't seem to have any keyhole or doorknob or
+anything else you would expect to find in a door.
+99968: As you approach the door, it opens for you automatically. How
+convenient. You continue up the stone steps to come to a rusty slipgate
+directly in front of you to the north.
+100094: does nothing for this slipgate. Whereas the other slipgates you've seen
+are intoxicatingly easy on the eyes, this one is rustic, to say the least. It
+consists of two metal grates, which are so rusted they look as if they're
+bleeding, connected by an equally ugly mass of machinery and wires. There seems
+to be a monitor of some sort in the center of the slipgate, although it appears
+to be merely painted on.
+100376: As you walk towards the door, the thick metal frames swing open,
+disappearing into the walls on either side of you. You follow the metal bridge
+around the corner and up, eventually coming to an empty and poorly lit room
+containing a single, rusted slipgate in front of you to the north.
+100572: As you walk down the northwest corridor, the phrase "THIS HALL SELECTS
+EASY SKILL" mysteriously pops into your head. Directly in front of you to the
+north is a slipgate which pulsates mysteriously. Carved into each side is the
+word "EASY". There is a stained glass window here depicting a flaming torch,
+which, in an odd bit of artistic redundancy, is directly opposite an actual
+flaming torch. The opening of the structure you came from lies behind you to
+the southeast.
+100920: As you make your way into the north corridor, the phrase "THIS HALL
+SELECTS NORMAL SKILL" manifests itself in front of you. The effect is quite
+disconcerting. To the north is a pulsating, rectangular slipgate with the word
+"NORMAL" etched on each side. To your right and left are stone carvings of some
+sort of demon. The path you followed to get here lies behind you to the south.
+101208: You are standing in a dank and disturbing corridor. Above, pinned to
+the walls on either side of you are emaciated bodies that seem to be writhing
+in agony. Directly in front of you to the north is a slipgate marked "HARD".
+101368: You are standing in a dank and disturbing corridor. The floor is
+cracked and broken directly in front of you, creating a gap that prevents you
+from reaching the slipgate at the end. As you approach the gap, the phrase,
+"THIS HALL SELECTS THE HARD SKILL" hits you like a ton of bricks. Above, pinned
+to the walls on either side of you are emaciated bodies that seem to be
+writhing in agony. You might be more comfortable going back the way you came to
+the southwest.
+101708: What are you, an idiot? That's the lava!
+101740: Hey, you were warned. It's your life.
+101772: A single gib bounces in and out of the lava, leaping up as if to grasp
+for freedom before plunging back down.
+101848: A smallish bit of meat, you stare at it in mid flight for a moment and
+wonder what miracle of physics is causing it to leap so intoxicatingly.
+101948: You grab the giblet in mid bounce. It's a bit warm, but then, that's
+the way you like your meat.
+102020: Mmm...meat. It's a bit salty and stringy, but by and large, it's some
+fine eatins.
+102084: It's lava. Orange-reddish, flowing and probably quite hot. I wouldn't
+go in there if I were you.
+102156: You bend down to take a sip of the lava (as it looks
+ever-so-refreshing), and as you cup some in your hand, you're amazed to
+discover that it's BOILING HOT LAVA, you nitwit.
+
+This brazen act of stupidity
+costs you ten points off your health.
+102336: I tell you what: if you can come up with a way to take a pit of boiling
+lava, I'll let you take it with you. I'll just wait while you come up with
+something.
+102448: What are you, an idiot? That's the lava!
+102480: Hey, you were warned. It's your life.
+102512: You scoff at the pathetic lava as you jump over to the other side. You
+can now proceed through the slipgate to the north.
+102596: You step out of the slipgate into a metallic corridor with rusted walls
+and flickering lights. On either side of you, the metal floor is raised,
+leading to an indentation in the wall, which is filled with some kind of vague
+electronics of some sort. At the north end of the room are metal structures,
+which are arranged in what appear to be steps of some kind. The only visible
+path from this room is to the west, where a thick metal door lies.
+102904: You are standing in a room with a metallic corridor containing rusted
+walls and flickering lights. On either side of you, the metal floor is raised,
+leading to an indentation in the wall, which is filled with some kind of vague
+electronics of some sort. At the north end of the room are metal structures,
+which are arranged in what appear to be steps of some kind. The only visible
+path from this room is to the west, where a thick metal door lies.
+103212: Like everything in this dank world you find yourself in, the door is an
+uninviting shade of brown. The door consists of two interlocking pieces of
+metal, which look quite heavy. It's quite likely that this is the automated
+sort of door, which is quite convenient for you.
+103400: As you peer over to take a look, the words "YOU CAN JUMP UP HERE..."
+pop into your mind.
+103476: You jump onto the indentation, squeezing yourself in it. As you
+manuever your way into the tight passageway, the words "SHOOT THIS SECRET DOOR"
+appear in your mind.
+103604: It's a rather plain looking indentation in the wall. Not nearly as
+exciting as the one on the other side of the room.
+103688: There's really no reason to get into this thing. It wouldn't be very
+comfortable. Now that right indentation...that's the money one.
+103784: These metal platforms are arranged to look like stairs. If this is a
+secret, it's clearly not a very well hidden one.
+103868: As you approach the structure, the words "YOU CAN JUMP ACROSS..."
+materialize in your mind. Looking behind you, you notice that there is a
+slightly raised portion of the floor. As you are of at least moderate
+intelligence, you take a few steps back, get a good running start, and leap
+across to the metal platform. You then walk up the virtual stairs and follow it
+around the corner until you reach a small inlet.
+104168: There's nothing here really, save for the blue armor that's floating in
+front of you. Behind you to the south lies the room you just came from.
+104268: The blue armor rotates invitingly.
+104292: You grab the blue armor and slap it on your chest. While the blue
+clashes slightly with your otherwise brown appearance, its benefits more than
+outweigh any snickers you'll hear because of it.
+104424: It really looks just like the rest of this passageway, except for the
+fact that these mysterious voices in your head are telling you to shoot it.
+104524: It's a rather plain and nondescript box containing shotgun shells.
+You'd really have been happier if there were gold doubloons back here, but hey
+-- you earned the right to be bored by this gift, dammit.
+104668: This room is really more of an inlet off the previous corridor, as it
+consists only of some metal walls, and a bright red button that is flashing.
+104768: It's a shiny red button, which blinks on and off. On. Off. On. Off. On.
+Off...
+104832: Now what would you want to do with that?
+104860: A grunt is standing here, armed with a shotgun and looking rather
+surly.
+104912: I don't think he would like that very much.
+104944: The grunt doesn't look amused at all. He has
+104980: The elevator springs to life, jerking sharply and then moving downward.
+You walk out of the elevator and find yourself in an open yard consisting of
+two patches of grass connected by a rusted iron bridge. On the other side of
+the bridge, a Grunt and Rottweiler are patrolling back and forth and they
+notice your presence pretty quickly. Above you, the sky is a peaceful shade of
+gray, with clouds moving by so fast you feel like you're watching a time-lapse
+film. To your north is the entrance to a large, metallic complex, while the
+elevator you emerged from lies behind you to the south.
+105388: The elevator springs to life, jerking sharply and then moving downward.
+You walk out of the elevator and find yourself in an open yard consisting of
+two patches of grass connected by a rusted iron bridge. Above you, the sky is a
+peaceful shade of gray, with clouds moving by so fast you feel like you're
+watching a time-lapse film. To your north is the entrance to a large, metallic
+complex, while behind you to the south lies the elevator you just emerged from.
+105708: You are standing in an open yard consisting of two patches of grass
+connected by a rusted iron bridge. On the other side of the bridge, a Grunt and
+Rottweiler are patrolling back and forth and they notice your presence pretty
+quickly. Above you, the sky is a peaceful shade of gray, with clouds moving by
+so fast you feel like you're watching a time-lapse film. To your north is the
+entrance to a large, metallic complex, and an elevator to take you back up lies
+to the south.
+106110: Above you, the sky is a peaceful shade of gray, with clouds moving by
+so fast you feel like you're watching a time-lapse film. To your north is the
+entrance to a large, metallic complex, while an elevator to take you back up
+lies to the south.
+106280: All the leaves are brown, and the sky is gray.
+106316: If I could pluck the sky down and give it to you I would, my dear.
+106364: It's a shiny red button, which blinks on and off. On. Off. On. Off. On.
+Off...
+106428: Now what would you want to do with that?
+106456: Ah...that's better. Your health increases by 20 points.
+106500: Ah...that's better. Your health increases by 20 points.
+106544: You can see a pair of Medkits sitting here.
+106576: There is a Medkit here, sitting all by its lonesome self.
+106620: Your standard issue first person shooter medkit. You don't know how it
+works, but damn does it ever come in handy.
+106700: Ah...that's better. Your health increases by 20 points.
+106744: A Grunt is on patrol here, armed with a shotgun and looking rather
+surly. As you enter the room, he looks up and turns in your direction.
+106840: I don't think he would like that very much.
+106872: The grunt doesn't look amused at all. He has
+106952: The Rottweiler, smelling the presence of fresh meat, starts running
+towards you, his tongue flapping out of his drooling mouth.
+107044: I don't think he would like that very much.
+107076: The rottweiler is angry and hungry. He has
+107108: You are standing at the entrance to what appears to be some sort of
+military complex. This room consists of thick metal walls that are covered in a
+fine, brown rust, and lumpy metal floors. Directly in front of you is a big
+hazardous materials canister. To your right is a pillar, containing several
+monitors that appear to be painted on. There is a corridor leading deeper into
+the complex to the west, and a door leading back out into the yard to the
+south.
+107424: It's probably a load-bearing column, as it clearly has no technical
+value and adds little to the overall aesthetic of the room.
+107512: Now why would you want to try a thing like that?
+107592: I don't think he would like that very much.
+107624: The rottweiler is angry and hungry. He has
+107656: A Grunt is on patrol here, armed with a shotgun and looking rather
+surly. As you enter the room, he looks up and turns in your direction.
+107752: I don't think he would like that very much.
+107784: The grunt doesn't look amused at all. He has
+107820: It's a metal canister, marked with a red hazardous materials seal. Just
+in case it wasn't absolutely obvious that you really don't want to be near this
+thing, the seal is flashing in a rather effective shade of red.
+107972: It's a metal canister, marked with a red hazardous materials seal. Just
+in case it wasn't absolutely obvious that you really don't want to be near this
+thing, the seal is flashing in a rather effective shade of red.
+108124: Do you not see the big "DO NOT TAKE THIS CANISTER YOU MORON" seal
+flashing on its side?
+108204: Your standard issue first person shooter medkit. You don't know how it
+works, but damn does it ever come in handy.
+108284: Ah...that's better. Your health increases by 20 points.
+108328: You are standing in a metal corridor consisting of several raised metal
+structures. The walls are heavily rusted, and the floor is metal and lumpy.
+There are some metal stairs in front of you, continuing the corridor to the
+north, and a path leading back to the entrance to the east.
+108580: I don't think he would like that very much.
+108612: The rottweiler is angry and hungry. He has
+108644: A Grunt is standing here, leaning against a wall, clearly sleeping on
+the job. As you approach, he wakes up and turns in your direction.
+108740: I don't think he would like that very much.
+108772: The grunt doesn't look amused at all. He has
+108808: As you enter the room, a Rottweiler that is perched on top of a metal
+structure catches your scent and begins running back and forth. There's clearly
+no way for him to reach you, but he doesn't seem to know that yet.
+108960: You can't reach him, and even if you could, he'd probably bite your
+hand off.
+109016: The Rottweiler has worked himself into a frenzy. He has
+109056: They're metal and you stand on them.
+109084: You are standing at the top of some metal stairs, facing a giant gap,
+which is filed with some brown, ugly water. There are some stairs to the north
+leading down into the water, and a path leading back to the south. On the wall
+to your right is a button that's blinking softly to itself.
+109284: The water pit is filled with a murky, pea-soup colored liquid that has
+a rather uninviting odor.
+109352: Ouch! This water hurts!
+
+You feel five health points get eaten away.
+Maybe you should consider leaving?
+109428: Ouch! You know, you will die if you don't get out of this water.
+109476: Ouch! There goes another five points...
+109508: It's bad enough to look at...you want to take it with you?
+109612: points. It's only a flesh wound.
+109668: points. It won't kill you, but you'd really rather it not happen again.
+109836: points. That could have been much worse.
+109896: points. It won't kill you, but you'd really rather it not happen again.
+109984: points. You'll be fine tomorrow, but it really smarts.
+110232: hits you right in the ear, taking it clean off. It's a good thing those
+Medkits are so effective, because you've really grown quite attached to that
+ear.
+110372: I don't think he would like that very much.
+110464: points. It's only a flesh wound.
+110520: points. It won't kill you, but you'd really rather it not happen again.
+110688: points. That could have been much worse.
+110748: points. It won't kill you, but you'd really rather it not happen again.
+110836: points. You'll be fine tomorrow, but it really smarts.
+111084: hits you right in the ear, taking it clean off. It's a good thing those
+Medkits are so effective, because you've really grown quite attached to that
+ear.
+111224: I don't think he would like that very much.
+111316: points. It's only a flesh wound.
+111372: points. It won't kill you, but you'd really rather it not happen again.
+111540: points. That could have been much worse.
+111600: points. It won't kill you, but you'd really rather it not happen again.
+111688: points. You'll be fine tomorrow, but it really smarts.
+111936: hits you right in the ear, taking it clean off. It's a good thing those
+Medkits are so effective, because you've really grown quite attached to that
+ear.
+112076: I don't think he would like that very much.
+112108: As you enter the room, you notice three Grunts that are sitting here.
+They look up at you, and seem to be quite annoyed that you have shown up like
+this, inadvertently disrupting their otherwise peaceful game of Diamondback.
+112266: Three angry grunts are here, clearly not amused by your intrusion.
+112316: Two angry grunts are here, and they ain't gonna take no guff from you.
+112368: There is one angry grunt here, who seems to be taking out his loss on
+you.
+112420: It's a shiny red button, which blinks on and off. On. Off. On. Off. On.
+Off...
+112484: Now what would you want to do with that?
+112512: You press the button, which causes a platform to slide out and cover up
+the noxious water pit. Phew. You can now continue on to the north.
+112612: You've already pushed this button!
+112640: You are standing in a straight hallway with metal walls and floor. It
+continues on to the north, or back to the south.
+112724: A Grunt is standing here, patrolling his way down the hallway. He
+doesn't seem to have noticed you yet.
+112798: The Grunt swings around and raises his shotgun menacingly.
+112844: I don't think he would like that very much.
+112876: The grunt doesn't look amused at all. He has
+112912: You are standing at the top of a ramp leading downwards to the north.
+As you approach the ramp, a light goes on above you. There is a curious looking
+red button here, blinking quietly to itself.
+113122: There is a curious looking red button here, blinking quietly to itself.
+113172: A shiny red button is sitting here, blinking to itself quietly. On.
+Off. On. Off. On. Off.
+113244: It's a shiny red button, which blinks on and off. On. Off. On. Off. On.
+Off...
+113308: Now what would you want to do with that?
+113336: As you press the shiny red button, the button turns yellow and the
+words "TWO MORE TO GO..." pop into your head.
+113424: As you press the shiny red button, the button turns yellow and the
+words "ONE MORE TO GO..." pop into your head.
+113512: As you press the shiny red button, the button turns yellow and the
+words "SEQUENCE COMPLETE!" pop into your head. In the distance, you can see
+that a door has opened up at the end of the ramp.
+113660: A Grunt is standing here, patrolling his way down the hallway. He
+doesn't seem to have noticed you yet.
+113734: The Grunt swings around and raises his shotgun menacingly.
+113780: I don't think he would like that very much.
+113812: The grunt doesn't look amused at all. He has
+113848: You are standing in the middle of a lengthy ramp that twists around and
+leads downwards to the north. As you continue your descent, a light goes on
+above you. A path back out lies behind you to the south. There is a curious
+looking red button here, blinking quietly to itself.
+114040: You are standing in the middle of a lengthy ramp that twists around and
+leads downwards to the north, or back up behind you to the south. There is a
+curious looking red button here, blinking quietly to itself.
+114184: A shiny red button is sitting here, blinking to itself quietly. On.
+Off. On. Off. On. Off.
+114256: It's a shiny red button, which blinks on and off. On. Off. On. Off. On.
+Off...
+114320: Now what would you want to do with that?
+114348: As you press the shiny red button, the button turns yellow and the
+words "TWO MORE TO GO..." pop into your head.
+114436: As you press the shiny red button, the button turns yellow and the
+words "ONE MORE TO GO..." pop into your head.
+114524: As you press the shiny red button, the button turns yellow and the
+words "SEQUENCE COMPLETE!" pop into your head. In the distance, you can see
+that a door has opened up at the end of the ramp.
+114672: A Grunt is standing here, patrolling his way down the hallway. He
+doesn't seem to have noticed you yet.
+114746: The Grunt swings around and raises his shotgun menacingly.
+114792: I don't think he would like that very much.
+114824: The grunt doesn't look amused at all. He has
+114986: There is a curious looking red button here, blinking quietly to itself.
+115118: There is a curious looking red button here, blinking quietly to itself.
+115168: You are standing at the bottom of a long and twisting ramp. You can see
+an opening in the wall in front of you to the north. There is a curious looking
+red button here, blinking quietly to itself.
+115304: You are standing at the bottom of a long and twisting ramp. The only
+perceivable path lies behind you to the south. There is a curious looking red
+button here, blinking quietly to itself.
+115436: A shiny red button is sitting here, blinking to itself quietly. On.
+Off. On. Off. On. Off.
+115508: It's a shiny red button, which blinks on and off. On. Off. On. Off. On.
+Off...
+115572: Now what would you want to do with that?
+115600: As you press the shiny red button, the button turns yellow and the
+words "TWO MORE TO GO..." pop into your head.
+115688: As you press the shiny red button, the button turns yellow and the
+words "ONE MORE TO GO..." pop into your head.
+115776: As you press the shiny red button, the button turns yellow and the
+words "SEQUENCE COMPLETE!" pop into your head. In the distance, you can see
+that a door has opened up at the end of the ramp.
+115924: A Grunt is standing here, patrolling his way down the hallway. He
+doesn't seem to have noticed you yet.
+115998: The Grunt swings around and raises his shotgun menacingly.
+116044: I don't think he would like that very much.
+116076: The grunt doesn't look amused at all. He has
+116112: You are standing in a white and utterly bare room, with no perceivable
+exit. The doorway you came in from has completely disappeared behind you. In
+fact the only thing in the room at all (aside from yourself) is a grungy
+looking chap who has his fingers tented in a Mr. Burns-esque pose.
+116312: Seeing you suddenly appear in front of him apparently comes as no
+surprise to this person, as he nods, acknowledging your presence.
+116404: Somehow I don't think that's a very good idea.
+116438: The person stands up from his chair and begins to walk around the room,
+stroking his dingy beard.
+116508: The person turns towards you and says, "I suppose you probably want to
+know what's going on here." He ponders this for a moment.
+116602: The stranger continues, "The game you are currently playing elaborate
+as it may be, is in actuality an April Fool's gag." The stranger continues to
+walk around the room.
+116726: "You see, this whole thing," he gestures around the completely empty
+white room, "is nothing more than a joke." He stops his pacing for a moment.
+"Or at least, that was the idea, anyway."
+116866: "Odd as it may seem, the idea of an interactive fiction version of the
+original Quake struck me as being a very, very funny idea. And so I created
+everything you see here. Well, not everything you see HERE, because obviously
+there's nothing to see in this room, but I'm referring to the game as a whole."
+117088: "And so here you are, having completed the entire game, as it currently
+stands. I must confess, I didn't actually expect you to get this far. But I
+suppose I underestimated you."
+117218: "So I tell you what -- you've been an awfully good sport here, and
+you've played this far without killing yourself, so I'm going to let you 'win'
+this game. For now, anyway. But hopefully you've enjoyed playing this as much
+as I've enjoyed creating it, as I do believe I will continue this project. I
+will of course confess to the portions of it that are intended to be part of
+the April Fool's gag (if you really put this in the same directory as your
+Quake PAK files, I've got a bridge to sell you."
+117582: "So thank you for playing. Be sure to check the IF Quake site
+periodically for a new release. It may take me a while, but there's a lot of
+stuff I intend to put in. Besides...you haven't even seen a Shambler yet.
+Thanks again, and good night."
+117764: The Creator is not the cleanest looking fellow you've ever seen. But he
+does carry himself in an oddly regal fashion.
+117848: The slipgate glows with an otherworldly sheen. It's really a shame you
+don't have OpenGL installed, as it's quite lovely to look at. This slipgate is
+marked "NORMAL", which would seem to suggest that it's a normal slipgate, and
+not one of those ones that, you know, kills you or Shub Niggurath or something.
+118072: The slipgate glows with an otherworldly sheen. It's really a shame you
+don't have OpenGL installed, as it's quite lovely to look at.
+118174: does nothing for this slipgate. Whereas the other slipgates you've seen
+are intoxicatingly easy on the eyes, this one is rustic, to say the least. It
+consists of two metal grates, which are so rusted they look as if they're
+bleeding, connected by an equally ugly mass of machinery and wires. There seems
+to be a monitor of some sort in the center of the slipgate, although it appears
+to be merely painted on.
+
+As you look over at the slipgate, the words "WALK
+INTO THE SLIPGATE TO START PLAYING QUAKE!" appear. Perhaps if you walk into the
+slipgate these words will stop tormenting you?
+118608: The slipgate glows with an otherworldly sheen. It's really a shame you
+don't have OpenGL installed, as it's quite lovely to look at. This slipgate is
+marked "EASY", which probably means walking through it won't be much of a
+challenge, certainly not for an experienced person like yourself.
+118816: The slipgate glows with an otherworldly sheen. It's really a shame you
+don't have OpenGL installed, as it's quite lovely to look at. This slipgate is
+marked "HARD", which means you might have some difficulty passing through it.
+Then again, probably not. It's just a bloody slipgate, not a Rubik's Cube.
+119040: The slipgate glows with an otherworldly sheen. It's really a shame you
+don't have OpenGL installed, as it's quite lovely to look at. You spend a few
+moments admiring its nicely rendered glory.
+119180: The tools and wooden planks are the usual things you'd expect to see at
+a construction site. You've seen them plenty of times before, and have no real
+need to spend any more time admiring them.
+119316: Don't you have better things to do than clean up this room?
+119360: The two pyres are made of stone, and contain a small, almost miniscule
+flame. You're not missing much by not being able to see this, believe me.
+119464: Directly in front of you, a slovenly and obese fellow wearing
+dirt-covered jeans, a stained white t-shirt and a bright red trucker hat is
+sitting at a desk fiddling with some nails and a hammer. He turns around to
+look at you, and you see that he's wearing a name tag on his chest that reads
+"Sal", which you assume is either his name, or the name of the guy he stole it
+from.
+119728: Even if you could fit Sal into your pocket, he probably wouldn't like
+the idea very much.
+119792: You don't even want to know what Sal just did. Trust me.
+119836: Sal replies, "Heys! Yous shouldn't be heres. You shoulds just goes
+backs the ways you cames in untils this here rooms is completeds."
+119936: Sal is fat, ugly, and quite possibly rather slow. He's everything you
+wish you could be.
+120808: for Registered)
+
+*** IMPORTANT!: Quake requires a floating point
+processor.
+Systems that do not have an FPU installed will not run Quake -- at
+all.
+
+Thank you,
+
+id Software, inc.
+120960: The plate is a bit blurry and rusted, but you can clearly see that the
+text scratched into its surface is pure gibberish. Perhaps some meaning lies in
+these crude scratchings, but you certainly aren't going to spend the time
+bothering to figure it out when you have all these lovely hallways to explore.
+121168: The two stone demon's heads depict an angry, horned beast, with his
+mouth agape and blood covering his lips and chin, suggesting that not only has
+he recently been involved in some sort of violent, bloody feast, but that he
+really should be properly instructed on table manners.
+121360: They're nailed to the wall. They ain't leaving without a fight, and you
+have better things to do than to try and steal someone else's demon heads.
+121464: The window is nicely crafted, if slightly dull.
+121500: The bodies are crucified to the walls on your right and left. They seem
+to be emaciated, but also rather small in comparison to your ample girth,
+suggesting that these were perhaps some unfortunate Leprechauns who had one too
+many drinks on St. Patrick's Day. Interestingly, they appear to be thrashing
+about in near unison, making you wonder if they were in fact some sort of
+synchronized agony team.
+121780: They're too high up for you to grab, and even if you could, the guilt
+you'd feel at breaking the symmetry of this display would be too much to bear.
+121884: A large and heavy weapon capable of firing nine-inch-nails out of its
+two symmetrical rectangular barrels. You wouldn't want to get one in your eye.
+121988: A nice long-range weapon. Not nearly as effective as the Super Shotgun,
+but it's effective enough for its primary purpose.
+122076: Ah, your trusty hatchet. It's purely a melee weapon, which means it's
+not really a good idea to use it when you have other options, but every now and
+then you like to get your hands dirty, and really, there's nothing more
+satisfying then the "thunk!" sound you hear when striking a blow with your axe.
+Its metal blade is caked with dry blood, although that could just as easily be
+from the peanut butter and jelly sandwich you cleaved in twain with it over
+lunch.
+122400: Your standard issue first person shooter medkit. You don't know how it
+works, but damn does it ever come in handy.
+122480: Ah...that's better. Your health increases by 20 points.
+122524: Greetings, your omnipotence. Hey, wait a minute...cut that out!
+122620: the feeling passes. I guess you're just going to have to play this the
+hard way.
+122676: "All the news that's fit to..." etcetera, etcetera.
+122716: I hear it gets you chicks. Is that true? Well obviously not, or else
+why would you be sitting here typing useless things into a Z-Machine like this?
+122824: Hey, what did I tell you about that?
+122852: You will not sue. You will not sue. You will not sue.
+122892: A bloody egomaniac who can't resist the urge to include his own name
+in...huh? Oh, I didn't say anything.
+122972: Woah. Did you feel that? That must have been at least a 3.7.
+123424: We're not worthy. We're not worthy.
+123890: om)
+
+Special thanks to Simon Carless for beta testing!
+
+Quake (c) 1996
+- 2004 id Software. You will not sue. You will not sue. You will not
+sue.
+
+--
+
+Please do not redistribute this file (either online or on physical
+media) without express permission of the author!
+
+Thank you for playing IF
+Quake!
+124120: Sal replies, "Heys! Yous shouldn't bes heres. Yous shoulds just goes
+backs the ways you cames ins untils this here rooms is completeds."
+124220: Yeah, I get those all the time too. It's best to ignore them.
+124734: om/if/quake/ or visit one of the many, many IF sites on the web.
+
+
+Interactive FictionTM: it's your friend!
+124816: What exactly would you like to jump on, and why?
+124852: What exactly would you like to jump down from?
+124884: Deciding that life isn't worth living, you attempt to snuff yourself
+out. You're new at this sort of thing, so you succeed in taking off ten health
+points, but fail in your ultimate goal of actually ending your life.
+125036: In Utah, it is illegal to detonate a nuclear weapon. Possession is
+legal, but detonation is not. Comforting, huh?
+125120: Kakorrhaphiophobia is the fear of failure or defeat.
+125156: The first United States coast to coast airplane flight occurred in 1911
+and took 49 days.
+125224: In Missouri, there is a special tax exclusively for single men. Of
+course, being only one dollar per year, some might argue the benefits are well
+worth the extra taxes.
+125344: A ball of glass will bounce higher than a ball of rubber. A ball of
+solid steel will bounce higher than one made entirely of glass.
+125436: Virginia O'Hanlon Douglas was the eight-year-old girl who, in 1897,
+asked the staff of The New York Sun whether Santa Claus existed. In the
+now-famous editorial, Francis Church assured Virginia that yes, indeed, "there
+is a Santa Claus."
+125616: Selenophobia is the fear of the moon.
+125644: Leonardo da Vinci could write with one hand and draw with the other at
+the same time.
+125704: Xanthophobia is a fear of the color or word yellow. Also known as "Alan
+Scott syndrome". (If you caught that reference give yourself +2 geek points).
+125816: The People's Republic of China recently admitted that a long-held myth
+was indeed false: the Great Wall of China can not be seen from outer space.
+125922: health points left. You might want to get that taken care of. 
+
+You
+have
+125978: health points left. Face it. You've seen better days. 
+
+You have
+126030: You are in pristine condition, with a full 100 health points. Now if
+only you didn't smell so badly... 
+
+You have
+126118: health points left. You're a little banged up, but you'll live. 
+
+You
+have
+126178: health points left. Battle scarred, but relatively healthy. 
+
+You have
+126234: health points left. You're a bit tired, but you'll live. 
+
+You have
+126288: Sal responds with a belch of his own, at least ten times louder and
+more potent. Clearly you have met your match.
+126368: Shoot what at what with what? What?
+126394: Feeling like a big man, you strike Sal, dealing him a fatal blow. Just
+before he dies, Sal cries out, "Heys...whats gives...?"
+
+Nicely done there,
+killing an unarmed slob like that.
+126536: from his health and killing him. Nicely done there, Leatherface.
+126584: from his health and killing him. Nice shootin', Tex.
+126624: from his health and killing him. Frag-tastic.
+126660: from his health and killing him. Move over, Thresh.
+126700: from his health and killing him. He never stood a chance.
+126744: from his health and killing him. You spit on his corpse.
+126784: That wouldn't be very productive.
+126808: The Creator turns towards you. "Well if you're going to act that way,
+I'll just have to take that away from you."
+126892: Hah HAH! You attack the pitiful Text File, chopping it in twain.
+That'll teach developers to include such wasteful pieces of virtual text with
+their software programs.
+127014: BLAM! You attack the pitiful Text File, blowing it to smithereens.
+That'll teach developers to include such wasteful pieces of virtual text with
+their software programs.
+127136: With a mighty blow you swing your Axe at your target. This accomplishes
+nothing whatsoever. Perhaps you should find something better to do with your
+time?
+127244: Blam! Niiice shot there homeboy. Maybe you ought to save your ammo for
+some actual enemies?
+127312: You hit the hazardous canister right on its side, causing a major chain
+reaction. Unfortunately for you, you're the only person left standing in here,
+and you're hit full-force with the explosion, causing 25 points of damage.
+127472: You hit the hazardous canister right on its side, causing a major chain
+reaction. Luckily for you, there's a Grunt here to take the brunt of the
+explosion, killing him instantly. You manage to walk away with a mere five
+points taken off your health.
+127836: You hit the hazardous canister right on its side, causing a major chain
+reaction. Thankfully, there's both a Rottweiler and a Grunt here to absorb the
+explosion, killing them both instantly, and leaving you without a scratch.
+127996: You fire at the door, which surprisingly results in some blood (or
+possibly blood-colored rust) to spatter off of it. After that moment of
+ickiness, the door moves backwards and slides into the wall, revealing a small
+alcove containing a single box. Right on cue, the words "YOU HAVE FOUND A
+SECRET AREA" pop into your head. You stifle the urge to yell out NO KIDDING
+MORON.
+128284: You already shot that door. Let's not go crazy here with the shooting.
+128336: What? You didn't actually expect that to do anything, did you? What
+kind of a game do you think this is, anyway?
+128420: You suddenly feel peculiar...is if...no...it couldn't be...yes! You can
+FLY! You can FLY! Oh, it's so beautiful up here...oh wait, no, there you
+go...sorry. Guess it was just a temporary thing, huh?
+128580: Hey you tried twice already! Stop flogging that horse.
+130140: VIDEO WAIT SUCCESSFULLY ENABLED!
+130182: GL_VENDOR: ATI TECHNOLOGIES INC.
+130354: om/
+Type "Credits" for full list of credits.
+

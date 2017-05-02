@@ -1,0 +1,206 @@
+14912: Nothing to do!
+14947: o. You have won
+15031: It is now pitch dark in here!
+15058: I beg your pardon?
+15122: Sorry, that can't be corrected.
+15151: Think nothing of it.
+15204: As good-looking as ever.
+15236: You can hardly repeat that.
+15261: You can't begin with a comma.
+15375: I didn't understand that number.
+15404: You can't see any such thing.
+15440: You aren't holding that!
+15537: That's not a verb I recognise.
+15576: You can't see "
+15687: Nothing to do!
+15704: There are none at all available!
+16633: Please answer yes or no.
+16659: Are you sure you want to quit?
+16704: Failed.
+16724: Restore failed.
+16741: Ok.
+16759: Save failed.
+16774: Ok.
+16818: Transcripting is already on.
+16884: Transcripting is already off.
+16942: Score notification on.
+16963: Score notification off.
+16986: You have visited:
+17014: Objects you have handled:
+17039: None.
+17425: You are carrying nothing.
+17474: Taken.
+17485: You are always self-possessed.
+18132: Dropped.
+18278: Removed.
+18417: You lack the dexterity.
+18498: Done.
+18764: Done.
+19003: Wrahn seem interested.
+19852: You can't go that way.
+20527: But it's dark.
+20544: You find nothing of interest.
+20580: But it's dark.
+20700: You find nothing of interest.
+21981: . Not bad.
+21999: That was a rhetorical question.
+22053: That seems unnecessary.
+22076: Keep your mind on the game.
+22101: What a good idea.
+22120: You smell nothing unexpected.
+22147: You hear nothing unexpected.
+22172: You taste nothing unexpected.
+22207: Keep your hands to yourself!
+22232: You feel nothing unexpected.
+22257: If you think that'll help.
+22366: Oh, don't apologise.
+22396: Quite.
+22465: You achieve nothing by this.
+22553: You wave, feeling foolish.
+22722: You are unable to.
+22741: Nothing obvious happens.
+22791: That's not a direction.
+22814: Not that way you can't.
+22846: Keep your hands to yourself.
+22871: You achieve nothing by this.
+22904: Futile.
+22933: You talk to yourself a while.
+22960: This provokes no reaction.
+22988: There is no reply.
+23007: Nothing is on sale.
+23026: Your singing is abominable.
+23060: Time passes.
+26826: [Advanced to "noun" token:
+61187: " of "
+61226: " list of "
+61307: " has no "time_left" property
+61337: The object "
+61397: The room "
+61411: " has no "description" property
+87809: Trace off.
+89865: Nothing is in scope.
+106000: Contains:
+106368: Provided by:
+113230: in" or "notin
+113246: opmhas" or "hasnt
+113388: }" at end of "objectloop
+125080: An Interactive Adventure by A.P. Hill and Santooie Corp
+(c) Copyright
+2002 Santooie. All rights reserved.
+125324: Score:
+125332: Moves:
+125340: Time:
+125348: You can't go that way.
+125680: Please give one of the answers above.
+125708: [You can't "undo" what hasn't been done!]
+125744: [Can't "undo" twice in succession. Sorry!]
+125784: "Oops" can only correct a single word.
+125812: It is pitch dark, and you can't see a thing.
+125844: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+125904: You seem to want to talk to someone, but I can't see whom.
+125948: To talk to someone, try "someone, hello" or some such.
+125988: I didn't understand that sentence.
+126048: You seem to have said too little!
+126072: You can't use multiple objects with that verb.
+126108: You can only use multiple objects once on a line.
+126144: You excepted something not included anyway!
+126176: You can only do that to something animate.
+126208: That's not something you need to refer to in the course of this game.
+126256: I didn't understand the way that finished.
+126288: Sorry, you can only have one item here. Which exactly?
+126440: Are you sure you want to restart?
+126464: The game file has verified as intact.
+126492: The game file did not verify as intact, and may be corrupt.
+126536: Attempt to begin transcript failed.
+126564: Attempt to end transcript failed.
+126588: You're carrying too many things already.
+126620: You can't put something on top of itself.
+126652: You can't put something inside itself.
+126680: That would scarcely empty anything.
+126736: You can only get into something free-standing.
+126772: But you aren't in anything at the moment.
+126804: You'll have to say which compass direction to go in.
+126844: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+126940: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+127024: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+127200: This dangerous act would achieve little.
+127228: Nothing practical results from your prayer.
+127260: The dreadful truth is, this is not a dream.
+127292: Digging would achieve nothing here.
+127320: You jump on the spot, fruitlessly.
+127348: You would achieve nothing by this.
+127372: There's nothing suitable to drink here.
+127400: But there's no water here to carry.
+127428: Real adventurers do not use such language.
+127460: Violence isn't the answer to this one.
+127488: There's not enough water to swim in.
+127516: There's nothing sensible to swing here.
+127544: That would be less than courteous.
+127568: Is that the best you can think of?
+127592: You lack the nerve when it comes to the crucial moment.
+127632: I don't think much is to be achieved by that.
+127664: You aren't feeling especially drowsy.
+128014: Best choices are all from the same group.
+128268: Try typing "showverb" and then the name of a verb.
+128336: Property value not routine or string: "
+128364: Entry in property list not routine or string: "
+128484: " can only be used as a player object if it has the "number" property
+128748: Well this is it ... you're in the woods near the famous camp near
+Amissville. Lets see if you can survive! White Water Rapids is to the south and
+the porch to the north.
+128980: Your screams are muffled by the fast currents. The water begins to fill
+your lungs as you get dunked repeatedly. Your hands try desperately to grab
+ahold of something, but nothing helps. You happen to glance over to the shore
+to see several family members having a Bar-B-Q. They seem to be enjoying the
+show.
+129196: There is a nice rug here saying "WELCOME TO CAMP AMISSVILLE!
+TRESSPASSERS WILL BE HORRIBLY MUTILATED!!!". What a nice greeting. A house is
+to the north.
+129344: The stairs are up, the door is south, the kitchen east.
+130256: Your not fast enough. The insane lady grabs you and throws you into her
+dungeon cell!!
+130320: There's no way out! Pat is also here... a skeleton!
+130360: A spray paint can. Empty.
+130380: Somewhere in the woods of Amissville Virginia, lies a barren camp,
+constructed by adventurers such as yourself, in attempt to survive the horrors
+which layed within.
+130716: a   1" will print 16, "; children(old cloth bag)" will tell you how
+many items are in it. (You can name objects either by their names inside the
+source code, such as "n_obj", or by typing the names by which the game's parser
+would normally know them, such as "north wall": the effect is the same.)
+Any
+expression is allowed except that you can't use double-quoted strings of text:
+but you can send messages, call routines or assign values to variables,
+properties and array entries. 
+   "; score++" is one way to get on in the
+world. 
+   "; deadflag = true" is one way to get out of it. 
+   ";
+StopDaemon(nasty little dwarf)" will keep you from being pestered.
+Conditions
+like "; score>20" are also allowed and print either 1 (if true) or 0 (if
+false).
+131542: location" tells you about the variable "location", but ";xo location"
+tells you what object it refers to.
+131622: ";give", ";remove" and ";move" work like the corresponding Inform
+statements.
+131690: ";<" causes an action: for instance, ";< Eat cheese".
+131814: ";inventory" or ";i" describes the contents of this story file.
+131996: ; The Infix ";watch" verb allows you to set a watch on any named
+routine(s) or objects: for instance ";watch ScoreSub" or ";watch silver bars".
+You can also: 
+    ";watch objects": changes to attribute or property settings
+132168: ;
+    ";watch timers": the running of timers and daemons each turn
+132220: ;
+    ";watch messages": all messages sent
+132256: ;
+    ";watch actions": all actions generated
+132380: The following objects are currently being watched:
+132416: The following routines are currently being watched:
+132452: At present, nothing is being watched.
+

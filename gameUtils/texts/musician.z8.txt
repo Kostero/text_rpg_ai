@@ -1,0 +1,284 @@
+26163: There is no reply.
+26231: Nothing is on sale.
+26676: Dropped.
+26733: . Not bad.
+27680: Wrahn seem interested.
+28204: Done.
+28253: You are carrying nothing.
+28338: Keep your mind on the game.
+28363: You hear nothing unexpected.
+29282: But it's dark.
+29299: You find nothing of interest.
+29327: Quite.
+29357: Nothing to do!
+29392: o. You have won
+29478: It is now pitch dark in here!
+29505: I beg your pardon?
+29569: Sorry, that can't be corrected.
+29598: Think nothing of it.
+29651: As good-looking as ever.
+29683: You can hardly repeat that.
+29708: You can't begin with a comma.
+29822: I didn't understand that number.
+29851: You can't see any such thing.
+29887: You aren't holding that!
+29928: I'm not sure what "
+29980: That's not a verb I recognise.
+30018: You can't see "
+30125: Nothing to do!
+30142: There are none at all available!
+30553: That was a rhetorical question.
+30580: Score notification off.
+30603: Score notification on.
+30634: Objects you have handled:
+30659: None.
+31067: You have visited:
+31242: You are unable to.
+31261: Nothing obvious happens.
+31311: That's not a direction.
+31334: Not that way you can't.
+31481: You lack the dexterity.
+31566: Done.
+31614: Please answer yes or no.
+31640: Are you sure you want to quit?
+31760: Removed.
+31791: Failed.
+31810: Restore failed.
+31827: Ok.
+31837: You achieve nothing by this.
+31869: Save failed.
+31884: Ok.
+31992: There is no score in this story.
+32030: Transcripting is already off.
+32096: Transcripting is already on.
+32162: But it's dark.
+32252: You find nothing of interest.
+32522: Your singing is abominable.
+32556: You smell nothing unexpected.
+32583: Oh, don't apologise.
+32611: Keep your hands to yourself.
+32636: You achieve nothing by this.
+32865: Taken.
+32876: You are always self-possessed.
+33335: You taste nothing unexpected.
+33369: You talk to yourself a while.
+33396: This provokes no reaction.
+33422: What a good idea.
+33448: Futile.
+33477: Keep your hands to yourself!
+33502: You feel nothing unexpected.
+33527: If you think that'll help.
+33734: Time passes.
+33758: That seems unnecessary.
+33854: You wave, feeling foolish.
+74331: Variable unavailable:
+74369: Variable stack offset wrong:
+74444: Variable stack offset wrong:
+75116: You can't move nothing.
+75154: You can't divide by zero.
+75507: Attempt to 'decide on nothing'.
+85157: Actions listing on.
+85181: Actions listing off.
+86077: You must name an object.
+86105: You may not name an object.
+86149: You must supply a noun.
+86178: You may not supply a noun.
+86207: You must name an object.
+86261: You must supply a second noun.
+101817: Identification number:
+107298: in" or "notin
+107314: opmhas" or "hasnt
+107456: }" at end of "objectloop
+109128: Score:
+109136: Moves:
+109144: Time:
+109152: You can't go that way.
+109328: Violence isn't the answer to this one.
+109360: This dangerous act would achieve little.
+109392: I don't think much is to be achieved by that.
+109456: Digging would achieve nothing here.
+109488: There's nothing suitable to drink here.
+109520: That would scarcely empty anything.
+109552: You can only get into something free-standing.
+109632: But you aren't in anything at the moment.
+109664: But there's no water here to carry.
+109728: You can't put something inside itself.
+109760: You jump on the spot, fruitlessly.
+109792: You would achieve nothing by this.
+109848: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+109944: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+110032: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+110144: You see nothing unexpected in that direction.
+110424: Please give one of the answers above.
+110456: [You can't "undo" what hasn't been done!]
+110496: [Can't "undo" twice in succession. Sorry!]
+110536: "Oops" can only correct a single word.
+110568: It is pitch dark, and you can't see a thing.
+110600: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+110664: You seem to want to talk to someone, but I can't see whom.
+110712: To talk to someone, try "someone, hello" or some such.
+110752: I didn't understand that sentence.
+110816: You seem to have said too little!
+110840: You can't use multiple objects with that verb.
+110880: You can only use multiple objects once on a line.
+110920: You excepted something not included anyway!
+110952: You can only do that to something animate.
+110984: That's not something you need to refer to in the course of this game.
+111032: I didn't understand the way that finished.
+111064: Sorry, you can only have one item here. Which exactly?
+111168: Nothing practical results from your prayer.
+111224: That would be less than courteous.
+111248: Is that the best you can think of?
+111272: You can't put something on top of itself.
+111304: Are you sure you want to restart?
+111328: Attempt to end transcript failed.
+111352: Attempt to begin transcript failed.
+111384: You aren't feeling especially drowsy.
+111416: Real adventurers do not use such language.
+111448: There's not enough water to swim in.
+111480: There's nothing sensible to swing here.
+111512: You're carrying too many things already.
+111544: You lack the nerve when it comes to the crucial moment.
+111616: You'll have to say which compass direction to go in.
+111656: The game file has verified as intact.
+111688: The game file did not verify as intact, and may be corrupt.
+111736: The dreadful truth is, this is not a dream.
+114148: [1: say "You really don't want to play games with the mailman!"]
+114208: [1: say "Whatever, Superman."]
+114242: [1: say "You know in your heart, that you could pull it off if it were
+to save a baby."]
+114320: [1: say "There's no time for that!"]
+114358: [1: say "You discover a guitar pickup getting swallowed by the couch."]
+114454: [1: say "It sounds worse than it looks."]
+114496: [1: say "You remove the poster, revealing a small hole in the wall."]
+114556: [1: say "You're name is not Jimmy, and your heart sinks."]
+114614: [1: change the description to "As you look at the 'To Do List', you
+notice something scribbled on the back. There are music notes free floating
+with no staff. It was something your friend wrote out for you, although you can
+no longer recall what it was and without the staff, it is unlikely you ever
+will."]
+114842: [1: say "As you attempt to straighten the cushions, you discover a
+guitar pickup getting swallowed by the couch."]
+114938: [1: say "She slobbers all over your hand."]
+114986: [1: say "You can hear Tessa working hard in the background."]
+115100: say "How responsible of you to take on all of these tasks!"]
+115196: [1: if the guitar is not carried then say "You have mastered the art of
+air guitar!" instead]
+115274: [2: say "Tessa grudgingly takes the to do list, groans, and heads out
+of the room to start the chores."]
+115398: [3: say "Tessa looks really wore out, gives you back the 'To Do List',
+and says, 'I did the first five of them, I'm really tired. Can I stop now?"]
+115522: [4: change description of paper to "The first five chores on the list
+have been crossed out with a dark permanent marker. Consequently, it bled
+through to the other side, seemingly lining up perfectly with your notes
+creating a full staff."]
+115734: [2: say "As you slowly pull the door downward, an awful, torchered
+sound fills the house. A musty, unnatural odor creeps out at you. It's so thick
+you think you can see it. A small ladder unfolds allowing passage up into the
+Attic."]
+116048: Too many procedural rules acting all at once.
+116082: Too many rulebooks in simultaneous use.
+116118: Too many timed events are going on at once.
+116288: Too many activities are going on at once.
+116318: Tried to abandon an activity which wasn't going on.
+116358: Tried to end an activity which wasn't going on.
+116396: You can't remove nothing from play.
+116432: Tried to access property for a value which didn't fit:
+116914: Attempt to see if a snippet of text matches something which is not a
+topic.
+116974: Attempt to find route or count steps through an implicit relation.
+117024: Attempt to use a property of the 'nothing' non-object.
+129406: You may not name a second object.
+129434: You may not supply a second noun.
+129466: You must name something more substantial.
+129502: You must name something more substantial.
+129640: I didn't understand that sentence.
+130720: You are in a very small, narrow room which has been turned into a
+salon. There is a barbers chair, a shelf with a variety of beauty supplies on
+it, and a large mirror.
+131360: A massive "To Do List".
+131384: A small white string is dangling from a trap door overhead.
+131432: A string is hanging just above your head.
+131512: As good-looking as ever.
+131536: As you attempt to straighten the cushions, you discover a guitar pickup
+getting swallowed by the couch.
+131608: As you look at the "To Do List", you notice something scribbled on the
+back. There are music notes free floating with no staff. It was something your
+friend wrote out for you, although you can no longer recall what it was and
+without the staff, it is unlikely you ever will.
+131800: As you slowly pull the door downward, an awful, torchered sound fills
+the house. A musty, unnatural odor creeps out at you. It's so thick you think
+you can see it. A small ladder unfolds allowing passage up into the Attic.
+132216: How responsible of you to take on all of these tasks!
+132256: It is addressed to you, the return address reads, "Abbey Road Studios".
+132312: It looks as if it was used in a Who concert.
+132344: It says, "Pink Floyd "The Wall"", displays a face (screaming bloody
+murder), and is autographed by Stevie Wonder.
+132432: It sounds worse than it looks.
+132472: It's a leather couch. It looks like it would be quite comfortable if
+the cushions were in place.
+132544: On the wall, a clock is ticking away.
+132592: She slobbers all over your hand.
+132616: Tessa grudgingly takes the to do list, groans, and heads out of the
+room to start the chores.
+132688: Tessa looks really wore out, gives you back the "To Do List", and says,
+"I did the first five of them, I'm really tired. Can I stop now?
+132792: The Ford Taurus appears to be unlocked.
+132840: The cushions are badly out of place.
+132872: The first five chores on the list have been crossed out with a dark
+permanent marker. Consequently, it bled through to the other side, seemingly
+lining up perfectly with your notes creating a full staff.
+133016: The front yard is fairly small with empty flowerbeds around the edge of
+the yard. A mailbox is by the street, and there is a sidewalk leading north to
+the driveway.
+133136: The pitbull retreats for a moment, then jumps at you, biting at your
+neck visciously. You try to get her off of you, but it's no use. She's had
+enough of your abuse. YOU HAVE DIED.
+133272: The pitbull seems happy to see you.
+133304: There are a couple of MIDI controller keyboards hooked into the
+computer, a Korg ER-1 Rhythm Synth, and a Tascam FW-1082.
+133400: There is a piece of paper hanging from a magnet on the refrigerator.
+133496: There's no time for that!
+133624: Whatever, Superman.
+133640: When you looked into the mirror, you really weren't expecting to see
+anything good. You were still somehow disappointed.
+133728: You are in a narrow hallway. Doors lie to the west and south. A room
+lies to the north and the hallway continues east.
+133920: You are in a small hallway which leads northeast, north, northwest, and
+south.
+134152: You are in the garage, which has been turned into a game room. There is
+a pool table, an air hockey table, and a stereo system with large speakers. The
+edges of the walls are cluttered with a lot of boxes, and there is a bookshelf
+against one of the walls.
+134336: You are standing in front of a silver Ford Taurus and a white Ford
+Explorer. A garage door is to the north, and a sidewalk leads south.
+134506: staring at you and panting in a non-threatening way. There is a toolbox
+by the door and a trampoline in the yard. A door lies to the west.
+134608: You are standing in the middle of the living room. There are doors to
+the east and south, and passages going north and west.
+134696: You can hear Tessa working hard in the background.
+134736: You discover a guitar pickup getting swallowed by the couch.
+134792: You have mastered the art of air guitar!
+134824: You know in your heart, that you could pull it off if it were to save a
+baby.
+134924: your head. YOU HAVE DIED!
+134952: You really don't want to play games with the mailman!
+134992: You remove the poster, revealing a small hole in the wall.
+135040: You see a couch, a coffee table in front of it, and a recliner to the
+side. The cushions look as if they've been jumped on recently.
+135136: You see a desktop displaying several icons over a background picture of
+Stonehenge.
+135200: You see nothing unexpected in that direction.
+135232: You slam into the pool table, knocking it over which in turn knocks
+over the air hockey table, and worse yet, knocking you unconscious. Horrible
+nightmares sweep over you and last for 20 years while you lie comatose in a
+hospital bed. Finally, they pull the plug. YOU HAVE DIED!
+135440: You'll have to say which compass direction to go in.
+135480: You're name is not Jimmy, and your heart sinks.
+135944: give" or test "has" or "hasnt" with a non-attribute on the object
+135992: , but it is longer than 2 bytes so you cannot use "."
+

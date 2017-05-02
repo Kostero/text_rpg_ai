@@ -1,0 +1,295 @@
+12045: Nothing to do!
+12080: o. You have won
+12182: It is now pitch dark in here!
+12209: I beg your pardon?
+12273: Sorry, that can't be corrected.
+12302: Think nothing of it.
+12355: As good-looking as ever.
+12387: You can hardly repeat that.
+12412: You can't begin with a comma.
+12526: I didn't understand that number.
+12555: You can't see any such thing.
+12591: You aren't holding that!
+12633: I'm not sure what "
+12685: That's not a verb I recognize.
+12724: You can't see "
+12832: Nothing to do!
+12849: There are none at all available!
+13759: Please answer yes or no.
+13785: Are you sure you want to quit?
+13830: Failed.
+13850: Restore failed.
+13867: Ok.
+13885: Save failed.
+13900: Ok.
+13944: Transcripting is already on.
+14010: Transcripting is already off.
+14068: Score notification on.
+14089: Score notification off.
+14112: You have visited:
+14140: Objects you have handled:
+14165: None.
+14549: You are carrying nothing.
+14598: Taken.
+14609: You are always self-possessed.
+15142: Dropped.
+15250: Removed.
+15389: You lack the dexterity.
+15470: Done.
+15736: Done.
+15956: Wrahn seem interested.
+16595: You can't go that way.
+17155: But it's dark.
+17172: You find nothing of interest.
+17208: But it's dark.
+17299: You find nothing of interest.
+18427: . Not bad.
+18445: That was a rhetorical question.
+18499: That seems unnecessary.
+18522: Keep your mind on the game.
+18547: What a good idea.
+18566: You smell nothing unexpected.
+18593: You hear nothing unexpected.
+18618: You taste nothing unexpected.
+18653: Keep your hands to yourself!
+18678: You feel nothing unexpected.
+18703: If you think that'll help.
+18812: Oh, don't apologize.
+18842: Quite.
+18911: You achieve nothing by this.
+18999: You wave, feeling foolish.
+19149: You are unable to.
+19168: Nothing obvious happens.
+19218: That's not a direction.
+19241: Not that way you can't.
+19273: Keep your hands to yourself.
+19298: You achieve nothing by this.
+19331: Futile.
+19360: You talk to yourself a while.
+19387: This provokes no reaction.
+19415: There is no reply.
+19434: Nothing is on sale.
+19453: Your singing is abominable.
+19487: Time passes.
+32763: There is no reason to dig.
+32831: You hear no sounds.
+32877: Indeed.
+32944: You have not yet tired.
+32967: You smell nothing unusual.
+32992: There's no water to swim in.
+33045: There is nowhere to go.
+33094: Pointless.
+33116: Good for you.
+42734: Feels bowler-shaped.
+42764: "Eat your hat" is just a saying.
+42793: Might as well keep it on.
+42838: You can't find your shoes.
+42894: Air is not food.
+42911: Pretty insubstantial.
+42932: The air smells rather nice.
+42957: The air is all around you.
+42993: What a strange idea.
+43121: Feels soft and linty.
+43281: It's stuck into the lemon.
+43343: It smells like the lemon.
+43362: It smells like a penny.
+43419: It smells like the lemon.
+43438: It smells fairly zincish.
+43566: The bag is already open.
+43632: The bag is already closed.
+43665: It has no odor at all.
+43753: Citric.
+43774: The lemon feels round and bumpy.
+43989: There's no need to do that.
+44295: It's already wound onto that.
+44381: It's already wound onto that.
+44575: It's already wound onto that.
+44660: It's already wound onto that.
+44986: And then turn the light on.
+45016: That's all.
+45057: That's not a verb I recognize.
+45085: Hints reset.
+45109: You won! Yay!
+45150: You're holding it.
+45173: It's in your pocket.
+45215: You're nowhere.
+45228: You can't find it.
+45246: You are.
+45258: You don't feel like it.
+45278: Waah!
+45298: There is no response.
+45318: You smile cheerfully.
+45346: Your dancing is abominable.
+45414: You can't.
+45426: There is nowhere to go.
+45446: There is nowhere to go.
+45492: You are nowhere.  It's dark.
+45530: You can't reach into that.
+45590: Nothing happens.
+48052: in" or "notin
+48068: opmhas" or "hasnt
+48210: }" at end of "objectloop
+49450: Copyright Ben Heaton, 2003.
+49636: Score:
+49644: Moves:
+49652: Time:
+49660: You can't go that way.
+49992: Please give one of the answers above.
+50020: [You can't "undo" what hasn't been done!]
+50056: [Can't "undo" twice in succession. Sorry!]
+50096: "Oops" can only correct a single word.
+50124: It is pitch dark, and you can't see a thing.
+50156: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+50216: You seem to want to talk to someone, but I can't see whom.
+50260: To talk to someone, try "someone, hello" or some such.
+50300: I didn't understand that sentence.
+50360: You seem to have said too little!
+50384: You can't use multiple objects with that verb.
+50420: You can only use multiple objects once on a line.
+50456: You excepted something not included anyway!
+50488: You can only do that to something animate.
+50520: That's not something you need to refer to in the course of this game.
+50568: I didn't understand the way that finished.
+50600: Sorry, you can only have one item here. Which exactly?
+50752: Are you sure you want to restart?
+50776: The game file has verified as intact.
+50804: The game file did not verify as intact, and may be corrupt.
+50848: Attempt to begin transcript failed.
+50876: Attempt to end transcript failed.
+50900: You're carrying too many things already.
+50932: You can't put something on top of itself.
+50964: You can't put something inside itself.
+50992: That would scarcely empty anything.
+51048: You can only get into something free-standing.
+51084: But you aren't in anything at the moment.
+51116: You'll have to say which compass direction to go in.
+51156: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+51252: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+51336: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+51512: This dangerous act would achieve little.
+51540: Nothing practical results from your prayer.
+51572: The dreadful truth is, this is not a dream.
+51604: Digging would achieve nothing here.
+51632: You jump on the spot, fruitlessly.
+51660: You would achieve nothing by this.
+51684: There's nothing suitable to drink here.
+51712: But there's no water here to carry.
+51740: Real adventurers do not use such language.
+51772: Violence isn't the answer to this one.
+51800: There's not enough water to swim in.
+51828: There's nothing sensible to swing here.
+51856: That would be less than courteous.
+51880: Is that the best you can think of?
+51904: You lack the nerve when it comes to the crucial moment.
+51944: I don't think much is to be achieved by that.
+51976: You aren't feeling especially drowsy.
+52064: Violence really isn't the answer to this one.
+52096: You are a little thirsty, but not enough to try drinking a solid object.
+52156: As it leaves you, the concept of position relative to you ceases to
+exist for it.
+52228: You are still nowhere.
+52248: You're unable to look at anything in this darkness.
+52364: This change will probably not be noticable as long as you aren't in a
+place.
+52496: This change will probably not be noticable as long as you aren't in a
+place.
+52634: This change will probably not be noticable as long as you aren't in a
+place.
+52688: You'll have to be a bit more specific.
+52716: You're not aware of any such thing.
+52828: Denial is not as good an option as you may think.
+53192: You think of an idea so great and terrible that no man can imagine it
+and hope to remain alive.
+53284: Although it's hard to be certain without actually looking.
+53362: Well, probably.
+53592: Did you try:
+singing?
+praying?
+xyzzy?
+finding your shoes?
+waking
+up?
+thinking?
+53656: The hat smells rather musty, as though it was recently stuffed away in
+some closet.
+53730: No need to get rid of it.
+53804: It feels pretty good.
+53830: And thus the great cycle of breathing continues.
+53864: Your left pocket feels like a handy place to store objects.
+54102: But you eat it all anyway, out of a strange sense of compulsion.
+54148: It smells just like the inside of your pocket.
+54188: A long rod, made of some sort of metal.
+54244: It's metal, but what kind is anyone's guess.
+54280: They don't look like things that should be eaten.
+54316: The lemon is too squashed for you to stick things into it.
+54414: It's a copper rod.
+54460: About half of it is covered in lemon juice.
+54492: Cylindrical, hard, and somewhat cold.
+54538: It's a zinc rod.
+54580: About half of it is covered in lemon juice.
+54612: Cylindrical, hard, and somewhat cold.
+54664: The string that previously kept it closed now hangs loosely at its side.
+54716: It is held shut by a small cord tied around it.
+54752: You untie the string, opening the bag.
+54780: You tie the string shut, closing the bag.
+55050: After finishing it, you discard the useless remnants of the peel.
+55096: You've squished it into a pulpy mess.
+55152: You've already squeezed it as much as you can.
+55188: You can't squeeze the lemon effectively while there's a rod sticking
+into it.
+55244: You can't squeeze the lemon effectively while there are rods sticking
+into it.
+55556: It smells like glass and plastic.
+55790: They were presumably connected to the battery initially.
+55918: You can now see where you are, and thus are no longer nowhere.
+56188: It's already attached to the light bulb.
+56220: No need to tie them both to the same rod.
+56292: You wind the left wire firmly onto the zinc rod.
+56328: No need to tie them both to the same rod.
+56396: You wind the left wire firmly onto the copper rod.
+56432: There's no point in doing that with the left wire.
+56468: You untie the left wire from the copper rod.
+56500: You untie the left wire from the zinc rod.
+56612: There's no point in doing that with the left wire.
+56648: It smells a little like cotton candy, but mostly like a metal wire.
+56696: A thin metal wire, poking out from the broken flashlight.
+56736: It's already attached to the light bulb.
+56768: No need to tie them both to the same rod.
+56840: You wind the right wire firmly onto the zinc rod.
+56876: No need to tie them both to the same rod.
+56944: You wind the right wire firmly onto the copper rod.
+56980: There's no point in doing that with the right wire.
+57016: You untie the right wire from the copper rod.
+57048: You untie the right wire from the zinc rod.
+57160: There's no point in doing that with the right wire.
+57196: It smells a little like pickles, but mostly like a metal wire.
+57240: A thin metal wire, poking out from the broken flashlight.
+57308: Doing so will provide non-crucial information.
+57410: To reset the hints, so that you can view old ones again, type RESET
+HINTS.
+57496: Perhaps you should do something about that.
+57528: You have a flashlight, but it's broken.
+57578: You just need some way of supplying power to it.
+57612: Lemons contain some interestingly conductive acidic juices.
+57656: If you stick some copper and zinc into a lemon, and connect them,
+there'll be an electrochemical reaction.
+57732: So you'll just need to put the two rods into the lemon, and connect a
+wire from the broken flashlight to each of them.
+58344: I felt I had to try to go beyond the familiar one room games, and this
+is as close to zero rooms as I was able to get.
+58428: No, I won't let you lose that way.
+58976: You are now impossible.
+59014: It's not gaseous enough.
+59036: That's not something you can inhale, so exhaling it would be tricky.
+59108: Well, there may be, but without light the issue is rather moot.
+59156: You would achieve nothing by this.
+59276: Your prayer is answered, in hat form.
+59304: You have scored 0 out of a possible 1.
+59332: You have scored 1 out of a possible 1.
+59360: You have so far scored 0 out of a possible 1.
+59396: You have so far scored 1 out of a possible 1.
+

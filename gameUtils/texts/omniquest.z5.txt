@@ -1,0 +1,395 @@
+16601: Nothing to do!
+16636: o. You have won
+16719: It is now pitch dark in here!
+16746: I beg your pardon?
+16810: Sorry, that can't be corrected.
+16839: Think nothing of it.
+16892: As good-looking as ever.
+16924: You can hardly repeat that.
+16949: You can't begin with a comma.
+17063: I didn't understand that number.
+17092: You can't see any such thing.
+17128: You aren't holding that!
+17224: That's not a verb I recognise.
+17262: You can't see "
+17372: Nothing to do!
+17389: There are none at all available!
+18312: Please answer yes or no.
+18338: Are you sure you want to quit?
+18383: Failed.
+18402: Restore failed.
+18419: Ok.
+18436: Save failed.
+18451: Ok.
+18495: Transcripting is already on.
+18561: Transcripting is already off.
+18619: Score notification on.
+18640: Score notification off.
+18665: You have visited:
+18695: Objects you have handled:
+18720: None.
+19102: You are carrying nothing.
+19151: Taken.
+19162: You are always self-possessed.
+19804: Dropped.
+19949: Removed.
+20086: You lack the dexterity.
+20167: Done.
+20431: Done.
+20669: Wrahn seem interested.
+21452: You can't go that way.
+22123: But it's dark.
+22140: You find nothing of interest.
+22176: But it's dark.
+22296: You find nothing of interest.
+23571: . Not bad.
+23589: That was a rhetorical question.
+23643: That seems unnecessary.
+23666: Keep your mind on the game.
+23691: What a good idea.
+23710: You smell nothing unexpected.
+23737: You hear nothing unexpected.
+23762: You taste nothing unexpected.
+23797: Keep your hands to yourself!
+23822: You feel nothing unexpected.
+23847: If you think that'll help.
+23955: Oh, don't apologise.
+23985: Quite.
+24054: You achieve nothing by this.
+24141: You wave, feeling foolish.
+24309: You are unable to.
+24328: Nothing obvious happens.
+24378: That's not a direction.
+24401: Not that way you can't.
+24432: Keep your hands to yourself.
+24457: You achieve nothing by this.
+24490: Futile.
+24518: You talk to yourself a while.
+24545: This provokes no reaction.
+24573: There is no reply.
+24592: Nothing is on sale.
+24611: Your singing is abominable.
+24645: Time passes.
+27618: [Advanced to "noun" token:
+52387: Suicide is not the answer.
+52617: Having fun?
+52632: You sound rather negative.
+52669: Watch your language.
+52690: Profanity is not the answer.
+52725: You can't swim.
+52742: Time passes...
+52759: You sound rather positive.
+53012: " of "
+53050: " list of "
+53130: " has no "time_left" property
+53160: The object "
+53219: The room "
+53233: " has no "description" property
+72181: Trace off.
+73347: Nothing is in scope.
+73687: Not a good idea.
+73771: The match begins to burn.
+73798: It won't fit.
+73818: It won't fit.
+74152: You find nothing else.
+74186: It won't fit.
+74363: Nothing happens.
+74446: The rubble is impassible.
+74476: The rubble is too heavy to move.
+74538: The rubble is impassible.
+74568: The rubble is too heavy to move.
+74602: It won't fit.
+74622: It won't fit.
+74701: You find nothing else.
+74746: There is an old man here.
+74841: He says he wants a match.
+74860: He's smoking.
+74907: He politely refuses your gift.
+74958: It won't fit.
+75034: It's kind of bland.
+75138: You find nothing.
+75174: It won't fit.
+75275: The samurai won't let you.
+75336: He politely refuses your gift.
+75397: There is an exit to the east.
+75458: The cage is magically protected.
+75520: The cage is magically protected.
+75587: It won't fit.
+76106: I cannot help you at this time.
+76146: I'm not sure how to make that.
+76174: You can't.
+76234: What footnote?
+76278: I'm Batman.
+76290: Wrong game.
+76302: What about that awesome dude?
+76334: No, that's PARSEC.
+76358: And how would YOU know?!?
+76382: I agree.
+76402: Good question.
+79030: in" or "notin
+79046: opmhas" or "hasnt
+79188: }" at end of "objectloop
+81492: Score:
+81500: Moves:
+81508: Time:
+81516: You can't go that way.
+81848: Please give one of the answers above.
+81876: [You can't "undo" what hasn't been done!]
+81912: [Can't "undo" twice in succession. Sorry!]
+81952: "Oops" can only correct a single word.
+81980: It is pitch dark, and you can't see a thing.
+82012: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+82072: You seem to want to talk to someone, but I can't see whom.
+82116: To talk to someone, try "someone, hello" or some such.
+82156: I didn't understand that sentence.
+82216: You seem to have said too little!
+82240: You can't use multiple objects with that verb.
+82276: You can only use multiple objects once on a line.
+82312: You excepted something not included anyway!
+82344: You can only do that to something animate.
+82376: That's not something you need to refer to in the course of this game.
+82424: I didn't understand the way that finished.
+82456: Sorry, you can only have one item here. Which exactly?
+82608: Are you sure you want to restart?
+82632: The game file has verified as intact.
+82660: The game file did not verify as intact, and may be corrupt.
+82704: Attempt to begin transcript failed.
+82732: Attempt to end transcript failed.
+82756: You're carrying too many things already.
+82788: You can't put something on top of itself.
+82820: You can't put something inside itself.
+82848: That would scarcely empty anything.
+82904: You can only get into something free-standing.
+82940: But you aren't in anything at the moment.
+82972: You'll have to say which compass direction to go in.
+83012: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+83108: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+83192: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+83368: This dangerous act would achieve little.
+83396: Nothing practical results from your prayer.
+83428: The dreadful truth is, this is not a dream.
+83460: Digging would achieve nothing here.
+83488: You jump on the spot, fruitlessly.
+83516: You would achieve nothing by this.
+83540: There's nothing suitable to drink here.
+83568: But there's no water here to carry.
+83596: Real adventurers do not use such language.
+83628: Violence isn't the answer to this one.
+83656: There's not enough water to swim in.
+83684: There's nothing sensible to swing here.
+83712: That would be less than courteous.
+83736: Is that the best you can think of?
+83760: You lack the nerve when it comes to the crucial moment.
+83800: I don't think much is to be achieved by that.
+83832: You aren't feeling especially drowsy.
+84182: Best choices are all from the same group.
+84384: Try typing "showverb" and then the name of a verb.
+84420: The defenseless fish blankly accepts your pummeling.
+84456: The defenseless worm blankly accepts your pummeling.
+84492: The samurai knocks his weapon agains the wall, throwing sparks!
+84592: The samurai neatly removes your head.
+84640: You make a clean incision in his wrist.
+84668: The force of your blow knocks the samurai dead.
+84776: A good attack, but it misses the samurai by a mile.
+84812: The samurai attacks, but you parry.
+84866: He dies.
+84874: You are knocked unconscious.
+
+The samurai waits: could this assailant be
+magically protected?
+
+He decides not, and puts you to death.
+84992: I think not.
+85036: Such language in a high-class establishment such as this!
+85108: Property value not routine or string: "
+85136: Entry in property list not routine or string: "
+85256: " can only be used as a player object if it has the "number" property
+85520: It appears that that last blow was too much for you. I'm afraid you are
+dead.
+85576: You are in perfect health.
+You can be killed by a serious wound.
+85660: moves.
+You can be killed by a serious wound.
+85732: moves.
+You can be killed by one more light wound.
+85814: There is a path to the east.
+85836: You see nothing special about the tree.
+85894: You take it.
+85970: The path to the east appears to lead into some rather rocky territory.
+86020: This path forks to the southwest and southeast.
+86084: There is an exit to the northeast.
+86172: There is an exit to the northwest.
+86608: And of course, the passage to the west goes back the way you came.
+86750: These are to the north, south, and west.
+86934: There is a path winding across the dunes to the southeast.
+86976: The water was a bit deeper than you expected.
+87024: It floats away.
+87102: The island looms ahead to the north.
+87218: There is a path to the rest of the island to the north.
+87256: The water was a bit deeper than you expected.
+87304: It floats away.
+87316: The rock is towering.
+87332: The rock is far too large to pick up.
+87358: With a great effort you move the rock.  You fall through the hole that
+the rock was covering.  Fortunately, your fall is broken by a small patch of
+manure.  You notice someone moving the rock back over the hole.
+87508: There's no point in doing that to the rock.
+87572: There is a path back to the main section of the island to the south.
+87620: The water was a bit deeper than you expected.
+87668: It floats away.
+87698: You take it.
+87708: Digging requires the proper tool.
+87780: There are no prominent features in this room, except for a torch
+securely fastened to the wall.
+87908: Pulling on the torch causes a secret passageway to the southeast to
+open.
+88052: This is a small cavern with passages to the southeast, southwest, and
+north.
+88202: The organ appears to be in a playable condition.
+88236: This is a passageway that used to be cold but is becoming gradually
+warmer.
+Vapors radiate from the spot where a wall of ice used to stand.  There
+are fragments of the wall on the ground.
+The passage to the west is now
+reachable.  There is an exit to the east.
+88552: There is rubble to the southeast.
+88576: This is a slippery tunnel which has exits to the north, northeast, and
+southeast.
+88744: There is rubble to the southeast.
+88832: There are exits to the south and east.
+88888: There is an exit to the west.
+88930: You take it.
+88940: Digging requires the proper tool.
+88964: You eat the worm.  You think about how surprisingly good it tastes
+and
+wonder why you have never tried it before.  Of course, a very
+good reason is
+because this worm is a deadly trichina worm, and
+that eating it has caused you
+to feel extreme pain, have convulsions,
+slip into a coma, and ultimately die,
+as well as giving you indigestion.
+Next time, try it with ketchup.
+89256: This is an intersection with paths to the northwest, northeast,
+southwest, and southeast.
+89320: You've already been on one dangerous swim today, no need for another.
+89372: This is a path that came from the northwest and continues to the
+southwest.
+89460: "Please, PLEASE give me a match!"
+89558: "Thank you!!" says the man.  He lights up for the first time
+in 12
+years.  "I have this fishing rod.  I'd use it, but I've
+been sitting here so
+long that I can't get up.  Since you've
+been so nice to me, you can have my
+rod."  He hands it to you,
+and you take it.
+89758: The scroll reads:
+Greetings.  If you have found this letter, you are
+obviously
+trapped down here.  We, the Tamatis, need your help.  The
+Diamond
+Wings of Destiny have been stolen.  Legend has it whoever
+finds them will be
+able to fly.  Please return them to us.  You can
+find us behind the wall of
+ice.
+89980: It's an ordinary fishing rod, complete with line and hook.
+90024: You'll bait it when the time comes.
+90052: Putting that on the fishing rod would achieve nothing.
+90092: This is a section of the path that continues to the northeast and
+southeast, as well as branching to the west.
+90256: There is a cool draft coming from the southeast.  There are other exits
+to the southwest and northwest.
+90330: Since it is so cold, it might be wise to put on a jacket of some sort.
+90384: It is so cold that you very quickly freeze to death.
+90464: There are exits to the north and south.
+90492: It's musty.
+90588: Exits are to the northeast and north.
+90616: It's saying something about rice patties.
+90648: It's saying something about rice patties.
+90742: There is an exit to the northwest.
+90766: You bait your rod and cast.
+Finally a fish!  You take it.
+90836: You take it anyway.
+90852: The raw fish is good, but you never did acquire a taste for it.
+90896: Examining the boot further reveals a crystal, which you take.
+90940: I see nothing special about the boot.
+91032: He seems to be muttering something about sushi.
+91068: He says something in thanks, and begins to eat as he walks away.
+91114: This is an ornately decorated room with absurdly large and tacky jewels
+plastered to the wall.
+91216: The cage has a crystal-shaped space on it.
+91246: There is a flash of light, and the cage opens, revealing...
+The Diamond
+Wings of Destiny!!
+The cage and crystal suddenly vanish, leaving the wings.
+91358: There is a flash of light, and the cage opens, revealing...
+The Diamond
+Wings of Destiny!!
+The cage and crystal suddenly vanish, leaving the wings.
+91470: There is a flash of light, and the cage opens, revealing...
+The Diamond
+Wings of Destiny!!
+The cage and crystal suddenly vanish, leaving the wings.
+91584: These are the storied Diamond Wings of Destiny.
+91620: This is a ledge that towers above an abyss. There is a fog below, but
+you can see a faint light.
+91688: Suicide is not the answer.
+91708: This was not a good place to try jumping.
+91738: You glide to the bottom to land in the middle of a group of
+Tamatis.
+They look at you and say, "You have found the ancient Diamond Wings
+of
+Destiny!  But we cannot find our orange.  Can you help us again?"
+
+And so, a
+new quest begins...
+
+-- THE END --
+
+Watch for...
+
+OMNIQUEST II:
+The Search for
+the Purple Orange
+
+COMING SOON FROM POP!
+92020: The sushi is good, but you never did acquire a taste for it.
+92064: Pardon me, but aren't you taking a long time?
+92098: OMNIQuest
+A POP Release
+Parser Version 1.0
+POP RULES!!
+
+There's nothing
+to do, and you're sort of tired, so you lay on your bed and think philosophical
+thoughts.
+(meaning of life, end of the world, etc.)  As you philosophize, you
+begin to doze...
+
+You wake up with a horrible headache.  As you glance around,
+you realize that you are not in Kansas anymore.
+You attempt to gain some
+bearing as to where you are...
+92420: Walking around in the dark is unsafe.
+92916: The quiet of the cave is shattered by the sound of a non-musician
+playing the organ.
+92976: That requires more creativity than I can muster.
+93012: You flitter about in the confined space, but it's a bit too small to be
+much fun.
+93100: Are you wearing wings or something?
+93156: You might try examining the tree.
+93180: You might try pulling on the torch.
+93208: Some loud tones might shatter the ice.
+93236: You can't use the fishing rod here.
+93280: I think not.
+93292: You're not Julia Child, but it'll do.
+93342: Too bad you don't have the necessary ingredients...
+93380: Tell me something I don't know...
+93408: Stop talking to me and PLAY THE GAME!!
+

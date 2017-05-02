@@ -1,0 +1,748 @@
+19801: Nothing to do!
+19836: o. You have won
+19939: It is now pitch dark in here!
+19966: I beg your pardon?
+20030: Sorry, that can't be corrected.
+20059: Think nothing of it.
+20112: As good-looking as ever.
+20144: You can hardly repeat that.
+20169: You can't begin with a comma.
+20283: I didn't understand that number.
+20312: You can't see any such thing.
+20348: You aren't holding that!
+20390: I'm not sure what "
+20442: That's not a verb I recognise.
+20481: You can't see "
+20589: Nothing to do!
+20606: There are none at all available!
+21516: Please answer yes or no.
+21542: Are you sure you want to quit?
+21587: Failed.
+21607: Restore failed.
+21624: Ok.
+21642: Save failed.
+21657: Ok.
+21701: Transcripting is already on.
+21767: Transcripting is already off.
+21825: Score notification on.
+21846: Score notification off.
+21869: You have visited:
+21897: Objects you have handled:
+21922: None.
+22308: You are carrying nothing.
+22357: Taken.
+22368: You are always self-possessed.
+22901: Dropped.
+23009: Removed.
+23148: You lack the dexterity.
+23229: Done.
+23495: Done.
+23715: Wrahn seem interested.
+24354: You can't go that way.
+24914: But it's dark.
+24931: You find nothing of interest.
+24967: But it's dark.
+25058: You find nothing of interest.
+26186: . Not bad.
+26204: That was a rhetorical question.
+26258: That seems unnecessary.
+26281: Keep your mind on the game.
+26306: What a good idea.
+26325: You smell nothing unexpected.
+26352: You hear nothing unexpected.
+26377: You taste nothing unexpected.
+26412: Keep your hands to yourself!
+26437: You feel nothing unexpected.
+26462: If you think that'll help.
+26571: Oh, don't apologise.
+26601: Quite.
+26670: You achieve nothing by this.
+26758: You wave, feeling foolish.
+26908: You are unable to.
+26927: Nothing obvious happens.
+26977: That's not a direction.
+27000: Not that way you can't.
+27032: Keep your hands to yourself.
+27057: You achieve nothing by this.
+27090: Futile.
+27119: You talk to yourself a while.
+27146: This provokes no reaction.
+27174: There is no reply.
+27193: Nothing is on sale.
+27212: Your singing is abominable.
+27246: Time passes.
+50845: Sometimes it contains clues.
+51091: Good luck!
+52481: EAST.
+52520: DOWN.
+52709: Ask them about an object.
+52742: Show them an object.
+52771: Tell them about an object.
+52804: Command them.
+52942: Show them an object.
+52971: Command them.
+53184: The ghost shivers silently.
+53209: The ghost looks at you silently.
+53247: The ghost moans gently.
+53276: The ghost shivers silently.
+53301: The ghost looks at you silently.
+53339: The ghost moans gently.
+53373: That won't fit there.
+53396: You can't do that.
+53431: You can't do that.
+53461: That won't fit there.
+53484: You can't do that.
+53513: That won't fit there.
+53542: You can't do that.
+53573: That won't fit there.
+53596: You can't do that.
+53761: It's already lit...
+53814: It's already lit...
+53958: You see an old kitchen cupboard.
+54130: You see an empty stone slab.
+54185: You find a scalpel.
+54247: You've already done that.
+54280: You have no needle.
+54384: You sew up the monster.
+54442: You must be kidding!
+54659: The monster isn't ready yet.
+54694: The monster isn't connected yet.
+54723: The power is already on.
+54830: It's already broken.
+54930: You see a locked brass padlock.
+54953: You see a broken brass padlock.
+54985: You fell in the dark.!
+55004: You can't go that way.
+55102: They all look rather dull.
+55512: You have no screwdriver.
+55555: You have no screwdriver.
+55589: Sorry, it's screwed to the wall.
+55614: It's too heavy to carry.
+55674: The safe is open.
+55739: You don't know the combination.
+55800: Dr. Frankenstein's diary
+55941: It is empty.
+56101: The door is locked.
+56125: The door is unlocked but closed.
+56150: The door is open.
+56210: You have no key.
+56251: You have no key.
+56270: You lock the door again.
+56363: You need something to dig with.
+56397: You've already done that.
+56430: You dig up a coffin.
+56454: That's too heavy to take.
+56503: You see an open wooden coffin.
+56588: It's too heavy to lift.
+56657: You see a corpse.
+56683: You see a mutilated corpse.
+56731: You have found a screwdriver.
+56804: You find a liver and a heart.
+56841: You need something to cut with.
+56880: It's too heavy to lift.
+56915: You've already done that.
+56985: They're sewn into the monster.
+57149: You see an empty urn.
+57270: There's nothing left inside.
+57302: It's already open.
+57328: You see an empty urn.
+57475: They're already connected.
+57515: Not here.
+57593: There's nothing left inside.
+57650: The wolf won't let you.
+57682: The wolf won't let you.
+57821: You see a dead man.
+57885: You see a large, snarling wolf.
+57958: You need something to cut with.
+57992: You've already done that.
+58041: It's too heavy to lift.
+58103: You have found a needle.
+58219: You see a fresh liver.
+58280: You just see a sharp needle.
+58323: You don't see any thread here.
+58382: Taken.
+58403: You've already done that.
+58471: They're sewn into the monster.
+58629: You sink in the quicksand...
+58741: You fell in the dark!
+58758: You can't go that way.
+58898: You fell in the dark!
+59055: The monster caught you!
+59445: Haunted.
+59478: There is no score in this game.
+59506: There is no score in this game.
+59538: You aren't carrying it...
+59583: It's already lit...
+59610: Find it yourself !!
+59638: You aren't carrying it...
+59669: It's already out...
+59696: You blow out the candle...
+59742: You don't know the combination.
+59767: You can't do that here.
+59790: There is no reply.
+59838: You are holding the combination.
+59889: You have held the combination.
+59920: Try FOLLOW...
+59952: Do you have the map?
+59973: You really need some light...
+60010: He looks hungry...
+60027: Not now...
+60094: You aren't carrying any.
+60126: You can't strike that.
+60146: That isn't possible.
+60174: You're not carrying it.
+60269: You can only follow the map.
+60394: The urn is empty.
+60450: Not here.
+60462: You can't do that.
+60494: You don't see it here.
+60524: You've already done that.
+60553: You don't see any thread here.
+60585: You carefully thread the needle.
+63204: in" or "notin
+63220: opmhas" or "hasnt
+63362: }" at end of "objectloop
+64864: Score:
+64872: Moves:
+64880: Time:
+64888: You can't go that way.
+65220: Please give one of the answers above.
+65248: [You can't "undo" what hasn't been done!]
+65284: [Can't "undo" twice in succession. Sorry!]
+65324: "Oops" can only correct a single word.
+65352: It is pitch dark, and you can't see a thing.
+65384: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+65444: You seem to want to talk to someone, but I can't see whom.
+65488: To talk to someone, try "someone, hello" or some such.
+65528: I didn't understand that sentence.
+65588: You seem to have said too little!
+65612: You can't use multiple objects with that verb.
+65648: You can only use multiple objects once on a line.
+65684: You excepted something not included anyway!
+65716: You can only do that to something animate.
+65748: That's not something you need to refer to in the course of this game.
+65796: I didn't understand the way that finished.
+65828: Sorry, you can only have one item here. Which exactly?
+65980: Are you sure you want to restart?
+66004: The game file has verified as intact.
+66032: The game file did not verify as intact, and may be corrupt.
+66076: Attempt to begin transcript failed.
+66104: Attempt to end transcript failed.
+66128: You're carrying too many things already.
+66160: You can't put something on top of itself.
+66192: You can't put something inside itself.
+66220: That would scarcely empty anything.
+66276: You can only get into something free-standing.
+66312: But you aren't in anything at the moment.
+66344: You'll have to say which compass direction to go in.
+66384: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+66480: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+66564: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+66740: This dangerous act would achieve little.
+66768: Nothing practical results from your prayer.
+66800: The dreadful truth is, this is not a dream.
+66832: Digging would achieve nothing here.
+66860: You jump on the spot, fruitlessly.
+66888: You would achieve nothing by this.
+66912: There's nothing suitable to drink here.
+66940: But there's no water here to carry.
+66968: Real adventurers do not use such language.
+67000: Violence isn't the answer to this one.
+67028: There's not enough water to swim in.
+67056: There's nothing sensible to swing here.
+67084: That would be less than courteous.
+67108: Is that the best you can think of?
+67132: You lack the nerve when it comes to the crucial moment.
+67172: I don't think much is to be achieved by that.
+67204: You aren't feeling especially drowsy.
+67320: The game you are playing is a work of Interactive Fiction.  In
+interactive fiction you play the main character of a story.  You type commands
+which determine the actions of the character and the flow of the plot.  Some IF
+games include graphics, but most do not: the imagery is provided courtesy of
+your imagination.  On the other hand, there's a wide range of action available:
+whereas in other games you may be restricted to shooting, movement, or
+searching items you can click on with a mouse, IF allows you a wide range of
+verbs.
+67694: There are various kinds of IF in the world.  Some of them put more
+emphasis on solving puzzles; some want to move you through a coherent plot of
+some kind; some want to offer you something to explore.
+67840: In games with a lot of challenging puzzles, you can expect to spend a
+fair amount of time wandering around trying to figure out what you should do
+next; this is part of the fun.  (If you like that sort of thing, anyway.) When
+you start a game, you can usually get a sense fairly early on of what kind of
+game it is and what the author expects you to do.  Read the opening text
+carefully: it may tell you things about the character you are playing, your
+goals within the game, and so on.
+68180: If the game tells you to type ABOUT or INFO the first time you play, you
+should always do so: this information may include special commands or other
+material without which you won't be able to finish.  This is like the game
+manual in a commercial game, so don't ignore it.
+68412: Space: Most IF games are set in a world made up of rooms without
+internal division.  Movement between rooms is possible; movement within a room
+does not always amount to anything.  >WALK OVER TO THE DESK is rarely a useful
+sort of command.  On the other hand, if something is described as being high or
+out of reach, it is sometimes relevant to stand on an object to increase your
+height.  This kind of activity tends to be important only if prompted by the
+game text.
+68752: Containment: One thing that IF does tend to model thoroughly is
+containment.  Is something in or on something else?  The game keeps track of
+this, and many puzzles have to do with where things are -- in the player's
+possession, lying on the floor of the room, on a table, in a box, etc.
+68958: Types of Action: Most of the actions you can perform in the world of IF
+are brief and specific.  >WALK WEST or >OPEN DOOR are likely to be provided. 
+>TAKE A JOURNEY or >BUILD A TABLE are not.  Things like >GO TO THE HOTEL are on
+the borderline: some games allow them, but most do not. In general, abstract,
+multi-stage behaviour usually has to be broken down in order for the game to
+understand it.
+69286: Other Characters: Other characters in IF games are sometimes rather
+limited.  On the other hand, there are also games in which character
+interaction is the main point of the game.  You should be able to get a feel
+early on for the characters -- if they seem to respond to a lot of questions,
+remember what they're told, move around on their own, etc., then they may be
+fairly important.  If they have a lot of stock responses and don't seem to have
+been the game designer's main concern, then they are most likely present either
+as local colour or to provide the solution to a specific puzzle or set of
+puzzles.  Characters in very puzzle-oriented games often have to be bribed,
+threatened, or cajoled into doing something that the player cannot do -- giving
+up a piece of information or an object, reaching something high, allowing the
+player into a restricted area, and so on.
+69916: sign is where the game says, "Okay, what do you want to do now?"  You
+may respond by typing an instruction -- usually an imperative verb, possibly
+followed by prepositions and objects.  So, for instance, LOOK, LOOK AT FISH,
+TAKE FISH.
+70122: The first thing you want to do when starting a game is acquaint yourself
+with your surroundings and get a sense of your goal.  To this end, you should:
+70282: Get an idea of what sort of place you're in.  Usually the description
+will tell you two important things: where the exits from the room are, and what
+the objects are that you can interact with.  Type LOOK if you want to see the
+room description again.
+70488: Individual descriptions of items can help you out.
+70538: Information about your character may be important.
+70598: Sometimes you'll be holding something important.
+70644: Move from room to room, and check out every location available.
+70836: Examine every object mentioned in room descriptions, and everything in
+your inventory.  Examine yourself, too. Look inside all closed containers. 
+Open all doors and go through them.  If anything is locked, that's probably a
+puzzle, and you should try to get it unlocked.
+71052: If the game mentions an interesting texture, odor, or sound, try
+SMELLing, TOUCHing, LISTENing, etc.
+71152: If you *still* can't figure out what to do, try opening windows, looking
+under beds, etc.  Sometimes objects are well-hidden.
+71256: Look back at things you've already seen; sometimes this will trigger an
+idea you hadn't thought of.
+71360: Things that are described in great detail are probably more important
+than things that are given one-liners. Play with those objects.  If a machine
+is described as having component parts, look at the parts, and try manipulating
+them.   Likewise, notice the verbs that the game itself uses.  Try using those
+yourself.  Games often include special verbs -- the names of magic spells, or
+other special commands.  There's no harm in attempting something if the game
+mentions it.
+71706: If you have something in mind that you want to do, but can't get the
+game to respond, try alternative wordings.  Often synonyms are provided.  Game
+designers usually try to anticipate all the synonyms you are likely to come up
+with, but they may not have thought of yours.
+71914: Sometimes an action doesn't work, but *does* produce some kind of
+unusual result.  These are often indications that you're on the right track,
+even if you haven't figured out quite the right approach yet.  Pressing the red
+button alone may only cause a grinding noise from inside the wall, so perhaps
+pressing the blue and *then* the red will open the secret door.
+72214: Sometimes there is a system in play that does not operate in the normal
+world -- a kind of magic, for instance, or technology we don't have on
+modern-day earth.  If you've been introduced to such a system in the game, ask
+yourself how you might apply it to the situations that are still causing you
+problems.
+72456: Are there extra windows besides the main window?  What's going on in
+those?  Check out the status bar, if there is one -- it may contain the name of
+the room you're in, your score, the time of day, your character's state of
+health, or some other important information.  If there's something up there,
+it's worth paying attention to that, too.  When and where does it change?  Why
+is it significant?  If the bar is describing your character's health, you can
+bet there is probably a point at which that will be important.
+72852: Mysteries, romances, and thrillers all have their own types of action
+and motivation.  What are you trying to do, and how do conventional characters
+go about doing that?  What's the right sort of behavior for a detective/romance
+heroine/spy?
+73042: Two heads are usually better than one.
+73076: Try typing HINT, HELP, INFO, ABOUT:
+73272: mint-fiction.  For best results, put the name of the game you want help
+with in the subject line; then leave a page or so of blank "spoiler space" (so
+that no one will read about where you got to in the game unless they've already
+played it), and describe your problem as clearly as possible.  Someone will
+probably be able to tell you how to get around it.
+73524: Email the author:
+73538: If you're stuck somewhere that just makes no sense at all, it's possible
+that you're facing a bug.  If you think you are, you should email the author
+(politely) to report the problem and ask for a way around it.
+73690: Here is a list of the standard instructions in games like this. You
+should be aware that the game you are playing may introduce some other verbs,
+as well.  This list is just a place to start:
+73828: The following commands control the game itself:
+73866: Standard abbreviations are as follow:
+73896: I -- INVENTORY.  See what you're holding.
+73950: See what's around you.
+73984: Repeat the previous command.
+74030: In order to communicate with the game, you will need to enter
+instructions beginning with imperative verbs -- as though you were giving
+orders to someone else to carry out.  For instance, >CLOSE THE DOOR or >LOOK
+UNDER THE RUG.
+74214: You may use articles ("the" and "a"), but you do not need to.  >CLOSE
+DOOR will also work for the game's purposes.
+74334: At any given time, you are in a specific location, or room.  When you go
+into a room, the game will print a description of what you can see there.  This
+description will contain two vital kinds of information: things in the room you
+can interact with or take, and a list of exits, or ways out.  If you want to
+see the description again, you may just type LOOK.
+74930: In some locations, IN and OUT will also be useful.
+74988: Throughout the game there will be assorted objects that you can do
+things with.  Most importantly, you may TAKE or GET items, and (when you are
+tired of them) DROP them again.  INVENTORY (abbreviated I) will list the items
+you are currently holding.
+75178: There are usually assorted things you may do with these objects. OPEN,
+CLOSE, WEAR, EAT, LOCK, and UNLOCK are especially common.
+75292: Occasionally, you will find that the game does not recognise the name of
+an object even though it has been described as being in the room with you.  If
+this is the case, the object is just there for scenery, and you may assume that
+you do not need to interact with it.
+75502: From time to time you will meet other people and creatures. You will be
+unable to converse with the people in plain English; instead, a more
+constrained system of communication is used. There are four common ways to talk
+to characters:
+76010: >TIN MAN, GET UP. CARRY US
+76048: FREDDY, HELLO is not an actual command, but is phrased like one. (Note
+that not all games implement this command, but it's worth knowing about just in
+case.) Notice that you can give characters more than one command on a line.
+Most characters will be less than responsive to commands.
+76256: From time to time you will meet other people and creatures. You may use
+the command >TALK TO CHARACTER, and the game will give you a menu of options,
+which you may use to converse with the character in plain English.
+76420: You may also find it useful to show them things:
+76658: From time to time you will meet other people and creatures. You will be
+unable to converse with the people in plain English; instead, you may use the
+command >TALK TO CHARACTER, and the game will decide what you should say at
+this juncture.
+76840: From time to time you will meet other people and creatures. You will be
+unable to converse with the people in plain English; instead, a more
+constrained system of communication is used. There are three common ways to
+talk to characters:
+77008: Bring up a topic for conversation.
+77142: and the game will also keep track of which person you're talking to, if
+you've already started a conversation.  This allows briefer commands, like so:
+77278: If there is more than one thing you are allowed to ask Betty about the
+chocolate cake, the game will give you a menu of options in the window at the
+bottom of the screen.  Otherwise, it will carry out your instruction
+immediately.
+77578: >TIN MAN, GET UP. CARRY US
+77616: Most characters will be less than responsive to commands.
+77680: There are a few simple commands for controlling the function of the game
+itself.  These are:
+77960: Some online sources of introductory help for IF games include:
+78128: For more information about IF, the IF community, and other games to
+play, you should also try:
+78506: mint-fiction."  You will be presented with a long list of things that
+people are already talking about. If you've never read this newsgroup before,
+you should look for a thread with the word "FAQ" in the title, and read it:
+this will give you instructions about how to post without breaking any of the
+community's rules of etiquette.  (They're not especially fussy, but following
+them will get you prompter and more polite assistance.)
+78814: Once you've done that, you may post a new message with a clearly
+labelled subject (like "[HINT REQUEST] Jigsaw" or "Looking for Mystery Games").
+ Afterwards, wait a few hours and check the newsgroup again to see whether
+anyone has an answer for you.
+79428: BASIC file in CLOAD magazine, which was produced on cassette for the
+TRS-80/Video Genie computer.
+79508: By entering the command HELP some special help hints are available at
+certain points in the game. Type GAMES or INSTRUCTIONS for more general help on
+playing adventure games of this type.
+79652: The names of objects can usually be abbreviated by typing just the first
+three letters. You can use the standard Inform Save/Restore and Undo to recover
+from wrong moves, and some game interpreters may allow you to do this
+repeatedly. This may be useful if your game character is killed.
+79854: Command Summary:
+80328: The ghost stares at you mournfully. Someone must have died near here
+once, long ago.
+80388: The ghost sways and sighs softly.
+80412: The ghost sways and sighs softly.
+80436: You are in the dining room. You can go east to the kitchen, or south to
+the library.
+80496: You can't go that way.
+80516: You see nothing special.
+80536: The table is long, and made of dark, polished wood.
+80574: The table is long, and made of dark, polished wood. 
+On it you see a
+candle...
+80636: You see a rather plain, unlit candle.
+80664: The candle is lit and shining brightly.
+80692: OK... you light the candle using the matches.
+80728: OK... you light the candle using the matches.
+80764: You have nothing to light it with.
+80788: Your candle is flickering. It's almost at the end.
+80826: The last sliver of your candle flickers one final time, then goes out
+completely.
+80888: You are in an empty kitchen. There is a dining room to the west.
+80936: You can't go that way.
+80956: You see nothing special.
+80980: You see two items inside the cupboards. 
+You have found a spool of silk
+thread and an old lemon half.
+81052: You see two items inside the cupboards. 
+You have found a spool of silk
+thread and an old lemon half.
+81124: You see half of an old, dried-up lemon.
+81160: The black silk thread looks thick and strong.
+81192: You see a kitchen counter.
+81212: You see something at the end of the counter. 
+You have found a box of
+matches.
+81268: It's just a wooden worktop used for preparing food.
+81304: The box is full of matches.
+81324: You are in a dusty laboratory. You can only go east to the stairs
+leading back to the library.
+81392: You can't go that way.
+81412: You see nothing special.
+81432: It all looks like part of some sort of dangerous electrical apparatus
+that you'd rather not poke about with.
+81508: You see a lever marked 'POWER' on the control panel.
+81552: You see an old electrical control panel, packed with rather
+dangerous-looking wires, dials and coils that you'd rather not investigate too
+closely.
+81660: You see a large, heavy slab of white stone, on which lies a monster.
+81708: You see a sharp, surgical steel scalpel.
+81772: You see a large, ugly, man-like monster on a slab. It is not moving.
+81824: That's far too big and heavy to lift.
+81852: You haven't threaded the needle yet.
+81880: You're not ready to sew yet. Something's missing.
+81920: The monster isn't ready to be sewn yet.
+81948: The monster isn't ready to be sewn yet.
+81980: You see the frightening, nightmarish creature moving towards you!
+82028: It doesn't look like a good time just now...
+82064: It doesn't look like a good time just now...
+82136: There is a lever marked POWER.
+82164: You see a small padlock on the lever. It's locked.
+82204: You see a large electrical control lever.
+82236: The lever is in the OFF position, fixed by a padlock.
+82276: You pull the lever. The power is now ON... 
+
+There's a crash and a smell
+of burnt flesh... 
+The monster comes to life in a flash of sparks! 
+Too late,
+you realise your error in bringing it to life, and must destroy it! 
+But it's
+about to attack, and you have no time!
+82476: You have nothing to break it with.
+82500: You beak the padlock with the crowbar.
+82528: You see a strong shovel. It looks fairly new.
+82564: You are at the top of some narrow stairs. You can go down, or east back
+to the library bookcase.
+82632: You see nothing special.
+82652: You are at the bottom of a narrow stairway. There is an old laboratory
+to the west.
+82712: You can't go that way.
+82732: You see nothing special.
+82752: You are in a secret passage behind the bookcase.
+82786: You see a dimly lit passageway to the west, and you can go east to the
+library.
+82846: There is a dark passageway to the west, and you can go east to the
+library.
+82904: You can't go that way.
+82924: You see nothing special.
+82944: You are in the library. The dining room is to the north, and the musty
+entry hallway is south. Steps lead up to a hall.
+83032: You can see a secret passageway behind the bookcase to the west.
+83076: You can't go that way.
+83096: You see nothing special.
+83116: Dusty, leather-bound books are stacked on wooden shelves.
+83160: You haven't really got the time just now.
+83192: You see an old pen holder with a quill pen.
+83224: It's a polished, mahogany writing desk - perhaps an antique.
+83268: You see an old, marble pen holder with a quill pen.
+83306: You see an old, marble pen holder.
+83336: You see an old quill pen with a nib. There seems to be some dried lemon
+juice on the nib.
+83398: As you lift the pen, you hear a soft click. 
+The bookcase swings away
+from the wall to reveal a secret passageway behind, leading west.
+83496: You are in a musty hallway. There is a bedroom to the east, and you can
+go down to the library.
+83564: You can't go that way.
+83584: You see nothing special.
+83604: You are in the master bedroom. You can go out to the hall to the west.
+83656: You can't go that way.
+83676: You see nothing special.
+83694: There is an old four poster bed. 
+Presumably, Victor Frankenstein used
+to sleep here.
+83758: It's a heavy, old-fashioned painting. 
+It's a portrait of Victor
+Frankenstein.
+83822: The painting of Victor Frankenstein is on the floor.
+83864: OK. The heavy painting is now on the floor. 
+You see a strong safe with
+a combination lock.
+83932: That would serve little useful purpose.
+83960: You see a combination lock. The safe is locked.
+83996: You manage to remember the numbers you saw earlier. You dial in the
+numbers, and the safe opens smoothly. 
+You see a map and a book inside.
+84096: The map shows the secret safe path through the quicksand swamp.
+84140: It looks like Dr. Frankenstein's diary.
+It could be an interesting
+read...
+84288: You are in the entry hall. It is dark and dusty, and seems deserted.
+
+You can see the library through an open door to the north.
+84380: You can't go that way.
+84400: You see nothing special.
+84420: There is a wooden umbrella stand here.
+84448: The side table is made of dark mahogany. 
+On it you see a note...
+84496: You see a small side table made of dark mahogany.
+84530: Secret writing appears - it says 23-45-56
+You try to remember the
+numbers as the note burns up.
+84604: Secret writing appears - it says 23-45-56
+You try to remember the
+numbers as the note burns up.
+84808: You are in the porch of a large gothic mansion.
+84844: You can't go that way.
+84864: You see nothing special.
+84882: The front door of the mansion is made of dark-painted wood.
+84956: You unlock the front door of the mansion.
+84986: The front door to the north is open.
+85016: The front door to the south is open, leading back outside.
+85058: The mansion door to the north is shut.
+85088: The front door to the south is shut.
+85116: You are in the graveyard. You can go south to the gates leading outside.
+85168: You can't go that way.
+85188: You see nothing special.
+85208: You just see names and dates.
+85232: You see a recently-filled grave.
+85256: You see a pile of recently dug earth.
+85282: You see a wooden coffin from a recent burial.
+85318: You break open the coffin lid with the crowbar. 
+You see a fresh corpse.
+85372: You need something to prise it open.
+85400: You cut into the corpse with the scalpel.
+85432: You see a large screwdriver.
+85452: You see a fairly fresh human heart.
+85480: You put the heart into the monster.
+85508: That would serve little purpose in the game.
+85540: You see a fairly fresh human liver.
+85568: The wolf grabs the liver and runs off.
+85596: You are in the west end of a damp tunnel. 
+The tunnel leads east.
+85644: You can't go that way.
+85664: You see nothing special.
+85682: There is a stone slab here. 
+It looks a little loose and you might be
+able to move it.
+85746: You push the slab, which swings open and closes behind you...
+85796: You are inside the crypt.
+85816: You can't go that way.
+85836: You see nothing special.
+85856: Looks like angels.
+85876: It's smooth stone.
+85890: You push the stone door, which swings open and closes behind you...
+85942: You see an urn filled with ashes.
+85972: The ashes and some gold electrodes fall out of the urn...
+86014: You see an urn filled with ashes.
+86048: You see some gold electrodes.
+86076: You connect the electrodes to the monster.
+86108: You see some grey, dusty ashes.
+86136: The ashes and some gold electrodes fall out of the urn...
+86180: You can't. They keep slipping through your fingers.
+86220: It has a silver wolf's head handle.
+86248: You are in front of the crypt. You can go east to the cemetery gates.
+86300: You can't go that way.
+86320: You see nothing special.
+86340: You just see a name and dates.
+86364: There is a closed stone door here.
+86388: You are inside the cemetery gates. There are some large, metal gates to
+the east that lead outside. There is an old crypt to the west, and the main
+graveyard to the north.
+86508: You can't go that way.
+86528: You see nothing special.
+86546: The silver-headed cane killed the werewolf! 
+In death, it has returned
+to its human form.
+86612: The wolf becomes angry. He jumps on you and kills you.
+86652: You cut into the body with the scalpel.
+86680: You have found a needle and a fresh liver.
+86710: You see a sharp threaded needle.
+86736: You carefully thread the needle with the black silk thread.
+86780: You see a fresh human liver.
+86800: You put the liver into the monster.
+86828: That would serve little purpose in the game.
+86860: You just see names and dates.
+86892: You are on a dirt path. There is an old, rundown mansion to the north, a
+swamp in the distance to the east, and to the west is an overgrown cemetery.
+86996: You can't go that way.
+87016: You see nothing special.
+87034: You see a white envelope with your name written on the front in fine,
+copperplate handwriting.
+87102: It feels like there is something inside.
+87140: You find a letter and a key inside.
+87168: You see a key that looks like it might be for a front door.
+87292: You are on the edge of a swamp. There are the distant ruins of an old
+mill further to the east.
+87358: The monster follows you into the swamp and is caught in the quicksand.
+
+As it sinks below the surface forever, you can congratulate yourself on
+completing the Frankenstein Adventure.
+87488: You follow the safe path through the swamp shown on the map you are
+holding...
+87544: You can't go that way.
+87564: You see nothing special.
+87620: You see a strong, metal crowbar.
+87644: You by the ruins of an old mill. There is an open doorway to the mill to
+the east, and the swamp is to the west.
+87722: You follow the safe path through the swamp shown on the map you are
+holding...
+87780: You don't have the map! 
+You sink in the quicksand...
+87824: You can't go that way.
+87844: The door to the ruined mill is open.
+87872: The open doorway leads back outside.
+87900: You see nothing special.
+87920: You are inside the ruins of an old mill.
+87948: You can't go that way.
+87968: You see nothing special.
+87988: You see some decaying floorboards.
+88016: You see a dark hole in the rotting floorboards.
+88052: You are at the east end of a tunnel. There is a hole above you, and the
+tunnel leads west.
+88116: You see nothing special.
+88136: You see a hole above you leading to the mill.
+88188: You are wearing the rather old-fashioned, formal clothing of the late
+Victorian period...
+88252: This is an adventure based on the story of Doctor Frankenstein and the
+monster he created. You need to discover what you have to do - make sure you
+read any notes and messages you may find, and remember to examine everything.
+
+(Type ABOUT or INFO for more information)
+88448: You need to say which objects you want to take.
+88482: The monster is one step behind you!
+88512: OK. No extra ghosts will be added.
+88540: You don't have anything to light it with...
+88572: You won't use the quill pen and lemon, but Dr. Frankenstein did.
+88620: Your match burns brightly for a few moments, then flickers and goes
+out...
+88674: The monster follows you into the swamp and is caught in the quicksand.
+
+As it sinks below the surface forever, you can congratulate yourself on
+completing the Frankenstein Adventure.
+88804: You follow the safe path through the swamp shown on the map you are
+holding...
+88860: You follow the safe path through the swamp shown on the map you are
+holding...
+88916: You have nothing to light it with.
+88940: You aren't carrying anything you can pour.
+88972: The ashes and some gold electrodes fall out of the urn...
+89016: You're not carrying anything you can pour...
+89052: Save your sewing for the laboratory.
+89080: That's not something you can unlock.
+

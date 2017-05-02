@@ -1,0 +1,356 @@
+11936: There is no reply.
+12004: Nothing is on sale.
+12462: Dropped.
+13626: Wrahn seem interested.
+14141: Done.
+14190: You are carrying nothing.
+14275: Keep your mind on the game.
+14300: You hear nothing unexpected.
+15364: But it's dark.
+15381: You find nothing of interest.
+15409: Quite.
+15466: o. You have won
+15552: It is now pitch dark in here!
+15704: Think nothing of it.
+15757: As good-looking as ever.
+16008: You aren't holding that!
+16253: You are not carrying anything.
+16698: That was a rhetorical question.
+16725: Score notification off.
+16748: Score notification on.
+16777: Objects you have handled:
+16802: None.
+17275: You have visited:
+17469: You are unable to.
+17488: Nothing obvious happens.
+17538: That's not a direction.
+17561: Not that way you can't.
+17708: You lack the dexterity.
+17789: Done.
+17837: Please answer yes or no.
+17863: Are you sure you want to quit?
+18012: Removed.
+18043: Failed.
+18062: Restore failed.
+18079: Ok.
+18089: You achieve nothing by this.
+18121: Save failed.
+18136: Ok.
+18244: There is no score in this story.
+18282: Transcripting is already off.
+18348: Transcripting is already on.
+18414: But it's dark.
+18534: You find nothing of interest.
+18834: Your singing is abominable.
+18859: You've slept too long already!
+18886: You smell nothing unexpected.
+18913: Oh, don't apologize.
+18941: Keep your hands to yourself.
+18966: You achieve nothing by this.
+19195: Taken.
+19206: That makes little sense.
+19747: You taste nothing unexpected.
+19781: You talk to yourself a while.
+19808: This provokes no reaction.
+19834: What a good idea.
+19860: Futile.
+19889: Keep your hands to yourself!
+19914: You feel nothing unexpected.
+19939: If you think that'll help.
+20185: Time passes.
+20209: That seems unnecessary.
+20305: You wave, feeling foolish.
+63767: The door is closed.
+63808: You are already here.
+64090: You get back into bed.
+64111: You get out of bed.
+64574: .
+
+The phone rings
+64628: It isn't ringing anymore.
+64741: The phone rings.
+65031: The bedroom door has no lock.
+65126: The phone in the bedroom rings.
+65168: You are already here.
+65406: The bedroom door is closed.
+65459: The front door is closed.
+65534: The phone in the bedroom rings.
+65576: You are already here.
+65659: You don't have the keys.
+65758: The phone in the bedroom rings.
+65800: You are already here.
+66008: Better to leave it where it is.
+66074: You'd just burn the Pop-Tart.
+66111: The toaster is not a toy.
+66214: The front door is closed.
+66264: You are already here.
+66367: You don't have the keys.
+66409: It's already unlocked.
+66434: Unlocked.
+66452: You don't have the keys.
+66494: It's already locked.
+66517: Locked.
+66559: The car is locked.
+66709: That's probably not a good idea.
+66864: You are already here.
+67184: You are already here.
+67528: That isn't a writing implement.
+67582: You're not holding a pen.
+67626: You've already signed it.
+67707: You sign the form.
+68430: That isn't a vehicle.
+68477: That isn't a writing implement.
+68506: You're not holding a pen.
+70813: in" or "notin
+70829: opmhas" or "hasnt
+70971: }" at end of "objectloop
+73268: Score:
+73276: Moves:
+73284: Time:
+73292: That isn't a useful direction from here.
+73412: This seems like a waste of energy.
+73436: This dangerous act would achieve little.
+73464: I don't think much is to be achieved by that.
+73524: Digging would achieve nothing here.
+73552: There's nothing suitable to drink here.
+73580: That would scarcely empty anything.
+73608: You can only get into something free-standing.
+73680: But you aren't in anything at the moment.
+73712: But there's no water here to carry.
+73768: You can't put something inside itself.
+73796: You jump on the spot, fruitlessly.
+73824: You would achieve nothing by this.
+73876: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+73972: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+74056: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+74168: You see nothing unexpected in that direction.
+74264: Written and programmed by Adam Cadre. Tested by Alexandra Hoffer. v1.00
+tested by Liza Daly. Additional thanks to Elizabeth Sweeney, Jonathan Blask,
+and Jonatan Bleicher.
+74672: "Oops" can only correct a single word.
+74700: It is pitch dark, and you can't see a thing.
+75084: You can only do that to something living.
+75352: Nothing practical results from your prayer.
+75408: That would be less than courteous.
+75432: Is that the best you can think of?
+75456: You can't put something on top of itself.
+75488: Are you sure you want to restart?
+75512: Attempt to end transcript failed.
+75536: Attempt to begin transcript failed.
+75564: Real adventurers do not use such language.
+75596: There's not enough water to swim in.
+75624: There's nothing sensible to swing here.
+75652: You're carrying too many things already.
+75684: You lack the nerve when it comes to the crucial moment.
+75752: You'll have to say which compass direction to go in.
+75792: The game file has verified as intact.
+75820: The game file did not verify as intact, and may be corrupt.
+75864: You are awake, thanks to that phone call.
+75984: This bedroom is extremely spare, with dirty laundry scattered
+haphazardly all over the floor.
+76052: Cleaner clothing can be found in the dresser.
+76084: A bathroom lies to the south, while a door to the east leads to the
+living room.
+76140: It's just a regular bed.
+76160: The room is rank with the stench of death.
+76192: Under the bed you see the corpse of the guy who owns this house.
+76236: You look and feel much better after your shower. Still not the greatest,
+though.
+76296: You're covered with mud and dried sweat. It was an exhausting night - no
+wonder you overslept! Even making it to the bed before conking out was a heroic
+accomplishment.
+76484: Putting your soiled clothes onto your clean body would defeat the
+purpose of having taken a shower.
+76552: Just a simple dresser.
+76568: You'll have to get out of bed first.
+76600: Not very stylish, but presentable.
+76628: You'll have to take off the soiled clothes you're wearing first.
+76676: It seems ridiculous to put on fresh, clean clothes when you yourself are
+covered with mud and dried sweat.
+76752: You can change clothes later. This isn't the time.
+76792: A small end table, oak veneer over plywood.
+76824: An ordinary telephone, notable chiefly for being fifteen or twenty years
+old.
+76880: You pick up the phone. "Hadley!" a shrill voice cries. "Hadley, haven't
+you even
+77044: of you for Bowman to fire once he's done with you. Now get the hell
+77100: It's a brown leather wallet.
+77122: BRIAN HADLEY
+315 AVENIDA VICTORIA
+EAST LAS MESAS, DO 88827
+
+Driver's
+license photos are generally far from flattering, and this one is no exception,
+but this photo looks a lot better than you look now.
+77476: It isn't obvious how to use the ID card.
+77508: House keys, car keys, they're all on the same chain.
+77552: Shirts, pants, the usual.
+77572: You'll have to get out of bed first.
+77600: These clothes are no cleaner than the ones you have on.
+77640: You're already wearing clean clothes - why put on dirty ones?
+77684: These clothes are no cleaner than the ones you woke up in.
+77724: You'll have to get out of bed first.
+77752: You see nothing valuable amid the piles of dirty laundry.
+77792: You'll have to get out of bed first.
+77820: Just a regular door.
+77836: The bathroom lies to the south.
+77860: The living room lies to the east.
+77884: You're not normally violent - you generally don't even carry a weapon on
+these jobs - but the guy lunged at you with a knife and so you had no choice
+but to break his neck.
+78004: You'd rather not mess around with the corpse - better to just clean up
+and get out of here.
+78068: This is a far from luxurious but still quite functional bathroom, with a
+sink, toilet and shower. The bedroom lies to the north.
+78160: The bedroom lies to the north.
+78184: It's a toilet like any other.
+78208: You've already taken care of that.
+78236: Good idea. A few moments and a loud flush later you feel much better.
+78288: There's nothing extraordinary about the sink.
+78320: Only the shower has any chance of getting you clean at this point.
+78368: It's a stand-up shower stall - no tub.
+78400: It's generally a good idea to take off one's clothes before showering.
+78452: You don't think the watch you're wearing is waterproof.
+78492: Carrying your possessions into the shower is a bad idea.
+78532: You're as clean as you're going to get.
+78564: You step into the shower, turn on the water, and within a few moments
+you feel like a new man. But no time to dawdle - you hop back out again and dry
+off in record time.
+78818: , none of that - but this living room is still nicer than most of those
+in this neighborhood. A kitchenette lies to the east, the bedroom to the west
+and the front door to the south.
+78944: You need to clear out quickly, true, but you look like an absolute wreck
+- going out in this condition and drawing the inevitable bewildered stares
+would just be making a bad situation worse.
+79076: Walking outside naked would probably not be a smart move.
+79116: This door has seen better days.
+79140: The locking mechanism seems to be broken.
+79176: A sofa, some tables, a few chairs.
+79204: You don't have time to sit around right now.
+79236: The bedroom lies to the west.
+79260: The kitchenette lies to the east.
+79284: You don't really have time to poke around and cook yourself a fabulous
+breakfast right now. Best to keep your time here limited. The exit is west.
+79388: Formica, heavily chipped.
+79408: A simple toaster.
+79424: The Pop-Tart is now nicely browned and piping hot. You wait a moment for
+it to cool and remove it from the toaster.
+79508: A cinnamon breakfast pastry. It's
+79536: It's not Sunday brunch at Le Trop Cher, but it'll do.
+79580: The living room lies to the west.
+79604: This is quite a seedy neighborhood, but there isn't really anywhere in
+the whole Las Mesas metro area that isn't at least a little rundown. Of course,
+the locals may complain about the ugliness and the crime, but the fact is that
+a starter home like this one would cost easily five times as much in someplace
+like Las Playas - and that's if you could find one.
+
+The house lies to the
+north.
+79880: The house lies to the north.
+79900: A car is parked here in the driveway.
+79928: The car is parked in the parking lot.
+79956: It's a nicer car than one would expect in this neighborhood - a real
+eye-catcher.
+80016: It's a nicer car than many. You have no complaints.
+80056: The keys are lying on the driveway - you'll want those.
+80096: The keys are lying on the floor of the car - you'll want those.
+80142: You climb inside and realize that you don't have the keys. But no time
+to waste - you yank open the access panel near the ignition and hotwire the
+car, which starts right up.
+80266: You climb inside and start up the engine.
+80300: The keys are lying on the ground - you'll want those.
+80340: The keys are lying on the floor of the car - you'll want those.
+80386: You climb inside and realize that you don't have the keys. But no time
+to waste - you yank open the access panel near the ignition and hotwire the
+car, which starts right up. You return to the house...
+80532: You get back behind the wheel and return to the house...
+80576: You switch off the engine and hop out.
+80688: Ah, scenic Las Mesas. Man, this place is an absolute toilet. Soon you'll
+be able to afford to get the hell out of here - provided you can avoid making
+any more slip-ups on the job.
+80818: As you cruise down the road, you notice a freeway onramp approaching.
+Would you like to get on? >>
+80896: You start to change lanes, but you notice that the ramp is out of
+service today - some sort of maintenance work. But that's okay - there's
+another onramp less than a mile down the road from here. You keep driving.
+81048: It turns out that the ramp was blocked anyway - some sort of maintenance
+work. You keep driving.
+81118: As you cruise down the road, you see the familiar Loungent Technologies
+building approaching. Would you like to stop here? >>
+81214: You pull into the parking lot and hop out.
+81248: Soon the Loungent building is in your rear-view mirror. You keep
+driving.
+81304: As you cruise down the road, you notice another freeway onramp
+approaching. Would you like to get on? >>
+81384: You merge onto the freeway, crank up the radio, and vanish without a
+trace.
+81438: You elect not to get on the freeway, but the idiot in the other lane
+decides to give it a try. Swerving in front of you before you can react, he
+sparks a collision that ends in a gruesome fireball.
+81580: You are at the employees' entrance to the Loungent Technologies
+building. There is a slot by the door, next to a sign reading "INSERT ID CARD
+HERE".
+81696: It's a glass door that says "EMPLOYEES' ENTRANCE" on it.
+81752: The door only opens after a Loungent ID card is inserted in the slot.
+81804: Pounding on the door won't get you in.
+81832: It's a slot for Loungent ID cards.
+81860: The slot only accepts Loungent ID cards.
+81890: A green LED lights up, the door clicks open and you step inside.
+81940: You are standing in a hallway near the back entrance to Loungent
+Technologies. The hallway leads north to the reception area and south to the
+parking lot, while a door marked "MATTHEW BOWMAN" lies to the west.
+82096: Given the circumstances, wandering around Loungent making small talk
+with the programmers might not be the brightest idea you've had today.
+82192: That note suggested that walking into Bowman's office without the form
+wouldn't be very smart.
+82260: That note suggested that walking into Bowman's office with an unsigned
+form wouldn't be very smart.
+82552: The anchorman chuckles. "And now, on the lighter side of the news -
+you've heard about the burglar who broke into a home and started stealing the
+family's valuables, only to get so worn out from the exertion that he fell
+asleep and was caught when the homeowners returned? Here's one to top that: a
+burglar broke into an East Las Mesas home, killed the owner and stashed his
+body under the bed, put his possessions in the trunk of his car - and then fell
+asleep, woke up the next morning, went to his victim's office and tried to do
+the victim's job! An insanity defense is likely. And now here with the weather
+is Jay Doubleday - or is it?"
+83008: You peek into Bowman's office - it's empty. You're tempted to go poking
+around, but some glances in your direction from down the hall put an end to
+that idea.
+83120: You'll have to wait for Bowman to get back.
+83152: You won't be able to get back in without your ID card.
+83192: It's a glass door that says "ECNARTNE 'SEEYOLPME" on it.
+83248: It opens automatically from this side.
+83276: There is a cubicle here; it is marked simply "HADLEY".
+83324: The walls aren't high enough to give you the slightest bit of privacy.
+83376: Three walls which barely rise higher than the desk they enclose.
+83420: Looks like the usual junk from here. You'd have to enter the cubicle for
+a closer look.
+83484: This is a cheap desk attached to the very walls of the cubicle.
+83560: Someone passes by the cubicle as you sign the form. You look up just in
+time to see Bowman's door click shut.
+83640: You hear footsteps as you sign the form. You look up just in time to see
+Bowman's door click shut.
+83712: A simple ballpoint pen.
+83804: It's just a door.
+83820: The reception area lies to the north.
+83848: The parking lot lies to the south.
+83872: Bowman's office lies to the west.
+83896: The phone rings.
+
+Oh, no - how long have you been asleep? Sure, it was a
+tough night, but... This is bad. This is very bad.
+
+The phone rings.
+84042: You suddenly drop dead of internal injuries. Looks like last night was
+even tougher than you remembered.
+84372: That isn't something you can answer.
+84400: There is no shower in this location.
+84428: That isn't something you can sign.
+84508: In this particular case you'll have to be more specific.
+84836: give" or test "has" or "hasnt" with a non-attribute on the object
+84884: , but it is longer than 2 bytes so you cannot use "."
+

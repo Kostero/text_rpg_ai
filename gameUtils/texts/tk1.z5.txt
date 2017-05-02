@@ -1,0 +1,305 @@
+9445: Score:
+9459: Moves:
+9476: Time:
+9616: I beg your pardon?
+9664: [You can't "undo" what hasn't been done!]
+9705: ke   Gpm[Your interpreter does not provide "undo".  Sorry!]
+9770: fpm[Can't "undo" twice in succession.  Sorry!]
+9956: Sorry, that can't be corrected.
+9991: Think nothing of it.
+10014: d."Oops" can only correct a single word.
+10334: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+10407: You can hardly repeat that.
+10637: You can't begin with a comma.
+10694: You seem to want to talk to someone, but I can't see whom.
+10785: To talk to someone, try "someone, hello" or some such.
+12429: I didn't understand that sentence.
+12536: I didn't understand that number.
+12568: You can't see any such thing.
+12601: You seem to have said too little!
+12633: You aren't holding that!
+12662: You can't use multiple objects with that verb.
+12702: You can only use multiple objects once on a line.
+12781: You excepted something not included anyway!
+12819: You can only do that to something animate.
+12857: That's not a verb I recognise.
+12887: That's not something you need to refer to in the course of this game.
+12943: You can't see "
+12988: I didn't understand the way that finished.
+13109: There are none at all available!
+15909: Sorry, you can only have one item here.  Which one exactly?
+24814: At the moment, "it"
+24886: and "me" means
+24913: exn** Player objects must have "number" prop **
+30045: M.
+34809: Trace off.
+35480: Nothing to do!
+35770: Please give one of the answers above.
+35867: Please answer yes or no.
+35887: Are you sure you want to quit?
+35921: Are you sure you want to restart?
+35947: Failed.
+35964: Restore failed.
+35977: Ok.
+35992: Save failed.
+36003: Ok.
+36018: The game file has verified as intact.
+36045: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+36220: Transcripting is already off.
+36243: End of transcript.
+36265: Score notification on.
+36287: Score notification off.
+36311: You have visited:
+36358: None.
+36583: You are carrying nothing.
+36626: Taken.
+36638: You are always self-possessed.
+36758: You already have that.
+36846: That isn't available.
+36889: That's hardly portable.
+36913: That's fixed in place.
+36937: You're carrying too many things already.
+37013: Already on the floor.
+37035: You haven't got that.
+37078: Dropped.
+37123: But it isn't there now.
+37147: You'll need to take it off first.
+37172: Removed.
+37253: You can't put something on top of itself.
+37331: You lack the dexterity.
+37411: Done.
+37453: You need to be holding it before you can put it into something else.
+37533: Alas, it is closed.
+37555: You'll need to take it off first.
+37585: You can't put something inside itself.
+37675: Done.
+37717: That isn't in your possession.
+37740: First pick that up.
+38034: That's not something you can enter.
+38102: You can only get into something on the floor.
+38219: But you aren't in anything at the moment.
+38288: You are on your own two feet again.
+38320: You'll have to say which compass direction to go in.
+38421: You can't go that way.
+38580: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+38682: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+38770: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+39187: But it's dark.
+39200: You find nothing of interest.
+39233: But it's dark.
+39323: You find nothing of interest.
+39351: You can't see inside, since it is closed.
+39450: That doesn't seem to be something you can unlock.
+39492: It's unlocked at the moment.
+39520: That doesn't seem to fit the lock.
+39574: That doesn't seem to be something you can lock.
+39640: First you'll have to close it.
+39668: That doesn't seem to fit the lock.
+39722: That's not something you can switch.
+39754: That's already on.
+39798: That's not something you can switch.
+39830: That's already off.
+39876: That's not something you can open.
+39908: It seems to be locked.
+39930: It's already open.
+40038: That's not something you can close.
+40070: It's already closed.
+40114: You're not wearing that.
+40162: You can't wear that!
+40184: You're not holding that!
+40208: You're already wearing that!
+40258: That's plainly inedible.
+40291: Not bad.
+40307: That was a rhetorical question.
+40335: This dangerous act would achieve little.
+40369: Nothing practical results from your prayer.
+40405: The dreadful truth is, this is not a dream.
+40443: That seems unnecessary.
+40493: What a good idea.
+40513: You smell nothing unexpected.
+40567: You taste nothing unexpected.
+40647: You feel nothing unexpected.
+40673: Digging would achieve nothing here.
+40705: Cutting that up would achieve little.
+40737: You jump on the spot, fruitlessly.
+40771: You would achieve nothing by this.
+40801: There's nothing suitable to drink here.
+40835: But there's no water here to carry.
+40867: Oh, don't apologise.
+40889: Real adventurers do not use such language.
+40925: Quite.
+40937: Violence isn't the answer to this one.
+40971: There's not enough water to swim in.
+41003: There's nothing sensible to swing here.
+41037: You can't usefully blow that.
+41091: No, you can't set that.
+41115: No, you can't set that to anything.
+41178: But you aren't holding that.
+41243: It is fixed in place.
+41265: You are unable to.
+41285: That would be less than courteous.
+41310: Nothing obvious happens.
+41339: Is that the best you can think of?
+41369: That's not a direction.
+41388: Not that way you can't.
+41438: You achieve nothing by this.
+41469: Futile.
+41476: You lack the nerve when it comes to the crucial moment.
+41525: You talk to yourself a while.
+41548: This provokes no reaction.
+41576: There is no reply.
+41596: Nothing is on sale.
+41642: I don't think much is to be achieved by that.
+41680: Time passes.
+41696: You aren't feeling especially drowsy.
+41795: Surely mom told you not to play with broken glass.
+41859: It begins to occur to you that the ceiling is moving... DOWNWARD!  You'd
+better find a way out pretty soon.
+41949: The ceiling slowly proceeds downward, making it a bit more uncomfortable
+around here.  You have perhaps no more than five minutes.
+42152: As the ceiling drops more, the glass tube, which is standing upright in
+the hole in the floor, creaks under the pressure between the floor and ceiling.
+ In a few seconds, the glass shatters, and the piece of paper falls to the
+floor.
+42317: You hear a sound of breaking glass come from the corridor.
+42368: You'd better get out of here soon!  A couple more minutes and you'll be
+a spot on the floor!
+42445: The cold rock ceiling forces you to the floor as it descends more.  You
+struggle to find some hiding place, but it is a futile attempt.  The ceiling
+turns you into a pancake.
+42643: There's some sort of panel on the wall nearby.
+42678: A brass panel is on the wall nearby, with lettered buttons on it.
+42735: It seems to be a panel with some buttons, but you can't quite see due to
+the excess dust covering the panel.
+42979: It's already clean enough.
+43010: The panel is too dusty to make out any of the buttons.
+43066: BLEEP!  A green light turns on, and the floor beneath you opens up!  You
+fall down a chute, and the landing is quite harsh.
+43166: A frustrating beep is emitted from the panel.
+43207: The panel is too dusty to see much.
+43296: The panel is too dusty to make out any of the buttons.
+43536: The glass tube is in the hole, standing straight up.
+43596: Why?
+43650: The ceiling has gotten too low!
+43772: Inside it is a piece of paper, rolled up.
+43839: It is completely seamless.
+44019: It's rolled up inside the glass tube.
+44048: It simply reads, "SZHXO".
+44185: The water has gotten too deep and the current from the duct prevents you
+from closing the door.
+44283: The door is too hard to reach now that you're floating above it.
+44360: As you open the door, water rushes at high speed through the doorway,
+lifting you and smashing you against a wall.  You fall unconscious, and drown
+to death.
+44555: Water pours into the armory from the well room as you open the door.
+44695: You close the door, making the water build up in here more rapidly.
+44744: You close the door, cutting off the water flow from the well room.
+44855: This steel ball is much too heavy to walk around with.
+44922: You're in no position to worry about taking or dropping anything other
+than the heavy steel ball in your hands.
+45002: You're losing your grip...
+45113: It looks extremely heavy.
+45143: Try pushing it a certain direction.
+45207: You need to be empty-handed before carrying this heavy thing!
+45319: It's very heavy, and you're not sure how long you can hold it!
+45395: You drop the steel ball and chain to the floor.
+45436: The ball rolls over the stone floor, making a quiet grating sound.
+45498: The windshield is too wide to fit through the doorway.
+45728: What a way to die!
+45809: The ball and chain sit in the tire, stopping the water from pouring
+through the hole.
+46001: What was the point of that?
+46022: You drop the ball and chain onto the tire.
+46343: You grab a hold of it and prepare to drag it along with you.
+46395: The clothes are too ubiquitous to gather and take with you.
+46447: The toy rattles a little as you pick it up.
+46483: A rattling sound is heard as you drop the baby's toy to the ground.
+46557: Maybe you should put it in something, or wipe it on something.
+46621: You wipe the steak against the battery, getting some acid on it.
+46668: That wouldn't be useful.
+46695: There's a dead man-eating plant here.
+46726: You see a huge man-eating plant here!
+46835: I'd be pretty careful if I were you.
+46864: The plant is dead, now nothing more than a lifeless pile of greenery.
+46953: It opens its mouth and gobbles up the steak quickly.
+46999: The plant shudders for a moment, goes into a brief convulsion,
+collapses.  It appears to be quite dead.
+47105: Let's try not throwing things at the animals!  You succeed in angering
+the plant by throwing things at it.  It descends towards you and swallows you
+whole.  Definitely not fun.
+47433: Hmfilling up the room.
+47513: You hear the armory door creak as the water pressure tests its strength.
+ A brief moment later, the door crashes down, and water comes rushing at you,
+throwing you against a wall and knocking you unconscious.  Needless to say, you
+never wake up.
+47699: Your feet are a little chilled as the water swishes around your ankles.
+47755: The water raises more, up to your calves.
+47858: You'd better get out of this room like now!  You start treading water as
+the water level raises more, starting to push you to the ceiling.
+47957: You start treading water as the water gets higher.  The cool water
+starts lifting you up, towards the hole in the ceiling.
+48054: Better evacuate this room and head to the well really soon!  You're
+going to find it very hard to swim there when this place is full of water.
+48155: Looking up, you see the hole in the ceiling coming closer as the water
+raises you up towards it more.
+48241: You were warned!  The water reaches the ceiling, and the current coming
+from the duct makes it extra hard for you to swim to the well in time.  You die
+a very watery death.
+48364: When you get close enough to the hole, you grab onto the edges of it and
+pull yourself out of the well.  Whew!
+48471: Just wait for the water to take you there.
+48507: The opening in the ceiling is much too high up for you to access it.
+48718: Mmm, appetizing!
+48791: It's a bit too raw for your taste.
+48835: That would get you nowhere.
+48941: Looking down into the hole, you see darkness.
+48983: It's not big enough for you to fit through.
+49021: It's too dark to see anything down there.
+49367: You climb back out of the overflowing well.
+49398: You can only go east.
+49431: As you walk down the path towards a nearby meadow, everything starts to
+waver.  Your surroundings shimmer and fade, and after a moment, you find
+yourself back home in your room.  You shrug it all off as a drunk episode, and
+go to sleep.
+
+Thanks for playing Time-Killer #1: Claustrophobia.  These are
+just short games so I can practice making challenging puzzles.  Watch for more!
+49718: You were just walking down the street, minding your own business, when a
+man in a cape passed by you.  He turned to face you, your heart skipping a beat
+as the sound of his feet turning on the street echoed in your ears.  Then there
+was a sharp pain in the back of your head, and everything went black...
+50183: You can't type on that.
+50216: Now using metric system.
+50245: No longer using metric system.
+50268: Either turn it on or off.
+50290: You can't do that.
+50342: A Time-Killer
+Copyright (C) 1995 by Sam Hulick.
+Try "metric on/off" for
+British/American measuring systems.
+50456: You can't go that way.
+50524: It is pitch dark, and you can't see a thing.
+50556: As good-looking as ever.
+50604: Just some shards of broken glass.
+50628: Pieces of glass lie scattered here on the floor.
+50772: A narrow corridor heads north, and that seems to be the only exit from
+here.
+50898: The corridor is actually a dead end, so you can only go back to the
+round room.
+51074: There's another room to the east.
+51376: It has a few holes and is cracked quite badly in one part.
+51424: Tattered old clothes: shirts, pants, socks.
+51456: A scratched-up old piece of silverware.
+51484: It's a small baby's toy that rattles when shaken.
+51552: Corrosion covers the posts, and there's a long crack down the side of
+the battery, with battery acid coming out.
+51632: Battery acid slowly leaks from the battery.
+51698: You wonder what it's doing here.
+51858: To the east is a ladder leading down to the ground.
+

@@ -1,0 +1,685 @@
+28673: against it. Violence
+29558: Dropped.
+29634: Not bad.
+31505: Done.
+33159: Quite.
+33541: As good-looking as ever.
+33891: I'm not sure what "
+34584: That was a rhetorical question.
+34677: None.
+35951: Done.
+36140: Removed.
+36384: There is no score in this story.
+37094: Oh, don't apologise.
+37464: Taken.
+38075: What a good idea.
+38102: Futile.
+80975: uxm
+"I knew that already,"
+87131: The editor coughs.
+87195: The editor clears his throat.
+87234: A siren whizzes passed outside.
+87334: The editor adjusts his tie.
+87466: You come over a little queer.
+87502: It reads:
+furniture desk "desk"
+88132: You close the magazine.
+88282: You've seen it, dummy!
+88397: You put on the pretend glasses.
+88530: , "is that proof enough?"
+88687: "So you say, sir."
+89122: Consider yourself commissioned!
+102217: in" or "notin
+102233: opmhas" or "hasnt
+102375: }" at end of "objectloop
+104532: Get Magazine. Open Magazine. Read Article.
+104804: Score:
+104812: Moves:
+104820: Time:
+104828: You can't go that way.
+105444: Keep your mind on the game.
+105500: is now in its "brief" printing mode, which gives long descriptions of
+places never before visited and short descriptions otherwise.
+105592: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+105676: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+105976: Nothing to do!
+106176: Please give one of the answers above.
+106224: I beg your pardon?
+106240: You can't "undo" what hasn't been done!
+106272: Can't "undo" twice in succession. Sorry!
+106304: Previous turn undone.
+106320: Sorry, that can't be corrected.
+106344: Think nothing of it.
+106360: "Oops" can only correct a single word.
+106388: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+106448: You can't begin with a comma.
+106512: To talk to someone, try "someone, hello" or some such.
+106552: I didn't understand that sentence.
+106612: I didn't understand that number.
+106636: You seem to have said too little!
+106660: You can't use multiple objects with that verb.
+106696: You can only use multiple objects once on a line.
+106732: You excepted something not included anyway!
+106764: You can only do that to something animate.
+106796: That's not a verb I recognise.
+106820: That's not something you need to refer to in the course of this game.
+106880: I didn't understand the way that finished.
+106912: Nothing to do!
+106924: There are none at all available!
+106948: only have one item here. Which exactly?
+106980: Since something dramatic has happened, your list of commands has been
+cut short.
+107036: Please press SPACE.
+107056: Score notification off.
+107076: Score notification on.
+107252: Is that the best you can think of?
+107340: Please answer yes or no.
+107360: Are you sure you want to quit?
+107384: Are you sure you want to restart?
+107408: Failed.
+107416: Restore failed.
+107428: Ok.
+107448: Save failed.
+107460: Ok.
+107464: Transcripting is already off.
+107488: End of transcript.
+107504: Attempt to end transcript failed.
+107528: Transcripting is already on.
+107548: Start of a transcript.
+107564: Attempt to begin transcript failed.
+107628: Keep your hands to yourself.
+107664: Real adventurers do not use such language.
+107864: Keep your hands to yourself!
+108028: You'll have to say which compass direction to go in.
+108068: The game file has verified as intact.
+108096: The game file did not verify as intact, and may be corrupt.
+108224: I couldn't go that way.
+108244: I can't go that way.
+108280: You couldn't go that way.
+108300: You can't go that way.
+108344: It couldn't go that way.
+108364: It can't go that way.
+108404: She couldn't go that way.
+108424: She can't go that way.
+108468: He couldn't go that way.
+108488: He can't go that way.
+108620: "Yes, I know about that but I think I'll keep it to myself."
+109052: .  "I'll have to remember that."
+109086: "I'm afraid I don't know anything about that,"
+109948: Feelies! You remember these! They were little objects that games
+manufacturers included in the packaging. They sort of bridged the distance
+between the reality of the player and the reality of the game. Sometimes they'd
+be useful items, like maps of certain areas of the game; other times, they'd be
+little more than fun items like these.
+110208: An official looking piece of paper ordering the destruction of
+property.
+110260: It would be bad manners to start rearranging the furniture. You leave
+110312: "Work damn you!"
+110336: This is the reception area. There is a sign here, and a podium
+110380: . The centre of the reception is dominated by a large and out of place
+leather-lined desk
+110444: . There is also a small waiting area with four low chairs and a coffee
+table.
+The door to the main office lies to the west.
+110532: The sign reads "Gone to lunch" in hastily scrawled marker pen.
+110580: The receptionist seems to have switched it for a less classy number.
+110628: The tiny little door is closed. There is a miniscule sign hanging from
+the handle which you can just make out (in Century Schoolbook point 6) the
+phrase "Do not disturb".
+110808: You see the reception area lying beyond the office door.
+110848: You can make out the silhouette of Our Humble Editor in the office
+beyond.
+110904: Difficult, that, looking through closed doors...
+110944: You are in the office. If this is a place of industry and toil there is
+little sign of it now.
+111118: a comfortable looking chair, in which sits Our Humble Editor. Hanging
+on the wall is a painting you don't recall seeing when last you visited. The
+way back to the reception area lies east.
+111256: the editor is speaking into his dictaphone. He beckons you in. 
+
+"
+111774: " He stops the dictaphone and places it in his jacket pocket.
+
+"You're
+early? Good!
+111972: the editor tsk-tsks at you. He taps at his pocketwatch.
+
+"Late, boy!
+Late! This simply won't do! Still, let us waste no more time,
+112072: I have a task for you; a job. Tell me what you know about text
+adventures."
+112128: Everything seems grey in the deadzone. You feel you oughtn't be here.
+112232: Your view of the farside of the plinth is obscured by the legs of the
+receptionist.
+112292: You chance a glance behind the podium and happen to see the smallest,
+tiniest door you've ever encountered.
+112368: Set in the back of the plinth is the tiniest door you've ever seen!
+112416: Through the door you can see a tiny little man, curled up on a pile of
+leaves. You can hear him gently snoring.
+112496: Through the door you can see a tiny little man, curled up on a pile of
+leaves. You can hear him gently snoring.
+112576: Difficult, that, looking through closed doors...
+112612: He must be all of six inches tall, and fast asleep.
+112648: "Hello there?" you say, and "Sorry to trouble you..."
+112692: "Hey! Wake up!" you shout
+112756: The smallest sign imaginable.
+112780: "Do not disturb" says the sign.
+112804: A brass frame on a stick. The lettering is ornate, and if you haven't
+missed your mark is of the typeface Felix Titling.
+112892: It says 'Please ring for assistance'.
+112920: The kind of bell you get in reception areas... hey, wait a second!
+112968: I shouldn't interfere with the equipment if I were you. These
+receptionists can be frightfully vindictive when riled.
+113050: The bell rings out for nearly a minute before a man in a dark red suit
+pops up from behind the podium and silences it with a single, outstretched
+finger. You wonder if he has been back there all the time.
+"Good day, sir. May
+I help you at all?" He asks.
+113236: The receptionist frowns at you. "Yes?"
+113268: You ring the bell again. The receptionist says "I believe the bell has
+served its function, sir. If I can be of any assistance, you only have to ask."
+113376: "Please, this is getting a little tiresome," the receptionist says.
+113428: The receptionist sighs, silences the bell, and moves it beneath the
+plinth, muttering to himself about the state of journalism in this day and age.
+113560: A low but comfortable looking padded black leather seat.
+113600: Slightly too large for the office, the mahogany and green leather desk
+dominates the room. The old buzzard has had this desk forever, and it shows its
+scars proudly. Its history is written out in spilt ink, cigar burns and coffee
+stains.
+113764: Here and there are the dark recesses of forgotten cigars and the deep
+gouges that bear witness to the strange and unusual punishment the editor has
+put to his furniture over the years.
+113996: The ink stains are many and varied. Here there is India, there
+Whistler's Mother, and scattered amongst them like the cadavers of dead
+instincts lie strange symbols, no doubt the product of the editor's scribbling.
+114220: It's a watercolour of a building complex lined with trees and greenery.
+114270: You reach out and try to push your way into the painting, but the
+editor stops you.
+"Steady on old chap! I've got to give it back to the Colonel,
+Friday! I'll look quite the cove returning it covered in your paw prints."
+
+"I
+thought I could enter it," you explain.
+
+"No, no. The mimesis won't allow that
+sort of behaviour!"
+114512: You reach out for the painting but- "Steady on old chap! I've got to
+give it back to the Colonel, Friday!"
+ You leave the painting alone.
+114614: The editor watched you examine the painting. "Pleasant view, no? That's
+MIT, the birthplace of Infocom. I'm breaking it in for a friend."
+114724: It's a watercolour of MIT, apparently.
+114754: The editor says "The Zork adventures were born in one of those
+buildings back in 1979."
+114854: I software SHRDLU was developed," the editor says. "That was one of two
+chief programs that were text based, had a natural language interface and
+preceded Advent. Not exactly an adventure, though, stacking geometric solids!"
+115020: The painting seems almost to move, to sway invitingly. You feel you
+could amost reach out and enter it.
+115092: "Don't care much for watercolours, m'self," says the ed. "Give me oils
+any day; oils or a bit of marble.
+115172: Gummo is lord of the deadzone.
+115200: You made an attempt to smarten yourself up a bit for your meeting but
+have not successfully masked your dishevelled heart.
+115284: "Time presses on, m'boy," says the editor. He retrieves from his pocket
+a sheet of paper which he hands to you.
+
+"I found these useful," he says.
+115392: "Well, m'boy," sayeth the editor as he fishes about for his
+pocketwatch, "time seems to have beaten us. Still, there's more than enough for
+you to be getting on with!"
+
+He gets up and walks you to the door.
+
+"A couple
+of thousand words ought to do the trick, I think. Usual deadline. Now..."
+
+As
+you step out of the office, the chief surveys the reception where
+115852: "Come" he beckons, and the two enter the office, closing the door
+behind them.
+
+Now to get home and scribbling. You'll probably get the thing
+finished before the pubs shut.
+115980: You check the time and realise there's no chance of seeing the editor
+now. As you step back into the street you bump into
+116256: .
+
+"Good luck!" you say as you pass by, annoyed at yourself for having
+wasted so much time. Still, it's a while before the pubs shut...
+116356: Smartly turned out, the receptionist appears almost god-like behind his
+podium. He looks at you expectantly.
+116432: The receptionist coughs delicately into his gloved hand.
+116472: The receptionist brushes dust from the shoulders of his jacket.
+116516: The receptionist runs a finger along the surface of the podium, stares
+at his finger and tuts.
+116584: The receptionist takes a handkerchief from his pocket and gives the
+desk bell a quick buffing.
+116648: The receptionist takes a handkerchief from his pocket and gives the
+plinth a quick going over.
+116712: "Has sir arranged to have this monstrosity removed yet?" Asks the
+receptionist, indicating towards the desk. "And has sir also considered that,
+as I tend to go to lunch once you have entered the office, I will only say
+these lines if the player has somehow cheated?"
+116900: The receptionist makes 'bob bob bob' noises, clearly deep in thought.
+116952: The receptionist imperceptibly raises an eyebrow.
+116988: The receptionist straightens the sign.
+117016: The receptionist fixes his tie knot.
+117044: The receptionist moves the desk bell a few millimetres, stares at it
+and, after a few seconds, nods.
+117116: The receptionist drums his fingers 'pon the plinth.
+117152: "I don't think this is the right time for such questions," says the
+editor.
+117208: All capilaries and tweed, Our Humble Editor masks himself behind a grey
+and ginger moustache. He has a twinkle in his eye that a long history of Port
+abuse has done little to diminish.
+117340: The editor drums his fingers on his desk.
+117372: The editor picks up the copy of God's Rude Wireless and flicks through
+the pages, smiling and tutting as he goes. After a short moment he pops it back
+on the desk.
+117520: The editor plucks up the cardboard glasses, pops them on, and then
+starts patting the desk with open hands. "Hello?" he says, and, "who's there?"
+before taking them off with a chuckle and putting them down.
+117668: The editor pats his pockets for a moment.
+117700: The editor picks the box up from the desk reads a little of the text,
+and then drops it back down.
+117768: A well worn piece of paper littered with the editor's scribble.
+118068: A tiny and inviting capsule.
+118088: It's a sheet of old fashioned computer paper - the type with lines on.
+118140: ,
+with name 'desk' 'bureau',
+description "Slightly too large for the
+office, the mahogany and green leather desk dominates the room. The old buzzard
+has had this desk forever, and it shows its scars proudly. Its history is
+written out in spilt ink, cigar burns and coffee stains.",
+has supporter;
+118356: The editor glances through it and pauses for a moment. "Old Buzzard,
+eh?" he says with a well placed harumph.
+118436: On the cover is a striking image from the early twentieth century, an
+old couple posing in front of their terraced house.
+118520: Despite its small size, it seems to have a remarkable number of in
+depth articles that both inform and entertain.
+118756: M. Night Shyamalan
+119368: M. Night Shyamalan
+119564: Ursula K. Le Guin
+120416: Daniel Bristow.
+120428: Paul Morris.
+120440: Rob Morris.
+120452: T.J. Worthington.
+120468: Alison Bean.
+120480: Jonathan Sloman.
+120496: Simon Scott.
+120508: Our Humble Editor.
+120524: Tat Wood.
+120532: Justin Lewis.
+120544: Our Humble Editor.
+120560: Julian Goford.
+120572: You open the magazine at a randomly selected page.
+120608: But the magazine is already open.
+120632: But the magazine is already closed.
+120660: You left your scissors at home, I'm afraid.
+120692: An A4 missive from the editor.
+120752: 0, eh, there's a good chap." short and to the point as ever. It was
+signed at the bottom in a fluorishing scribble.
+120836: "Ah yes, that will do nicely." The receptionist sniffs. He
+120880: "Ah, you must be Our Humble Editor's two thirty." The receptionist
+120988: "If you'd like to go through." The receptionist gestures towards the
+office door.
+121048: "It's a very nice memo, sir," the receptionist says, wearily.
+121096: He looks over the memo. "Yes... yes..." he says, and then "What am I
+supposed to be noticing, exactly?"
+121180: A cardboard box about six inches by four inches. It is emblazoned with
+the text "The Hitchhikers' Guide To The Galaxy" and a spacescape featuring a
+curious round green fellow waving his arms about.
+121320: "Beyond question the most mind-bogglingly hilarious story Infocom has
+ever produced is THE HITCHHIKER'S GUIDE TO THE GALAXY, written and designed by
+Douglas Adams, author of the phenomenally best-selling novel, and Steve
+Meretzky, the award-winning designer of Infocom's PLANETFALL and SORCERER.
+
+"As
+the story begins, you are Arthur Dent, and a bulldozer is preparing to level
+your house even as an alien space fleet is preparing to level your planet. The
+incorrigible Mr. Adams has written new material and designed problems
+especially for this interactive story. So grab a pint of bitter and a couple
+for the road and join Ford Prefect, Trillian, Zaphod Beeblebrox and Marvin on a
+cosmic jaunt into the outer reaches where anything can -- and does -- happen.
+And don't forget your towel!"
+121988: Lint? Looks more like cotton wool to me!
+122020: A small polythene pouch that claims to contain a spacefleet smaller
+than the naked eye can see.
+122088: The pin-badge is orange with yellow writing that reads "Don't Panic!"
+in large, friendly letters.
+122160: "Order For Destruction
+Be it known that on this day the 4th day of
+October in the Year of Our Lord 1982 that by decree of the Domicile Demolition
+Department of Cottingshire County, the residence of Arthur Dent at 155 Country
+Lane in the town of Cottington shall herewith be demolished, destroyed and
+otherwise transformed into a nondescript heap of pulverised rubble; said
+resident(s) having evacuated said premises within 750 days of the issuance of
+this document; this order to be carried out regardless of acknowledgement by
+said resident(s) of proper notification; said demolition being necessitated by
+reason of: 
+It's in the way.
+ Said property has been seized by Right of Eminent
+Domain for future use as: 
+Highway right-of-way."
+
+It is signed at the bottom
+by Douglas Adams, Marc Blank, and Steve Meretzky.
+122760: You can't read it as it seems to have been written in Vogon. There is a
+nice picture of the Earth though.
+122854: "I have an appointment at two thirty," you say.
+122892: "Ah, yes, he did say someone ought to be along." The receptionist says.
+"Needless to say you've brought some form of credentials? A passport or gas
+bill should do."
+123012: "So you say, sir," sniffs the receptionist.
+123048: "Yes, dear boy, yes!" The editor looks about the office. "This is it!
+You're here!"
+123168: "Why, certainly, sir," replies the receptionist, "providing you can
+supply this supposed 'memo,' of course."
+123252: .
+
+"I know, sir. You've shown it to me," the Receptionist says. "Now if
+you'd like to go through, you're keeping the editor waiting, and you know how
+he can be."
+123376: .
+
+"Really, sir?" Asks the receptionist. "May I see it, perhaps?"
+123432: "Yes yes. I've a little task for you." The editor says. "What do you
+know of text adventures?"
+123504: You think for a moment, and then begin. "A text adventure is a game
+system whereby you interact using natural language with a world simulated
+mainly in words. I used to play them when I was younger. I had the Hitchhiker's
+Guide To The Galaxy game."
+123684: "Ah, Hitchhikers'! Infocom, wasn't it? Any good?" Your editor asks with
+a grin.
+123748: "Not really," you say. "I didn't really know about Hitchhikers' when I
+was playing the game, so the puzzles were a little beyond me. Also the game
+ducks out of giving you the characters from the book somewhat. Always falling
+asleep or going for a sauna."
+
+"Not a huge fan, then?" The editor asks.
+123964: "Pity. I managed to acquire this recently." He pulls something from a
+drawer in his desk and plops it down in front of you.
+124052: He stares at the empty space where once there was a desk, and then
+continues.
+124108: "In any case, my mind is made up. You're definitely the man for the
+job."
+124164: "I have an appointment with the editor," you say.
+124200: "Ah, yes, he did say someone ought to be along." The receptionist says.
+"Needless to say you've brought some form of credentials? A passport or gas
+bill should do."
+124320: "Yes, sir," the receptionist says with a frown, "you can go through."
+He gestures towards the door.
+124396: "What sort of credentials are you willing to accept?" You ask.
+124444: "Oh, anything that proves that you are who you claim to be and are not
+here under false pretenses. A driver's license would do. Or a passport. Or NUJ
+card. Or, for that matter, a bank card, credit card, video rental card, ration
+card, national insurance card, birth certificate, death certificate, general
+certificate of secondary education. Or a gas bill, electricity bill, storage
+facility bill, duck bill, or water bill. Perhaps a pay slip, tax slip, nasty
+slip, Freudian slip, bank statement, public statement, Foster Wallace's
+'entertainment', employer's reference, a signed letter from a professional
+person, a criminal record, or a personal record of achievement. All or any of
+these will more than suffice." The receptionist smiles for the first time,
+obviously pleased with himself.
+125012: "I'm sure I don't know what you mean, sir," the receptionist says
+indignantly.
+125072: With a light eager voice you ask "Could you tell me about the
+aspadistra please?"
+125132: The receptionist looks at you for a moment before drawing you near and
+whispering "I suspect that was only meant as an example."
+125224: "You keep that bell well polished, don't you?" you ask the
+receptionist.
+125280: "Are you going to put the bell back?" you ask hopefully
+125320: "One likes to ensure the reception area is kept to a high standard of
+cleanliness, sir." sniffs he.
+125392: "I suspect sir has yet to reach a level of maturity such that he will
+not be tempted to enforce upon all in earshot his monotonous campanology, sir,"
+admonishes the receptionist.
+125516: "How is the editor today?" you ask, attempting the sort of cameradery
+that sometimes exists between employees.
+125596: "My professionalism strictly forbids me to comment on the mood and
+attitude of my employer, sir," the receptionist says. So much for that, then!
+125700: "Read this month's issue?" you ask.
+125728: "Print is dead," sniffs the receptionist.
+125760: "Nice... furniture you have here," you say, struggling for topics of
+conversation.
+125824: "Your interest in interior design is not one mutually held, it pains me
+to say." grimaces the receptionist.
+125900: "Hello there," you say. 
+"What ho!" The editor beams.
+125944: "Why the interest in adventure games?" you ask.
+125980: "What sort of length were you thinking of?" you ask.
+126020: "Why, I think there might be an article in it, of course!" the editor
+begins, "And I think you're the chap to pull it off. You used to play these
+things, didn't you? And I've done some basic research about the subject and
+believe there is certainly meat to be had."
+126212: "Oh, a couple of thousand should do it, I think," the editor says.
+126264: "Sounds intriguing," you say. "What task?"
+126300: "How long would you want it?" You ask.
+126332: "I'd like you to work on an article for the magazine on the text
+adventure." says the chief. "I've done some basic research about the subject
+and believe there is certainly meat to be had."
+126468: "Oh, a couple of thousand should do it, I think," the editor says.
+126520: Here we go again! "Research?" you ask, innocently.
+126560: "Oh, only the basics, you know. The origins of the games, the companies
+that made them, that sort of thing."
+126640: "I see you've still not rid yourself of that troublesome receptionist,"
+you say.
+126706: He'll hear!" panics the editor.
+126732: "Really, now! Surely I can expect you to find some things out for
+yourself!"
+126788: "How did the games get started?" you ask "I've often wondered."
+126836: "Child of divorce, would you believe?" his humbleness begins. "There
+was this chap, um..., Will Crowther. Now, he used to go caving with his wife,
+but when the marriage ended, the caving pretty much stopped too. Crowther, who
+was a bit of a Dungeons & Dragons nut, created a very accurate textual
+simulation of his favourite stomping ground, the Bedquilt caves. And as he was
+missing his daughters, he wanted the thing to be easily played and enjoyed by
+the sprogs too. So he programmed the thing to take natural language prompts. Of
+course, it wasn't until Don Woods got his hands on it that it got nearer to the
+text adventures as we came to know them."
+127304: "The Bedquilt Caves?" you ask.
+127332: "They're a large system of caves in Kentucky, and part of what is
+possibly the largest system of caves in the world. They were first mapped in
+1842 by a mulatto slave named Stephen Bishop, some fifty years after their
+initial discovery. In fact it was Pat Crowther who first rediscovered the tight
+passageway that connected Bedquilt to the main system."
+127584: "Who was this 'Will Crowther'?"
+127680: lab, but in fact an employee of Bolt, Beranek and Newman in Boston. He
+devised Advent in his spare time, and it was only by being distributed on the
+sapling that would become the internet that Don Woods came to learn of its
+existence."
+127848: "Natural language?" you ask.
+127956: "Don Woods? And what did he do?"
+127984: "Jazzed it up a bit, basically. Woods worked at the Stanford Artificial
+Intelligence Laboratory. He found a copy of Advent, as Crowther had called it,
+on the network there and, after gaining Crowther's blessing, tinkered with it
+royally. Woods decked the place out in magic and puzzles. Of course, all this
+did was to develop the form somewhat, even then, the hardware wasn't really
+able to match the programmers' ambitions. Getting games onto home
+microcomputers was to prove the next challenge."
+128340: "Tell me more about Advent," you ask
+128368: "Why, I'm not sure what more I can tell you," says the editor rubbing
+the underside of his chin. "The game was little more than a treasure hunt in a
+large cave system. What is perhaps interesting is that once it was unleashed on
+the academic networks and copied the thing started changing. Woods wasn't the
+first to get his hands on it by any means. In fact I feel it's telling that the
+text adventure remained such a finely balanced affair between the experience of
+coding and the experience of playing. It seemed that most of the early players
+were also interested in creating and Advent all their own."
+128788: "Why was it such a problem porting the games onto home computers?" You
+ask, turning another page in your mental notebook.
+128876: "At the time, the microcomputer market was flooded with all sorts of
+different and thoroughly incompatible formats. Added to that was the simple
+fact that the computers were much smaller than the mainframe systems on which
+Advent had been developed. This didn't stop Scott Adams pulling it off with his
+Adventureland in 1978.
+129104: "Tell me more of this game you call Adventureland" you say.
+129148: "Adams hit upon the idea of using tokens as a means of identifying
+which rooms of the 'cave' you were in. A typical description might refer to
+slime, moss and granite, say, and you would then know that it wasn't the same
+as the room that has slime, moss, and orange rock. It wasn't the most ideal of
+systems, but it did manage to get a recognisable text adventure into the home.
+129412: Companies?
+129420: "Yes... Infocom ruled the school, of course, but there was Magnetic
+Scroll, Level 9, Sierra..."
+129496: "Magnetic Scroll?" You ask. "That rings a bell, but..."
+129638: . Really, Bond, do try to keep up!"
+
+"Bond?" You ask.
+
+"Sorry. Forgot
+who I was there for a moment."
+129724: "Never played it, I'm afraid. I dare say you could find a copy online
+somewhere. World Of Spectrum's a good place to start."
+129816: "Level 9?" You ask. "I'm not sure I remember them."
+129860: "Really?" Asks the editor. "You surprise me!" He starts to spin himself
+slowly around in his chair; a habit of his. "Level 9 was founded in '81 by
+Pete, Mike and Nick Austin. They began working on text adventures following
+Mike Austin's port of Advent." He starts to raise his voice as he faces the
+wall. "They were probably the most important adventure game company in Britain
+in their day. Prided themselves on the complexity of their parser; a
+complexity," coming back round again, "afforded by the use of very advanced
+text compression, letting them free up more memory for the code. Last adventure
+game was Scapeghost, released in 1991." He stops his spin with a smile.
+130352: "Infocom are probably the most remembered of companies specialising in
+adventure games, wouldn't you say?" you ask.
+130708: . Along with the help of Tim Anderson and Bruce Daniels they created a
+more puzzle-featured version, Zork, which was played a great deal on the MIT
+network. The large number of players led to a great deal of feedback that was
+then used to further improve the game. This all resulted in a game file of the
+then colossal size of 1 megabyte."
+The editor stands and walks over to the
+window.
+
+"Several of the students at MIT decided to form a company so that they
+might work together after graduation, and while looking around for possible
+projects, decided that, as so much work had already been done on Zork as it
+stood, such a game would be the ideal starting point.
+
+"However it wasn't until
+they developed the infamous Z-Machine the the ball really got going." The
+editor sits.
+131260: "Z-Machine? Tell me more," you implore.
+131292: "The notion was to write a special language that would allow the actual
+game files to be easily ported from machine to machine. If the language of the
+file itself was standardised, you need only create an emulator for the various
+microcomputers on the market in order to sell the same game on various
+platforms.
+
+"This system was devised by Marc Blank and Joel Berez, and led to
+the release of a somewhat paired down version of the original Zork game
+entitled Zork I, released in November, 1980."
+131644: "Zork was a massive hit; what made it so special?" You ask.
+131692: "Well, the ability to reach so many different consumers by way of the
+z-machine was a help. So too was their particular brand of humour, one that
+went on to run through most of the Infocom games. Why, I shouldn't wonder if
+that was the main reason the Hitchhikers' game happened. That was their biggest
+seller, of course, and Restaurant At The End Of The Universe was scheduled, but
+never appeared. The presence of the predicted revenue in the business plans of
+Infocom year after year was only one of the factors in Infocom's eventual
+demise, of course. There was Cornerstone on top of that, and then there was the
+terror of graphics!"
+132144: "Why did graphics become such an issue?"
+132176: "Graphics appeared in adventure games before they were really ready to.
+Dreadful, blocky, nasty coloured images for the most part, and only useful to
+illustrate what was already in the text any way. Infocom, who were always
+trying to give their customers games of high quality, realised that such garish
+pictures only served to detract from the game, so they consciously chose not to
+include them. Trouble was, as computers developed, more and more game players
+wanted graphics, a market companies like Sierra were only to glad to pursue.
+However, it remained an anathema for Infocom."
+132584: "What's anathema mean?" you ask dimly.
+132616: "Something one hates," says the editor, "in my case it's IGNORANCE!"
+132676: "What was Cornerstone?" you ask.
+133048: platform and Apple Macintosh had become the standards for business
+users.
+
+"The company was sold to Activision, and following brief and failed
+forays into graphical adventures and the disappearance of most of the original
+staff, Infocom as we came to know and love it disappeared. Shogun is considered
+the last release in the Infocom canon." The editor takes a handkerchief from
+his pocket and sniffs into it.
+133520: Roberts' TADS allows for the inclusion of graphics and other elements."
+133576: "This friend of yours," you say, "what's he like?"
+133622: oh the Colonel?" the editor harumphs. "Mad as flutes, he is. Quotes
+Coleridge, stinks of vodka, has these strange headaches that come over him all
+at once and rob him of the use of his eyebrows."
+That's cleared that up then.
+133784: "Inform?" you ask.
+134052: " The editor gives his desk a couple of taps before saying, "this desk,
+would you believe, is coded in Inform. There's a word we're supposed to say to
+examine the code, but I can't for the life of me remember."
+134204: and considering what you've done to my desk, you may well be aware that
+it too is coded in Inform. I do want it back, you know?"
+134296: "TADS?" you ask.
+134424: "There was always a large number of people coding their own games,
+weren't there?" you ask.
+134492: "Yes, the home computer market was driven as much by people wanting to
+learn how to write their own software as it was people wanting to use existing
+packages. Youngsters would become millionaires off the back of their own
+bedroom born games. Systems like Quill and PAWS turned up allowing for the
+programming of quite simple text adventures, but they were advanced enough to
+allow for companies like Zenobi to run for quite some time."
+134796: "That was a Spectrum mail order company, wasn't it?" you ask.
+134842: "Ah, getting onto familiar ground, what?" beams the editor, "Yes, John
+Wilson's Rochdale based company, which he started in 1984. It started out as a
+means for Wilson to distribute his own games, but he soon started distributing
+games written by other authors. They're still around, too, although they don't
+bring out new adventures these days.
+135094: The memo was something of a surprise. You'd featured rather heavily in
+the issue before, and had reasonably suspected that the editor wouldn't want to
+see hide nor hair of you for a while. However, summoned you have been.
+
+The
+trouble with these meetings is, you'll never know where it'll lead; whether
+he'll ask you to write a few hundred words for a box-out, or to spend a day
+tramping round the London suburbs in search of the homes of C-list celebrities.
+Maybe it'll just be a straight commission. And if you're really blessed, he'll
+fall into the usual trap of rattling off so much information in the meeting
+that you'll only need to transcribe what you can remember. Such are the
+misdemeanours available to you when your boss is disturbingly well-informed and
+in love with the sound of his own voice.
+
+Still, you've not much time. Best get
+your skates on, especially if the receptionist is in one of his difficult
+moods...
+135756: You managed to miss your meeting!
+135780: There is a strange dark confluence in the middle of the room.
+135824: "Great Scott!" cries the editor.
+135852: "I trust sir is seeing to moving that monstrous desk to more apposite
+quarters through the employ of some sort of supernatural craft?" the
+receptionist asks.
+135964: A breeze blows towards the centre of the room. There is a flash and the
+desk is no more. In its place lies a piece of computer paper.
+136060: Such powerful words ought not to be spoken while you're carrying the
+piece of paper, no?
+136122: There is a strange dark confluence in the middle of the room.
+136168: "Hang on to your hats, chaps!" cries the beamish editor.
+136212: A breeze blows from the centre of the room. There is a flash and the
+paper transmogrifies itself into a large mahogany and leather desk.
+136308: "Such conjury may impress the unwashed classes, sir, but the truth
+remains that you simply cannot leave that desk cluttering up my reception
+area!" says the receptionist, trying to remain calm.
+136444: Save for a slight increase in your embarrassment, nothing much happens.
+136584: "I don't know anything about that,"
+136700: You'll need to be more specific. Who
+136752: You'll need to be more specific. Who
+136804: You'll need to be more specific. Who
+136856: You'll need to be more specific. Who
+136960: That's not something you can ring, unless you want to ring it in biro,
+using a pen you don't have.
+137088: Much of this interactive article is conversational. You can ask people
+about things and tell people about things using the ask and tell commands, such
+as:
+"ask receptionist about aspadistra" which you can shorten to:
+"ask about
+aspadistra"; or "ask aspadistra"; or even "a aspadistra".
+137600: give" or test "has" or "hasnt" with a non-attribute on the object
+137648: , but it is longer than 2 bytes so you cannot use "."
+

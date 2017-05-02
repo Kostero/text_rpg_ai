@@ -1,0 +1,337 @@
+10990: Score:
+11004: Moves:
+11044: Time:
+11737: Csdba KpmTo repeat a command like "frog, jump", just say "again", not
+"frog, again".
+11820: You can hardly repeat that.
+12150: You can't begin with a comma.
+12213: You seem to want to talk to someone, but I can't see whom.
+12304: To talk to someone, try "someone, hello" or some such.
+14178: I didn't understand that sentence.
+14288: I didn't understand that number.
+14320: You can't see any such thing.
+14353: You seem to have said too little!
+14385: You aren't holding that!
+14414: You can't use multiple objects with that verb.
+14454: You can only use multiple objects once on a line.
+14533: You excepted something not included anyway!
+14571: You can only do that to something animate.
+14609: That's not a verb I recognise.
+14639: That's not something you need to refer to in the course of this game.
+14695: You can't see "
+14740: I didn't understand the way that finished.
+14861: There are none at all available!
+17792: Sorry, you can only have one item here.  Which one exactly?
+26870: At the moment, "it"
+26942: and "me" means
+26969: exn** Player objects must have "number" prop **
+32373: M.
+37244: Nothing to do!
+37260: . You have died
+37538: Please give one of the answers above.
+37598: I beg your pardon?
+37616: dxn[You can't "undo" what hasn't been done!]
+37658: ehn[Can't "undo" twice in succession. Sorry!]
+37732: Sorry, that can't be corrected.
+37762: Think nothing of it.
+37784: "Oops" can only correct a single word.
+37855: Please answer yes or no.
+37875: Are you sure you want to quit?
+37909: Are you sure you want to restart?
+37935: Failed.
+37952: Restore failed.
+37965: Ok.
+37980: Save failed.
+37991: Ok.
+38006: The game file has verified as intact.
+38033: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+38208: Transcripting is already off.
+38231: End of transcript.
+38253: Score notification on.
+38275: Score notification off.
+38299: You have visited:
+38346: None.
+38571: You are carrying nothing.
+38614: Taken.
+38626: You are always self-possessed.
+38746: You already have that.
+38834: That isn't available.
+38877: That's hardly portable.
+38901: That's fixed in place.
+38925: You're carrying too many things already.
+39001: Already on the floor.
+39023: You haven't got that.
+39066: Dropped.
+39111: But it isn't there now.
+39130: Removed.
+39211: You can't put something on top of itself.
+39289: You lack the dexterity.
+39369: Done.
+39411: You need to be holding it before you can put it into something else.
+39491: Alas, it is closed.
+39513: You'll need to take it off first.
+39543: You can't put something inside itself.
+39633: Done.
+39675: That isn't in your possession.
+39698: First pick that up.
+39992: That's not something you can enter.
+40060: You can only get into something on the floor.
+40174: But you aren't in anything at the moment.
+40283: You'll have to say which compass direction to go in.
+40384: You can't go that way.
+40543: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+40645: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+40733: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+41150: But it's dark.
+41163: You find nothing of interest.
+41196: But it's dark.
+41286: You find nothing of interest.
+41314: You can't see inside, since it is closed.
+41413: That doesn't seem to be something you can unlock.
+41455: It's unlocked at the moment.
+41483: That doesn't seem to fit the lock.
+41537: That doesn't seem to be something you can lock.
+41603: First you'll have to close it.
+41631: That doesn't seem to fit the lock.
+41685: That's not something you can switch.
+41717: That's already on.
+41761: That's not something you can switch.
+41793: That's already off.
+41839: That's not something you can open.
+41871: It seems to be locked.
+41893: It's already open.
+42001: That's not something you can close.
+42033: It's already closed.
+42077: You're not wearing that.
+42125: You can't wear that!
+42147: You're not holding that!
+42171: You're already wearing that!
+42221: That's plainly inedible.
+42254: Not bad.
+42270: That was a rhetorical question.
+42298: This dangerous act would achieve little.
+42332: Nothing practical results from your prayer.
+42368: The dreadful truth is, this is not a dream.
+42456: What a good idea.
+42476: You smell nothing unexpected.
+42530: You taste nothing unexpected.
+42610: You feel nothing unexpected.
+42636: Digging would achieve nothing here.
+42668: Cutting that up would achieve little.
+42700: You jump on the spot, fruitlessly.
+42734: You would achieve nothing by this.
+42764: There's nothing suitable to drink here.
+42798: But there's no water here to carry.
+42830: Oh, don't apologise.
+42852: Real adventurers do not use such language.
+42888: Quite.
+42900: Violence isn't the answer to this one.
+42934: There's not enough water to swim in.
+42966: There's nothing sensible to swing here.
+43000: You can't usefully blow that.
+43078: No, you can't set that to anything.
+43141: But you aren't holding that.
+43206: It is fixed in place.
+43228: You are unable to.
+43248: That would be less than courteous.
+43273: Nothing obvious happens.
+43302: Is that the best you can think of?
+43332: That's not a direction.
+43351: Not that way you can't.
+43401: You achieve nothing by this.
+43432: Futile.
+43439: You lack the nerve when it comes to the crucial moment.
+43488: You talk to yourself a while.
+43511: This provokes no reaction.
+43539: There is no reply.
+43559: Nothing is on sale.
+43605: I don't think much is to be achieved by that.
+43643: Time passes.
+43659: You aren't feeling especially drowsy.
+43735: Everyone is still, apparently they can't think and type at the same
+time.
+43788: The students sit at their desks, still as statues.
+43829: On second thought perhaps they aren't thinking, they're still enough to
+be statues.
+43993: No matter how you strive, they refuse to move an inch.
+44135: You'd have better luck moving the students.
+44220: Just as your about to give up in frustration the bag starts moving, and
+you swing it onto your shoulder before it stops again.
+44322: The bag hangs in the air, smugly defying the gravity that still
+imprisones you.
+44391: It still smells like the chocolates you had at lunch yesterday.
+44451: In his current condition he might as well be welded to the floor.
+44542: You'd have to cut his arm off to get at it.
+44693: A determined tug manages to free it from whatever hold was on it however
+and it shoots towards you, striking you in the chin.
+44785: The desk calendar hovers in mid air, roughly parallel to the ground,
+exactly like you released it.
+44859: With considerable effort you manage to turn the desk calendar over,
+achieving exactly the same result as before.
+44949: The laboratory door in the southeast is closed.
+44984: The door is shut tightly and probably locked.
+45023: A bright light shines through the open doorway.
+45213: Something is very wrong here.
+45243: It's hard to tell without getting closer, but it looks almost
+insubstantial.
+45496: As soon as your hand touches the surface of the sphere, the lights,
+until now peacefully swirling, rush onto your hand and from there spread over
+your entire body.  The lights swarm into your eyes, and a moment of
+disorientation follows.  An instant later the lights explode outwards and you
+find yourself falling to the floor with a thud.
+45765: If only there was something you could stand on.
+45810: Lights dance and swirl before your eyes and for a moment you fear you've
+gained a concussion for your trouble, but after a moment you realize that the
+lights you're seeing are the same ones that formed that sphere, now spread out
+and filling an entire room.
+46307: An arched doorway leads southeast.
+46560: Maybe you should've stuck to one pattern at a time.
+46809: A sudden whirlwind springs up, as all the dust lying about spins itself
+into a vortex that eventually coelesces into a human figure.
+47014: There is a feeling of intense acceleration with bright lights flashing
+past you and a dull roaring in your ears.  And there, ahead, a great wall. 
+Looming closer, closer, you're not slowing, Closer, you're going to Hi.....
+
+
+With a violent start you find yourself back in the computer lab, the other
+students typing away, your story staring you in the face, and the ending
+surfacing in your mind like a whale.  Looks like you'll have it done on time
+after all.
+47664: That you can never return home.
+47856: You open your eyes a moment later to find yourself back in the computer
+lab at school, but tickling the back of your mind is the feeling of a hard
+stone floor pressed up against you, and you know that you'll be returning to
+that dusty basement soon.
+48486: Quirking an eyebrow in puzzlement, she graces you with a wry smile as
+your brash advances net you nothing but dust.
+48587: Smiling sadly at your offering, she merely shakes her head in mute
+refusal.
+48652: As she looks at the picture a feeling of homesickness, and the
+incongruous image of silver sand, comes over you.
+48731: Her expression is that of polite interest as she looks upon your
+offering.
+48799: Her gaze upon this picture evokes in you a feeling of something
+irretrievably lost mixed with the feeling of a new discovery, as well as a
+picture of silver sand.
+48917: Her smile is wry as you show her this picture, and a feeling of safety,
+and discovery overtakes you, accompanied by a vision of silver sand.
+49331: Curiously none of the lights are even approaching a doorway on the south
+wall.
+49647: The cellar lies back to the southwest and another doorway lies south.
+49965: The cellar lies back to the west and other doorways lie north and south.
+50129: You put the sand back in the bottle.
+50417: The cellar lies back to the northwest and another doorway lies north.
+50491: Since you don't know what any of these things do, don't you think you
+should leave them alone?
+50717: You only have a moment to ponder it though, as you swiftly pass out from
+the fumes, never to awaken again.
+50810: A bottle labeled 'Rexal' catches you eye amidst all the other clutter.
+50881: You pick up some of the junk on the floor, but finding nothing useful,
+give it up as futile.
+51301: Instead of the reflection you expected, the mirror is filled with a
+slowly swirling mix of random colors.
+51374: In fact, the more you look, the more the patterns the colors make remind
+you of one of the screen savers you have on your computer at home.
+51599: And sitting in the back, chin in hand, peacefully dozing behind a
+computer, is you!
+51669: The pages of the dusty book appear to glow.
+51943: Both images have the word 'Rexal' written close by however.
+51988: All the pages are blank.
+52095: AAACCCHHHOOOO!!  You sneeze from all the dust you've disturbed with your
+passage.
+52164: All the dust in the air is causing your eyes to water, and your nose to
+run.
+52230: You pick up some of the books in an attempt to tidy up, but with no
+place to put them you soon give up the task as futile.
+52331: You attempt to clear some of the debris away, but soon give it up as a
+lost cause.
+52611: It is a mere blank page.
+53318: The sickening crunch whan you hit the bottom implies that the fall,
+though slow to you, was more than fast enough to kill you.
+53632: All that remains of the body is a small pile of ash, even now blowing
+away in the slight breeze.
+53737: The body crumbles into dust with a gentle sigh, leaving an amulet
+visible amidst the ash.
+53800: Don't you feel that this person has suffered enough?!
+53870: You gently lift the amulet off of the body, which crumbles down into
+dust with a gentle sigh as you take it.
+54117: One of the pages, until now unnoticed, begins to glow.
+54243: ,
+
+
+
+
+
+
+
+
+End of term is just two days away and you still haven't
+finished that story you have due for your english professor.  Since it's worth
+half of your grade you figure now would be a good time.  Unfortunately for you,
+your computer decided that it needed to self-destruct.  So here you are in the
+Engineering building computer lab, a place you usually only see during your
+computer science labs, along with a half dozen other desperate souls, striving
+to cram a month's worth of work into a single night.  Rather familiar territory
+now that you think about it.  As is the light doze you just jerked yourself out
+of.  Time to get some coffee...
+54958: You can't pour that.
+55032: A Night at the Lab
+Copyright (c) 1996 by Jeremy Farnham.
+55104: You can't go that way.
+55180: It is pitch dark, and you can't see a thing.
+55212: As good-looking as ever.
+55410: You can escape to the northeast.
+55490: The fruits of your labor are currently displayed on the screen.
+55660: Perhaps a walk will help you think.
+55728: Carrying books, food, clothes, and miscellanea whenever asked and
+without complaint.
+56408: The opening looks just big enough to allow you passage.
+56660: Unfortunately he's as frozen as everyone else you've seen.
+56798: It looks fairly immovable.
+56952: In addition a door leads north into the parking lot.
+57080: Stairs lead up to the third, and down to the first.
+57178: You can go south to the third floor, or down to the second.
+57490: In addition a door leads south onto the campus.
+57612: Stairs lead up to the third, and down to the first.
+57710: You can go north to the third floor, or down to the second.
+58088: You get the feeling some of this stuff hasn't been touched in years.
+58262: The half open door lies in the southwest corner of the room.
+58754: Maybe that's where he was heading when... whatever happened, happened.
+58994: This hallway looks virtually identical to the ones above you, though
+light is visible under the door to the northwest.
+59076: The door has the words 'Experimental Laboratory' stenciled on it.
+59316: The shifting glow reveals several people frozen in poses of jubilation,
+one hovering several inches above the floor, frozen in mid leap.
+59712: You can only hope that this is not indeed the case.
+59786: You would guess that their test was successful.
+59820: A diagram of some sort is attached to the wall.
+59948: Must have been a last minute design change.
+60212: A female figure, made entirely of dust, stands here gazing at you.
+60260: The lights swirl, dive, and soar throughout the room, making you feel
+like a giant moving through a galaxy of hyperactive stars.
+60380: The label on the bottle reads 'Rexal'.
+60412: The labels, though neatly written in a very angular script, are in a
+language you neither know nor can identify.
+61040: To your surprise, the only visible exit from the room is to the east,
+which may explain why the downstairs is so untouched.
+61184: And any attempted cleaning appears just as futile.
+61248: The shelves inside shattered and broken.
+61358: The feather mattress is easily large enough for two people to sleep
+comfortably, and the depressed area in the middle of the bed suggests it was
+used for quite some time.
+61804: The kitchen is to the west and the passage extends north to another
+room.
+62188: The only path from the descecration lies to the south.
+62790: A table and desk, once polished to a rich mahogany, now useful for
+naught more than kindling.
+62856: The sheer sides of the chasm are well beyond your meager climbing
+skills, and the remains of what look to be several people testify to the
+effectiveness of jumping across.
+62972: The grass is in desperate need of a lawnmower, but it is extremely
+unlikely anyone will be by anytime soon to do something about it.
+

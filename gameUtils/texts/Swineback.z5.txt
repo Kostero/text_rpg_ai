@@ -1,0 +1,924 @@
+21992: There is no reply.
+22060: Nothing is on sale.
+22499: Dropped.
+22556: . Not bad.
+23493: Wrahn seem interested.
+23965: Done.
+24014: You are carrying nothing.
+24099: Keep your mind on the game.
+24124: You hear nothing unexpected.
+25068: But it's dark.
+25085: You find nothing of interest.
+25113: Quite.
+25143: Nothing to do!
+25178: o. You have won
+25280: It is now pitch dark in here!
+25307: I beg your pardon?
+25371: Sorry, that can't be corrected.
+25400: Think nothing of it.
+25453: As good-looking as ever.
+25485: You can hardly repeat that.
+25510: You can't begin with a comma.
+25624: I didn't understand that number.
+25653: You can't see any such thing.
+25689: You aren't holding that!
+25730: I'm not sure what "
+25782: That's not a verb I recognise.
+25820: You can't see "
+25927: Nothing to do!
+25944: There are none at all available!
+26355: That was a rhetorical question.
+26382: Score notification off.
+26405: Score notification on.
+26434: Objects you have handled:
+26459: None.
+26865: You have visited:
+27040: You are unable to.
+27059: Nothing obvious happens.
+27109: That's not a direction.
+27132: Not that way you can't.
+27279: You lack the dexterity.
+27360: Done.
+27408: Please answer yes or no.
+27434: Are you sure you want to quit?
+27554: Removed.
+27585: Failed.
+27604: Restore failed.
+27621: Ok.
+27631: You achieve nothing by this.
+27663: Save failed.
+27678: Ok.
+27785: There is no score in this story.
+27823: Transcripting is already off.
+27889: Transcripting is already on.
+27955: But it's dark.
+28045: You find nothing of interest.
+28315: Your singing is abominable.
+28349: You smell nothing unexpected.
+28376: Oh, don't apologise.
+28404: Keep your hands to yourself.
+28429: You achieve nothing by this.
+28658: Taken.
+28669: You are always self-possessed.
+29094: You taste nothing unexpected.
+29128: You talk to yourself a while.
+29155: This provokes no reaction.
+29181: What a good idea.
+29207: Futile.
+29236: Keep your hands to yourself!
+29261: You feel nothing unexpected.
+29286: If you think that'll help.
+29493: Time passes.
+29517: That seems unnecessary.
+29613: You wave, feeling foolish.
+43178: You can't go that way.
+43274: There are no exits.
+44086: That won't achieve anything.
+44118: That would be futile.
+59470: You can't go that way.
+59570: It doesn't exactly have a door!
+59898: It's quiet - far too quiet.
+60047: You stare down at the ground.
+60322: The lock is broken.
+60477: You can only go out (= north).
+60572: The sack is too full.
+60768: It smells pungently repellent.
+61118: Inevitably, you smell a rat.
+61225: The walls feel hard and rough.
+61330: The hole isn't that big.
+61726: It tastes as wooden as it looks.
+61764: It feels pretty robust.
+61941: Haven't you forgotten something?
+62176: It's already at full tension.
+62217: You have no reason to damage it.
+62318: You can go east or in (= south).
+62390: You can only go out (= north).
+62471: The lamp is already lit.
+62659: You set light to the note.
+62724: You might want to read it first.
+62968: The corpse feels cold.
+63011: He's already dead.
+63034: He's too dead to notice.
+63077: He's far too dead to heed you.
+63158: You've already cleaned it once.
+63385: It's empty.
+63666: It's already empty.
+63722: It's already empty.
+64062: The bottle is empty.
+64172: One sip was quite enough.
+64216: You can't exactly pick it up.
+64275: That would be a terrible waste!
+64509: That might be a bit premature.
+64743: You might want to read it first.
+64803: You set light to the report.
+65279: That proves singularly futile.
+65363: You've already burned it.
+65422: It feels dry and brittle.
+65592: You have no use for them.
+65642: Just rough, army canvas.
+65725: You can only go out (= north).
+65831: The bag is already full.
+65881: The bag is already full.
+65937: It's open already.
+66134: It's already burning.
+66290: I should think not!
+66658: You can't do that to a sound.
+68354: That achieves nothing.
+69166: EXAMINE enabled for rooms.
+69200: EXAMINE disabled for rooms.
+71830: in" or "notin
+71846: opmhas" or "hasnt
+71988: }" at end of "objectloop
+73336: You can't fight the enemy single-handed, you have no intention of
+deserting to them, and you've heard horrendous stories about what they do to
+prisoners.
+73600: Score:
+73608: Moves:
+73616: Time:
+73624: You can't go that way.
+73732: Violence isn't the answer to this one.
+73760: This dangerous act would achieve little.
+73788: I don't think much is to be achieved by that.
+73848: Digging would achieve nothing here.
+73876: There's nothing suitable to drink here.
+73904: That would scarcely empty anything.
+73932: You can only get into something free-standing.
+74004: But you aren't in anything at the moment.
+74036: But there's no water here to carry.
+74092: You can't put something inside itself.
+74120: You jump on the spot, fruitlessly.
+74148: You would achieve nothing by this.
+74200: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+74296: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+74380: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+74492: You see nothing unexpected in that direction.
+74756: Please give one of the answers above.
+74784: [You can't "undo" what hasn't been done!]
+74820: [Can't "undo" twice in succession. Sorry!]
+74860: "Oops" can only correct a single word.
+74888: It is pitch dark, and you can't see a thing.
+74920: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+74980: You seem to want to talk to someone, but I can't see whom.
+75024: To talk to someone, try "someone, hello" or some such.
+75064: I didn't understand that sentence.
+75124: You seem to have said too little!
+75148: You can't use multiple objects with that verb.
+75184: You can only use multiple objects once on a line.
+75220: You excepted something not included anyway!
+75252: You can only do that to something animate.
+75284: That's not something you need to refer to in the course of this game.
+75332: I didn't understand the way that finished.
+75364: Sorry, you can only have one item here. Which exactly?
+75464: Nothing practical results from your prayer.
+75520: That would be less than courteous.
+75544: Is that the best you can think of?
+75568: You can't put something on top of itself.
+75600: Are you sure you want to restart?
+75624: Attempt to end transcript failed.
+75648: Attempt to begin transcript failed.
+75676: You aren't feeling especially drowsy.
+75704: Real adventurers do not use such language.
+75736: There's not enough water to swim in.
+75764: There's nothing sensible to swing here.
+75792: You're carrying too many things already.
+75824: You lack the nerve when it comes to the crucial moment.
+75892: You'll have to say which compass direction to go in.
+75932: The game file has verified as intact.
+75960: The game file did not verify as intact, and may be corrupt.
+76004: The dreadful truth is, this is not a dream.
+76160: (or greater) to your code before including "Tasks".
+76312: Self-mutilation is no part of a soldier's duty.
+76348: You aren't ready to immolate yourself just yet.
+76384: There's no need to look under anything in this game; EXAMINE and SEARCH
+should suffice.
+76456: There is nothing suitable here for "all" to refer to.
+76496: It'll take more than prayer to defeat the Phartipu.
+76536: Everyone tells you your singing makes a frightful noise, but it probably
+isn't quite frightful enough to demoralize the enemy.
+76624: You'd love to, but first you have a battle to win.
+76660: You will be if the Phartipu get over the ridge!
+76696: No time for that - the King sent you here because you're a man of
+action.
+76748: You don't have any friends in the enemy camp, nor do you want to signal
+the Phartipu. Besides, they probably wouldn't see you waving.
+77020: It's already as open as it needs to be.
+77048: The Loraynian army never got round to designing lockable tents.
+77156: To the south it leads back into the heartlands of the Kingdom of
+Lorayne, the land you are determined to defend at all costs against the
+barbarian hordes of the Phartipu. A narrow lane leads off across the fields to
+the east.
+77312: Dry dust coats the path.
+77332: The crops look ripe but unharvested - whoever used to farm this land has
+presumably fled in terror at the prospect of an invasion.
+77424: You can't turn back now, you have an army to lead and a battle to fight.
+If you lose on the morrow, the kingdom will be overrun by the barbarians and
+its people variously tortured, butchered, raped or enslaved according to the
+customs of the vile Phartipu.
+77602: You walk for about half a mile down the narrow lane.
+77644: To the south the path leads back into the heart of the kingdom, to
+Enyarol the royal capital, Alorney your home town, and all the other places
+you're determined to protect from the depredations of the barbarian Phartipu.
+77800: A narrow lane runs across the fields to the east.
+77836: The dusty lane continues north to Swineback Ridge.
+77876: You stare down at the dust on the path.
+77904: There's nothing that way but fields.
+77932: It's a ridge of high ground just up ahead to the north, though the name
+"Swineback" strikes you as slightly fanciful, since you see nothing especially
+porcine about its shape; it might just as well have been called "Oxback Ridge"
+or "Armadilloback Ridge" for that matter, expect that Loraynian farmers tend
+not to keep many herds of armadillo.
+78232: Here the path from the south starts to ascend the ridge where tomorrow
+the army of Lorayne (right now, that's you) must make its final stand against
+the barbarian horde of the Phartipu.
+78364: The path from the south starts to climb the ridge where you expect to
+find your army encamped. Worryingly, there's no rear-guard here, no
+baggage-train, no sentinels posted to greet you. More worryingly, you hear no
+signs of life from up above, no singing, no orders being shouted, no clank of
+weapons on armour as troops move about.
+78600: You can only go south or north (= up).
+78632: To the south of the ridge the long dusty path runs south across the
+great plain, at the northern end of which are a series of untended fields.
+78732: There's nothing that way but the lower slopes of the ridge.
+78776: The plain stretches to the south as far as you can see.
+78816: To your, admittedly not agriculturally-tutored, eye they look rather
+overgrown.
+78872: You can't really see that far.
+78896: The path climbs quite steeply up to the top of the ridge.
+78936: The long dusty path runs straight across the plain into the far
+distance.
+78988: The narrow lane from the west comes to an end outside a solitary hut in
+the midst of the surrounding fields.
+79062: You retrace your steps down the narrow lane and shortly arrive back on
+the main path.
+79124: A narrow lane heads off to the west through the fields.
+79164: There's nothing much that way but fields.
+79196: You can go west or in (= south).
+79224: It has a solid wooden door but no windows; it's really little more than
+a shed, perhaps some kind of storage shed.
+79308: You're no kind of farmer, but the crops look overripe, the fields
+untended. You also suspect that rather too many weeds have been allowed to grow
+round here, apart from one patch of ground close to the hut.
+79452: You have far more urgent things to do than wander round the fields.
+79500: You can leave agriculture to the peasants.
+79532: Just to the right of the hut door there's a small patch of ground where
+the weeds have all shrivelled and died, leaving only a thin covering of grass.
+Amongst the blades of grass you think you see a few grains of black powder, but
+it may only be dirt.
+79708: There's nothing to be achieved by trampling on the patch.
+79748: You can't really make out what it is - it may be nothing - but a search
+round about turns up nothing quite like these few black grains on any of the
+surrounding ground apart from this one weed-free patch.
+79892: It would be far too fiddly to try to collect the few grains of dirt.
+79940: There's not enough of them for you to detect a distinct odour.
+79984: The few grains are scarcely enough to taste, but they don't look in the
+least appetizing.
+80048: The solid wooden door is fitted with a large iron lock.
+80088: Your sword is too big and clumsy to force the lock with.
+80128: Both the door and the lock prove to be remarkably solid.
+80168: You've already broken the lock; there's no need to damage the door as
+well.
+80224: You knock on the door but no one answers.
+80256: You're an expert soldier, not an expert thief; you can't pick a lock
+with your fingers!
+80320: You insert the blade of the dagger into the lock, and by wiggling it
+around you manage to force the lock.
+80392: It looks like this place is a store for agricultural implements used by
+whoever was working this land before they fled.
+80476: It looks fairly full, but there's a hole near the bottom where a rat has
+gnawed it, through which some kind of dark powder is spilling out.
+80576: It lies limp and empty, a worn sack with a hole in the bottom where a
+rat has gnawed through it.
+80644: A grain sack lies slumped in one corner.
+80676: As soon as you try to move the sack, the black powder starts spilling
+out of the hole at an alarming rate, so you quickly put it down again.
+80776: You pick up the sack, but decide that it's too worn to be of any use to
+you, especially as it has a hole near the bottom, so you dump it back in the
+corner.
+80888: The hole is already in the sack, in a manner of speaking.
+80932: Whatever it is, it isn't any kind of grain fit for human consumption.
+For one thing, it's black, and you've never eaten black grain.
+81028: You pick up a few grains of the stuff but it quickly slips through your
+fingers again. If you want to take a significant quantity you'll have to find
+something to carry it in.
+81192: Better not - look what it did to the rat!
+81224: When you try to pour the powder out of the top of the sack it mostly
+just pours out through the hole in the bottom.
+81304: You can't pour it anywhere until it's in some kind of receptacle.
+81412: The fissure is above you, and the powder won't pour upwards.
+81456: You don't want to pour it there.
+81514: You stop to stare out over the enemy camp to see if poisoning their
+water-supply has had any effect. For hours, nothing seems to happen, as the
+Phartipu appear to continue their normal nocturnal routine. But shortly after
+sunrise, it becomes apparent that something has changed. Even from your distant
+vantage-point you can tell that the mood in the enemy camp is sombre and
+subdued, for there is none of the excitement and bustle you would expect of an
+army preparing for a crushing victory.
+
+As the sun clears the eastern horizon
+the Phartipu drums start to beat out a slow, funereal roll. A slow procession
+approaches the pavilion, and then with great ceremony carries a bier towards a
+huge funeral pyre. As the pyre is lit, the pall-bearers are ritually executed
+as a sacrifice to their dead warlord, while his pavilion is simultaneously
+committed to the flames.
+
+For an hour or so you wonder if this funeral is but
+the prelude to an even more frenzied onslaught than there might otherwise have
+been; but no, as the smouldering funeral pyre finally dies out, the enemy
+warriors slowly strike camp and disperse, finally retreating to the north. By
+noon, the last of them has disappeared out of sight. Perhaps they think that
+the mysterious death of the Great Pong is a sign that the demon-god Malodor has
+finally turned against them. But whatever the barbarians think, your homeland
+is saved.
+82484: It looks quite stiff, but it hasn't started to decompose yet; you judge
+that it's been dead for several hours.
+82564: A dead rat lies on the ground near the sack.
+82596: A dead rat lies near the sack, its paws in the pile of powder.
+82640: The last time you were reduced to eating raw rat was as a desperate
+young soldier on a survival exercise - and you swore then you'd never suffer it
+again, raw or cooked. Besides you
+82776: You don't have time to start dissecting small mammals right now.
+Besides, you've never been that curious to examine the innards of a rat.
+82872: Rakes, hoes, scythes, peasant stuff like that - nothing to interest you.
+82928: You don't have time to start farming!
+82956: There's nothing special about hut's plain wooden walls.
+82996: There's nothing particularly interesting in any of the corners of the
+hut, unless you count the rakes, hoes and scythes dumped there, along with a
+dirty old sack.
+83112: It's just a hole, almost certainly gnawed in the sack by the now
+deceased rat.
+83168: You can hardly take the hole from the sack.
+83232: You can hardly do that with a hole.
+83260: The top of the ridge (which continues to east and west) affords a
+depressingly good view over the valley below - depressing because the size of
+the enemy camp is all too apparent. A path leads back down the ridge to the
+south, while piles of abandoned equipment lie all around.
+83452: You reach the top of the ridge, and find it deserted. There is no sign
+here of the army you were sent to command, just a few pieces of abandoned
+equipment left lying around. Down to the north, however, the enemy camp is all
+too apparent - their tents and campfires seem to fill the entire valley.
+
+As
+you reach the top of the ridge, the sun finally sinks beneath the western
+horizon, the daylight fading with your hopes. But the full moon still provides
+enough light for you to find your way around reasonably well.
+83856: A path leads back down to the south.
+83884: Some broken spears, discarded armour, that sort of thing, eloquently
+signalling the hasty departure of the army that should have been here.
+83980: You look through the discarded equipment but find nothing worth taking.
+84032: The path leads back down the hillside to the southern plain.
+84076: A giant ballista squats here, pointing out over the valley below.
+84228: The great ballista is far too heavy for one man to move by himself.
+84276: The ballista can only be loaded with one missile at a time.
+84320: A sword would make a very uncertain missile, and you're loathe to part
+with such a trusty old companion.
+84396: There's not much point putting that in the ballista.
+84436: The bottle won't make much of a missile in its present state.
+84480: You'd better not, it's valuable government property; besides, it's
+probably the most effective weapon left on the ridge.
+84568: You don't know enough about ballistics to be able to do that
+effectively.
+84620: You don't know enough about ballistics to be able to adjust it
+effectively, and you suspect it might take more than one person to do it.
+84716: That would probably give you indigestion.
+84748: A faint smell of well-seasoned wood.
+84776: It's just a plain wooden lever.
+84800: Nothing much happens, presumably because there is no tension in the
+spring.
+84856: The firing mechanism springs forward, but nothing much else happens,
+presumably because the ballista isn't loaded.
+84936: You pull the lever and the ballista fires its missile into the valley
+below.
+85002: traces a trajectory towards the river, where it lands among some of the
+tents near the pavilion. Within moments, there's a satisfying glow as some of
+the tents catch fire. Shouts of panic follow almost immediately as some
+Phartipu warriors flee the burning tents and others rush to douse the flames
+before they spread to the Great Pong's pavilion.
+85244: You quickly lose sight of it in the dark; presumably it lands somewhere
+in the enemy camp, and it probably does some damage, but it's obviously going
+to take more than a few ballista bolts to rout the Phartipu.
+85392: It's the sort of handle you could turn.
+85424: The spring is already wound up to full tension.
+85460: It's hard work, but you manage to crank the ballista handle until the
+spring reaches full tension.
+85528: The spring that powers the ballista is basically a bundle of twisted
+ropes (otherwise known as skeins).
+85600: Trying to pull the ropes by hand would be too much like hard work; if
+you want to prepare the ballista for firing you'd do better to wind the handle.
+85704: That would certainly be counterproductive.
+85736: Although the valley below looks full of enemy tents, up here on the west
+end of the ridge there's only one, just to the south of where you stand, a
+large canvas structure that would almost certainly be the command tent were
+there still an army here to command. The remainder of the ridge slopes away to
+the west, but the bulk of it lies to the east.
+85976: The ridge slopes gradually away from the west, but that would take you
+too far away from where you need to be.
+86052: You can't see inside the tent from here.
+86084: The ridge continues to the east, but it's hard to make out many details
+in the moonlight.
+86148: The ridge slopes gradually away to the west.
+86180: Immediately to the south stands the command tent.
+86216: It's too large to be a sleeping-tent for common soldiers, and it still
+flies the king's banner.
+86284: You know the royal banner to be silver on blue, but in the moonlight it
+looks like two shades of grey.
+86356: The banner, flying from the top of the tent, is out of reach.
+86400: It looks surprisingly bare, for a command tent; perhaps the deserting
+troops looted it before they left. A plain wooden table still stands near the
+centre, while a metal strong-box lies in one corner.
+86544: It smells rather as if someone's been boozing in here.
+86584: It's just a plain wooden table, of the sort senior officers often use on
+campaign.
+86644: It's a tribute to the design of military lamps that this one's flame is
+still burning, and will no doubt continue to burn for some time to come.
+86744: No genie appears; you're on your own for this one.
+86784: You don't want to do that; the water would probably douse the flame, and
+you have no way to re-light it.
+86860: Since you have no way to light it again, that would probably be a bad
+idea.
+86940: On the note is written, in a scratchy hand, "It started three days ago,
+terrible rumours flying round the camp, rumours of what the enemy would do to
+anyone who dared resist them. At first my men left in twos and threes, then in
+twenties and thirties, till yesterday they started drifting away in companies
+and regiments, even men I thought were my best officers and comrades-in-arms!
+And now, only I am left. So what am I to do? I cannot bear the disgrace of
+reporting this failure to my king, nor do I dare wait to be captured by the
+vile enemy that has just appeared in the valley below, so that leaves but one
+course of action left to me - I shall die by my own hand."
+87412: You might at least read it first!
+87436: It's a bit premature to set fire to the note just yet - the bottle might
+blow up in your hand!
+87548: It's alight - you'd burn your fingers.
+87580: Well, it's too late to make Chorza eat his words, so you may as well do
+it for him. The army paper isn't exactly tasty - in fact it's the most
+unpleasant thing you've eaten all month, but as you chew and force yourself to
+swallow the stuff, you console yourself with the thought that you're probably
+helping to preserve poor old Chorza's reputation. But as you swallow the last
+disgusting piece, you resolve that next time you want to get rid of a suicide
+note, you'll simply burn it.
+87920: From his clothing, he's obviously a high-ranking officer.
+87980: As you stoop over him, you recognize him as General Chorza, your old
+friend and comrade, who was meant to be commanding the army here until your
+arrival.
+88088: A dagger plunged into his belly shows how he died.
+88124: In fact, it's your old friend and comrade General Chorza.
+88224: It's probably best to leave him where he is for now; it'll be time to
+arrange an honourable burial when the future of your living countrymen is
+secured.
+88332: A thorough search of the body reveals a small brass key, which you duly
+take.
+88388: There's a distinct smell of liquor about it, suggesting that the man may
+not have died entirely sober. Either the liquor disguises the smell of
+decomposition, or Chorza has not been long dead.
+88524: But necrophilia is so dead boring!
+88548: You may as well let him lie till you've enough time to arrange a decent
+burial for him.
+88608: Chorza was a tough enough old soldier in life; in death he'll be totally
+indigestible.
+88672: At least allow the old soldier some dignity in death!
+88712: That's a barbarian Phartipu custom; Chorza deserves a decent Loraynian
+burial.
+88772: He's no sleeping beauty, and it's far too late for the kiss of life to
+save him.
+88832: He'll never wake again - not in this life, anyway.
+88872: It's a fine piece of craftmanship, with a long narrow blade.
+88916: That would be even more painfully self-destructive than Chorza's use of
+it! What do you want, a warning stamped on the hilt saying "Warning: Eating
+daggers can seriously damage your health"?
+89052: You wipe the blade of the dagger on the ground, removing the worst of
+the blood and gore.
+89116: No - quite, you're a Captain-General in the Army of Lorayne, a position
+that does require some measure of intelligence, however modest.
+89216: Yes? Even generals have more intelligence than that!
+89256: It's a standard military strong-box of the kind commanders use to keep
+important papers and the like in.
+89328: It's too heavy and bulky to cart around; you could lift it, but you
+don't want to be encumbered by it.
+89404: A small amount of some amber liquid remains in the bottom of the bottle.
+That it
+89548: You'd better not handle the bottle now you've lit the paper fuse.
+89596: Even empty the bottle smells of powerful spirits.
+89632: It would be rather a waste to pour that liquid on the ground.
+89676: You pour the water onto the ground, where it quickly seeps away.
+89724: You've just poisoned that pool, you certainly don't want any water from
+it for yourself!
+89788: You fill the bottle with water from the pool.
+89820: There's already something in the bottle.
+89852: You might want to read it first.
+89876: There's not much point doing that.
+89976: The neck of the bottle is too narrow.
+90004: There's a small amount of amber liquid in the bottom of the bottle.
+90052: You'd better not pick up that bottle - it might explode at any moment!
+90104: Weighed down by the black powder, the bottle sinks to the bottom of the
+pool, where it is pushed about by the water bubbling up from the spring. The
+powder quickly seeps out through the open neck of the bottle, mixing with the
+water and then being carried out by the current through the fissure.
+90308: The paper sticking out of the neck prevents you closing the bottle.
+90360: You'd better not handle the bottle right now.
+90392: It tastes like fire on your tongue.
+90420: You take one sip and it almost burns your tongue out. Since tonight of
+all nights you need to remain sober and clear-headed, you decide to give the
+rest of it a miss.
+90536: One whiff is enough to convince you that this liquor must be powerful
+stuff.
+90592: You very much doubt there's enough liquid left in the bottle to cover
+the bush, and there's always the danger that most of it will run off into the
+ground.
+90700: Your pour the amber liquid over the tip of the shaft, where it starts to
+soak into the wood.
+90764: That would be rather dangerous - the bottle might explode!
+90808: They're mostly the standard official documents you'd expect a general to
+have to deal with: his orders, of course, which in this case tell him to hold
+Swineback Ridge at all costs; a list of the units under his command (or which
+were under his command before they all deserted); reports on stores and
+supplies.
+91028: The only one of any interest is the latest intelligence report, which
+you take to read separately.
+91096: It might be as well to read them first.
+91124: Maybe you don't want to be holding them when you set light to them; you
+don't want to burn your hands, after all!
+91208: It won't do much good burning them there!
+91284: You apply the flame to the paper, and it quickly catches light. As the
+fire blazes, it starts to spread to the bush, and after a couple of minutes the
+bush is burning too. You stand back and watch as the flames take hold, and the
+smoke drifts out over the valley. After half an hour or so the flames burn out.
+The bush is still there, but it looks less substantial than before; it has
+become charred and brittle. You just hope your little bonfire didn't attract
+too much attention from the enemy camp in the valley below.
+91680: It's a couple of days old, and seems to be from Chorza's scouts,
+reporting on the inexorable advance of the Phartipu army towards Lorayne's
+northern border. You are particularly struck by a passage that reads, "Although
+the Phartipu are officially worshippers of the demon-god Malodor, their
+warriors idolize their commander, the Great Pong, perhaps because he has led
+them to so many victories and never suffered a single defeat. Last night we
+watched (from a safe distance) as a dozen human prisoners (both male and
+female) were sacrificed to the Great Pong in an interminable ceremony involving
+ritual torture too horrible to describe. By the end the Phartipu warriors had
+worked themselves up into such a frenzy that they seemed to be on the point of
+acclaiming the Great Pong as Malodor Incarnate."
+92276: It's a bit premature to set fire to the report just yet - the bottle
+might blow up in your hand!
+92344: That really isn't the standard military procedure for digesting the
+contents of a report.
+92408: It's alight - you'd burn your fingers.
+92440: It's just an ordinary small brass key, nothing fancy, nothing special.
+You must have seen scores like it in your long career.
+92796: After only a few steps down the path you find your way blocked by a
+prickly bush.
+92852: It would be easy enough to get lost in that dense wood in broad
+daylight; at night losing your way would be a virtual certainty, even assuming
+the wood is penetrable.
+92968: To the east looms a dense, dark wood.
+92996: The to west lies the bulk of the ridge, though by the moonlight you can
+make out little more than vague shapes that way.
+93080: To the northeast you can just make out the start of steep path.
+93124: You can't see inside the supply tent from here.
+93160: Immediately to the south stands the supply tent.
+93196: You can go northeast, west or in (= south).
+93376: You can't cut it with your bare hands.
+93404: It would take you all night to prune the bush with that dagger!
+93448: The badly-burnt bush succumbs to your frenzied attack, and you manage to
+hack it to pieces with your sword.
+93524: Golly Moses! You hack away at the bush with your sword, but you don't
+make much impression.
+93592: You can hardly cut the bush with that!
+93620: Attacking the bush with your bare hands simply earns you a few
+scratches.
+93672: The bush starts to smoulder, but doesn't quite catch light, and the few
+small flames you kindled rapidly go out.
+93752: It's too tall, and you are not as young and fit as you used to be.
+93800: There's nothing firm enough on the bush to give you a handhold or
+foothold.
+93856: It feels very dry, as if it hasn't rained here for months.
+93900: You can hardly put that in the bush.
+93928: You won't find anything but twigs and foliage.
+93964: The bush wobbles a little, but only a little.
+94092: The thick belt of trees covers the section of ridge that slopes down to
+the east.
+94148: It's a large green tent, the standard pattern for supply tents in
+Lorayne's military.
+94212: The abandoned tents flop uselessly on the ground in random disarray, an
+affront to the order and precision of military discipline.
+94304: The half-dismantled tents are in no state to be entered.
+94344: There's no need to encourage the enemy by showing your camp to be in
+disarray.
+94400: You find nothing of use among the abandoned tents.
+94436: You smell nothing unexpected: just the stink of unwashed soldiers, the
+lingering smell of army cooking, the faint whiff of cheap booze, and all the
+other odours you've come automatically to associate with soldiers' tents.
+94592: The path leads off to the northeast.
+94620: After your frenzied attack little remains of the bush apart from a few
+twigs sprouting from the ground.
+94692: What's left of the bush isn't worth the effort of clearing.
+94736: There's a large space here, as befits a supply tent, but it's almost
+entirely bare; it looks as if nearly everything of use has been purloined by
+deserters.
+94848: A large canvas bag lies on the ground.
+94876: The long shaft is far too big to fit in the bag.
+94912: Your sword is too long to fit in the bag.
+94944: It's not a not idea to put the lamp in the bag - you might burn it (the
+bag, that is).
+95008: It's not that suitable for carrying water.
+95040: Each shaft in the pile has a round cross-section and a pointed tip.
+95088: A pile of wooden shafts sits by the entrance.
+95120: You pick up one of the shafts from the pile.
+95152: One shaft at a time is enough, and you've already taken one.
+95196: You find nothing in the pile of wooden shafts except a whole lot of
+wooden shafts.
+95300: When you apply the lamp to the end of the ballista bolt, the tip starts
+to smoulder, but it refuses to catch light.
+95380: The alcohol-soaked bolt-tip quickly catches light and starts burning
+nicely.
+95536: The tip of the shaft smells quite strongly of something alcoholic.
+95584: That might not be so easy to do; besides, you've just gone to all that
+trouble to get it to burn!
+95716: The liquid has soaked into the tip of the shaft.
+95752: You'll burn your nose off if you try that!
+95784: It still smells powerfully alcohol.
+95812: You can hardly do that with the amber liquid now that it has soaked into
+the shaft.
+95872: The steep path down from the top of the ridge to the southwest levels
+off just above a waterfall cascading down into the valley below. This levelling
+off is only temporary, though, since the path dips sharply down again as it
+continues to the northeast.
+96048: You start down the path, but a few yards from the bottom you become
+aware that there's an enemy picket patrolling the area; rather than risk being
+caught you slip silently back up.
+96174: You cautiously descend the path, keeping a close look-out for enemy
+patrols, but there seem to be none about; perhaps they've all been recalled to
+fight the fires you started. Anyway, reassured that the coast is clear, you
+descend to the foot of the path.
+96356: Below you, a waterfall pours out of a fissure in the rocks.
+96400: To the southwest you can see the path climb back up to the top of the
+ridge.
+96452: The path continues to descend the ridge to the northeast.
+96492: You can go southwest (= up) or northeast (= down).
+96536: At this point the rocky hillside climbs sharply up to the north, and
+falls almost vertically down to the south.
+96616: The hillside is too steep to climb, whether up to the north or down to
+the south.
+96672: So far as you can tell, it might be wide enough to crawl into, but
+there's no way you can enter it from here, though you might be able to find a
+way to get to it from below.
+96792: You caught sight of an enemy picket as you descended the path, but from
+up here you can't see at all them clearly; every now and again you think you
+see some movement below, but it could just be a trick of the moonlight.
+96948: You find yourself at the foot of a steep path that rises sharply to the
+southwest. To the north the lower part of the ridge slopes down into the valley
+occupied by the enemy camp, while from the west you hear the sound of running
+water.
+97112: You wander a short way off to the east, but finding nothing of interest
+that way, and realizing that it's probably taking you further from your goal,
+you turn round and come back.
+97236: You can't see much of interest to the east.
+97268: To the southwest is the path that climbs back up the ridge.
+97312: To the west the ground slopes gently up.
+97344: You can go west or southwest (= up).
+97376: The steep path climbs sharply to the southwest.
+97480: Here a narrow ledge overlooks the valley to the north and a waterfall
+cascading down directly to the west from a fissure in the rocks some yards
+above you. The only obvious way you can go from here is back to the east.
+97630: You pull experimentally on the horizontal shaft, and it seems to hold
+firm, so you hoist yourself onto it with both hands and find yourself sitting
+astride it. Cautiously, with one hand on the rock face to steady yourself, you
+manage to stand up on the shaft, and find that you can look into the fissure.
+After an alarming wobble you get your arms into the fissure, and then manage to
+hoist your whole body through.
+97920: You pull experimentally on the shaft, and it seems to hold firm, but
+when you try to hoist yourself up on it, the shaft waggles alarmingly and the
+dagger works loose, dropping to the ground and leaving the shaft too loose to
+be a safe support for climbing.
+98096: You pull tentatively on the shaft, but it's too loose in the hole; you
+daren't use it to climb up to the fissure unless you can find a way to make it
+firmer.
+98208: You grasp the sword hilt and try to hoist yourself up by it, but the
+sword wobbles alarmingly, so you quickly give up the attempt.
+98300: You put one hand in the head-height hole in the rock and try to pull
+yourself up by it, but you don't make much progress.
+98388: That would make you step off the ledge and plummet to your death.
+98436: The ledge slopes gently down to the east.
+98468: The ledge ends abruptly in a sharp drop to the west. A yard or so beyond
+its edge a waterfall cascades down into the stream below.
+98560: You'll hardly defeat the enemy by jumping to your death.
+98600: It's a few inches in diameter, and looks pretty deep.
+98640: There's no room for anything else in the hole.
+98708: It's far too small for a person to get into.
+98740: The rocks rise almost vertically from here to the fissure, and look too
+smooth to be easy to climb; but you notice a deep round hole in the rocks at
+about head-height.
+98860: It's about ten feet above the ledge and several yards wide; a waterfall
+cascades out of the western side of the fissure, but the eastern side looks
+drier, and might be wide enough to crawl through.
+99000: You can't see into the fissure from here.
+99164: The stream runs from the foot of the waterfall into the River Hogwash.
+99216: This small cave is so cramped you're forced to stoop. The only way out
+is via the narrow fissure to the north, through which a steady stream of water
+pours out from the pool at the centre; this pool seems to be fed by a spring.
+99374: You squeeze through the fissure and clamber back down the rocks.
+99424: There's not enough headroom for that.
+99452: You can only go out (= north or down).
+99484: Directly to the north lies the mouth of the cave.
+99520: At your feet is the pool occupying the centre of the caves.
+99564: There's nothing that way but the wall of the cave.
+99600: The pool is full of water bubbling up from a submerged spring, which
+then pours out through the fissure in a steady stream.
+99764: There's nothing in the pool but the water bubbling up from below.
+99812: You don't have time for a bath right now.
+99844: Not after putting that powder in it!
+99872: You kneel down by the pool and cup your hands to draw out a couple of
+mouthfuls of water: it tastes cool and fresh.
+99952: You can hear the water running out through the fissure.
+99992: The black powder quickly dissolves in the water, and is borne thence by
+the stream flowing out through the fissure.
+100072: You don't have time for that; besides you don't have anything to dry
+yourself with and you don't want to be walking around wet on a chilly night.
+100176: It occurs to you that you may as well leave the cave now, if only to
+get a better view of the enemy camp.
+100248: Water pours out of the west end of the fissure, but the east end is
+reasonably dry, and looks large enough to crawl through.
+100336: The walls of the cave are formed from unremarkable rough brown rock.
+100384: The cave wall feels as rough as you would expect.
+100420: In the north wall of the cave is the fissure through which the water is
+streaming out.
+100480: The roof of the cave is just above your head, forcing you to stoop.
+100528: It's hard and rough: you certainly wouldn't want to bump your head
+against it.
+100584: It's a colourless liquid.
+100608: You drink the water, and feel suitably refreshed.
+100644: You pour the water back into the pool.
+100672: You see no reason to pour it there.
+100700: Your might be able to pour it somewhere, but you can hardly take it.
+100748: It may be starting to look a little battered, but it has a sharp edge,
+and it has seen you through many a victorious battle.
+100836: You're a soldier, not some charlatan sword-swallower in a country fair!
+100888: It has a good solid blade, rough to the touch, with a keen sharp edge
+you're careful not to cut yourself on.
+100964: It's old and scratched, and hardly the most fashionable wear for a
+high-ranking general, but like your sword it's seen you through many a battle
+and it allows you so much more freedom of movement than some shiny steel thing.
+101120: Time to do that when the battle's won; if it's lost you may as well be
+buried in it.
+101184: It's far too leathery to make an acceptable meal. Besides, it'll do
+your stomach more good protecting it from the outside.
+101272: The distant enemy camp looks enormous; from the spread of camp fires
+and tents you estimate there must be over a hundred thousand barbarian troops
+out there ready to invade on the morrow. Even by moonlight you can pick out one
+tent in particular, almost a pavilion, set up just this side of the river.
+101484: Occasional sounds drift up from the valley below: snatches of
+triumphant song, the occasional bugle-call or drum rattle, even what sounds
+likes taunts shouted against the army the enemy apparently still believe to be
+encamped up here on the ridge.
+101656: The great pavilion, the largest tent in the valley, is presumably the
+command tent of the Great Pong, dread warlord and demigod of the Phartipu,
+Conqueror of a Thousand Lands, Scourge of the Weak, Hammer of the Strong, Pong
+the Widow-Maker, Pong the Virgin-Taker, Pong the Merciless, Pong the Immortal,
+Pong the Immoral, Pong the Tax-Evader and Doer of a Million Dastardly Deeds.
+It's no accident, you suppose, that his pavilion is pitched so close to the
+river, providing him with a ready water supply for all his needs.
+102040: The valley below is filled with the tents and camp fires of the
+invading Phartipu, on both sides of the broad, moonlit river that cuts through
+its centre and forms the northern boundary of Lorayne.
+102180: The River Hogwash flows silently and sluggishly through the enemy camp
+in the valley below, its waters reflecting the silvery moonlight.
+102276: The moon is full tonight, a bright disc high in the sky casting a
+ghostly light over the landscape.
+102348: The reddening sun is sinking rapidly towards the western horizon.
+102396: A myriad stars puncture the dome of the night sky, though they seem
+faint next to the brilliance of the new moon, making it hard to pick out any
+familiar constellations.
+102512: The cloudless sky is reddening towards the west.
+102548: The black night sky is full of stars, but they are far outshone by the
+brilliant full moon.
+102612: The dying sun is rapidly approaching the western horizon.
+102652: It looks much like any other part of the night sky.
+102688: Tired, aching and battle-scarred, you are still Captain-General
+Yelanor, the best military commander in the land (though you say it yourself)
+and your country's last, best hope for victory.
+102824: There's not enough light to see by in here.
+102856: Your horse went lame five miles back, so you had to leave him at some
+peasant's farm and continue the journey on foot. It would have been tempting to
+rest awhile, accepting the peasant's rustic hospitality, but the king's orders
+were explicit - make for Swineback Ridge with the minimum of delay. Weary
+though you are from battling against rebels in the east, the king insisted that
+he needs
+103134: here, to take command of the hopelessly outnumbered army up on the
+ridge ahead, an army that's your homeland's last, best hope to turn back the
+barbarian hordes and avoid the fall of night.
+
+For the tenth time today you
+wonder about the urgency. The last you heard General Chorza was in command of
+the army up on the ridge, and you know Chorza of old, a fine soldier and a good
+commander. So what is it that Chorza cannot handle himself?
+103444: In your long experience as a soldier, muttering strange incantations
+has never won a battle yet - and it doesn't this time, either.
+103536: You don't need to look behind anything in this game; EXAMINE or SEARCH
+should suffice.
+103608: It would cause one hell of a stink if it came out that Lorayne's
+Captain General was praying to such a barbarous demon.
+103692: There's no need to try putting anything under or behind things.
+103738: "Swineback Ridge" was written as a bit of fun, partly just to try
+writing something in Inform for a change, and partly to implement a game idea
+I'd had knocking around for some time. It's a short, puzzle-based game,
+hopefully not too difficult and certainly not very long. It's nothing very
+deep, but should provide a few minutes' amusement. As a relatively short, easy
+game it should be suitable both for beginners and for more experienced players
+looking for a little "snack" of an adventure.
+
+"Swineback Ridge" is not a cruel
+game: there are no time limits, there's no way to get killed, and it should be
+impossible to get the game into an unwinnable state.
+
+I've provided some
+in-game hints, but since this game rather loses its point if you don't work out
+the puzzles for yourself, they're more in the nature of nudges than solutions.
+Hints may be accessed directly using the commands HINT or HINTS.
+104382: There are virtually no non-standard commands you actually need in order
+to win "Swineback Ridge". A few extra verbs are provided as alternative ways to
+phrase existing commands, and the grammar of some existing verbs (e.g.
+"attack") has been extended to allow the use of an indirect object. Some
+additional commands you may find useful include:
+
+EXITS -- show a list of exits
+for the present location.
+HINT (or HINTS) -- show available hints.
+ABOUT (or
+HELP) -- show the About menu (but you must have worked that out already to be
+reading this text!).
+105142: ) to take advantage of features new to the 6/11 library and (c) to
+incorporate a hint system of my own devising (which borrows several ideas from
+Mike Roberts's adv3 library for TADS 3).
+
+The beta-testers for "Swineback
+Ridge" were Johan Berntsson, Sara Brookside, Samantha Casanova, Katzy (aka
+Javri), Michel Nizette, George Oliver, and Phil Swinbank - a superb team who
+between them managed to unearth far more things that needed improving in this
+tiny game than I ever dreamt possible!
+
+Last, but by no means least, the Inform
+language and library are by Graham Nelson.
+106358: the game, all associated files and this license are included and remain
+unmodified.
+
+5. You are not allowed to make a charge for distributing the game
+(other than merely to recover your media and distribution costs) whether as a
+stand-alone product, or as part of a compilation or anthology, without written
+permission.
+
+6. NO WARRANTY. The game is licensed and provided "as is" without
+warranty of any kind, express or implied, including, but not limited to, the
+implied warranties of merchantability and fitness for a particular purpose or a
+warranty of non-infringement.
+106768: Try Exploring.
+106780: Then explore some more.
+106800: After that, carry on exploring.
+106824: Obviously, you need to find a way to defeat the Phartipu.
+106868: Equally obviously, you can't kill them all single-handed.
+106912: So you'll have to try some other way to get rid of them.
+106952: What might rout any army apart from actual defeat on the battlefield?
+107000: Perhaps you could destroy their morale?
+107028: How closely have you looked at the valley and the enemy camp?
+107072: Have you read the latest intelligence report?
+107104: How would the Phartipu react if something dire happened to the Great
+Pong?
+107160: Where is the Great Pong's pavilion placed?
+107192: Why does it seem to be placed there?
+107220: Could you do something to his water supply?
+107252: You'll have to find some way of unlocking the door.
+107288: It may not be entirely conventional.
+107316: What, besides a key, could you try putting in the lock?
+107356: It seems too thick to get through.
+107380: So what might you do to a bush that's too thick?
+107416: What could you cut it with?
+107436: Have you tried feeling it?
+107456: What happens when you cut it with your sword?
+107488: It that didn't work immediately, perhaps the response contained a clue?
+107540: Golly ...!
+107552: What kind of bush do you associate with Moses?
+107588: Unfortunately Moses' bush wasn't consumed, and this one may need some
+encouragement.
+107648: Perhaps getting past them isn't quite what you need to do.
+107692: Maybe you should think in terms of distraction instead.
+107732: What might cause a disturbance in the enemy camp?
+107768: Have you tried using the ballista?
+107792: How closely have you examined it?
+107816: It's like a giant crossbow - what steps would you expect to take?
+107864: What do suppose the handle's for?
+107888: What sort of object would you expect to load the ballista with?
+107932: Where have you seen something like that quite close by?
+107972: Yes.
+107976: What might make a ballista bolt do more damage?
+108012: Have you seen anything with a flame round here?
+108048: Have you come across anything else that might be described as "fiery"?
+108100: What happens when you try?
+108120: Is anything mentioned that might be useful?
+108152: If you can't use the round hole as a handhold, what else might you use
+it for?
+108208: What might support your efforts to climb?
+108240: How might you wedge something in the hole?
+108272: That's just scenery.
+108624: give" or test "has" or "hasnt" with a non-attribute on the object
+108672: , but it is longer than 2 bytes so you cannot use "."
+

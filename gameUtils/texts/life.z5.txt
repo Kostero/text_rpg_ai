@@ -1,0 +1,176 @@
+11037: Nothing to do!
+11072: o. You have won
+11175: It is now pitch dark in here!
+11202: I beg your pardon?
+11266: Sorry, that can't be corrected.
+11295: Think nothing of it.
+11348: As good-looking as ever.
+11380: You can hardly repeat that.
+11405: You can't begin with a comma.
+11519: I didn't understand that number.
+11548: You can't see any such thing.
+11584: You aren't holding that!
+11626: I'm not sure what "
+11678: That's not a verb I recognise.
+11717: You can't see "
+11825: Nothing to do!
+11842: There are none at all available!
+12752: Please answer yes or no.
+12778: Are you sure you want to quit?
+12823: Failed.
+12843: Restore failed.
+12860: Ok.
+12878: Save failed.
+12893: Ok.
+12937: Transcripting is already on.
+13003: Transcripting is already off.
+13061: Score notification on.
+13082: Score notification off.
+13105: You have visited:
+13133: Objects you have handled:
+13158: None.
+13544: You are carrying nothing.
+13593: Taken.
+13604: You are always self-possessed.
+14137: Dropped.
+14247: Removed.
+14386: You lack the dexterity.
+14467: Done.
+14733: Done.
+14944: Wrahn seem interested.
+15525: You can't go that way.
+16085: But it's dark.
+16102: You find nothing of interest.
+16138: But it's dark.
+16229: You find nothing of interest.
+17357: . Not bad.
+17375: That was a rhetorical question.
+17429: That seems unnecessary.
+17452: Keep your mind on the game.
+17477: What a good idea.
+17496: You smell nothing unexpected.
+17523: You hear nothing unexpected.
+17548: You taste nothing unexpected.
+17583: Keep your hands to yourself!
+17608: You feel nothing unexpected.
+17633: If you think that'll help.
+17742: Oh, don't apologise.
+17772: Quite.
+17841: You achieve nothing by this.
+17929: You wave, feeling foolish.
+18079: You are unable to.
+18098: Nothing obvious happens.
+18148: That's not a direction.
+18171: Not that way you can't.
+18203: Keep your hands to yourself.
+18228: You achieve nothing by this.
+18261: Futile.
+18290: You talk to yourself a while.
+18317: This provokes no reaction.
+18345: There is no reply.
+18364: Nothing is on sale.
+18383: Your singing is abominable.
+18417: Time passes.
+42198: You made a box.
+42462: You made a cat.
+42511: You made a glider.
+42553: You clear the board.
+42594: That isn't part of the board!
+44962: An Interactive Biological Interaction
+Copyright (c) 1998 by David S.
+Glasser.
+(Type "about" for more information)
+45212: Score:
+45220: Moves:
+45228: Time:
+45236: You can't go that way.
+45568: Please give one of the answers above.
+45596: [You can't "undo" what hasn't been done!]
+45632: [Can't "undo" twice in succession. Sorry!]
+45672: "Oops" can only correct a single word.
+45700: It is pitch dark, and you can't see a thing.
+45732: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+45792: You seem to want to talk to someone, but I can't see whom.
+45836: To talk to someone, try "someone, hello" or some such.
+45876: I didn't understand that sentence.
+45936: You seem to have said too little!
+45960: You can't use multiple objects with that verb.
+45996: You can only use multiple objects once on a line.
+46032: You excepted something not included anyway!
+46064: You can only do that to something animate.
+46096: That's not something you need to refer to in the course of this game.
+46144: I didn't understand the way that finished.
+46176: Sorry, you can only have one item here. Which exactly?
+46328: Are you sure you want to restart?
+46352: The game file has verified as intact.
+46380: The game file did not verify as intact, and may be corrupt.
+46424: Attempt to begin transcript failed.
+46452: Attempt to end transcript failed.
+46476: You're carrying too many things already.
+46508: You can't put something on top of itself.
+46540: You can't put something inside itself.
+46596: You can only get into something freestanding.
+46628: But you aren't in anything at the moment.
+46660: You'll have to say which compass direction to go in.
+46700: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+46796: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+46880: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+47056: This dangerous act would achieve little.
+47084: Nothing practical results from your prayer.
+47116: The dreadful truth is, this is not a dream.
+47148: Digging would achieve nothing here.
+47176: You jump on the spot, fruitlessly.
+47204: You would achieve nothing by this.
+47228: There's nothing suitable to drink here.
+47256: But there's no water here to carry.
+47284: Real adventurers do not use such language.
+47316: Violence isn't the answer to this one.
+47344: There's not enough water to swim in.
+47372: There's nothing sensible to swing here.
+47400: That would be less than courteous.
+47424: Is that the best you can think of?
+47448: You lack the nerve when it comes to the crucial moment.
+47488: I don't think much is to be achieved by that.
+47520: You aren't feeling especially drowsy.
+47606: Crunch.
+
+That's the last thing you hear after crashing into that
+tree.
+
+You look around groggily.  Where are you?  Bright fog is the only thing
+you can see.
+
+And then you see it.  The Board of Life.  And you know where you
+are.
+47796: It's a well-known law of magic that you can't kill or resurrect.
+48488: I think mine is better because it's faster (YMMV), allows customization
+of board setup, and complies strictly to the Game of Life.
+48606: Only two objects of interest in this world, or whatever it is.
+48650: A mighty multi-columned Board shows itself to you.
+48806: could be short for "toggle".
+It seems that "clear board" is the way to
+destroy all living cells on the surface of the board. You also realize that the
+only thing required to make this grid become alive would be your speaking of
+the word "live".  Wow.
+48984: Life becomes death.  Death becomes life.
+49016: Welcome to Life!
+
+
+Life is a game of Cellular Automata. Hardened college
+students have ported it everywhere, and now to the Z-Machine.
+
+
+In Life, the
+intrepid Board contains a grid.  Each cell either contains some life (such as
+fearsome monsters!) or no life!  Each cell has eight neighbors (except the ones
+on the edges).  If a cell has three living neighbors, it will have life in the
+next turn; if it has two, it will have whatever it had this turn, and if it has
+any other amount, it will be dead next turn.
+
+No Z-Machine should be without
+one!
+

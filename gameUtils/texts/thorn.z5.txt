@@ -1,0 +1,620 @@
+14173: Nothing to do!
+14208: o. You have won
+14292: It is now pitch dark in here!
+14319: I beg your pardon?
+14383: Sorry, that can't be corrected.
+14412: Think nothing of it.
+14465: As good-looking as ever.
+14497: You can hardly repeat that.
+14522: You can't begin with a comma.
+14636: I didn't understand that number.
+14665: You can't see any such thing.
+14701: You aren't holding that!
+14743: I'm not sure what "
+14795: That's not a verb I recognise.
+14834: You can't see "
+14942: Nothing to do!
+14959: There are none at all available!
+15869: Please answer yes or no.
+15895: Are you sure you want to quit?
+15940: Failed.
+15960: Restore failed.
+15977: Ok.
+15995: Save failed.
+16010: Ok.
+16054: Transcripting is already on.
+16120: Transcripting is already off.
+16178: Score notification on.
+16199: Score notification off.
+16222: You have visited:
+16250: Objects you have handled:
+16275: None.
+16661: You are carrying nothing.
+16710: Taken.
+16721: You are always self-possessed.
+17254: Dropped.
+17362: Removed.
+17501: You lack the dexterity.
+17582: Done.
+17848: Done.
+18068: Wrahn seem interested.
+18707: You can't go that way.
+19267: But it's dark.
+19284: You find nothing of interest.
+19320: But it's dark.
+19411: You find nothing of interest.
+20539: . Not bad.
+20557: That was a rhetorical question.
+20611: That seems unnecessary.
+20634: Keep your mind on the game.
+20659: What a good idea.
+20678: You smell nothing unexpected.
+20705: You hear nothing unexpected.
+20730: You taste nothing unexpected.
+20765: Keep your hands to yourself!
+20790: You feel nothing unexpected.
+20815: If you think that'll help.
+20924: Oh, don't apologise.
+20954: Quite.
+21023: You achieve nothing by this.
+21111: You wave, feeling foolish.
+21261: You are unable to.
+21280: Nothing obvious happens.
+21330: That's not a direction.
+21353: Not that way you can't.
+21385: Keep your hands to yourself.
+21410: You achieve nothing by this.
+21443: Futile.
+21472: You talk to yourself a while.
+21499: This provokes no reaction.
+21527: There is no reply.
+21546: Nothing is on sale.
+21565: Your singing is abominable.
+21599: Time passes.
+45182: The faint scrabbling of rats.
+45882: Wilkens sips his scotch.
+45934: Wilkens frowns and sighs.
+45977: Wilkens stares into the fire.
+46282: You feel cold stone.
+46370: The fire has already been made.
+46427: The fire has already been made.
+46544: The fire has already been made.
+46601: The fire has already been made.
+46890: You feel rough stone.
+47822: You have missed your chance!
+47847: Have you won or lost?
+48078: You don't want to knock on that.
+48110: Nothing you hear surprises you.
+50504: Copyright (c) 2003 by Eric Mayer.
+
+(First time players of this game
+should type "ABOUT")
+50736: Score:
+50744: Moves:
+50752: Time:
+50760: You can't go that way.
+51092: Please give one of the answers above.
+51120: [You can't "undo" what hasn't been done!]
+51156: [Can't "undo" twice in succession. Sorry!]
+51196: "Oops" can only correct a single word.
+51224: It is pitch dark, and you can't see a thing.
+51256: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+51316: You seem to want to talk to someone, but I can't see whom.
+51360: To talk to someone, try "someone, hello" or some such.
+51400: I didn't understand that sentence.
+51460: You seem to have said too little!
+51484: You can't use multiple objects with that verb.
+51520: You can only use multiple objects once on a line.
+51556: You excepted something not included anyway!
+51588: You can only do that to something animate.
+51620: That's not something you need to refer to in the course of this game.
+51668: I didn't understand the way that finished.
+51700: Sorry, you can only have one item here. Which exactly?
+51852: Are you sure you want to restart?
+51876: The game file has verified as intact.
+51904: The game file did not verify as intact, and may be corrupt.
+51948: Attempt to begin transcript failed.
+51976: Attempt to end transcript failed.
+52000: You're carrying too many things already.
+52032: You can't put something on top of itself.
+52064: You can't put something inside itself.
+52092: That would scarcely empty anything.
+52148: You can only get into something free-standing.
+52184: But you aren't in anything at the moment.
+52216: You'll have to say which compass direction to go in.
+52256: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+52352: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+52436: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+52612: This dangerous act would achieve little.
+52640: Nothing practical results from your prayer.
+52672: The dreadful truth is, this is not a dream.
+52704: Digging would achieve nothing here.
+52732: You jump on the spot, fruitlessly.
+52760: You would achieve nothing by this.
+52784: There's nothing suitable to drink here.
+52812: But there's no water here to carry.
+52840: Real adventurers do not use such language.
+52872: Violence isn't the answer to this one.
+52900: There's not enough water to swim in.
+52928: There's nothing sensible to swing here.
+52956: That would be less than courteous.
+52980: Is that the best you can think of?
+53004: You lack the nerve when it comes to the crucial moment.
+53044: I don't think much is to be achieved by that.
+53076: You aren't feeling especially drowsy.
+53164: This shell of a building seems empty of anything that might hear your
+prayer.
+53220: A formless horror stops your prayer. Something black and terrible that
+claws at your mind.
+53284: You hear only the sound of your own breathing and the sighing of the
+wind.
+53336: Perhaps it is a bit too late in the day to get religion.
+53376: You hear the crackling of the fire.
+53404: Here the wind sings a lament amid the ruins.
+53436: You hear only the sound of your own breathing and the sighing of the
+wind.
+53488: You hear only the sound of your own breathing.
+53548: A crackling fire fills Professor Wilkens' panelled study with shadows
+which leap and shift, giving you the unpleasant, but absurd, sensation of
+furtive things moving just beyond the edges of your vision.
+53692: An open desk sits against one wall. A single window looks out onto the
+night. The study door is to the east.
+53768: A closed desk sits against one wall. A single window looks out onto the
+night. The study door is to the east.
+53846: Professor Wilkens returns with a new bottle of his fine scotch.
+53898: You attempt to conceal the map you're holding. Too late.
+
+Wilkens merely
+gives you a thin smile. "You're  a better journalist than you are a thief.
+Bloody good job too."
+54024: You're no longer certain that driving out into the fens was a good idea.
+The cold, and damp and fog seems almost to have got into your soul.
+54122: It was with some difficulty that you retraced the route Wilkens had
+lightly pencilled on the map in a shaky hand. Each village you drove through
+seemed more devoid of life than the previous. Probably just because  it was
+late and the wind was getting up.  After a few wrong turns you  arrived here,
+at twilight. Standing in front of your now securely locked van, you are aware
+of the cold. Why you  suddenly felt impelled to lock the van in this
+unpopulated spot you cannot say.
+54456: On this cold and snowy night you would rather stay and sample
+Wilkens'excellent single malt scotch.
+54528: On this cold and snowy night you would rather stay and sample
+Wilkens'excellent single malt scotch.
+54600: Wilkens smiles ruefully. "A bit old to play the class dunce aren't you,
+Lawrence?"
+54664: On this cold and snowy night you would rather stay and sample
+Wilkens'excellent single malt scotch.
+54934: augustine of Hippo, the tongs Saint Dunstan used to grab the Devil's
+nose. Your friend appears more gaunt than when you last saw him. Perhaps it is
+the harsh firelight.
+55054: You remark on the snowy weather.
+
+Wilkens sighs, as if you were a slow
+student. "I can't say I'm in the mood for chat, Lawrence. I expected you would
+ask me about that thorn or the abbey or theology or even my scotch. Most times
+you visit it's 'ask wilkens about this -- ask wilkens about that.' Those
+journalistic tendencies of yours. Now I'm rather sorry I mentioned those
+subjects. I expect it was the scotch."
+55510: I can't vouch for the supernatural properties of the Glastonbury Thorn
+myself, but I have seen one very like, located near a ruined abbey in the Fens.
+I wouldn't look at that thorn bush again for anything in the world. I wouldn't
+look at the abbey again as far as that goes."
+55706: This ruined priory was in the fens, a few miles south of a village
+modern map makers have apparently given up for dead. I tracked down the
+location through Ordnance Survey maps and correspondence with several vicars in
+the surrounding country. I would not give you directions  any sooner than I
+would give you directions to your own grave. 
+
+"I know your journalistic
+nature, Lawrence. I hope you're not thinking of going out there. Just drink
+your scotch and forget I mentioned it."
+
+It seems to you that Wilkens glances,
+reflexively, toward the closed desk.
+56104: Wilkens stares into his tumbler. "Laphroaig. From Islay. Fifteen years
+old I was working on that monograph about the Virgin's Girdle when this was
+vatted."
+56326: "You want to talk religion? You surprise me, Lawrence. I fear you picked
+a bad time, however. I am re-evaluating my beliefs."
+56424: "You're the journalist, Lawrence. Surely you know more about this town
+than I do."
+56488: "It reminds me too much of the evening I visited that ruined abbey in
+the fens."
+56548: "This will be a beastly night there. I would prefer not to think about
+the fens. That abbey was in the fens."
+56630: "Joseph of Arimathea? He supplied Christ's burial shroud, according to
+the Bible."
+56698: "Do we even know our own beliefs?"
+56728: "I would have told you he was as real as Father Christmas. Now I'm not
+so sure."
+56792: Wilkens chuckles. "No, Lawrence.  You won't get directions out of me.
+You don't want them either."
+
+It is hard to be sure in the flickering
+firelight, but it seems to you that his gaze shifts momentarily toward the
+desk.
+56954: I'm not sure I know myself any more.
+56986: Wilkens gives that faint, pained smile which, you know, means the
+question doesn't interest him.
+57058: "Would you care to try the Lagavulin?" Wilkens says suddenly. "I have a
+bottle of that out in the kitchen."
+
+You watch as Wilkens walks out the door.
+You hear his footsteps going down the hall.
+57204: Wilkens shifts in his chair and looks out the window.
+57242: Wilkens stares down into his tumbler.
+57272: Wilkens gazes off into the shadows as if deep in thought.
+57314: Wilkens swirls the scotch around in his tumbler.
+57352: Wilkens appears to study the flames in the fire.
+57388: Beyond the window a fine veil of snow catches the lights of Oxford and
+casts upon the February garden a pallid glow that might be mistaken for
+twilight except for the late hour.
+57512: Nothing more than shadows -- always an excellent canvas for the
+imagination.
+57568: Both the chairs in the small study are covered in leather, which is
+about all you notice, not being especially keen on interior decoration.
+57664: An old fashioned roll top desk of polished oak.
+57700: Wilkens frowns. "Really, Lawrence. I know you Fleet Street fellows have
+a reputation for snooping but you can stay out of my desk. Nothing in there to
+interest The Sun anyway."
+57828: Feeling like a schoolboy risking a caning you place a hand on Professor
+Wilkens' desk.
+57892: You don't have time to play with Wilkens' desk.
+57928: An ordnance survey map. Apparently an area of the fens. Someone has
+marked a cross near a minor road far from any villages. Does it perhaps tell
+you how to find the abbey Wilkens warned you about?
+
+Of course, the initial
+step on that journey is to go through the door to the east before Wilkens
+returns.
+58140: You feel, suddenly, that you shouldn't put anything but wood into the
+fireplace.
+58200: If you stare into the flames long enough you discern dark patches which
+will not quite form coherent shapes.
+58276: The scotch in the tumbler is the gold of distilled firelight.
+58320: As you take a sip from the tumbler you feel a warmth in the back of your
+throat matching the warmth radiated by the fire.
+58404: A faint smokey odor. You might almost say the smell of burnt peat,
+although that is probaly just your imagination.
+58512: Better yet, drink it.
+58602: Snow covers the ground but mists still hang above the ditches which take
+the place of hedgerows in the area. To the east, a stone vicarage and church
+are outlined against the sky.
+58726: You have the feeling you're being watched.
+58760: You seem to hear a footstep. Turning, you see nothing.
+58802: You catch a movement from the corner of your eye. Or was it just your
+imagination?
+58864: The fens do not appear inviting, frigid and wrapped in mist.
+58908: A no-nonsense vehicle. The van suits you. But it has seen better days.
+Even the Grateful Dead decals in the back window are peeling. No use worrying
+about your transportation. You're not leaving yet.
+59052: A light coating of snow, almost as if the mist shrouding the fens had
+crystallized and settled out of the air.
+59128: Like icy dust, it melts away at your touch.
+59160: Mists lie across the flat landscape like fallen clouds.
+59316: But you are not going back there yet.
+59448: rock pile. No light shows through the one window that is unshuttered.
+Despite the cold, not a breath of smoke rises from the chimney.
+59544: A plain rectangular Saxon structure, with a squat tower. It displays no
+lights or other signs of life.
+59814: rectangular mass from here. A churchyard lies to the north.
+59890: There is no answer.
+59940: The fens do not appear inviting, frigid and wrapped in mist.
+59984: No one has bothered to sweep the snow from the stones, some of which
+have been revealed by the wind.
+60056: The vicarage, even up close, resembles little more than a dark ruin,
+albeit a ruin which is still standing, shutters secured, door shut.
+60152: From here you can make out only a few shadowy gravestones.
+60214: he fading twilight turns the single unshuttered window into a gray
+rectangle, but seems hardly strong enough to penetrate the glass. Where the
+south wall must be there is a black gap you guess is a fireplace.
+60356: The flames in the fireplace send shadows slithering along the walls. You
+see now that the room is utterly bare, devoid of a single stick of furniture.
+60540: In moments firelight has pushed the night into the corners of the room.
+60592: You can't face the cold again now the fire is lit.
+60628: There seems to be no way out of this room except for the door leading
+outside.
+60684: Dry sticks. Little more than kindling wood.
+60716: On the ground beneath the brush lie some dry sticks.
+60836: In moments firelight has pushed the night into the corners of the room.
+60888: Just a gray oblong, like a patch of glowing mist.
+60924: Orange firelight wavers on the old bubbled glass. Nothing outside is
+visible.
+60980: There is no fire. The fireplace is little more than a dark cavity in the
+wall. It contains not a single stick of wood.
+61064: The flames leap and dissipate. It is hard to discern their boundary.
+61112: Little more than a dark cavity in the wall. It contains not a single
+stick of wood.
+61172: Flames leap and dissipate. It is hard to discern their boundary.
+61220: Weak light from the gray rectangle of the door to the west and from the
+tall, pointed windows along the walls, reveal a gutted interior. A stone
+staircase leads up into the tower.
+61344: If there is another door, you don't care to search for it in the
+darkness.
+61396: Veiled with dust they reveal nothing of the world beyond.
+61436: The tower is an empty shell, like the rest of the church, dimly
+illuminated by the twilight beyond the single window.
+61520: The stairway down is the only way out of this dusty freezing box.
+61568: Through the window you can see the unworldly mist wreathed fens. Your
+van, beside the road, reminds you of a spacecraft arrived at some alien planet.
+62038: one night a monk whose name has been lost, or purposefully obliterated, 
+slashed a cutting from the thorn and he and a few disciples fled to the Fens.
+Like the Cistercians, they preferred  a wild country where they would be
+allowed to worship in their chosen manner. The cutting grew where it was
+planted, and where it was planted the monks built an abbey. But the
+supernatural properties of this thorn were different from those of the
+Glastonbury Thorn."
+
+There is nothing more. Either the story was never
+continued or was discarded.
+62412: In one dusty corner lies a book. It leans half open against the wall,
+almost as if it had been thrown there.
+62488: A pale wisp of motion catches your attention. A figure appears, seeming
+almost to coalesce from the shadows as it approaches.
+
+"I am the Reverend
+Owen," comes the soft voice, sounding distant even though the speaker is right
+beside you. "You must come into the vicarage. It is too cold to talk here. You
+will want to ask me about the thorn."
+
+[Press any key to follow vicar]
+62762: Inside seems colder than outside.
+
+"Why don't you make a fire." The
+Vicar nods toward the fireplace. "I believe there are still a few warm embers
+lurking under the ashes.  Some wood is all that's needed. Then you can ask what
+you want to know.
+62944: You feel, suddenly, that you shouldn't put the book into the fireplace.
+62996: The dark, worn stones lead steeply upwards into the church tower.
+63042: As you enter the churchyard, you are uncomfortably aware of the failing
+light. Across the road, the snow covered Fens retain a dull, metallic sheen,
+but objects nearer - the vicarage, the gravestones  in the churchyard - are
+already growing indistinct.
+63356: extends to the north. The church looms to the east.
+63392: You do not care to wander out into the chill and misty fens.
+63436: A wrought iron fence. The spiked ends of the pales are almost level with
+your eyes. There are gaps where the fence has fallen.
+63524: So cold the sensation is more like burning.
+63556: Their markings are eroded and unreadable. The carved names of the
+deceased survived their corporeal existence, but are vanished now as well.
+63656: Cold. You can barely feel slight indentations that must once have been
+names and dates.
+63720: A plain wooden door.
+63736: You hear the snow crunch underfoot as you walk further into the
+churchyard. Suddenly a figure appears from the darkness. Then, from the corner
+of your eye, you see another...and another. In an instant you realize you are
+surrounded, not by phantoms, but cross-shaped monuments.
+63958: you are surrounded, not by phantoms, but cross-shaped monuments. To the
+west, in the growing shadows, you can make out what might be a ruin. The
+churchyard extends to the south.
+64084: You'd soon find yourself lost in the fens.
+64116: You can make out only a shadowy mass from here.
+64152: Eroded cross-shaped monuments, arms outflung, like stolid scarecrows or
+the grotesquely frozen ghosts of the departed.
+64236: You feel rough stone, rough lichen.
+64264: The remains of an ancient abbey. Is this in fact the abbey Wilkens
+warned you about?
+64534: The churchyard lies to the east.
+64560: You do not care to wander out into the chill and misty fens.
+64668: to build the later church and vicarage, as usual. The remaining wall
+might have been part of the frater.
+64744: Some half dead brush.
+64760: On the ground beneath you see some dry sticks.
+64792: The ruined wall crumbles toward the end into broken rock and masonry. It
+must have been lying here for centuries. All that remains are those pieces, too
+damaged or irregular to have been of any use to anyone.
+64936: So brown and dessicated it is hard to belief they were ever alive.
+65082: trash is piled along the wall. Just beyond, growing from weeds and
+rubble at the wall's end is a deformed and stunted looking thorn bush. The ruin
+extends back to the east.
+65204: The fens do not appear inviting, frigid and wrapped in mist.
+65424: Sharp crystals of snow blow against your face. Then something touches
+your leg. A barely perceptible touch -  like stiff fingers - or a frozen
+branch.
+
+You look at the bush again. It is motionless, unaffected by the
+movement of the air around it. You are at least half a meter from any of the
+branches.
+65640: You begin to reach out but something stops you. A sudden revulsion. The
+thought of touching the grotesque black bush makes you shudder.
+65822: plaster wall a ghostly cross shape shows where a crucifix had protected
+the plaster beneath from smoke. The only way out is the door to the west.
+66048: The ashes in the fireplace are cold.
+66076: A slightly stooped man of average height. His plain black suit fades
+into the dark and his features are lost in shadow. You can make out his
+clerical collar, however, glowing palely.
+66204: The vicar's face is gaunt, his skin pale as the marble of a tomb. His
+eyes reflect the blaze in the fireplace.
+66282: You mutter something about the cold weather.
+
+The vicar merely shakes
+his head. "You haven't sought me out to talk about the weather. Surely there
+are things you want to ask me about. Things you have seen this evening."
+66566: You only need some wood."
+66586: "The bush you were looking at just now really did grow from a cutting
+from the sacred thorn at Glastonbury. But it did not have the
+same...properties. It was cursed.
+
+Maybe it was because the monks who brought
+it here held different beliefs, or God had just changed his mind. The bush
+budded, but the buds, few in number, never opened - - until one of the monks
+died."
+
+There was no predicting when those buds would open, not the season or
+the year. Why should their presence have been so profoundly disturbing when we
+are all waiting to die?
+66974: "The ruined abbey dates to an ancient time, before even King Lucius, who
+was our first Christian King.. The church and vicarage were built after the
+abbey had fallen into ruin or been demolished. The villagers used stones
+scavenged from the ruins. A common practice. At any rate, I believe those
+stones were imbued with a curse --  by the supernatural thorn whose roots
+spread beneath them -- and they carry that curse even today." 
+
+The vicar
+sighs. Very faintly. You cannot even see the misty exhalation of his breath
+although your own breath forms clouds in the still frosty air inside the
+vicarage. "When you step into the church or the vicarage you might as well be
+stepping into that accursed abbey."
+67472: "I thought I had destroyed those notes. They were written when I was
+ill. There are things that should not be set down for posterity. Or so I have
+come to believe."
+67690: without power. There are things as ancient which still live."
+67736: The vicar pauses for a long time before answering. When he speaks his
+voice sounds strained. "Ah...our saviour. Now there is one, at least, who
+should be certain in his beliefs. And not only certain but correct. Yet, on the
+cross, did he not cry out asking why God had forsaken him?"
+67940: "Once I thought myself on speaking terms with God. I was a foolish young
+man."
+68000: "People speak so easily of beliefs But how well do any of us know even
+our own beliefs? What choices we will actually make, when the time comes?"
+68104: Joseph of Arimathea was a good Christian, by all accounts. The thorn
+that grew from his staff was a miracle. It was this other thorn, the thorn of
+the heretics, that was something less than miraculous.
+68248: "Isn't it obvious what I am? A poor vicar. I do not like to talk about
+myself."
+68308: The vicar shrugs."Fire or ice. It is all the same to me, now."
+68376: he looks as if his thoughts are far away. Clearly the subject does not
+interest him.
+68434: When Vicar Owen has finished speaking you feel a sudden overpowering
+lethargy. He bids you to rest, so you lie down before the fire, not feeling it
+strange to do so.
+
+[Press Any Key to Dream]
+68580: You sleep. In your nightmares you are drawn into a terrible geometry
+outlined by the twisted black branches of the thorn. 
+
+You seem to hear
+Professor Wilkens speaking, can almost see him, sitting in his study, sipping
+scotch. "You should never have taken that map, Lawrence. Since you have, you
+may as well know the story. There was an Abbot Worgren, they say, who began a
+painstaking study of the thorn. He recorded the appearance of each bud, when a
+newcomer arrived at the abbey, and each bloom, when a soul departed.
+
+ For
+every soul who stayed in the abbey, there appeared a bud. It blossomed at his
+death.
+
+One summer, though he was still a young man, Worgren fell victim to one
+of those fevers that haunted the marshes. Sick as he was, he made his daily
+visit to the thorn. Then, on St. Luke's Day - ironic, since he is the patron
+saint of physicians - it was reported to Worgren that the thorn bore a new bud
+which was swelling.
+
+The fever intensified, as if the fires of Hell burned
+inside his skull.  By the next morning Worgren began to slip in and out of
+delirium.  In a rational moment he ordered two monks to carry him to the thorn.
+He feared the new, swelling bud marked his own his own life, and that, come
+morning, it would burst into bloom at the first touch of the rising sun. Would
+blossom into his own death.
+
+Worgren had come prepared. He pulled from his
+robes a knife from the refrectory. He slashed blindly at the limb his monks had
+indicated. He did not look directly at the bud, because it is said that one who
+looks too closely at his own mortality is thenceforth held in thrall.
+Nevertheless, he loped the bud off, or so he believed.
+
+[Press Any Key to
+Dream]
+70270: You wake. Chilled to the bone. Not sure whether you have had a dream or
+a vision."
+70334: The vicar glances around nervously.
+70362: The vicar shudders, as if from the cold.
+70394: The vicar rubs his hands together..
+70424: The vicar lets out a soft sigh..
+70450: The vicar looks at you expectantly.
+70478: The vicar frowns as if in thought.
+70506: The vicar glances toward the fireplace.
+70538: You are drawn irresistibly back to the ruined wall, the incongruous
+trash heap, the weeds and rubble and the monstrously twisted thorn. The harsh
+morning light reveals what gentle dusk did not. A white scar on one of the
+twisted black branches, still covered in frozen sap. A cut was made, only
+recently.
+
+You would have thought a Vicar, a man who believes in God, would
+trust in the promise of an afterlife.  Yet Owen had followed Worgren's lead and
+cut the bud off to prevent his own death.
+
+You were talking to a ghost. How
+many ghosts wander the ruins. Monks who took the same course - who preferred
+even a cold, phantom existence in a world they knew to a promised Kingdom of
+God they weren't sure of.
+
+The vicarage in which you spent the night was built
+with stones from the accursed abbey. Have you, then, come under the sway of the
+ancient curse?
+
+One particular black, gnarled branch, seems almost to beckon
+you, asking you to examine it. You know, somehow, that if you pause, if you
+truly look upon what you fear is there, it will have you in its thrall. Yet,
+you need to know.  Don't you? The way home is to the south.
+71422: The way home is to the south.
+71526: The way home is to the south.
+71548: Just miscellaneous refuse. Probably the rubbish heap for the vicarage.
+71600: A broken bottle thrusts its sharp, jaggedly broken neck up out of the
+garbage.
+71656: A broken scotch bottle. Laphroaig. What's left of the neck is like a
+razor.
+71712: A broken bottle thrusts its sharp, jaggedly broken neck up out of the
+rubbish beside the wall.
+71780: You see something you didn't notice before. A broken bottle thrusts its
+sharp, jaggedly broken neck up out of the rubbish beside the wall.
+71876: A broken bottle thrusts its sharp, jaggedly broken neck up out of the
+rubbish beside the wall.
+71944: What possible use could you have for a broken scotch bottle? What you
+need is one that's full.
+72012: Just miscellaneous refuse. Probably the rubbish heap for the vicarage.
+72062: You see what you feared, on what had been the  bare branches of the
+thorn, just below the cut made by the vicar, a thing you will never dare to
+look at again, nor raise your hand against - a single bright green bud.
+
+You
+have chosen to look upon your own mortality.
+72248: You slash at the swelling bud with the broken bottle. In your panic, you
+misjudge, miss. You raise the bottle, gouge again, until there remains on the
+branch only a bleeding white wound.
+
+It seems you feel the cut yourself.  Not
+pain, exactly. More a sense of separation. Something being severed.  A long way
+off. Between you and heaven.
+
+You have refused to accept your own mortality.
+72528: What do you intend to cut the thorn with?
+72558: Now you sit again in Wilkens' study.  Neither of you mention the thorn.
+You will never return to that ruined abbey.
+
+The fire in the hearth is ebbing.
+The bottle of scotch is nearly empty. From outside comes the snow muffled sound
+of the ringing of Christ Church bell.
+
+You have chosen not to look upon your
+own mortality.
+72790: You cannot bring yourself to examine the accursed thorn. You return to
+the van, drive back to Oxford. At some point, you crumple the map and throw it
+into the fens.
+72912: The scotch, the flickering dimness, the snow outside the window, combine
+to put you in a reflective mood. You and Wilkens went to school together.
+Perhaps you should have followed his course, moved into the cloistered halls
+rather than Fleet Street. Would you be more suited to a reflective life, rather
+than rushing about on story assignments, deadlines forever looming?
+73172: "You've heard of the Holy Thorn of  Glastonbury?" Professor Wilkens
+takes another sip of scotch and leans forward in his wing chair. He looks at
+you expectantly, as if waiting for a show of hands. You know from experience he
+will expect you to ask him about this proposed topic, this strange thorn.
+73632: , I tried, so far as possible, to avoid Adrift's more advanced features
+and so there is a minmal ALR file and a few elementary variables and
+events.
+
+The game was ported to Inform as a learning exercise. Be forewarned.
+
+
+This game was inspired and entered in davidw's 2003 summer Adrift minicomp.
+74056: That's not something you want to do.
+74084: "Looking for a grade then Lawrence?" You can almost hear Wilkens' voice.
+"How much is a soul worth?"
+74236: What if that's all anything is?
+74260: To talk ASK character ABOUT something.
+

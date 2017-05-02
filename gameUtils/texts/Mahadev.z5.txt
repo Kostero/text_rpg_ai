@@ -1,0 +1,400 @@
+28013: Identification number:
+29455: There is no reply.
+29492: Nothing is on sale.
+29945: Dropped.
+30093: . Not bad.
+30995: Wrahn seem interested.
+32091: Done.
+32174: You are carrying nothing.
+32289: Keep your mind on the game.
+32314: You hear nothing unexpected.
+33228: But it's dark.
+33245: You find nothing of interest.
+33303: Quite.
+33333: Nothing to do!
+33368: o. You have won
+33433: It is now pitch dark in here!
+33460: I beg your pardon?
+33524: Sorry, that can't be corrected.
+33553: Think nothing of it.
+33606: As good-looking as ever.
+33638: You can hardly repeat that.
+33663: You can't begin with a comma.
+33777: I didn't understand that number.
+33806: You can't see any such thing.
+33842: You aren't holding that!
+33883: I'm not sure what "
+33935: That's not a verb I recognise.
+33973: You can't see "
+34080: Nothing to do!
+34097: There are none at all available!
+34545: You must supply a noun.
+34568: You may not supply a noun.
+34593: You must name an object.
+34616: You may not name an object.
+34641: You must name a second object.
+34677: You must supply a second noun.
+34908: That was a rhetorical question.
+34935: Score notification off.
+34958: Score notification on.
+35330: You are unable to.
+35349: Nothing obvious happens.
+35489: That's not a direction.
+35512: Not that way you can't.
+35659: You lack the dexterity.
+35744: Done.
+35826: Please answer yes or no.
+35852: Are you sure you want to quit?
+35972: Removed.
+36003: Failed.
+36022: Restore failed.
+36039: Ok.
+36049: You achieve nothing by this.
+36081: Save failed.
+36096: Ok.
+36203: There is no score in this story.
+36264: Transcripting is already off.
+36330: Transcripting is already on.
+36396: But it's dark.
+36471: You find nothing of interest.
+36727: Your singing is abominable.
+36761: You smell nothing unexpected.
+36788: Oh, don't apologise.
+36817: Keep your hands to yourself.
+36842: You achieve nothing by this.
+37150: Taken.
+37161: You are always self-possessed.
+37673: You taste nothing unexpected.
+37707: You talk to yourself a while.
+37734: This provokes no reaction.
+37760: What a good idea.
+37786: Futile.
+37824: Keep your hands to yourself!
+37849: You feel nothing unexpected.
+37874: If you think that'll help.
+38185: Time passes.
+38228: That seems unnecessary.
+38350: You wave, feeling foolish.
+96278: Variable stack offset wrong:
+96348: Variable stack offset wrong:
+105700: You can't move nothing.
+105738: You can't divide by zero.
+106179: Attempt to 'decide on nothing'.
+106213: Low level error.
+106363: The memory stack is exhausted.
+106405: Error handling external file.
+121652: After moving blanks to back:
+121703: Final state:
+130197: Pass 1:
+130209: Pass 2:
+130221: Pass 3:
+130465: Pass 1:
+130477: Pass 2:
+130489: Pass 3:
+130733: Pass 1:
+130745: Pass 2:
+130757: Pass 3:
+131001: Pass 1:
+131013: Pass 2:
+131025: Pass 3:
+131269: Pass 1:
+131281: Pass 2:
+131293: Pass 3:
+131537: Pass 1:
+131549: Pass 2:
+131561: Pass 3:
+131805: Pass 1:
+131817: Pass 2:
+131829: Pass 3:
+132073: Pass 1:
+132085: Pass 2:
+132097: Pass 3:
+132341: Pass 1:
+132353: Pass 2:
+132365: Pass 3:
+132609: Pass 1:
+132621: Pass 2:
+132633: Pass 3:
+132877: Pass 1:
+132889: Pass 2:
+132901: Pass 3:
+133145: Pass 1:
+133157: Pass 2:
+133169: Pass 3:
+133413: Pass 1:
+133425: Pass 2:
+133437: Pass 3:
+134061: Pass 1:
+134073: Pass 2:
+134085: Pass 3:
+134329: Pass 1:
+134341: Pass 2:
+134353: Pass 3:
+134597: Pass 1:
+134609: Pass 2:
+134621: Pass 3:
+134865: Pass 1:
+134877: Pass 2:
+134889: Pass 3:
+135589: Pass 1:
+135601: Pass 2:
+135613: Pass 3:
+136123: Pass 1:
+136135: Pass 2:
+136147: Pass 3:
+136545: Pass 1:
+136557: Pass 2:
+136569: Pass 3:
+137041: Pass 1:
+137053: Pass 2:
+137065: Pass 3:
+137385: Pass 1:
+137397: Pass 2:
+137409: Pass 3:
+137805: Pass 1:
+137817: Pass 2:
+137829: Pass 3:
+138162: Pass 1:
+138174: Pass 2:
+138186: Pass 3:
+138619: Pass 1:
+138631: Pass 2:
+138643: Pass 3:
+138927: Pass 1:
+138939: Pass 2:
+138951: Pass 3:
+139197: Pass 1:
+139209: Pass 2:
+139221: Pass 3:
+139465: Pass 1:
+139477: Pass 2:
+139489: Pass 3:
+145046: in" or "notin
+145062: opmhas" or "hasnt
+145204: }" at end of "objectloop
+146848: Score:
+146856: Moves:
+146864: Time:
+146872: You can't go that way.
+147004: Violence isn't the answer to this one.
+147032: This dangerous act would achieve little.
+147060: I don't think much is to be achieved by that.
+147120: There's nothing suitable to drink here.
+147148: You can only get into something free-standing.
+147220: You see nothing unexpected in that direction.
+147252: But you aren't in anything at the moment.
+147312: You'll have to say which compass direction to go in.
+147352: You can't put something inside itself.
+147380: You jump on the spot, fruitlessly.
+147436: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+147532: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+147616: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+147728: You see nothing unexpected in that direction.
+147924: Please give one of the answers above.
+147952: [You can't "undo" what hasn't been done!]
+147988: [Can't "undo" twice in succession. Sorry!]
+148028: "Oops" can only correct a single word.
+148056: It is pitch dark, and you can't see a thing.
+148088: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+148148: You seem to want to talk to someone, but I can't see whom.
+148192: To talk to someone, try "someone, hello" or some such.
+148232: I didn't understand that sentence.
+148292: You seem to have said too little!
+148316: You can't use multiple objects with that verb.
+148352: You can only use multiple objects once on a line.
+148388: You excepted something not included anyway!
+148420: You can only do that to something animate.
+148452: That's not something you need to refer to in the course of this game.
+148500: I didn't understand the way that finished.
+148532: Sorry, you can only have one item here. Which exactly?
+148632: You may not name a second object.
+148656: You may not supply a second noun.
+148680: You must name something more substantial.
+148712: The use of UNDO is forbidden in this game.
+148744: That noun did not make sense in this context.
+148868: That would be less than courteous.
+148920: You can't put something on top of itself.
+148952: Are you sure you want to restart?
+148976: Attempt to end transcript failed.
+149000: Attempt to begin transcript failed.
+149028: You aren't feeling especially drowsy.
+149056: Real adventurers do not use such language.
+149088: There's nothing sensible to swing here.
+149116: You're carrying too many things already.
+149148: You lack the nerve when it comes to the crucial moment.
+149188: You would achieve nothing by this.
+149240: The game file has verified as intact.
+149268: The game file did not verify as intact, and may be corrupt.
+149312: The dreadful truth is, this is not a dream.
+151680: I didn't understand that sentence.
+151804: Variable unavailable for this action, activity or rulebook:
+152280: Too many procedural rules acting all at once.
+152314: Too many rulebooks in simultaneous use.
+152346: Too many timed events are going on at once.
+152512: Too many activities are going on at once.
+152542: Tried to abandon an activity which wasn't going on.
+152582: Tried to end an activity which wasn't going on.
+152620: You can't remove nothing from play.
+152648: Tried to access property for a value which didn't fit:
+153306: Attempt to see if a snippet of text matches something which is not a
+topic.
+153362: Attempt to find route or count steps through an implicit relation.
+153506: Attempt to ignore the turn sequence rules.
+153682: The list-writer has run out of memory.
+153714: Attempt to remove the player from play.
+153746: Attempt to remove a door from play.
+153774: Attempt to change the player to a person off-stage.
+153814: Phrase applied to an incompatible kind of value.
+153852: Memory allocation proved impossible.
+153880: Attempt to use list item which does not exist.
+153914: Syntax error in regular expression.
+153942: This interpreter does not support Unicode.
+153976: Only backdrops can be moved to multiple places.
+154110: You can't take the square root of a negative number.
+154152: You can't implicitly repeat through the values of this kind:
+154240: Attempt to set a variable to the wrong kind of object:
+170690: Did you have any interesting dreams?"
+170756: All this is indeed your thought bodied forth.
+170788: All this is that.
+170812: Arrayed in their ranks for your pleasure, Lord.
+170848: As good-looking as ever.
+170868: As if the ground itself were blinding sky.
+171068: Enter, and become the thing you're here to be.
+171108: Eternity never passes ...
+171128: F.Y.I.
+171194: Two doorways to the northwest and northeast lead to the first inner
+sancta of your temple.
+171298: Most of them can't detect you anyway.
+171328: Futile to busy yourself with these pathetic insects, Lord.
+171384: Have I angered my Lord?
+171404: Here is neither the place nor time for knowing.
+171440: Here is only the place and time for knowing.
+171472: Here is the place and time for knowing.
+171500: Here the ground is littered thickly in all directions with precious
+stones, which catch the light beautifully and cast it back, yet seem jagged to
+the point of madness.
+171616: How could you need anything you don't possess?
+171652: I fail to satisfy your wish, my Lord.
+171680: I fail to see what you mention, Lord.
+171708: If only you could soar above the jewels!
+171736: If you could only pierce through the trees!
+171768: If you could only reach the top!
+171808: It doesn't diminish, but it sorts itself into regions, golden
+geographies, radiant solids.
+171872: It doesn't diminish, but it sorts itself into the comfortably-lit
+ceiling of the recovery room, and Dr. Warren's tired but grinning face.
+171972: It makes gods out of your breath.
+171996: It only makes sense to go up or down, my Lord.
+172032: It seems to be the fabric, force and measure of the world.
+172076: It's impossible to help one who has all power within himself.
+172120: Knowledge of the text must come before that, Lord.
+172184: Let us not speak of such things now.
+172212: Let your yes be yes and your no be no.
+172240: Light.
+172288: They make a music of long stringed instruments in the air whirling with
+their breathing wings.
+172356: Many gandharvas hover here, their bent faces and downcast eyes
+acknowledging your presence, their reflective wings beckoning you to their
+station.
+172456: Mortal honors mean nothing to such a one as you.
+172508: I abase myself.
+172520: Night.
+172528: Om.
+172536: One may not see your face and live.
+172564: One such as you must never beg forgiveness of such as me.
+172616: Please press SPACE to continue.
+172864: Since you're facing north, try that way, Lord.
+172900: Solid light stacked for your pleasure, my Lord.
+172936: Spurning the earth, your will moves you there like a wind.
+172980: Steps are to climb, my Lord.
+173004: Streaming out of you as much as into you.
+173036: Strewn in their myriads for your pleasure, Lord.
+173072: Thanks go to Sean M. Shore for a few nifty beta-suggestions.
+173168: He pervaded the universe in all directions.
+173544: His arms became the fighting caste.
+173572: His thighs became the producers.
+173596: His feet became the menials.
+173616: From his thought the moon.
+173636: From his eye the sun.
+173652: The elements from his voice and breath.
+173680: From his belly the hub of space.
+173704: From his skull the sky.
+173724: From his feet the ground.
+173744: From his ear the directions.
+173764: They arranged the universe of his pieces.
+173796: The Text is of course a truncated rendition of mantra 10.90 of the Rig
+Veda.
+173924: Nothing looks different after the spell of effort.
+173960: The cold is intense.
+174128: Gaps in the massive walls go west, north and southwest.
+174236: instead, the fire swells you with power and joy. Through the gathering
+and removing tongues of flame, you can make out openings to the east, north and
+southeast.
+174384: The walls flash and undulate in waves, and fish swim among them, except
+to the south, west and northwest where dark arches interrupt the surge.
+174626: Somehow the air's activity seems absent to the northeast, east and
+south.
+174680: The element you live in, moving or no.
+174708: The fountains instruct you that this very moment is the whole of time -
+and can be breathed.
+174988: The only way to go from here is into the pitch black cave to the north,
+where the light you move in seems to end in a strangling darkness.
+175308: The air is sumptuously cool, sweet.
+175336: The music invades your life and lifts you.
+175368: The rooms beg your pardon for not opening that way, Lord.
+175412: The top of what, my Lord?
+175432: The waters linger in place and flow onward, and these are the same, and
+they are the same waters.
+175500: The waters seem to pause, caressing you.
+175532: There is no way to affect or alter it, since it contains everything,
+Lord.
+175588: There is no way you can become higher, Lord.
+175672: They bow to your attention.
+175692: They fade into the intense glow above.
+175720: They resound in their millions for your pleasure, my Lord.
+175810: It bows to your attention.
+175968: Touching these threads would show their nature more sharply to your
+vision, Lord.
+176048: What is your will, Lord?
+176172: Somehow the bands of glow move apart in three areas, forming egress to
+the north, east and south.
+176448: Strangely, past this infinite spindle where all physical reality is
+laid out before you, you also see modest doors leading west, north and south.
+176628: You barely hold your nose above this offending odor.
+176664: You breathe in and breathe out the world.
+176708: Night reigns over the affairs of mortals.
+176772: You fall back to sleep.
+176792: You must do what you're here to do.
+176862: You know where you have to go.
+176884: You see a humped slavering creature, hairy and fearful-eyed, twirling a
+stick between two stones to breed fire.
+177010: The strewn pages tell of the rise and fall of warring gods.
+177052: You see a merry crowd of onlookers crammed together in their tens of
+thousands to watch the wedding of two unassuming people on high flat
+rectangles.
+177156: You see a terrible war elephant lurching with a spear in its heart,
+bellowing, the guide on its back forgotten in his flailing tower, smashing the
+infantry under its feet to screeching slime.
+177288: You see glints of imagery too fleeting to make sense of.
+177508: You smell the smell of light.
+177636: You wander a time among identical ringing trees, but there seems no
+limit to them.
+177696: You weary of these mortals and their abominable pursuits.
+177736: You would deign to do such a thing?
+177826: Breezes of fleet light play among them and touch them into rich,
+melting voice.
+177930: You hesitate to wound them.
+177952: Your feet complete the descent reluctantly.
+177984: Your feet reverse their path reluctantly.
+178016: Your gesture might break the universe, Lord.
+178048: Your voice might break the universe, Lord.
+178080: Your will be done ... but why?
+178104: Your will be done.
+178296: This story file does not use a heap of managed memory.
+178616: give" or test "has" or "hasnt" with a non-attribute on the object
+178664: , but it is longer than 2 bytes so you cannot use "."
+

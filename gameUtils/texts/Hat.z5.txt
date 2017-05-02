@@ -1,0 +1,241 @@
+22221: Identification number:
+23663: There is no reply.
+23700: Nothing is on sale.
+24153: Dropped.
+24301: . Not bad.
+25203: Wrahn seem interested.
+26299: Done.
+26382: You are carrying nothing.
+26497: Keep your mind on the game.
+26522: You hear nothing unexpected.
+27436: But it's dark.
+27453: You find nothing of interest.
+27511: Quite.
+27541: Nothing to do!
+27576: o. You have won
+27641: It is now pitch dark in here!
+27668: I beg your pardon?
+27732: Sorry, that can't be corrected.
+27761: Think nothing of it.
+27814: As good-looking as ever.
+27846: You can hardly repeat that.
+27871: You can't begin with a comma.
+27985: I didn't understand that number.
+28014: You can't see any such thing.
+28050: You aren't holding that!
+28091: I'm not sure what "
+28143: That's not a verb I recognise.
+28181: You can't see "
+28288: Nothing to do!
+28305: There are none at all available!
+28753: You must supply a noun.
+28776: You may not supply a noun.
+28801: You must name an object.
+28824: You may not name an object.
+28849: You must name a second object.
+28885: You must supply a second noun.
+29116: That was a rhetorical question.
+29143: Score notification off.
+29166: Score notification on.
+29538: You are unable to.
+29557: Nothing obvious happens.
+29697: That's not a direction.
+29720: Not that way you can't.
+29867: You lack the dexterity.
+29952: Done.
+30034: Please answer yes or no.
+30060: Are you sure you want to quit?
+30180: Removed.
+30211: Failed.
+30230: Restore failed.
+30247: Ok.
+30257: You achieve nothing by this.
+30289: Save failed.
+30304: Ok.
+30411: There is no score in this story.
+30472: Transcripting is already off.
+30538: Transcripting is already on.
+30604: But it's dark.
+30679: You find nothing of interest.
+30935: Your singing is abominable.
+30969: You smell nothing unexpected.
+30996: Oh, don't apologise.
+31025: Keep your hands to yourself.
+31050: You achieve nothing by this.
+31358: Taken.
+31369: You are always self-possessed.
+31881: You taste nothing unexpected.
+31915: You talk to yourself a while.
+31942: This provokes no reaction.
+31968: What a good idea.
+31994: Futile.
+32032: Keep your hands to yourself!
+32057: You feel nothing unexpected.
+32082: If you think that'll help.
+32393: Time passes.
+32436: That seems unnecessary.
+32558: You wave, feeling foolish.
+83906: Variable stack offset wrong:
+83976: Variable stack offset wrong:
+93402: You can't move nothing.
+93440: You can't divide by zero.
+93881: Attempt to 'decide on nothing'.
+93915: Low level error.
+94065: The memory stack is exhausted.
+94107: Error handling external file.
+108532: After moving blanks to back:
+108583: Final state:
+114629: Pass 1:
+114641: Pass 2:
+114653: Pass 3:
+114897: Pass 1:
+114909: Pass 2:
+114921: Pass 3:
+115165: Pass 1:
+115177: Pass 2:
+115189: Pass 3:
+115433: Pass 1:
+115445: Pass 2:
+115457: Pass 3:
+115701: Pass 1:
+115713: Pass 2:
+115725: Pass 3:
+115969: Pass 1:
+115981: Pass 2:
+115993: Pass 3:
+116237: Pass 1:
+116249: Pass 2:
+116261: Pass 3:
+116505: Pass 1:
+116517: Pass 2:
+116529: Pass 3:
+116773: Pass 1:
+116785: Pass 2:
+116797: Pass 3:
+117041: Pass 1:
+117053: Pass 2:
+117065: Pass 3:
+117309: Pass 1:
+117321: Pass 2:
+117333: Pass 3:
+117577: Pass 1:
+117589: Pass 2:
+117601: Pass 3:
+117845: Pass 1:
+117857: Pass 2:
+117869: Pass 3:
+123210: in" or "notin
+123226: opmhas" or "hasnt
+123368: }" at end of "objectloop
+124650: Your Hat!
+124968: Score:
+124976: Moves:
+124984: Time:
+124992: You can't go that way.
+125124: Violence isn't the answer to this one.
+125152: This dangerous act would achieve little.
+125180: I don't think much is to be achieved by that.
+125240: There's nothing suitable to drink here.
+125268: You can only get into something free-standing.
+125340: You see nothing unexpected in that direction.
+125372: But you aren't in anything at the moment.
+125432: You'll have to say which compass direction to go in.
+125472: You can't put something inside itself.
+125500: You jump on the spot, fruitlessly.
+125556: is now in its "brief" printing mode, which gives long descriptions of
+places never before visited and short descriptions otherwise.
+125648: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+125732: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+125844: You see nothing unexpected in that direction.
+126040: Please give one of the answers above.
+126068: [You can't "undo" what hasn't been done!]
+126104: [Can't "undo" twice in succession. Sorry!]
+126144: "Oops" can only correct a single word.
+126172: It is pitch dark, and you can't see a thing.
+126204: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+126264: You seem to want to talk to someone, but I can't see whom.
+126308: To talk to someone, try "someone, hello" or some such.
+126348: I didn't understand that sentence.
+126408: You seem to have said too little!
+126432: You can't use multiple objects with that verb.
+126468: You can only use multiple objects once on a line.
+126504: You excepted something not included anyway!
+126536: You can only do that to something animate.
+126568: That's not something you need to refer to in the course of this game.
+126616: I didn't understand the way that finished.
+126648: Sorry, you can only have one item here. Which exactly?
+126748: You may not name a second object.
+126772: You may not supply a second noun.
+126796: You must name something more substantial.
+126828: The use of UNDO is forbidden in this game.
+126860: That noun did not make sense in this context.
+126984: That would be less than courteous.
+127036: You can't put something on top of itself.
+127068: Are you sure you want to restart?
+127092: Attempt to end transcript failed.
+127116: Attempt to begin transcript failed.
+127144: You aren't feeling especially drowsy.
+127172: Real adventurers do not use such language.
+127204: There's nothing sensible to swing here.
+127232: You're carrying too many things already.
+127264: You lack the nerve when it comes to the crucial moment.
+127304: You would achieve nothing by this.
+127356: The game file has verified as intact.
+127384: The game file did not verify as intact, and may be corrupt.
+127428: The dreadful truth is, this is not a dream.
+129476: I didn't understand that sentence.
+129600: Variable unavailable for this action, activity or rulebook:
+130048: Too many procedural rules acting all at once.
+130082: Too many rulebooks in simultaneous use.
+130114: Too many timed events are going on at once.
+130280: Too many activities are going on at once.
+130310: Tried to abandon an activity which wasn't going on.
+130350: Tried to end an activity which wasn't going on.
+130388: You can't remove nothing from play.
+130416: Tried to access property for a value which didn't fit:
+131074: Attempt to see if a snippet of text matches something which is not a
+topic.
+131130: Attempt to find route or count steps through an implicit relation.
+131274: Attempt to ignore the turn sequence rules.
+131450: The list-writer has run out of memory.
+131482: Attempt to remove the player from play.
+131514: Attempt to remove a door from play.
+131542: Attempt to change the player to a person off-stage.
+131582: Phrase applied to an incompatible kind of value.
+131620: Memory allocation proved impossible.
+131648: Attempt to use list item which does not exist.
+131682: Syntax error in regular expression.
+131710: This interpreter does not support Unicode.
+131744: Only backdrops can be moved to multiple places.
+131878: You can't take the square root of a negative number.
+131920: You can't implicitly repeat through the values of this kind:
+132008: Attempt to set a variable to the wrong kind of object:
+146026: Crab stealing it.
+146060: As good-looking as ever.
+146112: Please press SPACE to continue.
+146192: Lord Sir Syd Crab has snatched your hat! Scince the map is small, and
+there are no puzzles, you may as well get it now.
+146280: The finely cobbled path streches on for a little longer, to the
+northeast, and ends up at the beach.
+146392: You can see a small rockpool here, with some rocks beside it. On one of
+the rocks is - wait for it - your hat!
+146470: You stand right next to your front door. It is blue.
+
+There is a short
+path to your northeast.
+146540: You triumphantly gallop home, perching your hat on your head as you go.
+You beat Crab Sir Syd Lord!
+
+Yay.
+
+Now it's the end of the game.
+146644: Your cosy living room is inhabited by a plump brown sofa and your desk
+in the corner. To the east is that crab. Or at least you hope so. He better not
+be scuttling around your house.
+146864: This story file does not use a heap of managed memory.
+147184: give" or test "has" or "hasnt" with a non-attribute on the object
+147232: , but it is longer than 2 bytes so you cannot use "."
+

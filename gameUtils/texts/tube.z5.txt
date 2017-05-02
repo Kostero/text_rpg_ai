@@ -1,0 +1,347 @@
+9053: Score:
+9067: Moves:
+9084: Time:
+9224: I beg your pardon?
+9272: [You can't "undo" what hasn't been done!]
+9313: ke     gpm[Your interpreter does not provide "undo". Sorry!]
+9380: [Can't "undo" twice in succession. Sorry!]
+9562: Sorry, that can't be corrected.
+9597: Think nothing of it.
+9620: d."Oops" can only correct a single word.
+9934: Dia KpmTo repeat a command like "frog, jump", just say "again", not
+"frog, again".
+10015: You can hardly repeat that.
+10245: You can't begin with a comma.
+10302: You seem to want to talk to someone, but I can't see whom.
+10393: To talk to someone, try "someone, hello" or some such.
+12034: I didn't understand that sentence.
+12141: I didn't understand that number.
+12173: You can't see any such thing.
+12206: You seem to have said too little!
+12238: You aren't holding that!
+12267: You can't use multiple objects with that verb.
+12307: You can only use multiple objects once on a line.
+12386: You excepted something not included anyway!
+12424: You can only do that to something animate.
+12462: That's not a verb I recognise.
+12492: That's not something you need to refer to in the course of this game.
+12548: You can't see "
+12593: I didn't understand the way that finished.
+12714: There are none at all available!
+15517: Sorry, you can only have one item here. Which one exactly?
+23806: At the moment, "it"
+23878: and "me" means
+23905: exn** Player objects must have "number" prop **
+24495: You twiddle your thumbs aimlessly for a couple of minutes.
+24541: You amuse yourself for a while by rubbing your tummy and patting your
+head simultaneously.
+24609: To pass the time, you play a quick game of mental chess.
+24655: You count slowly up to 150 and down again, in threes.
+24701: You try to recite the names of all the American Presidents, in order of
+increasing height.
+29321: M.
+34144: Nothing to do!
+34160: . You have died
+34340: fhn[Your interpreter does not provide "undo". Sorry!]
+34438: Please give one of the answers above.
+34535: Please answer yes or no.
+34555: Are you sure you want to quit?
+34589: Are you sure you want to restart?
+34615: Failed.
+34632: Restore failed.
+34645: Ok.
+34660: Save failed.
+34671: Ok.
+34686: The game file has verified as intact.
+34713: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+34888: Transcripting is already off.
+34911: End of transcript.
+34933: Score notification on.
+34955: Score notification off.
+34979: You have visited:
+35026: None.
+35251: You are carrying nothing.
+35294: Taken.
+35306: You are always self-possessed.
+35426: You already have that.
+35514: That isn't available.
+35557: That's hardly portable.
+35581: That's fixed in place.
+35605: You're carrying too many things already.
+35681: Already on the floor.
+35703: You haven't got that.
+35746: Dropped.
+35791: But it isn't there now.
+35815: You'll need to take it off first.
+35840: Removed.
+35921: You can't put something on top of itself.
+35999: You lack the dexterity.
+36079: Done.
+36121: You need to be holding it before you can put it into something else.
+36201: Alas, it is closed.
+36223: You'll need to take it off first.
+36253: You can't put something inside itself.
+36343: Done.
+36385: That isn't in your possession.
+36408: First pick that up.
+36702: That's not something you can enter.
+36770: You can only get into something on the floor.
+36887: But you aren't in anything at the moment.
+36956: You are on your own two feet again.
+36988: You'll have to say which compass direction to go in.
+37089: You can't go that way.
+37248: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+37350: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+37438: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+37731: Darkness, noun. An absence of light to see by.
+37853: But it's dark.
+37866: You find nothing of interest.
+37899: But it's dark.
+37989: You find nothing of interest.
+38017: You can't see inside, since it is closed.
+38116: That doesn't seem to be something you can unlock.
+38158: It's unlocked at the moment.
+38186: That doesn't seem to fit the lock.
+38240: That doesn't seem to be something you can lock.
+38306: First you'll have to close it.
+38334: That doesn't seem to fit the lock.
+38388: That's not something you can switch.
+38420: That's already on.
+38464: That's not something you can switch.
+38496: That's already off.
+38542: That's not something you can open.
+38574: It seems to be locked.
+38596: It's already open.
+38704: That's not something you can close.
+38736: It's already closed.
+38780: You're not wearing that.
+38828: You can't wear that!
+38850: You're not holding that!
+38874: You're already wearing that!
+38924: That's plainly inedible.
+38955: . Not bad.
+38973: That was a rhetorical question.
+39001: This dangerous act would achieve little.
+39035: Nothing practical results from your prayer.
+39071: The dreadful truth is, this is not a dream.
+39159: What a good idea.
+39179: You smell nothing unexpected.
+39233: You taste nothing unexpected.
+39313: You feel nothing unexpected.
+39339: Digging would achieve nothing here.
+39371: Cutting that up would achieve little.
+39403: You jump on the spot, fruitlessly.
+39437: You would achieve nothing by this.
+39467: There's nothing suitable to drink here.
+39501: But there's no water here to carry.
+39533: Oh, don't apologise.
+39555: Real adventurers do not use such language.
+39591: Quite.
+39603: Violence isn't the answer to this one.
+39637: There's not enough water to swim in.
+39669: There's nothing sensible to swing here.
+39703: You can't usefully blow that.
+39781: No, you can't set that to anything.
+39844: But you aren't holding that.
+39909: It is fixed in place.
+39931: You are unable to.
+39951: That would be less than courteous.
+39976: Nothing obvious happens.
+40005: Is that the best you can think of?
+40035: That's not a direction.
+40054: Not that way you can't.
+40104: You achieve nothing by this.
+40135: Futile.
+40142: You lack the nerve when it comes to the crucial moment.
+40191: You talk to yourself a while.
+40214: This provokes no reaction.
+40242: There is no reply.
+40262: Nothing is on sale.
+40308: I don't think much is to be achieved by that.
+40346: Time passes.
+40362: You aren't feeling especially drowsy.
+40439: You are standing on a fairly long, straight platform east of a train. A
+flight of stairs marked "Exit" leads up. The train doors are open.
+40540: You are standing on a fairly long, straight platform east of an empty
+track, and at the bottom of a flight of stairs marked "Exit". Hanging from the
+ceiling is a large electric sign.
+40678: Don't be silly -- you'd get electrocuted.
+40756: The tramp returns from his journey looking irritated. "Friggin'
+chocolate machine!" he mutters under his breath.
+40873: "For the next train, please go to platform two immediately."
+40929: "This train is now ready to depart."
+40958: "Next train: platform two."
+40988: The sign is too high up to reach.
+41025: No fear.
+41034: You daren't go near the pile of clothes for fear of catching lice from
+them.
+41095: It's an old and tattered trilby, with several holes in it.
+41141: It's an old and tattered trilby, with several coins in it.
+41206: As you approach the hat, a grimy hand emerges from the pile of clothes
+to stop you. You withdraw in disgust and realise that what you had taken for a
+heap of dirty laundry is in fact a tramp.
+41349: You have a sneaking suspicion that as soon as you drop the trilby, the
+tramp will claim it back, so you don't.
+41445: you can't just take that hat -- I couldn't make a living without it.
+Tell you what, though. It's yours for a pound."
+41552: "Sod off!" says the tramp rudely. "I don't want that."
+41612: A bad idea, considering that the hat has holes in it.
+41683: You can't afford it.
+41729: The tramp doesn't appreciate your interest in his money. He gives you a
+hard stare.
+41803: The tramp looks at you if he has just been insulted, opens his mouth to
+speak, but then thinks better of it. He's not the talkative type.
+41905: Really, how could you think of attacking a poor defenceless tramp?
+41957: You can't bring yourself to do it.
+41989: The tramp gives you a hard, threatening stare, and you think better of
+it.
+42056: "Get away! That's hardly worth anything."
+42096: "Not after you've 'ad your sticky fingers on it!"
+42152: "So you're after me hat are you? I've grown rather attached to it over
+the years. Let me 'ave a look."
+42243: The tramp pulls a large carpet bag out from the folds of his coat.
+42302: He forages in the bag, pulls out a battered cap, and hands if to you.
+"You can have this one though," he says, taking your pound.
+42405: The tramp fumbles with the zip on his bag. "Friggin' zip! You'd better
+have this trilby," he says sadly, snatching the pound. As he gives you the hat,
+the coins inside fall through a large hole in the bottom and into his hand.
+42620: He pretends not to be interested, but you can tell he wants your money.
+42747: The tramp reaches inside his coat, produces his mouth-organ and puts it
+to his lips. The fat woman with the shopping runs up to him, but is dismayed to
+see that his hat is gone. Although she pleads with him, the tramp starts to
+play, and the unbearable sound causes a riot on the platform, with the dual
+effect of delaying the next train to arrive for several minutes, and causing
+you to be knocked unconscious.
+43044: The tramp reaches inside his coat and produces a mouth-organ which he
+makes as if to play. Just as it reaches his lips, a fat woman carrying a
+Sainsbury's bag runs up to him with a look of extreme worry, saying "No, no!
+I'd give anything to stop you playing." She sees the hat, drops a coin into it
+and runs off. The tramp smiles, takes the hat and the money and goes off to buy
+a bar of chocolate.
+43346: Although it's open, you can't see into the dank interior.
+43392: The bag is zipped shut.
+43422: You can't -- you broke the zip.
+43450: But the carpet bag is already open.
+43488: But the bag is already closed!
+43519: "Take yer hands off my bag!"
+43545: You struggle with the rusty zip, and manage to close the bag, but the
+fastener breaks as you do so.
+43649: dhnI'm afraid I can't allow you to do that -- I'm sure the tramp
+wouldn't approve. You know he doesn't like people looking into his bag.
+43759: Part of the zip has snapped off, making the bag impossible to open.
+43811: The zip has almost had it -- one more use and it could easily break.
+43949: A thin, eccentric looking man approaches you furtively. "I'll give you a
+fiver for that hat. How about it?"
+44144: The man looks surprised and annoyed. He walks off in a huff.
+44219: The tramp pushes past you, grumbling to himself, and walks off towards
+platform one.
+44297: "For the next train, please go to platform one immediately."
+44353: "BUG! YOU SHOULDN'T EVER SEE THIS!"
+44398: "Next train: platform one."
+44428: The sign is too high up to reach.
+44462: It's too heavy to move, and it's bolted to the wall anyway.
+44739: Nothing happens.
+44762: You hear muffled clanking sounds coming from inside the machine, but
+there is no visible effect.
+45027: The machine grunts and groans, and you hear a dull thud.
+45074: The lever doesn't budge.
+45121: Tantalisingly, it's just the right size for a small bar of chocolate.
+45193: The tray doesn't seem to be of the movable kind. It looks more as if
+things are just meant to rest on it.
+45339: Ugh! It smells rotten and mouldy. Don't say I didn't warn you.
+45395: Ahh! The rich aroma makes you even hungrier.
+45440: As you open your mouth, an official approaches you and explains that
+eating is allowed on trains, but not it in the station. You put the chocolate
+away again.
+45557: You stuff the delicious chocolate into your mouth. At last your hunger
+has been satisfied.
+45650: Touching the electrified track would be very, very stupid.
+45806: You run down the stairs towards the train on platform two, but it begins
+to move once you're halfway there. By the time you arrive at the platform, it
+is empty.
+45947: You hurry down the stairs towards the train on platform one, but it
+begins to move once you're halfway there. By the time you arrive at the
+platform, it is empty.
+46109: The tramp shuffles in from the east, glares at you furiously as if you
+alone were responsible for the broken chocolate machine, and walks away towards
+platform one.
+46374: The notice is firmly attached to the wall, and there's nothing you can
+do about it.
+46494: The barrier reaches from floor to ceiling, and you couldn't possibly get
+past it.
+46560: The only thing that would fit into the barrier is a ticket.
+46726: The doors slide closed, and the train pulls out of the station.
+46796: Bang! The train collides with something on the track, causing it to
+derail. Many passengers, yourself included, are killed in the accident.
+46932: From the direction of platform one you hear first the sound of a very
+badly played mouth-organ, then the sound of a violent attack on a very bad
+mouth-organ player. A loudspeaker crackles into life:
+
+DUE TO THE DISTURBANCE
+CAUSED IN THIS STATION, THE TRAIN STANDING AT PLATFORM ONE WILL BE DELAYED FOR
+FIVE MINUTES. THANKYOU.
+47329: The man prods you with his index finger. "Come on. Yes or No?
+47384: c."Hurry up and make up your mind."
+47419: ."Oh, forget it".
+47510: To move about, use the compass directions.
+47873: a,
+
+
+
+
+
+
+Since losing your ticket you've been unable to get out of the
+underground system; heaven knows how long you've spent wandering around.
+Anyway, whether it's days or weeks, you're absolutely famished -- you simply
+must find something to eat.
+48240: by Richard Tucker, 1995.
+First-timers should type "info".
+48312: You can't go that way.
+48380: It is pitch dark, and you can't see a thing.
+48412: As good-looking as ever.
+48456: The clothes are heaped up into a disorderly mound.
+48496: Just a few coppers.
+48512: The tramp is almost buried by a heap of torn and filthy clothing.
+48560: The cap seems to be a series of holes, held together by wool and
+dandruff. At one time it might have been tweed.
+48640: It's a carpet bag with a rusty zip fastening and it looks full. Full of
+what you dare not speculate.
+48712: You are on a platform west of a slightly curved and empty track. Stairs
+marked "Exit" lead up and out, and an electric sign is hanging from the
+ceiling. Against the wall stands an old vending machine.
+48852: Don't be stupid -- you'd get electrocuted.
+48884: The machine is so old that the instructions have been worn away. On the
+front panel are a narrow slot, a lever, and a dispensing tray.
+49040: The lever is embossed with a circle, and the word "PULL"
+49084: It's exactly like any other penny you've ever seen.
+49148: Of course, it's not legal tender any more, but then again it had
+probably been in that chocolate machine for years.
+49228: The corners are worn, and Sir Isaac's face is dirty, but it's worth a
+pound, and that's not to be sniffed at.
+49308: It's a small bar of "Fruit and Nut" chocolate, and it comes conveniently
+without any form of wrapping, to allow you to eat it quickly and to reduce
+litter.
+49420: The electrified track provides power for the trains. It's high voltage
+and extremely dangerous.
+49488: You're in a short corridor south of the ticket hall. Two stairways lead
+down; one to the west for platform one, the other to the east for platform two.
+A small notice is attached to the wall.
+49624: Which way down, east or west?
+49646: The notice reads:
+
+ANYONE BEHAVING IN SUCH A WAY AS TO CAUSE A PUBLIC
+DISTURBANCE RISKS DELAYING THE TRAINS. ALL SUCH OFFENDERS ARE LIABLE TO BE
+PROSECUTED.
+49832: This is a circular room from which a corridor leads off to the south. An
+automatic barrier blocks the way north.
+49912: Your attempts to bulldoze your way through the barrier are unsuccessful.
+49964: The barrier is ticket operated. Since you don't have a ticket, you can't
+operate it.
+50028: But the door is closed.
+

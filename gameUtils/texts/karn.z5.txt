@@ -1,0 +1,1907 @@
+23776: Score:
+23790: Moves:
+23828: Time:
+24384: 'dba KpmTo repeat a command like "frog, jump", just say "again", not
+"frog, again".
+24465: You can hardly repeat that.
+24728: You can't begin with a comma.
+24789: You seem to want to talk to someone, but I can't see whom.
+24879: To talk to someone, try "someone, hello" or some such.
+25843: I didn't understand that sentence.
+25951: I didn't understand that number.
+25982: You can't see any such thing.
+26045: You aren't holding that!
+26074: You can't use multiple objects with that verb.
+26114: You can only use multiple objects once on a line.
+26193: You excepted something not included anyway!
+26231: You can only do that to something animate.
+26268: That's not a verb I recognise.
+26298: That's not something you need to refer to in the course of this game.
+26354: You can't see "
+26399: I didn't understand the way that finished.
+26500: Nothing to do!
+26516: There are none at all available!
+28594: Sorry, you can only have one item here.  Which one exactly?
+35838: At the moment, "it"
+35908: and "me" means
+45380: Nothing to do!
+45395: o. You have died
+45668: Please give one of the answers above.
+45699: It is now pitch dark in here!
+45726: I beg your pardon?
+45744: dxn[You can't "undo" what hasn't been done!]
+45786: ehn[Can't "undo" twice in succession. Sorry!]
+45858: Sorry, that can't be corrected.
+45887: Think nothing of it.
+45908: "Oops" can only correct a single word.
+45977: Please answer yes or no.
+45997: Are you sure you want to quit?
+46030: Are you sure you want to restart?
+46056: Failed.
+46071: Restore failed.
+46084: Ok.
+46097: Save failed.
+46108: Ok.
+46122: The game file has verified as intact.
+46149: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+46273: Transcripting is already on.
+46322: Transcripting is already off.
+46345: End of transcript.
+46366: Score notification on.
+46387: Score notification off.
+46410: You have visited:
+46435: Objects you have handled:
+46456: None.
+46673: You are carrying nothing.
+46715: Taken.
+46726: You are always self-possessed.
+46844: You already have that.
+46929: That isn't available.
+46970: That's hardly portable.
+46993: That's fixed in place.
+47017: You're carrying too many things already.
+47092: Already on the floor.
+47113: You haven't got that.
+47155: Dropped.
+47173: It is unfortunately closed.
+47198: But it isn't there now.
+47217: Removed.
+47298: You can't put something on top of itself.
+47375: You lack the dexterity.
+47452: Done.
+47494: You need to be holding it before you can put it into something else.
+47547: That can't contain things.
+47572: Alas, it is closed.
+47593: You'll need to take it off first.
+47709: Done.
+47750: That isn't in your possession.
+47773: First pick that up.
+48061: That's not something you can enter.
+48129: You can only get into something on the floor.
+48242: But you aren't in anything at the moment.
+48350: You'll have to say which compass direction to go in.
+48449: You can't go that way.
+48606: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+48708: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+48796: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+49155: But it's dark.
+49168: You find nothing of interest.
+49200: But it's dark.
+49272: You find nothing of interest.
+49300: You can't see inside, since it is closed.
+49383: That doesn't seem to be something you can unlock.
+49424: It's unlocked at the moment.
+49451: That doesn't seem to fit the lock.
+49505: That doesn't seem to be something you can lock.
+49544: It's locked at the moment.
+49569: First you'll have to close it.
+49596: That doesn't seem to fit the lock.
+49649: That's not something you can switch.
+49680: That's already on.
+49723: That's not something you can switch.
+49754: That's already off.
+49799: That's not something you can open.
+49830: It seems to be locked.
+49851: It's already open.
+49947: That's not something you can close.
+49978: It's already closed.
+50021: You're not wearing that.
+50068: You can't wear that!
+50089: You're not holding that!
+50112: You're already wearing that!
+50161: That's plainly inedible.
+50194: Not bad.
+50209: That was a rhetorical question.
+50236: This dangerous act would achieve little.
+50270: Nothing practical results from your prayer.
+50306: The dreadful truth is, this is not a dream.
+50343: That seems unnecessary.
+50366: Keep your mind on the game.
+50391: What a good idea.
+50410: You smell nothing unexpected.
+50437: You hear nothing unexpected.
+50462: You taste nothing unexpected.
+50494: Keep your hands to yourself!
+50519: If you think that'll help.
+50540: You feel nothing unexpected.
+50565: Digging would achieve nothing here.
+50596: Cutting that up would achieve little.
+50627: You jump on the spot, fruitlessly.
+50660: You would achieve nothing by this.
+50689: There's nothing suitable to drink here.
+50722: But there's no water here to carry.
+50753: Oh, don't apologise.
+50775: Real adventurers do not use such language.
+50810: Quite.
+50821: Violence isn't the answer to this one.
+50854: There's not enough water to swim in.
+50885: There's nothing sensible to swing here.
+50918: You can't usefully blow that.
+50945: You achieve nothing by this.
+50970: No, you can't set that.
+50993: No, you can't set that to anything.
+51024: You wave, feeling foolish.
+51054: But you aren't holding that.
+51118: It is fixed in place.
+51139: You are unable to.
+51158: That would be less than courteous.
+51183: Nothing obvious happens.
+51211: Is that the best you can think of?
+51240: That's not a direction.
+51259: Not that way you can't.
+51287: Keep your hands to yourself.
+51308: You achieve nothing by this.
+51338: Futile.
+51345: You lack the nerve when it comes to the crucial moment.
+51393: You talk to yourself a while.
+51416: This provokes no reaction.
+51443: There is no reply.
+51462: Nothing is on sale.
+51481: Your singing is abominable.
+51507: I don't think much is to be achieved by that.
+51544: Time passes.
+51559: You aren't feeling especially drowsy.
+51660: Behind you, you hear a peculiar high-pitched squeal followed by the
+sound of an explosion.
+51856: You boldly stride towards the oncoming Cybermen.  They don't seem as
+interested in you as they are in reaching the reactor room, but they do pause
+long enough to deal you a lethal blow to the head...
+52018: As you turn towards the doorway, you stop dead in your tracks as two
+Cybermen enter the chamber.  You try to escape through the hatch but before you
+reach it, you feel yourself enveloped in electric death.
+52182: As you go through the doorway, you stop dead in your tracks.  On the
+other side of the gap in the floor are two Cybermen.  You spin around and try
+to make it to the hatch, but one of them quickly steps over the gap and grabs
+you by the neck. You hear a sickening crunch as everything goes black..
+52425: As you swing your legs over the edge of the open hatch, you feel
+something grab you from below.  You try to pull yourself free, but weaken as
+you feel icy metallic hands around your throat...
+52574: As you step towards the east shaft, two ominous silvery forms appear
+before you.  You try to shake hands with the Cybermen, but they (quite rudely)
+deal you a lethal blow to the skull.
+52721: Tying the scarf to the post.
+52747: Putting the activated homing device into the saucer's hatch.
+52794: Finding the scalpel.
+52816: Blocking the secret passageway with the boulder.
+52855: Unblocking the secret passageway.
+52884: Collecting the mercury.
+52907: Filling the battery with acid.
+52949: Opening the reactor room door.
+52976: Starting the reactor sequence.
+53003: Stopping the reactor sequence.
+53030: Blowing up the Cybermen.
+53054: Flushing the flying saucer from the docking bay.
+53093: Getting the gold dust.
+53114: Locking the cyberman up.
+53137: Suffocating Morbius.
+53158: Deactivating Morbius' alarm.
+53185: Taking the Brain out of its tank.
+53215: Receiving the coordinates for Gallifrey.
+53250: Giving the Brain to the Timelords.
+53516: That's not fillable.
+53612: You'll have to pick up the chalice first.
+53673: As soon as the fluid_link touches the noxious green water, it bubbles
+and melts away into nothingness.
+53777: That's not a liquid.
+53883: You quickly snap the battery shut afterwards.
+53973: You're very childish.
+53990: That's not a toy.
+54012: "Please refrain, Master."
+54038: You're getting dizzy.
+54144: Timelords don't use such language!
+54201: As you please.
+54214: That makes no sense to me.
+54278: Nobody's home.
+54300: You see nothing unusual.
+54438: There isn't enough space underneath the boulder.
+54574: There's already something under the pipe.
+54696: You'll have to close the floor plate first.
+54757: You jam the withered branch into the space between the closed plate and
+floor of the shaft.
+54843: You'll have to close the floor plate first.
+54915: Pointless.
+54974: You'll have to close the floor plate first.
+55035: You jam the withered branch into the space between the closed plate and
+floor of the shaft.
+55121: You'll have to close the floor plate first.
+55193: Pointless.
+55210: You baffle me.
+55227: You'll have to pick it up first.
+55282: It's already empty.
+55538: Pointless.
+55550: You don't have anything to shoot with.
+55704: You're very violent.
+55858: You have done well.
+55980: The Timelord turns and walks away.
+56018: as he walks out of sight, you hear him say "You may consider collecting
+your robotic dog from Karn before embarking on your next adventure."
+56117: "Grateful lot, the Timelords." You think cynically as you watch the
+Timelord disappear into the darkness.  You enter the TARDIS and close the main
+doors.
+56359: "Our next destination, Master?"
+56388: You stare at the console for a moment.  "Where to next?" you think.
+56928: Do you think we are so blind that we did not detect the traces of your
+fiendish visit? There is no recourse but to sacrifice you to the Flame. 
+Sisters!"
+
+The Sisters gather around you in a circle and start chanting a
+strange mantra.  You feel yourself unable to move as your body is lifted from
+the ground and you are carried towards the Flame of Life to face a fiery death.
+ You really should have covered your tracks a little more carefully, Doctor...
+57257: Cybermen!  The Cybermen have stolen the brain of Morbius!  The
+implications of this overwhelm your thoughts.  Not only do the Cybermen have
+the necessary technology to provide a body for Morbius, Morbius has all the
+knowledge of the Timelords.  This could make the Cybermen the most destructive
+force in the universe!
+57912: .  The light above the door turns red.
+58640: There isn't enough room.
+58953: The cylindrical tank is closed.
+59312: After a few moments, this stops.
+59848: Your hands are full.
+59886: Your hands are full.
+59963: Taken.
+60318: You'll have to take it off first.
+60354: It's already tied to the signpost.
+60394: There's already something tied to the signpost.
+60548: That would be pointless.
+60992: You can't untie it from here.
+61154: Dropped.
+61177: You can't wear it right now.
+61372: tightly, you scramble down the side of the ledge. Unfortunately,
+61684: into the disposal unit and the machine springs to life, producing an
+assortment of abrasive sounds as it digests its meal. As the
+62649: It's firmly attached to the control bank.
+62688: You PUSH a push-button.
+62715: Push buttons are meant to be pushed.
+63133: "Attention: Core temperature returning to normal."
+
+The reactor comes to
+a standstill, and within moments has returned to its normal temperature.  The
+glass bubble on the control bank turns yellow.
+63381: You can't reach the rope from here.
+63413: You are unable to reach the rope from here.
+63458: You're not holding your precious yo-yo.
+63502: The yo-yo spins up and down its string a bit more quickly than usual.
+63555: The yo-yo spins up and down its string.
+63589: The yo-yo spins up and its string in a slightly erratic manner.
+63713: The yo-yo spins up and down its string.
+63972: You can't exit the TARDIS while the main doors are closed.
+64093: You remove the brown card from the slot.
+64154: You remove the silver card from the slot.
+64217: You remove the gold card from the slot.
+64375: It's the coordinate card for Gallifrey.
+64414: The main doors stand open.
+64435: The main doors are closed.
+64467: They're already open.
+64484: The doors cannot be opened manually.
+64520: The doors cannot be closed manually.
+64547: They're already closed.
+64575: The main doors cannot be unlocked from the interior of the TARDIS.
+64631: The main doors are open, therefore unlocked.
+64674: There's no point in locking open doors.
+64707: The main doors are automatically locked when closed from the interior of
+the TARDIS.
+64919: They're firmly attached to the wall.
+65039: The TARDIS console is firmly rooted to the floor.
+65170: The tiny drawer is closed.
+65206: The tiny metal drawer has already been pulled open.
+65317: The tiny metal drawer has already been pushed shut.
+65357: You push the tiny metal drawer shut.
+65398: Only a fluid link can fit inside the tiny metal drawer.
+65445: It's an integral part of the TARDIS console.
+65498: One end of the fluid link is open, revealing empty space inside.
+65557: One end of the fluid link is open, revealing a small amount of silver
+liquid inside.
+65616: The fluid link is tightly closed.
+65676: The fluid link is only designed to contain a small amount of mercury.
+65736: You like it where it is.
+65937: There's already a card in the slot.
+65991: The brown card slides neatly into the slot.
+66049: The silver card slides neatly into the slot.
+66109: The gold card slides neatly into the slot.
+66370: The scanner is firmly attached.
+66413: The main doors quietly hum as they open.
+66448: The main doors quietly hum as they swing shut.
+66486: You tug and tug at the lever, but it stays firmly in place.
+66541: You probably shouldn't remove such a vital part of the TARDIS.
+66813: As you reach out to push the green button, you find yourself unable to
+move, paralyzed by some unseen force.  The main doors suddenly burst open on
+their own accord and flood the console room with bright light.  You feel faint
+as your surroundings shimmer and fade away before you, and you lose
+consciousness.  When you awake, you are surprised to find yourself in the
+Temple of the Sisterhood of Karn.  The Sisters surround you menacingly and
+Ohica glares at you from her throne.
+67166: A message flashes on the scanner: EXTERNAL QUANTUM FLUCTUATION. UNABLE
+TO DEMATERIALIZE.
+67513: You have landed.
+67528: Nothing seems to happen.
+67688: An open door on the south wall leads into your workshop.
+67729: There's a closed door on the south wall.
+67949: Otherwise it's been empty for centuries.
+67987: Although this is technically a storage room, you haven't actually stored
+much in this featureless room in centuries.
+68268: However, in your latest fit of spring cleaning you've almost emptied the
+place out. There's a small cupboard on the eastern wall, and on the north wall
+a
+68452: You move it a little.
+68469: You have a type 40 TARDIS capable of taking you to any place in time and
+space, yet you elect to spend your time trying to move a workbench about?
+68581: The table is too rickety to support your weight.
+68618: It's a small white wooden cupboard.
+68702: It's a small cloth pouch.
+68788: The open door leads back into the TARDIS corridors.
+68829: Through the door, you see a workshop.
+68862: The door is closed.
+68922: The leather bag is quite battered, but still holds together well after
+all these years.
+69142: It's already switched off.
+69166: The homing device is a small gold polyhedron.
+69276: The homing device is already switched on.
+69310: When you switch on the homing device, a pulsating glow appears somewhere
+inside it.
+69379: The homing device is already deactivated.
+69413: The homing device stops glowing.
+69877: The access panel is closed.
+69904: There's already something in there.
+69938: The access panel is only designed to accept a battery.
+69996: The battery pops into place.
+70026: The access panel is already open.
+70102: The access panel springs open.
+70134: The access panel is already closed.
+70369: You close the access panel.
+70420: You snap the battery out.
+70760: multi-coloured. Exceedingly tasteless."
+70797: "It's a nice hat, Master."
+70929: Especially useful for deactivating locks and other sophisticated
+devices."
+71137: "An effective device for gauging gravity readings."
+71281: "I detect electronic emissions from that door, Master."
+71330: "Door deactivated, Master."
+71379: "The reactor is approaching meltdown, Master."
+71536: "Insufficient data, Master."
+71595: "Reactor controls operated by logic code, Master. The correct sequence
+of colours is required to shut down cooling systems."
+71740: xtends his eye-probe towards the reactor, his ears whirring busily. 
+After a few moments, his eye-probe withdraws. 
+
+"Code sequence:
+71955: xtends his eye-probe towards the reactor, his ears whirring busily. 
+After a few moments, his eye-probe withdraws. 
+
+"Negative, Master.  Unable to
+compute.  Logic suggests an opposite code."
+72131: Unable to compute."
+72228: I'm also your plastic pal who's fun to be with, Master."
+72626: The Cybermen have since retreated to their new homeworld of Telos, but
+still remain a dangerous threat to the galaxy."
+72711: "That information is not in my databanks, Master."
+72787: "No thank you, Master."
+72950: "Very interesting, Master."
+73104: efuses to be taken for a walk on a "leash").
+73195: "Unable to process, Master."
+73328: "Unable to process, Master."
+73372: "I cannot enter the TARDIS when its doors are closed, Master."
+73518: This unit cannot harm its master."
+73550: "Energy weapons do not function within the TARDIS, Master."
+73653: xtends his nose laser, but it only fizzles ineffectively.
+"Power levels
+critical, Master."
+73724: "Target not in range, Master."
+73845: "Power levels low, Master."
+73879: "Power levers critical, Master."
+73965: "WARNING! Destruction of the anti-matter reactor would create a chain
+reaction that would destroy the entire vessel. Request aborted."
+74099: "Target out of range, Master."
+74130: "Please refrain, Master."
+74255: It's not polite to shove.
+74758: ears whir furiously.
+  "Danger! Detection device above is armed and
+active.  Suggest immediate retreat, Master."
+74866: ears whir furiously.
+  "Danger! Detection device above is armed and
+active.  Suggest immediate retreat, Master."
+75019: extends his eye-probe towards the door.
+ "Alert! Alarm system detected."
+75241: Its doors stand open at the moment.
+75342: You step into the TARDIS...
+75378: You walk straight into the closed TARDIS doors.
+75431: You swing the TARDIS doors shut.
+75460: The TARDIS doors are already shut.
+75499: You'll have to unlock it first.
+75528: The TARDIS doors are already open.
+75560: You push open the TARDIS doors.
+75597: It makes more sense if you close the TARDIS doors first.
+75647: The TARDIS is already securely locked.
+75683: You slide the key into the lock, give it a sharp twist and feel a
+reassuring hum as the lock clicks into place.
+75768: The TARDIS is far too heavy for your puny efforts.
+76053: A trail through the rock is visible to the east, while another trail to
+the northwest leads farther up the mountain.
+76148: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+76205: Beneath your feet is solid rock.
+76328: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+76385: Beneath your feet is solid rock.
+76424: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+76481: Beneath your feet is solid rock.
+76519: The trail is blocked in that direction by an enormous boulder.
+76576: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+76633: Beneath your feet is solid rock.
+76670: The trail is blocked in that direction by an enormous boulder.
+76854: A steep slope leads northwards, and a trail winds its way through the
+rock to the west.
+76928: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+76985: Beneath your feet is solid rock.
+77020: Ouch! The water burns your hand.
+77050: You splutter as the lake water burns your tongue!
+77092: Your better judgement prevents you from doing that.
+77134: You nervously put one foot into the lake's water but immediately jump
+back the water makes your shoe bubble and begin to melt!
+77252: The firework explodes into a rainbow of colour as it disappears into the
+depths of the green water.
+77434: Be careful not to lose your footing here.
+77735: This is not the safest place to be jumping about!
+77773: What did I tell you about jumping around here? You plunge over the side
+of the ledge, smashing your head on the rock below.
+77870: The sides of the ledge are far too steep for climbing.
+77920: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+77977: Beneath your feet is solid rock.
+78031: Gripping the scarf tightly, you scramble down the side of the ledge.
+Unfortunately, the scarf isn't quite long enough to get you to the bottom, but
+you manage to jump down the rest of the way...
+78202: Gripping the rope tightly, you scramble down the side of the ledge.
+Unfortunately, the rope isn't quite long enough to get you to the bottom, but
+you manage to jump down the rest of the way...
+78356: Gripping the scarf tightly, you scramble down the side of the ledge...
+78412: The sides of the ledge are far too steep to climb down.
+78454: The sign reads "Danger. Keep away from side of ledge."
+78574: A signpost has been erected here.
+78743: "Danger. Keep away from side of ledge."
+78786: The signpost is firmly planted in the ground.
+78862: Unclimbable walls of rock surround this area, but a path does lead
+between the rock to the northwest. About thirty feet above you, a ledge is
+visible on the side of the mountain.
+79140: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+79197: Beneath your feet is solid rock.
+79233: You can't reach the scarf from here.
+79265: You are unable to reach the scarf from here.
+79367: There are no signs of any openings or portals on its smooth silver
+surface.
+79899: You suspect that whoever took the Brain of Morbius is in that saucer.
+79988: You are startled to see a flying saucer parked here!
+80051: A flying saucer hovers before you, its engines humming loudly.
+80122: A flying saucer is hovering before you, violently shaking the ground of
+the area as its burning engines emit a deafening roar.
+80209: There is a flying saucer parked here.
+80255: You attempt to climb the saucer, but only slip off its smooth surface.
+80306: The heat from the engines drives you back.
+80356: You see no sign of a door on the surface of the ship.
+80395: The heat from the engines prevents you from approaching the ship.
+80459: Apart from producing a resonant metallic sound, this has no effect.
+80508: The heat from the engines prevents you getting any closer to the saucer.
+80582: The spaceship is far too heavy.
+80605: The heat from the engines prevents you getting any closer to the saucer.
+80663: The smooth surface of the saucer offers no good surface.
+80815: A humming noise permeates the air.
+80876: An intense whining sound comes from outside the TARDIS.
+80926: A deafing roar shakes the ground violently as the saucer prepares to
+blast off.
+80991: A loud whining sound drifts through the air.
+81059: A loud humming noise suddenly comes from over the side of the ledge.
+81115: A loud humming noise suddenly fills the air.
+81155: Without warning, the saucer begins vibrating violently as it starts its
+engines. A loud humming fills your ears as the saucer smoothly rises from the
+ground. You find it impossible to stay on top of the saucer, and you tumble
+down its polished surface...
+81466: A humming noise begins drifting through the air.
+81513: A humming sound suddenly enters the TARDIS from somewhere outside.
+81587: The humming from below the ledge intensifies into a deafening whine.
+81643: The humming intensifies into a deafinging whine.
+81683: uxn
+The ground begins to shake as the saucer's engines glow a brilliant
+white. A deafening roar fills the air as the heat from the engines intensifies.
+81790: A loud whining sound drifts through the air.
+81833: An intense whining sound comes from outside the TARDIS.
+81950: The ground trembles slightly as you hear a muffled rumbling from
+somewhere outside.
+82027: A deafening roar fills the air.  Quickly looking up, you see a flying
+saucer blasting upwards into the sky.
+82109: A deafening roar shakes the ground as the spaceship's thrusters fire and
+it rockets upwards into the sky.  Unfortunately, you do not fully appreciate
+this spectacle, as you are burned to death by the blast from the engines.
+82270: The earth tremors as a loud roar fills the air.  Looking up, you can see
+a spacecraft blasting upwards into the sky.
+82401: On the scanner, you just make out the form of a spacecraft rocketting
+into the sky.
+82532: You feel their heat on your face.
+82611: The heat is nearly unbearable.
+82651: The engines are far too hot to touch.
+82693: Marks on the ground are hardly moveable.
+82826: The saucer's surface appears smooth and unbroken.
+83058: You suspect that whoever took the Brain of Morbius is in that saucer.
+83121: The ship is far beyond your reach.
+83391: You suspect that whoever took the Brain of Morbius is in this saucer.
+83460: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+83610: Attempting to hoist yourself upwards, you lose your foothold and slide
+down the smooth, polished sides of the saucer...
+83702: You slide down the smooth, polished sides of the saucer...
+83758: The surface of the saucer is quite featureless except for a small hatch.
+83824: You suspect that whoever took the Brain of Morbius is inside this
+spaceship.
+83891: Aside from making a resonant metallic sound, this has no effect.
+83949: You can't move a spaceship!
+83974: You see no sign of a door.
+84018: The scarf is firmly attached to the signpost on the ledge high above.
+84072: Attempting to hoist yourself upwards, you lose your foothold and slide
+down the smooth, polished sides of the saucer...
+84518: The hatch is already open.
+84597: It appears you can't open it with your hands.
+84690: You slam the hatch shut.
+84709: The hatch is already closed.
+84767: It is openable at one end.
+84790: It is open at one end, revealing that it is empty.
+84892: You'd rather not risk losing the acid inside.
+84965: It's already closed.
+85113: As it bounces down the sides of the saucer, it pops open at one end
+spilling its acidic contents on the ground below.
+85208: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+85265: Beneath your feet is solid rock.
+85304: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+85361: Beneath your feet is solid rock.
+85400: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+85457: Beneath your feet is solid rock.
+85496: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+85553: Beneath your feet is solid rock.
+85592: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+85649: Beneath your feet is solid rock.
+85740: It's bark is black and twisted, and the sight of its dead branches
+snaking upwards into the dark sky send a shiver down your spine.
+85884: None of the remaining branches are low enough to climb onto.
+85940: As you heave yourself up onto the lowest branch it suddenly snaps off
+the dead tree, and you land on the ground with a thud.
+86040: The tree is firmly rooted.
+86066: The dead branches snake ominously into the dark sky.
+86168: The remaining branches are beyond your reach.
+86219: The dead branch is jammed between the floor plate overhead and the shaft
+floor.
+86382: It's about 1.5 meters long.
+86513: Just as it looks as if the branch is about to snap into two, the huge
+boulder shifts and topples over the side of the plateau into the clearing
+below.
+86660: Looking over the side of the plateau you see the boulder rolling out of
+sight to the east.
+86880: Just as it looks as if the branch is about to snap into two, the huge
+boulder shifts and topples over the side of the plateau into the clearing
+below.
+87027: Looking over the side of the plateau you see the boulder rolling out of
+sight to the east.
+87191: The branch breaks off with a loud snap.
+87246: You pull the withered branch out from under the boulder.
+87294: Taken.
+87414: Taken.
+87555: The branch breaks off with a loud snap.
+87596: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+87653: Beneath your feet is solid rock.
+87692: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+87749: Beneath your feet is solid rock.
+87778: You recognize this corpse to be the battered remains of the body created
+for Morbius's brain by the brilliant but insane neurologist Solon. It's a
+horrific conglomeration of the parts of several different creatures. Quite
+unattractive.  Instead of a head, however, there is a plastic globe which acted
+as an artificial brain-case.
+88023: You can see the battered remains of a hideously disfigured creature at
+the base of the cliff.
+88088: The twisted body of Morbius lies here at the base of the cliff.
+88138: That's truly sick.
+88164: You'd sooner not touch the body.
+88199: You have no chance of climbing such a massive cliff face.
+88242: It's a transparent plastic globe, rather like a fish bowl.  When
+Morbius' brain was housed in it, you could almost read his thoughts.
+88347: Only now do you suddenly notice the absence of the brain within the
+case!  You search around the base of the cliff, but find no sign of the brain
+of Morbius.  Looking inside the globe, you notice that the nerves which
+connected the grotesque body to the brain have been carefully severed with a
+laser cutter.  Somebody has been here before you and stolen Morbius' brain!
+88621: You'd sooner not touch the body.
+88660: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+88717: Beneath your feet is solid rock.
+88752: What do you want with a pile of rubble?
+88804: Searching through the rubble, you find a scalpel.
+88841: You find nothing of interest.
+88909: They lead upwards out of sight.
+88932: Some stone steps lead back down the mountain.
+89062: You'd have to move the mountain too.
+89128: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+89185: Beneath your feet is solid rock.
+89224: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+89281: Beneath your feet is solid rock.
+89310: You seem to have reached a small plateau, which overlooks a rocky
+clearing far below.
+89504: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+89561: Beneath your feet is solid rock.
+89702: It won't budge.
+89723: It's far too heavy.
+89745: The sides of the boulder are too smooth to be climbed.
+90075: "Warning, Master.  Power levels critical."
+90124: "Warning.  Power levels low, Master."
+90200: Its sides are worn smooth and round by the wind.
+90272: It stands precipitously at the edge of the plateau.
+90365: A long withered branch has been jammed underneath the boulder, its free
+end sticking upwards at a steep angle.
+90450: An enormous boulder blocks the trail to the southeast.
+90489: Against the western rockface stands an enormous boulder.
+90556: There's a tiny space between the boulder and the ground.
+90609: One end of a long withered branch has been jammed under the boulder.
+90668: It doesn't budge.
+90688: Summoning all your strength, you push against the boulder, but it
+refuses to budge any more.
+90761: You push against the boulder with all your might and manage to roll it a
+few centimeters towards the edge of the plateau, exposing a tiny space beneath
+it.
+90879: It won't budge.
+90892: The boulder rocks slightly.
+90920: The boulder is far too heavy to be carried.
+90955: You merely slide down its smooth sides.
+91279: "Warning, Master.  Power levels critical."
+91328: "Warning.  Power levels low, Master."
+91375: It's just a tiny gap underneath the huge boulder.
+91412: One end of a long withered branch is jammed into the space, its other
+end sticking upwards at a steep angle.
+91501: The tiny gap is just too tiny.
+91586: The other end sticks upwards at a steep angle.
+91626: You see only darkness within.
+91671: Solid rock is above you.
+91694: Beneath your feet is solid rock.
+91722: You're in a dark passage carved into the rock.
+91860: Dim light comes from underneath it.
+91927: Solid rock is above you.
+91950: Beneath your feet is solid rock.
+92044: The sky above you is a murky brown colour, shrouded in perpetual
+twilight.
+92101: Beneath your feet is solid rock.
+92134: The doors are solidly locked.
+92161: The doors are already closed.
+92189: You know better than to antagonize the Sisterhood by breaking and
+entering into their sacred temple.
+92267: I don't think the Sisterhood would appreciate it if you stole their
+front door.
+92331: The sturdy oak doors resist your efforts.
+92374: The doors swing open and you many hands grab you and drag you into the
+Temple.  You are thrown at the feet of Ohica who looks down from her throne
+lividly.
+92574: have defiled our Temple. Begone!"
+92751: There is no reply.
+92766: The doors slowly creak open and one of the Sisters emerges. Upon
+recognizing you, she stands aside and you step into the Temple...
+93188: To the north, a passageway leads out of the Temple.
+93240: Ohica addresses you:
+    "Doctor! You have returned to Karn. Although we
+owe you our gratitude for your help in the destruction of Morbius and for
+restoring the Flame, we do not wish for the presence of outsiders on Karn,
+particularly Timelords."
+93431: Bidding farewell to Ohica, you are led out of the Temple...
+93503: cuefpm onto the floor, Ohica frowns darkly at you.
+  "Do not litter in
+our Sacred Temple, Doctor!"
+You shamefully pick
+93610: Bidding farewell to Ohica, you are led out of the Temple...
+93673: "Where do you think you're going, Timelord?" snaps Ohica.
+93732: "Do not touch our sacred Wooden Door!" shrieks Ohica.
+93797: "Do not touch our sacred Tapestry!" commands Ohica angrily.
+94098: To the north, a passageway leads out of the Temple.
+94149: You'd better watch your step here.  If the Sisterhood discover any trace
+of your uninvited visit to their Sacred Temple, they won't be pleased.
+94293: Without warning, you feel your body paralyzed by an invisible force. 
+You struggle to free yourself, but in vain.  You feel faint as your
+surroundings shimmer and fade around you.  Everything goes black and you pass
+out.
+
+When you awake, you are surprised to find yourself in the Temple of the
+Sisterhood of Karn.  Ohica sits before you on her throne, her eyes blazing with
+anger.  The rest of the Sisterhood crowds around you.
+94647: From behind the closed wooden door, you hear the muffled sound of soft
+chanting.  It seems the Sisters are performing one of their Sacred Ceremonies.
+94759: The chanting from behind the door gets louder.
+94799: You hear what sounds like a cymbal crash from behind the wooden door.
+94867: You hear what sounds like a gong behind the door to the south.
+94917: You hear what sounds like a glokenspiel behind the door to the south.
+95034: The sound of castinettes comes from behind the wooden door.
+95082: The sound of a triangle comes from behind the wooden door.
+95130: The sound of a bass drum comes from behind the wooden door.
+95239: You think you hear the sound of a kazoo from behind the wooden door.
+95293: You think you hear the sound of a harmonica from behind the wooden door.
+95351: You think you hear the sound of a whistle from behind the wooden door.
+95407: You think you hear the sound of a flute from behind the wooden door.
+95536: You hear what sounds like a drum solo from behind the door to the south.
+95656: You hear what sounds like a tuba from behind the door to the south.
+95710: You hear what sounds like a bass solo from behind the door to the south.
+95771: You hear what sounds like applause from behind the door to the south and
+then silence.
+95840: The wooden door creaks open and Ohica marches into the room followed by
+the Sisterhood.  You try to slip away, but find yourself paralyzed by an unseen
+psychic force.  Ohica steps towards you with fire in her eyes.
+
+"So, Timelord!
+96283: You helplessly float towards the Flame of Life, suffering an agonizing
+death...
+96355: I wouldn't disturb the Sisterhood if I were you.
+96397: Strange chanting comes from behind the door.
+96454: The noise behind the door suddenly stops.
+96485: You knock on the door.
+96510: The doors are solidly locked.
+96537: The doors are already closed.
+96651: I don't think the Sisterhood would appreciate it if you stole their
+front door.
+96715: The sturdy oak doors resist your efforts.
+96758: The chanting behind the door suddenly stops.
+96835: From your previous visit to Karn, you know that the Flame of Life is
+behind that shield.
+96905: The shield has been swung open, revealing the Flame of Life.
+96964: As you swing the shield open, you feel the heat from the Flame of Life
+on your face.
+97033: You swing the shield shut, concealing the Flame of Life.
+97085: Ouch! Hot!
+97444: A small amount of silver liquid flows out from beneath the Flame and
+drips into the fluid link within the chalice below.
+97714: It tastes horrible!
+97733: It's odourless.
+97777: You cough and wretch as you drink the foul-tasting liquid.
+97905: You pour the silver liquid into the chalice where it mixes with the
+colourless liquid.
+97970: You recognize the chalice to be the cup from which the Sisterhood drink
+the Elixir of Life.
+98244: sending a ball of fire into your face.  Momentarily blinded, you drop
+the chalice, spilling its contents onto the floor.
+98414: It smells a little like stewed apricot.
+98448: You'll have to pick up the chalice first.
+98483: It has a strange yet familar taste.
+98518: You smell a trace of stewed apricot.
+98550: The murky liquid tastes horrible, but leaves an aftertaste of stewed
+apricot.
+98610: You'll have to pick up the chalice first.
+98660: "Do not touch our sacred Shield!", commands Ohica.
+98708: Ohica jumps out of her throne angrily.  "Blasphemy! You have defiled our
+sacred Temple.  Begone and never return, Timelord!"
+
+Several Sisters run into
+the room, grab you and brusquely escort you out of the Temple...
+98890: "Do not touch our sacred Chalice!", shrieks Ohica.
+98938: Ohica leaps from her throne.  "Blasphemy! You mean to steal the Elixir!
+You have defiled our Temple, Timelord.  Begone! 
+
+Several Sisters appear to
+brusquely escort you from the Temple...
+99094: The tapestry is made of a thick rich cloth and is ornamentally decorated
+with what looks like gold.
+99370: You carefully draw the tapestry to one side, revealing a large chamber
+to the west.
+99434: You carefully draw the tapestry to one side, revealing a dark passageway
+leading to the east.
+99504: The tapestry has already been pulled open.
+99549: You silently draw the tapestry back to its original position.
+99599: It appears firmly attached.
+99651: Ohica shrieks out, and the rest of the Sisterhood streams into the room,
+quickly subduing you.  Ohica rises angrily from her throne.
+   "Your actions
+show us you have been sent by the Timelords to destroy the Sisterhood. My
+Sisters, dispatch him!"
+   Before you can react, the Sisters club you to death
+with their high heels.
+99892: "I'm not asleep, Doctor."
+99961: "You have offended the Sisterhood with your poor sense of fashion. You
+have defiled the Temple! Sisters, remove him!"
+  Several Sisters appear and
+rudely escort you from the Temple...
+100143: "How dare you! You have defiled the Temple! Sisters, remove him!"
+  
+Several Sisters appear and escort you from the Temple rather discourteously. 
+Just before you are thrown out, you glimpse the trace of a smile on Ohica's
+face...
+100405: "Impossible! The Sisterhood sees all that happens on Karn."
+100468: "The Elixir of Life is the sacred gift of the Flame, and bestows us
+with eternal life so we may worship the Flame."
+100620: For this we receive the Elixir, for only those who worship the Flame
+deserve eternal life."
+100790: "Karn is a better place without that despicable creature."
+100840: "Maron is dead, but her memory lives within the Flame."
+100930: With your help, we were able to destroy him, forcing him to fall to his
+death from a great height."
+101008: "Your time machine is nothing compared to the power of the Sisterhood."
+101068: "I suggest you avoid swimming in the lake, Timelord."
+101146: We serve the Flame."
+101179: "We know nothing of any spacecraft."
+101210: "I do not obey the orders of Timelords."
+101263: Ohica drums her fingers on the throne.
+101299: Ohica sighs impatiently.
+101327: Ohica figits restlessly.
+101356: Ohica stands up.  "Doctor, we thank you for your visit, but we have
+much Sacred Business to attend to.  We bid you farewell and trust that your
+stay on Karn will be a short one."
+   A rather tough-looking Sister enters the
+room and escorts you out of the Temple.
+101785: You can't see any such thing.
+101822: The metal hatch is closed.
+101848: Your hands are too full to climb down the ladder.
+101940: The floor, walls and ceiling are constructed of a seamless metal.
+102116: The metal hatch is closed.
+102142: Your hands are too full to climb down the ladder.
+102188: The metal hatch is closed.
+102214: Your hands are too full to climb down the ladder.
+102270: The reactor hums powerfully.
+102368: With every passing moment, more heat is being produced by the reactor.
+102436: The reactor is far too heavy to be moved.
+102477: The sides of the reactor are warm, and vibrate slightly.
+102518: Ouch! Hot to the touch!
+102544: This reactor is a little more sophisticated than that.
+102601: The glass bubble on the control bank turns blue and the reactor starts
+humming loudly.  A metallic voice drifts across the chamber: 
+   "Warning. 
+Core temperature exceeded.  T-minus ten until shutdown."
+102815: The humming increases and the room becomes noticably warmer.
+102949: The temperature increases steadily as the reactor begins to vibrate
+violently.
+103085: Danger.  Cooling system failing."
+103163: Smoke begins pouring out of the edges of the reactor.
+103281: Critical.  Core implosion imminent."
+103361: The reactor is shaking so violently that it looks as if it's about to
+come free of its foundations.  The air is so full of steam and smoke that it's
+nearly impossible to see.
+103500: From outside the TARDIS, you hear a massive explosion as the reactor
+core erupts.  The TARDIS is practically indestructable, but even it can't
+withstand a massive anti-matter explosion within such close proximity.  The
+last thing you see is a blinding white light as your body melts away...
+103713: You hear a massive explosion as the reactor core erupts.  The last
+thing you see is a blinding white light as both your surroundings and your body
+melt away...
+104088: You'll have to start pushing buttons.
+104131: You heave against the control bank, but it won't budge.
+104182: "I think this problem requires a finer touch, Master."
+104228: I think this problem requires a finer touch.
+104286: Nothing happens.
+104314: You hear a muffled clunk from within the closed hatch.
+104391: The hatch in the floor pops open with a loud groan.
+104430: It's a tiny display screen, no more than one square inch in
+size.
+Currently, the display reads:
+104518: The display reads:
+104558: It's firmly embedded into the control bank.
+104598: The light glows blue.
+104615: The light glows yellow.
+104650: It's firmly embedded into the control bank.
+104687: The light doesn't shift.
+104716: The metal hatch is closed.
+104742: Your hands are too full to climb down the ladder.
+104832: Beneath your feet, you can hear a muffled creaking sound.  You lurch as
+the floor sinks a little.  Suddenly, you hear a snap and the floor falls out
+beneath your feet, taking you with it...
+105048: Oh dear.  The floor appears to be missing in this room.  You tumble
+downwards...
+105170: The bubble glows with blue light.
+105199: The bubble glows with yellow light.
+105250: The glass bubble is beyond your reach.
+105283: Ouch! It's hot to the touch.
+105306: There's no point trying to take the glass bubble.
+105351: The doorway is empty, its edges charred and twisted.
+105422: There's some lettering on its formidable surface.
+105467: An empty doorway in the east wall leads into a corridor.
+105508: An empty doorway in the west wall leads to a reactor room.
+105630: On the west wall is a formidable metal door.
+105760: How can you do that to an empty doorway?
+105789: The solid door doesn't budge.
+105891: As soon as you turn on the sonic screwdriver and point it at the door
+the glass bubble above the door starts flashing and you can hear an alarm going
+off.
+106000: You sense a large figure looming behind you, but before you can turn
+around you feel a painful blow to the back of your neck and everything goes
+dark...
+106116: Hearing some movement behind you, you spin around and see a Cyberman
+standing before you.  Before you can react, it grabs you by the neck and
+squeezes...
+106238: Not even the sonic screwdriver can unlock this door.
+106510: You sense a large figure looming behind you, but before you can turn
+around you feel a painful blow to the back of your neck and everything goes
+dark...
+106626: Hearing some movement behind you, you spin around and see a Cyberman
+standing before you.  Before you can react, it grabs you by the neck and
+squeezes...
+106743: You feel the heat on your face as the door buckles and twists. Soon the
+door turns white with the intense heat and melts away into nothingness.
+106869: "Warning.  Power levels low, Master."
+106914: "Warning.  Power levels critical, Master."
+106999: You climb up onto the metal table...
+107051: The table slides across the floor a little.
+107088: The table is too heavy to carry.
+107122: You climb up onto the metal table...
+107156: You push the table along the metal floor...
+107261: V.
+107265: As you attempt to move past the sensor, it swings around and blasts you
+with a laser beam...
+107364: As you attempt to move past the sensor, it swings around and blasts you
+with a laser beam...
+107475: As you attempt to move past the sensor, it swings around and blasts you
+with a laser beam...
+107568: The sensor is far beyond your reach.
+107701: Power level low."
+107744: Power level critical."
+107789: The sensor swings round in your direction.  Before you have time to
+move, you are blasted by a laser beam...
+107896: The hole is far beyond your reach.
+107963: You casually stroll up to the Cybermen.  They kill you with equal
+casualness...
+108058: The Cyberman suddenly turns in your direction!  It points a
+three-fingered hand in your direction and you feel yourself enveloped in
+electric death...
+108356: One of the Cybermen stirs a little.
+108394: The Cyberman stirs a little.
+108481: Luckily, they don't seem to have noticed you yet.
+108559: The crumpled form of his comrade is at his feet.
+108610: You stop dead in your tracks.  At the sound end of the corridor you see
+two rather familiar figures.  They're Cybermen!
+108728: Forunately, the Cybermen haven't noticed you yet but that could change
+at any moment.
+108796: There are two Cybermen standing at the south end of the corridor!
+108848: There's a Cyberman standing at the south end of the corridor!
+108917: The Cybermen are at the far end of the corridor.
+108961: Are you feeling suicidal?
+110043: You see two silver forms picking themselves up from the floor.  The
+Cybermen do not seem amused by your little prank.  Certainly, you're not amused
+after what they do to you...
+110180: You boldly stride towards the oncoming Cybermen.  They don't seem as
+interested in you as they are in reaching the reactor room, but they do pause
+long enough to deal you a lethal blow to the head...
+110347: V.
+110351: You can hear some heavy footsteps in the corridor outside.
+110431: The footsteps are getting louder.
+110463: You stop dead in your tracks.  Two Cybermen are marching quickly
+towards you from the east!
+110601: Two Cybermen appear from the east end of the corridor. They seem to be
+heading urgently towards the reactor room.  However, they do stop along the way
+to shoot you...
+110763: You can hear heavy footsteps in the corridor right outside the doorway.
+110826: The sound of the footsteps suddenly stops.
+110873: You briefly hear heavy footsteps on the floor plate above your head.
+111047: You suddenly hear heavy footsteps on the floor plate above your head. 
+The branch propping up the floor plate bends under the weight above and snaps
+into two.  The floor plate swings down with a heavy thud and two Cybermen
+tumble down into the shaft.  You realize just how heavy a Cyberman is as you
+are crushed to death...
+111289: Both you and a pair of Cybermen seemed to have picked the same
+inopportune moment to stand on the ill-supported floor plate.  All three of you
+go crashing into the shaft below, triggering a live landmine in the process...
+111454: Both you and a pair of Cybermen seemed to have picked the same
+inopportune moment to stand on the ill-supported floor plate.  After the fall,
+you marvel at their quick recovery as they instantly pick themselves off the
+floor of the shaft and strangle you...
+111649: You hear a loud crash coming from the eastern shaft.
+111702: You are knocked off you feet as you hear a loud explosion coming from
+the eastern shaft.
+111777: You hear a snap followed by a loud crash from the corridor.
+111832: The floor shakes as you hear an explosion from somewhere below your
+feet.
+111919: You spin around to see two Cybermen stepping effortlessly over the gap
+outside the doorway and into the reactor chamber.  One of the Cybermen
+immediately hurries to the control bank and starts pressing buttons with
+lightning fast precision. You are so impressed by its fast work that you fail
+to pay much attention to the other Cyberman.  Until it kills you, that is...
+112193: You spin around and see two Cybermen rushing into the reactor chamber.
+One of the Cybermen immediately hurries to the control bank and starts pressing
+buttons with lightning-fast precision.  You are so impressed by its fast work
+that you fail to pay much attention to the other Cyberman.  Until he kills you,
+that is...
+112434: You hear movement through the open hatch above.
+112511: Two Cybermen suddenly march in from the east shaft.  You try to
+scramble up the ladder but they pull you back down.  You hear a sickly thud as
+you feel an icy arm smashing down on the back of your neck...
+112709: You hear a clatter coming from within the open hatch and a Cyberman
+appears from below.  It is quickly joined by a comrade.  You try to escape
+through the open doorway, but you're not fast enough.  You feel an icy grip on
+the back of your neck, followed by a jarring snap...
+112913: The hatch suddenly springs open with a groan and a Cyberman appears
+from below.  It is quickly joined by a comrade.  You try to escape through the
+open doorway, but you're not fast enough.  You feel an icy grip on the back of
+your neck, followed by a jarring snap...
+113116: You just manage to glimpse a silvery figure disappearing into the open
+hatch above.
+113200: You hear a metallic voice: "Attention: Core temperature stabilized."
+113342: Is the pressure getting to you?
+113402: The footsteps have stopped.
+113423: They're getting louder.
+113446: Personally, I'd stay away from the Cybermen.
+113482: Two Cybermen are working here.  One has removed a panel on the side of
+the reactor and is busy working with some wires inside.  The second Cyberman is
+stands at the control bank, furiously pushing buttons.  Despite its furious
+activity, the latter Cyberman still notices you enter the chamber.  It raises a
+three-fingered hand towards you and launches electric death in your
+direction...
+113820: Beside the door is a thin slot above which a glass bubble glows red.
+113966: Through the open door, a corridor lies to the east.
+114011: On the west wall is a large sliding door.
+114042: On the east wall is a large sliding door.
+114079: A door to the west has slid open, revealing a chamber within.
+114124: A door to the east has slid open, revealing the corridor outside.
+114183: The door has already slid open.
+114206: There doesn't seem to be any sort of handle on the sliding door.
+114262: The sliding door is already closed.
+114289: You see no obvious way of closing the sliding door.
+114336: There doesn't seem to be any way of unlocking the sliding door.
+114381: You try the sonic screwdriver with every imaginable frequency setting,
+but the door remains closed.
+114530: On the far side of the room you can see what looks like a raised dias,
+or platform.
+114594: The glass bubble glows green.
+114617: The glass bubble glows red.
+114798: The card just slides back into your hand.
+114886: The glass bubble above the slot turns green, and the door silently
+slides open, revealing a chamber to the west.
+115010: On the eastern wall you can see a large round metal door, with a metal
+wheel on its center.
+115324: Beneath your feet, you can hear a muffled creaking sound.  You lurch as
+the floor sinks a little.  Suddenly, you hear a snap and the floor falls out
+beneath your feet, taking you with it...
+115540: Oh dear.  The floor appears to be missing in this room.  You tumble
+downwards...
+115658: The corridor makes a sharp bend here, leading south and east.
+115774: You walk straight into the Cyberman, rebounding onto the floor with a
+thud.  The Cyberman watches you silently as you pick yourself up from the floor
+and dust yourself off.  Once you've composed yourself, the Cyberman deals you a
+quick chop to the neck...
+115966: As you attempt to move past the sensor, it swings around and blasts you
+with a laser beam...
+116078: As you attempt to move past the sensor, it swings around and blasts you
+with a laser beam...
+116191: As you attempt to move past the sensor, it swings around and blasts you
+with a laser beam...
+116280: The sensor is far beyond your reach.
+116413: Power level low."
+116456: Power level critical."
+116501: The sensor swings round in your direction.  Before you have time to
+move, you are blasted by a laser beam...
+116608: The hole is far beyond your reach.
+116654: You walk straight into the Cyberman, rebounding onto the floor with a
+thud.  The Cyberman watches you silently as you pick yourself up from the floor
+and dust yourself off.  Once you've composed yourself, the Cyberman deals you a
+quick chop to the neck...
+117012: Beside the door is a thin slot above which a glass bubble glows green.
+117066: The door has slid open revealing a corridor to the south.
+117110: The door has slid shut.
+117170: A large door to the north has slid open.
+117199: A large door to the south has slid open, revealing the corridor
+outside.
+117259: There's a large sliding door on the north wall.
+117294: There's a large sliding door on the south wall.
+117340: There doesn't seem to be any sort of handle on the sliding door.
+117387: It's already open.
+117411: The sliding door is already closed.
+117438: There doesn't seem to be any sort of handle on the sliding door.
+117551: As you point the sonic screwdriver at the door and turn it on, you hear
+a siren coming from behind the door.  Without warning, the door slides open and
+a Cyberman emerges!  You have no time to escape as you are grabbed by the
+throat.  As you gasp for air, everything goes black...
+117763: You can't knock on a sliding door after it's slid open.
+117839: After a few moments, the door slides open and a Cyberman emerges!
+117996: The last thing you feel is the icy grip of the Cyberman's hands as
+everything goes black...
+118142: You walk straight into the Cyberman, rebounding onto the floor with a
+thud.  The Cyberman watches you silently as you pick yourself up from the floor
+and dust yourself off.  Once you've composed yourself, the Cyberman deals you a
+quick chop to the neck...
+118355: You stroll through the open door and straight into a Cyberman heading
+into the room.  Without hesitation it grabs you by the throat.  You hear a
+sickening snap and everything goes black...
+118508: The metal chair is attached to the floor.
+118544: It looks far too uncomfortable for your tastes.
+118611: As you remove the access card from the slot, the bubble turns red and
+the large door slides shut.
+118686: You generally pull levers.
+118719: The door slides shut.
+118739: The door slides open.
+118762: The glass bubble glows red.
+118783: The glass bubble glows green.
+118857: You slip the access card into the slot, but it immediately slides out
+again and into your hand.
+118942: You walk straight into the Cyberman, rebounding onto the floor with a
+thud.  The Cyberman watches you silently as you pick yourself up from the floor
+and dust yourself off.  Once you've composed yourself, the Cyberman deals you a
+quick chop to the neck...
+119139: You hear a muffled voice. "Master?"
+119278: Actually, prison cubicle is a better name for it. The room is tiny, has
+a low ceiling and is devoid of any furniture.
+119566: You walk straight into the Cyberman, rebounding onto the floor with a
+thud.  The Cyberman watches you silently as you pick yourself up from the floor
+and dust yourself off.  Once you've composed yourself, the Cyberman deals you a
+quick chop to the neck...
+119859: It's beyond your reach.
+119892: The plastic device above emits a loud buzzing.
+119942: A loud buzzing comes from the cell to the south.
+119983: A buzzing sound comes from the east.
+120066: A buzzing sound drifts in from the corridor.
+120114: The tiny button is glowing blue.
+120189: You can't reach it from here.
+120222: You can't reach it from here.
+120253: As you push the tiny button, it begins to glow with a blue colour.
+120306: The button becomes dark.
+120514: Through the open doorway, a corridor lies to the north.
+120563: On the south wall is a seamless steel door.
+120594: On the north wall, an open doorway leads to a corridor outside.
+120647: A door to the south has slid open, revealing a tiny chamber within.
+120696: A door to the north has slid open, revealing the corridor outside.
+120755: The door has already slid open.
+120778: There doesn't seem to be any sort of handle on the seamless steel door.
+120838: The steel door is already closed.
+120863: You see no obvious way of closing the steel door.
+120908: There doesn't seem to be any way of unlocking the seamless door.
+120955: You try the sonic screwdriver with every imaginable frequency setting,
+but the door remains closed.
+121054: The glass bubble glows green.
+121077: The glass bubble glows red.
+121254: The black access card slides out of the slot and back into your hand.
+121328: The access card slides easily into the slot.  The glass bubble above
+the slot turns green, and the door silently slides open, revealing a tiny
+chamber to the south.
+121455: A large silvery hand shoots out of the cell and throttles you...
+121572: As you remove the access card from the slot, the bubble turns red and
+the large door slides shut.
+121651: The doorway leads to a small room to the south.
+121686: A corridor is visible through the doorway to the north.
+121731: An open archway on the south wall leads to a small room.
+121798: This small room appears to have no lighting.
+122112: The metal hatch is closed.
+122138: Your hands are too full to climb down the ladder.
+122226: The open door leads into a small dark room.
+122261: The door is closed.
+122326: The screen is blank.
+122430: The screen is blank.
+122538: You PUSH a push-button.
+122602: From somewhere in the distance you hear a peculiar high-pitched squeal.
+122655: A picture appears on the left screen.
+122692: The left screen goes blank.
+122713: Nothing happens.
+122738: You PUSH a push-button.
+122802: You hear a peculiar high-pitched squeal coming from the corridor
+outside.
+122857: A picture appears on the right screen.
+122896: The right screen goes blank.
+122917: Nothing happens.
+123055: "Please untie me first, Master!"
+123111: cuefpn into the disposal unit, the machine springs to life, producing
+an assortment of abrasive sounds as it digests its meal. After a few moments,
+the disposal unit grinds to a halt.
+123599: "Please untie me first, Master!"
+123897: Some gleaming gold powder trickles out of the broken end of the pipe
+and into the open pouch beneath.
+123998: Some gleaming gold powder trickles out of the broken end of the pipe,
+over the full pouch and is quickly swept away by the corridor's ventilating
+system.
+124126: Some gleaming gold powder trickles out of the broken end of the pipe,
+over the closed pouch and is quickly swept away by the corridor's ventilating
+system.
+124244: Some gleaming gold powder trickles out of the broken end of the pipe
+and is quickly swept away by the corridor's ventilating system.
+124399: Some fine white powder trickles out of the broken end of the pipe and
+into the open pouch beneath.
+124498: Some fine white powder trickles out of the broken end of the pipe, over
+the full pouch and is quickly swept away by the corridor's ventilating system.
+124624: Some fine white powder trickles out of the broken end of the pipe, over
+the closed pouch and is quickly swept away by the corridor's ventilating
+system.
+124740: Some fine white powder trickles out of the broken end of the pipe and
+is quickly swept away by the corridor's ventilating system.
+124843: It's a metal tube that leads from the side of the disposal unit into
+the wall.
+125094: The pipe shifts a little.
+125113: The pipe is firmly attached to the disposal unit.
+125161: The pipe shifts noticably from the wall.
+125319: The intact end of the pipe is firmly attached to the disposal unit.
+125377: How do you suggest I do that?
+125509: You can't move a hole!
+125532: You see only blackness through the hole.
+125607: Apart from a pipe running into it, there's nothing to notice about this
+wall.
+125662: Apart from a pipe-sized hole, the wall is featureless.
+125743: The torch's batteries are exhausted.
+125805: The torch shines brightly.
+125837: The torch glows faintly.
+125867: The torch shines dimly.
+125933: The light from the torch dims somewhat.
+125976: The light from the torch dims to a faint glow.
+126031: The torch goes out, its batteries exhausted.
+126308: You bump your head on the closed hatch.
+126342: Your hands are too full to climb up the ladder.
+126399: Light streams in from the open hatch above.
+126447: The open hatch reveals a ladder leading down into darkness.
+126490: The metal hatch is closed.
+126526: A ladder leads up to an open hatch above.
+126569: There is an open hatch in the floor here.
+126614: A ladder leads up to a closed metal hatch above.
+126661: There is a closed metal hatch in the floor here.
+126720: The heavy metal hatch creaks open revealing a ladder leading down into
+darkness.
+126803: Light streams in as the heavy metal hatch creaks open.
+126850: The metal hatch creaks open.
+126960: The hatch won't close with the scarf sticking through it.
+127034: The hatch won't close with the long rope sticking through it.
+127079: The heavy metal hatch swings shut with a bang.
+127217: Looking through the open hatch, you see only the ceiling of the room
+above.
+127312: Looking through the open hatch, you see only darkness.
+127594: You can't see any ladder here.
+127622: The ladder leads up to the open hatch above.
+127660: The ladder leads up the closed hatch above.
+127702: You can't see any such thing.
+127747: What ladder?
+127758: The ladder is firmly fixed in place.
+127799: You climb down the ladder...
+127835: You climb up the ladder...
+128096: You bump your head on the closed hatch.
+128130: Your hands are too full to climb up the ladder.
+128192: You pull on the hatch, but it refuses to open.
+128239: You push up on the hatch with all your weight, but it refuses to open.
+128307: The heavy metal hatch creaks open revealing a ladder leading down into
+darkness.
+128376: Light streams in as the heavy metal hatch creaks open.
+128457: The hatch doesn't need to be unlocked.
+128491: The locking mechanism of this hatch appears too sophisticated for even
+the sonic screwdriver.
+128632: The hatch won't close with the scarf sticking through it.
+128706: The hatch won't close with the long rope sticking through it.
+128751: The heavy metal hatch swings shut with a bang.
+129339: There's not much space here, and you have to bend down a little to
+avoid hitting your head on the floor plate above you.
+129592: uxm
+A glint from above makes you look up sharply.  Two Cybermen
+effortlessly step over the gap above your head and disappear into the reactor
+chamber.
+129713: You glimpse two silvery figures disappearing into the west shaft.
+129805: A thick cable runs out of the top of the box and disappears into the
+floor above you.
+129936: The metal box is now nothing more than a squarish lump of melted metal.
+129997: There is a small metal box attached to the wall here.
+130036: What used to be a small metal box is attached to the wall here.
+130094: The box is little more than a blob of twisted metal.
+130180: You hear a satisfying clunk coming from within.
+130228: The box is little more than a blob of twisted metal.
+130278: The box is little more than a blob of twisted metal.
+130328: The box is little more than a blob of twisted metal.
+130376: You re-lock the metal box.
+130412: The box is little more than a blob of twisted metal.
+130519: Each of the four wires within the box have a different colour: red,
+blue, green and yellow.
+130716: You'll have to cut them one at a time.
+130759: The wires are firmly attached in the box.
+130871: It's firmly attached inside the box.
+131003: You decide that it would be best to cut only as many wires as are
+necessary.
+131092: You bump your head on the closed hatch.
+131126: Your hands are too full to climb up the ladder.
+131212: You bump your head on the closed hatch.
+131246: Your hands are too full to climb up the ladder.
+131317: The heavy metal hatch creaks open revealing a ladder leading down into
+darkness.
+131418: There seems to be something blocking it from above.
+131465: You push up on the hatch, but it is being held down by some unseen
+force.
+131523: Light streams in as the heavy metal hatch creaks open.
+131658: Looking up you can see the ceiling of the corridor above you.
+131732: You bump your head on the closed hatch.
+131766: Your hands are too full to climb up the ladder.
+131971: A metal wheel is situated in the center of the door.
+132018: The closed door looks like it could withstand anything.
+132125: The side of the door facing the corridor has a metal wheel on it.
+132183: The door already stands open.
+132210: The door won't budge.
+132234: You push the heavy door open.
+132265: You strain as you pull the heavy door open.
+132306: The door is already closed.
+132332: Straining, you pull the heavy door shut with a loud clang.
+132380: You slowly push the heavy door shut with a loud clang.
+132434: The door is already open.
+132458: The door appears impervious to your sonic screwdriver.
+132497: There doesn't seem to be any lock on the door.
+132541: Why lock an open door?
+132558: There doesn't seem to be any way to lock the door.
+132618: You strain as you push the heavy door open.
+132662: You push the heavy door shut with a loud clang.
+132701: The door has already been pushed open.
+132730: The solid door won't budge.
+132774: You pull the heavy door shut with a loud clang.
+132822: Straining, you pull the heavy door open.
+132857: The door has already been pulled open.
+132886: The solid door doesn't budge.
+132913: The door won't budge.
+133007: The wheel sits in the middle of the metal door.
+133047: The wheel isn't on this side of the door.
+133092: The wheel isn't on this side of the door.
+133132: The wheel won't budge.
+133155: The wheel won't budge.
+133180: The wheel won't budge.
+133212: The wheel is very stiff, but you manage to turn it.
+133255: Usually, wheels turn.
+133283: You push the button.
+133304: You push the button.
+133327: You push the button.
+133493: Buttons are pushed, never pulled.
+133526: The light glows red.
+133543: The light glows green.
+133575: The light is immovable.
+133602: Usually, levers are pulled.
+133637: You pull on the lever with all your might, but cannot shift it.
+133720: You pull the lever.
+133746: You pull the lever.
+133780: The bay doors are far too heavy.
+133809: The bay doors are already closed.
+133861: "The Brain of Morbius, if you please, Doctor."
+133996: Please release Morbius' brain into my possession."
+134046: The Timelord looks at you expectantly.
+134079: The Timelord looks impatient.
+134134: "The Brain please, Doctor."
+134230: The Brain, if you please."
+134302: "We must have the Brain, Doctor."
+134359: You're on Gallifrey.
+134443: The Brain, if you please."
+134481: On top of the smouldering heap of metal is a battery.
+134520: It's a smouldering heap of metal.
+134559: The pipe is firmly attached.
+134586: How do you suggest I do that?
+134614: Tugging at the pipe does not prove to be helpful.
+134667: The pipe is firmly attached.
+134694: How do you suggest I do that?
+134721: You tug at the pipe, but to no avail.
+134794: Light streams in from the corridor above.
+134971: The catch which usually keeps it in position has been released, and the
+plate is being held up only by a withered branch which has been propped up
+underneath it.
+135091: A withered branch is jammed between the shaft floor and the plate
+above.
+135147: The floor plate above has been swung downwards, flooding this part of
+the shaft with light.
+135229: The plate is already open.
+135259: You'll have to remove the branch first.
+135288: The floor plate will only open when its catch has been released.
+135344: It's already closed.
+135369: You push on the plate and the catch snaps back into place.
+135419: When you swing the plate back upwards, the catch snaps back.
+135469: The floor plate is far too large to be carried.
+135513: The floor plate is now just a twisted sheet of metal and can't be
+moved.
+135573: The catch is nothing more than a melted blob of metal.
+135627: You'd sooner not touch the body parts.
+135676: The catch has already been released.
+135798: The branch snaps in two under the weight of panel as it swings
+downwards...
+135876: When you release the catch, the plate remains in the upright position,
+propped up by the withered branch.
+136088: The catch is already engaged.
+136111: The catch will automatically click into place when you close the plate.
+136173: The floor plate above you is blank and featureless.
+136210: The floor plate above you is blank and featureless apart from a hatch
+in its center.
+136402: You immediately recognize the landmine to be of Cybertechnology, an
+explosive device constructed too well by the Cybermen.
+136519: Unfortunately, you seem to have landed directly on a live landmine. 
+You are enveloped in fire as it explodes with a loud boom.  Incidentally, this
+is fatal...
+136651: Dropping a live landmine is never a good idea.  In fact, it's a fatal
+idea...
+136750: cuefpn on top of the live landmine, setting it off.  Unfortunately, you
+were caught in the explosion...
+136877: Stepping onto a live lindmine is never a good idea.  In fact, it's a
+fatal idea...
+137002: It's glowing blue.
+137017: It's glowing yellow.
+137100: You PUSH a push-button.
+137126: It's a small "Galactic Glitter" firework
+137165: Its fuse is burning.
+137211: It's already lit.
+137230: The firework is too soggy to be lit.
+137284: You light the firework in the Flame of Life, and the fuse sparkles
+brightly.
+137395: You'll have to light the match first.
+137448: The fuse sparkles brightly.
+137481: The button on the plastic device flickers.
+137545: The firework fizzles out.
+137622: You drop the Galactic Glitter with a yelp as the fuse burns down to
+your hand.
+137707: You hear a loud bang sound as the Galactic Glitter erupts in rainbow of
+colour.
+137777: You hear a loud bang.
+137836: The plastic device above you starts making a loud buzzing sound.
+137889: You hear a bang from the east.
+137918: You hear a faint bang to the east.
+138011: You have to be holding the match first.
+138044: It's already burnt out.
+138067: The match is already alight.
+138136: The match flares up brightly as you strike it against the ground.
+138195: The match flares up brightly as you strike it against the floor.
+138404: The match blows out.
+138554: The glass bubble is glowing blue.
+138579: The glass bubble is glowing yellow.
+138623: It's firmly attached to the wall.
+138654: There's no switch for it.
+138678: The metal box is attached to the wall.
+138903: As you turn on your sonic screwdriver a voice comes from somewhere
+within the tank.  "What are you doing?  Who are you?  Are you a spy?  My
+brothers have not left me defenceless!"  The glass bubble on the wall starts
+flashing.  Smelling something, you look down at the floor to see your shoes
+smoking.  The floor has become electrified!  Before you can move to safety, a
+vast charge of electricity flows through your body, killing you...
+139255: You hear a satisfying clunk coming from within.
+139307: You re-lock the metal box.
+139402: Each of the four wires within the box have a different colour: red,
+blue, green and yellow.
+139630: You'll have to cut them one at a time.
+139673: The wires are firmly attached in the box.
+139783: It's firmly attached inside the box.
+139939: , the glass bubble on the wall starts flashing.  Smelling something,
+you look down at the floor to see your shoes smoking.  The floor has become
+electrified!  Before you can move to safety, a vast charge of electricity flows
+through your body, killing you.  If only you had known for certain which wire
+to cut...
+140173: On the raised dias sits a large tank, beside which some apparatus is
+attached by a thick cable.
+141065: The tank appears to be attached to the dias.
+141108: You've already opened the cylindrical tank.
+141149: As you lift the top of the tank, the glass bubble on the wall starts
+flashing.  Smelling something, you look down at the floor to see your shoes
+smoking.  The floor has become electrified!  Before you can move to safety, a
+vast charge of electricity flows through your body, killing you...
+141359: The top of the tank creaks open.
+141393: The tank is already closed.
+141417: The top of the tank closes with a bang.
+141623: The cylindrical tank is half-filled with a sickly green fluid.
+141678: The cylindrical tank is closed.
+141834: Fluid drips from the lifeless brain as you remove it from the tank.
+141934: It's a thick green fluid.
+142043: The cylindrical tank is closed.
+142088: The cylindrical tank is closed.
+142134: The cylindrical tank is closed.
+142169: The cylindrical tank is closed.
+142192: What a stench!
+142216: The cylindrical tank is closed.
+142239: You decide that there are better things in the universe to drink.
+142297: The cylindrical tank is closed.
+142320: Revolting!
+142416: It's a rather large brain, you've always thought.
+142462: The Brain of Morbius sits lifelessly within the tank, immersed in
+sickly metabolic fluid.
+142527: The Brain of Morbius is still and lifeless.
+142574: The brain is lifeless and still.
+142602: A voice comes from within the tank.  "I recognize that voice! Doctor,
+what are you doing here?  No matter, my brothers have not left me defenceless!"
+ The glass bubble on the wall starts flashing.  Smelling something, you look
+down at the floor to see your shoes smoking.  The floor has become electrified!
+ Before you can move to safety, a vast charge of electricity flows through your
+body, killing you...
+142902: The brain is lifeless and still.
+142930: A voice comes from within the tank.
+  "I recognize that voice! Is that
+you, Doctor? what are you doing here?  No matter, my brothers have not left me
+defenceless!"  The glass bubble on the wall starts flashing.  Smelling
+something, you look down at the floor to see your shoes smoking.  The floor has
+become electrified!  Before you can move to safety, a vast charge of
+electricity flows through your body, killing you...
+143258: ipm
+A voice comes from somewhere within the tank.  "Is somebody there?"
+143321: A voice comes from somewhere within the tank.  "Have we reached Telos
+yet?"
+143388: A voice comes from somewhere within the tank.  "Soon, my brother, I
+shall become your new Controller.  Then the Universe shall beg for mercy."
+143503: A voice comes from somewhere inside the tank.  "When it is learned that
+I, Morbius, have returned from the grave, my followers will rise up in the
+thousands.  We shall have a huge army eager to become Cybermen."
+143666: A voice comes from somewhere within the tank.  "Guard, do you hear me?"
+143731: A voice comes from somewhere within the tank.  "Who's there?  Why do
+you not answer me?"
+143811: A voice comes from somewhere within the tank.  "You must be a spy! My
+brothers have not left me defenceless!"  The glass bubble on the wall starts
+flashing.  Smelling something, you look down at the floor to see your shoes
+smoking.  The floor has become electrified!  Before you can move to safety, a
+vast charge of electricity flows through your body, killing you...
+144106: The respirator is too heavy to be moved.
+144389: You can't shift it.
+144410: It has no hinges.
+144453: Even the sonic screwdriver can't alter that.
+144486: It's not locked, just welded into place.
+144521: You find nothing interesting.
+144576: It's firmly connected to both the respirator and the tank.
+144660: You haven't a hope of cutting it.
+144694: You push the gold dust about a little.
+144952: After a few moments, the brain stops pulsating and sinks lifelessly to
+the bottom of the tank.
+145026: You push the powder about a little.
+145113: You hear the door just to east slide open.  You catch your breath as
+you see a Cyberman emerge from the open door.  Luckily, it hasn't seen you and
+heads down the corridor to the east.
+145257: Without warning the door to the north slides open, revealing a Cyberman
+within.  Before you have time to react, the Cyberman has painfully gripped your
+arm.  You squirm helplessly as it raises its other arm, bringing it down upon
+your shoulder with a terrible thud...
+145455: Just to the west, you hear a door sliding open.  You freeze as you see
+a Cyberman emerging from the open door and march straight towards you!
+145564: ihm
+You can hear heavy footsteps in the corridor.  They're getting
+louder.
+145660: At the very end of the corridor to the east, you see a Cyberman peering
+through the open cell door.
+145741: The Cyberman is peering through the open cell door to the east.
+145801: A Cyberman enters this part of the corridor from the west.  You try to
+dodge around it, but it reacts too quickly.  You gasp for air as its icy metal
+hands clamp tightly around your neck...
+145945: A Cyberman is standing right outside the open cell door!
+146027: At the end of the corridor, you can see a Cyberman disappearing into
+the prison cell.
+146098: The Cyberman disappears into the prison cell to the east.
+146151: The Cyberman goes through the open prison cell door to the south and
+looks up at the plastic device on the ceiling.
+146245: The Cyberman steps quickly into the cell.  Unfortunately, you have no
+place to run...
+146336: Inside the cell to the south, the Cyberman has removed the plastic
+device from the ceiling.  The device ceases its buzzing.
+146435: The buzzing sound from the cell ceases.
+146474: The buzzing sound from the east ceases.
+146512: The buzzing sound ceases.
+146546: As you enter the prison cell, the Cyberman whirls around to face you.
+You spin around and try to run back into the corridor, but the Cyberman points
+a three-fingered hand in your direction and you feel yourself enveloped in
+electric death...
+146761: As you enter the prison cell, the Cyberman whirls around to face you.
+You spin around and try to run back into the corridor, but the Cyberman points
+a three-fingered hand in your direction and you feel yourself enveloped in
+electric death...
+146942: You push yourself flat against the wall as the Cyberman emerges from
+the cell.  The last thing you feel is its icy steel grip on your throat...
+147052: To the east, you see a Cyberman emerge from the open cell door and head
+in your direction.
+147127: At the end of the corridor, you see a Cyberman emerging from an open
+door.
+147197: In the corridor outside, you hear footsteps coming your way.
+147286: The Cyberman walks straight into you, knocking you down.  Looking up
+you see its three-fingered hand pointing at your face.  A blinding flash erupts
+from its fingers and everything goes black...
+147484: A Cyberman is just outside the door!
+147557: A Cyberman enters the door to the east and it slides shut.
+147618: The door on the south wall slides open and a Cyberman enters the room. 
+Upon seeing you, it immediately points a three-fingered hand in your direction.
+Sparks erupt from the tips of its fingers and envelop you in electric death...
+147785: The Cyberman enters the room.  Upon seeing you, it immediately points a
+three-fingered hand in your direction. Sparks erupt from the tips of its
+fingers and envelop you in electric death...
+147954: A Galactic servant, that's what you feel like at the moment.  You'd
+think that the Timelords would be pleased that you were not only responsible
+for discovering that Morbius' brain had been secretly kept alive, but that you
+were instrumental in destroying the revived villian.  Do they offer you their
+gratitude?  No, they merely point out that you left the Brain of Morbius on
+Karn and demand that you retrieve it and bring it back to Gallifrey.  That's
+gratitude for you.
+
+However, as you value your own freedom, you really don't
+have much choice but to do as the Timelords request.  At least they gave you
+the coordinates for Karn, but you did notice that they refused to give you
+return coordinates for Gallifrey, saying you'd receive them once you'd procured
+the brain.  So much for Gallifreyan hospitality...
+
+Your thoughts are
+interrupted as you hear a familiar thud.  The TARDIS has landed on Karn.
+150584: FOLLOW ME
+     SHOW THE TICKLE STICK TO SUTEKH
+     GIVE THE LIGHT
+SPEED OVERDRIVE TO ZOE
+     SAY "YES"
+
+Compound commands can be created by
+connecting single commands (like those above) with "THEN" or the punctuation
+symbol "." to connect two or more separate commands.
+
+Below are a few examples
+of valid compound commands:
+
+     TAKE THE THERMAL LANCE THEN PUT IT IN THE
+TOOLKIT
+     PRESS THE GREEN BUTTON.  TURN THE KNOB.
+
+If the game understands
+all of the words in your command, but still seems confused by the command --
+then try to say the same thing using fewer words and a simpler sentence.  When
+in doubt, simplify your commands as much as possible.  This also saves typing
+effort.
+
+
+SPECIAL COMMANDS:
+
+The game uses a number of special commands for
+various "housekeeping" chores.  These are all pretty standard for most
+adventure games, specifically:
+
+HELP           Brings up these
+instructions.
+SCORE          Will summarize your progress, so far.
+INVENTORY   
+  Will display a list of the items you are
+               carrying, and those
+items you are wearing.
+               (also: I)
+BRIEF          Will cause
+location descriptions to be brief.
+VERBOSE        Will cause location
+descriptions to be 
+               verbose.
+
+LOOK           Will give you a
+full (verbose) description of 
+               your current location.
+SAVE      
+    Will save the current game status on disk.
+RESTORE        Will restore a
+previously saved game from 
+               disk.
+QUIT           Quits the
+current game session.  Always exit 
+               using QUIT
+RESTART       
+Restarts the game from the very beginning
+
+Overall, just type in simple english
+phrases (e.g. PUT BATTERY IN COMPARTMENT) and worry about correct phrasing if
+the game has any difficulty understanding you.
+152014: BACKGROUND INFORMATION: "THE BRAIN OF MORBIUS"
+152140: This game is based on the characters and circumstances first presented
+in the Doctor Who television serial "The Brain of Morbius" written by Robin
+Bland (a pseudonym for Terrance Dicks and Robert Holmes), directed by
+Christopher Barry and starring Tom Baker as Dr. Who.  First broadcast January 3
+- January 24, 1976.
+152383: Morbius was once the leader of the High Council of the Timelords (the
+Doctor's race from the planet Gallifrey).  Using his exalted position, he tried
+to lead the Timelords down a path towards destruction and conquest.  He
+promised eternal life to his fanatical followers (who numbered in the millions)
+and came to the planet Karn to seize the Elixir of Life from the Sisterhood.
+152656: The Sisterhood guard and worship the Sacred Flame of Life, which
+produces the Elixir of Life through a chemical reaction of volcanic gases and
+heat, resulting in a clear liquid which the Sisterhood collect and ingest in
+order to extend their lives indefinitely.  Uniquely in the galaxy, the
+Sisterhood are equal to the Timelords in terms of mental prowess, and in the
+past Timelords had use of the elixir occassionally.  The Sisterhood tolerate
+the Timelords as they fear their power, but they remain skeptical of all
+outsiders, assuming all visitors to Karn come to steal the Elixir.
+153069: Eventually, the Timelords caught up with Morbius on Karn, but not
+before the entire civilization of the planet was destroyed by his fanatical
+search for the Elixir.  The Sisterhood was involved in Morbius' capture, and
+many people came to Karn to witness his trial. Morbius was seemingly destroyed
+in a dispersal chamber.
+153300: When the Doctor originally arrived on Karn, he discovered that the
+brilliant neurosurgeon Solon had somehow stolen Morbius' brain before his body
+was destroyed, and had kept it secretly alive in a tank in his laboratory while
+he tried to create a viable body to support the brain.  Eventually, Morbius was
+ressurected in a grotesque bodily form constructed of the body parts of several
+different creatures.  Aided by the Sisterhood, the Doctor managed to discover
+Solon's plot.  Both Solon and Morbius were killed.  The last we saw of Morbius
+was his plunge to a certain death over a high clifftop on Karn.
+153945: Special thanks to Geoff Blakey, Richard Clarke, Sarah Goddard,
+Christopher Heer, Doug Lintott, Brian Palicia, David Picton, Richard Poser and
+David Robinson for their invaluable help in play-testing, bug reports and
+general feedback.
+154892: by Patrick Wigfull
+Based on the television programme "Doctor Who"
+ 
+Type "help" for general instructions.
+  Type "background" for information about
+the "The Brain of Morbius".
+  Type "about" for information about this program.
+155084: You can't go that way.
+155160: It is pitch dark, and you can't see a thing.
+155192: As good-looking as ever.
+155416: This hat certainly looks well-travelled.
+155448: Perhaps some mothballs are in order.
+155496: This multi-coloured scarf is incredibly long, at least twenty feet in
+length.
+155552: The rope dangles a few feet beyond your reach.
+155608: A prime example of movement in the first dimension.
+155872: The time rotor is a glass column within which delicate crystalline
+mechanisms silently glow.
+155944: It's a big red lever!
+155994: Marked in large letters is the word "Engage".
+156162: An open doorway to the north leads to a storage room.
+156222: You'll only get lost (again).
+156248: It's a fair-sized wooden workbench.
+156276: Your workbench dominates the center of the room.
+156472: It appears to be made of gold.
+156500: You gaze fondly upon your sonic screwdriver which has saved your life
+on innumerable occassions.
+156632: The TARDIS sits reassuringly nearby.
+156664: Unclimbable rock prevents you from going in that direction.
+156768: A clearing lies to the southeast, and a stoney trail leads upwards to
+the west.
+156824: Unclimbable rock prevents you from going in that direction.
+156868: You're on a trail which winds its way through the side of the mountain.
+A clearing is visible to the west and the trail continues to the southeast.
+156972: Unclimbable rock prevents you from going in that direction.
+157068: The trail narrows to the northwest.
+157096: Unclimbable rock prevents you from going in that direction.
+157140: You nervously put one foot into the lake's water but immediately jump
+back the water makes your shoe bubble and begin to melt!
+157228: Unclimbable rock prevents you from going in that direction.
+157272: The lake water emits some kind of fluorescent green glow, shimmering in
+the dim light.
+157408: The sides of the mountain are far too steep for climbing.
+157452: The scarf dangles a few feet beyond your reach.
+157488: The ledge is about 30 feet up the side of the mountain.
+157532: The scorch marks are arranged in such a position to indicate that a
+spacecraft has taken off from here.
+157604: There are scorch marks on the ground here.
+157640: The scarf dangles down from the ledge above.
+157672: The trail continues up the mountain to the east, and downwards to the
+southwest.
+157728: Unclimbable rock prevents you from going in that direction.
+157772: The trail continues up the mountain to the northeast, and downwards to
+the west.
+157828: Unclimbable rock prevents you from going in that direction.
+157940: Two trails lead down the mountain to the southwest and the east.
+157984: Unclimbable rock prevents you from going in that direction.
+158028: The trail continues up the mountain to the west, and downwards to the
+east.
+158080: Unclimbable rock prevents you from going in that direction.
+158158: The trail widens to the southeast.
+158184: Unclimbable rock prevents you from going in that direction.
+158228: The solitary form of a blackened tree stands beside the trail.
+158364: Unclimbable rock prevents you from going in that direction.
+158478: A narrow cleft runs into the cliff base to the east.
+158516: Unclimbable rock prevents you from going in that direction.
+158560: The vast cliff stretches upwards as far as you can see.
+158726: you sense a slight psychic twinge in the air. This looks like the work
+of the Sisterhood.
+158792: It's a huge pile of rubble, the remains of Solon's castle.
+158836: It's a pretty standard scalpel, used by any surgeon.
+158876: Amongst the rubble, you see the glint of a scalpel.
+158916: The steps are crudely carved into the side of the mountain itself.
+159004: The trail leads downhill to the east and climbs steeply to the south.
+159052: The terrain is too rocky in that direction.
+159084: The trail levels off here, banking downwards steeply to the north and
+south climbing sharply upwards to the east.
+159164: The terrain is too rocky in that direction.
+159196: The drop downwards would surely be fatal.
+159228: You can't fly.
+159240: You'd drop off the side of the plateau if you went that direction.
+159436: Against the western rockface stands a massive boulder.
+159476: The stone glistens as light reflects from its silvery surface.
+159520: You gaze stonily at it.
+159540: The passageway has been carved into the western rockface.
+159580: A dark passage leads into the western rockface.
+159616: You're in a dim passage which leads into the rockface itself. Light
+streams in from an opening to the east, while the passage continues to the
+south.
+159866: A trail leads northwards.
+159916: The landscape is too rocky in that direction.
+159948: The huge doors are ornamentally carved out of thick oak.
+159988: The door is closed.
+160004: The tapestry is made of thick rich cloth, and is decorated with what
+looks like gold.
+160064: The wooden door is closed.
+160116: Temple lies to the south, and the doors leading out of the Temple are
+to the north.
+160176: The huge doors are ornamentally carved out of thick oak.
+160216: The Flame burns brightly, heating the rock above it.
+160256: The Flame of Life burns brightly behind an open shield, flooding the
+room with golden flickering light.
+160328: Your face is reflected in the silver fluid.
+160360: The small ledge is situated just below the shield, allowing any Elixir
+the Flame produces to be caught in the golden chalice.
+160448: It's a plain colourless liquid.
+160472: It's a murky liquid.
+160524: From your previous visit, you know that the Flame of Life is behind
+that shield.
+160584: You recognize the chalice to be the cup from which the Sisterhood drink
+the Elixir of Life.
+160648: Although she appears quite young, Ohica, like all of the Sisterhood,
+has extended her life indefinitely by drinking the Elixir of Life.
+160810: Beside the reactor, you can see a control bank.
+160848: It's just a simple switch.
+160930: A corridor is visible to the east.
+160964: The rope is at least fifteen feet long.
+160992: The corridor terminates here, stretching back to the east.
+161036: It's a rather unremarkable metal table.
+161064: You're in a metal corridor that stretches east and west.
+161104: The corridor reaches a junction here, stretching north, east and west.
+161200: You also notice what looks like a laser cannon beneath the lens.
+161244: In the ceiling you can see some sort of sensor.
+161280: It looks like the hole has been blasted into the ceiling.
+161320: There's a hole in the ceiling here.
+161348: The corridor turns sharply here, leading west and south.
+161388: The corridor terminates here, leading back to the north.
+161464: There's a small room to the west.
+161536: You also notice what looks like a laser cannon beneath the lens.
+161580: In the ceiling you can see some sort of sensor.
+161616: It looks like the hole has been blasted into the ceiling.
+161656: There's a hole in the ceiling here.
+161684: You're in an east-west corridor.
+161812: A rather uncomfortable-looking metal chair sits before the control
+panel.
+161864: The control panel houses a confusing array of complex instruments and
+controls.
+161920: The controls look incredibly complex.
+162040: It looks rather uncomfortable.
+162064: It's a thin plastic card, about the size and shape of a Gallifreyan
+Express credit card.
+162180: The corridor terminates here but leads back to the west.
+162220: It's a thin plastic card, about the size and shape of a Gallifreyan
+Express credit card.
+162284: It's a simple push-button.
+162304: It's a simple push-button.
+162410: Items to be disposed are put into the unit and the machine grinds them
+into their consituent elements.
+162480: Against one wall, you can see a disposal unit.
+162516: It's a pipe-sized hole in the wall.
+162544: Each of the four wires within the box have a different colour: red,
+blue, green and yellow.
+163216: The shaft stretches out to the northwest and east.
+163404: It's an ordinary-looking push-button.
+163432: It certainly is a lever.
+163452: The bay doors are massive, large enough to allow the passage of a small
+spacecraft.
+163576: The room is so dimly lit that it's impossible to see the walls of the
+chamber.
+163664: Like most of his peers, his face shows no signs of emotion.
+163708: A Timelord stands here, looking expectantly at you.
+163748: It's a metal tube that leads from the side of the disposal unit into
+the wall.
+163804: It's a metal tube that leads from the side of the disposal unit into
+the wall.
+163864: The hinges allow the floor plate to swing downwards.
+163900: The floor plate is now just a twisted sheet of melted metal.
+163944: The catch is now a melted lump of metal.
+163972: The hinges are now a melted lump of metal.
+164004: Quite repulsive.
+164016: The floor is littered with large silver body parts.
+164190: It's about half a meter long.
+164238: It's about a meter long.
+164280: A firework lies on the dusty ground.
+164312: An unlit match lies discarded on the floor.
+164446: A thick cable leads from this respirator to the tank beside it on the
+dias.
+164504: A steel grill covers the intake vent.
+164548: No doubt about it.
+164564: The thick cable connects the tank to the respirator beside it.
+164608: The gold dust glitters richly.
+164632: Finely-ground white powder.
+
+

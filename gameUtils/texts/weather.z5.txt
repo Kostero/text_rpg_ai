@@ -1,0 +1,1176 @@
+11518: [You can't "undo" what hasn't been done!]
+11559: kdy   gpm[Your interpreter does not provide "undo".  Sorry!]
+11624: fpm[Can't "undo" twice in succession.  Sorry!]
+11801: Sorry, that can't be corrected.
+11836: Think nothing of it.
+11859: d."Oops" can only correct a single word.
+12060: Dea KpmTo repeat a command like "frog, jump", just say "again", not
+"frog, again".
+12141: You can hardly repeat that.
+12371: You can't begin with a comma.
+12428: You seem to want to talk to someone, but I can't see whom.
+12519: To talk to someone, try "someone, hello" or some such.
+14160: I didn't understand that sentence.
+14267: You can't see any such thing.
+14300: You seem to have said too little!
+14332: You aren't holding that!
+14361: You can't use multiple objects with that verb.
+14401: You can only use multiple objects once on a line.
+14480: You excepted something not included anyway!
+14518: You can only do that to something animate.
+14556: That's not a verb I recognise.
+14586: That's not something you need to refer to in the course of this game.
+14642: You can't see "
+14687: I didn't understand the way that finished.
+14808: There are none at all available!
+14838: I didn't understand that number.
+17594: Sorry, you can only have one item here.  Which one exactly?
+25382: At the moment, "it"
+25454: and "me" means
+25481: exn** Player objects must have "number" prop **
+25828: It is dark.
+25849: It's too dark to see.
+25876: Already on the ground.
+25905: Thrown.
+25912: Dropped.
+25926: You can't usefully blow on that.
+28761: M.
+33370: I beg your pardon?
+33433: Nothing to do!
+33449: . You have died
+33758: Please give one of the answers above.
+33852: Please answer yes or no.
+33872: Are you sure you want to quit?
+33906: Are you sure you want to restart?
+33932: Failed.
+33949: Restore failed.
+33962: Ok.
+33977: Save failed.
+33988: Ok.
+34003: The game file has verified as intact.
+34030: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+34205: Transcripting is already off.
+34228: End of transcript.
+34250: Score notification on.
+34272: Score notification off.
+34509: You are carrying nothing.
+34552: Taken.
+34564: You are always self-possessed.
+34684: You already have that.
+34772: That isn't available.
+34815: That's hardly portable.
+34839: That's fixed in place.
+34863: You're carrying too many things already.
+34939: Already on the floor.
+34961: You haven't got that.
+35004: Dropped.
+35049: But it isn't there now.
+35073: You'll need to take it off first.
+35098: Removed.
+35117: You need to be holding it before you can put it on top of something
+else.
+35173: You can't put something on top of itself.
+35251: You lack the dexterity.
+35331: Done.
+35373: You need to be holding it before you can put it into something else.
+35453: Alas, it is closed.
+35475: You'll need to take it off first.
+35505: You can't put something inside itself.
+35595: Done.
+35637: That isn't in your possession.
+35660: First pick that up.
+35942: That's not something you can enter.
+36010: You can only get into something on the floor.
+36112: But you aren't in anything at the moment.
+36181: You are on your own two feet again.
+36213: You'll have to say which compass direction to go in.
+36314: You can't go that way.
+36473: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+36575: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+36663: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+37066: But it's dark.
+37079: You find nothing of interest.
+37112: But it's dark.
+37202: You find nothing of interest.
+37230: You can't see inside, since it is closed.
+37329: That doesn't seem to be something you can unlock.
+37371: It's unlocked at the moment.
+37399: That doesn't seem to fit the lock.
+37453: That doesn't seem to be something you can lock.
+37519: First you'll have to close it.
+37547: That doesn't seem to fit the lock.
+37601: That's not something you can switch.
+37633: That's already on.
+37677: That's not something you can switch.
+37709: That's already off.
+37755: That's not something you can open.
+37787: It seems to be locked.
+37809: It's already open.
+37917: That's not something you can close.
+37949: It's already closed.
+37993: You're not wearing that.
+38041: You can't wear that!
+38063: You're not holding that!
+38087: You're already wearing that!
+38137: That's plainly inedible.
+38170: Not bad.
+38186: That was a rhetorical question.
+38214: This dangerous act would achieve little.
+38248: Nothing practical results from your prayer.
+38284: The dreadful truth is, this is not a dream.
+38322: That seems unnecessary.
+38372: What a good idea.
+38392: You smell nothing unexpected.
+38446: You taste nothing unexpected.
+38500: You feel nothing unexpected.
+38526: Digging would achieve nothing here.
+38558: Cutting that up would achieve little.
+38590: You jump on the spot, fruitlessly.
+38624: You would achieve nothing by this.
+38654: There's nothing suitable to drink here.
+38688: But there's no water here to carry.
+38720: Violence isn't the answer to this one.
+38754: There's not enough water to swim in.
+38786: There's nothing sensible to swing here.
+38820: You can't usefully blow that.
+38874: No, you can't set that.
+38898: No, you can't set that to anything.
+38961: But you aren't holding that.
+39026: It is fixed in place.
+39048: You are unable to.
+39063: Nothing obvious happens.
+39092: Is that the best you can think of?
+39122: That's not a direction.
+39141: Not that way you can't.
+39191: You achieve nothing by this.
+39222: Futile.
+39229: You lack the nerve when it comes to the crucial moment.
+39278: You talk to yourself a while.
+39301: This provokes no reaction.
+39329: There is no reply.
+39349: Nothing is on sale.
+39395: I don't think much is to be achieved by that.
+39433: Time passes.
+39449: You aren't feeling especially drowsy.
+39534: Sitting around won't speed matters.
+39578: You smell old dirt and, perhaps, things that once lived in here.
+39647: You're not asleep.
+39662: You're certain you're not asleep.
+39752: You hear the rushing of the stream.
+39793: You hear the rushing of the unseen stream.
+39834: It's not even dark yet!
+39858: You're not feeling tired yet.
+39886: You just woke up!
+39937: Sleeping out in the rain would be miserable.
+40015: Sleeping out in the rain will be miserable, but you're tired enough to
+do it.
+40078: a. You take the wet blanket (much good it will do.) Wrapping yourself
+soggily, you curl up in the mud,
+40285: You awaken, soaked and feverish, bathed in the listless light of an
+overcast dawn. It takes some time to drag yourself down the hill -- and then
+you find that the bridge has been washed out by the storm. By the time you
+flounder across it, your pneumonia is well set in.
+40490: You curl yourself up as best you can.
+40522: It's dry in here, but you're still cold. You even wish you still had
+that ratty blanket.
+40653: Nonetheless, you try to close your eyes...
+40699: You awaken sore and cold, bathed in the listless light of an overcast
+dawn. It takes some time to drag yourself down the hill -- and then you find
+that the bridge has been washed out by the storm. By the time you wade across
+the swollen stream, you're as soaked and miserable as if you'd slept out in the
+rain after all. You reach civilization exhausted and with what promises to be a
+lovely cough.
+41063: curl up on the floor. It's hard, but you're dry and warm. What else
+could you ask for? Your eyes close and the cave drifts away...
+41181: Something awakens you.
+41245: The sun is sinking slowly in a clear blue sky. It's the end of a long,
+long summer afternoon.
+41317: The sun is an orange orb hanging near the horizon.
+41359: A few bands of cloud are visible on the western horizon, lit by the
+reddening sun.
+41423: Clouds are rolling in from the west. The sun is on the horizon, turning
+them to a silent miracle of light.
+41503: The sun is gone; the sky shades smoothly from light blue to deep blue,
+broken by tangles of cloud.
+41579: The sky is dim and misty.
+41603: The sky is cloudy and nearly dark. It's starting to rain.
+41656: It's quite dark, and you can see little through the rain.
+41704: You can see nothing through the rain except for distant flickers of
+lightning.
+41764: The bright clarity of the sky lifts your spirits.
+41860: You stick your head out for a breath of fresh air.
+41902: The air is fragrant with summer.
+41932: The air is fragrant, with a breath of cool damp coming in.
+41980: The air is cooling, with the damp scent of rain in it.
+42024: Everything smells of rain, and wet growing things.
+42066: The air is thick with rain and electricity.
+42102: The dawn air is indescribable.
+42125: The air smells of a combination of cream cheese and A-1 Steak Sauce. You
+are unnerved to find it appetizing. [BUG]
+42219: Metaphorically appealing, but hopeless in practice.
+42335: A no-time, eternal instant of light lances through you, snapping your
+mind to silence.
+42458: Crack!
+42556: You are getting tired.
+42604: You are very tired.
+42719: The sun is lazily approaching the horizon.
+42765: The sun is settling to the horizon, amid a scattering of clouds which
+have begun to drift in.
+42842: People seem to be be packing up to leave. Since they seem as likely as
+not to leave you behind, you hurry back to the group. Eventually some people
+ask you where you've been; you shrug them off irritably, and they leave you
+alone.
+43024: The western horizon has become a surging sea of gold and scarlet waves.
+The light is magical -- a cool bronze radiance that somehow makes the grass and
+foliage more intensely green than ever.
+43172: The moment is gone. The sun has set, although the clouds are still
+well-lit.
+43244: The sky is dimming, and a mist is rolling in, under the clouds.
+43306: The mist is turning to a drizzle of rain.
+43357: It's dark and it's raining.
+43396: It's dark and it's raining. Hard.
+43436: You can remain awake no longer.
+43776: The trickle of runoff coming down the southeast path gains strength.
+Rapidly it becomes a small torrent, pouring by you, out along the trench, and
+down to the stream below.
+43927: The torrent of runoff slackens sharply; in moments there is only a
+trickle left.
+44024: The trickle of runoff coming down the south path gains strength. Rapidly
+it becomes a small torrent.
+44125: The torrent of runoff slackens sharply; in moments there is only a
+trickle left.
+44253: As ehm
+The runoff water is backing up behind the boulder.
+44353: The runoff water begins to spill out from behind the boulder.
+44565: The runoff water is backing up behind the sandbags.
+44607: The runoff water is backing up behind the sandbags. It's up to a curve
+in the path that comes quite close to the stream.
+44782: The runoff water begins to spill out from behind the sandbags.
+44832: The runoff water begins to spill out from behind the sandbags. The pool
+runs up to a curve in the path that comes quite close to the stream.
+44996: The runoff water is backing up behind the torn sandbag.
+45094: The runoff water begins to spill out from behind the torn sandbag.
+45203: The runoff water is backing up behind the dirty sandbag.
+45301: The runoff water begins to spill out from behind the dirty sandbag.
+45413: Sparing you only an unreadable glance, the fox leaps for shore and
+vanishes into the night.
+45478: The side of the bridge sags further, beams bending.
+45522: Crack!
+45532: You stretch your hands helplessly towards the bridge, but the timbers
+are falling, slower and slower, silent behind a freezing roar that rises in
+your mind...
+45688: Crack!
+45698: You know without seeing that the bridge has been destroyed. You begin to
+rush downhill, but the trail seems to stretch and time takes on the weight of
+nightmare...
+45839: The runoff water is pouring down to the stream, right over the bridge
+pilings. The muddy earth below the bridge is wearing away.
+45947: A beam below the bridge suddenly slips from its mooring in the earth! It
+vanishes into the raging current. One side of the bridge begins to sag, bowing
+almost gracefully towards the water.
+46093: The runoff water is pouring down to the stream, right over the bridge
+pilings and your makeshift support. The earth below the bridge continues to
+wear away.
+46219: The bank has melted from under the branch; it slips into the stream and
+is whirled away. The bridge begins to bend once again.
+46353: The trickle of rainwater coming down the east path gains strength.
+Rapidly it becomes a small torrent.
+46456: The torrent of runoff slackens sharply; in moments there is only a
+trickle left.
+46684: The runoff water begins to spill out from behind the boulder.
+46852: The runoff water is backing up behind the sandbags.
+46913: The pool runs several feet up the path, penned in by the rise.
+47039: The runoff water begins to spill out from behind the sandbags.
+47149: The runoff water is backing up behind the torn sandbag.
+47247: The runoff water begins to spill out from behind the torn sandbag.
+47356: The runoff water is backing up behind the dirty sandbag.
+47454: The runoff water begins to spill out from behind the dirty sandbag.
+47538: Runoff water is trickling down the hill, concentrated here by some twist
+of geography. It puddles on the ledge, then begins pouring down the path to the
+northwest.
+47670: Runoff water is trickling down the hill, concentrated here by some twist
+of geography. It puddles on the ledge, behind the fallen tree, then flows
+southwest. [BUG]
+47903: The runoff water begins to spill out from behind the tree, down the
+southwest path.
+48010: . Your eyes explode. [BUG].
+48058: The pure white fades into a greenish glare. Flat colored shadows show
+the outlines of everything around you; you hold your head still to focus on the
+afterimages.
+48185: .
+Afterimages hang around you in a greenish glare. You blink furiously,
+trying to sort out the shadows from what's really there.
+48311: The afterimages of what you saw float around you.
+48498: The afterimages are standing around, chatting idly and smoking
+cigarettes. They see you and hastily leave. [BUG]
+48609: The afterimages evaporate into a black dazzle.
+48839: , too faint to make out but too loud to ignore. You are almost certain
+you hear your name, though, and something in you moves to respond.
+48966: , too faint to make out but too loud to ignore. You do not know what
+they say, but something inside is terrified that they are calling for you.
+49103: The voices are still audible. They surge and swell, on the edge of
+audibility, somewhere to the west. You are almost certain you hear your name
+being called.
+49231: The voices surge, and you realize the sounds comes from the west, from
+the other side of the stream. And they are coming closer. You are very sure,
+suddenly, that you do not want them to reach you.
+49418: The voices seem nearly at the bridge.
+49450: The voices across the bridge seem very close now.
+49504: The fox is staring west with the intensity of ice.
+49544: The fox is staring west, tail twitching.
+49588: The distant murmur of voices, across the bridge, seems closer now.
+49656: The voices seem to be gaining in strength.
+49723: The fox is crouched on the bridge, staring out to the west with
+impenetrable intensity.
+49786: A small orange fox is perched nearby, staring at you with undisguised
+interest.
+49846: The fox's eyes gleam darkly.
+49896: The fox spares you no attention.
+49921: Without seeming to move, the fox is out of your way.
+49992: The fox wags its tail merrily, then crouches down expectantly and waits.
+50046: An ear perks up; but then the fox shakes off a spatter of water and
+sneezes. Truth be told, you feel rather the same way yourself.
+50149: The fox looks at the spade shaft lying on the ground, then back at you
+with some perplexity.
+50214: The fox looks around, then back at you with some perplexity.
+50267: The fox spares you no attention.
+50317: The fox wags its tail merrily, then crouches down expectantly and waits.
+50371: An ear perks up; but then the fox shakes off a spatter of water and
+sneezes. Truth be told, you feel rather the same way yourself.
+50464: The fox is attentive.
+50491: The fox spares you no attention.
+50516: The fox looks inquisitive.
+50547: The fox spares you no attention.
+50592: The fox wags its tail merrily, then crouches down expectantly and waits.
+50646: An ear perks up; but then the fox shakes off a spatter of water and
+sneezes. Truth be told, you feel rather the same way yourself.
+50739: The fox is attentive.
+50766: The fox spares you no attention.
+50811: The fox's ears perk up and its tail wags, a perfect picture of puppyish
+enthusiasm. Its eyes laugh at you as it gathers itself expectantly.
+50913: An ear perks up; but then the fox shakes off a spatter of water and
+sneezes. Truth be told, you feel rather the same way yourself.
+51055: The fox spares you no attention.
+51142: The fox dodges in a blink, and then spears you with a disappointed
+stare. It vanishes into the undergrowth.
+51279: 0 axn
+You jerk as a shape darts past you. Wild orange fury -- it's the
+fox, hurtling up onto the bridge like an avenging spirit. The fox crouches on
+the wet planks and stares fiercely out to the west.
+51527: The fox appears from behind the boulder.
+51561: The fox appears from inside the cave.
+51599: The fox appears under a nearby bush.
+51633: The fox appears on a nearby rock.
+51665: The fox appears beside a clump of weeds.
+51739: From within some tall grass, you notice a pair of dark eyes. The grass
+blinks, and then it is a small, orange fox who watches you solemnly.
+51947: The fox slips behind the boulder and vanishes.
+51985: The fox slips into the cave and vanishes.
+52025: The fox vanishes.
+52045: The fox disappears in a flash of orange fur.
+52083: The fox has slipped away.
+52132: The bridge continues to sag. The fox tenses, but does not move from its
+unsteady perch.
+52212: The bridge continues to sag. The fox tenses, but does not move from its
+unsteady perch.
+52316: The fox hunches itself lower to the bridge.
+52376: The fox chases around your feet for a moment. It seems to be watching
+something you hold.
+52599: The fox blinks.
+52753: The fox darts at something in the undergrowth.
+52795: A channel has been cut from the path down through the bank. The earth is
+deeply eroded, as if something had worn it away.
+52880: There's a narrow spot in the bank, a thin ridge of earth between the
+inundated path and the stream below. The pool of water behind your pile of
+sandbags just reaches the thin spot.
+53227: You tear at the earth, heedless of your burning fingers. A stone yields,
+and then another; and then a third is sucked from beneath your hands, pulled by
+the current that is rushing along your channel. You lean back, choked breaths
+lost in the rain that drums on your face. The standing pool on the path is
+rapidly subsiding.
+53458: A flash of movement draws your eye. The fox is still on the bridge, but
+no longer crouched in readiness. It stands tall, looking at you with a
+wide-jawed fox grin; and then faces west, into the voices that have gone high
+with triumph. They come closer, closer, along the bridge that you have labored
+to save.
+53726: You awaken, blinking in light.
+53857: You make only a shallow channel in the bank.
+53899: The channel becomes deeper.
+53929: The gap has nearly reached the level of the water standing on the path.
+53989: A thread of water begins to trickle out along your channel.
+54041: Your fingernails are torn and bleeding. The channel is nearly a handspan
+wide, and water is pouring out of it, down to the greater channel that roars
+below the bank.
+54187: Yip!
+54195: Your eyes snap to the fox, to find it staring as urgently back at you.
+It tilts its head towards the path. What?
+54291: at the curve of the path, where the water has backed up behind your pile
+of sandbags. There's a narrow spot in the bank -- a thin ridge of earth between
+the inundated path and the stream below.
+54430: It is too dark to see.
+54455: The grasses are fragrant under the sunshine of a late, late summer
+afternoon. A stream chatters by at your feet, and a weathered old wooden bridge
+stretches across it to the east. Beyond the stream, a scrubby hillside
+stretches upward.
+54625: The grasses are fragrant under the sunshine of a brilliant summer
+morning. A stream chatters by at your feet, and a weathered old wooden bridge
+stretches across it to the east. Beyond the stream, your hillside stretches
+upward.
+54859: But you've come so far.
+54878: The bridge creaks as you cross it, and sways a bit.
+54922: The stream is that way.
+54950: The stream is that way.
+54978: The stream is that way.
+55019: You turn your back on the hill, and consider the distant shapes of your
+companions. One of them waves hugely to you. You shrug, and begin jogging
+towards them.
+55143: You turn your back on the hill, and consider the distant shapes of your
+companions. One of them turns and calls your name. Others point, and wave, and
+laughter and shouts precede them flowing across the meadows.
+55292: You smile to yourself, and begin jogging towards them.
+55338: You'd rather not rejoin the group at this point. For one thing, you have
+no desire to explain what you were doing wandering off by yourself.
+55490: You hear the noise of your group off to the west! Half of them seem to
+be setting up for the volleyball finals; the others are building the campfires
+that will burn tonight.
+55616: The shouts of the volleyball players and the boom-box thump are not
+quite audible to the west.
+55702: A slope descends to the noisy stream to the west. The old wooden bridge
+which spans it leans
+55798: against the bank at your feet. To the east rises the flank of the hill,
+56071: The bridge creaks as you cross it, but it's solid.
+56117: The thought of crossing into that darkness, with its inhabitants, is
+beyond bearing.
+56183: You'd rather not rejoin the group at this point. For one thing, you have
+no desire to explain what you were doing wandering off by yourself. For
+another, you're not so sure you trust the bridge.
+56320: You'd rather not go look for the group at this point. For one thing, you
+have no desire to explain what you were doing wandering off by yourself. For
+another, you're not so sure you trust the bridge.
+56462: The stream is that way.
+56490: The stream is that way.
+56518: The stream is that way.
+56577: A narrow span of weathered wood crosses the stream here. A major beam
+has fallen away, leaving a dangerous gap in the row of supports, and the bridge
+sags crazily as you watch.
+56705: A narrow span of weathered wood crosses the stream here. The boards are
+vaguely warped, and the whole has an air of uncertainty about it.
+56824: A sturdy branch has been jammed under the bridge, filling a gap in the
+row of supports.
+57002: A narrow span of weathered wood crosses the stream here. The boards are
+vaguely warped, and the handrails aren't quite connected each to the next, but
+it's held this long and you expect it will probably support you.
+57153: A narrow span of weathered wood crosses the stream here. The boards are
+vaguely warped, and the handrails aren't quite connected each to the next.
+You're not sure you want to trust it.
+57301: The bridge isn't very high. Between the bridge supports and the high
+bank, your feet would be in the stream, and the rest of you in the mud.
+57400: You're no troll.
+57425: You see only the bridge pilings, sunk into the earth.
+57469: You see only the bridge pilings, and the branch you jammed there.
+57544: You see the bridge pilings.
+57591: A major beam has fallen away, leaving a dangerous gap in the row of
+supports.
+57668: A sturdy branch has been jammed among them, filling a gap in the row of
+supports.
+57878: A good idea, but how to implement it?
+58077: There's no place under the bridge to wedge the branch.
+58143: You wedge the branch under the bridge, in the gap left by the missing
+support beam. It seems to be holding.
+58308: It's not particularly deep, but it's spectacularly clear. Streaks of
+green trail along the stones at the stream's bottom, and you see the rare glint
+of a fish in the sunlight.
+58438: It's not particularly deep, but it's spectacularly clear, and the rich
+light turns the river-stones to copper, brass, and gold. Finned gems dart among
+strands of moss too vibrant to be jade.
+58578: It's not particularly deep, but it's spectacularly clear, although the
+dimming light is turning the bottom to shadow.
+58666: The stream's surface is broken and broken again with the raindrops that
+are striking it. You can make out nothing beneath.
+58758: The stream has turned to rushing blackness in the night. You can't even
+make out the rough nap that you can hear raindrops making on the surface.
+58864: The stream has turned to rushing blackness in the night. Every few
+moments a distant flicker of lightning shines roughly off the surface.
+58959: Oops! It's actually just a strip of canvas with "Stream" painted on it.
+[BUG]
+59036: You're interested in exploring, not getting yourself soaked and
+miserable.
+59094: You're getting wet enough as it is.
+59126: It's storm-swollen and rapid, and certainly dangerous.
+59172: Recklessly, you leap into the swollen stream. Though the water is less
+than hip-deep, it knocks you immediately from your feet. The rest is a
+nightmare of darkness, cold, and numbing impacts.
+59418: It's hardly necessary now, is it?
+59510: You have nothing in which to carry water.
+59636: The current must be faster than it looks.
+59670: The stream is storm-swollen.
+59739: A torrent of runoff water is flowing down from the south, and backing up
+on the path here.
+59805: A torrent of runoff water is flowing down from the south. It pours down
+to the stream, over the bridge pilings.
+59886: A wide angular tongue juts out from the hillside.
+59933: The park stretches off to the north and west, a vast expanse of bright
+meadowland, patched with dark woods and stitched with streams that glitter in
+the sunlight. In the distance, a lake reflects white fire from the setting sun.
+60100: The park stretches off to the north and west, a vast expanse of bright
+meadowland, patched with dark woods and stitched with streams that glitter in
+the sunlight. In the distance, a lake reflects orange fire from the setting
+sun.
+60267: The park stretches off to the north and west, a vast expanse of bright
+meadowland, patched with dark woods and stitched with streams that glitter ruby
+in the sunlight. In the distance, a lake reflects red fire from the setting
+sun.
+60436: The park stretches off to the north and west, a vast expanse of luminous
+meadowland, patched with the dark emerald of forest. The streams are already
+shadowed in their beds. In the distance, a lake reflects red fire, beneath the
+greater fire that leaps silently on the horizon.
+60637: The park stretches off to the north and west, a vast expanse of dimming
+meadowland, patched with dark woods and stitched with dark streams. In the
+distance, a lake glows pale in the last light of the sky.
+60788: The park stretches off to the north and west, a vast expanse of dim
+meadowland, patched with dark woods and stitched with dark streams. A layer of
+mist is rolling across the landscape.
+60925: The park stretches off to the north and west, a vast expanse of dark
+meadowland, barely visible in the thickening mist.
+61016: A dark expanse stretches to the north and west, impenetrable with rain.
+61075: A black expanse stretches to the north and west, impenetrable with rain.
+Every few moments, a directionless flicker of lightning tries to pull detail
+from the darkness; but there is only mist.
+61218: The park stretches off to the north and west, a vast expanse of bright
+meadowland, patched with dark woods and stitched with streams that glitter in
+the sunlight.
+61418: The trail turns southeast as it climbs.
+61459: The lake is a line of distant white fire.
+61495: The lake is a line of distant orange fire.
+61531: The lake is a line of distant red fire.
+61565: The lake is a line of red fire beneath a greater golden and scarlet
+conflagration.
+61627: The lake is a distant, pale glowing line.
+61663: The lake is hidden in the mist.
+61691: The lake is hidden in the mist and rain.
+61725: The lake is a distant glitter.
+61748: The lake is hidden in the black rain.
+61783: It's miles away.
+61812: You scrape some more dirt from the trench. Aside from getting your hands
+dirty, it accomplishes little.
+61922: You scrape some more dirt from the trench. Aside from getting
+61998: Someone has dug a trench here, from the path out over the bank.
+62100: Abandoned in the mud near it is a spade. You figure someone was using
+the spade to dig the trench, and you can also figure why
+62207: stopped; the shaft is broken off about two feet up from the blade. The
+handle end is nowhere in sight.
+62339: The excavation has left rather a lot of dirt and dried mud near the
+path.
+62398: The excavation has left rather a lot of dirt and mud near the path. It's
+all been soaked by the rain, and it's pretty messy.
+62490: The excavation has left rather a lot of dirt and dried mud near the
+path. Some of it has been wetted down.
+62652: acwfxn is stuck in the dried mud. The shaft bends slightly; perhaps you
+can pull it free.
+62754: The mud is dry and quite hard.
+62788: The mud is dry and quite hard.
+62819: You scrape some mud away. Aside from getting your hands dirty, it
+accomplishes little.
+62929: You scrape some mud away. Aside from getting
+63086: It's a small spade; at least, the blade and about two feet of the shaft
+of one.
+63150: The blade is buried in the mud.
+63188: It's not fixable. Not by you, anyway.
+63388: Crack!
+63398: The shaft has snapped off right where it joins the blade.
+63451: You get a good grip on what's left of the shaft.
+63493: Crack!
+63503: The shaft has snapped off right where it joins the blade. The blade is
+left buried in the mud.
+63584: You get a good grip on what's left of the shaft.
+63626: Crack!
+63636: The shaft has snapped off right where it joins the blade. The blade is
+left wedged in the crack.
+63717: You get a good grip on what's left of the shaft, and raise the spade
+over your knee.
+63783: Crack!
+63793: The shaft has snapped off right where it joins the blade.
+63846: You're not holding the spade.
+63902: You have no way to reattach the blade to the shaft.
+63951: You have no way to reattach the blade to the shaft.
+63993: It's not fixable. Not by you, anyway.
+64029: There's no way you can damage such a hefty chunk of metal.
+64136: You have no way to reattach the blade to the shaft.
+64183: You have no way to reattach the blade to the shaft.
+64225: It's not fixable. Not by you, anyway.
+64261: It's too short to break any further.
+64315: The fox cocks its head as you wind up; it tenses to spring, and you hurl
+the stick far back into the undergrowth. With a yip the fox streaks after it.
+64436: A moment later it's back, bushy tail high. It drops its prize at your
+feet.
+64497: A moment later it's back, bushy tail high. It drops its prize at your
+feet with an unexpected
+64593: You wind up and hurl the stick into the undergrowth. The fox turn to
+watch it fly, and then looks back at you. Its expression is quite clear: if you
+want the stick lost in cold, dripping-wet vegetation, that's entirely a matter
+between you and the stick.
+64779: You wind up and hurl the stick into the undergrowth. The fox doesn't
+even turn; its attention is focussed on something out in the darkness.
+64897: Dropped. The fox watches it fall, then looks up at you with some
+disappointment.
+64961: Dropped. The fox watches it fall with vague, sodden interest.
+65022: That's odd. The steel key doesn't seem as rusty as you first thought.
+65151: It's a small steel key, rather cheap-looking. It's also heavily worn and
+pitted with rust.
+65221: It's a small steel key, rather cheap-looking. It's slightly rusty.
+65321: The fox cocks its head as you wind up -- with curiosity, but willing to
+go along with it. It tenses to spring, and you hurl the key far back into the
+undergrowth. With a yip the fox streaks after it.
+65471: A moment later it's back, bushy tail high. It drops its prize at your
+feet.
+65540: You wind up and hurl the key into the undergrowth. The fox turn to watch
+it fly, and then looks back at you. Its expression is quite clear: if you want
+the key lost in cold, dripping-wet vegetation, after all the trouble the fox
+went to to find it, that's entirely a matter between you and the key.
+65756: You wind up and hurl the key into the undergrowth. The fox doesn't even
+turn; its attention is focussed on something out in the darkness.
+65870: A stream of runoff water is flowing down from the southeast, and pouring
+down the trench to the unseen stream below.
+65954: You are high on the hill; it rolls downward and off to the west.
+66008: Beyond the trees and brush, meadows glow in the sunlight.
+66061: Beyond the trees and brush, meadows glow in the thickening sunlight.
+66120: Beyond the trees and brush, meadows glow in the sunlight, sweeping to
+the ribbons of color on the horizon.
+66205: Beyond the trees and brush, the meadows burn in the incredible light.
+The crimson gold above the horizon is met and matched by a green which burns as
+bright, a living furnace of trees reaching in solemn exaltation to the clouds.
+The last breeze of the day flicks across your face, still warm with the scents
+of stone and soil, cool with the flavor of growing things.
+66470: Beyond the trees and brush, meadows fade in the last light.
+66523: Beyond the trees and brush, meadows fade in the mist.
+66572: Beyond the trees and brush, meadows fade in the mist and rain.
+66627: Beyond the trees and brush, the world is cloaked in rain.
+66680: Beyond the trees and brush, the world is cloaked in dark rain.
+66735: Beyond the trees and brush, the world is cloaked in dark rain, and
+scarred with distant lightning.
+66811: Beyond the trees and brush, meadows glow in the dawn.
+66850: Behind you stands the last stony lump of hill. A narrow trail curves
+away to the northwest.
+66918: The trail turns west as it descends.
+66950: The trail turns west as it descends.
+66989: Unfortunately for your ambitions, the hilltop is too steep to scrabble
+up.
+67056: There are only a few inches of space between the boulder and the cave
+mouth. You can't possibly squeeze through.
+67142: You squeeze behind the boulder and crawl inside.
+67182: You crawl inside.
+67209: Unfortunately for your ambitions, the hilltop is too steep to scrabble
+up.
+67276: There are only a few inches of space between the boulder and the cave
+mouth. You can't possibly squeeze through.
+67374: A boulder is half-buried at the base of the hilltop.
+67418: A boulder is half-buried at the base of the hilltop. The mouth of a
+small cave is just visible behind it.
+67493: A boulder is lying at the base of the hilltop, prised up out of the hole
+it was in.
+67615: There's just enough room to squeeze into the cave behind it.
+67665: The boulder is lying near here, wedged against a hummock.
+67713: The boulder is lying near here, on the path, wedged against the rise.
+67764: A boulder is bouncing up and down here, screaming "Look at me!" [BUG]
+67822: It's a roundish lump of rock -- about what you thought. Maybe two or
+two-and-a-half feet across.
+67968: epm
+In the shadow behind the boulder, you notice an edge of deeper
+blackness. It's a cave of some sort.
+68076: You'll just tear up your fingers, trying to scrape away under the
+boulder.
+68147: The blade is thin enough to work under the boulder, but it's too short
+to give you any leverage.
+68287: Kgma DxnPutting things on the boulder would achieve nothing.
+68350: The blade is thin enough to work under the boulder, but it's too short
+to give you any leverage.
+68457: The boulder is too heavy to lift.
+68584: You push the spade under the boulder, kick the blade to settle it, and
+lean on the shaft. Nothing happens for a moment, and you're leaning harder, and
+the boulder starts to move, and
+68718: Crack!
+68728: The spade's shaft has broken off in your hands, right above the blade,
+which is now caught under the boulder. On the other hand, you've moved the
+boulder up out of its hole; it's balanced on the rim.
+68878: The blade isn't long enough to give you any leverage.
+68922: The shaft is too thick to wedge under the boulder.
+68985: acrg,. The boulder is off-balance enough that you could probably move it
+by hand.
+69049: The blade isn't long enough to give you any leverage.
+69093: The shaft is too thick to wedge under the boulder.
+69143: You heave at the boulder a few times, but it's clearly not going
+anywhere.
+69213: As you lean over the boulder, you notice a cave of some sort behind it.
+69266: You grasp the boulder as best you can and heave -- fruitlessly. It's
+well sunk into the ground.
+69359: That's unclear. Try a compass direction.
+69403: You grasp the boulder as best you can and heave. The boulder thumps
+neatly back into the hole it came from.
+69488: You heave at the boulder, but it's obviously not going to roll uphill.
+69557: You grasp the boulder as best you can and heave. It goes tumbling down
+the northwest path, out of sight.
+69655: You grasp the boulder as best you can and heave. It goes tumbling down
+the hill to the south, curving west with the slope. A few moments later you
+hear a small
+69793: You grasp the boulder as best you can and heave. It goes tumbling
+straight down the hill to the west, out of sight. A few moments later you hear
+a rending
+69907: Crack!
+69927: You feel a freezing rush down your back, and you know without seeing
+that the bridge below has been destroyed. You begin to rush downhill, but the
+trail seems to stretch and time takes on the weight of nightmare...
+70084: A sudden wave of nerves pulls you downhill after it....
+
+You were right;
+the bridge has been neatly demolished, and the boulder sits innocently in the
+stream, in the wreckage. So much for your little exploration. You go off,
+resigned, to tell the park rangers what you've done.
+70307: Everything under the boulder seems stuck to it. [BUG].
+70384: You can only see a few inches of dark emptiness behind the boulder.
+70431: It's a dark hole in the hillside. The boulder has been shifted far
+enough away that you could crawl in.
+70504: It's a dark hole in the hillside, big enough to crawl into.
+70555: You can't see far into the cave.
+70582: You are in a dark pocket, a stony crack below the summit of the hill. It
+is not quite high enough to stand in, but surprisingly long, narrowing only
+slowly towards the back. The entrance is a
+70914: You crawl out.
+70937: The rain lashes your face.
+70963: The brilliant sky burns gently in your eyes.
+71002: You crawl out.
+71025: The rain lashes your face.
+71051: The brilliant sky burns gently in your eyes.
+71090: It's a ratty old blanket, torn and mouse-chewed, tangled with bits of
+twig and old leaves.
+71162: Nonetheless, it looks warm.
+71224: The blanket flaps nicely.
+71246: The blanket flaps heavily. A few drops of water fly off.
+71299: You squeeze a trickle of water out, but the blanket is still nothing
+like dry.
+71368: A daemon crawls out of the blanket and shouts "Hey! Who soaked my
+blanket?!" [BUG]
+71528: The blanket has gotten quite soaked.
+71562: The boulder lies in the cave's mouth, but there's enough space to
+squeeze out past it.
+71631: The boulder is gone!
+71678: From inside the cave, you can't get enough leverage to push any
+direction but straight out.
+71759: Elsewhere in the park, flowers lie in hollows and peek out from under
+the brush. Here you have found a profusion of them. Sprays of white and blue
+lie everywhere; the vines ripple yellow.
+71902: Elsewhere in the park, flowers lie in hollows and peek out from under
+the brush. Here you have found a profusion of them. Sprays of white and blue
+lie everywhere; the vines ripple yellow in the bronze light. Behind it all is
+the wild, ecstatic greenery, bright against the dimming sky.
+72113: Elsewhere in the park, flowers lie in hollows and peek out from under
+the brush. Here you have found a profusion of them. Sprays of white and blue
+lie everywhere; the vines ripple yellow, although the blooms are closing for
+the night.
+72288: A profusion of flowers lie here, mostly furled against the rain. Edges
+of white and blue and yellow show in the dim light.
+72385: A profusion of flowers lie here, mostly furled against the rain. Edges
+of white and blue and yellow barely show in the darkness.
+72481: Elsewhere in the park, flowers lie in hollows and peek out from under
+the brush. Here you have found a profusion of them. Sprays of white and blue
+lie everywhere; the vines ripple yellow. A glorious array of reds and purples
+have opened their eyes to the morning.
+72666: Beyond a slight rise to the west, the ground drops precipitously to the
+stream. A trail leads northward towards the bridge; another heads steeply up to
+the east, and a third curves around the hill to the southeast.
+72822: The trail turns northeast as it climbs.
+72858: You have barely left sight of the wildflowers when the trail ends. It
+looks like it was washed out; and the scree that covers the hill face is much
+too unstable to venture across. You have no choice but to return.
+73039: A glint in a nearby bush looks more metallic than floral.
+73105: A battered tin bucket stands nearby.
+73262: A grey lump, with a surface like a tin prune. But it's still
+bucket-shaped.
+73408: acrfpm. Unsurprisingly, it gets wet.
+73471: It's a battered old tin bucket.
+73579: The sandbag is much larger than the bucket.
+73617: The branch is much larger than the bucket.
+73753: The bucket is already full of water.
+73780: You fill the bucket with water.
+73957: There is nothing here to fill it with.
+74017: You don't make much impression in the stony earth.
+74063: You taste the water. It's cool -- with not the antiseptic bite of city
+tap water, but an indefinable vitality.
+74151: The water splashes on the ground and dribbles away.
+74347: You splash the water around the spade. The mud absorbs it greedily.
+74404: You splash the water around the blade. The mud absorbs it greedily.
+74503: You splash the water into the mud. In this rain, it's an impressively
+useless maneuver.
+74569: You splash the water into the mud, which gets wetter.
+74616: You pour the water back.
+74662: You empty the bucket onto the trail.
+74697: The water splashes into the trench and down it. You hear it dribble into
+the stream below.
+74770: The water splashes onto the wide trail and down the trench. You hear it
+dribble into the stream below.
+74856: You fling the bucketful of water up at the fox. It jerks as if shot, and
+snaps a glare at you that sends a chill down
+74984: You empty the bucket onto a spot where the fox suddenly isn't any more.
+The water dribbles away, and the fox looks up at you piercingly, as if having
+second thoughts.
+75152: Having it in the bucket isn't good enough?
+75203: A stream of runoff water is flowing down from the east, and backing up
+on the path here.
+75269: A stream of runoff water is flowing down from the east, angling off the
+rise, and vanishing down the path to the north.
+75369: You're standing on a ledge, on a rather steep, overgrown hillface.
+Greenery hides the stream below and the hilltop above, but the meadows and sky
+beyond sweep away endlessly to the west.
+75510: You're standing on a ledge, on a rather steep, overgrown hillface.
+Greenery hides the stream below and the hilltop above, but the meadows and sky
+beyond sweep away to the clouds in the west.
+75655: You're standing on a ledge, on a rather steep, overgrown hillface.
+Greenery hides the stream below and the hilltop above, and the meadows and sky
+beyond sweep away into the incandescent west.
+75800: You're standing on a ledge, on a rather steep, overgrown hillface.
+Greenery hides the stream below and the hilltop above, but the meadows and sky
+beyond sweep away into the west.
+75937: You're standing on a ledge, on a rather steep, overgrown hillface. Mist
+hides the stream below and the hilltop above, but the meadows and clouds beyond
+sweep away into the west.
+76072: You're standing on a ledge, on a rather steep, overgrown hillface. Rain
+hides the stream below and the hilltop above, and to the west is only dark.
+76187: You're standing on a ledge, on a rather steep, overgrown hillface. Rain
+hides the stream below and the hilltop above, and to the west is only dark.
+76297: The hillside is being unbolted and hauled away by teams of swearing
+daemons. [BUG].
+76366: The trail turns west as it descends.
+76480: . It's right in the gap in the
+76681: . It's right in the gap in the
+76758: . It's right in the gap in the
+76783: hmern path. A few splinters jut out, evidence of something demolished by
+the falling boulder.
+76852: The bush seems to have been utterly demolished by the falling boulder.
+Nothing is left in the crack but a couple of splinters.
+77017: The crack is only about as long as your hand, and too narrow to jam even
+a finger into. A small bush is rooted in the crack, apparently by sheer will.
+77127: The crack is only about as long as your hand.
+77249: The crack is only about as long as your hand.
+77306: The crack is only about as long as your hand, and too narrow to jam even
+a finger into.
+77382: A small bush is rooted in the crack, apparently by sheer will.
+77553: The crack is empty.
+77578: The water dribbles over the crack and down the hillside.
+77766: acwfxn slips into the crack. You stretch and give it a couple of whacks,
+to wedge it in place.
+77844: acwfxn is too tightly wedged into the crack. The shaft bends slightly;
+perhaps you can pull it free.
+77970: acrfpm would achieve nothing. Perhaps you want to throw it over the gap
+in the trail?
+78059: Among the hill's brush and scraggly trees, the tree that stands here
+stands alone. You might be able to get your arms around it, and you might not;
+it must reach nearly as high as the hilltop itself.
+78205: The lone tree has been laid low. About ten feet still sticks up from the
+ground; the rest lies across the path and downslope, splintered and scorched.
+78323: It's certainly the tallest thing you can see in any direction. You have
+no hope of figuring out what species it is.
+78407: The tree has fallen downslope, across the path, and is lying awkwardly
+in the undergrowth. The upper end -- which is to say, the lower end -- is
+blackened and split.
+78540: The trunk is smooth and the lowest branch is at least twenty feet in the
+air.
+78603: You look at the blackened remains of the tree. Perhaps it's true that
+lightning never strikes in the same place. And perhaps you'd be quick-roasted.
+Either way, there's not that much left to climb.
+78747: There's not that much left to climb.
+78784: There's not enough left for a fox to shelter under.
+78821: You already are under the tree.
+78849: It's too tall to keep the drizzle off much.
+78892: It's too tall to keep the rain off.
+78924: You're not sure it's the best place to be, either.
+78975: The trail leads south across the hillface, a level ledge worn into the
+soil. Just south of you a large chunk has been washed away. A small crack is
+visible by the middle of the gap, about even with the ledge.
+79125: The trail leads north across the hillface, a level ledge worn into the
+soil. Just north of you a large chunk has been washed away. A small crack is
+visible by the middle of the gap, about even with the ledge.
+79319: Just south of you a large chunk of the trail has been washed away. A
+small crack is visible by the middle of the gap, about even with the ledge.
+79423: Just north of you a large chunk of the trail has been washed away. A
+small crack is visible by the middle of the gap, about even with the ledge.
+79539: The gap is too wide to jump across.
+79610: acrfxn across the gap. It thuds onto the trail on the other side,
+tearing wide open. Sand spills out onto the ground.
+79960: A heavy branch seems to have been blown from the tree. It lies on the
+ground nearby. One end is still burning.
+80044: A heavy branch seems to have been blown from the tree. It lies on the
+ground nearby, blackened but no longer burning.
+80129: mli    i,
+A heavy branch lies on the ground nearby. One end is still
+burning.
+80271: It's a little off true but sturdy -- perhaps a yard long, and thicker
+than your wrist. One end is on fire.
+80351: It's a little off true but sturdy -- perhaps a yard long, and thicker
+than your wrist. One end is blackened.
+80439: You can't even bend it.
+80471: It's too late; the flame is out.
+80640: Taken. The flame brightens a bit as you swing it up.
+80772: Axn
+The branch's flame hisses out.
+80873: The branch's flame is slowly dying.
+80928: Runoff water is flowing down the hillside here. It puddles on the ledge,
+and streams down the northwest path.
+81008: Runoff water is flowing down the hillside here. It puddles on the ledge,
+behind the fallen tree.
+81080: Runoff water is flowing down the hillside here. It puddles on the ledge,
+behind the fallen tree, and streams down the southwest path.
+81189: The sandbags are lying in the torrent, but the path is too wide here;
+the water pours around them.
+81277: The sandbag is lying in the torrent, but the path is too wide here; the
+water pours around it.
+81355: You stretch a foot towards the gap, then stop as the stars of the Sea
+glitter beyond it. [BUG].
+81453: The gap is too wide to jump, and you'll never get a foothold in that
+crack.
+81517: You heft your burden, considering the balance.
+81600: You stretch a foot towards the bush, shift your weight, and take two
+quick steps. The bush trembles but holds.
+81698: You realize that you'll never make it across. The blade only sticks out
+a few inches from the hillside
+81864: The shaft will never hold your weight.
+81893: You flatten your body against the hillside, and stretch a foot towards
+the spade blade, off-center though you'll be. One quick step; you manage to
+fall forward onto the trail rather than sideways.
+82095: The tree screams "I'm down, I'm down, don't hit me again!" [BUG]
+82182: It is echoed by a splintering concussion right above your head, or, from
+the feel of it, just inside.
+
+You watch the tree topple through blobs of dull
+color.
+82336: Hmsomewhere outside.
+82476: You pick yourself up shakily, although you can't quite remember falling.
+The air is full of smoke.
+82560: You are in a dense tangle of bushes and small trees. The ground falls
+away to the southeast, to the meadows below; you can see a lake far to the
+west.
+82677: You are in a dense tangle of bushes, small trees, and shadow. The ground
+falls away to the southeast, to the green meadows below; you can see a lake far
+to the west.
+82806: You are in a dense tangle of shadow, bushes, and small trees. The ground
+falls away to the southeast, to the darkening meadows below.
+82911: You are in a dense tangle of shadow, bushes, and small trees. The ground
+falls away to the southeast, to the misty meadows below.
+83014: You are in a dense tangle of shadow, bushes, and small trees. The ground
+falls away to the southeast, into darkness and rain.
+83103: A trail curves down to the southwest. Another cuts along the hill to the
+north, but a chunk is washed out, too wide to jump across.
+83214: You have barely left sight of the shed when the trail ends. It looks
+like it was washed out; and the scree that covers the hill face is much too
+unstable to venture across. You have no choice but to return.
+83395: The door to the shed is closed. You tug on it and rattle the latch, but
+it's locked
+83496: You step hesitantly into the darkness.
+83530: An old shed stands just to the east.
+83559: It's weathered but sturdy, still wearing the tatters of a coat of white
+paint.
+83621: The door is open to the unrelieved darkness within.
+83661: The door is closed.
+83678: The shed is weathered but sturdy, still wearing the tatters of a coat of
+white paint.
+83744: The door is open to the unrelieved darkness within.
+83789: The door is closed. The lock looks badly rusted.
+83829: The door is closed. The lock looks rusty.
+83867: It may be weathered, but it's not weakened. You can't even shake it.
+83928: The door is closed.
+83943: It's dark in there, and you can't see a thing.
+83995: The lock is rusted tight. You can barely get the key in, and it has no
+faint hope of turning.
+84081: The lock is stiff. You give the key a jerk; the latch scrapes, and the
+door swings open.
+84154: You push the door shut, and the latch snaps to.
+84194: A daemon pops out of the lock. "Hey! How'd you close this without
+locking it?" He snaps the latch closed and vanishes. [BUG]
+84296: A daemon pops out of the lock. "Hey! How'd you unlock this without
+opening it?" He yanks the door open and vanishes. [BUG]
+84403: You feel the hollow darkness of an enclosed space. To the west, an
+oblong of flat grey half-light betrays the doorway. Nothing else is visible.
+84560: The shed is only a few paces long, and nearly empty. The door is to the
+west.
+84623: The only exit you can make out is to the west.
+84656: The only exit is to the west.
+84690: The door latches from the outside. Closing it would be less than clever.
+84768: A pair of large canvas bags lie at a narrow point on the path. One is
+rather dirty; the other has a tear along one seam, from which sand dribbles
+onto the ground.
+84885: A pair of large canvas bags is piled untidily here. One is rather dirty;
+the other has a tear along one seam, from which sand dribbles onto the ground.
+85045: A dirty sandbag is lying on the ground.
+85078: It's a canvas bag, more than two feet long. The surface is liberally
+smeared with mud.
+85150: Water is backed up behind it.
+85188: After all you've done to get it there?
+85224: One of these things, you can barely carry. Two, never.
+85298: acrfpn. Releasing it in a surge would probably be a mistake.
+85346: It's sewn shut.
+85364: You give the canvas a vicious yank, but it doesn't give way.
+85451: You heave the dirty sandbag, awkwardly, up into your arms.
+85509: You drop the dirty sandbag, but the path is too wide here; the water
+pours around it.
+85639: A torn sandbag is lying on the ground.
+85670: It's a canvas bag, more than two feet long. A palm-length tear along a
+seam leaks sand.
+85744: Water is backed up behind it.
+85780: After all you've done to get it there?
+85814: One of these things, you can barely carry. Two, never.
+85888: acrfpn. Releasing it in a surge would probably be a mistake.
+85936: It's sewn shut.
+85959: After all you've done to get it there?
+85988: You give the canvas a vicious yank. It tears more easily than you
+thought, and you're left staring at a canvas rag and a pile of sand that's gone
+86163: You heave the torn sandbag, awkwardly, up into your arms. You manage to
+do it without straining the torn cloth further.
+86263: You drop the torn sandbag, but the path is too wide here; the water
+pours around it.
+86324: You lower the torn sandbag to the ground, trying not to strain it.
+86486: A canvas rag, the remnant of the torn sandbag, is lying here.
+86544: It's not fixable. Not by you, anyway.
+86580: The torn sandbag will never hold anything again.
+86620: Tearing it further wouldn't help matters.
+86779: A pathetic pile of sand is slowly washing away in the rain.
+86866: You scoop up a handful of sand.
+86926: The last of the sand has washed away.
+86969: The handful of sand is immediately lost in the stony ground.
+87073: Waiting on the shore; sand yields beneath my feet
+The water shouts and
+roars and rushes
+And breaks on the rocks, and
+Never comes near to where I wait.
+87202: upm
+
+The picnic is going full blast, which is exactly why you've
+wandered away from it. It's not that you don't like your new companions; it's
+just that after weeks of spending each day around them, a noisy weekend
+cook-out isn't the way to relax. Some exploration -- on your own -- is an
+appealing thought.
+
+None of them noticed you drifting away, anyhow.
+87669: This one night will not end, not under this sky
+Of stars and embers and
+hot tea and song
+And stories remembered not a moment too long
+And laughter,
+darkness, fire, the circle, and I.
+87813: is copyright 1995-6 by Andrew Plotkin. It may be copied, distributed,
+and played freely.
+87886: The original version of this game contained brief quotations from the
+songs of Eric Bogle, given with credit but without permission. A small sin,
+perhaps, but one I have decided to repair. This version contains nothing that
+is not my own. However, if you wish to enhance the mood, find Eric Bogle's
+album entitled
+88130: (Rounder Records, Philo C-PH-1125). Listen to "A Change in the Weather"
+as you begin playing the game, and "Katie and the Dreamtime Land" when you
+finish.
+88276: game, by the Zarfian Interactive Fiction Rating System. Any choice you
+make may be a wrong choice, and you may not discover it was wrong until later;
+and not choosing is always a choice. Timing may be critical. Save often and
+keep your old saved games.
+88462: This game was created using the Inform adventure development system,
+which was created by Graham Nelson. You can get Inform, as well as other text
+adventures, from the Interactive Fiction archive:
+88665: Beta-testing and other helpful comments: Chad Anderson, Richard Barnett,
+Laurel Halbany, Galen Hazelwood, Walker Andrew John, Michael Kinyon, Gareth
+Rees, Markku Yli-Pentila.
+88809: You let out a long whistle.
+88837: The fox's ears poke up, and then it cocks its head reproachfully.
+88905: acrfxn at nothingness. It hits, tearing open the space-time continuum.
+Hideous elder things look out, scowl at you, and zip the hole shut again. [BUG]
+89203: You won't get far without something to dig with.
+89238: You can't dig in that.
+89263: Things could have turned out better.
+89296: You have a good time after all.
+89323: You have become God. [BUG] -- pity, though.
+89379: That isn't pourable.
+89406: There's hardly room.
+89505: Stone hangs around you, unyielding grey veils in a dim grey light. The
+light comes from far away:
+89905: Stone dissolves around you as move up and forwards, into a grainy grey
+light. A mindless roar stretches in all directions; but it is troubled by a
+distant murmur. The new sound swells, whispering, pounding, then shouting at
+you, and you cannot make it out and you cannot make it go --
+90124: upm
+You awaken in the cave, sore and cold, bathed in the listless light
+of an overcast dawn. By the time you wade across the swollen stream, you're as
+soaked and miserable as if you'd slept out in the rain after all. You reach
+civilization exhausted and with what promises to be a lovely cough.
+90524: An Interactive Short Story
+Copyright 1995-6 by Andrew Plotkin. Please
+copy and play freely.
+(First-time players should type "about".)
+90648: You can't go that way.
+90716: It is pitch dark, and you can't see a thing.
+90748: As good-looking as ever.
+90780: As good-looking as ever.
+90798: You glance outside.
+91116: You can't see anything particularly interesting in that direction.
+91164: The shouts of the volleyball players and the boom-box thump are
+pleasantly far off to the west.
+91232: You hear yells, laughter, music. People are having a good time. You just
+want to get away.
+91300: Trails snake up the side of the hill, to the summit, an angle of sunlit
+stone against the unbounded blue.
+91376: You hear yells, laughter, music. People are having a good time.
+91424: The hillside is bare rock in that direction, and much too steep to
+climb.
+91476: Two trails lead up from here; you can go northeast or south.
+91520: The underbrush is too dense in that direction.
+91556: A trail leads southwest down the hill, towards the bridge. From where
+you stand, it turns southeast and continues upward, deeply cut into the
+hillside. A narrower trail leads more steeply up to the east.
+91704: Two trails lead up from here; you can go southeast or east.
+91748: The hillside drops straight off to the stream in that direction.
+91792: The hillside drops straight off to the stream in that direction.
+91836: The hillside drops straight down in that direction.
+91872: The underbrush is too dense in that direction.
+91904: The wide trail leads down to the southwest, and up across the hill to
+the southeast. The upward half seems deeply cut into the hillside; it's as if
+something had worn the rocky earth away.
+92036: The narrow trail leads straight up the hillside to the east.
+92080: The trench is a foot deep or so, and maybe a yard wide. It starts where
+the wide trail turns, and leads west over the bank.
+92168: It's the blade of a small spade. There's nothing left of the shaft.
+92220: At this point, it's just a two-foot-long stick, broken at both ends.
+92276: The ground drops off, dangerously steeply, in that direction.
+92320: The ground drops off, dangerously steeply, in that direction.
+92364: Unfortunately for your ambitions, the hilltop is too steep to scrabble
+up.
+92416: The underbrush is too dense in that direction.
+92448: The narrow trail curves down the hillside to the northwest.
+92492: The cave narrows to a crack in back; you really can't go very far.
+92540: The cave narrows to a crack in back; you really can't go very far.
+92588: The only way out is to the west.
+92612: An ancient and filthy blanket is crumpled against one wall of the cave.
+92664: Two trails lead up from here; you can go east or southeast.
+92708: The hill is too steep in that direction.
+92736: Beyond the rise, the hill drops almost straight down to the stream.
+92784: Beyond the rise, the hill drops almost straight down to the stream.
+92832: The underbrush is too dense in that direction.
+92864: It's just a stony ridge; the ground slopes up a few feet before dropping
+off to the stream.
+92976: It's water. It's in the bucket.
+93008: Trails angle down to the northwest and southwest. Another crosses the
+hill to the south, but a chunk is washed out, too wide to jump across.
+93108: The hill is too steep and overgrown to climb.
+93140: The hill is too steep and overgrown to climb.
+93172: The hill is too steep and overgrown to climb.
+93204: The hill is too steep and overgrown to climb.
+93236: Two trails lead down from here; you can go northwest or southwest.
+93284: The hill is too steep and overgrown to descend.
+93320: The underbrush is too dense in that direction.
+93364: The ground drops almost straight down in that direction.
+93404: The hill is too steep and overgrown to climb.
+93436: Jumping off the bluff wouldn't work well. Perhaps the trail to the
+southwest.
+93492: No trails go up the hill from here, and the undergrowth is too heavy to
+push through.
+93552: The undergrowth is too dense in that direction.
+93588: It's a forlorn, sodden scrap of canvas.
+

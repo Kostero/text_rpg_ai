@@ -1,0 +1,824 @@
+17133: Nothing to do!
+17168: o. You have won
+17252: It is now pitch dark in here!
+17383: As good-looking as ever.
+17424: Main Systems says, "What?"
+17538: I didn't understand that number.
+17585: You aren't holding that!
+17701: You can't see "
+17812: Nothing to do!
+17829: There are none at all available!
+18764: Please answer yes or no.
+18790: Are you sure you want to quit?
+18835: Failed.
+18855: Restore failed.
+18872: Ok.
+18890: Save failed.
+18905: Ok.
+18949: Transcripting is already on.
+19015: Transcripting is already off.
+19073: Score notification on.
+19094: Score notification off.
+19117: You have visited:
+19145: Objects you have handled:
+19170: None.
+19548: You are carrying nothing.
+19597: Taken.
+19608: You are always self-possessed.
+20255: Dropped.
+20401: Removed.
+20540: You lack the dexterity.
+20621: Done.
+20887: Done.
+21126: Wrahn seem interested.
+21917: You can't go that way.
+22592: But it's dark.
+22609: You find nothing of interest.
+22645: But it's dark.
+22765: You find nothing of interest.
+24046: . Not bad.
+24100: That seems unnecessary.
+24123: Keep your mind on the game.
+24148: What a good idea.
+24167: You smell nothing unexpected.
+24194: You hear nothing unexpected.
+24219: You taste nothing unexpected.
+24254: Keep your hands to yourself!
+24279: You feel nothing unexpected.
+24304: If you think that'll help.
+24413: Oh, don't apologise.
+24443: Quite.
+24512: You achieve nothing by this.
+24600: You wave, feeling foolish.
+24769: You are unable to.
+24788: Nothing obvious happens.
+24838: That's not a direction.
+24861: Not that way you can't.
+24893: Keep your hands to yourself.
+24918: You achieve nothing by this.
+24951: Futile.
+24980: You talk to yourself a while.
+25007: This provokes no reaction.
+25035: There is no reply.
+25054: Nothing is on sale.
+25073: Your singing is abominable.
+25107: Time passes.
+28117: [Advanced to "noun" token:
+53056: Beta testing mode remains off.
+53272: Beta testing mode remains on.
+53463: Beta testing mode is now off.
+53525: Beta testing mode is already on.
+53553: Turning scripting on...
+54205: " of "
+54244: " list of "
+54325: " has no "time_left" property
+54355: The object "
+54415: The room "
+54429: " has no "description" property
+73645: Trace off.
+74879: Nothing is in scope.
+79089: That way lies the only exit.
+79706: The hatch is already open.
+79987: The hatch is currently closed.
+81082: Nothing Happens.
+81131: Both hatches are open.
+81173: Both hatches are closed.
+81328: The inner hatch is closed.
+81391: The outer hatch is closed.
+81873: The outer hull door closes.
+82252: WOOSH!!!
+82659: The inner hatch closes.
+82679: Nothing Happens.
+84650: You can't board that!
+84674: That doesn't seem to help.
+84722: You can't do that.
+84746: You can't do that.
+84789: Slow Printing Enabled.
+84821: Slow printing disabled.
+84859: You can't fly indoors!
+87507: in" or "notin
+87523: opmhas" or "hasnt
+87665: }" at end of "objectloop
+90064: Score:
+90072: Moves:
+90080: Time:
+90088: Main Systems says, "There doesn't seem to a path that way Chrysilya."
+90512: Please give one of the answers above.
+90544: Main Systems asks, "What was that last command?"
+90584: [You can't "undo" what hasn't been done!]
+90624: [Can't "undo" twice in succession. Sorry!]
+90664: Main Systems says, "Sorry Chysilya, I can't help with that one."
+90720: Main Systems says, "Your welcome, Chysilya."
+90760: Main Systems says, "I can only correct one word with the 'oops'
+command."
+90816: Main Systems says, "There isn't enough light for the visual sub-systems
+to operate Chrysilya."
+90888: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+90952: Main Systems says, "You cannot repeat that command."
+90992: You seem to want to talk to someone, but I can't see whom.
+91040: To talk to someone, try "someone, hello" or some such.
+91080: Main Systems says, "I don't understand Chrysilya, could you rephrase the
+last command?"
+91184: Main Systems says, "I don't see what you're refering to Chrysilya."
+91240: You seem to have said too little!
+91264: You can't use multiple objects with that verb.
+91304: You can only use multiple objects once on a line.
+91344: You excepted something not included anyway!
+91376: You can only do that to something animate.
+91408: Main Systems says, "Chrysilya, are you okay? I don't recognise that last
+command."
+91472: Main Systems sighs, "Do we need to attempt everything that pops into our
+synaptic loops?"
+91536: I didn't understand the way that finished.
+91688: Are you sure you want to restart?
+91712: The game file has verified as intact.
+91744: The game file did not verify as intact, and may be corrupt.
+91792: Attempt to begin transcript failed.
+91824: Attempt to end transcript failed.
+91848: You're carrying too many things already.
+91880: You can't put something on top of itself.
+91912: You can't put something inside itself.
+91944: That would scarcely empty anything.
+92008: You can only get into something free-standing.
+92048: But you aren't in anything at the moment.
+92080: You'll have to say which compass direction to go in.
+92120: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+92216: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+92304: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+92488: Main Systems says, "Whatever. Please move on."
+92528: This dangerous act would achieve little.
+92560: Nothing practical results from your prayer.
+92592: The dreadful truth is, this is not a dream.
+92624: Digging would achieve nothing here.
+92656: You jump on the spot, fruitlessly.
+92688: You would achieve nothing by this.
+92712: There's nothing suitable to drink here.
+92744: But there's no water here to carry.
+92776: Real adventurers do not use such language.
+92808: Violence isn't the answer to this one.
+92840: There's not enough water to swim in.
+92872: There's nothing sensible to swing here.
+92904: That would be less than courteous.
+92928: Is that the best you can think of?
+92952: You lack the nerve when it comes to the crucial moment.
+92992: I don't think much is to be achieved by that.
+93024: You aren't feeling especially drowsy.
+93398: Best choices are all from the same group.
+93608: Try typing "showverb" and then the name of a verb.
+93760: Output to script file remains plain text.
+93794: </TITLE></HEAD> 
+<BODY bgcolor="white" text="blue">
+93866: Beta testing mode is now on. Comments may be entered by preceding the
+line with a !. They will not be parsed by the game.
+94072: Output to script file remains plain test.
+94104: Beta testing mode is already off.
+94128: <FONT color="red"><STRONG> 
+**************** Beta-test comment above!
+***************
+94272: Comments can only be used in beta testing mode.
+94344: Property value not routine or string: "
+94376: Entry in property list not routine or string: "
+94504: " can only be used as a player object if it has the "number" property
+94770: Smoke pillars rise from the landscape like ghostly skyscrapers while
+debris-filled craters mark every visible portion of land. Fires pollute the air
+and ashes drift like schools of dead fish. Bones, still holding flesh as if
+they might yet be resurrected, lie about in numbers beyond comprehension.
+
+The
+disaster was swift and the destruction wholesale.
+
+You stand alone, face
+disfigured, hips bent to the left, innards exposed on your arms, legs, and
+abdomen. The enemy has moved on, swiftly destroying the entire planet. 
+
+You
+stare through blue, mechanical eyes, methodically traversing your surroundings,
+hoping to find some sign that you did not completely fail.
+95276: Reacting to your internal suggestion, the flight skin tightens slightly
+and aligns itself with the magnetic field surrounding the planet. Then,
+suddenly, you feel the power of flight as your body leaps into the air....
+95434: You must activate your flight skin before attempting to fly.
+95484: Auto-Repair says, "Flight-Skin is currently being repaired."
+95536: Auto-Repair says, "Partial systems failure."
+95614: Auto Repair says, "Complete system failure imminent."
+95664: Your meter and a half frame is currently completely encased by the
+flight skin organism.
+95728: Standing about a meter and a half in height, your external feminine
+coverings are nearly unrecognizable beyond the damage done in battle. You
+examine yourself and once again shrug at the human engineer that decided to
+make you in her own image. Outside of the normal humaniform features is a wide
+utility belt built into your waist
+95954: Your face is disfigured and torn, exposing wires and pieces of bent
+metal.
+96014: Both of your legs have sharp burns showing surface damage.
+96058: Your arms have scrapes and burns but nothing too serious.
+96106: Your hips are bent to the left from the impact of a nearby shock
+grenade. It does not seem to be impeding your stride too much.
+96340: You can't remove the utility belt because it is a part of you.
+96436: smoke litter the entire landscape while ashen clouds form dark and
+foreboding shapes in an angry red sky. The earth trembles from dislocated
+tectonic plates and the atmosphere is quickly becoming unbreathable and
+unlivable. A smoking forest can be seen to the west, a large steel-gray city is
+burning to the north, and the edge of an enormous smoldering crater lies to the
+east.
+96696: In all directions you behold an eerie site. Everything is frozen, from
+the cotton like smoke, to the reddish orange flames of burning embers. A forest
+below what seems to be a tremendous cloud of frozen smoke can be seen to the
+west, a large city to the north, and a crater to the east.
+96896: Through wisps of smoke you see a tremendous crater.
+96936: Vaporous clouds weave through a city skyline devastated by holocaust.
+96984: A burning forest forms a wall of smoke and ashes.
+97024: A vast wasteland of burning flesh overwhelms the southern view.
+97072: As you gaze upward you see an angry red sky filled with clouds of smoke
+and floating ash.
+97136: The destruction makes it impassable.
+97168: Like evil specters, ashen clouds cast foreboding shapes, hovering above
+the land. High above in the darkened sky you see the tiny flickering of
+spacecraft in orbit around the planet.
+97296: Through ashes and flames the remains of a forest blisters the western
+horizon.
+97352: Through wisps of unnatural fog you glimpse a deep and wide crevice.
+Memory lapses prevent you from remembering how this crater was formed, but a
+quick reading of gases and radiation tell you that a small thermonuclear device
+was detonated recently.
+97528: Outside of the large crater to the east, there are many smaller craters
+marking the landscape.
+97600: Standing on the southern edge of the largest city on the planet, you
+survey the results of thermonuclear war. Although some structures remain
+standing, there is nothing left but the plasteel infrastructures of once proud
+and magnificent towers and buildings. A dense fog of death parades around the
+city in dust-devil frenzy. The stench of burnt flesh and fused materials is
+overwhelming and guards the city far better than its previous occupants ever
+could.
+97920: Standing on the southern edge of the largest city on the planet, you
+survey the results of thermonuclear war. Although some structures remain
+standing, there is nothing left but the plasteel infrastructures of once proud
+and magnificent towers and buildings. Thick frozen fog hovers above the entire
+landscape and a noticeable absence of smell is present.
+98168: The smell of burning flesh forces you to turn off your external sensors
+for a moment. It's simply overwhelming, even to an android.
+98264: Your external sensors indicate a distinct lack of smell.
+98304: The land drops out of view, as if sunken in dispair.
+98344: A large city, bent in destruction, encompasses the northern skyline.
+98392: Through a distant ashen smog you see the remains of a space port.
+98440: A battlefield drifts in and out of view through a dense fog.
+98488: As you gaze upward you see an angry red sky filled with clouds of smoke
+and floating ash.
+98636: the large forest west of the city is now a field of burning stumps and
+smoking brush. The battlefield can be seen to the east and a burning field
+opens to the west.
+98752: A battlefield drifts in and out of view through a dense fog.
+98800: The burning forest stretches out of sight.
+98832: The forest dwindles into a burning field.
+98864: As you gaze upward you see an angry red sky filled with clouds of smoke
+and floating ash.
+98928: The vast farmland west of the city and forest is completely blackened by
+plasma-fire and thermonuclear explosions. The radiation is so bad here that no
+human, animal, or plant life could have survived. The remains of a forest can
+be seen to the east and the remains of the spaceport can be seen to the
+northwest.
+99144: A burning forest stretches out of sight.
+99176: The scorched fields continue beyond sight.
+99208: Through ashen smog you see the remains of a space port.
+99248: As you gaze upward you see an angry red sky filled with clouds of smoke
+and floating ash.
+99312: The remnants of a forest and space port can be seen to the east and
+northwest, respectively.
+99376: High radiation and wisps of smoke dance within the confines of this
+enormous catastrophe. You're at the center of a crater created by a
+thermonuclear weapon, two hundred meters below the natural landscape and half a
+klick east of the battlefield. Through the haze, a smaller crevice appears on
+the northeast edge of the crater.
+99600: The crater angles steeply. Too steeply to traverse.
+99640: A small crevice appears through the haze.
+99672: As you gaze upward you see an angry red sky filled with clouds of smoke
+and floating ash.
+99736: The crater is too steep here, you can't seem to get more than a dozen
+meters before sliding back down to the center.
+99816: Through the smoking debris a lone crevice can be seen to the northeast.
+Your internal sensors suggest this may have been a river before the war.
+99916: Once an active space port, the surrounding area is now a cemetery of
+twisted ships, buildings, and hangars. A large hole, presumably once the
+control tower, marks the center of a wide circle of destruction. Smoking fields
+can be seen to the southeast.
+100096: Your Main System replies, "Ambiguous query. Please restate your
+intentions."
+100156: There are literally hundreds of twisted ships, mainly light
+non-spacefaring aircraft that operated off the magnetic field of the planet,
+although a few of them are of the larger, 'warp' variety.
+100296: The light planet-bound spacecraft are completely destroyed.
+100340: Clearly, the warp ships received extra attention in the recent battle.
+All of them are melted slags of metal. Amazingly, one such ship survived
+complete destruction, so much so that the name 'Caledonia' is still visible on
+it's hull.
+100510: The Caledonia looks to have been a reconnaissance warp vehicle. The
+nose of the ship is twisted into a single mass of plasteel, while much of the
+main cabin seems to have survived. A hole, probably where the air-lock once
+was, has been blasted through to the inside.
+100698: You climb inside the Caledonia...
+100732: Inside the Caledonia's main cabin the destruction is more personal.
+Four distinct blasts incinerated the crew, their charred remains fused with the
+port-side hull. The air-lock was breached with a large plasma rifle or some
+directed explosive, the bridge of the ship is a ball of melted plasteel, and
+the rear compartments seem to be in a similar state.
+100982: Since the safety cable is attached to your belt and to the control
+panel, leaving the ship is impossible.
+101058: The hull is mostly intact except for the burn marks from recently
+deceased and the bridge.
+101128: The rear compartment is a mass of impenatrable plasteel.
+101168: The blast created a hole just large enough to remove the air-lock
+itself, but the control panel is still visible.
+101250: The control panel is in ruins except for a safety cable which is
+attached at both ends to the control panel.
+101332: The control panel is in ruins except for a safety cable which is
+attached at one end to the control panel.
+101410: The control panel is in ruins except for two small sockets where a
+safety cable can be attached.
+101484: The control panel sockets are small octagonal fittings, universal in
+design, for connecting a safety belt or a spacewalking tether.
+101592: The safety cable is a short (one meter) length of sofsteel cabling used
+to protect against emergency depressurization while in space. Anyone secured to
+the control panel via the safety cable would be anchored against such a
+consequence and hopefully have time to secure at least one of the hatches of
+the air-lock
+102106: You must detach an end of the safety cable before you can attach it to
+something else.
+102410: The AEFG System says, "Inventory manipulation in FAST TIME is extremely
+dangerous. For your protection, this command will be ignored.
+102520: The Main System says, "Both the AEFG and FlightSkin Systems report
+drastic consequences for this action. For your protection, it will be ignored.
+102630: You can't drop the safety cable while it is attached to your belt.
+102680: In the bottom of the riverbed, you find the boiled and battered remains
+of both animal and plant life. Although the river once flowed from north to
+south, only the north seems passable. On either side, one to the southwest and
+one to the east, you see small ledges to carry you up and out of the river
+bottom.
+102894: Through wisps of smoke you see a tremendous crater.
+102934: Vaporous clouds weave through a city skyline devastated by holocaust.
+102986: The riverbed is angles upward steeply and remains impassable.
+103036: A series of small ledges look climbable in that direction.
+103082: As you gaze upward you see an angry red sky filled with clouds of smoke
+and floating ash.
+103150: The southern portion of the riverbed is filled with dangerous pitfalls.
+103202: The western bank of the riverbed is too steep, but a slight adjustment
+to the southwest allows you an escape.
+103284: The northwest portion of the bank is far too high to even consider
+climbing.
+103342: Between the open riverbed to the north and the ledge leading up to the
+east, a tower of rock blocks any movement.
+103424: The gradually higher southeast bank is beyond your reach.
+103466: Your sensors determine that nearly ninety-seven percent of the water
+once contained in this riverbed has evaporated and the remaining moisture is
+hardly noticable by even your equipment.
+103600: The range of species destroyed with the river is too numerous to
+classify. You turn your attention elsewhere.
+103678: Clearly, the river has been destroyed by the war. The most likely cause
+is the extreme temperatures from thermonuclear bombs.
+103768: Adjusting to low light, you make out the muddy remains of a once
+thriving underground river. Fossils and roots adorn the floors, walls, and
+ceiling while the echoes of splashing water emanate from all around. Mud still
+glistens with sweat throughout most of the tunnel.
+103956: As you gaze upward you see an angry red sky filled with clouds of smoke
+and floating ash.
+104022: Everything glistens with the muddy remnants of a once thriving
+underground river.
+104082: Main Systems says, "Mud: A slimy, sticky, or slippery mixture of water
+and silt or clay-sized earth material, with the consistency ranging from
+semi-fluid to soft and plastic."
+
+"Let's move on Chrysilya," it continues in a
+firm robotic tone.
+104266: Various amphibian fossils can be seen embedded in the glistening mud.
+104322: As you closely examine the walls, it becomes clear that the western
+wall is drier compared to the rest of the tunnel. In fact, a distinct
+rectangular shape can be seen within the drier mud.
+104460: It seems to be a door of some kind.
+104490: The door is hidden within the wall somehow.
+104528: Taking a chance, you press inward on the door-like shape and after a
+brief hissing noise, the wall opens.
+104604: Main Systems says, "I would suggest pushing on the door. This looks
+like a model 6XA7B4901-09 underground river hidden door and that is the method
+used to open this model door."
+104742: There doesn't seem to be anyway to close it.
+
+Main Systems notices your
+pause and reples, "I don't know either."
+104830: You've just entered what seems to be a hidden enemy bunker. It's clear
+that the Tra 'Jan Gore were entrenched long before they began the war. The
+bunker is empty except for a plasma rifle rack on the far wall.
+104982: The rack once contained hundreds of weapons. Unfortunately, it is empty
+now.
+105040: In all directions the land is a waste. Craters, bones, flesh, smoke,
+and the remnants of war litter the entire landscape. The sky, an angry red, is
+filled with ashen clouds. The earth trembles from dislocated tectonic plates
+and the atmosphere is quickly becoming unbreathable and unlivable. A plume of
+gas shoots out of the ground nearby and an unopened rusty hatch has been
+uncovered in the ground.
+105320: In all directions the land is a waste. Craters, bones, flesh, smoke,
+and the remnants of war litter the entire landscape. The sky, an angry red, is
+filled with ashen clouds. The earth trembles from dislocated tectonic plates
+and the atmosphere is quickly becoming unbreathable and unlivable. A plume of
+gas shoots out of the ground nearby and a rusty hatch opens to a dark chamber
+below the ground.
+105598: In all directions the land is a waste. Craters, bones, flesh, smoke,
+and the remnants of war litter the entire landscape. The sky, an angry red, is
+filled with ashen clouds. The earth trembles from dislocated tectonic plates
+and the atmosphere is quickly becoming unbreathable and unlivable. A plume of
+gas shoots out of the ground nearby.
+105838: A plume of gas shoots out of the ground nearby, forcing you to stumble
+sideways.
+105898: Nothing but barren country can be seen.
+105934: Vaporous clouds weave through a city skyline devastated by holocaust.
+105986: A dried-up riverbed weaves through the land and beyond that, a huge
+crater can be seen.
+106054: As you gaze upward you see an angry red sky filled with clouds of smoke
+and floating ash.
+106118: You don't see a way to climb downward from here.
+106156: The land is blackened from battle, leaving nothing behind.
+106202: You scrabble down onto all fours and dig your fingers into the ground
+near the geyser. After an hour of hard labor, you finally locate and clear dirt
+off of a square rusty hatch.
+106332: You've been digging around here already. The rusty hatch is proof
+enough of that.
+106396: The skeletal remains of all life on this planet can be seen everywhere.
+Whatever damage the enemy had done, leaving the remains was likely a reminder
+to whomever may think of challenging them again.
+106538: From the burning land rises foul-colored gases and smoke. Where flesh
+and bone will eventually turn into soil, most of the living have been vaporized
+and are now apart of a death-filled fog.
+106678: The gas plume is shooting pure hydrogen out of a manmade hole in the
+ground.
+106734: The gas plume is currently frozen, as if a tree of cotton stood in
+front of you.
+106794: Ignoring the gas plume, you try to look inside the vent and fail to
+discern anything extraordinary.
+106870: The hole is about twenty centimeters wide, obviously the broken portion
+of a cooling system buried beneath the ground.
+106954: The hatch is about a meter square, rusted, with a handle inset into the
+metal.
+107016: The hatch swings open, revealing darkness below.
+107052: You push the hatch up and it bangs onto the surface above.
+107200: ymechanically deployed bunker). The interior hatch in the floor is
+closed and the
+107330: Typical in wartime, the rations are basic liquid and solid refreshment
+usable by humans and androids.
+107408: You can't eat while the AEFG is activated.
+107442: You can't eat while the flight skin is activated.
+107484: You consume what seems to be the last of the rations. Hopefully, you
+won't need to find anymore.
+107558: Auto-Repair says, "Main systems are now at full power."
+107608: The interior hatch is about a meter round and locked.
+107676: units were designed to withstand two assaults. The first assault would
+give access to this room and the second assault would eventually gain access to
+the lower compartment. It seems as though there was no second assault because
+the interior hatch remains locked and intact."
+107864: You bang on the interior hatch but there is no response. Internal
+sensors are unable to penetrate the floor. There is no way to know if anyone is
+down there.
+107974: Hovering about three hundred meters above the ground you survey the
+battlefield below. The destruction is even more daunting from up here.
+108072: With only a minor communication, the flight-skin gently carries you to
+the ground....
+108136: You close your eyes and communicate to the flight skin that you wish to
+travel to the planet's orbital plane.
+
+With a sudden hardening, the skin turns
+you into a speeding bullet, streaking though clouds, thin air, and then into
+space....
+
+Spectral lights and noise attack your senses as you fly through the
+different layers of atmosphere. Suddenly, you're swimming in the dead silence
+of the void.
+108418: In all directions, the pocked-mark devistation smokes and billows from
+below. You fly around in circles, afraid of losing the landmarks below.
+108526: From this height you see the destruction of an entire continent. Little
+remains of the once plush green earth, the rolling hills, crystal lakes, and
+shining cities.
+108644: The immensity of space overwhelms the senses and humbles even the most
+callous soul. For an android, it is a baptism of power, because your human
+creator gave you the ability to be here, and weakness, because one rather small
+android in the middle of space is hardly anything that matters....
+108854: Floating in a low orbital plane, you peer down at an ash covered world.
+All around you are the lights of distant stars and the loneliness of the void.
+108962: Normally this view would be breathtaking, and concentrating on the
+large bodies of water, it is. But when you look at the land based areas of the
+planet, all hope fades, for the planet is blackened and burning. Even from this
+height you can see massive destruction. It doesn't appear that a single area of
+habitation has survived the war with the Tra 'Jan Gore.
+109226: The sleek ship is one of the Tra 'Jan Gore's lightweight spacecraft,
+modeled after their most revered idol, a fish called the "Cho 'Ang Zore". With
+large dorsal and pectral fins, a pair of forward windows, the ship clearly
+bears the idols resemblance.
+
+Main Systems notes, "The reason they chose this
+particular fish is because of its quite deadly striking capabilities."
+109500: The Cho 'Tak Ru seems frozen in place.
+109536: Unfortunately, the Cho 'Tak Ru is moving too fast and already moving
+away from you. No matter how hard you try, you can't seem to grab onto the
+sides.
+109646: The AEFG does the job, allowing you to grapple onto the spaceship. You
+quickly locate the hatch, searching for some way to gain entry.
+
+Main Systems
+says, "Safety sub-systems report an extemely high chance of failure in this
+course of action. I suggest returning to the planet. Immediately."
+109866: Main Systems says, "Tra 'Jan Gore Chrysilya. Safety sub-systems
+recommend immediate return to the planet's atmosphere."
+110086: There is a small button next to the door.
+110120: With the Cho 'Tak Ru moving so swiftly, you get slightly disoriented
+and slip away...
+110184: As you press the small button, the air-lock depressurizes and the door
+swings inward. You jump free of the door before it closes behind you and the
+air-lock pressurizes, filling with oxygen.
+110320: The ships computer says, "Captain, there is an intruder in the
+air-lock; species android; main systems at full strength; no apparent weapons.
+Advise caution."
+110448: This is the air-lock of the small ship.
+110480: The inner hatch opens to the ship proper, while the outer hatch close.
+110536: The inner hatch is closed, while the outer hatch opens to the void of
+space.
+110592: A panel on one of the two remaining walls controls them. The airlock is
+currently
+110650: You can't leave the air-lock while attached to the safety cable (which
+is attached to the control panel).
+110732: You can't leave the air-lock while attached to the safety cable (which
+is attached to the control panel).
+110812: The inner hatch, currently sealed, leads to the main cabin of the ship
+and has a small window.
+110884: The inner hatch leads to the main cabin of the ship and stands open.
+110936: The outer hatch leads to space and is safely sealed shut.
+110978: The control panel consists of a green button, a white button, and a red
+button. Below the three buttons is a safety cable which is attached at both
+ends to the control panel,
+111106: The control panel consists of a green button, a white button, and a red
+button. Below the three buttons is a safety cable which is attached at one end
+to the control panel.
+111232: The control panel consists of a green button, a white button, and a red
+button. Below the three buttons are two small sockets where a safety cable can
+be attached.
+111346: The control panel sockets are small octagonal fittings, universal in
+design, for connecting a safety belt or a spacewalking tether.
+111444: It's green, shaped like an arrow, and points to the inner hull door.
+111498: The Tra 'Jan Gore soldier is ejected from the ship! You have only a
+moment before he recovers.
+111574: The pressure from inside the ship forces you out into space, along with
+the Tra 'Jan Gore soldier, who quickly grabs you and fires a plasma bolt
+directly into your torso...
+111700: Quickly, you open the inner hull door...
+
+"KRISH NU KAI!!!!!!" yells a
+surprised Tra 'Jan Gore soldier...
+
+...and then your sworn enemy recovers,
+quickly brandishing its plasma rifle and pointing it at your chest...
+
+PHRISH!
+PHRISH! PHRISH!, three bolts of plasma-fire exit the rifle and milliseconds
+later turn your body into a pile of melted android parts...
+111992: It's a small white button without any indication to its use.
+112036: Main Systems says, "Pressurizing the airlock with the outer door open
+wouldn't be prudent.
+112106: The Tra 'Jan Gore soldier presses a button and the outer hatch begins
+to release.
+112174: You push the white button and the air is suddenly sucked out of the
+chamber.
+112232: The flight skin protects you from the airless room though.
+112274: Fortunately, your self-protection systems activate the Flight Skin...
+112334: You push the white button and the air is suddenly sucked out of the
+chamber.
+112390: Main Systems says, "Pressurizing the airlock with the outer door open
+wouldn't be prudent.
+112458: You push the white button and the air is restored inside the chamber.
+112514: It's red, shaped like an arrow, and points to the outer hull door.
+112570: The combination of the air-lock opening along with the sudden
+depressurization of the air-lock catapults you out of the ship along with the
+safety cable.
+112682: The combination of the air-lock opening and depressurizing catapults
+you into space.
+112748: The outer hull door opens to a calm and empty view of space.
+112796: It's a small round window that shows a portion of the inside of the
+spaceship.
+112856: As you look through the window, a Tra 'Jan Gore soldier leaps into
+view.
+112910: Through the window in the inner hatch you see a Tra 'Jan Gore soldier
+coming into the main cabin from the bridge.
+112994: The Tra 'Jan Gore soldier stares at you with a wide grin and a large
+battle rifle in its arms.
+113068: Movement in the inner hatch window forces you to notice the Tra 'Jan
+Gore soldier staring directly at you with a wide grin.
+113160: The Tra 'Jan Gore soldier reaches for the red button on the inner
+control panel...
+113222: An intuition tells you to look inside the ship and is confirmed. The
+Tra 'Jan Gore soldier is reaching for the red button on the inner control
+panel...
+113334: The Tra 'Jan Gore soldier presses the red button...
+113378: Through the window you see the Tra 'Jan Gore soldier press the red
+button...
+113444: As you're ejected from the air-lock, your flight skin activates
+automatically...
+113508: You're violently ejected from the air-lock...
+113552: The inside of the ship is a utilitarian's utopia. Inset lockers line
+both sides, a hatch leads to the pressure chamber and an open doorway leads to
+the bridge.
+113664: The Tra 'Jan Gore soldier outside of the ship is quickly making his way
+back...
+113728: Through the window of the inner hatch, you can see that the Tra 'Jan
+Gore soldier is quickly making his way back to the ship...
+113824: The Tra 'Jan Gore soldier is back inside the airlock and moving fast...
+113880: Through the window of the inner hatch, you can see the Tra 'Jan Gore
+soldier reach the airlock...
+113952: Before you can reach the bridge, the Tra 'Jan Gore soldier leaps into
+the ship and fires a plasma bolt into your back.
+114038: You can't go anywhere while the safety cable is attached to you and the
+control panel.
+114104: A standard plasma rifle locked to killing force.
+114138: As you aim the rifle through the airlock, the Tra 'Jan Gore soldier
+leaps forward...but you have just enough time to fire a single plasma bolt into
+its chest, killing it.
+114266: You can't fire through the airlock doors.
+114312: The control panel consists of a green button, a white button, and a red
+button. Below the three buttons
+114528: The enemy is at least two and half meters tall, wearing heavy body
+armor and a fierce grin.
+114592: The Tra 'Jan Gore soldier leaps back into the ship, aims his plasma
+rifle at you and fires.
+114664: This is the bridge of the ship, where command controls reside. There is
+no door between here and outward to the aft cabin.
+114762: Your main systems include all functions that provide information and
+health to your android body.
+114836: Your systems report a list of several million 'things' that you could
+theoretically identify in your sensor range and concludes that this command is
+a malfunction.
+
+Main systems replies, "Please be more specific."
+114992: Main Systems says, "Another bug in the system Chrysilya. Please avoid
+that command for the time being."
+115070: Main Systems says, "Jumping in mid-air may seem like an appropriate
+task to you, but it is causing a great deal of confusion among the sub-systems.
+Please stop using that command."
+115202: Main Systems ignores your command.
+115234: Main Systems says, "Another bug in the system Chrysilya. Please avoid
+that command for the time being."
+115318: Main Systems says, "Jumping in zero-gravity may seem like an
+appropriate task to you, but it is causing a great deal of confusion among the
+sub-systems. Please stop using that command."
+115454: Main Systems ignores your command.
+115494: Your memory systems include all of your past experiences recorded in
+artificial synaptic loops.
+115562: "Chrysilya!" cries a little girl nearby. You try to look for the
+wimpering child, suddenly seeing her dirty face...
+
+PHRISH! PHRISH! PHRISH! the
+distinct sound of a plasma rifle suddenly obliterates the little girl and
+silences her cries.
+
+Your deeply encoded human protection systems are reeling
+from the attack. Other children cry out, followed by more plasma bolts, and
+then longer moments of silence. On your knees, with your empty plasma rifle,
+you bite down an urge to wail when suddenly a roving Tra 'Jan Gore landbiter
+hits you square in the chest, dragging you until your systems begin to fail...
+116010: "INCOMING!!!", yells Dal MKor, and everyone in the bunker ducks down to
+shield their heads.
+
+BOOOM!!! BOOOM!!! BOOOM!!!
+
+The bombs explode one after
+another and immediately afterwards Dal yells at you, "Get the time displacement
+device!!! It's our only hope now!!!"
+
+He pushes you up through the hatch and
+immediately pulls it shut.
+
+People are fighting and dying everywhere. Bombs are
+exploding, plasma bursts are streaking through the sky, and smoke fills the
+air. You can barely see a meter in any direction when suddenly a Tra 'Jan Gore
+troop marches by, and you dive for cover...
+116464: "Chrysilya, welcome to Earthangelos!" says a tall dark man. "I am Dal
+Mkor, your sponsor." Pointing to a group of small children he says, "Your
+charge is here to greet you." Then speaking to the children he says, "Alright
+kids, say hello to Chrysilya." and the children obediantly sing, "Hellooo
+Chrysilya!!!" and give you a short round of applause.
+
+Your internship has
+begun at last. You will be the sole teacher for these children for the next
+twelve years, guiding them through adolesence and into adulthood. Your synaptic
+nervous system is unusually fluid today. You feel almost emotional...
+116898: "Dal Mkor is showing you Earth's primary protection mechanism in an
+underground cavern. "As you know Chrysilya, we've had warnings about a
+potential invasion by the Tra 'Jan Gore. We've prepared for this possiblity for
+hundreds of years. This device (pointing to a massive cylindrical container) is
+a large-field time displacement device. If left untouched, it will memorize
+everything within this solar system. While we are at peace, the device is
+'reset' every night at midnight. If we were ever to come under attack, we would
+simply wait until we knew as much as possible about the attack, and execute a
+recall on the device. This must be done by an android since no human is likely
+to survive a large scale invasion.
+
+By executing a recall, everything in the
+solar system would revert back to the original reset-point, except for that
+android, who would remember everything.
+
+Anything within about 12 meters of the
+device will in fact remain exactly the same. Everything outside of that 12
+meter space out to 500 billion kilometers would be reverted. We've chosen you
+Chrysilya to handle this critical duty. We plan to add armor and other
+essential protections to your android body so you can withstand any assault."
+117764: Memory Systems says, "Flashbacks are being triggered by visual
+patterns. I'm attempting to fix the problem. Please be patient."
+117862: Memory Systems says, "It appears that the problem is in the central
+memory core. One of the redundant bridges is corrupted by plasma burns. This
+may need a surgical bath."
+117988: Memory Systems says, "All diagnostic measures have been exhausted. The
+flashback problem will continue until a surgical bath is located."
+118092: Memory Systems, "Nothing new to report."
+118130: Memory Systems, "Nothing to report."
+118192: The anti-entropic field generator operates internally within one of
+your sub-systems using the commands, [SLOW TIME] and [FAST TIME]. In a confined
+area (your body space), the AEFG will speed up time so that your surroundings
+seem to be frozen.
+118384: The AEFG system responds, "System recharging. Check [SYSTEMS] for more
+details."
+118456: The AEFG system responds, "Slow time already achieved."
+118502: Your immediate surroundings begin to flow normally again.
+
+The AEFG
+system confirms, "Slow time achieved."
+118586: The AEFG system responds, "System recharging. Check [SYSTEMS] for more
+details."
+118664: Everything begins to blur for a moment and then all of your
+surroundings seem to stop. There is neither sound nor movement.
+118750: The AEFG system responds, "Fast time already achieved."
+118798: The AEFG System says, "System recharged."
+118850: Your flight skin is a living organism that resides in a small portion
+of your plasteel skull. When activated with the command [SKIN], the organism
+will 'pour' itself over your entire body, giving you nearly perfect atmospheric
+safety, including all oxygen required by your andriod body. Once the skin is in
+place, you can use normal vertical and compass rose directions to fly. A second
+[SKIN] command will send the organism back into its protective home. The skin
+does not provide protection against most weapons.
+119224: Your flight skin is currently active.
+119252: Your flight skin is currently deactivated.
+119288: You cannot activate the flight skin while the safety cable is attached
+to your belt.
+119348: Activating the flight skin is simply a matter of twitching a specific
+nerve deep within your skeletal structure....
+
+Through an opening the size of a
+nail, the organism flows out and begins the process of enveloping your external
+structure. It does this within a matter of seconds, eventually closing over
+your face and providing oxygen.
+119588: Your self-protection is built far too deeply into your brain to
+accomodate this request.
+119654: The organism slowly returns through the aperature in your skull,
+leaving you in your normal state.
+119728: [Your face is marred by burns, but functional. Auto-repair will not
+waste power to repair it. Your arms and legs are lacerated with burns and large
+wounds. Auto-repair has already begun working on these. Your hip is seriously
+dislocated. Auto-repair cannot handle the damage. You're seriously dehydrated
+and low on energy. Auto-repair currently cannot locate any resources for
+replenishment. Auto-repair reports that resources are required within
+120132: This brings a smile to your damaged face. Auto-repair always makes you
+feel human, especially when reporting upon your eventual demise.
+120234: You're still damaged in places, but for the most part, back to full
+strength.
+120296: Auto-Repair says, "The [SKIN] command is currently unavailable."
+120352: Auto-Repair says, "The Anti-Entropic Field Generator is currently
+offline."
+120412: Auto-Repair says, "The Anti-Entropic Field Generator is currently
+offline."
+120476: This work was inspired by Dan Simmons's Hyperion books, as well as all
+of the other great science fiction authors that I have enjoyed reading over the
+years. The text output is controlled by the status of your well-being - you are
+afterall, an android. Actions within the game allow you to regain your full
+power, but to me, this is an element of the experience of being an android, and
+should therefore not be turned off in order to view the story as it was
+intended. However, if you find this completely annoying, please enter the
+command [NOSLOW], which puts you into what I call -ZarfMode-, since Andrew
+Plotkin told me in an e-mail one time that if I ever implemented this feature,
+he would immediately close the game and never play it again. ZarfMode can be
+exited by entering [GOSLOW].
+
+Beta Testing by:
+- Alexander Deubelbeiss, David
+C. Young, Steve Finney, Mike Sousa, Starkov Stas, Kat Feete, Jennifer Vaughan,
+and Jason Love.
+121168: Main Systems says, "Chrysilya, Your action is unclear."
+121212: Main Systems says, "The ground looks soft and if the memory systems are
+sqwuaking for a good reason, then we're standing above a human construction."
+121324: Main Systems says, "Memory Systems is reporting that something might be
+found near the geyser you visited earlier."
+121412: Main Systems says, "Maybe we should investigate what's below the
+hatch."
+121472: Main Systems says, "Maybe we should investigate what's below the hatch
+near the geyser."
+121538: Main Systems says, "I believe the rations would be very helpful."
+121594: Main Systems says, "I believe the rations in the dark chamber would be
+very helpful."
+121664: Main Systems says, "Memory Systems report access to the space port off
+to the west. We might find more information there."
+121754: Main Systems says, "Maybe you should look around some more."
+

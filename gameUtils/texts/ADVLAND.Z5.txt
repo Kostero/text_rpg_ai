@@ -1,0 +1,323 @@
+11685: Score:
+11699: Moves:
+11716: Time:
+11844: I beg your pardon?
+11888: gpm[Your interpreter does not provide "undo". Sorry!]
+11953: [Can't "undo" twice in succession. Sorry!]
+12126: Sorry, that can't be corrected.
+12161: Think nothing of it.
+12184: d."Oops" can only correct a single word.
+12400: You can hardly repeat that.
+12630: You can't begin with a comma.
+12687: You seem to want to talk to someone, but I can't see whom.
+12778: To talk to someone, try "someone, hello" or some such.
+14428: I didn't understand that sentence.
+14535: You can't see any such thing.
+14568: You seem to have said too little!
+14600: You aren't holding that!
+14629: You can't use multiple objects with that verb.
+14669: You can only use multiple objects once on a line.
+14748: You excepted something not included anyway!
+14786: You can only do that to something animate.
+14824: That's not a verb I recognise.
+14854: That's not something you need to refer to in the course of this game.
+14910: You can't see "
+14955: I didn't understand the way that finished.
+15076: There are none at all available!
+15106: I didn't understand that number.
+17845: Sorry, you can only have one item here. Which one exactly?
+22442: Nothing to do!
+22867: gpm[Your interpreter does not provide "undo". Sorry!]
+22982: Please give one of the answers above.
+24983: Ikc     ahn
+It is now pitch dark in here!
+25194: At the moment, "it"
+25266: and "me" means
+27515: Score:
+27529: Moves:
+27606: Are you sure you want to quit?
+27642: Are you sure you want to restart?
+27677: Failed.
+27694: Restore failed.
+27707: Ok.
+27726: Save failed.
+27737: Ok.
+27751: The game file has verified as intact.
+27778: The game file did not verify properly, and may be corrupted (unless you
+are running it on a primitive interpreter which does not properly implement the
+VERIFY code).
+27971: Transcripting is already off.
+27994: End of transcript.
+28037: Score notification on.
+28061: Score notification off.
+28479: You are carrying nothing.
+28558: M.
+28637: Taken.
+28655: As the bishop said to the actress.
+28728: You already have that.
+28862: That isn't available.
+28935: That's hardly portable.
+28959: Fixed in place.
+29020: You're carrying too many things already.
+29136: You're carrying too many things already.
+29170: You're carrying too many things already.
+29246: Already on the floor.
+29268: You haven't got that.
+29343: Dropped.
+29367: Alas, it is closed.
+29389: But it isn't there now.
+29413: You'll need to take it off first.
+29476: Removed.
+29510: You need to be holding it before you can put it onto something else.
+29591: You can't put something on top of itself.
+29672: You lack the dexterity.
+29826: Done.
+29882: You need to be holding it before you can put it into something else.
+29989: Alas, it is closed.
+30011: You'll need to take it off first.
+30041: You can't put something inside itself.
+30205: Done.
+30278: That isn't in your possession.
+30315: First pick that up.
+30892: A surreal idea.
+30925: You can only get into something on the floor.
+31075: But you're aren't in anything at the moment.
+31111: You are on your own two feet again.
+31150: You'll have to say which compass direction to go in.
+31408: You can't go that way.
+32098: M.
+32128: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+32232: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+32324: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+32663: Darkness, noun. An absence of light to see by.
+32831: But it's dark.
+32844: You find nothing of interest.
+32875: But it's dark.
+32992: You find nothing of interest.
+33025: You can't see inside, since it is closed.
+33159: I can't see how to unlock that.
+33219: That doesn't seem to fit the lock.
+33283: I can't see how to lock that.
+33311: It is in fact locked now.
+33335: First you'll have to close it.
+33367: That doesn't seem to fit the lock.
+33431: That's not something you can switch.
+33463: It's already on.
+33519: That's not something you can switch.
+33551: It's already off.
+33607: That's not something you can open.
+33639: It seems to be locked.
+33661: It's already open.
+33715: That's not something you can close.
+33747: It's already closed.
+33803: You're not wearing that.
+33912: You're already wearing that!
+34016: aaqfxn. Not bad.
+34034: That was a rhetorical question.
+34058: That was a rhetorical question.
+34090: for a moment there, a deep voice seemed to say "you're on your own".
+34142: The dreadful truth is, this is not a dream.
+34178: That seems unnecessary.
+34211: Keep your mind on the game.
+34234: What a good idea.
+34250: You smell nothing unexpected.
+34274: You hear nothing unexpected.
+34298: You taste nothing unexpected.
+34322: You feel nothing unexpected.
+34372: You feel nothing unexpected.
+34394: The ground is unsuitable for digging here.
+34426: In this game, cutting things up is never helpful.
+34466: You jump on the spot, fruitlessly.
+34494: You would achieve nothing by this.
+34522: You would achieve nothing by this.
+34550: There's nothing suitable to drink here.
+34582: But there's no water here to carry.
+34610: Oh, don't apologise.
+34640: Once upon a time adventurers had moral standards.
+34678: Quite.
+34704: Violence isn't the answer, you know.
+34734: There's not enough water to swim in.
+34762: There's nothing sensible to swing here.
+34794: You can't usefully blow that.
+34818: You achieve nothing by this.
+34842: No, you can't set that.
+34862: No, you can't set that to anything.
+34890: You wave, feeling foolish.
+34922: But you aren't holding that.
+35005: You are unable to.
+35020: Nothing obvious happens.
+35069: You are unable to.
+35084: Nothing obvious happens.
+35114: That's not a direction.
+35140: Not that way you can't.
+35178: Is that the best you can think of?
+35233: You are unable to.
+35248: Nothing obvious happens.
+35296: You achieve nothing by this.
+35323: Futile.
+35343: You lack the nerve when it comes to the crucial moment.
+35402: No reply.
+35414: Nothing is on sale.
+35446: No reply.
+35522: I don't think much is to be achieved by that.
+35568: Time passes.
+35582: You must have slept yourself out. You certainly aren't drowsy now.
+35702: Taken!
+35721: Safely deposited.
+35768: Obvious exits:
+35955: You can also see:
+36053: You're carrying nothing.
+36072: You're carrying:
+36167: Below you and before the lake is quicksand.
+36207: Boy, that really hit the spot.
+36244: You have nothing in which to carry the water.
+36305: You have nothing in which to carry the water.
+36479: pa,
+Too dry. Fish die.
+36522: Something's too heavy.
+36570: The dragon wakes!
+36634: The dragon is too drowsy to notice.
+36674: The dragon isn't bothered.
+36719: Dragon smells something - awakens - attacks you!
+36763: Boy that really hit the spot!
+36834: TIMBER..
+36861: . Something fell from the treetop and vanished!
+36942: Boy that really hit the spot!
+37011: The mud dried up and fell off.
+37052: Bladder full already.
+37120: The bladder's full.
+37144: That won't hold gas.
+37174: The bladder distends with swamp gas.
+37229: Magic oil attracts magic lamp. Lamp is now full.
+37354: The bites have rotted your whole body.
+37522: The bites are annoying. Perhaps medicine would help?
+37562: The bites are frightening. Get medicine!
+37602: You're bitten by a spider.
+37695: You're holding that already (in the bottle).
+37750: That won't go in the bottle.
+37821: The bottle is now full of water.
+37860: The bottle is now full of bees.
+37883: There is nothing here with which to fill the bottle.
+37971: You release the bees.
+37988: Your bottle is now empty and the ground is now wet.
+38086: Your lamp has run out of power.
+38114: Your lamp is getting dim.
+38167: . It is not currently lit.
+38251: It's too hot.
+38269: Nothing happens.
+38294: A glowing genie appears - drops something - then vanishes.
+38347: A glowing genie appears - drops something - then vanishes.
+38422: A genie appears - says "boy you're selfish" - takes something - then
+vanishes!
+38513: A genie appears - says "boy you're selfish" - takes something - then
+vanishes!
+38572: Nothing happens.
+38599: It's run out.
+38619: You can't put things in the lamp.
+38659: Flameless lamp now on.
+38780: Lock shatters!
+38823: Bees sting you.
+38857: The bear eats the honey and falls asleep.
+38906: Bees sting you.
+38934: You have nothing to carry the bees in.
+38992: The bees attack the dragon which gets up and flies away...
+39063: Bees madden the bear. Bear then attacks you!
+39192: Bees sting you.
+39223: The bladder could only just hold a vapour nowadays.
+39283: Gas dissipates!
+39361: Maybe you should go there?
+39382: Just more dammed lava.
+39457: Something was too heavy!
+39476: You leap across the chasm...
+39549: The bricks dam the lava, revealing a *FIRESTONE*!
+39627: The bear got startled and fell off the ledge!
+39665: You leap across the chasm...
+39714: The bear won't let you!
+39759: The bear won't let you!
+39795: Mirror lands softly on the rug - lights up and says:
+39858: ihn*DRAGON STINGS* and fades. I don't get it - hope you do.
+39915: Don't waste *HONEY*. Get mad instead. Dam lava!
+39967: The mirror hits the floor and shatters into a million pieces!
+40054: The bear rouses!
+40113: Oh no...Bear dodges...CRASH!
+40165: A voice booms out ...
+Treasures have an * in their name. Say 'SCORE'
+If
+you need a hint on something, try 'HELP'.
+40331: by finding and depositing all 13 *TREASURES*, you have solved Scott
+Adams' "Adventureland" and it remains only to say that...
+40474: It is now pitch dark. If you proceed you will likely fall into a pit.
+40537: You fell into a pit and broke every bone in your body!
+40586: Nothing happens.
+40621: Something you're holding vibrated and...
+40663: Something you're holding vibrated and...
+40700: Nothing happens.
+40719: Nothing happens.
+40732: A voice booms out...
+May all your teeth but one fall out, and may that
+one give you toothache.
+(You can't help feeling you have stumbled on a private
+quarrel which is nothing to do with your game.)
+40886: You have nothing to strike a light with.
+40920: Gas needs to be contained before it will burn.
+40971: Gas bladder blew up in your hands!
+40998: Gas bladder blew up!
+41028: The dragon has been blown to bits!
+41074: The bricked window has been blown to bits!
+41106: That won't ignite.
+41122: A voice booms out...
+41213: SCORE.
+41266: You may need magic words here.
+41294: Only 3 things will wake the dragon. One of them is dangerous!
+41381: You may need magic words here.
+41403: kckos :nBlow it up. Try the swamp.
+41447: Nothing happens.
+41460: Something you're holding vibrates, and...
+41502: A voice booms out...
+Find it yourself.
+41676: You can't go that way.
+41744: It is pitch dark, and you can't see a thing.
+41776: As good-looking as ever.
+41796: You're on the shore of a lake.
+41824: The magic word BUNYON is written on the haft.
+41860: You're in a quick-sand bog.
+41884: You're in a forest.
+41900: You're in a branch on the top of an old oak tree.
+To the east you see a
+meadow beyond a lake.
+41968: You're in a sunny meadow.
+41988: You're in a hidden grove.
+42008: You're in a dismal swamp.
+42052: You're in the top of a tall cypress tree.
+42084: "CHOP IT DOWN!"
+42104: You're in a large hollow damp stump in the swamp.
+42148: It looks like ordinary water to me.
+42176: You're in a root chamber under the stump.
+42208: Leading below.
+42220: You're in a semi-dark hole by the root chamber.
+42256: You're in a long down-sloping hall.
+42284: You're in a large cavern.
+42304: You're in a large 8-sided room.
+42340: You're in a royal anteroom.
+42360: You're in a maze of pits.
+42380: You're in a maze of pits.
+42400: You're in a maze of pits.
+42476: You're in a maze of pits.
+42496: You're in a maze of pits.
+42516: You're in a maze of pits.
+42536: You're in a bottom of a chasm. Above 2 ledges. One has a bricked up
+window.
+42592: You're on a narrow ledge by a chasm. Across the chasm is a throne room.
+42644: You're in the Royal Chamber.
+42672: You're on a narrow ledge by the throne room-across chasm-ledge.
+42724: You're in a throne room.
+42742: I think you're in real trouble. Here's a guy with a pitchfork!
+
+You lost
+*ALL* treasures.
+42816: You're in the memory RAM of an IBM-PC. You took a wrong turn!
+42868: You're in a large misty room with strange lettersover the exits.
+

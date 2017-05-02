@@ -1,0 +1,268 @@
+22441: Identification number:
+23883: There is no reply.
+23920: Nothing is on sale.
+24373: Dropped.
+24521: . Not bad.
+25423: Wrahn seem interested.
+26519: Done.
+26602: You are carrying nothing.
+26717: Keep your mind on the game.
+26742: You hear nothing unexpected.
+27656: But it's dark.
+27673: You find nothing of interest.
+27731: Quite.
+27761: Nothing to do!
+27796: o. You have won
+27861: It is now pitch dark in here!
+27888: I beg your pardon?
+27952: Sorry, that can't be corrected.
+27981: Think nothing of it.
+28034: As good-looking as ever.
+28066: You can hardly repeat that.
+28091: You can't begin with a comma.
+28205: I didn't understand that number.
+28234: You can't see any such thing.
+28270: You aren't holding that!
+28311: I'm not sure what "
+28363: That's not a verb I recognise.
+28401: You can't see "
+28508: Nothing to do!
+28525: There are none at all available!
+28973: You must supply a noun.
+28996: You may not supply a noun.
+29021: You must name an object.
+29044: You may not name an object.
+29069: You must name a second object.
+29105: You must supply a second noun.
+29336: That was a rhetorical question.
+29363: Score notification off.
+29386: Score notification on.
+29758: You are unable to.
+29777: Nothing obvious happens.
+29917: That's not a direction.
+29940: Not that way you can't.
+30087: You lack the dexterity.
+30172: Done.
+30254: Please answer yes or no.
+30280: Are you sure you want to quit?
+30400: Removed.
+30431: Failed.
+30450: Restore failed.
+30467: Ok.
+30477: You achieve nothing by this.
+30509: Save failed.
+30524: Ok.
+30631: There is no score in this story.
+30692: Transcripting is already off.
+30758: Transcripting is already on.
+30824: But it's dark.
+30899: You find nothing of interest.
+31155: Your singing is abominable.
+31189: You smell nothing unexpected.
+31216: Oh, don't apologise.
+31245: Keep your hands to yourself.
+31270: You achieve nothing by this.
+31578: Taken.
+31589: You are always self-possessed.
+32101: You taste nothing unexpected.
+32135: You talk to yourself a while.
+32162: This provokes no reaction.
+32188: What a good idea.
+32214: Futile.
+32252: Keep your hands to yourself!
+32277: You feel nothing unexpected.
+32302: If you think that'll help.
+32613: Time passes.
+32656: That seems unnecessary.
+32778: You wave, feeling foolish.
+84694: Variable stack offset wrong:
+84764: Variable stack offset wrong:
+94172: You can't move nothing.
+94210: You can't divide by zero.
+94651: Attempt to 'decide on nothing'.
+94685: Low level error.
+94835: The memory stack is exhausted.
+94877: Error handling external file.
+109396: After moving blanks to back:
+109447: Final state:
+115081: Pass 1:
+115093: Pass 2:
+115105: Pass 3:
+115349: Pass 1:
+115361: Pass 2:
+115373: Pass 3:
+115617: Pass 1:
+115629: Pass 2:
+115641: Pass 3:
+115885: Pass 1:
+115897: Pass 2:
+115909: Pass 3:
+116153: Pass 1:
+116165: Pass 2:
+116177: Pass 3:
+116421: Pass 1:
+116433: Pass 2:
+116445: Pass 3:
+116689: Pass 1:
+116701: Pass 2:
+116713: Pass 3:
+116957: Pass 1:
+116969: Pass 2:
+116981: Pass 3:
+117225: Pass 1:
+117237: Pass 2:
+117249: Pass 3:
+117493: Pass 1:
+117505: Pass 2:
+117517: Pass 3:
+117761: Pass 1:
+117773: Pass 2:
+117785: Pass 3:
+118029: Pass 1:
+118041: Pass 2:
+118053: Pass 3:
+123346: in" or "notin
+123362: opmhas" or "hasnt
+123504: }" at end of "objectloop
+125064: Score:
+125072: Moves:
+125080: Time:
+125088: You can't go that way.
+125220: Violence isn't the answer to this one.
+125248: This dangerous act would achieve little.
+125276: I don't think much is to be achieved by that.
+125336: There's nothing suitable to drink here.
+125364: You can only get into something free-standing.
+125436: You see nothing unexpected in that direction.
+125468: But you aren't in anything at the moment.
+125528: You'll have to say which compass direction to go in.
+125568: You can't put something inside itself.
+125596: You jump on the spot, fruitlessly.
+125652: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+125748: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+125832: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+125944: You see nothing unexpected in that direction.
+126140: Please give one of the answers above.
+126168: [You can't "undo" what hasn't been done!]
+126204: [Can't "undo" twice in succession. Sorry!]
+126244: "Oops" can only correct a single word.
+126272: It is pitch dark, and you can't see a thing.
+126304: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+126364: You seem to want to talk to someone, but I can't see whom.
+126408: To talk to someone, try "someone, hello" or some such.
+126448: I didn't understand that sentence.
+126508: You seem to have said too little!
+126532: You can't use multiple objects with that verb.
+126568: You can only use multiple objects once on a line.
+126604: You excepted something not included anyway!
+126636: You can only do that to something animate.
+126668: That's not something you need to refer to in the course of this game.
+126716: I didn't understand the way that finished.
+126748: Sorry, you can only have one item here. Which exactly?
+126848: You may not name a second object.
+126872: You may not supply a second noun.
+126896: You must name something more substantial.
+126928: The use of UNDO is forbidden in this game.
+126960: That noun did not make sense in this context.
+127084: That would be less than courteous.
+127136: You can't put something on top of itself.
+127168: Are you sure you want to restart?
+127192: Attempt to end transcript failed.
+127216: Attempt to begin transcript failed.
+127244: You aren't feeling especially drowsy.
+127272: Real adventurers do not use such language.
+127304: There's nothing sensible to swing here.
+127332: You're carrying too many things already.
+127364: You lack the nerve when it comes to the crucial moment.
+127404: You would achieve nothing by this.
+127456: The game file has verified as intact.
+127484: The game file did not verify as intact, and may be corrupt.
+127528: The dreadful truth is, this is not a dream.
+129596: I didn't understand that sentence.
+129720: Variable unavailable for this action, activity or rulebook:
+130196: Too many procedural rules acting all at once.
+130230: Too many rulebooks in simultaneous use.
+130262: Too many timed events are going on at once.
+130428: Too many activities are going on at once.
+130458: Tried to abandon an activity which wasn't going on.
+130498: Tried to end an activity which wasn't going on.
+130536: You can't remove nothing from play.
+130564: Tried to access property for a value which didn't fit:
+131222: Attempt to see if a snippet of text matches something which is not a
+topic.
+131278: Attempt to find route or count steps through an implicit relation.
+131422: Attempt to ignore the turn sequence rules.
+131598: The list-writer has run out of memory.
+131630: Attempt to remove the player from play.
+131662: Attempt to remove a door from play.
+131690: Attempt to change the player to a person off-stage.
+131730: Phrase applied to an incompatible kind of value.
+131768: Memory allocation proved impossible.
+131796: Attempt to use list item which does not exist.
+131830: Syntax error in regular expression.
+131858: This interpreter does not support Unicode.
+131892: Only backdrops can be moved to multiple places.
+132026: You can't take the square root of a negative number.
+132068: You can't implicitly repeat through the values of this kind:
+132156: Attempt to set a variable to the wrong kind of object:
+146096: Somewhere nearby is Colossal Cave, where others have found fortunes in
+treasure and gold, though it is rumored that some who enter are never seen
+again. Magic is said to work in the cave. I will be your eyes and hands. Direct
+me with commands of 1 or 2 words. I should warn you that I look at only the
+first five letters of each word, so you'll have to enter northeast as ne to
+distinguish it from north. (Should you get stuck, type help for some general
+hints. For information on how to end your adventure, etc., type info.)
+146468: You are standing at the end of a road before a small brick building.
+Around you is a forest. A small stream flows out of the building and down a
+gully.
+146636: A fairly bland and boring story for a stereotypical adventure game is
+lying here.
+146692: ALL SORTS OF THINGS ABOUT INFORM 7!
+146736: As good-looking as ever.
+146812: How to program: program something. Hey, it is nothing but the truth!
+Afterword reading the manual wonder how you can read a manual that doesn't
+exist.
+146936: No, just kidding.
+146952: No.
+146956: None whatsoever, there isn't a story.
+147068: OH NO! YOU FORGOT TO GIVE THIS GAME A STORY!
+147188: The physical nonexistance of this object confuses you. You quickly
+program a better object.
+147252: The shape, the looks, and the existance of this object in general calm
+you. It definitely exists, and you can accept that fact until you watch a
+horror movie about Less Confusing Objects.
+147384: The shape, the looks, and the existance of this object in general
+confuse you. It doesn't even seem to exist, and if it does, you can't accept
+its existance.
+147496: There is no little scrap of paper here.
+147524: There is no manual here.
+147544: There is no story. You must find one yourself.
+147580: This Game is lying here. Its blandness horrifies you.
+147620: This game has no story.
+147640: This looks like it was written by a five year old or a lobotomy
+patient, the handwritings so bad. After 87 careful hours of study, you make out
+the words "where is the rest of the score you little cheating freak".
+Afterwords you wonder how you can read a note that doesn't exist.
+147836: This room is not relevant to the plot, especially since there is not a
+plot at all.
+147916: Welcome to Adventure!! Would you like instructions?
+147956: What could it be?
+147972: What should I call a game without a story?
+148024: You are standing at the end of a road before a small brick building.
+Around you is a forest. A small stream flows out of the building and down a
+gully.
+148228: You don't see any object at all, because this game has no story.
+148276: You have programmed a cheap ripoff story.
+148308: You have programmed this game, without a story.
+148344: You just got killed by a random monster which you yourself programmed.
+148392: You see an object that you can accept.
+148420: You wake up at three in the morning feeling like you've forgotten
+something.
+148560: This story file does not use a heap of managed memory.
+148880: give" or test "has" or "hasnt" with a non-attribute on the object
+148928: , but it is longer than 2 bytes so you cannot use "."
+

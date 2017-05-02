@@ -1,0 +1,164 @@
+10361: Nothing to do!
+10481: It is now pitch dark in here!
+10508: I beg your pardon?
+10572: Sorry, that can't be corrected.
+10601: Think nothing of it.
+10654: As good-looking as ever.
+10686: You can hardly repeat that.
+10711: You can't begin with a comma.
+10825: I didn't understand that number.
+10854: You can't see any such thing.
+10890: You aren't holding that!
+10932: I'm not sure what "
+10984: That's not a verb I recognise.
+11023: You can't see "
+11134: Nothing to do!
+11151: There are none at all available!
+12046: Please answer yes or no.
+12072: Are you sure you want to quit?
+12117: Failed.
+12137: Restore failed.
+12154: Ok.
+12172: Save failed.
+12187: Ok.
+12231: Transcripting is already on.
+12288: Transcripting is already off.
+12337: Score notification on.
+12358: Score notification off.
+12381: You have visited:
+12409: Objects you have handled:
+12434: None.
+12683: Hmm.
+12822: You are carrying nothing.
+12871: Taken.
+12882: You are always self-possessed.
+13424: Dropped.
+13534: Removed.
+13673: You lack the dexterity.
+13754: Done.
+14020: Done.
+14294: Wrahn seem interested.
+14760: You can't go that way.
+15293: But it's dark.
+15310: You find nothing of interest.
+15346: But it's dark.
+15437: You find nothing of interest.
+16565: . Not bad.
+16583: That was a rhetorical question.
+16637: That seems unnecessary.
+16660: Keep your mind on the game.
+16685: What a good idea.
+16704: You smell nothing unexpected.
+16731: You hear nothing unexpected.
+16756: You taste nothing unexpected.
+16791: Keep your hands to yourself!
+16816: You feel nothing unexpected.
+16841: If you think that'll help.
+16950: Oh, don't apologise.
+16980: Quite.
+17049: You achieve nothing by this.
+17137: You wave, feeling foolish.
+17287: You are unable to.
+17306: Nothing obvious happens.
+17356: That's not a direction.
+17379: Not that way you can't.
+17411: Keep your hands to yourself.
+17436: You achieve nothing by this.
+17469: Futile.
+17498: You talk to yourself a while.
+17525: This provokes no reaction.
+17553: There is no reply.
+17572: Nothing is on sale.
+17591: Your singing is abominable.
+17625: Time passes.
+39014: Ouch!
+41732: Moves:
+41740: Time:
+41748: You can't go that way.
+41992: [Your interpreter does not provide "undo". Sorry!]
+42080: Please give one of the answers above.
+42108: [You can't "undo" what hasn't been done!]
+42144: [Can't "undo" twice in succession. Sorry!]
+42184: "Oops" can only correct a single word.
+42212: It is pitch dark, and you can't see a thing.
+42244: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+42304: You seem to want to talk to someone, but I can't see whom.
+42348: To talk to someone, try "someone, hello" or some such.
+42388: I didn't understand that sentence.
+42448: You seem to have said too little!
+42472: You can't use multiple objects with that verb.
+42508: You can only use multiple objects once on a line.
+42544: You excepted something not included anyway!
+42576: You can only do that to something animate.
+42608: That's not something you need to refer to in the course of this game.
+42656: I didn't understand the way that finished.
+42688: Sorry, you can only have one item here. Which exactly?
+42840: Are you sure you want to restart?
+42864: The game file has verified as intact.
+42892: The game file did not verify as intact, and may be corrupted (unless you
+are playing it with a very primitive interpreter which is unable properly to
+perform the test).
+43008: You're carrying too many things already.
+43040: You can't put something on top of itself.
+43072: You can't put something inside itself.
+43128: You can only get into something freestanding.
+43160: But you aren't in anything at the moment.
+43192: You'll have to say which compass direction to go in.
+43232: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+43328: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+43412: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+43500: Darkness, noun. An absence of light to see by.
+43588: This dangerous act would achieve little.
+43616: Nothing practical results from your prayer.
+43648: Close, but not cigar. Try something more tabaco oriented.
+43692: Digging would achieve nothing here.
+43720: You jump on the spot, fruitlessly.
+43748: You would achieve nothing by this.
+43772: There's nothing suitable to drink here.
+43800: But there's no water here to carry.
+43828: Real adventurers do not use such language.
+43860: Violence isn't the answer to this one.
+43888: There's not enough water to swim in.
+43916: There's nothing sensible to swing here.
+43944: That would be less than courteous.
+43968: Is that the best you can think of?
+43992: You lack the nerve when it comes to the crucial moment.
+44032: I don't think much is to be achieved by that.
+44064: You aren't feeling especially drowsy.
+44120: More darkness....
+44264: Its dark and you can't see. Maybe because you don't have eyes.
+44312: Its darker and you can't see.
+44336: Its darkest and you can't see.
+44360: It be dark, mon, and you can't see.
+44388: It's dark and you can't see.
+44412: It's very bright here. O, wait. No. It's dark. Sorry, my bad.
+44464: Dark here is.
+44476: Hic locus est nox. Caecilius est pater.
+44508: Grue's are afraid of this place.
+44532: You can sense...something...but it sure is dark.
+44662: He, Rybread, is geetin a patten on Noam Chomsky's new grammar and it
+will (crack)rock you. Enjoy the demo.
+44976: You frantically shut and open your lids, imitating the REM you were
+previously wrapped in, but to no avail.
+45056: You regain vision for a moment, a split second. East looked interesting.
+45212: The darkness is here in abundance.
+45236: Your mind dissolves as it touches the pillow. Today has been a busy day,
+and tomorrow will probably be no differant. But your not thinking about that,
+because your mind has already dissolved.
+
+Like liquid, your thoughts drip
+together, falling from mist and mildew. Soon a dream forms. A small lizard is
+dancing to bad jazz. He's on his hind legs, kicking like Russians must have
+kicked during the Cold War. After what seems like minutes, he turns to you. His
+tounge flickers like a dying candle. There are no sounds, yet his tounge's
+writhing and curls seem to talk. "I am the Toe. Tips nil like math ah tame kill
+in spit."  Then the tounge stretches over to your face and pokes your eyes.
+Blinded, your nostrils suddenly become extrasensory as the scent of burn engine
+oil streams in. Then your ears go into overdrive as a manic laughter surrounds
+your being. The scariest part, is your not so sure that it's not you laughing.
+You start running. Blindly.
+

@@ -1,0 +1,469 @@
+15813: Nothing to do!
+15848: o. You have won
+15932: It is now pitch dark in here!
+15959: I beg your pardon?
+16023: Sorry, that can't be corrected.
+16052: Think nothing of it.
+16105: As good-looking as ever.
+16137: You can hardly repeat that.
+16162: You can't begin with a comma.
+16276: I didn't understand that number.
+16305: You can't see any such thing.
+16341: You aren't holding that!
+16383: I'm not sure what "
+16435: That's not a verb I recognise.
+16474: You can't see "
+16582: Nothing to do!
+16599: There are none at all available!
+17509: Please answer yes or no.
+17535: Are you sure you want to quit?
+17580: Failed.
+17600: Restore failed.
+17617: Ok.
+17635: Save failed.
+17650: Ok.
+17694: Transcripting is already on.
+17760: Transcripting is already off.
+17818: Score notification on.
+17839: Score notification off.
+17862: You have visited:
+17890: Objects you have handled:
+17915: None.
+18299: You are carrying nothing.
+18348: Taken.
+18359: You are always self-possessed.
+18892: Dropped.
+19000: Removed.
+19139: You lack the dexterity.
+19220: Done.
+19486: Done.
+19706: Wrahn seem interested.
+20345: You can't go that way.
+20905: But it's dark.
+20922: You find nothing of interest.
+20958: But it's dark.
+21049: You find nothing of interest.
+22177: . Not bad.
+22195: That was a rhetorical question.
+22249: That seems unnecessary.
+22272: Keep your mind on the game.
+22297: What a good idea.
+22316: You smell nothing unexpected.
+22343: You hear nothing unexpected.
+22368: You taste nothing unexpected.
+22403: Keep your hands to yourself!
+22428: You feel nothing unexpected.
+22453: If you think that'll help.
+22562: Oh, don't apologise.
+22592: Quite.
+22661: You achieve nothing by this.
+22749: You wave, feeling foolish.
+22899: You are unable to.
+22918: Nothing obvious happens.
+22968: That's not a direction.
+22991: Not that way you can't.
+23023: Keep your hands to yourself.
+23048: You achieve nothing by this.
+23081: Futile.
+23110: You talk to yourself a while.
+23137: This provokes no reaction.
+23165: There is no reply.
+23184: Nothing is on sale.
+23203: Your singing is abominable.
+23237: Time passes.
+47118: You see nothing of interest.
+47242: You see nothing of interest.
+47282: You see nothing unusual.
+47770: The coat feels rather heavy.
+47829: Its little green light is off.
+47921: Nothing happens.
+48184: The hall is to the west.
+48210: It's a door to the patio.
+48231: It's the door to the lounge.
+48574: I wouldn't fancy your chances!
+48829: You can't reach it from here.
+49158: It's attached to the remote.
+49218: Nothing happens.
+49449: There's nothing under the bed.
+49914: It's much too fragile.
+49958: That doesn't fit.
+50310: The woman walks in.
+50413: Master Thief.
+50445: Thief.
+50456: Opportunist.
+50467: Petty Criminal.
+50485: HELP!
+50531: HINT: Try flushing the toilet.
+50571: You Escaped!
+50585: What a haul!
+50734: That doesn't make sense.
+53120: in" or "notin
+53136: opmhas" or "hasnt
+53278: }" at end of "objectloop
+54472: Burglar!
+54480: A Learning Experience in Inform
+Copyright (c) 2001 by Doug Roberts.
+54696: Score:
+54704: Moves:
+54712: Time:
+54720: You can't go that way.
+55052: Please give one of the answers above.
+55080: [You can't "undo" what hasn't been done!]
+55116: [Can't "undo" twice in succession. Sorry!]
+55156: "Oops" can only correct a single word.
+55184: It is pitch dark, and you can't see a thing.
+55216: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+55276: You seem to want to talk to someone, but I can't see whom.
+55320: To talk to someone, try "someone, hello" or some such.
+55360: I didn't understand that sentence.
+55420: You seem to have said too little!
+55444: You can't use multiple objects with that verb.
+55480: You can only use multiple objects once on a line.
+55516: You excepted something not included anyway!
+55548: You can only do that to something animate.
+55580: That's not something you need to refer to in the course of this game.
+55628: I didn't understand the way that finished.
+55660: Sorry, you can only have one item here. Which exactly?
+55812: Are you sure you want to restart?
+55836: The game file has verified as intact.
+55864: The game file did not verify as intact, and may be corrupt.
+55908: Attempt to begin transcript failed.
+55936: Attempt to end transcript failed.
+55960: You're carrying too many things already.
+55992: You can't put something on top of itself.
+56024: You can't put something inside itself.
+56052: That would scarcely empty anything.
+56108: You can only get into something free-standing.
+56144: But you aren't in anything at the moment.
+56176: You'll have to say which compass direction to go in.
+56216: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+56312: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+56396: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+56572: This dangerous act would achieve little.
+56600: Nothing practical results from your prayer.
+56632: The dreadful truth is, this is not a dream.
+56664: Digging would achieve nothing here.
+56692: You jump on the spot, fruitlessly.
+56720: You would achieve nothing by this.
+56744: There's nothing suitable to drink here.
+56772: But there's no water here to carry.
+56800: Real adventurers do not use such language.
+56832: Violence isn't the answer to this one.
+56860: There's not enough water to swim in.
+56888: There's nothing sensible to swing here.
+56916: That would be less than courteous.
+56940: Is that the best you can think of?
+56964: You lack the nerve when it comes to the crucial moment.
+57004: I don't think much is to be achieved by that.
+57036: You aren't feeling especially drowsy.
+57122: You bump your head on the low ceiling.
+57152: Best to keep the loot in the bag until it's safe.
+57188: You pack the loot safely into your swag bag.
+57220: You can see a well manicured garden below, complete with shed.
+57288: The window is frosted, preventing your from seeing out.
+57328: Trees directly outside the window block your view.
+57364: Through the nearby trees you can make out the distant spire of a church.
+57416: Security precautions prevent the windows from being opened.
+57460: You can see a well manicured garden below, complete with shed.
+57528: The window is frosted, preventing your from seeing out.
+57568: Trees directly outside the window block your view.
+57604: Through the nearby trees you can make out the distant spire of a church.
+57656: It's a good quality floor covering.
+57684: A spider scuttles quickly across the cobwebs and into a crack.
+57728: You're standing outside 11 Morrison Drive, an impressive and well kept
+Georgian townhouse in the leafy suburbs of Surrey. A paved drive provides
+enough room to park a couple of cars.
+57860: The bricks of the driveway are laid in a precise herring-bone pattern.
+57912: A dark blue Ford Mondeo is carefully parked on the road, just far enough
+away to be inconspicuous and close enough in case you need to make a quick
+getaway.
+58020: It's your getaway car, stolen especially for the job. It'll provide you
+with a nice quick exit once you've finished looting the house.
+58116: You climb into your getaway car...
+58172: No, you can't do it. You can't leave empty handed from such rich
+pickings. After all, there's your reputation to think of. Shaking your head you
+get back out of the car.
+58296: It's a large property. Something that you'd never be able to afford,
+well not without a really big score. It's a two story house complete with
+double glazing, artificial pillars and an enviable location.
+58440: This vast hall is obviously intended to impress visitors. A large
+grandfather clock stands on one side with an impressive flight of stairs on the
+other.
+58544: A long dirty coat is hanging on a hook by the front door.
+58584: Rooms lead off to the east and the south. The front door is to the
+north.
+58916: It's a very old grandfather clock. The sound of it ticking away to
+itself reminds you that time is of the essence.
+58996: This study white front door would have prevented access by most thieves,
+lucky for you, you're not most thieves.
+59076: Leaving the house without putting the loot in your swag bag would not be
+a good idea!
+59136: It's a hook on the wall for hanging clothing on.
+59172: The coat, although now dusty, dirty and worthless, wasn't cheap when it
+was purchased some time ago.
+59244: You find a key and a torch in the pockets.
+59276: It's a compact, white answering machine. It's got a single large button
+on it.
+59336: There's a little green light winking at you.
+59368: The button is small, white and has "play" written on it.
+59412: It's attached to the answering machine. If you had a screwdriver handy
+and perhaps a spare ten minutes then maybe you could remove it.
+59508: A plastic voice announces "There are no, new messages"
+59548: A plastic voice announces "There is 1 new message."
+
+"Jefferson, It's
+Margaret. I'll be back this evening around about 7, so I'll see you when you
+get in. If you get this message, remember to feed Bruno."
+
+The machine clicks
+and whirrs as it rewinds the tape.
+59744: The key is made of brass and looks like a door key.
+59780: It's a good quality battery powered torch.
+59812: You need to be holding the torch to do that.
+59844: You're on a landing. There is a bedroom to the west, a study to the east
+and a bathroom to the south. A flight of stairs lead down to the hall where you
+can see
+59956: The deep pile carpet feels springy under your feet. There's a luxurious
+three piece suite positioned around a large coffee table in front of a large
+fireplace.
+60068: The patio can be seen out of the open patio doors to the east.
+60112: The patio doors in the east wall gives the lounge a bright airy feel.
+60160: The table is square with legs carved in the shape of claws.
+60204: The suit consists of a sofa and two armchairs.
+60236: You sit down on the suite. It's really comfortable
+60272: You've found a silver cigarette case down the back of the cushions.
+60320: The fireplace, with its marble surround is certainly impressive although
+it doesn't appear to have been used for some time.
+60420: The lever is in the down position and could be pushed up.
+60460: The lever is in the up position and could be pulled down.
+60500: There is a loud resounding clatter from somewhere below.
+60540: There is a loud resounding clatter from somewhere below.
+60580: An oil painting of a delightful country scene hangs in pride of place
+above the fireplace.
+60644: It's a valuable original painting by the collectable artist Bruce
+Worthington.
+60700: There is now a large empty space on the wall where the painting used to
+be.
+60752: A silver cigarette case! Nice!
+60776: Outside the house on a stone patio surrounding an ornamental pond. The
+garden is to the east.
+60842: You cautiously step past the sleeping dog.
+60876: You roll up your sleeves and feel about in the water, but fail to find
+anything of interest.
+60940: A water-feature is almost obligatory in any well to do estate. This one
+is particuly well kept.
+61008: You give the gnome a mighty whack with the hammer and the gnome
+disintegrates in a cloud of plaster dust! Something falls to the floor.
+61104: No matter what you try, you only manage to achieve a few scratches and
+chips in the plaster.
+61168: It's a hideous gnome made of plaster.
+61196: The large dog is snoring loudly and dribbling on the patio.
+61240: Luckily this large brute of a dog is tied up, but it still stand between
+you and the rest of the garden.
+61312: The dog wolfs the steak down in one mouthful. After a couple of seconds
+it falls into a pile on the paving stones and starts to snore.
+61404: The dog wolfs the steak down in one mouthful and looks at you hungrily.
+61456: The dog seems to be more interested in eating your arm.
+61494: The dog growls at you, pulling at its chain.
+61530: The dog starts to bark, its fearsome eyes staring at you.
+61576: The aggressive animal strains at it's bonds.
+61610: The creature bares its long sharp teeth.
+61644: The monstrous dog watches you closely.
+61676: You are in a well kept garden with neat flowerbeds and a well manicured
+lawn. The house lies to the west. There is a shed to the south.
+61772: The flowerbeds are neat and tidy without a weed in sight.
+61812: You get on your hands and knees and search the flowerbeds but come up
+empty handed.
+61872: The lawn is exceptionally well kept. You'd like to know how they keep it
+moss free and get the light and dark striped in the grass but perhaps now is
+not the time to be thinking of that.
+62000: You get on your hands and knees and search the lawn but come up empty
+handed.
+62056: The statue is incredibly carved and obviously very very old.
+62100: You're in a small windowless shed. It's full of assorted garden junk,
+which judging by the cobwebs isn't used much at all.
+62188: You rummage around the junk in the shed, but fail to find anything of
+use or value.
+62248: It's a plain old hammer with a metal head on a wooden shaft.
+62292: The crowbar is about two feet long with flat curved ends.
+62364: This wooden panelled room must have seen some dinner parties in the
+past. The table runs along the centre of the room. An archway to the east gives
+access to the kitchen. The hall to the north is the only other exit.
+62516: Hanging directly above the table is an impressive crystal chandelier.
+62564: It's a beautiful work of art, incorporating gem stones in its design.
+Judging by the fixings in the ceiling it probably weighs quite a lot too.
+62696: After a couple of good strong blows with the hammer the chandelier comes
+crashing down, the crystal and gemstones showering your helmet like a
+hailstorm.
+62800: The chandelier creaks and groans before suddenly crashing down on top of
+your head. Your world fades to black...
+62880: Everything you try, fails to dislodge any of the gemstones.
+62924: The sturdy table is a deep, highly polished mahogany, large enough to
+seat at least a dozen people.
+62996: It's a very nice crystal fruit bowl. Worth quite a bit to the right
+antique dealer.
+63056: Even you wouldn't destroy something worth a bob or two.
+63096: It's a nice, fresh, ripe apple.
+63120: The gems are of all shapes and sizes from the remains of the chandelier.
+63204: You're in the study with a bookshelf taking up much of the north wall.
+An expensive writing desk takes pride of place in the study, positioned as it
+is, under the window and within easy reach of the bookshelf. The landing is to
+the west.
+63368: The bookshelf contains an assortment of books on a wide variety of
+topics although books about ancient Egypt seem to pop-up again and again.
+63464: Looking through you books, you can't find any worth taking.
+63508: You look through the books on the bookshelf, but fail to find any that
+interest you.
+63568: The desk is made of mahogany and is in itself a wonderful antique. You'd
+never get it down the stairs on your own though.
+63652: It's an exquisitely crafted gold fountain pen.
+63692: It would take far too long to sort these papers out!
+63728: There is nothing else of interest amongst the papers.
+63768: One letter in particular catches your eye, an insurance document.
+63886: Smith regarding a ring that was lost in the garden some months ago.
+63932: The bathroom has all the facilities you'd expect including a toilet, a
+sink and a bath, except this one has marble and chrome everywhere proving yet
+again that taste and wealth are mutually exclusive. The landing is to the
+north.
+64092: The sink, like everything else in this room is constructed of chrome and
+marble.
+64148: The bath is vast and deep.
+64168: The toilet is more of a throne of marble than a toilet. Above the toilet
+is a matching cistern.
+64236: There's a strange rattling sound from the cistern as water swirls around
+the toilet bowl.
+64300: Water swirls around the bowl of the toilet.
+64332: That's not appropriate right now!
+64356: The remote control is made of black plastic and has a solitary button on
+it.
+64408: Hanging on the wall above the sink is a small bathroom cabinet.
+64452: It's exactly where you'd expect medicines and personal hygiene products
+to be stored.
+64512: The label on the bottle reads:
+
+  "Fast Acting Sleeping Pills 
+  To be
+taken only when in bed. 
+  (May cause drowsiness)"
+64604: You press the small pills deep into the raw meat.
+64660: You place the lid back on the cistern.
+64688: It's small and innocent looking rubber button.
+64724: With a loud creaking sound a section of the west wall opens to reveal a
+secret compartment.
+64788: The secret compartment slowly closes until there is no trace it was
+there.
+64840: You're in the bedroom dominated by an impressive four poster bed. You
+can't think of a nice way to describe the fussy floral wallpaper that smothers
+the walls. The landing lies to the east.
+64972: The small black cat is eyeing you with suspicion.
+65008: Despite your best efforts the cat manages to evade you.
+65048: "Do I look like someone who can talk?" replies the cat.
+65092: It doesn't look like a very friendly kind of cat!
+65152: A small black cat wanders into the room.
+65184: It's a large carved four poster bed complete with canopy. Probably worth
+a bit, but there's no way you could carry that!
+65272: There's a magazine and a gold cufflink under there.
+65308: Staring at the wallpaper just gives you a blinding headache.
+65352: An old safe stands in the corner of the room close to the window.
+65400: The safe is an old fashioned free standing safe with a large cumbersome
+lock.
+65456: With a bit of force you manage to prise the door open.
+65496: Sitting inside the safe is a large diamond.
+65528: There's really no point, the safe isn't locked.
+65564: The diamond is impressively large, about the size of a golf ball.
+65612: It's a single gold cufflink inlaid with a blue pattern.
+65652: The pattern on the cufflink looks like an Egyptian scarab beetle.
+65700: It's a magazine entitled "Amateur Archeology". It's got a picture of an
+impressive gold Egyptian death mask on the cover and boasts a super Egyptian
+artifacts supplement. The magazine has obviously been well thumbed.
+65856: This large kitchen looks like something out of a brochure. It's marble
+work surfaces and shiny chrome appliances have probably been cleaned more often
+than they've been used. There's a fridge is whirring away to itself in the
+corner. The dining room is through an arch to the west. A flight of stairs lead
+down to a cellar below.
+66084: It's a device for keeping things cool!
+66148: The butter is rather old.
+66168: Despite your better judgement you force yourself to eat the butter,
+wondering what it must be doing to your cholestorol level.
+66256: You're in dark, dusty cellar. The Kitchen it at the top of a flight of
+stairs. There are cardboard boxes strewn everywhere.
+66344: You rummage in the boxes but find nothing of interest or value.
+66388: The key is quite large and chunky, and would fit a sizeable old lock.
+66436: The crash helmet is designed to protect your head against injuries from
+falling objects.
+66496: It's a metal door in the floor. There seems to be some kind of mechanism
+attached.
+66556: There is a closed trapdoor in the floor.
+66584: There is a closed trapdoor in the ceiling.
+66616: There is an open trapdoor in the floor leading to a passage below.
+66664: There is an open trapdoor in the ceiling leading to the cellar above.
+66712: It looks as if the trapdoor is controlled from somewhere else.
+66756: You're at the end of a low brick walled passage which heads off south
+into the darkness.
+66820: Two dark archways lead off to the east and the west from this end of the
+passage which leads back to the north.
+66896: The roof of this chamber is only barely higher than the passage way to
+the east. The room appears featureless, apart from the cobwebs which festoon
+the brickwork.
+67008: The bricks are old and covered in cobwebs and the mortar around a
+section of the west wall appears to have crumbled away.
+67092: No matter how you try to attack the wall it doesn't seem to make any
+difference.
+67148: The compartment is approximately one foot square.
+67184: An Egyptian sceptre encrusted in jewels.
+67216: You're in a tomb. The passage is back through an archway to the west.
+67268: A stone sarcophagus stands in the centre of the room.
+67308: The lid lies cracked on the floor, revealing an Egyptian mummy wearing a
+death mask.
+67368: The mask lies in the sarcophagus.
+67392: Its heavy stone lid lies cracked on the floor.
+67424: It's a stone sarcophagus covered in Egyptian hieroglyphics.
+67468: Using the crowbar you manage to force the lid off the sarcophagus. It
+falls to the floor blowing up a cloud of dust. As the dust clears you can see
+mummified figure wearing an incredibly beautiful golden death mask.
+67616: No matter what you try, the heavy stone lid refuses to move.
+67660: An exceptionally valuable Egyptian death mask.
+67696: It's just the preserved remains of an ancient Egyptian king.
+67740: The lid has fallen off the sarcophagus and cracked almost in half.
+67788: It's a beautiful golden ring.
+67812: Large brown sack with the word "swag" written on it in large black
+letters.
+67868: They are well worn black leather gloves that have always served you well
+in the past.
+67928: You wouldn't want to be leaving fingerprints now would you?
+67972: An angry looking woman.
+67990: A large angry looking woman stands before you, but before you can react
+she pulls out a taser gun and blasts thousands of volts through you. Your
+unconscious body falls to the floor...
+68122: You hear a car pulling up outside the house.
+68200: You hear the sound of a car door closing from the direction of the
+driveway.
+68274: pens and a large angry looking woman jumps out. You can see the veins on
+her forehead pulsing as she pulls out a taser gun and blasts thousands of volts
+through you. Your unconscious body falls to the floor...
+68420: A large angry looking woman steps into the hall. You can see the veins
+on her forehead pulsing as she pulls out a taser gun and blasts thousands of
+volts through you. Your unconscious body falls to the floor...
+68568: You stop motionless, your heart pounding in your chest as you hear a
+woman's voice call out "Hello? Hello? Is there anyone there?"
+68688: A large angry looking woman steps into the hall. You can see the veins
+on her forehead pulsing as she pulls out a taser gun and blasts thousands of
+volts through you. Your unconscious body falls to the floor...
+68868: It's big, and expensive.
+68888: You are a master thief and you've just broken into one of many
+properties owned by Jefferson Smith, the fifteenth wealthiest person in
+England. All you have to do is load up your swag bag with valuables and get to
+your getaway car. Should be simple...
+
+As planned, the cleaning lady accepted a
+small bribe and left the front door ajar. Without any difficulty you've been
+able to slip into the hallway unnoticed...
+69184: The aim of the game is to strip the house of all its valuables, putting
+them in your swag bag and then make your getaway.
+69268: HINT: Remember it often pays dividends to search everywhere!
+69316: HINT: If only you could get this damn dog to sleep.
+

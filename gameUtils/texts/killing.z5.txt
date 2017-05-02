@@ -1,0 +1,379 @@
+6604: et"   ul "
+10761: Nothing to do!
+10796: o. You have won
+10880: It is now pitch dark in here!
+10907: I beg your pardon?
+10971: Sorry, that can't be corrected.
+11000: Think nothing of it.
+11053: As good-looking as ever.
+11085: You can hardly repeat that.
+11110: You can't begin with a comma.
+11224: I didn't understand that number.
+11253: You can't see any such thing.
+11289: You aren't holding that!
+11331: I'm not sure what "
+11383: That's not a verb I recognise.
+11422: You can't see "
+11530: Nothing to do!
+11547: There are none at all available!
+12457: Please answer yes or no.
+12483: Are you sure you want to quit?
+12528: Failed.
+12548: Restore failed.
+12565: Ok.
+12583: Save failed.
+12598: Ok.
+12642: Transcripting is already on.
+12708: Transcripting is already off.
+12766: Score notification on.
+12787: Score notification off.
+12810: You have visited:
+12838: Objects you have handled:
+12863: None.
+13247: You are carrying nothing.
+13296: Taken.
+13307: You are always self-possessed.
+13840: Dropped.
+13948: Removed.
+14087: You lack the dexterity.
+14168: Done.
+14434: Done.
+14654: Wrahn seem interested.
+15293: You can't go that way.
+15853: But it's dark.
+15870: You find nothing of interest.
+15906: But it's dark.
+15997: You find nothing of interest.
+17125: . Not bad.
+17143: That was a rhetorical question.
+17197: That seems unnecessary.
+17220: Keep your mind on the game.
+17245: What a good idea.
+17264: You smell nothing unexpected.
+17291: You hear nothing unexpected.
+17316: You taste nothing unexpected.
+17351: Keep your hands to yourself!
+17376: You feel nothing unexpected.
+17401: If you think that'll help.
+17510: Oh, don't apologise.
+17540: Quite.
+17609: You achieve nothing by this.
+17697: You wave, feeling foolish.
+17847: You are unable to.
+17866: Nothing obvious happens.
+17916: That's not a direction.
+17939: Not that way you can't.
+17971: Keep your hands to yourself.
+17996: You achieve nothing by this.
+18029: Futile.
+18058: You talk to yourself a while.
+18085: This provokes no reaction.
+18113: There is no reply.
+18132: Nothing is on sale.
+18151: Your singing is abominable.
+18185: Time passes.
+41884: You take the gun from the sand.
+42073: You wouldn't need them.
+42279: Taking the boat?
+42296: Entering the apes' room?
+42337: Kissing Proctor?
+42354: Shooting him?
+42372: Typing "xyzzy"?
+42426: And just how would you do that?
+42454: That's not very useful...
+42478: I don't think you're dreaming.
+44820: Score:
+44828: Moves:
+44836: Time:
+44844: You can't go that way.
+45176: Please give one of the answers above.
+45204: [You can't "undo" what hasn't been done!]
+45240: [Can't "undo" twice in succession. Sorry!]
+45280: "Oops" can only correct a single word.
+45308: It is pitch dark, and you can't see a thing.
+45340: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+45400: You seem to want to talk to someone, but I can't see whom.
+45444: To talk to someone, try "someone, hello" or some such.
+45484: I didn't understand that sentence.
+45544: You seem to have said too little!
+45568: You can't use multiple objects with that verb.
+45604: You can only use multiple objects once on a line.
+45640: You excepted something not included anyway!
+45672: You can only do that to something animate.
+45704: That's not something you need to refer to in the course of this game.
+45752: I didn't understand the way that finished.
+45784: Sorry, you can only have one item here. Which exactly?
+45936: Are you sure you want to restart?
+45960: The game file has verified as intact.
+45988: The game file did not verify as intact, and may be corrupt.
+46032: Attempt to begin transcript failed.
+46060: Attempt to end transcript failed.
+46084: You're carrying too many things already.
+46116: You can't put something on top of itself.
+46148: You can't put something inside itself.
+46176: That would scarcely empty anything.
+46232: You can only get into something free-standing.
+46268: But you aren't in anything at the moment.
+46300: You'll have to say which compass direction to go in.
+46340: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+46436: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+46520: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+46696: This dangerous act would achieve little.
+46724: Nothing practical results from your prayer.
+46756: The dreadful truth is, this is not a dream.
+46788: Digging would achieve nothing here.
+46816: You jump on the spot, fruitlessly.
+46844: You would achieve nothing by this.
+46868: There's nothing suitable to drink here.
+46896: But there's no water here to carry.
+46924: Real adventurers do not use such language.
+46956: Violence isn't the answer to this one.
+46984: There's not enough water to swim in.
+47012: There's nothing sensible to swing here.
+47040: That would be less than courteous.
+47064: Is that the best you can think of?
+47088: You lack the nerve when it comes to the crucial moment.
+47128: I don't think much is to be achieved by that.
+47160: You aren't feeling especially drowsy.
+47246: Doctor Proctor Phillips has been bothering the world for quite a long
+time now.
+
+First came the infamous Rabbits' Attacks, then the Tortoise
+Kamikadzes, and after that - The Mouse Terrorists...
+
+Everyone agreed something
+had to be done about it, but no-one knew what - that's where you came in.
+
+You,
+Anthony Amerbach, one of the most extravagant agents the world had ever known.
+You don't have the charisma of James Bond or even the humour of Nick
+Pirandello, in fact, you look as ugly as ten drunken goblins and speak like
+someone who just inhaled too much cocaine.
+
+But you do have one strength - you
+love the extraordinary... And this Proctor turned out to be the most
+extraordinary guy FBI has ever faced (much worse than the infamous
+cannibalistic doctor).
+
+So you were told to go to Proctor's secret hideout...
+Surprisingly enough, you not only found out its location in a pretty ordinary
+Chinese atlas (sold only in Krasnoyarsk), you also got there without much
+problems (ten battleships and five submarines shooting torpedoes don't count).
+48004: You're standing on a beach... Once it was famous among sunbathers for
+its unique location - only here you can get a tan in ten minutes - but then
+Doctor Proctor arrived, built an ugly tower, created some monsters, and - all
+the rest is pretty usual - banned alcohol. This the celebrities couldn't take!
+That's why the area is empty...
+
+From the east you can hear noices usually
+heard in the zoos' apes sections.
+
+Some monsters are visible west from the
+beach.
+48332: The monkeys were prepared for your arrival. They already loaded a
+cannonball into the cannon, now they shoot it at you, making the world safe for
+tyranny.
+48440: Your boat sits in the water.
+48460: This boat is over ten days old, and that's already looking old - no
+surprise! After all, it was shot at ever since Arhangelsk where you started
+your long journey. What's strange is how it survived at all...
+48608: You would love to carry all your things around (especially in such a
+situation), but this enormous motor boat is too much even for a strong secret
+agent!
+48716: Your gun lies on the sand.
+48968: You take the gun again (a psychologist would probably use some pretty
+long words to describe your behaviour).
+49044: You drop the gun back in the sand. Now why did you do that?
+49086: As you look around from behind a big stone (thankfully, you weigh enough
+stones to fit there), you sigh wearily... As always, the road to the island is
+guarded.
+
+You can hear some strange noices from the south.
+
+At the north you
+see a lot of rocks.
+
+Of course, you can also go back to the beach...
+49306: There's nothing interesting here - because there's nothing in here...
+Nothing except the remains of the poor creatures you killed and their computer
+(you can't look at it, it's under their heavy bodies).
+
+You can hear some
+strange noices from the south.
+
+At the north you see a lot of rocks.
+
+Of
+course, you can also go back to the beach...
+49556: I wouldn't advise you to leave you hiding place! The monsters would
+spring to action as soon as they hear footsteps.
+49638: I wouldn't advise you to leave you hiding place! The monsters would
+spring to action as soon as they hear footsteps.
+49722: Now why you weren't careful? These damn monsters probablywere placed to
+throw you off guard...
+
+A carefully created contraption unwinds, and a rock
+fall on you from above.
+49846: You carefully crawl back to the beach.
+49876: Two boar-headed monsters are playing "Quake".
+49912: Well, they have muscular bodies (somewhat like Schwarzenegger's), but
+they're... umm... boar-headed! Dammit, what else can I say?
+
+You wonder why
+modern evil doctors always create the same monsters. Do they all read one
+neverending fantasy epic?
+
+Currently the hideous creatures are trying to save
+their brethren from an angry marine...
+50160: This may be a strange game - but not THAT strange!
+50198: You kill the monsters.
+
+You feel nothing - it's all in a day's
+work.
+
+You leave your hiding place.
+50276: Two monsters' bodies are lying on the sand.
+50308: After you killed the boar-headed monsters with your gun, they -
+naturally! - fell to the ground, crashing their beloved computer.
+50400: Release your anger! Go to the Dark Side!
+
+Doctor Proctor Phillips needs
+you!
+50460: This is the strangest suggestion I ever heard!
+50496: This room is practically littered with machines, devices, gizmos,
+gimmicks, thingumabobs, thingumajigs... damn, I should get either an education
+or a thesaurus!
+50612: There's a lot of strange machines in the room...
+50648: Sorry, I can't tell you anything - I'm not an expert... Nothing rings a
+bell here.
+
+Hey, wait, that's not true! Something just did!
+50750: There's a lot on unfamiliar machinery standing about.
+
+In the depth of
+the mess something is ringing quietly...
+50834: You look at the detonator and smile to yourself - it's made from the
+proper irony iron!
+
+Not much more can be told about it - it's a long white tube
+with a red button on the side.
+50964: You carefully pick the dangerous machine up.
+50996: Yes, I know, the world is pretty unpleasant... However, destroying it is
+what the politicians are good at, and you should concentrate on your present
+goal.
+51108: You look around.
+
+You think...
+
+You don't see any other choice.
+
+You
+push the button.
+
+The secret device in your spinal cord beeps.
+
+You start
+counting. Ten, nine, eight, two...
+
+FLASH!
+
+It worked! You're at the FBI
+headquarters!
+51348: A perfectly ordinary button.
+51368: You have finally reached your destination!
+
+And, frankly, it's a bit of
+an anticlimax - the room isn't much to look at... You expected something weird
+- say, a location filled with "No smoking!" and "No drinking!" posters - but
+this is a usual room seen not only in a hundred mission, also in a thousand
+movies.
+
+That is, it's filled with countless tables filled with debris -
+results of the previous experiments - and an equal amount of
+equipment...
+
+There's only one unusual thing - an absolutely clean desk in the
+centre of the room...
+
+The chair on which the Doctor is sitting is definitely
+taken from one of the abandoned tourist attractions.
+51834: It's a red IKEA chair.
+
+Tourists love them. Workers hate them.
+51886: There isn't a lot on the tables that you can recognize; here's the list:
+human bodies, boar bodies, Coke cans, a lot of beer, bedsheets and - whatever
+the reason - printed copies of SPAG and XYZZYnews magazines.
+Clearly, something
+horrible was going on in here!
+52084: I told you before, DON'T ASK!
+52112: The desk is incredibly tidy.
+
+In fact, there's nothing on it but a
+notebook. The Doctor either used some machine or married - everyone knows evil
+maniacs can't clean after themselves.
+52358: omedy series, a comic game based on a movie...
+Currently Dr. Phillips is
+trying to write a story-based expanded version of Matt Barringer's
+"Detective"...
+52476: Doctor Proctor sits at the desk, working on a plan to take over the
+world and turn it into a theme park.
+52548: Your enemy is about thirty years old, cleanly shaved, has no glasses,
+his blonde hair is in ponytail... As you can see, not a usual evil maniac at
+all!
+
+What's more, he isn't creating an Army of Evil to take over the world,
+what he is writing in a notebook (you can see this thanks to the special
+contact lenses you're wearing) looks more like a scenario for a text adventure
+that would capture people's attention for long enough...
+52856: The doctor is quick enough to catch you if you try...
+52896: Sure, forgiving your enemy is a nice concept for youngsters full of love
+- but not for secret agents!
+53004: Have you tried?
+53016: I (Victor Verbitsky) am 20 years old and is a student of Russian State
+University of Humanities (4th course).
+53102: Yes, yes, that's right, a Russian!
+53980: Ru" (I don't have my own)...
+54006: This game was first written as a second "Detective" on 6th of June,
+2000. It had everything - typos, strange direction changes, description errors;
+but it also had two humorous bits (the "irony iron" - which I left in this
+version - and a room description ending with five exclamation marks... Any
+Pratchett reader knows it's "a sure sign of the insane mind".
+
+This version has
+all the elements out of there (including the "Use" command), but it also
+contains some humoruous text and several more obstacles (like the necessity to
+kill monsters so that you can proceed), but it also has much more freedom (you
+can go back anywhere you like). There are also much better death description
+(logical now, I think)...
+
+I considered presenting this game as a conversion of
+the old Spectrum title, but decided against it (after playing "Being John
+Malkovich", where the humour style is quite like mine - mine in non-interactive
+titles, that is). Why did I publish it? Well, you see, there are some other
+projects I may release sometime (a story-based treasure hunt, a game based on
+Russian folklore, another one based on Greek myths and a philosophical story
+about a Romanian vampire), and I want my name to be known before that...
+
+I'm
+also proud of the text - try thinking in a foreign language sometime - but want
+to know other's reactions before deciding to continue (I may abandon the genre
+altogether).
+
+I hope this game isn't "Detective II"!
+55048: Going north from the monsters' room?
+55078: Getting the gun, dropping it and getting it again?
+55118: Shooting something other than the gun at something?
+55158: Shooting the gun at something other than the monsters?
+55200: Using the detonator not in the doctor's lair?
+55236: Examining machines, detonator and Proctor?
+55270: Examining the tables, the equipment, the desk, the chair, the furniture
+and the notebook?
+55340: Typing "wake" (this one is only for people who are replaying the game)?
+55468: A hollow voice says "Long live the legend!"
+55500: I understand you want to cause destruction, but this isn't that kind of
+game!
+

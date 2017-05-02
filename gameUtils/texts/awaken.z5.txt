@@ -1,0 +1,876 @@
+20953: Nothing to do!
+20988: o. You have won
+21090: It is now pitch dark in here!
+21117: I beg your pardon?
+21181: Sorry, that can't be corrected.
+21210: Think nothing of it.
+21263: As good-looking as ever.
+21295: You can hardly repeat that.
+21320: You can't begin with a comma.
+21434: I didn't understand that number.
+21463: You can't see any such thing.
+21499: You aren't holding that!
+21541: I'm not sure what "
+21593: That's not a verb I recognise.
+21632: You can't see "
+21740: Nothing to do!
+21757: There are none at all available!
+22667: Please answer yes or no.
+22693: Are you sure you want to quit?
+22738: Failed.
+22758: Restore failed.
+22775: Ok.
+22793: Save failed.
+22808: Ok.
+22852: Transcripting is already on.
+22918: Transcripting is already off.
+22976: Score notification on.
+22997: Score notification off.
+23020: You have visited:
+23048: Objects you have handled:
+23073: None.
+23459: You are carrying nothing.
+23508: Taken.
+23519: You are always self-possessed.
+24052: Dropped.
+24162: Removed.
+24301: You lack the dexterity.
+24382: Done.
+24648: Done.
+24859: Wrahn seem interested.
+25440: You can't go that way.
+26000: But it's dark.
+26017: You find nothing of interest.
+26053: But it's dark.
+26144: You find nothing of interest.
+27272: . Not bad.
+27290: That was a rhetorical question.
+27344: That seems unnecessary.
+27367: Keep your mind on the game.
+27392: What a good idea.
+27411: You smell nothing unexpected.
+27438: You hear nothing unexpected.
+27463: You taste nothing unexpected.
+27498: Keep your hands to yourself!
+27523: You feel nothing unexpected.
+27548: If you think that'll help.
+27657: Oh, don't apologise.
+27687: Quite.
+27756: You achieve nothing by this.
+27844: You wave, feeling foolish.
+27994: You are unable to.
+28013: Nothing obvious happens.
+28063: That's not a direction.
+28086: Not that way you can't.
+28118: Keep your hands to yourself.
+28143: You achieve nothing by this.
+28176: Futile.
+28205: You talk to yourself a while.
+28232: This provokes no reaction.
+28260: There is no reply.
+28279: Nothing is on sale.
+28298: Your singing is abominable.
+28332: Time passes.
+53429: The branch is too large to take.
+53539: You pick up a handful of gravel.
+53754: The dog growls threateningly.
+53822: The dog snarls and barks at you.
+54137: The dog chases madly after you!
+54544: The vines are too wet to burn.
+54602: You can't take the wind!
+54654: You are already soaked.
+55335: You are standing on a bug!
+55776: But, the pages are all blank!
+55830: You pick up a handful of ashes.
+56590: An old, extremely gaunt man.
+56910: . "Pathetic!" he says.
+57309: The bell makes a muted "CLANK".
+57338: This bell will never ring again.
+57500: Practicing your knot tying?
+61090: Copyright (c) 1998 by Dennis Matheson
+(For more information type "HELP",
+for hints type "HINTS")
+61332: Score:
+61340: Moves:
+61348: Time:
+61356: You can't go that way.
+61688: Please give one of the answers above.
+61716: [You can't "undo" what hasn't been done!]
+61752: [Can't "undo" twice in succession. Sorry!]
+61792: "Oops" can only correct a single word.
+61820: It is pitch dark, and you can't see a thing.
+61852: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+61912: You seem to want to talk to someone, but I can't see whom.
+61956: To talk to someone, try "someone, hello" or some such.
+61996: I didn't understand that sentence.
+62056: You seem to have said too little!
+62080: You can't use multiple objects with that verb.
+62116: You can only use multiple objects once on a line.
+62152: You excepted something not included anyway!
+62184: You can only do that to something animate.
+62216: That's not something you need to refer to in the course of this game.
+62264: I didn't understand the way that finished.
+62296: Sorry, you can only have one item here. Which exactly?
+62448: Are you sure you want to restart?
+62472: The game file has verified as intact.
+62500: The game file did not verify as intact, and may be corrupt.
+62544: Attempt to begin transcript failed.
+62572: Attempt to end transcript failed.
+62596: You're carrying too many things already.
+62628: You can't put something on top of itself.
+62660: You can't put something inside itself.
+62716: You can only get into something freestanding.
+62748: But you aren't in anything at the moment.
+62780: You'll have to say which compass direction to go in.
+62820: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+62916: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+63000: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+63176: This dangerous act would achieve little.
+63204: Nothing practical results from your prayer.
+63236: The dreadful truth is, this is not a dream.
+63268: Digging would achieve nothing here.
+63296: You jump on the spot, fruitlessly.
+63324: You would achieve nothing by this.
+63348: There's nothing suitable to drink here.
+63376: But there's no water here to carry.
+63404: Real adventurers do not use such language.
+63436: Violence isn't the answer to this one.
+63464: There's not enough water to swim in.
+63492: There's nothing sensible to swing here.
+63520: That would be less than courteous.
+63544: Is that the best you can think of?
+63568: You lack the nerve when it comes to the crucial moment.
+63608: I don't think much is to be achieved by that.
+63640: You aren't feeling especially drowsy.
+63728: You find you cannot look down at yourself. It is almost as if you know
+what you might find and are afraid to have your fears confirmed.
+63856: HINTS disabled.
+63892: Sorry, hints have been disabled.
+63920: HINTS disabled.
+64000: The bottle is made of a heavy, leaded glass and closed with a cork
+stopper sealed with wax. Inside the bottle, an oddly shaped lead weight hangs
+like a pendulum from a string. The bottle glows with a
+64140: The blue bottle is warm to your touch as you pick it up. The warmth
+seems to travel up your arm and into the center of your being. It is almost as
+if you have found a missing part of yourself.
+64272: You savor the warmth of the blue bottle as you pick it up.
+64312: The green bottle has a sickly feel which matches its color. It feels
+like ice, cold and burning at the same time. It is all you can do to keep from
+throwing it down.
+64428: You gingerly pick up the green bottle again.
+64512: Rain and muddy water are pouring down on you, making it difficult to see
+or even breathe. Sodden earth and mud surrounds you on all sides except
+overhead, where flashes of lightning illuminate a storm tossed sky.
+64660: Howling winds and the crashing of thunder assault your senses.
+64704: As you scramble out of the hole the mud collapses downward, filling in
+the hole behind you.
+64768: You claw helplessly at the mud.
+64792: Torrents of muddy water are pouring in from the opening overhead onto
+you.
+64844: The muddy water trickles through your fingers.
+65000: You take a handful of muddy soil, but the rain washes it away.
+65044: You would expect the storm to have cleared the air, but over the whole
+area hangs a fetid odor of decay.
+65116: It is not yet that time...
+65136: That is no longer your place.
+65184: Some force on you increases as you try to leave the area.
+65224: A blast of thunder rattles the ground.
+65252: With a loud CRACK, a bolt of lightning strikes the steeple of the
+church.
+65308: Momentarily, the wind and rain slacken then return with renewed force.
+65358: Lightning arcs overhead, followed instantly by a blast of thunder.
+65408: For a brief moment, hail pounds against you then subsides.
+65452: Dozens of stone markers stand here, oblivious to the wind and the rain.
+Huge, twisted oaks, their limbs tossed by the wind, draw an unmentionable
+sustenance from the moss-covered, moldy ground. An odor of decay, which even
+the storm cannot dissipate, hangs over everything. An iron barred fence
+surrounds the graveyard, an ivy-covered barrier separating it from the world of
+the living. The only exit is through the gate to the east.
+65756: You smell the odors of wet earth, the wild scent of the storm, and,
+under it all, the lingering charnel odor of decay.
+65840: The graveyard is surrounded on all sides by an iron-barred fence. The
+only exit is through the gate to the east.
+65920: Dozens of stone slabs mark the final resting places of those who have
+departed. All are old, the inscriptions worn away and covered with moss and
+mold, they tilt at odd angles. Many have fallen and are now half buried in the
+mud.
+66080: Few of the inscriptions are legible. Those that remain contain only
+those sentiments that are placed there for the benefit of those who gaze upon
+the stones, not those buried beneath them.
+66212: The stone topples over into the mud.
+66240: You strain and lift the stone slightly from the mud, then it slips and
+falls over with a splash.
+66308: This large branch has broken off from one of the trees and fallen on one
+of the graves, shattering it's marker.
+66388: A smaller limb has broken off of the branch and is lying nearby.
+66434: A large branch has been broken from one of the trees and has crushed the
+grave marker below it.
+66504: A smaller limb has broken off of the branch and is lying nearby.
+66552: The branch is too large to move, but a smaller limb has broken off and
+is lying nearby.
+66612: You shove the branch around, to no real effect.
+66648: A stout oak limb, about as long as you are tall.
+66684: The marker for this grave has been shattered by the fall of a large
+branch from the overhanging tree. The grave itself has been disturbed; the soil
+has fallen in to form a shallow pit.
+66812: There is no need to collect the shattered remains of the marker.
+66856: The inscription is no longer legible.
+66884: Mosses and molds cover the ground and the grave markers. There is
+something sickly looking about them, as if they are the physical manifestations
+of some kind of poisons in the soil. At any rate, they are alone in the
+graveyard, as no grasses or weeds grow within its boundaries.
+67076: You pull up a handful and examine it briefly before tossing it back
+down. You see no use in carrying it with you.
+67156: The moss and mold is far too wet to burn.
+67188: This side of the church is untended and grasses and weeds have run
+rampant. A muddy trail leads back to the graveyard to the west and on to the
+southeast and a faint path continues around the church to the northeast.
+67336: There is no entrance into the church on this side.
+67372: Simply a worn trail through the grass, it leads around the church to the
+northeast and southeast and west to the graveyard.
+67592: A faint path continues around the church to the southeast and the
+southwest.
+67644: There is no entrance into the church on this side.
+67680: A barely visible rut in the grass leads around the church to the
+southeast and southwest.
+67744: This wide, graveled clearing may have once been where the worshippers at
+the church left their vehicles while attending services inside. If so, it seems
+that the last service was held long ago. Weeds and grasses grow up through the
+gravel, which is littered with debris. Dark, looming trees surround the
+clearing except for the driveway, which leads to the southwest, and for a
+narrow opening to the northwest.
+68028: There is no entrance into the church on this side.
+68064: Dirty chunks of rock mix with mud to create a more or less level
+surface.
+68116: You already have a handful of gravel.
+68144: You dig a small hole in the gravel which the storm immediately fills in
+with rain and mud.
+68208: A handful of loose, muddy gravel.
+68232: You toss down the gravel which scatters across the ground.
+68272: You toss down the gravel which scatters among the debris on the floor.
+68320: The gravel scatters across the ground and is lost.
+68356: Scattered sticks, leaves and bits of trash cover the gravel clearing.
+68404: You see no need to carry the trash around with you.
+68440: Two massive oak trees which flank the cracked sidewalk dominate the
+front of the church. The facade of the church itself rises beyond them, its
+steeple silhouetted against the sky. The storm lashes at its faded white
+facade, almost as if the storm is trying to wash the church clean; something
+you somehow realize will take more than mere water to accomplish. To the north,
+a sidewalk leads to the front of the church. A weed-choked driveway runs to the
+northeast and down a hill to the south, and a muddy path leads around the
+church to the northwest.
+68856: The tree trunks are too slick with rain to climb.
+68892: These massive trees are easily hundreds of years old. They tower over
+the front of the church, climbing almost as high as the steeple. Unlike the
+forest surrounding other parts of the grounds they are almost unnaturally
+healthy, their branches clean and straight and their leaves a deep rich green.
+69096: The trunk is too rain-slick to climb.
+69124: The dog is slavering and barking wildly as it throws itself at you again
+and again.
+69184: This large, solid black dog is chained to one of the oak trees. There is
+something disturbing about the shape of it's head; it seems to be too large and
+slightly misshapen and an unnatural intelligence can be seen behind its red
+eyes.
+69348: A formidable looking guard dog stands here.
+69378: The dog snarls and snaps at you as you reach for it and you draw your
+hand back hurriedly.
+69444: Angered at your attack, the dog charges at you!
+69480: The dog growls and snarls angrily, snapping at your legs.
+69522: The dog leaps at you, raking your chest with its claws and leaving a
+trail of red.
+69582: You feel a flash of searing pain as the dog latches onto your side with
+its teeth.
+69642: The dog finally manages to latch onto your throat. Your last sight is of
+your blood splattering onto its face.
+69722: The dog growls at you threateningly.
+69782: The dog lunges after you, but is suddenly jerked to a stop with a yelp. 
+The dog has been brought up short by it's chain, which is now completely
+wrapped around the church.  It barks wildly but ineffectually at you as you
+continue on around the corner.
+69960: Satisfied, the dog wanders off back to the Front of the Church.
+70024: It has rusted slightly but is still more than sturdy enough to hold the
+dog.
+70142: A heavy chain stretches around the church to the northwest and
+southwest.
+70196: A heavy chain is wrapped around the church, disappearing to the
+northeast and southeast.
+70258: A heavy chain disappears around the east and west corners.
+70304: The dog probably wouldn't like you to be pulling on its chain.
+70348: The limbs of the tree are swaying violently from the storm, but near the
+trunk it is a little more stable. You have an excellent view from here of the
+church grounds and surrounding area. The church seems to be in a clearing on a
+hill surrounded by a forest. At the base of the hill a small town can be seen,
+its lights glimmering faintly through the storm. 
+
+One of the branches of the
+tree reaches out to the north towards the steeple of the church. An open frame
+can be seen in the steeple near where the branch ends.
+70708: Throwing caution to the winds, you leap out of the tree and into space.
+The wind howls around you as you plummet to the ground. Your last sight is the
+church steeple, silhouetted by the lightning against the sky.
+70856: You cannot climb any further up and the trunk of the tree is too slick
+to climb down.
+70948: The drop to the ground below is too far for you to jump safely, and the
+trunk of the tree is too slick to climb.
+71028: The tree branch sways alarmingly in the wind but seems quite sturdy. It
+passes very close to the open window frame in the steeple.
+71120: The branch is securely attached to the tree.
+71152: A wide flagstone path leads between the two oak trees to the front of
+the church. The earth has shifted, causing the stones to tilt at odd angles,
+and weeds and grass grow in the cracks between the flagstones.
+71296: You attempt to lift one of the flagstones, but it slips and falls back
+with a squishing splash.
+71364: A rutted, gravel covered path.
+71388: The ivy is thick and luxuriant and somehow disturbing. The shapes of the
+leaves are not quite wholesome and you wonder what strange sustenance it is
+drawing from beneath the moldering ground.
+71520: The ivy is sick and yellowed looking but somehow clings to the side of
+the church as if it is trying to distance itself from the rocky soil.
+71616: The rain-soaked vines tear loose in your hands, covering you with wet
+leaves and sticky sap.
+71680: The vines pull away easily enough, but maintain a tenacious hold on the
+ground that you are unable to break.
+71756: These ancient, twisted trees surround and even invade the graveyard. Now
+tossed wildly by the storm, their branches reach skyward while their roots suck
+unholy nourishment from between the broken slabs.
+71896: The trees wave wildly in the wind, their twisted limbs seeming to reach
+out to claw at the side of the church. No birds or forest animals inhabit their
+branches; a repellent air surrounds them that seems inimical to any such
+invasion.
+72060: The trunk is too wet and rain-slick to do that safely.
+72100: The howling wind sends the clouds racing across the sky. The almost
+constant flashing of lightning illuminates the landscape in stark black and
+white contrast, while the barrage of thunder joins with the wind in a mad
+concaphony.
+72256: The rain pours downward, pelting you painfully and almost blinding you
+with its intensity.
+72320: A thin layer of mud covers the rocky soil.
+72352: You take a handful of muddy soil, but the rain washes it away.
+72396: You are only able to dig a few inches before striking rock, and the rain
+rapidly washes more mud in to fill up the hole you make.
+72604: You pull up a handful and examine it briefly before tossing it back
+down. You see no use in carrying it with you.
+72684: The grass and weeds are far too wet to burn.
+72716: The old church has seen better days. Formerly painted white, the boards
+are now faded, peeling and rotted. Most of the windows are boarded up, and
+those that aren't have long since been broken out. The shingles have fallen
+from the roof, which sags alarmingly. A broken-tipped steeple rises from one
+end of the building, and a faint miasma of decay seems to rise from the
+structure.
+72982: A church rises to the east, its boarded up windows giving the impression
+that it is covering its eyes from the sight of the graveyard.
+73078: To the east, the wall of the church breaks some of the force of the
+wind.
+73132: The south wall of the church looms blankly overhead.
+73170: To the west, the church stares out over the clearing.
+73212: The church and steeple loom to the north, the open window frames seeming
+to stare with judgment upon anyone standing before it.
+73300: The steeple of the church looms to the north.
+73336: Pointing heavenward like some broken, accusing finger, the steeple rises
+from the front of the church. The steeple ends in a ragged, blunt tip; whatever
+decoration may have once surmounted it is long gone.
+73480: Once, the windows were probably told stories of hope and redemption in
+brightly colored stained glass. Now, they are boarded up as if the church has
+closed it's eyes to the world outside.
+73612: The boards are nailed firmly in place.
+73640: This wide, covered porch spans the width of the church front. A white
+picket railing surrounds the porch on three sides, except to the south where a
+short flight of steps leads down to the sidewalk. Two large windows have been
+boarded up but the main doors stand slightly ajar.
+73832: The floor here is old, but still pretty solid.
+73868: The railing is too rickety to climb.
+73896: There is no way off the porch in that direction.
+74008: One section of the railing seems fairly unsteady.
+74044: One section of the railing is missing.
+74072: With a jerk, you tear free the loose section of railing.
+74112: The rest of the railing seems fairly steady.
+74144: The railing consists of two parallel lengths of wood about an arm's span
+apart connected by wooden pickets. If stood on end, the rail would be about
+twice your height.
+74304: The broken length of railing is propped up against the side of the oak
+tree.
+74358: The broken length of railing is propped against the wall near the
+painting.
+74416: The broken length of porch railing is lying here.
+74452: You carefully place the length of railing under the trap door in the
+ceiling.
+74508: You lean the length of railing against the side of the oak tree.
+74552: You lean the length of railing against the wall near the painting.
+74598: You carefully climb up the length of railing, using the pickets like a
+ladder.
+74656: The railing doesn't lead anywhere.
+74684: The railing doesn't lead anywhere.
+74712: The railing consists of two parallel lengths of wood about an arm's span
+apart connected by wooden pickets. If stood on end, the rail would be about
+twice your height.
+74828: The top of the broken section of railing is visible sticking up through
+the trap door in the floor.
+74898: The broken length of railing is propped up against a nearby branch.
+74948: You are precariously balanced on the top of the broken section of
+railing.
+75000: You attempt to pull the railing up after you, but you cannot get enough
+leverage to do so.
+75064: It is not yet that time...
+75084: That is no longer your place.
+75108: There is no passage in that direction.
+75136: A blast of thunder rattles the building.
+75166: You hear a loud crash and see a flash of light through the cracks in the
+boards covering the windows.
+75238: The building shudders under a sudden gust of wind.
+75276: A flash of lightning can be seen through the cracks between the boards,
+followed by a sudden blast of thunder.
+75354: There is a brief rattle of hail on the roof.
+75388: This small room is the entryway for the church. The years of neglect are
+obvious; the floorboards are rotten and warped and what were probably once
+stained glass windows are shattered and boarded up. Dirt and debris covers the
+floor. A set of double doors leads south back to the outside while a large
+archway leads north into the sanctuary. Overhead, there is an open trap door in
+the ceiling at about twice your height.
+75680: The opening in the ceiling is too far up for you to reach.
+75720: The opening in the ceiling seems to lead to another room overhead, but
+there doesn't seem to be any way to get to it.
+75804: Once the heart of the church this room is now cold, dark and empty.
+Debris is scattered among the sagging pews and only shards of broken glass
+remain of the stained glass windows. Most of the interior fixtures have been
+removed, but a large portrait of Christ stares down at you from above the
+archway to the south. The pulpit still stands to the north.
+76048: You pray, with no result. You sense somehow that your prayers are not so
+much being unheard as they are ignored.
+76128: A simple raised platform at the front of the church, it supports a
+simple wooden podium.
+76192: Once, these rows would have been filled with worshippers. Now, they only
+contain dust and debris.
+76264: You sit in the pew. For a moment, the storm seems to retreat and you are
+blessed with a brief moment of peace.
+76344: You are standing on top of the railing section near the large painting
+of Christ. From this location, you notice that the eyes in the painting are cut
+out and there are holes behind them.
+76476: "Down" is really your only option.
+76504: The eyes of the painting are cutouts. There are holes and an open space
+behind the eyes.
+76568: You are looking into the small room in the steeple. You can see past a
+faded purple curtain to a small table which is holding two heavy glass bottles.
+76672: You find yourself looking into a small enclosed space covered with a
+faded purple curtain.
+76736: The two bottles of heavy glass are sitting on the table. One glows with
+a vivid green light and the other with a pale blue light.
+76836: You can't do anything to the green bottle from here.
+76884: You can't do anything to the blue bottle from here.
+76920: From this raised platform you can see the entire inside of the church.
+The pulpit is empty except for the podium which rises from the center. A small
+door is visible behind the podium to the north.
+77056: You pray, with no result. You sense somehow that your prayers are not so
+much being unheard as they are ignored.
+77136: This carved wooden podium is where the leader of this church would have
+addressed his or her followers. Now, from the podium, you can only see rows of
+empty pews and a lone painting of Christ, staring blankly down from the south
+wall.
+77300: A large black book is resting open on the podium.
+77336: At first you thought this book was a Bible, but now you realize that you
+were mistaken. The large, black, leather-bound tome contains passages you find
+disturbing, and uncomfortably familiar.
+77640: Through the eyes the soul may seen by those who are sensitive, and
+through the eyes the soul my be taken by those who have pledged themselves to
+the ones who wait beyond."
+77818: you remember standing in this church and looking at that painting. And
+you remember it staring back at you, with malevolent, vivid green eyes...
+77920: The painting is too high up on the wall to do anything with.
+77964: There is something unusual about the eyes of the painting, but it is too
+far away to see clearly.
+78032: This small office has the same run-down appearance of the rest of the
+church. Debris covers the floor and a trickle of water comes in around the
+boards covering a broken window. A desk stands in the middle of the room and an
+empty bookshelf sits against one wall. A pile of ashes marks where a fire once
+burned in the middle of the floor. A door to the south leads back to the
+sanctuary.
+78300: An old wooden desk. Scarred and water-damaged, it has been here for some
+time.
+78356: A warped, wooden bookshelf.
+78376: You push the bookshelf to one side, revealing an old book bound in a
+strange reddish cover.
+78440: There seems to be something between the bookshelf and the wall.
+78484: A very old volume, bound in some strange reddish material. At first you
+thought it was leather but it seems to be more closely akin to snakeskin. The
+book seems to be a weird grimoire or spellbook and mostly concerns the soul or
+spirit.
+78646: The book contains several rituals and procedures all involving the soul
+or spirit.  The first describes a ritual through which the soul can be removed
+from a person's body and placed in a specially prepared container. The soul
+remains in the container even if the person's body dies.
+
+A second ritual can
+be employed to use the stored soul as a receptacle for the sin of another
+person.  This allows the possessor of another's soul to perform any acts they
+wish without having to answer for those acts in the next world.
+79008: An old book lies on the desk.
+79032: A book of blank pages, the kind that would be used to keep a ledger or a
+journal. Unfortunately, someone has torn out most of the pages and only blank
+sheets remain.
+79148: A book of blank pages, the kind that would be used to keep a ledger or a
+journal. Someone has torn out most of the pages, but the ashes have made the
+indentations from the last entry legible.
+79280: Looking carefully at the book you notice that the last entry must have
+been made with great force. The entry has left indentations on the first blank
+page in the book.
+79594: I only hope that the taint of that which I have done has not stained her
+irrevocably and that she will go to her proper place after I release her... and
+that I shall go to mine."
+79720: It seems as if a good sized fire once burned here; it is amazing that
+the entire room did not catch fire. From the occasional bit of unburned
+material it seems as if whoever built the fire was burning books, probably from
+the now empty bookcase. Mixed in with the ashes you find a number of jagged
+shards of glass.
+79936: You already have a handful of ashes.
+79964: A handful of old ashes.
+79984: You toss down the ashes, which scatter in the wind.
+80020: You toss down the ashes, which scatter among the debris on the floor.
+80068: As you rub the ashes against the page, the indentations fill in and the
+last entry becomes visible.
+80136: A number of shards of broken glass lies mixed in with the ashes. From
+the look of the fragments, it was some kind of thick walled bottle that was
+smashed into the floor.
+80252: A curious object lies in with the shards of glass. It looks like a heavy
+rubber stopper with a chain hanging from it.
+80336: You cut your finger on the glass as you attempt to pick it up.
+80380: A heavy rubber stopper, such as would be used to close a bottle. Bits of
+wax still cling to the edge showing where the bottle was sealed with the
+stopper in place. A fine chain hangs from the stopper and ends in an oddly
+carved lead weight.
+80548: A richly embroidered robe hangs beside the door.
+80584: Richly embroidered red robes, such as might be worn for ceremonial
+purposes.
+80640: This small chamber is about halfway up the steeple of the church. Rain
+and wind from the storm outside blows in through an open window frame and water
+collects in puddles on the warped floor, mixing with the droppings of the
+birds, or perhaps bats, which can be heard fluttering around overhead. Looking
+up, you can see a maze of beams and supports that form the interior of the
+steeple. Rain pours in from an opening higher in the steeple and trickles out
+through a trap door in the floor.
+80976: There is no good way to climb upwards from here.
+81012: The drop to the floor of the vestibule below is too far for you to jump
+safely.
+81068: Even with the door open and the wind from the storm blowing in this room
+is rank with a fetid odor. The floor is piled high with trash and half eaten
+scraps of food. There are no windows, only the broken door frame to the south.
+An old sofa is pushed against one wall and a heavy table sits in the middle of
+the room. A curtained archway is to the north.
+81312: The room smells of urine, sweat and rotting food.
+81348: This heavy wooden door looks to be newer and of more sturdy construction
+than the rest of the church. A large, heavy handle is set into the door.
+81480: Only the splintered remains of the frame remain.
+81544: The heavy wooden door to the north is closed.
+81576: The curtain is an old and faded purple. It looks as if it may have been
+a tablecloth initially.
+81642: A curtain of purple cloth hangs in the archway.
+81678: You push the curtain aside and pause. On the other side of the curtain
+is a room much like the one you are in. A figure stands in the archway,
+apparently about to enter your room, and it is the sight of this figure which
+has brought you up short. It is, or was, human... once. Now, it is a withered
+mass of decaying flesh. It's clothing hangs in tatters and it is caked in mud
+and grave mold. Patches of hair hang from it's scalp and bones are visible in
+places through it's skin. The only thing that remains intact are it's eyes;
+pale blue and now wide open and staring.
+
+The creature raises its hand to you,
+and you find yourself doing the same. You reach out your arm and touch...
+
+
+
+
+...a cold unyielding surface of polished glass.
+
+
+
+Suddenly, the
+realization of what you are seeing comes home to you, and you step back from
+the mirror with a cry.
+82288: You glance towards the mirror but realize that there is no need to enter
+its reality, for the reality in the mirror is your own.
+82376: A highly polished mirror in a plain wooden frame. The mirror reflects
+the contents of the room you are in and you find yourself averting your gaze
+from what you see there. You note that the mirror frame is hinged on one side.
+82532: A highly polished mirror in a plain wooden frame. The mirror has been
+swung away from the wall, revealing two holes at about eye level.
+82628: The mirror doesn't swing any further from the wall.
+82664: You swing the mirror away from the wall, revealing a pair of holes cut
+in the wall behind it.
+82728: The mirror is firmly against the wall.
+82756: You swing the mirror back against the wall.
+82788: The holes are small, about the size of your thumb, and are at about eye
+level.
+82844: You look through the holes and find yourself looking down into the
+sanctuary of the church with a clear view of the pulpit. From the angle, you
+realize that you are looking down through the eyes of the painting of Christ.
+82996: You find yourself looking down into the sanctuary of a church. Rows of
+dust covered benches face a raised pulpit and podium.
+83114: Curious symbols are carved into the wood and the top is oddly stained.
+83164: The table is too heavy for you to move.
+83192: A sudden desire to rearrange the furniture?
+83270: The glass chimney is almost opaque with soot and grime.
+83312: A pair of heavy glass bottles sit on the table.
+83348: The bottles are made of a heavy, leaded glass and closed with a cork
+stopper sealed with wax. Inside the bottles, an oddly shaped lead weight hangs
+like a pendulum from a string. The bottles glow faintly.
+83498: A cloud of faintly glowing blue mist rises from the bottle and hangs in
+the air before you. You feel a brief moment of freedom, of release.
+
+Then, you
+realize that
+83616: has started chuckling to himself. The first jolt of pain hits. The cloud
+suddenly jerks and starts moving downward, as if drawn by a strong suction. The
+pain intensifies and you drop first to your knees, then flat onto the ground as
+if trying to follow the mist, which is now soaking into the earth. The pain
+becomes excruciating. The last thing you see, as everything fades to black, is
+83924: with a scream of "Noooo!", he throws himself towards you
+84292: ! Fthagn...  Aaaaagh...!"
+
+His body collapses to the ground.  As you
+watch the body blackens and decays until, within only a few moments, what is
+left appears to be a many-months old corpse.
+84758: You watch for a moment as flames consume the church. With a crackling
+roar, the steeple collapses inward and a plume of flame shoots
+skyward.
+
+Clutching the bottle to you, you make your way down the hill.
+84904: An old sofa, so patched, faded and stained that its original color can
+no longer be determined. An unidentifiable odor rises from it.
+85000: is drawn and pale, his hair long and wild and his clothing filthy, torn
+and unkempt. But, an active intelligence burns behind the vivid green eyes with
+which he watches you; eyes which also contain a taint of madness.
+85152: draws back as you approach. "Don't be foolish!" he hisses.
+85196: laughs softly. "Do you think your opinions matter to me anymore?"
+85244: looks around. "Yes.. I knew you would return here. This is your home...
+only one you have left. The villagers would not have welcomed you before; they
+certainly will not now. And besides, the bottle will keep you here. *I* will
+keep you here."
+85490: they would rather stay with their pathetic, safe god than open their
+eyes to the true masters of the universe. You understood. You saw. Then, they
+caused you to doubt yourself. Caused you to doubt your decision."
+85640: "Why, to become immortal, of course! But, you changed your mind. You
+freed her; freed her soul. But she had already absorbed too much of your sin,
+hadn't she? She went to eternal punishment, for *your* sins. And so, you tried
+to to kill yourself. But, you forgot about this, didn't you? You forgot where
+*your* soul was.
+85884: "I still don't know what your fascination with her was. Certainly the
+other villagers never approved of your 'relationship'."
+85976: laughs. "What did you expect? After you saw what happened to *her* and
+realized that *you* were the one responsible you went, shall we say, mad? You
+always were weak. There was only one thing to be done, wasn't there?"
+86140: "Beautiful, aren't they? That's what *you* used to say. I remember how
+you used to stare at them for hours. How you used to try to understand them...
+86256: "Yes. That is you. Or, should I say, *was* you. It's *mine* now. The
+receptacle for *my* sin.
+86340: "You see, I am safe now... I have transferred my sin to your soul. *If*
+I ever decide to release it, I will go to *your* reward, while you will go to
+*my* punishment."
+86476: Safe, I promise you. They are safe.
+86504: You never had the stomach to read it before. Why the interest now?
+86552: A useful creature. Quite intelligent, you know.
+86594: You've forgotten me? How could you forget Silas? Your servant... your
+colleague... your... teacher...?
+86676: easily avoids your blows. He stares at you with his vivid green eyes.
+"You were no match for me before... You are certainly no match for me now!"
+86784: The belfry of the church, high up inside the steeple. You are hanging
+from a maze of support beams and trusses with the nearest solid floor far below
+you. Large open frames give a view of the surrounding forest and of the town at
+the base of the hill. They also allow the fury of the storm to pass in
+unimpeded. You can see the branch of an oak tree just outside the southern
+frame.
+87048: You leap off of the support and plummet to the floor below. The last
+thing you hear is the peal of thunder outside.
+87128: You climb around on the supports a bit, but are unable to move much
+further up or down the steeple.
+87228: The rope swings freely from the bell again.
+87260: There doesn't seem to be any way to climb higher into the steeple.
+87308: The drop to the floor below is too far for you to climb safely.
+87352: You climb around on the supports a bit, but are unable to make much
+progress in that direction.
+87420: This massive bell once summoned worshippers to the church. Now, it only
+serves as the home for birds and rodents. The mount for the bell has broken on
+one side, and the other is barely holding on. You are surprised that it has not
+broken free and plummeted from the steeple before this.
+87620: The bell lies half buried in the mud. The fall has cracked and dented it
+to the point where it will obviously never ring again.
+87708: A massive bell hangs here, from a damaged mount.
+87806: A broken bell lies half-buried in the mud.
+87840: The bell is far too heavy to move.
+87864: You shove against the bell. For a few seconds, the support takes the
+strain. Then, with a loud cracking noise, the bell tears loose from the beam
+and falls from the steeple. You hear the sound of splintering wood from below
+and then duck aside as the splintered remains of the door are pulled past you
+and out the open window. A metallic crash is heard from the ground outside.
+88124: A good shove would probably cause the bell to plummet from the steeple.
+Of course, if it did, you would never be able to get it back up here again so
+you decide against it for now.
+88248: The bell has buried itself too far in the mud to move.
+88286: A frayed but heavy rope hangs from somewhere overhead.
+88352: The rope is tied to the handle of the door.
+88384: A frayed but heavy section of rope.
+88412: Trust me, suicide is *not* the answer here...
+88452: The rope is already securely attached to the bell.
+88488: But, the rope isn't tied to anything!
+88516: You are unable to loosen the rope from where it is attached to the bell.
+88640: You hear a metallic <CLANK> from somewhere overhead.
+88684: The bell moves slightly in its mount and emits a metallic <CLANK>.
+88740: The rope is securely attached and you can't go very far while holding
+it.
+88852: Rough hewn from wood, the beams and trusses are dirty and covered with
+bird and animal droppings which make footing treacherous.
+88940: The small town huddles at the base of the hill. A few lights shine
+defiantly against the storm but for the most part it seems quiet, as if its
+inhabitants are waiting inside their homes for the fury to pass them by.
+89196: You have no use for any of the trash.
+89224: Once these frames may have contained magnificent stained glass windows,
+each showing in imagery some tale of religious significance. Now, only
+fragments of colored glass remain. The frames are boarded up and the wind
+whistles mournfully through the cracks.
+89400: The boards are nailed firmly in place.
+89428: "The Awakening" is a text adventure game. You interact with the game by
+typing phrases like EXAMINE CHAIR or OPEN DOOR and the game responds by
+describing the world around you and the results of your actions.
+89806: In some locations IN or OUT work. You can also ENTER or CLIMB things.
+90014: You can tell the game to always give the full description by entering
+VERBOSE.
+90076: You interact with the environment in many ways. You GET items to pick
+them up and DROP items to put them down. You can also PUT items IN things or
+GET items FROM others. Fairly complex sentences are possible, for example GET
+THE RED BRICK AND THE BLUE BALL FROM THE METAL BOX THEN THROW THE BRICK AT THE
+WINDOW is a valid input.
+90364: You may encounter people or other creatures while exploring the world of
+the game. You can ask these people questions by typing ASK person ABOUT topic
+and tell them things by saying TELL person ABOUT topic. You can also SHOW them
+things. You can ask them to do things with PERSON, COMMAND. For example, to ask
+Bob to pick up the book, type BOB, GET THE BOOK.
+90712: ) To get a list of everything you are carrying type INVENTORY (or I).
+Some other useful commands you can try are PUSH, SEARCH, SHAKE, THROW, RUB,
+KICK, CLIMB or READ. A part of any text adventure is learning what words the
+game knows. "The Awakening" knows hundreds of words, so feel free to try
+anything.
+90964: If you get really stuck, you can access a hint menu at any time by
+typing HINTS. If you would rather not be tempted, you can turn the hint feature
+off by entering HINTS OFF.
+91092: "The Awakening" is my first piece of interactive fiction. It is based
+(very) loosely on several stories by H.P. Lovecraft, most notably "The
+Outsider", "The Terrible Old Man" and "The Two Black Bottles".
+91252: I mainly wrote "The Awakening" as a learning exercise. I had started
+several other games, but they were all too big and I found myself becoming
+overwhelmed by the scope of the game along with learning the language. I was
+inspired to try a smaller game by the Textfire games which came out in April of
+1998. "The Awakening" became much larger than any Textfire, but the inspiration
+was there.
+91532: It took longer to finish the game than I expected. My main problem
+involved the rope that is encountered in the game. Originally, it was far more
+complex than what is now implemented. Even what is there now doesn't work quite
+as well as I would have liked.
+91848: om
+
+or, you can reach me by snail mail at:
+
+Dennis Matheson
+4068 Maxanne
+Dr.
+Kennesaw, GA  30144
+
+Enjoy!
+92378: nt-fiction who have answered so many of my questions. Thanks go to
+Andrew Plotkin, L. Ross Raszewski, Joe Mason, Joyce Haslam, Mary Kuhner,
+Michael Gentry, "FemaleDeer/Doeadeer3" and all the others whose names I have
+misplaced. Thanks, all of you.
+92566: 1) Copyright: "The Awakening" is copyright 1998 by Dennis Matheson.
+92716: o charge other than a nominal fee to cover the cost of distribution is
+made. It may be included as part of a commercial distribution provided that my
+permission is given first.
+93062: 4) Support: "The Awakening" is distributed without any support of any
+kind. Feel free to contact me at the address given, but I make no guarantee
+that I will respond.
+93188: 5) Warranty: "The Awakening" is distributed totally without any warranty
+of any kind. The entire risk of using this program is totally assumed by the
+user.
+93300: Well, things could be starting off better here. Let's start by going UP
+to get out of this hole. Now, let's take a look around. Hmmm... Not much here.
+Maybe the church to the east has something. So, let's go EAST.
+93464: Not much here either. The main path seems to go to the southeast so
+let's follow it to the SOUTHEAST.
+93544: Nice doggie! Head NORTH to the front door. Oops! Guess that won't work.
+How can we get past this dog? Maybe if we ATTACK THE DOG it will leave.
+93662: That wasn't our best idea, was it? Better get out of here! Head off to
+the NORTHEAST. The dog is still following us so let's go on around the church
+to the NORTHWEST, SOUTHWEST and SOUTHEAST.
+93826: Hey, that worked pretty well! While the dog is tangled up let's take the
+opportunity and go NORTH.
+93904: All right! Our first points! Let's look around here a bit then go NORTH
+again. Not much better inside than out, is it? What's that trap door in the
+ceiling for? Doesn't seem to be any way to get up there so let's explore down
+here some more. Go on NORTH into the sanctuary.
+94108: What a dump. Not much left except a painting so let's EXAMINE THE
+PAINTING. That's interesting; apparently we've been here before. Head on to the
+NORTH some more and let's see what else we can remember.
+94272: EXAMINE THE PODIUM. Ah, a book. READ THE BOOK and see what else we can
+discover. I don't know about you, but I'm getting the impression that this is
+an unusual church. Let's head NORTH and check out the rest of the ground floor.
+94458: This room looks interesting. EXAMINE THE JOURNAL on the desk then try to
+READ THE JOURNAL. Well, somebody didn't like something they had written. SEARCH
+THE JOURNAL and see if we can find out anything. Indentations... Well, I've
+seen enough detective movies to know what to do next. EXAMINE THE ASHES then
+GET THE ASHES. OK, now RUB THE ASHES ON THE JOURNAL. Now we're getting
+somewhere! READ THE JOURNAL again.
+94828: Starting to get a bad feeling about this? Too bad those books were
+burned, they might have told us something. Think they (whoever "they" were)
+missed anything? SEARCH THE BOOKCASE. Ah ha! PUSH THE BOOKCASE then READ THE
+BOOK we have found.
+95030: I'm starting to get a feel for what is happening here. EXAMINE THE GLASS
+on the floor. Wonder what that was for? Well, there doesn't seem to be much
+more to do here so let's go back SOUTH a few times until we reach the Vestibule
+again. That trap door still looks inviting but we haven't found a ladder. Or
+have we?
+95270: Go SOUTH again to the Porch. EXAMINE THE RAILING. Well, it looks kind of
+ladder-like, doesn't it? GET THE RAILING. Good thing this church is in such bad
+shape. Now, go back NORTH and PUT THE RAILING UNDER THE TRAP DOOR. Now, CLIMB
+THE RAILING.
+95506: Hey, that worked! Let's see what we have here. Another door, let's try
+and OPEN THE DOOR. Locked? Now what? Not much here except for this rope. I
+guess it's a bell rope. PULL THE ROPE. Yep, a bell. I wonder if there's
+anything else up there? CLIMB THE ROPE and find out.
+95732: EXAMINE THE BELL. Well, maybe climbing that rope wasn't the best idea. I
+mean, the rope seem sturdy enough but this bell seems ready to fall at any
+point. PUSH THE BELL. Yes, fairly unstable. And that gives me an idea.
+95906: First we need another way out of here. Let's check to the SOUTH. OK,
+we're out on a limb. We can't get down from here without a ladder but we know
+where one of those is, don't we?
+96044: Let's go back NORTH then CLIMB THE ROPE again. Now, TIE THE ROPE TO THE
+DOOR. Good idea, huh? Go DOWN then GET THE RAILING. Now, go SOUTH twice and PUT
+THE LADDER AGAINST THE TREE. CLIMB THE LADDER and go NORTH.
+96266: Now, PUSH THE BELL and duck. That worked better than I had hoped! Go
+back SOUTH then DOWN. GET THE LADDER, go NORTH twice and PUT THE LADDER UNDER
+THE TRAP DOOR again. Now go back UP. Looks like we can go NORTH now.
+96472: Well, *this* is an interesting room, isn't it? Let's talk to the man in
+here for a while. ASK THE MAN ABOUT... a few things. Doesn't seem too helpful,
+does he? Well, let's do some more exploring on our own. Let's start by going
+NORTH.
+96666: Let's stop and reflect on this latest discovery a bit. Things are
+apparently a little worse than we thought. Let's EXAMINE THE MIRROR again then
+OPEN THE MIRROR. Now, LOOK THROUGH THE HOLES. Well, we know what was going on
+with that painting now.
+96876: OK, now let's EXAMINE THE BOTTLES on the table. EXAMINE THE BLUE BOTTLE
+and EXAMINE THE GREEN BOTTLE. Now, think about what we've read, the broken
+bottle we found, our "condition" and the distinctive feature of our "friend" on
+the sofa. Well, there seems to be only one thing to do; OPEN THE GREEN BOTTLE
+or BREAK THE GREEN BOTTLE.
+97178: Guess he wasn't expecting *that*! Now, what do we do about *our*
+situation? Looks like that will have to wait for the next game for that...
+97292: Select a hint...
+97318: You remember darkness. And the cold. Cold and darkness. And silence.
+Those memories are all that you have. That, and a feeling that something you
+never knew you possessed has been lost.
+
+Suddenly, oblivion is split by a
+blinding light and a crash of sound. You awaken to the roar of a storm and a
+deluge of rain and mud.
+97586: "XYXXY!". The storm responds with a roar and a crash of thunder. It is a
+word of power. Once, you feel, you knew many such words. Now, only this one
+remains.
+

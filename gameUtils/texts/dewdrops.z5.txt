@@ -1,0 +1,1489 @@
+14069: Nothing to do!
+14104: o. You have won
+14186: It is now pitch dark in here!
+14213: I beg your pardon?
+14277: Sorry, that can't be corrected.
+14306: Think nothing of it.
+14359: As good-looking as ever.
+14391: You can hardly repeat that.
+14416: You can't begin with a comma.
+14530: I didn't understand that number.
+14559: You can't see any such thing.
+14595: You aren't holding that!
+14637: I'm not sure what "
+14689: That's not a verb I recognise.
+14728: You can't see "
+14836: Nothing to do!
+14853: There are none at all available!
+15763: Please answer yes or no.
+15789: Are you sure you want to quit?
+15834: Failed.
+15854: Restore failed.
+15871: Ok.
+15889: Save failed.
+15904: Ok.
+15948: Transcripting is already on.
+16014: Transcripting is already off.
+16072: Score notification on.
+16093: Score notification off.
+16116: You have visited:
+16144: Objects you have handled:
+16169: None.
+16553: You are carrying nothing.
+16602: Taken.
+17130: Dropped.
+17238: Removed.
+17377: You lack the dexterity.
+17458: Done.
+17724: Done.
+17944: Wrahn seem interested.
+18583: You can't go that way.
+19143: But it's dark.
+19160: You find nothing of interest.
+19196: But it's dark.
+19287: You find nothing of interest.
+20415: . Not bad.
+20433: That was a rhetorical question.
+20487: That seems unnecessary.
+20510: That's really not necessary.
+20555: You heard nothing unexpected.
+20582: You taste nothing unexpected.
+20617: You feel nothing unexpected.
+20642: If you think that'll help.
+20751: Oh, don't apologise.
+20781: Quite.
+20792: That's really not necessary.
+20828: That's really not necessary.
+20855: That's really not necessary.
+20882: You achieve nothing by this.
+20970: You wave, feeling a bit foolish.
+21127: You are unable to.
+21146: Nothing obvious happens.
+21196: That's not a direction.
+21219: Not that way you can't.
+21251: You achieve nothing by this.
+21276: You achieve nothing by this.
+21309: Futile.
+21338: You talk to yourself a while.
+21365: This provokes no reaction.
+21393: There is no reply.
+21412: Nothing is on sale.
+21440: That's really not necessary.
+21467: Time passes.
+45189: Greasepaint and sweat.
+45910: They are not physically present.
+46036: They are not physically present.
+46849: You'll have to be more specific.
+47148: Dropped.
+47408: Taken.
+47444: Taken.
+47511: Taken.
+47708: Taken.
+47744: Taken.
+47811: Taken.
+47952: It smells of dryer lint.
+47975: Fresh from the dryer soft.
+48334: But you're not wearing that.
+49163: It's a bit... grimy. No thanks.
+49211: Smooth and unsplintered.
+49310: Taken.
+49327: Taken.
+49347: Taken.
+49408: Dropped.
+49434: Dropped.
+49462: Dropped.
+49485: Dropped.
+49662: Your trusty shield.
+49762: A bad imitation of a trapdoor.
+49802: A bad imitation of a trapdoor.
+49866: There's only the carpeting.
+49952: Smells like cheap varnish.
+50049: Taken.
+50167: Taken.
+51037: What is this now, ballet?
+51080: In petticoats? Not a good idea.
+51474: You can't see any such thing.
+51515: You can't see any such thing.
+51565: You can't see any such thing.
+51605: You can't see any such thing.
+51646: You can't see any such thing.
+51687: You can't see any such thing.
+51741: You can't see any such thing.
+51782: You can't see any such thing.
+51839: You can't see any such thing.
+51898: You can't see any such thing.
+51959: You can't see any such thing.
+52015: You can't see any such thing.
+52058: You can't see any such thing.
+52115: You can't see any such thing.
+52158: You can't see any such thing.
+52215: You can't see any such thing.
+52258: You can't see any such thing.
+52297: You can't see any such thing.
+52371: You can't see any such thing.
+52453: You smell nothing unexpected.
+52477: Ooh, fresh paint fumes!
+52820: Dropped.
+53322: He feels somewhat wooden.
+53635: The darkness lacks substance.
+54590: Drop the board.
+54716: A sword would do the trick.
+54772: Cut the rope.
+54932: A flag might work.
+55470: You nod your head.
+55494: That was a rhetorical question.
+57868: in" or "notin
+57884: opmhas" or "hasnt
+58026: }" at end of "objectloop
+59588: Score:
+59596: Moves:
+59604: Time:
+59612: You can't go that way.
+59944: Please give one of the answers above.
+59972: But you haven't done anything yet.
+60000: You may undo one turn and one turn only.
+60028: "Oops" can only correct a single word.
+60056: It is pitch dark, and you can't see a thing.
+60088: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+60148: You seem to want to talk to someone, but I can't see whom.
+60192: To talk to someone, try "someone, hello" or some such.
+60232: I didn't understand that sentence.
+60292: You seem to have said too little!
+60316: You can't use multiple objects with that verb.
+60352: You can only use multiple objects once on a line.
+60388: You excepted something not included anyway!
+60420: You can only do that to something animate.
+60452: That's not something you need to refer to in the course of this game.
+60500: I didn't understand the way that finished.
+60532: Sorry, you can only have one item here. Which exactly?
+60684: Are you sure you want to restart?
+60708: The game file has verified as intact.
+60736: The game file did not verify as intact, and may be corrupt.
+60780: Attempt to begin transcript failed.
+60808: Attempt to end transcript failed.
+60832: That would hardly achieve anything.
+60904: You're carrying too many things already.
+60936: You can't put something on top of itself.
+60968: You can't put something inside itself.
+60996: That would scarcely empty anything.
+61052: You can only get into something free-standing.
+61088: But you aren't in anything at the moment.
+61120: You'll have to say which compass direction to go in.
+61160: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+61256: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+61340: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+61516: This dangerous act would achieve little.
+61544: You feel a little closer to your maker, but nothing immediately obvious
+results from your prayer.
+61612: The dreadful truth is, this is not a dream.
+61644: You take a moment to consider your next move.
+61676: The air smells clean and vaguely fragrant, but you smell nothing
+unexpected.
+61732: Digging would achieve nothing here.
+61760: You start to jump in place, begin to feel foolish, and decide to stop.
+61812: You would achieve nothing by this.
+61836: There's nothing suitable to drink here.
+61864: But there's no water here to carry.
+61892: It's really not necessary to talk like that.
+61946: There's nothing here to swim in.
+61972: That would be less than courteous.
+61996: Is that the best you can think of?
+62020: You lack the nerve when it comes to the crucial moment.
+62060: You sing a pleasant little tune to yourself.
+62092: You aren't feeling especially drowsy.
+62178: You smell of manly vigour, which is to say sweat and cheap wine.
+62226: Your perfume is a delicate blend of jasmine and violets, with a hint of
+orange blossom and musk to remind everybody that you're spunky as well as
+exquisite.
+62336: Principally you smell of sulphur, although this is augmented by the
+great variety of obscure and stinky alchemic ingredients with which you are in
+regular contact.
+62448: That's for when the reviews come out.
+62476: Your big attempted-suicide scene was three acts ago.
+62514: With a tragic gaze upwards, you beat your breast ineffectually.
+62562: Technically speaking, an enchantment ensures that any mortal who attacks
+you will be immediately struck down by herpes of the liver. You're not sure
+that you included a clause in said enchantment to exclude yourself from this
+condition.
+62728: You think yourself nimble and light on your feet, but there is no
+audience to impress here.
+62792: While out of costume? What is this meant to be, a masque?
+62836: You beat out an impromptu tap-dance to buy time, but audible yawns from
+the darkness cause you to reconsider.
+62914: What? You're a refined and delicate flower, not some thigh-flashing
+dancehall slut!
+62978: Although method-acting can yield invaluable insights into the characters
+you portray, none of them involve what an octogenarian German demonologist
+might consider a snappy dance.
+63104: Master thespian though you may be, there is no audience here.
+63148: Modern audiences, who aren't too bright, would be horribly confused if
+you started acting while out of costume.
+63228: You strut up and down the stage, grinning roguishly, and wondering how
+long you can keep this up.
+63298: In order to convey your poetic pulchritude to the audience, you mime a
+series of gracefully girlish actions: Lost In Innocent Pensiveness, Delighted
+by a Pretty Bird, and Oh My, Sir, But I Couldn't. None of these do a great deal
+to advance the plot, but you do succeed in making yourself feel like a complete
+wet.
+63528: You hobble about, leering, wringing your hands and cackling softly in
+appallingly bad Latin.
+63594: Silence; that is, a gulf where applause should be.
+63636: You're not much of a one for listening to anyone. Bigger on singing
+unruly songs.
+63696: You gracefully place a hand behind your ear and cock your head in
+attention. You don't hear anything, but you still look cute.
+63786: For the past few decades you've had to put up with near-constant
+entreaties to repent whispered in your ear by a good angel, which is easy to
+ignore but has made you slightly deaf.
+63914: You were magnificent, darling! Mwah!
+63946: You salaciously work your tongue about. Got to keep those muscles at
+full strength.
+64008: You don't kiss anybody for less than two pages of pentametric couplets.
+64060: After you'd worked your way through Helen of Troy and half the nymphs in
+creation, lust started to feel kind of banal.
+64144: You're still here, it would seem.
+64170: You scratch a gentlemanly portion of your anatomy.
+64208: You dab carefully at a microscopic flaw in your makeup.
+64248: You have succubi to do that sort of thing for you these days.
+64292: True, it's a low paying job, but you love the arts.
+64332: Rescue you?  Shouldn't you, as the dashing hero, instead be rescuing
+others?
+64390: You're not in particular distress at present.
+64426: Rescue you?  Since when does a powerful wizard need to be rescued?
+64476: You are currently out of character.
+64502: You are playing the part of Captain Maurice Orignaux, honourable dandy
+of the Paris City Guard. Equally capable of composing timeless sonnets on the
+spur of the moment or slitting a Tartar's nose in a tavern brawl, Maurice is
+generally considered to be Entaille's paradigmatic hero. Some critics have
+defined this paradigm as 'a two-dimensional pugilist in tight hose' but you
+have always considered Maurice a character of many contradictions and shades of
+subtlety, brought out most clearly in his banter with Carelio and Longuin in
+the famous oyster-eating scene.
+64900: You are playing the part of Elise, a beautiful and chaste
+garlic-farmer's daughter and the darling of the Paris garrison. Scholars
+generally consider that the real-life Elise was a toothless Gascon whore whose
+only significant achievement was inaccurately throwing a rotten aubergine at
+Charles the Affable, but de l'Entaille was much-given to careless research and
+intentional romanticising.
+65176: You are playing the part of Herr Dr. Lysander Herculaneum Prufrock
+Gramercy McFaud, German theological scholar and on first-names terms with the
+Prince of Darkness. Originally your scheme was to ensnare Elise, but the purity
+of her humble beauty laid a seed of doubt in your black heart that was
+brilliantly explored in a long and profound soliloquy at the close of Act IV.
+When Maurice appeared to rescue her, you could no longer stomach the vileness
+of your existence and, though doomed to Hell yourself, vowed to give aid to the
+heroes in an even longer and more profound soliloquy in the middle of Act V.
+65604: The chorus are an omniscient lot who remain out of sight but are always
+there to provide foreshadowing of things to come. Were it not for them, you
+would most certainly have forgotten to raise your tunic at the appropriate
+moment in
+65762: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+Now bravery must draw up its hem,
+And forth go armoured. Yet
+confusion dogs
+The stalwart Gallic host; no sergeant knoweth
+Whence to rally.
+What signal then
+Could order bring to thrice-disordered men?
+65982: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+The noxious Teuton, by each saint accursed,
+Prepareth now
+dark devilments; from Dis' black gut
+He means to call forth monsters. Dare his
+hand
+Unbar the gate that blessed hands did seal?
+66190: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+The hour draws close when France shall rise or fall;
+The
+board writhes to last moves; alone, each piece is lost.
+Each has emerged, as
+we've shown by our Art;
+Our three are gathered: each must fill their part.
+66418: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+Now does the hour grow close; where feet lack time,
+And
+Spaniards rage before the Cockrel's gate,
+The condemned sinner, soul turned
+sick of vice,
+Shall craft before your eyes most unclean magics,
+Open him a gate
+to Hell's black womb,
+Release demons, and bid them convey
+Our heroes to fair
+France; there to signal
+Embattl'd men to a final desperate measure.
+66752: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+Now bravery must draw up its hem,
+And forth go armoured. Yet
+confusion dogs
+The stalwart Gallic host; no sergeant knoweth
+Whence to rally.
+What signal then
+Could order bring to thrice-disordered men?
+66970: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+The noxious Teuton, by each saint accursed,
+Prepareth now
+dark devilments; from Dis' black gut
+He means to call forth monsters. Dare his
+hand
+Unbar the gate that blessed hands did seal?
+67178: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+The hour draws close when France shall rise or fall;
+The
+board writhes to last moves; alone, each piece is lost.
+Each has emerged, as
+we've shown by our Art;
+Our three are gathered: each must fill their part.
+67406: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+Now does the hour grow close; where feet lack time,
+And
+Spaniards rage before the Cockrel's gate,
+The condemned sinner, soul turned
+sick of vice,
+Shall craft before your eyes most unclean magics,
+Open him a gate
+to Hell's black womb,
+Release demons, and bid them convey
+Our heroes to fair
+France; there to signal
+Embattl'd men to a final desperate measure.
+67740: CHORUS:
+The hour draws close when France shall rise or fall;
+The board
+writhes to last moves; alone, each piece is lost.
+Each has emerged, as we've
+shown by our Art;
+Our three are gathered: each must fill their part.
+67908: CHORUS:
+The noxious Teuton, by each saint accursed,
+Prepareth now dark
+devilments; from Dis' black gut
+He means to call forth monsters. Dare his
+hand
+Unbar the gate that blessed hands did seal?
+68058: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+Now bravery must draw up its hem,
+And forth go armoured. Yet
+confusion dogs
+The stalwart Gallic host; no sergeant knoweth
+Whence to rally.
+What signal then
+Could order bring to thrice-disordered men?
+68278: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+The noxious Teuton, by each saint accursed,
+Prepareth now
+dark devilments; from Dis' black gut
+He means to call forth monsters. Dare his
+hand
+Unbar the gate that blessed hands did seal?
+68486: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+The hour draws close when France shall rise or fall;
+The
+board writhes to last moves; alone, each piece is lost.
+Each has emerged, as
+we've shown by our Art;
+Our three are gathered: each must fill their part.
+68714: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+Now does the hour grow close; where feet lack time,
+And
+Spaniards rage before the Cockrel's gate,
+The condemned sinner, soul turned
+sick of vice,
+Shall craft before your eyes most unclean magics,
+Open him a gate
+to Hell's black womb,
+Release demons, and bid them convey
+Our heroes to fair
+France; there to signal
+Embattl'd men to a final desperate measure.
+69048: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+Now bravery must draw up its hem,
+And forth go armoured. Yet
+confusion dogs
+The stalwart Gallic host; no sergeant knoweth
+Whence to rally.
+What signal then
+Could order bring to thrice-disordered men?
+69266: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+The noxious Teuton, by each saint accursed,
+Prepareth now
+dark devilments; from Dis' black gut
+He means to call forth monsters. Dare his
+hand
+Unbar the gate that blessed hands did seal?
+69474: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+The hour draws close when France shall rise or fall;
+The
+board writhes to last moves; alone, each piece is lost.
+Each has emerged, as
+we've shown by our Art;
+Our three are gathered: each must fill their part.
+69702: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+Now does the hour grow close; where feet lack time,
+And
+Spaniards rage before the Cockrel's gate,
+The condemned sinner, soul turned
+sick of vice,
+Shall craft before your eyes most unclean magics,
+Open him a gate
+to Hell's black womb,
+Release demons, and bid them convey
+Our heroes to fair
+France; there to signal
+Embattl'd men to a final desperate measure.
+70036: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+Now bravery must draw up its hem,
+And forth go armoured. Yet
+confusion dogs
+The stalwart Gallic host; no sergeant knoweth
+Whence to rally.
+What signal then
+Could order bring to thrice-disordered men?
+70254: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+The noxious Teuton, by each saint accursed,
+Prepareth now
+dark devilments; from Dis' black gut
+He means to call forth monsters. Dare his
+hand
+Unbar the gate that blessed hands did seal?
+70462: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+The hour draws close when France shall rise or fall;
+The
+board writhes to last moves; alone, each piece is lost.
+Each has emerged, as
+we've shown by our Art;
+Our three are gathered: each must fill their part.
+70690: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+Now does the hour grow close; where feet lack time,
+And
+Spaniards rage before the Cockrel's gate,
+The condemned sinner, soul turned
+sick of vice,
+Shall craft before your eyes most unclean magics,
+Open him a gate
+to Hell's black womb,
+Release demons, and bid them convey
+Our heroes to fair
+France; there to signal
+Embattl'd men to a final desperate measure.
+71024: A room of indefinite size, hemmed in with high curtains, hanging ropes,
+and cluttered with wardrobes and make-up tables. Various props lie scattered
+about the room. Through the curtains, an entrance leads onstage.
+
+On one wall,
+someone has hung a flyer.
+
+[ To go back onstage, type 'onstage' or simply 'os'
+]
+71252: A room of indefinite size, hemmed in with high curtains, hanging ropes,
+and cluttered with wardrobes and make-up tables. Various props lie scattered
+about the room. Through the curtains, an entrance leads onstage.
+
+On one wall,
+someone has hung a flyer.
+71436: There's really no need to do anything of the sort unless you have an
+audience.
+71538: If you're hopelessly lost, type HINT.
+71568: You smell nothing aside from your own scent of greasepaint and sweat.
+71618: You smell nothing aside from your own scent of manly vigour, which is to
+say sweat and cheap wine.
+71690: You smell nothing aside from the scent of your own perfume, a delicate
+blend of jasmine and violets, with a hint of orange blossom and musk to remind
+everybody that you're spunky as well as exquisite.
+71830: You smell nothing aside from yourself: principally you smell of sulphur,
+although this is augmented by the great variety of obscure and stinky alchemic
+ingredients with which you are in regular contact.
+72060: Silence; that is, a gulf where applause should be.
+72100: You're not much of a one for listening to anyone. Bigger on singing
+unruly songs.
+72160: You gracefully place a hand behind your ear and cock your head in
+attention. You don't hear anything, but you still look cute.
+72250: For the past few decades you've had to put up with near-constant
+entreaties to repent whispered in your ear by a good angel, which is easy to
+ignore but has made you slightly deaf.
+72380: But you're already backstage.
+72404: You're not on a wire.
+72420: I don't see a trapdoor around here. Do you?
+72496: A room of indefinite size, hemmed in with high curtains, hanging ropes,
+and cluttered with wardrobes and make-up tables. Various props lie scattered
+about the room. Through the curtains, an entrance leads onstage.
+72646: The room is cluttered with any number of props, but only the stick,
+cloth, board, and petticoat arouse your interest.
+72732: The room is cluttered with any number of props, but only the stick,
+cloth, and board arouse your interest.
+72808: The room is cluttered with any number of props, but only the stick,
+cloth, and petticoat arouse your interest.
+72886: The room is cluttered with any number of props, but only the stick,
+board, and petticoat arouse your interest.
+72966: The room is cluttered with any number of props, but only the cloth,
+board, and petticoat arouse your interest.
+73046: The room is cluttered with any number of props, but only the stick and
+cloth arouse your interest.
+73118: The room is cluttered with any number of props, but only the stick and
+board arouse your interest.
+73190: The room is cluttered with any number of props, but only the stick and
+petticoat arouse your interest.
+73264: The room is cluttered with any number of props, but only the cloth and
+board arouse your interest.
+73334: The room is cluttered with any number of props, but only the cloth and
+petticoat arouse your interest.
+73408: The room is cluttered with any number of props, but only the board and
+petticoat arouse your interest.
+73480: The room is cluttered with any number of props, but only the stick
+arouses your interest.
+73544: The room is cluttered with any number of props, but only the cloth
+arouses your interest.
+73608: The room is cluttered with any number of props, but only the board
+arouses your interest.
+73672: The room is cluttered with any number of props, but only the petticoat
+arouses your interest.
+73738: The room is cluttered with any number of props, but none of them
+particularly catch your eye.
+73808: Aside from the aforementioned stick, cloth, board and petticoat, you've
+no interest in the other props.
+73884: Through the curtains, an entrance leads onstage.
+73920: I wouldn't trust them to hold your weight, and neither should you.
+73968: They seem to be rather firmly attached.
+73996: You're no bloody technician, so don't go monkeying around with things.
+74048: Ropes dangle mysteriously from far above. You've never gotten into the
+technical side of theatre, and you're not precisely sure what any of these
+ropes and pulleys actually do.
+74172: I wouldn't trust them to hold your weight, and neither should you.
+74220: They seem to be rather firmly attached.
+74248: You're no bloody technician, so don't go monkeying around with things.
+74298: A flyer is plastered across one wall:
+74578: * and DUSTIN Q. CELEBRITY as THE WIZARD MCFAUD *
+74716: At the center of the advertisement is a dramatic painting of a
+rapier-waving hero and a heaving-bodiced heroine, with a city on fire behind
+them. It's all rather exciting, really.
+74844: It's glued rather firmly to the wall. If past experience is any
+indication, it won't be changed until this run is over and you begin working on
+the next play.
+74956: The floor is carpeted in a nauseating shade of retro-seventies avocado
+green.
+75012: Try as you might, you can not rid the floor of such hideous carpeting.
+75064: You've no time to rest. The show must go on!
+75098: You've no time to rest. The show must go on!
+75134: You place the board upon the carpeting, handle-side up... it looks
+suspiciously like a trapdoor!
+75206: It's a rectangle of cloth, so worn-out from being dyed, bleached and
+redyed that you are no longer able to make out what its colour is. Over the
+years it has seen service as a loin cloth, a pirate's sail, a shroud, the ghost
+of Hamlet's father, and as a poorly-rendered special effect of falling leaves.
+75422: With complete disregard for accuracy, the director decided to opt for a
+tricolour. When you dropped a few light hints that perhaps that might not be
+entirely appropriate given the overwhelmingly royalist tone of Entaille's
+original vision, it was suggested that you think seriously about finding
+employment in a less forward-thinking theatre company.
+75666: Your cloak is the royal blue of the Paris City Guard, and a notably more
+resplendent shade thereof than those of the less important City Guards who
+occasionally crop up in the plot in order to laugh at your ribaldry, run about
+excitedly or be fatally stabbed by your rivals.
+75858: A rectangle of cloth, its colours stirring a vague recollection of
+something important that you can't quite put your finger on.
+75950: The glorious flag of France, around which the Parisian garrison will
+surely rally to defeat the accursed Spanish.
+76034: Your cloak, a sacrilegious shade of black, is covered with complex
+kabbalistic symbols, as well as a couple of stains from when you needed a
+blanket for a pregnant hellhound. It makes you look ominous, although more so
+on nights when the wind machine actually works.
+76220: The flag comes apart with a few vigorous tugs at the knots.
+76262: The flag comes apart with a few vigorous tugs at the knots.
+76306: The flag comes apart with a few vigorous tugs at the knots.
+76350: You need to be holding the cloth before you can tie it to anything.
+76400: You can't tie the cloth to anything while you're wearing it.
+76444: But the cloth is already tied to the stick.
+76476: You carefully knot the corners of the cloth around the stick. It now
+makes a passable flag.
+76542: You fumble around a bit, but ultimately you just don't see the point in
+doing that.
+76604: You already have that.
+(You can type 'i' for an inventory of your
+possessions.
+76664: The flag comes apart with a few vigorous tugs at the knots.
+76706: The flag comes apart with a few vigorous tugs at the knots.
+76750: The flag comes apart with a few vigorous tugs at the knots.
+76794: Thankfully, there tends to be a marked absence of medieval French
+pikemen offstage.
+76856: Assuming a dynamic stance, feet wide and shoulders square, you raise the
+flag above your head (music swells in the orchestra pit) and begin to sweep it
+about vigorously. A murmur slowly rises from the chorus, and then the stage is
+swamped with armoured extras and dodgy swordplay.
+
+The choreography has you
+standing around waving the flag in the middle of this for the better part of
+four minutes. Eventually, arms aching and throat sore, you stagger offstage as
+the narrator delivers the closing speech.
+77206: There are no troops loyal to you this side of the border.
+77250: You think it highly unlikely that the Parisian guard would be inspired
+by such a nondescript figure as yourself.
+77330: You feel a bit foolish waving the cloth.
+77362: You carefully knot the corners of the cloth around the stick. It now
+makes a passable flag.
+77430: Putting that on the cloth would achieve nothing.
+77468: But you're already wearing the cloak.
+77496: Costume changes onstage? This is experimental theatre, but there are
+limits. It would perhaps be better to do that sort of thing backstage, so as
+not to break the illusion.
+77618: It's a little difficult to attempt anything as involved as that when
+you're hanging here.
+77684: You remove the cloth from the stick and swirl the cloth around your
+shoulders like a cloak. Hunching your shoulders over, clawing your fingers and
+adopting a lecherous squint, you assume a new role..
+77824: You swirl the cloth around your shoulders like a cloak, tilt your chin
+upwards at an arrogant angle, and take a few strutting steps. After a brief
+moment of concentration, you feel properly in character.
+77966: You swirl the cloth around your shoulders like a cloak. Hunching your
+shoulders over, clawing your fingers and adopting a lecherous squint, you
+assume a new role.
+78082: You swirl the cloth around your shoulders like a cloak, tilt your chin
+upwards at an arrogant angle, and take a few strutting steps. After a brief
+moment of concentration, you feel properly in character.
+78226: Costume changes onstage? This is experimental theatre, but there are
+limits. It would perhaps be better to do that sort of thing backstage, so as
+not to break the illusion.
+78350: It's a little difficult to attempt anything as involved as that when
+you're hanging here.
+78416: You unfurl the cloth from your shoulders. Concentrating, you stick your
+chest out, stand contrapposto and bat your eyelashes. You're now in character.
+78524: You unfurl the cloth from your shoulders, and let yourself relax.
+78572: The flag comes apart with a few vigorous tugs at the knots.
+78614: But the cloth isn't attached to anything at the moment.
+78656: You need to be holding the cloth before you can tie it to anything.
+78704: But the cloth is already tied to the stick.
+78736: You carefully knot the corners of the cloth around the stick. It now
+makes a passable flag.
+78802: You fumble around a bit, but ultimately you just don't see the point in
+doing that.
+78864: Um, anything dropped isn't coming back. Best hold onto that.
+78910: A somewhat threadbare old petticoat, still holding together well enough
+for the crumbling lace to look delicate and tantalising from a distance.
+79012: This petticoat is, um, a chaste keepsake from your lady love Elise.
+You're not the sort to dress in women's clothing. Except of course back in Act
+II when you had to impersonate Wizard McFaud in order to resolve a comic
+interlude involving the city guard and an illegally parked shibboleth. Even
+during this episode, however, you in no way enjoyed the exquisite sensation of
+soft, feminine lace against your thighs.
+79306: Your costume is, admittedly, somewhat revealing for a supposedly
+respectable lady of the period Entaille had in mind, but its effect on the
+box-office has more than compensated for any opinion that might be expressed by
+historical purists.
+79474: These are the profane undervestements ordained in an obscure and
+heretical Apocrypha as those necessary to entreat Beelzebub from his frozen
+void. Those patterns aren't lace: they're recursive geometrica of the sort used
+by the Mussulmen to summon up djinns.
+79656: Go careful with that. It's not got much life left in it.
+79700: A little fusty. Must remember to admonish wardrobe about that.
+79744: Putting things on the petticoat would achieve nothing.
+79782: But you're already wearing the petticoat.
+79816: Costume changes onstage? This is experimental theatre, but there are
+limits. It would perhaps be better to do that sort of thing backstage, so as
+not to break the illusion.
+79938: It's a little difficult to attempt anything as involved as that when
+you're hanging here.
+80004: After a moment or two of hopping about, you work your way into the
+petticoat. Hunching your shoulders over, clawing your fingers and adopting a
+lecherous squint, you assume a new role.
+80134: After a moment or two of hopping about, you work your way into the
+petticoat. Concentrating, you stick your chest out, stand contrapposto and bat
+your eyelashes. You're now in character.
+80268: Costume changes onstage? This is experimental theatre, but there are
+limits. It would perhaps be better to do that sort of thing backstage, so as
+not to break the illusion.
+80390: It's a little difficult to attempt anything as involved as that when
+you're hanging here.
+80456: You step out of the petticoat, and out of role.
+80492: Stepping out of the petticoat, you tilt your chin upwards at an arrogant
+angle and take a few strutting steps. After a brief moment of concentration,
+you feel properly in character.
+80618: But you're not wearing the petticoat.
+80648: The flag comes apart with a few vigorous tugs at the knots.
+80690: But the cloth isn't attached to anything at the moment.
+80732: You need to be holding the cloth before you can tie it to anything.
+80780: But the cloth is already tied to the stick.
+80812: You carefully knot the corners of the cloth around the stick. It now
+makes a passable flag.
+80878: You fumble around a bit, but ultimately you just don't see the point in
+doing that.
+80940: Um, anything dropped isn't coming back. Best hold onto that.
+80986: With complete disregard for accuracy, the director decided to opt for a
+tricolour. When you dropped a few light hints that perhaps that might not be
+entirely appropriate given the overwhelmingly royalist tone of Entaille's
+original vision, it was suggested that you think seriously about finding
+employment in a less forward-thinking theatre company.
+81230: A light but sturdy stick, about a metre and a half long. Over the years
+it has served an uncountable number of roles.
+81316: Your trusty sword is ideally suited both to dispatching assailants and
+to hanging from your hip at a rakish angle. Suspended disbelief has kept its
+edge razor-sharp through four battles, a midnight duel, an attempted suicide
+and the last-minute deflection of a well-aimed chamber-pot.
+81514: The glorious flag of France, around which the Parisian garrison will
+surely rally to defeat the accursed Spanish.
+81598: A light but sturdy stick, about a metre and a half long.
+81642: You cut this staff from a blasted oak in a miserable October rainstorm,
+and in a dark hour engraved deep symbols on its surface with a flint knife to
+transform it into a Beacon of the Nether Gate, an abomination before God whose
+very touch shrivels the humours. It also has a minor hex on it that facilitates
+cheating at polo.
+81870: You carefully knot the corners of the cloth around the stick. It now
+makes a passable flag.
+81938: You can't tie anything to the cloth while you're wearing it.
+81984: Putting that on the stick would achieve nothing.
+82020: You check to make sure nobody's looking, then plant one on the flat of
+the blade.
+82078: Sharp as your wit and twice as pointed.
+82110: Um, anything dropped isn't coming back. Best hold onto that.
+82158: You already have that.
+(You can type 'i' for an inventory of your
+possessions.
+82220: A wooden board, roughly square and about two and a half feet to a side.
+A metal handle is affixed to the centre. It's been coated in dark varnish to
+make it look a bit less like balsawood.
+82352: A wooden board, roughly square and about two and a half feet to a side.
+A metal handle is affixed to the centre. It's been coated in dark varnish to
+make it look a bit less like balsawood.
+82484: A wooden board, roughly square and about two and a half feet to a side.
+A metal handle is affixed to the centre. It's been coated in dark varnish to
+make it look a bit less like balsawood.
+82616: A bad imitation of an open trapdoor, descending into menacing darkness.
+82668: It would look a lot like a trapdoor if there were more than carpeting
+underneath it.
+82728: The dark hole beckons to you in an unpleasant manner.
+82766: A wooden board, roughly square and about two and a half feet to a side.
+A metal handle is affixed to the centre. It's been coated in dark varnish to
+make it look a bit less like balsawood.
+82900: Ah, the splintery texture of balsawood.
+82928: You've been trying to keep your varnish addiction out of the media's
+eye.
+82980: Easy as it would be to smash, it's necessary for the play.
+83024: Putting things on the board would achieve nothing.
+83060: It's not in your size, I'm afraid.
+83088: You already have that.
+(You can type 'i' for an inventory of your
+possessions.
+83148: You put the rather disappointing 'trapdoor' back into your inventory of
+props.
+83204: You put the board back into your inventory of props.
+83242: You close the trapdoor, then pick it up. It detaches from the floor with
+surprising ease.
+83308: You pick up the trapdoor, which detaches from the floor with surprising
+ease.
+83364: You place the board upon the carpeting, handle-side up... it looks
+suspiciously like a trapdoor!
+83434: You place the board upon the floor, handle-side up... it looks
+suspiciously like a trapdoor!
+83504: You place the board upon the carpeting, handle-side up.
+83546: You place the board upon the floor, handle-side up.
+83586: Um, anything dropped isn't coming back. Best hold onto that.
+83634: It's just a board; there's no way to open it.
+83672: You've already opened the 'trapdoor.'  There's nothing beneath it, only
+more carpeting.
+83738: Excitedly, you open the trapdoor to reveal... carpet. How very
+disappointing.
+83798: You start to open the trapdoor but a ferocious rumble makes you
+reconsider; some people were not intended to meddle with the dark arts on
+account of not knowing how to deal with a conjured demon.
+83936: You've already opened the trapdoor. The dark hole beckons to you in an
+unpleasant manner.
+84000: You pull open the trapdoor. Beneath, you can make out nothing but
+darkness.
+84056: Having inscribed a mystic circle of awesome potency, whipped a Bible
+with a nun's garter-belt, and sacrificed a black lamb, you fling the trapdoor
+open dramatically. Sadly, your efforts are rewarded only with a creak from
+below and a string of curses in a guttural Aramaic dialect. You peer into the
+darkness beneath, but can make nothing out.
+84296: A thunder-machine roars offstage and the lights redden and dim. With a
+burst of dry ice, a magnificent demon erupts from the trapdoor! You clear your
+throat: the audience are due for some more of Entaille's third-rate blank
+verse.
+
+
+BIKHRIR:
+Why summons't thou me to this most bleak land,
+Where men are
+virtuous and sausages plentiful?
+
+MCFAUD:
+Did I not with thy master make of it
+a compact,
+Binding your service to my hand's desire,
+And can I not discard this
+if I will?
+
+BIKHRIR:
+No;
+It is signed, Lysander,
+In the gore of your damned
+carcass.
+
+MCFAUD:
+Then let my doom provide another's hope,
+And at once to Paris
+these my friends convey.
+
+
+Bikrir, grumbling loudly, stomps to the backdrop
+and, making a magic pass, extracts a paint-bucket and brush. In a few moments,
+he has coated the entire surface in a completely different talentless daub, and
+springs back down the trapdoor.
+
+A second burst of dry ice signals his
+disappearance (and, incidentally, that of the trapdoor also).
+85280: You are onstage, a wide expanse of blank floor facing onto darkness.
+Nestled behind a curtain's edge is the exit leading offstage.
+
+The backdrop
+features an unconvincing painting of pine-covered mountains and a dark, ominous
+sky in which a double-headed eagle is carrying off a schnitzel.
+85482: You are onstage, a wide expanse of blank floor facing onto darkness.
+Nestled behind a curtain's edge is the exit leading offstage.
+
+The backdrop
+features a hastily-rendered painting of a medieval town, complete with the
+Eiffel Tower, the Champs-Elysses, a vineyard and Gerard Depardieu as an
+onion-selling cyclist. In the distance, the flags of the invading Spanish wave
+menacingly.
+85806: If you're hopelessly lost, type HINT.
+85836: While out of costume? What is this meant to be, a masque?
+85880: You beat out an impromptu tap-dance to buy time, but audible yawns from
+the darkness cause you to reconsider.
+85958: What? You're a refined and delicate flower, not some thigh-flashing
+dancehall slut!
+86022: Although method-acting can yield invaluable insights into the characters
+you portray, none of them involve what an octogenarian German demonologist
+might consider a snappy dance.
+86148: Modern audiences, who aren't too bright, would be horribly confused if
+you started acting while out of costume.
+86228: You strut up and down the stage, grinning roguishly, and wondering how
+long you can keep this up.
+86298: In order to convey your poetic pulchritude to the audience, you mime a
+series of gracefully girlish actions: Lost In Innocent Pensiveness, Delighted
+by a Pretty Bird, and Oh My, Sir, But I Couldn't. None of these do a great deal
+to advance the plot, but you do succeed in making yourself feel like a complete
+wet.
+86528: You hobble about, leering, wringing your hands and cackling softly in
+appallingly bad Latin.
+86594: You hum a few bars to yourself, but you're not going to break into song
+when not in character.
+86816: . Thankfully, these died out with the appearance of the theatre critic.
+86868: You reserve your athletic leaps for swordfighting scenes.
+86910: That would be undignified. Especially in a petticoat. Er, mystic robe.
+86966: Deus ex machina is crass beyond words.
+86996: You cross yourself in a perfunctory fashion.
+87028: Looking upwards, you clasp your hands in devotion and pout slightly;
+soft yellow light from above emphasises your look of childish plaintiveness. A
+critic will later compare this moment to "a sick cat whining to be fed."
+87184: There's a clause in your contract that rather expressly forbids that.
+87324: You smell nothing aside from your own scent of greasepaint and sweat.
+87374: You smell nothing aside from your own scent of manly vigour, which is to
+say sweat and cheap wine.
+87446: You smell nothing aside from the scent of your own perfume, a delicate
+blend of jasmine and violets, with a hint of orange blossom and musk to remind
+everybody that you're spunky as well as exquisite.
+87586: You smell nothing aside from yourself: principally you smell of sulphur,
+although this is augmented by the great variety of obscure and stinky alchemic
+ingredients with which you are in regular contact.
+87820: You're not on a wire.
+87836: As you step through the trapdoor, you sense movement in the inky black
+around you; you are descending into darkness, with nothing underfoot, but it
+feels as if wires are holding you up.
+87966: You open the trapdoor, revealing a dark hole that beckons to you in an
+unpleasant manner. As you step cautiously through the trapdoor, you sense
+movement in the inky black around you; you are descending into darkness, with
+nothing underfoot, but it feels as if wires are holding you up.
+88168: You start to open the trapdoor but a ferocious rumble makes you
+reconsider; some people were not intended to meddle with the dark arts on
+account of not knowing how to deal with a conjured demon.
+88304: Having inscribed a mystic circle of awesome boardency, whipped a Bible
+with a nun's garter-belt, and sacrificed a black lamb, you fling the trapdoor
+open dramatically. Sadly, your efforts are rewarded only with a creak from
+below and a string of curses in a guttural Aramaic dialect. You peer into the
+darkness beneath, but can make nothing out.
+88546: A thunder-machine roars offstage and the lights redden and dim. With a
+burst of dry ice, a magnificent demon erupts from the trapdoor! You clear your
+throat: the audience are due for some more of Entaille's third-rate blank
+verse.
+
+
+BIKHRIR:
+Why summons't thou me to this most bleak land,
+Where men are
+virtuous and sausages plentiful?
+
+MCFAUD:
+Did I not with thy master make of it
+a compact,
+Binding your service to my hand's desire,
+And can I not discard this
+if I will?
+
+BIKHRIR:
+No;
+It is signed, Lysander,
+In the gore of your damned
+carcass.
+
+MCFAUD:
+Then let my doom provide another's hope,
+And at once to Paris
+these my friends convey.
+
+
+Bikrir, grumbling loudly, stomps to the backdrop
+and, making a magic pass, extracts a paint-bucket and brush. In a few moments,
+he has coated the entire surface in a completely different talentless daub, and
+springs back down the trapdoor.
+
+A second burst of dry ice signals his
+disappearance (and, incidentally, that of the trapdoor also).
+89282: I don't see a trapdoor around here. Do you?
+89364: Nestled behind a curtain's edge is the exit offstage.
+89404: I wouldn't trust them to hold your weight, and neither should you.
+89452: They seem to be rather firmly attached.
+89480: You're no bloody technician, so don't go monkeying around with things.
+89530: High above a forested peak, a proud double-headed eagle is carrying off
+its natural prey, the schnitzel. Such unspeakable grandeur, such natural
+beauty, such cack-handed brushwork.
+89660: Sad is the plight of the captured schnitzel, but it's just a backdrop.
+89712: The schnitzel is part of the backdrop. Mere scenery.
+89752: Perhaps you can grab a wiener after the show, but this one is sadly only
+part of a painted backdrop.
+89822: High above a forested peak, a proud double-headed eagle is carrying off
+its natural prey, the schnitzel. Such unspeakable grandeur, such natural
+beauty, such cack-handed brushwork.
+89952: Rescue the eagle?  What about the poor schnitzel?
+89990: The eagle is part of the backdrop. Mere scenery.
+90028: The dark, menacing German mountains loom overhead, their jagged peaks
+choked with trees.
+90092: The landscape is part of the backdrop. Mere scenery.
+90132: The demon's unerring brush has depicted M. Depardieu, heart-throb of the
+French cinema, atop a shaky bicycle, a look of exaggerated astonishment and
+panic on his face as he rescues onions from the advancing Spanish hordes.
+90290: The demon's unerring brush has depicted M. Depardieu atop a shaky
+bicycle, a look of exaggerated astonishment and panic on his face as he rescues
+onions from the advancing Spanish hordes.
+90424: You hesitate, knowing that the audience must be watching, but then
+decide that it is far from being out of role.  What genuine French maiden could
+possibly resist the enticing lure of his manly nose and massive frame?  You
+plant one square on his mouth and are rewarded with the heady scent of fresh
+paint.
+90636: Comfortable as you might be with your sexuality, that's not exactly in
+the script.
+90696: It is indeed unfortunate, but Gerard is only part of the backdrop. Mere
+scenery.
+90756: Thick-limbed peasants, relaxing beneath sun-kissed grape trellises, wave
+wine glasses about in a drunken fashion. What they are doing in central Paris
+is anybody's guess.
+90878: The landmark is part of the backdrop. Mere scenery.
+90918: Characteristic landmarks of the medieval Paris skyline. Or at least, so
+the set designer seemed to believe.
+90998: The landmark is part of the backdrop. Mere scenery.
+91038: The malicious and wily Spanish army lurks on the horizon, flags
+billowing in the breeze, preparing to strike. Their victory would be an
+unspeakable human tragedy for the people of France, who would then be ruled by
+an autocratic self-serving hereditary tyrant, differing from the current
+autocratic self-serving hereditary tyrant in that he would be a dirty Spaniard.
+91296: You raise your sword, and with a wild whoop, charge the Spanish lines. 
+You instantly think better of it when you nail your head on the backdrop. 
+You'll certainly be feeling that tomorrow.
+91430: Don't be silly.  Without an army behind you, you'd be cut to pieces.
+91484: The Spanish are part of the backdrop. Mere scenery.
+91524: The backdrop features an unconvincing painting of pine-covered mountains
+and a dark, ominous sky in which a double-headed eagle is carrying off a
+schnitzel.
+91634: The backdrop features a hastily-rendered painting of a medieval town,
+complete with the Eiffel Tower, the Champs-Elysses, a vineyard and Gerard
+Depardieu as an onion-selling cyclist. In the distance, the flags of the
+invading Spanish wave menacingly.
+91816: Wind howls among the mountain peaks, interspersed with the occasional
+wailing Valkyrie.
+91878: The panicked sounds of people running about, and the clank of armour.
+91932: Breaking the first wall is no better than breaking the fourth.
+91976: Breaking the first wall is no better than breaking the fourth.
+92020: You're meant to be fighting off the Spanish, not leading their charge!
+92072: You hum a few bars to yourself, but you're not going to break into song
+when not in character.
+92292: . Thankfully, these died out with the appearance of the theatre critic.
+92344: The floor is a featureless expanse facing out into darkness.
+92388: Try as you might, you can not damage the floor.
+92424: You've no time to rest. The show must go on!
+92458: Sitting on your rump in front of the audience isn't exactly in the
+script.
+92514: You place the board upon the floor, handle-side up... it looks
+suspiciously like a trapdoor!
+92584: There may well be an audience out there, but you can't see them for the
+glare of the lights. Best to just assume that they're there, and that somewhere
+in their midst is a theatre critic who is watching you with a discerning eye.
+92744: The audience, if they're out there, aren't giving you any feedback
+whatsoever. How very annoying.
+92816: Best stick to the script. If you've forgotten your lines, take your cue
+from the chorus.
+92880: There may well be an audience out there, but you can't see them for the
+glare of the lights. Best to just assume that they're there, and that somewhere
+in their midst is a theatre critic who is watching you with a discerning eye.
+93038: You hum a few bars to yourself, but you're not going to break into song
+when not in character.
+93108: Elise isn't given any songs in the original text, although there was a
+fashion in the eighteenth century to write in lengthy and hideous warblings for
+her, with titles like 'The Mistle-Thrush Sings In My Heart' and 'Sweetest
+Fondness'. Thankfully, these died out with the appearance of the theatre
+critic.
+93328: You are surrounded by darkness; nothing underfoot and a tiny light far
+overhead. Something allows you to dangle in space; whenever you move, you feel
+slight upwards pressure on your joints, and feel yourself sway a little.
+
+A few
+feet from you, a wooden demon is hanging limply from his wires.
+93536: You are surrounded by darkness; nothing underfoot and a tiny light far
+overhead. Something allows you to dangle in space; whenever you move, you feel
+slight upwards pressure on your joints, and feel yourself sway a little.
+
+A few
+feet from you, a wooden demon is hanging limply from his wires.
+93744: There's really no need to do anything of the sort unless you have an
+audience.
+93846: If you're hopelessly lost, type HINT.
+93876: Sulphur and red emulsion are the main odours.
+93908: You flail ineffectually at thin air. Although this does little, an
+upward force at the top of your head seems to pull you upwards, back toward the
+light.
+94016: You flail ineffectually at thin air. Although this does little, an
+upward force at the top of your head seems to pull you upwards, back toward the
+light.
+94124: You attempt to descend further, but since you don't have any purchase on
+anything, this proves impractical.
+94200: You attempt to go in another direction, but since you don't have any
+purchase on anything, this proves impractical. Looks like your best bet is to
+go up.
+94308: Ol' Nick here is a man-sized string puppet, a bit creaky at some of the
+joints but perfectly adequate to his rather brief role, which mostly involves
+waving his arms about and growling. Someone has tied a sandbag to his ankle,
+presumably in order to stop idle fingers from playing about with him at
+inappropriate times.
+94530: This ferocious creature's ravening teeth and red skin make it an obvious
+opponent, and your sword-hand begins to twitch. However, your sharp eye also
+perceives that the fellow is bound by the ankle, and it would be criminally
+dishonourable to strike a bound man, demon or no.
+94724: At the very sight of the demon's hideous features, you are overcome by
+the frailties of your sex and execute a commendable swoon. However, you then
+take in a detail which gives you pause: the poor ickle thing has a sandbag tied
+to its ankle.
+94892: Gazing on this monstrosity, you are once again grateful that they were
+still teaching the controversial Abyssal Taxonomy course when you were a mere
+undergraduate at Gesichtumarmunger Theological College. Due to the knowledge
+gained therein, you are able to recognise this fellow as Lord Bikhrir, Scourge
+of the Eighteen Vitriol Waterfalls and Unholy Archon of the twelfth diadem. In
+other words, he is perfectly useless for more or less anything except light
+lifting and a little amateur brushwork. Unfortunately, he seems rather bogged
+down by a sandbag that's tied to his ankle.
+95300: The demon's tongue is about two feet long, forked and wooden. Not really
+an attractive prospect, especially since he doesn't seem too lively just now.
+95406: It's completely lifeless. What would be the point?
+95446: You land a couple of heavy thwacks on the demon's torso. It swings back
+and forth gently.
+95512: It's completely lifeless. What would be the point?
+95550: "Wake up, you lazy bastard! There's work to do!" you shout, applying a
+boot to the demon's ribs. Nothing happens.
+95640: There is a sandbag tied to the demon's leg, which appears to keep him
+weighted down rather nicely. Except that that's not nice at all, since he's
+supposed to be conjured onstage later this act.
+95776: All you hear is a gentle creaking of wires and joints.
+95816: The demon is at least as big as you are and looks rather to menacing to
+tangle with.
+95876: Demons wear no clothes and thus generally have a lack of pockets.
+95922: Much as you'd like to mask such hideousness from your sights, covering
+the demon would involve tossing the cloth; you can't risk losing it in the
+darkness.
+96034: The demon's not exactly a smooth, flat surface; best not to risk losing
+anything in the darkness.
+96108: Since you can't reach the sandbag, you're not really sure how to do
+that.
+96162: As a well-brought-up Catholic girl, you know that God condemned demons
+to Hell for a damn good reason, and hubris is not your cup of tea.
+96264: Much as you would like to, you can't really work out how you're going to
+deal with that sandbag.
+96336: Sulphur and red emulsion are the main odours.
+96368: The demon seems indifferent. Possibly because one learns the futility of
+materialism in Hell. Or possibly because he's merely a wooden puppet.
+96468: The demon seems indifferent. Possibly because one learns the futility of
+materialism in Hell. Or possibly because he's merely a wooden puppet.
+96568: It's just a puppet. However low your career may sink, you've vowed never
+to resort to ventriloquism.
+96642: The demon ignores you.
+
+"Wake up and fight, you monstrous dastard!" you
+cry. The demon, however, appears to be a monumental coward.
+96742: You don't think that the baby Jesus would approve of conversing with
+fallen angels.
+96804: Silence.
+
+"I command thee. AWAKEN!"
+
+More silence... then the demon
+angles its head towards you. "You try manifesting in the mortal realm when some
+yahoo's tied a sandbag to your ankle."
+96948: It's just a puppet. However low your career may sink, you've vowed never
+to resort to ventriloquism.
+97022: The demon ignores you.
+
+"Wake up and fight, you monstrous dastard!" you
+cry. The demon, however, appears to be a monumental coward.
+97122: You don't think that the baby Jesus would approve of conversing with
+fallen angels.
+97184: Silence.
+
+"I command thee. AWAKEN!"
+
+More silence... then the demon
+angles its head towards you. "You try manifesting in the mortal realm when some
+yahoo's tied a sandbag to your ankle."
+97328: Light from the stage shines down from above, the trapdoor itself out of
+sight and out of reach.
+97396: It's out of reach. You could try going up, possibly.
+97436: Light from the stage shines down from above, the trapdoor itself out of
+sight and out of reach.
+97504: You strain to make out anything in inky black void, but try as you might
+you can't see anything.
+97572: You strain to make out anything in inky black void, but try as you might
+you can't see anything.
+97640: A substantial sandbag is tethered securely to the demon's ankle, just
+out of reach. The wires suspending you limit your movement, and the sandbag is
+dangling well below the demon. If you could just extend your reach somehow...
+97800: The sandbag is tethered securely to the demon's ankle, just out of
+reach. You kick and swipe feebly, but to no avail.
+97884: With one swing of your blade, the rope is cut and the sandbag drops away
+into empty darkness. The demon creakily shakes its leg.
+
+MAURICE:
+Now I have
+honour, and thee, releas't,
+Put up thy sword, most naughty beast!
+
+The demon
+swivels to face you, as if to respond; its lower jaw clatters up and down. The
+only sound is of clacking wood and creaking wires. Then it reaches above its
+head, clumsily selects a particular wire, and yanks forcefully on it. You
+immediately find yourself being hauled upwards...
+98252: With one swing of your blade, the rope is cut and the sandbag drops away
+into empty darkness. The demon creakily shakes its leg.
+
+MAURICE:
+Now I have
+honour, and thee, releas't,
+Put up thy sword, most naughty beast!
+
+The demon
+swivels to face you, as if to respond; its lower jaw clatters up and down. The
+only sound is of clacking wood and creaking wires. Then it reaches above its
+head, clumsily selects a particular wire, and yanks forcefully on it. You
+immediately find yourself being hauled upwards...
+98620: You poke and jab ineffectually at the sandbag to no avail.
+98662: The sandbag is tethered securely to the demon's ankle, just out of
+reach. You kick and swipe feebly, but to no avail.
+98748: You can't quite manage to take it, but it looks as though you might be
+able to cut it free with your sword.
+98824: You poke and jab ineffectually at the sandbag to no avail.
+98866: The sandbag is tethered securely to the demon's ankle, just out of
+reach. You kick and swipe feebly, but to no avail.
+98952: You can't see any such thing... They're
+98984: The wires are doing their job, supporting both you and the demon. Best
+not to mess with what's not broken.
+99060: Parentless objects go here to die and if you can actually read this,
+it's a bug. Tell someone.
+99348: a compressed time competition, after all).  He suggested many wonderful
+things, all of which I have attempted to include.  Any failings in that regard
+are my own, and not at all his.  Many thanks indeed, Mr. Welbourn.
+
+Thanks to
+Kevan Davis for creating the 24 Hours of Inform contest, which inspired this
+game.  Additionally, I would be totally remiss were I to not mention Graham
+Nelson for Inform, and Irene Callaci for this hint menu, among other things.
+99802: rg/hoi/
+
+The theme for this third competition, provided by Holly
+Gramazio, was as follows:  "The adventure must be set in a theatre. It must
+involve a petticoat, an advertisement, something which is repainted, and a
+trapdoor.
+
+Hopefully that at least answers your question of
+100000: Dear God, why did someone write this?
+100028: What in the hell is going on here?
+100052: I suggest that the truly perplexed should seek help through the hint
+option on the main menu.
+100322: , you might prefer 'on' and 'off'.  Go with what feels right.  If you
+insist on clinging to tradition, you can also go 'north' to move onstage and
+'south' to move backstage.
+100604: About "Within a Wreath of Dewdrops"
+100644: What's going on here?
+100660: I'm having trouble navigating!
+100814: You're a master thespian... of sorts.
+100846: You can play a variety of roles.
+100872: You have a variety of props and costumes at your disposal.
+100914: Get into character.  Play around with things.
+100950: Listen to the Chorus.  They're a bit vague, but they know what's going
+on.
+101008: Explore the theatre.  You'll find some props backstage.
+101050: Most props are versatile and can be used in multiple ways.
+101094: Try on some clothes.  See how you look.
+101126: As a versatile actor, you can, of course, play more than one character.
+101180: You can also use props differently depending on your role.
+101222: Each character is important.  You must play the part of three different
+characters and employ props in different ways if you are to finish.
+101322: WARNING: The next three hints explain each costume.
+101366: The hero wears a cloak.  The cloth serves this purpose.
+101410: The heroine wears the petticoat.
+101436: The wizard wears both the cloak and petticoat.
+101470: WARNING: This is a slow blow-by-blow walkthrough.  Proceed at your own
+spoilerage.
+101538: Although this is a play, you have to do some actions offstage in order
+to complete the game.
+101606: To begin, go backstage.  This is where you find all of your props and
+the only place you can change costume.
+101686: Examine yourself.  Try wearing the cloth, then examine yourself again.
+101740: As long as you're the hero, let's do something heroic.  Take the board
+and go onstage.
+101804: The Chorus says you need to summon a demon to advance the plot.  Where
+do demons normally come from?
+101876: But how to get to hell?  You haven't a shovel, nor any good intentions.
+101930: But there might be a trapdoor around here somewhere.
+101970: Perhaps it's right under your nose.  This is theatre, after all.  It
+doesn't have to be a 'real' trapdoor.
+102052: Open the trapdoor.  Descend into the darkness.
+102088: WARNING: This is a slow blow-by-blow walkthrough.  Proceed at your own
+spoilerage.
+102154: Congratulations, you've found your demon.  He doesn't seem to do much,
+though, does he?
+102222: Multiple points of view are always useful.  You could try examining him
+as a different character.
+102294: Looks as if that sandbag is going to prevent him rising up.
+102338: To solve this, you're going to need something sharp.
+102380: Only one character has access to something sharp.
+102416: Check to make sure you're playing the role of Maurice, our hero.
+102464: He wears the cloth as his cloak, and, if he's carrying the stick, he
+has his trusty sword.
+102530: Now that you've freed the demon, you need to summon him.
+102574: Our hero's not much of a conjuror.
+102602: The wizard has experience in this regard... go backstage and put on
+your petticoat.  Make certain you're still wearing the cloak.
+102698: Go back onstage, and open the trapdoor.
+102730: WARNING: This is a slow blow-by-blow walkthrough.  Proceed at your own
+spoilerage.
+102798: Look around... looks like we've had a scene change.
+102840: Ah!  Gay Paris!  But Paris is under threat.
+102876: You need to defend the city, but even our hero can't go it alone.
+102924: The Spanish have assembled their troops. You'll need to do the same.
+102976: You'll need to signal for help somehow.
+103006: The cloak serves multiple purposes, but only if you're not wearing it.
+103060: Only a character in the play can play the part.
+103094: Put on your petticoat and assemble your flag.
+103130: Tie the cloth to the stick.  Et voila!  A flag.
+103170: Return to the stage, wave the flag, and save the day.
+103232: What am I meant to be doing?
+103358: Did you...
+
+- Rescue the eagle?
+- Rescue the schnitzel?
+- Eat the
+schnitzel?
+- Attack the Spanish as our Hero?
+- Kiss your sword?
+
+
+Did you try
+these in each role...
+
+- Sing, Dance, Act, or Pray onstage?
+- Kissing Gerard
+Depardieu?
+- Kissing yourself?
+- Examine the petticoat?
+- Rescueing yourself?
+-
+Kiss the demon?
+- Smell yourself?
+- Touch yourself?
+103652: You seem to want to talk to someone, but I can't see whom.
+103696: You seem to want to talk to someone, but I can't see whom.
+103740: A hollow voice says, "Break a leg."
+103768: You smile to yourself, and it makes you feel a little better.
+103812: You frown to yourself, and it makes you feel a little worse.
+103856: You seem to want to rescue someone, but I can't see whom.
+103900: That's not something you really need to think about.
+103940: You wink, feeling a little foolish.
+103966: Rating:
+
+"A risible attempt... Total failure to comprehend Entaille's
+opus." - Holocaust-Denier Weekly
+104050: Rating: *
+
+"Tedious but competent." - International Dentist
+104102: Rating: **
+
+"Too ambitious for the frankly amateurish cast." - The
+Morning Pleb
+104170: Rating: ***
+
+"Varies from superb to embarrassing." - New York Gazette &
+Star
+104322: Rating: *****
+
+"A tour de force; a definitive performance. Quite
+astounding." - Montmartre Prancy Elitist
+104420: You squint your eyes, but it doesn't seem to help.
+104456: Master thespian though you may be, there is no audience here.
+104500: You seem to want to flirt with someone, but I can't see whom.
+104544: You seem to be talking more or less to yourself.  That's never good.
+104594: It's just a puppet. However low your career may sink, you've vowed
+never to resort to ventriloquism.
+104670: The demon ignores you.
+
+"Wake up and fight, you monstrous dastard!" you
+cry. The demon, however, appears to be a monumental coward.
+104770: You don't think that the baby Jesus would approve of conversing with
+fallen angels.
+104832: Silence.
+
+"I command thee. AWAKEN!"
+
+More silence... then the demon
+angles its head towards you. "You try manifesting in the mortal realm when some
+yahoo's tied a sandbag to your ankle."
+104976: Best stick to the script. If you've forgotten your lines, take your cue
+from the chorus.
+105040: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+Now bravery must draw up its hem,
+And forth go armoured. Yet
+confusion dogs
+The stalwart Gallic host; no sergeant knoweth
+Whence to rally.
+What signal then
+Could order bring to thrice-disordered men?
+105258: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+The noxious Teuton, by each saint accursed,
+Prepareth now
+dark devilments; from Dis' black gut
+He means to call forth monsters. Dare his
+hand
+Unbar the gate that blessed hands did seal?
+105466: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+The hour draws close when France shall rise or fall;
+The
+board writhes to last moves; alone, each piece is lost.
+Each has emerged, as
+we've shown by our Art;
+Our three are gathered: each must fill their part.
+105694: The chorus is tied to the script, but repeats its lines again, for your
+benefit:
+
+CHORUS:
+Now does the hour grow close; where feet lack time,
+And
+Spaniards rage before the Cockrel's gate,
+The condemned sinner, soul turned
+sick of vice,
+Shall craft before your eyes most unclean magics,
+Open him a gate
+to Hell's black womb,
+Release demons, and bid them convey
+Our heroes to fair
+France; there to signal
+Embattl'd men to a final desperate measure.
+106028: You seem to be talking more or less to yourself.  That's never good.
+106080: You think yourself nimble and light on your feet, but there is no
+audience to impress here.
+106144: Darkness; below, percussion throbs softly. You shift from foot to foot,
+conscious of too much open space around you.
+
+Ahead and on either side, the
+voice of the chorus rises; as they speak, the lights slowly go up.
+
+CHORUS:
+Now
+does the hour grow close; where feet lack time,
+And Spaniards rage before the
+Cockrel's gate,
+The condemned sinner, soul turned sick of vice,
+Shall craft
+before your eyes most unclean magics,
+Open him a gate to Hell's black
+womb,
+Release demons, and bid them convey
+Our heroes to fair France; there to
+signal
+Embattl'd men to a final desperate measure.
+The final act is begun; the
+play is in your hands.
+

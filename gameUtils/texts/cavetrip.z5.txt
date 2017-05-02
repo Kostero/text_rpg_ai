@@ -1,0 +1,778 @@
+14600: There is no reply.
+14668: Nothing is on sale.
+15126: Dropped.
+15183: . Not bad.
+16312: Wrahn seem interested.
+16827: Done.
+16876: You are carrying nothing.
+16961: Keep your mind on the game.
+16986: You hear nothing unexpected.
+18050: But it's dark.
+18067: You find nothing of interest.
+18095: Quite.
+18125: Nothing to do!
+18160: o. You have won
+18241: It is now pitch dark in here!
+18268: I beg your pardon?
+18332: Sorry, that can't be corrected.
+18361: Think nothing of it.
+18414: As good-looking as ever.
+18446: You can hardly repeat that.
+18471: You can't begin with a comma.
+18585: I didn't understand that number.
+18614: You can't see any such thing.
+18650: You aren't holding that!
+18746: That's not a verb I recognise.
+18784: You can't see "
+18894: Nothing to do!
+18911: There are none at all available!
+19322: That was a rhetorical question.
+19349: Score notification off.
+19372: Score notification on.
+19401: Objects you have handled:
+19426: None.
+19899: You have visited:
+20093: You are unable to.
+20112: Nothing obvious happens.
+20162: That's not a direction.
+20185: Not that way you can't.
+20332: You lack the dexterity.
+20413: Done.
+20461: Please answer yes or no.
+20487: Are you sure you want to quit?
+20646: Removed.
+20677: Failed.
+20696: Restore failed.
+20713: Ok.
+20723: You achieve nothing by this.
+20755: Save failed.
+20770: Ok.
+20878: There is no score in this story.
+20916: Transcripting is already off.
+20982: Transcripting is already on.
+21048: But it's dark.
+21168: You find nothing of interest.
+21468: Your singing is abominable.
+21502: You smell nothing unexpected.
+21529: Oh, don't apologise.
+21557: Keep your hands to yourself.
+21582: You achieve nothing by this.
+21811: Taken.
+21822: You are always self-possessed.
+22345: You taste nothing unexpected.
+22379: You talk to yourself a while.
+22406: This provokes no reaction.
+22432: What a good idea.
+22458: Futile.
+22487: Keep your hands to yourself!
+22512: You feel nothing unexpected.
+22537: If you think that'll help.
+22783: Time passes.
+22807: That seems unnecessary.
+22903: You wave, feeling foolish.
+66599: Ask your mom about the list.
+66691: Read the top of the list.
+66819: Ask your mom about the pack.
+67357: Try "TIE BANDAGES"
+68595: You can no longer stay awake.
+70103: Ryan comes limping after you.
+70964: Colin is helping load the bus.
+71226: This is the Upstairs Bathroom.
+71816: You find some spare batteries!
+71895: You find your scout knife!
+71998: What, you think you are a genie?
+72839: Ryan hums tunelessly to himself.
+73043: Ryan hums tunelessly to himself.
+73072: Ryan mumbles to himself.
+73432: Ryan accepts the canteen.
+74680: Ryan accepts the canteen.
+74845: It is too far too reach.
+78073: in" or "notin
+78089: opmhas" or "hasnt
+78231: }" at end of "objectloop
+80592: Score:
+80600: Moves:
+80608: Time:
+80616: You can't go that way.
+80724: Violence isn't the answer to this one.
+80752: This dangerous act would achieve little.
+80780: I don't think much is to be achieved by that.
+80840: Digging would achieve nothing here.
+80868: There's nothing suitable to drink here.
+80896: That would scarcely empty anything.
+80924: You can only get into something free-standing.
+80996: But you aren't in anything at the moment.
+81028: But there's no water here to carry.
+81084: You can't put something inside itself.
+81112: You jump on the spot, fruitlessly.
+81140: You would achieve nothing by this.
+81192: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+81288: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+81372: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+81484: You see nothing unexpected in that direction.
+81748: Please give one of the answers above.
+81776: [You can't "undo" what hasn't been done!]
+81812: [Can't "undo" twice in succession. Sorry!]
+81852: "Oops" can only correct a single word.
+81880: It is pitch dark, and you can't see a thing.
+81912: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+81972: You seem to want to talk to someone, but I can't see whom.
+82016: To talk to someone, try "someone, hello" or some such.
+82056: I didn't understand that sentence.
+82116: You seem to have said too little!
+82140: You can't use multiple objects with that verb.
+82176: You can only use multiple objects once on a line.
+82212: You excepted something not included anyway!
+82244: You can only do that to something animate.
+82276: That's not something you need to refer to in the course of this game.
+82324: I didn't understand the way that finished.
+82356: Sorry, you can only have one item here. Which exactly?
+82456: Nothing practical results from your prayer.
+82512: That would be less than courteous.
+82536: Is that the best you can think of?
+82560: You can't put something on top of itself.
+82592: Are you sure you want to restart?
+82616: Attempt to end transcript failed.
+82640: Attempt to begin transcript failed.
+82668: You aren't feeling especially drowsy.
+82696: Real adventurers do not use such language.
+82728: There's not enough water to swim in.
+82756: There's nothing sensible to swing here.
+82784: You're carrying too many things already.
+82816: You lack the nerve when it comes to the crucial moment.
+82884: You'll have to say which compass direction to go in.
+82924: The game file has verified as intact.
+82952: The game file did not verify as intact, and may be corrupt.
+82996: The dreadful truth is, this is not a dream.
+83872: Looking for a little hint? 
+Well, let's see...
+
+
+First, let me determine
+what you're stuck on...
+83956: Your mom cant sign the slip if she doesn't have it.
+83992: You might check the laundry room.
+84016: Ask your mom about the flashlight.
+84040: You might get thirsty on your trip.
+84068: That flashlight might not work without batteries.
+84104: If you think you're ready to go and nothing's happening, how do you SHOW
+your Mom you're ready to leave?
+84184: Uh-oh. You FORGOT (or didn't FIND) Your permission slip. Better ASK the
+scoutmaster about it.
+84264: Better examine that permission slip.
+84292: The permission slip's unsigned. Now who could help you?
+84332: Better ASK the Scoutmaster about it. Maybe he can call your Mom.
+84384: Don't know what you want a hint for. Just hang around until time to
+leave.
+84518: But you know, these trips take time. OR, you can examine your items and
+see whether their ready for a trip in the dark.
+84604: Well, it would be GREAT if you had a first aid kit, wouldn't it? since
+you haven't got one, (It's probably back at home) You'll either need to leave
+your buddy here or RESTART or RESTORE and try again.
+84760: Why don't you examine that first aid kit? Maybe it could help Ryan.
+84812: Perhaps you could find something useful in the First Aid Kit.
+84856: Perhaps you could find something useful in the First Aid Kit.
+84940: Notice that Ryan is struggling to swallow. Wonder if there's any water
+nearby that might help him?
+85012: Ryan needs Tylenol and some water to wash it down with. If you are
+missing either one, put up with his griping (remember, he's in pain!) and move
+on. Ryan will come with you. He wants to get out as much as you do... And if
+you find water later on, you might try again...
+85208: Have patience. That's all the hints I have on Ryan's pain.
+85252: You are probably carrying items that are too large.
+85288: Examine the rocks. Perhaps you need something to dig or break them.
+85336: Aren't you carrying something you can use to Break Rocks?
+85380: Examine the rocks. Perhaps you need something to cross this river.
+85428: Hint 1: You are carrying something that looks a little like a bridge...
+85480: Hint 2: Perhaps Your buddy can help you.
+85512: Last Hint: Try giving the plank to Ryan, to see what he does with it.
+85564: Hint 1: Have you been everywhere? There is a place that looks like a
+pink tongue.
+85624: Hint 1: Have you been everywhere? If so, this location should seem
+familiar to you somehow. LOOK and read the room description carefully.
+85724: Hint 2: There's a point across the way you should have visited. It will
+give you a clue where to go.
+85796: Last Hint: The description at LOOKOUT POINT will tell you what to do.
+85856: I'm not quite sure what kind of help you need. Why not try typing
+"HELP"?
+86060: Your eyelids are beginning to droop. All this excitement can be very
+draining.
+86116: You are becoming EXTREMELY tired. Perhaps you can simply lay down and
+rest.
+86176: And in a cave that's not the BEST condition to be in. You collapse and
+pitch forward, falling into a pit blacker than night.
+86268: Whipping out your trusty sleeping bag, you get some quick sleep. You're
+buddies wake you up when it's time to go.
+86352: Was that a bear growling or was it your tummy rumbling!?.
+86396: Your hunger is making you weak and dizzy. You wonder what will become of
+you if you starve to death?
+86472: gasp you realize that your hunger is too much for you. You collapse and
+expire from starvation.
+86540: Your Mom comes into the room and tells you it's time to go to the
+Church. She packs you and everything you've packed into the car and hauls you
+up there.
+86648: Your friend Ryan shows up with his Mom. With a wink and grin at you, he
+grabs his pack and sleeping bag from the car and kisses his mom goodbye. 'Hey',
+he calls at you. 'Let's help load the bus!'.
+86792: You and your friend Ryan help load the bus. You get in the line and
+start passing equipment down the line.
+86868: Most of the gear is loaded on the bus now, and you get to wander off for
+a bit. Ryan wanders off with you.
+87036: Well, the Scoutmaster has signalled that it's time to pray and move out.
+87088: As each boy boards the bus, the Scoutmaster collects his permission
+slip.
+87184: After a quick prayer the troop gets on the road.
+87220: The scoutmaster double-checks your slip and points out that you failed
+to get your mother to sign it. Unfortunately, that means you have to stay
+behind and miss the trip, since the troop can't wait for your mother to come up
+to the church and sign your slip. You are put off the bus and have to wait with
+the church custodian until your Mom can pick you up.
+87468: The scoutmaster waits while you search your things, but your permission
+slip persists in its absence. Unfortunately, that means you have to stay behind
+and miss the trip, since the troop can't wait for your mother to come up to the
+church and sign your slip. You are put off the bus and have to wait with the
+church custodian until your Mom can pick you up.
+87716: The terrain outside the bus has changed, from flatland to the rugged
+foothills of the Smoky Mountains. The scenery is breathtaking, but soon the sun
+has set and all you can see outside the bus is blackness.
+87860: After a 6-hour bus ride the Troop finally arrives at the State Park. You
+spend a night in your tent with your buddy Ryan. It seems you hardly slept at
+all when you hear Colin playing Reveille.
+88092: You hurriedly get dressed and exit your tent. The smell of frying bacon
+and eggs is heavenly.
+88160: But since you forgot your mess kit, you cant eat! Fortunately, someone
+DID bring an extra cup and lets you use it to get something to eat. But by this
+time most of the food is gone. You gobble up the last of the eggs and a quick
+cup of greasy milk (only greasy because you ate the eggs in the same cup...)
+88376: You quickly get your mess kit, and get in line to eat! The chaplain's
+aide gives a quick prayer, and then you dig in. Seems like nothing ever tasted
+so good.
+88824: ho made these caves his hideout. He went on to say that the thief, Jack
+Pratchett, fled to these caves with a posse hot on his trail after having
+robbed the Southern Payroll train. Wounded and alone, he made it into the
+labyrinth of caves and the search parties never found him. The guide went on to
+say that it was rumoured he died in the caves and his ghost still haunted the
+caves, guarding his gold.
+89104: A little disappointed, you take your place in the single-file line of
+kids that will be touring through the cave. Oddly enough, you appear to be last
+in the line. The tour guide warns you that the tour will be rapid, (he looks
+rather bothered to be having to lead your group through the cave, and you
+suspect he doesnt really  care to be leading you at all). 
+
+
+ Halfway through
+the tour, you stop to tie your shoes. When you stand up, you find that everyone
+except Ryan has moved on. 'Stick with your buddy!' Ryan quotes from the Scout
+handbook. 'Did you see which way the other guys went?' you ask him. 'Sure!' he
+replies, leading you down a left branch. But after about 10 steps you come to a
+place where a high East-West passage crosses over the path you are taking, and
+another NE/SW passage goes down into darkness. There appear to be several paths
+you can take, but you choose the wrong one, and soon become hopelessly lost. If
+that werent enough, you slip on some wet limestone and fall through a crack
+down a steep slope into pitch blackness. You crack your head on something very
+hard and lose consciousness. 
+
+
+
+
+
+
+
+
+
+
+
+You aren't out for long, you wake up
+and look about you, but you see nothing but darkness.
+
+You hear a low moan
+beside you in the blackness.
+90012: The clock chimes a quarter past the hour. Your heart skips a beat and
+you realize you need to get moving.
+90088: The clock strikes the half-hour. Your mother calls from the other room
+that you need to hurry.
+90156: The clock strikes again. Fifteen minutes before time to go.
+90200: You must be anxious to get there. Your mother gets in the car with you.
+In less than a minute you are on the road and on your way to a high-adventure
+trip!
+90336: the flashlight flickers one last time and goes out. You flick the switch
+off and on but it's no use. You throw away the dead batteries.
+90432: Quickly you replace them with the spare batteries you brought. The
+flashlight is now on, and bright.
+90636: Giving Ryan some Tylenol to kill his pain.
+90784: This is the Hidden Items Room. You shouldn't be able to GET here.
+90836: The huge bus barn dominates the background of the area. The spire of the
+church rises to the sky in the distance, across the empty parking lot. But here
+at the bus barn there is a flurry of activity as the Scouts prepare for a trip.
+Your new friends are busily hauling tents, patrol boxes, tables, chairs, cook
+stoves, and other equipment from the shed into the back of the bus. They have
+formed a sort of fire brigade and are passing the equipment forward. The Adults
+are supervising from the distance. The Troop Quartermaster, a Life Scout named
+John, is busy in the shed tallying the equipment and directing what gear is to
+go.
+91280: The scoutmaster hovers nearby, busily talking with the other leaders.
+91328: The scoutmaster is giving directions to the leader who will be driving
+the bus.
+91384: One of the moms is giving the scoutmaster a bag of medicine for her son.
+91436: The scoutmaster looks to see how the bus loading is going.
+91476: He says, "you KNOW I can't sign that! Why would you even ask me? A Scout
+is Trustworthy. It's the FIRST part of the Scout Law."
+91580: The scoutmaster looks at your permission slip. "Looks like your Mom
+forgot to sign this," he says. "She's already left, but maybe we can call her
+back." He gets on his cellphone and calls her. Your mom comes back up to the
+church and signs the slip, telling you she's sorry she forgot. "You realize,"
+says the scoutmaster, "that as a scout YOU should 'be prepared', so you should
+have checked it yourself before coming up here."
+91888: "Son, sorry you forgot that. If you can't get one, you can't go." The
+scoutmaster sighs. "You really should be more careful. I'll just bet that if
+you had asked your Mom she would have remembered it." He puts his hand on your
+shoulder. "Tell you what I'll do. Let's call your Mom and see if we can't get
+her to come back up here and sign a new one." 
+He calls your Mom, and she comes
+back up to the church with your signed permission slip.
+92244: The scoutmaster looks at your permission slip. "Looks like your Mom
+forgot to sign this," he says. "She's already left, but maybe we can call her
+back." He gets on his cellphone and calls her. Your mom comes back up to the
+church and signs the slip, telling you she's sorry she forgot. "You realize,"
+says the scoutmaster, "that as a scout YOU should 'be prepared', so you should
+have checked it yourself before coming up here."
+92644: "I didn't understand what you're trying to tell me," says the
+scoutmaster. "Is it really important?"
+92720: The scoutmaster looks at your permission slip. "Looks like your Mom
+forgot to sign this," he says. "She's already left, but maybe we can call her
+back." He gets on his cellphone and calls her. Your mom comes back up to the
+church and signs the slip, telling you she's sorry she forgot. "You realize,"
+says the scoutmaster, "that as a scout YOU should 'be prepared', so you should
+have checked it yourself before coming up here."
+93028: A blond haired kid in the troop. Though young he has almost reached
+Eagle, and a lot of the boys look up to him, because he seems older for his age
+and knows a lot. He plays the bugle for the troop an is quite good.
+93180: Colin sits in a seat in front of you.
+93206: Colin is quietly reading a book nearby.
+93306: Colin sings a camping song, for a bit, and some of the other scouts join
+in.
+93364: A fly buzzes near Colin. He ignores it.
+93396: A fly lands on Colin's bugle. He thumps it away with a frown.
+93442: Colin looks at Ryan and chuckles. 'Have you finished that Spyro gameboy
+game you've been playing yet?' Ryan frowns at him. 'Not yet. I'm stuck on level
+6.'
+93712: Colin shuts his eyes for a moment and gets a little rest.
+93760: ey, Ryan,' says Colin. 'Have you studied for Mrs. Young's Math test yet?
+You KNOW it's coming up Monday.' He frowns. 'Don't know how we're going to get
+time to study for it.'
+94072: Colin drums his fingers on his backpack and looks out the bus window.
+94122: Nearby, Colin and another scout discuss a recent Eagle Ceremony.
+94172: Colin quietly munches on a sandwich.
+94200: Colin glances at his glow-in-the-dark watch. 'This is some long trip,'
+he gripes.
+94262: Colin asks you a question, but the background noise of the bus and he
+other scouts has drowned it out. You tap your ear to signify you didn't hear
+him and he grins. 'It wasn't important, I was just asking if you were enjoying
+the trip.'
+94436: ure, I brought my flashlight. Didn't you?'
+94470: "I'm not interested in your stuff. I've got enough to carry without
+lugging YOUR stuff too.
+94544: "Over my dead Body!!" shouts Colin. "Hey guys, this scout's trying to
+steal my bugle!" Several of the older scouts come over and give you an ugly
+look. "A Scout is Trustworthy," says one of them quiely. "How'd you like to go
+through life in this troop with no one trusting you?"
+94748: A shiny brass bugle.
+94764: The inside of the bus seems pretty clean. Scouts are all around you in
+the seats, talking or looking out the windows at the flatlands rolling by.
+Every so often you can see a field of corn or rice in the scenery, but for the
+most part the view outside is relatively uninteresting. Some of the boys are
+opening their lunches and eating them.
+95000: It's dark outside. The lights in the bus are off so that the bus driver
+can see the road. Every so often a passing car lights up the road beside you.
+Some of the boys are using their flashlights to read a book. One boy is playing
+a game on his Gameboy, although that's not really allowed on the trip. At
+least, not off the bus. You peer over his shoulder and see that it's Spyro.
+Some of the kids are getting some rest.
+95296: This is your kitchen. The smell of food still hangs in the air. There is
+a refrigerator, stove, sink, all the amenities of home. To the West is your
+Living Room. A Door to the South leads to your Back Yard. A door to the North
+leads to the Laundry Room.
+95484: This is the Laundry Room. A door to the South leads to the Kitchen.
+95562: tereo, couch, and a floor rug. / To the East is your Kitchen. A Hallway
+leads North. To the South is your / Bathroom. To the West is the Garage. A set
+of stairs leads up.
+95692: This is the old familiar Upstairs Hall. There are doors leading East,
+North and South, and stairs leading down.
+95912: There is a door to the West, leading into the Upstairs Hall.
+95976: Do you REALLY want me to describe your stinky clothes!?
+96132: This is your Parents' Bedroom. You KNOW you aren't supposed to be in
+here. A Door to the South leads to the Upstairs Hall.
+96228: This is your Bedroom. The place where you sleep. A door to the North
+leads to the hall.
+96296: This is the Downstairs Hall. There are doors to the North and East. An
+archway to the South leads into the Living Room.
+96384: Garage. Lots of tools hang on the wall, and Junk around the sides. In
+here is your family car.
+96452: A general-purpose sleeping bag, suitable for warm or chilly but NOT
+freezing weather. Your family balked a little at the cost of a sub-zero rated
+bag.
+96560: This is the family car. Not a Limo, but it will get you to the Church on
+time.
+96620: Yeah, you WISH! Dad said you weren't going to drive until you were 21,
+remember?
+96684: Downstairs Bathroom. There is a mirror above the sink, and the usual
+items in here.
+96744: A Back Yard with swingset and playhouse. Scattered toys litter the yard.
+96796: A front yard. There is a tree here in the middle of the front yard.
+96844: You are now up a tree. You recognize it as a Red Oak tree that lives in
+your/ front yard.
+96908: It is a nice roomy backpack you remember leaving up your tree for some
+strange reason.
+97426: :30. Takes 4 hours to get there, so we'll be setting up camp in the
+dark.
+97826: In the event of an emergency I agree not to hold his troop or church
+liable.
+  Signed:...
+97968: The outside of your fridge looks like a bulletin board. Stuck to its
+outside are lots of pieces of paper.
+98044: The outside of your fridge looks like a bulletin board. Stuck to its
+outside are lots of pieces of paper.
+98146: Underneath the list, you find the permission slip!
+98188: Refrigerator Moving is a hobby you really shouldn't have, at least until
+you have a Dolly and a LOT more muscles.
+98272: It is a new 50-foot coil of rope your Dad bought for tying gear down in
+the bed of the truck.
+98340: Deftly you tie the rope to the stalagmite, using the taut-line hitch you
+were taught at an earlier meeting. You make sure the rope is tied well, and
+drop the running end down the cliff. This should enable you to climb down to
+the river below.
+98508: Your mess kit. Your mom cleaned it after your last campout.
+98552: A battered flashlight with a switch on the side.
+98588: Some fresh batteries.
+98604: Beautiful wood-grain kitchen cabinet.
+98632: This is a box of those 'Strike-Anywhere' Tall Kitchen matches.
+98700: Try "Strike match" - after all, they are 'STRIKE Anywhere' Matches,
+right?
+98764: A bright flaming match.
+98784: The lit match falls on the pink 'Tongue', fizzles, and goes out.
+Somewhere in the distance you hear a soft voice that says 'Ow!'
+98880: The lit match falls down into the deep chasm. Somehow it stays lit all
+the way to the bottom, over 100 feet below. It gives off a tiny glow far down
+there, like a miniature campfire. From out of the chasm below you hear a faint
+raspy voice that says 'Yessssss, Preciousssss, It's a nice little fire, it
+isssss. Wonder why fire issss falling from the sky?'
+99136: The match drops down into the raging river and the flame is extinguished
+in a tiny puff of smoke, while the little match body floats off down the river
+rapidly. You idly wonder if perhaps the match would come shooting out of the
+ground where someone would see it and wonder how it could have come from
+underground.
+99352: There is a Dryer here.
+99468: It is a big comfy couch, with large fluffy cushions.
+99508: Although it would be comfy, even in a cave, you decide not to carry the
+Big Comfy Couch.
+99572: Some spare batteries.
+99588: This is your bed. Unmade and messy. Wonder if something could be hiding
+in it. Although even if you searched it you might not find anything, as messy
+as this bed is.
+99704: A Scout Knife. Your parents bought it for you for your first camping
+trip last month. You've never even opened it. Not that the scoutmaster would
+appreciate you opening it without your Tote'N'Chip.
+99848: Your dresser is bright Red, with Blue drawers, a testimony to the years
+that you were 'into' Spiderman. In the bottom drawer is a set of Spiderman
+comics, but you resist the temptation to dig through them right now.
+100000: There is a Washing Machine here.
+100024: A Waterproof First Aid kit, which miraculously made it through the
+washer and dryer without damage.
+100096: A Roll of sterile gauze bandages, suitable for binding wounds.
+100142: working carefully, you wrap the sterile gauze around Ryan's bleeding
+leg. The direct pressure of the bandage stops the bleeding almost immediately.
+Ryan smiles up at you gratefully. 'Thanks, Buddy!' he grins. 'This is why the
+buddy system works.'
+100320: A bottle of Tylenol.
+100336: You must think you are a genie. Sorry, you aren't blue enough to pass
+the genie test.
+100400: A quantity of Tylenol. Looks like there are
+100432: A Scout Canteen your parents bought when you joined. Looks like there
+are
+100568: A clean change of clothes.
+100588: A sack lunch your Mom made for you. A ham sandwich with mustard and a
+bag of chips, 10 cookies, a can of soda in aluminum foil, and a napkin!
+100692: The yummy lunch satisfied all the hunger you'd been feeling.
+100736: Your mother is here, busily cleaning up the mess in the home.
+100780: Your mother is here, looking for specks of dust and straightening up.
+100828: She says, 'Oh, honey I'm sorry, guess I forgot to sign that for you.'
+She whips out a pen and signs the Permission Slip and hands it back to you.
+100936: She says, 'Oh, honey I'm sorry, guess I forgot to sign that for you.'
+She whips out a pen and signs the Permission Slip and hands it back to you.
+101044: She says, 'Oh, honey I'm sorry, guess I forgot to sign that for you.'
+She whips out a pen and signs the Permission Slip and hands it back to you.
+101152: "Honey, weren't you playing with that in the downstairs bath?"
+101200: "I think I stuck that to the fridge with a magnet."
+101240: "I think I stuck that to the fridge with a magnet."
+101280: "Last time I saw you playing with THAT was about a week ago in the
+tree..."
+101340: "Well, your Father just bought that, but I don't think he'd mind if you
+took it into that cave. After all, a Scout ought to Be Prepared."
+101444: "We're keeping the camping gear in the garage now."
+101484: You pick your Mom up briefly. "Honey, I know you're strong, but you
+need to be packing for a trip." She tousles your hair as you put her back down.
+101592: The cavern you are in is a large star-shaped cathedral. Light doesn't
+quite reach to the far ends of the cavern, but you can see that passages lead
+off in many directions. Dimly, high above you, you can see the crack you fell
+through, now completely out of reach. To the South you can make out a tight
+crawlspace. To the North the ceiling drops down to a low crawlspace. To the
+East there is a high shelf you can just reach.
+101892: Your friend Ryan has black tousled hair and light blue eyes. Very
+intelligent but somewhat mischevious. He's a good friend and you've known him
+for several years. He's the one that talked you into joining this troop.
+102044: Ryan's leg is bleeding pretty badly. The gash is fairly deep. He is
+groaning in pain and appears rather pale.
+102124: Ryan seems like he will make it now, but he is grimacing in pain
+because of the wound in his leg.
+102192: Ryan seems to be back to his old tricks, though he's limping and has a
+bandage on his leg.
+102256: Your buddy, Ryan stands near you expectantly.
+102292: Your buddy, Ryan lays on the ground groaning in pain. He is holding his
+leg, which appears to be bleeding..
+102372: Ryan stands nearby, leaning on the rock wall for support.
+102412: Ryan scratches his nose and sighs.
+102436: Ryan adjusts his glasses and rubs his chin thoughtfully.
+102476: Ryan kicks a rock, then grabs his leg in pain. 'Man, I hope we get out
+of here. This place is like a maze.'
+102692: Ryan sniffs, then wipes his nose with a hanky.
+102730: you got any suntan lotion? I wanna catch some rays.' Ryan grins in the
+feeble light. 'Heh. If I could FIND some...'
+102864: There is a cracking sound. You turn around and see Ryan cracking his
+knuckles. 'Oops, Sorry,' he grins. 'It's not an earthquake.'
+102966: hey,' says Ryan, 'look at this Stalactite. Does it look like a barber
+pole to you too? - Or maybe I just need a haircut.'
+103056: Ryan mumbles to himself. 'What'd you say?' you ask. 'I was wondering if
+there was a coke machine in here anywhere,' Ryan grins.
+103418: seems like we're going around in circles,' says Ryan. He breaks out his
+compass and double-checks your sense of direction. 'Nope, guess not.'
+103928: Ryan looks off in the distance and sighs contentedly.
+104064: Ryan digs through his pack, pulls out a candy bar, and eats it
+contentedly. He sees you looking at him and grins with a mouth full of
+chocolate. 'Got Milk?'
+104354: man, I forgot to study for my History test,' says Ryan. 'I hope Mr.
+Grumpy grades on a curve this time.'
+104668: A fly buzzes by Ryan while he munches on a miniature snickers. 'Mine!'
+he gripes, then thumps at it to drive it away.
+104754: have you seen 'The Incredibles' yet?' Ryan asks. 'That is just TOO
+cool. Wish I could run across water like that kid Dash.'
+104854: now why didn't I bring my hardhat?' says Ryan. You can bump your head
+pretty bad in a cave.
+105032: He says, "you KNOW I can't sign that! Why would you even ask me? A
+Scout is Trustworthy. It's the FIRST part of the Scout Law."
+105136: He says 'I can't take THIS. YOU need it.' He smiles. 'Besides, I've
+already got one of my own.'
+105216: He says 'I can't take THIS. YOU found it.' He smiles. 'I've got enough
+to carry anyway on this bum leg. Of course, we can't KEEP it. It isn't ours,
+and a Scout is Trustworthy. Wonder if there's a reward?'
+105382: you take out a couple pills and give them to Ryan. He washes them down
+with a swig from the canten you gave him, and hands the canteen back. 'Thanks,
+Buddy!' he grins. 'This is why the buddy system works.'
+105580: Ryan is not really in any condition to bind his own leg. Working
+carefully, you wrap the sterile gauze around Ryan's bleeding leg. The direct
+pressure of the bandage stops the bleeding almost immediately. Ryan smiles up
+at you gratefully. 'Thanks, Buddy!' he grins. 'This is why the buddy system
+works.'
+105860: "Looks like MY flashlight was broken in the fall." says Ryan.
+105908: "Sure hope YOUR flashlight lasts!"
+105940: "I hope you have something that will give us some light!"
+106374: looks like your slip's signed, so you're ok. You KNOW I made sure MINE
+was signed.'
+106442: this doesn't look like it's signed.' Ryan sighs. 'I dunno if the
+scoutmaster will let you go if it's not signed. He doesn't want you to get hurt
+and not get help. You know, doctors won't fix your broken leg if that's not
+signed, until your Mom can come to the hospital.'
+106746: of course I didn't bring a rope. It wasn't on the list.'
+106832: 'I once saw a Disney show where a bunch of dwarves used those to dig
+diamonds in a mine. Wonder if there are any diamonds around here?' He smiles.
+'Just kidding. Guess you could use that to dig, if you knew where.'
+106990: man, it just crumbled to rust. Glad they don't make em like they used
+to.'
+107076: Ryan groans. 'Very funny, evil genius. Of course my permission slip was
+signed. Besides, if this isn't an emergency I'll let you know when one comes
+up.'
+107238: it really really really hurts. Please help me. Can you stop the
+bleeding?'
+107330: hey, I'm ok. Let's just think about getting outta here.'
+107376: He says 'I can't take THIS. YOU need it.' He smiles. 'Besides, I've
+already got one of my own.'
+107456: He says 'I can't take THIS. YOU found it.' He smiles. 'I've got enough
+to carry anyway on this bum leg. Of course, we can't KEEP it. It isn't ours,
+and a Scout is Trustworthy. Wonder if there's a reward?'
+107622: you take out a couple pills and give them to Ryan. He washes them down
+with a swig from the canteen you gave him, and hands the canteen back. 'Thanks,
+Buddy!' he grins. 'This is why the buddy system works.'
+107774: you take out a couple pills and give them to Ryan. He finally washes
+them down with a scoopful of water from the river.
+108252: This shelf is about 6 feet above the floor of the Star Chamber. The
+shelf is much deeper than it appears from the floor. To the East is a narrow
+cave.
+108360: This tight crawlspace runs north and south. Above you is a shelf you
+can climb onto.
+108420: You are standing on a very narrow shelf. Below you, you can dimly make
+out the floor of a tight crawlway, about 5 feet down. On the wall in front of
+you someone wrote 'Jack was here 1910' That was almost 100 years ago.
+108580: You are in a very low crawlspace that you can make it through on your
+hands and knees. To the South it widens out into a vast chamber. To the North
+it twists around a bend and widens. To the West is a crack seems to lead down
+into inky blackness.
+108752: This cave has a dry stream bed running through it. The stream bed runs
+Eas-West. To the East the stream bed cascades down into darkness. To the West
+the stream came through a hole much too small to crawl through.
+108904: After crawling and sliding down a rather narrow hole you find yourself
+looking out into a raging river, almost 30 feet below you. Directly across from
+you, and about 5 feet away, is another hole leading East. Unfortunately it is
+too far to reach, and you are too close to the ceiling to stand up and jump.
+109198: with a great effort you manage to land the far side on the shelf. The
+plank spans the river now, and you can cross carefully on your hands and knees.
+109304: You scramble carefully across the teetering plank.
+109340: You scramble carefully across the teetering plank.
+109376: This passage bends upwards steeply, and is rather low, so that you have
+to scramble up it carefully. To the West a narrow plank crosses a raging river,
+while East and Up the passage leads out of sight.
+109520: The Scramble leads out onto a strange rock formation sticking out into
+a great dark chasm. The bottom is lost in darkness. The rock formation
+resembles nothing so much as a pink tongue. It is formed from limestone pouring
+over the edge of the chasm for centuries. Across the chasm, about 20 feet away,
+you can just make out a Point of rock sticking into this chasm.
+109776: This shelf is hidden from view by anyone standing on the tongue
+formation below, though anyone standing on the Tongue could turn around, reach
+up, and scramble up to it. It leads up and North along the chasm.
+109924: Here the shelf approaches the ceiling of the cavern, and therefore you
+have to bend over to proced. Just when it seems like you cannot proceed any
+further you see the metal feet of a permanent ladder leading up a hole in the
+ceiling.
+110084: You are on a tall ladder leading up and down through a vertical hole in
+pitch blackness. Above you, you can see a dim light. Below you the ladder ends
+in a low shelf.
+110200: At the top of the ladder you run right into a search party that was out
+looking for YOU. When you didn't show up at the end of the tour with everyone
+else, they immediately began searching for you by going back through the path
+of the tour. The party you just ran into was the first 'deep foray' into the
+heart of the mountain. 
+
+
+
+ They are astonished by your tale of finding Jack
+Pratchett's hideout.
+110484: The cave is completely covered on the floor with large stagmites, and
+on the ceiling by large stalactites. It resembles a giant mouth full of shark's
+teeth. To the West, the cave opens onto a shelf. To the East the cave abruptly
+ends at a cliff. Your feeble light cannot reach the far end of the cavern, but
+it can dimly reveal a stream 50 feet below. One of the stalagmites on the floor
+appears strong enough to support your weight.
+110788: It's much too far to jump. You would only kill yourself
+110852: This is a strong Stalagmite. You might be able to tie a rope around it
+and it would probably hold your weight.
+111088: in. The river is too wide to cross, and far too swift and cold for you
+to risk swimming. High above you is an opening that looks very much like a
+shark's open mouth.
+111204: A river runs through this narrow chamber. Here the river runs through
+and around several large boulders. The tops of the boulders are dry, and you
+could easily jump from one to another and make your way East across the river.
+A dark hole in the West wall looks large enough to walk through, and there is
+enough room on either side of the river to proced North.
+111456: This small chamber appears to have been dug out of the living rock by
+human hands using a pickaxe.
+111524: A prospector must have left this rusty pickaxe in the cave. It still
+seems capable of diging, though.
+111596: Using the pickaxe, you dig at the rockslide and gradually you clear a
+passage to the West. By the time you cleared enough rock to get through,
+however, the pickaxe, which was probably much older than YOU, crumbled into a
+rusty pile.
+111760: A river runs through this narrow chamber. This is the East Bank of the
+river. There are boulders in the river that offer a way West across the river.
+You can proceed North along the bank of the river.
+111904: A river runs through this large chamber. This is the East Bank of the
+river. High on the East wall is a thin crevice you might be able to squeeze
+through.
+112016: The crack is far too thin for you to squeeze through with all the stuff
+you have.
+112072: By turning sideways you find that you can squeeze through the crack.
+Good thing you didn't put on too much weight over Christmas!. On the far side,
+the crack opens up onto a narrow ledge above a cavern so deep your light cannot
+show the bottom.
+112244: This is a narrow ledge barely 6 inches wide, above a great cavern. You
+have no idea how deep the cavern is. The narrow ledge leads up to the North at
+a rather steep angle. It seems to proceed into a crack in the roof of the
+cavern.
+112408: After the narrow ledge entered the roof of the Big Cavern, the passage
+became more of a low crawlspace and you have to proceed on hands and knees.
+This finally opens out onto a small point, a little shelf hanging out into
+blackness. The far side of this cavern is about twenty feet away. From this
+vantage point you can see, directly across from you, an opening that looks like
+a mouth with a pink tongue sticking out. The tongue is caused by limestone
+pouring over the edge of the cliff into nothingness. Above the tongue there is
+a shelf someone could climb to, if they knew it was there. The shelf leads
+North and Up into blackness. From this side of the cavern, however, there is
+nowhere to go but back the way you came.
+112912: This small cave appears to have had a rock slide at the west end of it.
+The rocks appear to be a little too large to move. If you had something with
+which to break rocks, you could probably clear a path to move further west. To
+the East and along the ceiling is a wide crack you can climb up to and crawl
+through.
+113128: This small cave appears to have had a rock slide at the west end of it.
+Much of the rubble has been cleared away, and a small passage leads west into
+darkness. To the East and along the ceiling is a wide crack you can climb up to
+and crawl through.
+113336: You crawl through the hole you have made in the rockslide.
+113376: A large pile of rocks blocking passage west.
+113408: Using the pickaxe, you dig at the rockslide and gradually you clear a
+passage to the West. By the time you cleared enough rock to get through,
+however, the pickaxe, which was probably much older than YOU, crumbled into a
+rusty pile.
+113572: Using the pickaxe, you dig at the rockslide and gradually you clear a
+passage to the West. By the time you cleared enough rock to get through,
+however, the pickaxe, which was probably much older than YOU, crumbled into a
+rusty pile.
+113736: This dusty, small cavern appears to have once been a hideout for
+robbers. Several barrels line the walls, their contents long since turned to
+powder. On the east side of the chamber is a small rock slide once blocked
+passage in that direction. On the West side of the chamber, a much larger rock
+slide appears to have caught Jack Pratchett much better than the posse that
+pursued him into these caves. For here, you can see his skeletal remains pinned
+under the avalanche. His head and shoulders extend out from under the pile of
+large rocks, one skeletal arm outstretched for a large bag of gold coins just
+outside the reach of his hand. Even in death it appears that Jack's lust for
+gold was too much for him.
+114228: Across a couple of the barrels rests a sturdy plank, which appears to
+have been used in years past as a table.
+114304: These Gold coins are priceless. You cannot even guess as to what the
+heavy bag of coins is worth. The dates on the coins appear to vary between 1810
+and 1855. Each coin is probably worth $10,000.
+114452: This Six-Foot Sturdy Plank is over 100 years old, but the dry air of
+the sealed hideout has preserved it very well.
+114614: with a great effort you manage to land the far side on the shelf. The
+plank spans the river now, and you can cross carefully on your hands and knees.
+114718: Here are some AMUSING things to try while playing the game: 
+
+Try
+asking people about things, especially while you carry them. 
+Try GETting
+certain objects that aren't possible to get. 
+Try asking Ryan about his
+permission slip in the cave. 
+Try taking Colin's bugle. 
+Try examining each
+object - some of them have amusing descriptions. 
+Try dropping lit matches down
+chasms, and on the tongue. 
+Try brushing the Sharks Teeth in the Sharks Teeth
+room.
+115054: You've been excited about THIS trip for more than a month! Your troop
+is going on a caving expedition to Cumberland Caverns! You've just finished
+your homework for the weekend, and are all ready to pack for the trip. Being a
+newbie to the caving scene, you are glad that the troop provided a packing list
+for you. However, during the week you lost the list somewhere. So you'll either
+have to find the list or pack what you can remember from memory. 
+
+
+Your mom
+comes into your bedroom and reminds you that you only have an hour before you
+have to leave, so you'd better pack quickly.
+115776: give" or test "has" or "hasnt" with a non-attribute on the object
+115824: , but it is longer than 2 bytes so you cannot use "."
+

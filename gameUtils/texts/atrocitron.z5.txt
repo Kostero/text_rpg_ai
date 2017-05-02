@@ -1,0 +1,338 @@
+
+>spiel
+18000: There is no reply.
+18068: Nothing is on sale.
+18526: Dropped.
+18583: . Not bad.
+19711: Wrahn seem interested.
+20226: Done.
+20275: You are carrying nothing.
+20360: Keep your mind on the game.
+20385: You hear nothing unexpected.
+21449: But it's dark.
+21466: You find nothing of interest.
+21494: Quite.
+21524: Nothing to do!
+21559: o. You have won
+21642: It is now pitch dark in here!
+21669: I beg your pardon?
+21733: Sorry, that can't be corrected.
+21762: Think nothing of it.
+21815: As good-looking as ever.
+21847: You can hardly repeat that.
+21872: You can't begin with a comma.
+21986: I didn't understand that number.
+22015: You can't see any such thing.
+22051: You aren't holding that!
+22147: That's not a verb I recognise.
+22185: You can't see "
+22295: Nothing to do!
+22312: There are none at all available!
+22723: That was a rhetorical question.
+22750: Score notification off.
+22773: Score notification on.
+22802: Objects you have handled:
+22827: None.
+23300: You have visited:
+23494: You are unable to.
+23513: Nothing obvious happens.
+23563: That's not a direction.
+23586: Not that way you can't.
+23733: You lack the dexterity.
+23814: Done.
+23862: Please answer yes or no.
+23888: Are you sure you want to quit?
+24047: Removed.
+24078: Failed.
+24097: Restore failed.
+24114: Ok.
+24124: You achieve nothing by this.
+24156: Save failed.
+24171: Ok.
+24278: There is no score in this story.
+24316: Transcripting is already off.
+24382: Transcripting is already on.
+24448: But it's dark.
+24568: You find nothing of interest.
+24868: Your singing is abominable.
+24902: You smell nothing unexpected.
+24929: Oh, don't apologise.
+24957: Keep your hands to yourself.
+24982: You achieve nothing by this.
+25211: Taken.
+25222: You are always self-possessed.
+25745: You taste nothing unexpected.
+25779: You talk to yourself a while.
+25806: This provokes no reaction.
+25832: What a good idea.
+25858: Futile.
+25887: Keep your hands to yourself!
+25912: You feel nothing unexpected.
+25937: If you think that'll help.
+26183: Time passes.
+26207: That seems unnecessary.
+26303: You wave, feeling foolish.
+51401: Environmental impact report off.
+51430: Environmental impact report on.
+70803: Hey, that worked.
+71247: All right!
+71262: Bummer.
+71714: It is glued to the wall.
+71782: kind of "sharp."
+71906: It looks comfy.
+72366: The button has no label on it.
+72800: Faded blue plastic.
+72904: You roll the pail around.
+73394: A television set squats here.
+73458: It's too unwieldy to lug around.
+73892: They know what they did.
+73964: Wrahn something you can roll.
+74566: What is seen cannot be unseen.
+77097: in" or "notin
+77113: opmhas" or "hasnt
+77255: }" at end of "objectloop
+79384: An Interactive Puzzlebox by Michael C. Martin
+(New players should type
+ABOUT.)
+(Actually, I take that back; EVERYBODY should type ABOUT)
+(Seriously,
+type ABOUT)
+79528: Impact:
+79692: Score:
+79700: Moves:
+79708: Time:
+79716: You can't go that way.
+79824: Violence isn't the answer to this one.
+79852: This dangerous act would achieve little.
+79880: I don't think much is to be achieved by that.
+79940: Digging would achieve nothing here.
+79968: There's nothing suitable to drink here.
+79996: That would scarcely empty anything.
+80024: You can only get into something free-standing.
+80096: But you aren't in anything at the moment.
+80128: But there's no water here to carry.
+80184: You can't put something inside itself.
+80212: You jump on the spot, fruitlessly.
+80240: You would achieve nothing by this.
+80292: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+80388: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+80472: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+80584: You see nothing unexpected in that direction.
+80848: Please give one of the answers above.
+80876: [You can't "undo" what hasn't been done!]
+80912: [Can't "undo" twice in succession. Sorry!]
+80952: "Oops" can only correct a single word.
+80980: It is pitch dark, and you can't see a thing.
+81012: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+81072: You seem to want to talk to someone, but I can't see whom.
+81116: To talk to someone, try "someone, hello" or some such.
+81156: I didn't understand that sentence.
+81216: You seem to have said too little!
+81240: You can't use multiple objects with that verb.
+81276: You can only use multiple objects once on a line.
+81312: You excepted something not included anyway!
+81344: You can only do that to something animate.
+81376: That's not something you need to refer to in the course of this game.
+81424: I didn't understand the way that finished.
+81456: Sorry, you can only have one item here. Which exactly?
+81556: Nothing practical results from your prayer.
+81612: That would be less than courteous.
+81636: Is that the best you can think of?
+81660: You can't put something on top of itself.
+81692: Are you sure you want to restart?
+81716: Attempt to end transcript failed.
+81740: Attempt to begin transcript failed.
+81768: You aren't feeling especially drowsy.
+81796: Real adventurers do not use such language.
+81828: There's not enough water to swim in.
+81856: There's nothing sensible to swing here.
+81884: You're carrying too many things already.
+81916: You lack the nerve when it comes to the crucial moment.
+81984: You'll have to say which compass direction to go in.
+82024: The game file has verified as intact.
+82052: The game file did not verify as intact, and may be corrupt.
+82096: The dreadful truth is, this is not a dream.
+82216: The hallway comes to an end here, with a very fancy-looking archway
+leading out to the south. The rest of this godforsaken place lies beyond a
+hallway to the north.
+82332: An invisible force repels you! It must not be your turn to exit yet.
+82380: It's your turn to leave. What a fine figure you will cut, emerging into
+a world that probably makes far more sense than this one does!
+
+[Press a key to
+continue]
+82536: Hopefully that counter wraps around.
+82564: That's your ticket out of here. You don't intend to let it out of your
+possession.
+82624: This is your ticket out of here, not some kind of meal ticket.
+82776: Hallways lead east and west. The archway to the grand exit lies to the
+south.
+82844: You stand in a T-junction connecting three of this building's rooms.
+82896: A hallway leads east, while the room extends to the west and north.
+82960: You are at the southern entrance to the western room.
+83000: A hallway leads west, while the room extends to the east and north.
+83064: You are at the southern entrance to the eastern room.
+83104: The room extends to the north and east.
+83144: You're in the southwest corner of the building.
+83180: A hallway leads east, while the room extends to the south and west.
+83244: You are at the northern entrance to the western room.
+83284: The room extends to the south and east.
+83324: You're in the northwest corner of the building.
+83360: Hallways lead east and west.
+83392: This nondescript hallway connects three of the building's four rooms.
+83440: The room extends to the north and west.
+83480: You're in the southeast corner of the building.
+83516: A hallway leads west, while the room extends to the south and east.
+83580: You are at the northern entrance to the eastern room.
+83620: The room extends to the south and west.
+83660: You're in the northeast corner of the building.
+83720: A fine Platonic solid, perhaps six inches across. Each of its
+83768: , and get a blank face. These are, after all, featureless Platonic
+solids. You decide that you have rolled a
+83848: Something about this room feels... stable, somehow, in a way that the
+rest of this building does not.
+83920: You think it's made of oak.
+83940: A wooden door adorns the north wall. It is closed.
+83976: The wooden door back to the main hallway is to the south. It is closed.
+84028: A wooden door leads north into a small annex. It is open.
+84072: A wooden door leads south back into the main area. It is open.
+84116: It seems to be an advertisement for a horror movie. The tagline blares
+"Watch if you dare! WHAT IS SEEN CANNOT BE UNSEEN."
+84220: It is glued to the wall, and you can't get enough purchase to do any
+real damage.
+84280: A poster adorns the wall here.
+84304: A wedge of sharp cheddar.
+84324: Smoky and just strong enough to make a sandwich interesting without
+overpowering it.
+84384: Not bad, and it doesn't seem spoiled.
+84412: That might not have been the most sanitary thing to do, but it was
+certainly satisfying.
+84476: Much of this area is taken up by a full-sized bed.
+84512: It looks a bit rumpled after your nap.
+84552: This area has been converted into an impromptu bedroom.
+84590: You have been at this for awhile, haven't you? You stretch out a bit and
+decide to maybe just rest your eyes a little, but before you know it you're
+waking up from an impromptu nap.
+
+You aren't completely sure how much time has
+passed. You suppose it doesn't matter too much, in the end.
+84812: This area seems designed to let people get dressed and made-up before
+performances.
+84872: It's cracked all across its surface.
+84900: What a fine, adventurous figure you cut.
+84932: Your hands are unbloodied, and you'd just as soon keep it that way.
+84992: You put some impressive cracks in it, and miraculously manage to keep
+your hands intact.
+85056: There is a button on the wall here.
+85084: It extends perhaps a centimeter from the wall.
+85116: It is now flush with the wall after having been pressed.
+85156: It has already been thoroughly pushed.
+85184: You press the button and it locks into place with a firm "click."
+85232: A mysterious rope hangs down here out of a tiny hole in the ceiling.
+85280: You see nothing special about the rope beyond the mysterious fact of its
+existence.
+85340: Secret Belfry?
+85352: This region appears to control something up above. You're not sure what
+that could be.
+85416: As you try to manipulate the rope into position to get a knot, the rope
+goes slack, then taut, then retracts through the ceiling with sudden force.
+85520: You grab it and try to pull it down. It yields for a moment, and then
+retracts through the ceiling with sudden force.
+85604: You grab it and try to rip it apart. It yields for a moment, and then
+retracts through the ceiling with sudden force.
+85688: The mere heat of your intention ignites it, and soon there's nothing
+left. Pointlessly destructive, yes; plausibly irreversible, also yes; but you
+do feel you have satisfied some basic need.
+85824: The pail is made of faded blue plastic. There's a layer of pale green
+crystals at the bottom, fine as sand.
+85900: You have ample inventory space. You don't need to rely on some bucket to
+help you organize stuff.
+85968: The crystals don't want to stay contained. No sooner do they leave the
+bucket do they end up scattered all about.
+86048: The crystals end up scattered everywhere.
+86080: There's a layer of pale green crystals at the bottom of the pail, fine
+as sand.
+86136: The crystals are scattered all about now.
+86168: Cleaning up those crystals sounds suspiciously like work. No thanks.
+86216: The crystals don't want to stay contained. No sooner do they leave the
+bucket do they end up scattered all about.
+86296: Cleaning up those crystals sounds suspiciously like work. No thanks.
+86344: You spill the crystals all over the room as if you were rolling a
+thousand tiny dice. Whee!
+86408: I have no idea what you are talking about.
+86440: A well-made hat, with fine colors and a jaunty tassel. It seems to be
+your size.
+86500: A television set squats here, tuned to a display the color of the sky.
+86564: This part of the building seems set up to let people relax.
+86608: It's an aging cathode-ray model television.
+86640: It doesn't seem to be recieving a picture; just various shades of bright
+blue.
+86696: The only obvious control is a power switch.
+86732: A mahogany table lends this area a touch of class.
+86768: Inscribed on the table is an odd pattern. It's a series of three
+triangles, with a square between the first two and a pentagon between the last
+two.
+86884: This part of the building is quite a bit fancier looking than the rest
+of it. Perhaps it was used to entertain more important guests.
+87036: Saving has been disabled. Enough of the puzzle is randomized that
+staying within one iteration will lead only to suffering.
+87124: You cannot RESTORE what was never SAVEd.
+87160: You cannot UNDO in this game. Understand what you have wrought, and
+RESET THE PUZZLE if necessary.
+87242: Welcome to the Atrocitron! The Atrocitron is a non-traditional
+interactive fiction experience. In particular...
+
+The solution is different
+each time you play.
+
+The game can be rendered unwinnable without warning and
+without indication that you have done so.
+
+SAVE and UNDO are disabled.
+
+If the
+previous statements make you want to quit immediately and possibly burn down
+the webserver from which you got this file, please type RATIONALE first. This
+isn't a game with puzzles in it. The game itself
+87612: . Discover its workings, master the Atrocitron, and its secrets will be
+revealed.
+
+Type CREDITS for additional credits.
+87784: . However, I also wanted to see if it was possible to break every
+tradition of playing fair with the player while still, in the end, actually
+playing fair.
+
+I suppose this is also as good a place as any to note that while
+I consider it fair to try to disassemble the game file to solve it, I intend
+the easiest way to make progress to be to play the game.
+
+More formally,
+88044: the Atrocitron is an experiment with the player's role in an interactive
+work. The usual way we talk about this is with the author and the player
+collaborating to produce a story within the author's guidelines. There is,
+however, a tradition of game performance that involves either ignoring or
+subverting the designer's play and narrative intent to do something entirely
+different - obviously evil runs that the game nevertheless scores as maximally
+saintly, glitch runs that do everything out of order, and so on.
+
+The
+Atrocitron is presented to the player as a prop and a plaything, and the player
+is invited to stay outside of it at several levels.
+
+This wound up delaying its
+release quite a bit as I realized that what I was really doing here was making
+a
+88570: instead of a deliberately awful work of IF. I've endeavored to make it
+worthwhile in that guise as well.
+
+Good luck!
+88968: Wesley Osam, and Ben Parrish.
+88996: You could be anyone, and quite possibly are.
+89056: What is tunked cannot be untunked.
+89376: give" or test "has" or "hasnt" with a non-attribute on the object
+89424: , but it is longer than 2 bytes so you cannot use "."
+

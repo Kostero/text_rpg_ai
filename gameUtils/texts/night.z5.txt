@@ -1,0 +1,619 @@
+13778: Score:
+13792: Moves:
+13832: Time:
+14533: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+14608: You can hardly repeat that.
+14938: You can't begin with a comma.
+15001: You seem to want to talk to someone, but I can't see whom.
+15092: To talk to someone, try "someone, hello" or some such.
+16966: I didn't understand that sentence.
+17076: I didn't understand that number.
+17108: You can't see any such thing.
+17141: You seem to have said too little!
+17173: You aren't holding that!
+17202: You can't use multiple objects with that verb.
+17242: You can only use multiple objects once on a line.
+17321: You excepted something not included anyway!
+17359: You can only do that to something animate.
+17397: That's not a verb I recognise.
+17427: That's not something you need to refer to in the course of this game.
+17483: You can't see "
+17528: I didn't understand the way that finished.
+17649: There are none at all available!
+20580: Sorry, you can only have one item here.  Which one exactly?
+28830: At the moment, "it"
+28902: and "me" means
+28929: exn** Player objects must have "number" prop **
+34329: M.
+39200: Nothing to do!
+39508: Please give one of the answers above.
+39570: I beg your pardon?
+39588: dxn[You can't "undo" what hasn't been done!]
+39630: ehn[Can't "undo" twice in succession. Sorry!]
+39704: Sorry, that can't be corrected.
+39734: Think nothing of it.
+39756: "Oops" can only correct a single word.
+39827: Please answer yes or no.
+39847: Are you sure you want to quit?
+39881: Are you sure you want to restart?
+39907: Failed.
+39924: Restore failed.
+39937: Ok.
+39952: Save failed.
+39963: Ok.
+39978: The game file has verified as intact.
+40005: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+40180: Transcripting is already off.
+40203: End of transcript.
+40225: Score notification on.
+40247: Score notification off.
+40318: None.
+40543: You are carrying nothing.
+40586: Taken.
+40598: You are always self-possessed.
+40718: You already have that.
+40806: That isn't available.
+40849: That's hardly portable.
+40873: That's fixed in place.
+40897: You're carrying too many things already.
+40973: Already on the floor.
+40995: You haven't got that.
+41038: Dropped.
+41083: But it isn't there now.
+41102: Removed.
+41183: You can't put something on top of itself.
+41261: You lack the dexterity.
+41341: Done.
+41383: You need to be holding it before you can put it into something else.
+41463: Alas, it is closed.
+41485: You'll need to take it off first.
+41515: You can't put something inside itself.
+41605: Done.
+41647: That isn't in your possession.
+41670: First pick that up.
+41964: That's not something you can enter.
+42032: You can only get into something on the floor.
+42146: But you aren't in anything at the moment.
+42255: You'll have to say which compass direction to go in.
+42356: You can't go that way.
+42515: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+42617: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+42705: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+43122: But it's dark.
+43135: You find nothing of interest.
+43168: But it's dark.
+43258: You find nothing of interest.
+43286: You can't see inside, since it is closed.
+43385: That doesn't seem to be something you can unlock.
+43427: It's unlocked at the moment.
+43455: That doesn't seem to fit the lock.
+43509: That doesn't seem to be something you can lock.
+43575: First you'll have to close it.
+43603: That doesn't seem to fit the lock.
+43657: That's not something you can switch.
+43689: That's already on.
+43733: That's not something you can switch.
+43765: That's already off.
+43811: That's not something you can open.
+43843: It seems to be locked.
+43865: It's already open.
+43973: That's not something you can close.
+44005: It's already closed.
+44049: You're not wearing that.
+44097: You can't wear that!
+44119: You're not holding that!
+44143: You're already wearing that!
+44193: That's plainly inedible.
+44226: Not bad.
+44242: That was a rhetorical question.
+44270: This dangerous act would achieve little.
+44304: You pray with great fervor, coming slightly closer to sainthood in the
+process.
+44366: The dreadful truth is, this is not a dream.
+44404: That seems unnecessary.
+44454: What a good idea.
+44474: You smell nothing unexpected.
+44528: You taste nothing unexpected.
+44608: You feel nothing unexpected.
+44634: Digging would achieve nothing here.
+44666: Cutting that up would achieve little.
+44698: You jump on the spot, fruitlessly.
+44732: You would achieve nothing by this.
+44762: There's nothing suitable to drink here.
+44796: But there's no water here to carry.
+44828: Oh, don't apologise.
+44850: Real adventurers do not use such language.
+44886: Quite.
+44898: Violence is seldom the answer, you know.
+44934: There's not enough water to swim in.
+44966: There's nothing sensible to swing here.
+45000: You can't usefully blow that.
+45054: No, you can't set that.
+45078: No, you can't set that to anything.
+45141: But you aren't holding that.
+45206: It is fixed in place.
+45228: You are unable to.
+45248: That would be less than courteous.
+45273: Nothing obvious happens.
+45302: Is that the best you can think of?
+45332: That's not a direction.
+45351: Not that way you can't.
+45401: You achieve nothing by this.
+45432: Futile.
+45439: You lack the nerve when it comes to the crucial moment.
+45488: You talk to yourself a while.
+45511: This provokes no reaction.
+45539: There is no reply.
+45559: Nothing is on sale.
+45597: The dust motes applaud.
+45621: I don't think much is to be achieved by that.
+45659: Time passes.
+45675: You aren't feeling especially drowsy.
+46714: An internet router hums quietly in the corner.
+46761: An internet router sits silent in the corner.
+46796: The door is northeast.
+46866: A freshly-printed copy of "The Inform Designer's Manual" sits on the
+printer table beside the remaining printer.
+46971: a.
+There's a message blinking on the computer screen at your desk.
+47031: A box sitting in the corner, with status lights to show you that your
+network connection is currently fine.
+47168: You've already turned the router off, remember?
+47214: The router is already on.
+47251: As the router's status lights fade and its humming ceases, you hear the
+most amazing sound from the depths of the building.  It's like a scream... the
+sound of Ultimate Pain.  It goes on and on, finally fading out after several
+minutes.
+
+Chills creep up your spine.
+47629: After a moment, the status lights indicate that your network connection
+is restored.
+47804: There used to be two laser printers sitting on it; now there is only
+one.
+47868: sitting beside the remaining printer is a freshly-printed copy of "The
+Inform Designer's Manual."
+47951: You don't really want to be accused of losing *two* laser printers, do
+you?
+48159: Wish they'd done that with the printer!
+48195: What an odd idea!
+48229: A message pops up:
+
+Too many connections, try again later.
+48274: You need to find a printer and you're logging on???
+48391: ites pops up.  You can click on:
+The Oak
+The IF-Archive
+Sunsite
+Hobbes
+48450: A message pops up:
+
+Too many connections, try again later.
+48530: A dialog box pops up which reads:
+
+Printing...
+
+The remaining laser
+printer fires up and starts printing.  It seems to take forever, but eventually
+a copy of "The Inform Designer's Manual" sits on the table beside the printer.
+48697: A message pops up:
+
+Nothing to print.
+48790: Still more work to do!
+48817: A message pops up:
+
+Too many connections, try again later.
+48873: A message pops up:
+
+Too many connections, try again later.
+48929: A message pops up:
+
+Too many connections, try again later.
+49042: currently displayed on your screen is an icon labelled
+"Designers_Manual"!
+49125: A message pops up:
+
+Download complete.  Closing connection.
+49299: An inelegant language (to put it nicely), but it's, uh, still there.
+49359: All you hear is the comfortable humming of the water fountain.
+49416: A surreal idea.
+49467: Didn't you read the sign?
+49503: Didn't you read the sign?
+49531: It seems to be bolted down, as you wish the printer had been.
+49609: Buried beneath the fire hose you find a flashlight!
+49959: You don't particularly need to carry around a fire hose.
+50034: Buried beneath the fire hose you find a flashlight!
+50078: There's a flashlight stuck behind it.
+50122: You find nothing more of interest.
+50162: It's just what you'd expect humming to sound like.
+50217: It seems to be coming from the Physics Office doorknob.
+50263: There is a slight and lingering smell of ozone.
+50308: The door to the Physics Department is closed.
+50351: You can't examine a hum!
+50484: When you pick yourself up off the floor, through the office window you
+notice the curved silver dome of a van de Graff generator, which some wag has
+connected to the doorknob... (wiseacre physics graduate students!)
+
+You can now
+carry fewer objects than before.
+50735: You belatedly remember what happened the first time you touched the
+doorknob, but it's too late now.
+50928: When you pick yourself up off the floor, through the office window you
+notice the curved silver dome of a Van de Graff generator, which some wag has
+connected to the doorknob... (wiseacre physics graduate students!)
+
+You can now
+carry fewer objects than before.
+51179: You belatedly remember what happened the first time you touched the
+doorknob, but it's too late now.
+51278: Fancy that!
+51366: You can't, since the panel is in the way.
+51644: You wonder if you really want to go into this hole.
+51731: It's really rather irritating.
+51766: A surreal idea.
+51787: To one side, a water fountain buzzes noisily.
+52029: Funny, that.
+52141: You move the water fountain aside.
+
+There's a square metal panel behind
+it.
+52216: You move the water fountain back into place.
+52255: Why would you want to take the water fountain?
+52304: You see something that might be a panel behind the water fountain.
+52359: What panel?
+52416: You wonder what's on the other side of it.
+52449: The panel opens to a dark, ominous hole leading down.
+52518: What panel?
+52540: What panel?
+52556: You'll have to open it first.
+52587: You open the panel, revealing a dark, ominous hole leading down.
+52655: Didn't you read the sign?
+52691: Didn't you read the sign?
+52719: All you hear is the comfortable humming of the water fountain.
+52776: A surreal idea.
+52815: There is a door on the south wall.
+52840: The door on the north wall is closed.
+52875: The door on the south wall is open, leading to a janitor's closet.
+52924: The door on the north wall is open.
+52983: It won't open.
+53001: You can't.
+53166: You hear furious typing alternated with pauses of varying length.
+53219: This place is so full of junk, you could spend all night looking through
+it.
+53283: You don't have time to play this stuff!
+53321: There's a sign on this side of the door.
+53352: A non-descript institutional door.
+53422: The red fish glances at you in a bored fashion.
+53462: The red fish darts around furiously for a moment.
+53568: The red fish picks at the gravel in the aquarium hopefully.
+53616: The red fish picks at some algae growing on the aquarium glass.
+53685: Whatever for?
+53721: As you turn to head back into the hall, you notice there's a sign on
+this side of the door.
+53799: A quiet hum.
+53810: All you hear is the low hum of the aquarium filter.
+53876: There's a small label on the base of the aquarium.
+53998: The fish sees it almost before you do and darts quickly to eat it.
+54144: The fish turns in a circle twice.
+54268: The fish races for the surface of the aquarium and actually clears the
+surface, re-entering the water with a small splash.
+54363: The fish doesn't answer.
+54387: The fish has no interest in your sordid life.
+54427: You can't do that without getting soaked.
+54463: Surely, you jest?
+54485: The fish has no interest in your offering.
+54516: The fish has little interest in anything but food.
+54558: The fish ignores you.
+54590: You are in a maze of twisty little passages, all alike.
+54839: Remembering the students who disappeared, you get chills up and down
+your spine.
+55166: In the creepy darkness, you hear the approach of a sinister geologist.
+He (it?) grabs you and carries you off to a mine deep under the University,
+where you live out the rest of your days digging samples for the Geology
+Department.
+55339: You bump around in the creepy darkness for a while without any idea
+where you are.
+55519: As you leave the maze, you have a profound sense of relief.
+55580: As you leave the maze, you have a profound sense of relief...
+
+...but as
+you enter the room, the gnome attacks you, pounding you unconscious as he
+screams about internet connections, printers, and the Inform Designer's Manual
+(2nd Edition).  You wake up in the hospital.
+55809: As you start to leave, you notice a sign on the wall near the entrance.
+55871: "Here now, laddie, write your own game!"
+55911: The gnome glares at you until you put them down.
+55951: The gnome looks you up and down and drily remarks, "You don't get out
+much, do you?"
+56067: Umm, no, I don't think so.
+56113: The gnome must not want it to be stolen or something.
+56167: The geeky-looking gnome grabs the stolen printer, insisting that it's
+not going anywhere until he has the manual he needs.
+56281: You want to put the printer *where*?
+56573: To get it back to the Computer Center!
+56802: The little grey mouse hasn't a clue what you're talking about.
+56854: You advance menacingly upon the little grey mouse, who, sensing your
+intent, bolts for a hole and disappears.
+
+Good job!  Now you'll have to find
+your way through the maze yourself.
+57004: can hit the little grey mouse, it bolts for a hole and disappears.
+
+Good
+job!  Now you'll have to find your way through the maze yourself.
+57266: The little grey mouse, sensing your intent, scampers out of reach and
+chitters at you, clearly scolding.
+57346: Amazingly, the little grey mouse allows you to approach and stroke its
+soft fur.
+57429: A little grey mouse scurries into the room.  It seems unusually
+friendly, and occasionally casts an expectant glance in your direction.
+57537: The little grey mouse scurries about, occasionally casting an expectant
+glance in your direction.
+57614: The little grey mouse is starting to look impatient.
+57661: The little grey mouse is looking really very impatient.
+57706: i.
+The little grey mouse, tired of waiting for you to follow, races off.
+57904: You follow the mouse out of the maze with a profound sense of relief...
+57989: A geeky-looking gnome sits staring into the computer, muttering dire
+curses at his modem, the phone company, the author of the language he's writing
+a game in, the computer, the printer, and anything else he can think of.
+58147: A geeky-looking gnome sits staring into the computer, thoroughly
+engrossed in writing his game.
+58223: The gnome grumbles something about deadlines and goes back to writing
+his game.
+58300: The gnome looks a little uncomfortable.
+
+"I need to get an Inform
+manual.  I'd've gotten the printer back to you by now, but I can't get this
+bleeping connection to hold long enough to download it.  Then the printer
+driver keeps crashing.  I'll get it to work, though, if it takes all
+night."
+
+Carefully, you explain that you don't have all night, but the gnome
+won't let you near the printer.  He obviously cares more about his game than
+your job.
+58632: Distractedly, the gnome tells you that entries in the 1996 IF
+Competition are due in at the beginning of October.
+58726: The gnome looks determined.
+
+"It's an interactive fiction writing
+contest.  I'm sure to win it if I can only get a bleeping Inform Manual."
+58978: If you're so hot on getting the printer back, YOU bring me either Graham
+Nelson or a copy of the Inform Manual!"
+59070: "It's a far sight better than that awful UGGS you're using!"
+59206: He's the author of Inform, laddie."
+59434: I like it."
+59568: How'd you get this job, anyway?"
+59716: He puts his face in his hands, shakes his head, then goes back to
+cursing at his computer.
+59781: The gnome grumbles something about deadlines and goes back to writing
+his game.
+59836: The gnome just grunts at you.
+59864: "Yeah, yeah, yeah."
+60126: "Who died and left *you* in charge?"
+60263: There's a message blinking on the computer screen at your desk.
+60675: to pay your tuition next semester - is, shall we say, history.  You
+sigh.  It's not going to be just another...
+61086: The doorknob has an *electric* personality...
+61135: You lose the game if you don't remember what happened the first time you
+touched it!
+61206: There are two different ways to lose the game by bumping around in the
+maze without the flashlight (or with it turned off).  It may take several tries
+to see both of them.
+61337: This affects your score, but you still win the game.
+61391: a.
+Hints for:
+61630: All Puzzles with Hints:
+61778: Hints Available:
+62567: You haven't found a puzzle yet to have a hint available!
+62716: No hints are available to be reviewed.
+62803: Hints are now disabled.
+62831: Hints are already on!
+62848: Hints cannot be re-enabled after being disabled.
+63306: Text adventures are driven by commands from the player.  Basic movement
+commands include EAST, WEST, NORTH, SOUTH, ENTER, UP, DOWN, etc.  Objects can
+be manipulated with verbs such as TAKE, PUT, TURN, and so on.  Usually you give
+a verb followed by an object; articles are generally ignored.  DROP THE BALL is
+equivalent to DROP BALL.
+63587: To see what you, the player character, may be carrying, type INVENTORY
+(which is short for TAKE INVENTORY).  To end the game, type QUIT.  To save your
+game so that you may resume it later, type SAVE, and to resume it later, type
+RESTORE.  The score in this game is given on the status bar, at the top right,
+but if you'd like to see how your score is broken down, type FULL.
+64038: JECT.
+64049: If you have trouble, try a few more commands, or see the online hints.
+64102: Good luck!
+64121: This game uses Adaptive Hints for Inform, by Michael S. Phillips.  To
+activate the hint system, type HINT or HINTS.
+64399: Hodges Hall really exists, as does its computer site (or at least the
+computer site existed when I was a student there, more years ago than I care to
+admit), at West Virginia University in Morgantown, West Virginia.  The map
+layout, sans maze, is fairly accurate, simplified for game purposes.  The
+legend of students disappearing is entirely a product of my disordered
+imagination.
+64674: The odd geography of Hodges Hall is due to the fact that it is built on
+a steep hill.  It it possible to walk out of doors from the basement, ground
+floor, 1st floor, and 2nd floor and be on the street.  The halls are very long,
+and there really are stairwells on both ends.  Please don't blame me for this;
+I only went to school there.  Also, please note that this is a real building at
+a real University in West Virginia, USA.  The floor numbering is therefore
+American numbering, not European; the numbering is faithful to the actual
+building, and not an effort to annoy my friends across the pond.
+65105: I owe much to my husband, Jeff Mierzejewski, for putting up with the
+many late nights I spent learning to program in Inform while writing this game.
+ Second only to him is my dear friend Thomas R. Jackson, M.D., who took time
+out of his busy schedule to alpha-test the game.  Thanks also to Michael S.
+Phillips, for his Adaptive Hints for Inform.
+65360: Thanks also to the beta testers (most of whom were official
+Competition96 beta testers) who gave me some great feedback (much of which I
+incorporated into the game): Matthew Amster-Burton, Valerie Balavage, Charles
+Carr, Matthew Daly, Michael Kinyon, Michael S. Phillips, and Brendon Wyber.
+65581: Finally, I wish to give credit to Graham Nelson, author of Inform. About
+him, and his contribution to IF in general, nothing really need be said.
+65739: You're not carrying a light source.
+65779: You're not carrying a light source.
+65814: You find nothing of interest.
+66014: A second or so later, the cooler kicks in and the water becomes so cold
+that it makes your teeth hurt.
+66086: How?
+66094: Nothing happens.
+66360: An Interactive Nocturnal Chase
+Copyright (c) 1996 by bonni mierzejewska.
+66444: You can't go that way.
+66520: It is pitch dark, and you can't see a thing.
+66552: As good-looking as ever.
+66596: I'm sorry, but the comments are unprintable.
+66648: Printer, sitting on an ordinary table.
+66692: You click on it.
+66724: It looks like any other Microsoft mouse.
+66832: You've been writing that interactive fiction game with UGGS.
+66996: Stairs down to lower floors are to the west.
+67046: Only astronomers live up there.
+67078: Only astronomers live up there.
+67100: To one side, a water fountain hums quietly.
+67132: It's an ordinary water fountain, such as is found in numberless
+institutions across the US.
+67270: Only astronomers live up there.
+67414: You can see an elevator here.
+67436: You know, ugly grey, doors meet in the middle, etc.
+67476: There's a sign on the elevator.
+67500: The sign reads: OUT OF ORDER.
+67528: You see a box mounted on the wall in one corner.
+67564: You see an open box mounted on the wall in one corner.
+67726: There is a door to the east.
+67758: Only astronomers live up there.
+67822: There is a door to the east.
+67922: There are stairs to the west.
+67944: There's really not much to be seen other than the door.
+67984: It has a sign, reading:
+Radiation Hazard
+Laser Light Hazard
+Nuclear
+Fusion Hazard
+Undergraduate advisor: 2nd door on right.
+
+Other than that, it's
+perfectly all right, except for the doorknob.
+68168: You're in the middle of a long north/south hall. You can go east here as
+well as north or south.
+68304: To the east, down the hall, you can see large double doors leading to
+the outside.
+68364: You know, ugly grey, doors meet in the middle, etc.
+68404: There's a sign on the elevator.
+68428: The sign reads: OUT OF ORDER.
+68504: There are large double doors here, leading to the outside (locked, at
+this time of night).
+68572: They look just like large double doors!
+68640: To the west you see stairs leading up and down.
+68718: There is a door to the east.
+68834: Only geologists live down there.
+68940: To one side, a water fountain hums quietly.
+68972: It's an ordinary water fountain, such as is found in numberless
+institutions across the US.
+69076: You can go east here as well as north or south.
+69212: It's just an ordinary door.
+69232: You know, ugly grey, doors meet in the middle, etc.
+69610: To the east is a door leading into a lab.
+69640: The lab door is open.
+69656: The lab door is closed.
+69902: Next to the aquarium is one of those mysterious pieces of equipment, a
+black box with three buttons.
+69972: It says: Herring Aid Lab.
+70130: Next to the aquarium lies a smallish black box with three buttons.
+70176: It's aquarium gravel.
+70192: A smallish box, black in colour, with three buttons on top: white, blue,
+and green, from left to right.
+70268: It reads: Acme Red Herring.
+70292: It's a small white button on the black box.
+70324: It's a small blue button on the black box.
+70356: It's a small green button on the black box.
+70598: Only geologists live down there.
+70624: Getting claustrophobic, are we?
+70648: Dead end.
+70860: On the listings you see intriguing bits of code, but the gnome won't let
+you close enough to them to make anything out.
+70944: They look familiar somehow, like you've seen them before somewhere, but
+you're at your wits' end trying to decide where....
+71086: Hmm....
+71140: Hmm...
+71196: Minor, by J.S. Bach.
+71216: It looks like a regular boombox, playing Bach.
+71404: There's a sign on the wall near the entrance.
+71474: Perhaps the gnome is forgetful?
+71554: His button-down shirt sports a pocket protector holding a variety of
+pens, he has Coke-bottle glasses with thick black rims, and his eyes have the
+look only gained from consuming four liters of Jolt Cola.
+71700: "The Inform Designer's Manual" by Graham Nelson, Second edition, 23
+October 1995... The latest issue!
+71784: The message reads:
+   "Cute game.  I fixed the errors on lines 23, 114,
+304, 735 and 982.  If you want my opinion, though, I'd say keep your day job.
+ 
+  [signed] Polygrenthus Q. Gnome"
+71950: You are likely to be eaten by a geologist.
+72036: For amusement, try any or all of the following:   
+        Touch the
+Physics Office doorknob.   
+        Touch it again.   
+        Bump around in
+the maze without the flashlight.                
+        Drop the stolen
+printer after retrieving it.
+72232: Touch the Physics Office doorknob.
+72260: Touch it again.
+72304: Where'd the printer go?
+72324: The shadowy figure could only go down...
+72356: Have you thoroughly searched the first floor?
+72388: There's an interesting door there...
+72416: Enter the janitor's closet and LISTEN.
+72448: What do I do next?
+72464: The owner of the grumbling voice in the janitor's closet has the stolen
+printer, but the entrance to his location isn't on the first floor...
+72564: Try wandering around on the second floor.
+72596: See the next section of hints for more info on what to do on the second
+floor.
+72652: What do I do in the lab?
+72672: Have you noticed the black box?
+72696: Have you tried pushing the buttons on the black box?
+72732: Don't reveal any more hints unless you've found the wrench.
+72776: The wrench is under the lab tables.
+72856: It's a red herring.
+72872: So is the hint about the wrench.
+72912: Something's different on the second floor...
+72948: Check out strange noises...
+72972: It wasn't the humming doorknob!
+73056: Isn't the description of the water fountain on the second floor a little
+different?
+73116: MOVE THE FOUNTAIN.
+73176: Kind of dark down there, isn't it?
+73204: See the next section of hints for more info on what to do about the
+darkness.
+73260: The light and the dark.
+73280: Search the third floor...
+73300: See that box?
+73312: SEARCH the red box.
+73332: GET the flashlight (our UK friends may call it a TORCH).
+73380: As a convenience, you may activate or deactivate the flashlight by
+typing just ON or OFF.
+73474: Help comes to those who wait...
+73500: The mouse really *does* seem to know where it's going...
+73600: Just FOLLOW the mouse and your path is easy.
+73652: The mouse only leads you one way, TOWARD the gnome's lair.
+73700: But the gnome is forgetful...
+73724: The gnome has posted the directions out of the maze by the exit.
+73820: Now what?
+73828: The gnome needs a copy of the Inform Designer's Manual.
+73872: You have a way of getting him one.
+73896: Go back to the Computer Center and follow the directions in the next set
+of hints.
+73968: Have you checked out the computer on your desk?
+74022: I wonder what the (computer) mouse can do with them?
+74132: Then you need to download the file...
+74182: Voila!
+74188: Okay, here's the exact sequence:
+

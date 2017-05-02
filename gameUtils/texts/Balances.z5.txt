@@ -1,0 +1,550 @@
+16346: Nothing to do!
+16381: o. You have won
+16543: fhn[Your interpreter does not provide "undo". Sorry!]
+16640: Please give one of the answers above.
+16671: It is now pitch dark in here!
+16698: I beg your pardon?
+16716: dxn[You can't "undo" what hasn't been done!]
+16758: ehn[Can't "undo" twice in succession. Sorry!]
+16830: Sorry, that can't be corrected.
+16859: Think nothing of it.
+16880: "Oops" can only correct a single word.
+16914: It is pitch dark, and you can't see a thing.
+16965: As good-looking as ever.
+16989: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+17052: You can hardly repeat that.
+17077: You can't begin with a comma.
+17105: You seem to want to talk to someone, but I can't see whom.
+17180: To talk to someone, try "someone, hello" or some such.
+17248: I didn't understand that sentence.
+17318: I didn't understand that number.
+17347: You can't see any such thing.
+17374: You seem to have said too little!
+17403: You aren't holding that!
+17427: You can't use multiple objects with that verb.
+17467: You can only use multiple objects once on a line.
+17507: I'm not sure what "
+17542: You excepted something not included anyway!
+17578: You can only do that to something animate.
+17613: That's not a verb I recognise.
+17643: That's not something you need to refer to in the course of this game.
+17697: You can't see "
+17740: I didn't understand the way that finished.
+17835: Nothing to do!
+17852: There are none at all available!
+17926: Sorry, you can only have one item here. Which exactly?
+18886: Please answer yes or no.
+18912: Are you sure you want to quit?
+18948: Are you sure you want to restart?
+18980: Failed.
+19000: Restore failed.
+19017: Ok.
+19035: Save failed.
+19050: Ok.
+19068: The game file has verified as intact.
+19100: The game file did not verify as intact, and may be corrupted (unless you
+are playing it with a very primitive interpreter which is unable properly to
+perform the test).
+19230: Transcripting is already on.
+19287: Transcripting is already off.
+19336: Score notification on.
+19357: Score notification off.
+19380: You have visited:
+19408: Objects you have handled:
+19433: None.
+19817: You are carrying nothing.
+19866: Taken.
+19877: You are always self-possessed.
+20262: You're carrying too many things already.
+20446: Dropped.
+20556: Removed.
+20645: You can't put something on top of itself.
+20722: You lack the dexterity.
+20803: Done.
+21002: You can't put something inside itself.
+21093: Done.
+21395: Wrahn seem interested.
+21614: You can only get into something freestanding.
+21736: But you aren't in anything at the moment.
+21850: You'll have to say which compass direction to go in.
+21952: You can't go that way.
+22138: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+22240: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+22328: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+22642: Darkness, noun. An absence of light to see by.
+22773: But it's dark.
+22790: You find nothing of interest.
+22826: But it's dark.
+22917: You find nothing of interest.
+24087: . Not bad.
+24105: That was a rhetorical question.
+24132: This dangerous act would achieve little.
+24166: Nothing practical results from your prayer.
+24202: The dreadful truth is, this is not a dream.
+24239: That seems unnecessary.
+24262: Keep your mind on the game.
+24287: What a good idea.
+24306: You smell nothing unexpected.
+24333: You hear nothing unexpected.
+24358: You taste nothing unexpected.
+24393: Keep your hands to yourself!
+24418: You feel nothing unexpected.
+24443: If you think that'll help.
+24469: Digging would achieve nothing here.
+24536: You jump on the spot, fruitlessly.
+24569: You would achieve nothing by this.
+24598: There's nothing suitable to drink here.
+24631: But there's no water here to carry.
+24662: Oh, don't apologise.
+24684: Real adventurers do not use such language.
+24719: Quite.
+24730: Violence isn't the answer to this one.
+24763: There's not enough water to swim in.
+24794: There's nothing sensible to swing here.
+24858: You achieve nothing by this.
+24946: You wave, feeling foolish.
+25096: You are unable to.
+25115: Nothing obvious happens.
+25138: That would be less than courteous.
+25176: Is that the best you can think of?
+25205: That's not a direction.
+25228: Not that way you can't.
+25260: Keep your hands to yourself.
+25285: You achieve nothing by this.
+25319: Futile.
+25331: You lack the nerve when it comes to the crucial moment.
+25383: You talk to yourself a while.
+25410: This provokes no reaction.
+25438: There is no reply.
+25457: Nothing is on sale.
+25476: Your singing is abominable.
+25502: I don't think much is to be achieved by that.
+25539: Time passes.
+25554: You aren't feeling especially drowsy.
+47331: Writing on a cube is such a fiddly process that you need to be holding
+it in your hand first.
+47401: You would need some powerful implement for that.
+47455: If a burin could write in a spell book, you wouldn't need the gnusto
+spell!
+47522: You cannot write just anything on the magic parchment of a scroll: you
+can only "copy" a spell to it.
+47598: Graffiti is banned.
+47619: You need to be holding the burin to copy a spell.
+47666: If a burin could write in a spell book, you wouldn't need the gnusto
+spell!
+47732: You can only copy spells to scrolls.
+47767: The scroll is already full of incantation.
+47798: The scroll is not blank, only illegible.
+48250: You always know that spell.
+48614: Unlike scrolls, spell books are magically guarded against the 'theft' of
+their lore.
+48689: Your spell fizzles vaguely out.
+48717: A gnusto spell would require close scrutiny of the scroll it is to copy:
+which you do not seem to be holding.
+48827: Your spell fails, as you have no spell book.
+48920: Your spell book begins to glow softly. Slowly, ornately, the words of
+48976: are inscribed, glowing even more brightly then the book itself. The
+book's brightness fades, but the spell remains! However, the scroll on which it
+was written vanishes as the last word is copied.
+49178: is always open to the right place, but it is also always closed. This
+eliminates tedious leafing and hunting for spells. Many lives have been saved
+by this magical innovation.
+49520: The scroll has faded, and you cannot read it.
+49553: The scroll reads "
+49955: Nothing happens.
+50008: Nothing happens.
+50246: Your training is such that you can only memorise such a spell with the
+aid of a spell book containing it.
+50323: You have no text of that spell to copy.
+50357: You haven't learned that spell, if indeed it is a spell.
+50405: You haven't access to that spell, if indeed it is a spell.
+50571: At the moment, even the simplest questions confuse you.
+50694: You need to be holding the coin first.
+50733: You throw it away into the darkness.
+50769: You toss the coin, and it lands... on its edge, amazingly.
+50814: You toss the coin, and it comes up... blank, since neither side is
+marked.
+50874: There is a brief, blinding flash of light.
+50910: The spell, not designed for living creatures, goes sour.
+50955: The spell dissipates vaguely.
+51106: There is a brief moment of deep darkness.
+51142: The spell, not designed for living creatures, goes sour.
+51187: The spell dissipates vaguely.
+51278: ixm but slowly fades back to normality. Still,
+51353: The world is open already.
+51379: It might be a boon to surgeons if it worked, but it doesn't.
+51432: It doesn't need opening.
+51460: ddgixn opens obediently. Like swatting a fly with a sledge hammer, if
+you ask me.
+51569: The world is closed already.
+51594: Happily, that is unnecessary.
+51625: It doesn't need locking.
+51690: That must be either vegetable or mineral.
+51725: You give yourself a mild headache.
+51802: That must be either vegetable or mineral.
+51837: You give yourself a mild headache.
+51920: Searching through the furniture, which is good for nothing but firewood
+now, you come across an old cedarwood box, which you pick up for a closer look.
+52181: A pair of handsome brown wings suddenly appears on the horse's powerful
+shoulders. The horse turns in a complete circle, a look of puzzlement on his
+face.
+52295: He is mainly thinking about oats. Partly who you are and what you're up
+to, but mainly oats.
+52384: You ride around for a while, exercising the horse, but soon enough he
+tires of this and pointedly brings you back to the oats. Obligingly you
+dismount and he begins grazing again.
+52509: You begin to ride north. Then, slowly at first but with increasing
+sureness, the horse begins beating its powerful wings. You rise majestically
+through the air, sailing gracefully across a chasm where the hills fall away.
+The horse lands gently on the far side and deposits you, taking to the skies
+again.
+52798: Lucky you got to it before the horse did. As you turn it over in your
+hands, it seems undamaged.
+52871: What would you want with all those oats?
+52909: The spell dies away in vain.
+52935: Your elbows twitch, but there is no other effect.
+53037: The spell dies away in vain.
+53062: What wings?
+53086: The Enchanter giveth, and the Enchanter taketh away. The horse looks
+disconsolate but returns to the oats.
+53286: The snake hisses angrily!
+53330: The snake is replaced by a clump of daffodils.
+53380: The snake is transformed into a huge, winged serpent, a dragon which
+bellows and leaps out into the chasm, backwinging furiously... and knocking you
+over the edge quite by accident.
+53512: Horrid reptilian thoughts insinuate their way into you.
+53559: The slipperiness of its skin is only one of many reasons why this is
+ill-advised.
+53622: The snake won't let you near that cube!
+53654: The tortoise (slowly) turns its neck to look at you (stupidly).
+53717: Just how safe do you want your surroundings to be?
+53778: The tortoise seems to be incapable of expressing surprise, but is now
+soaring away high in the sky. Something rather grubby is left behind.
+53880: For a moment you think there is nothing there, as you chew
+absentmindedly on a leaf. But somewhere inside the tortoise is a sense of
+wonder at the amazing blue canopy of the sky.
+54011: Your parents always warned you not to pick up casual acquaintances met
+on the road.
+54111: A tortoise-feather flutters to the ground before you!
+54258: There is a loud bang in your ear, but no other effect.
+54305: There is no further effect.
+54335: Nothing happens, possibly because those butterflies on the other side of
+the hill keep distracting you.
+54462: There is a brief silence, but no other effect.
+54509: Pardon?
+54569: Those wretched butterflies finally shut up.
+54630: Before your eyes, the scroll begins to repair itself, failing only at
+the very last tear. Not quite perfect perhaps, but certainly a readable, if
+torn scroll.
+54749: "Eating your words" is notoriously dangerous for a wizard. Rearranged in
+the stomach, a spell might do anything!
+54862: The iron door stands open.
+54887: The iron door is unlocked but shut.
+54914: A heavy iron door bars the cave mouth.
+54972: As you gaze into the perfect blue of the sapphire, you feel your mind
+begin to reel. Unable to bear the naked sight of perfection, you look away,
+ashamed. As you do so, the sapphire cracks and wastes away to thin hot dust.
+But something remains, something in your mind...
+55174: Trying to make everything perfect was a little too ambitious.
+55221: Oh, don't be too hard on yourself.
+55253: Your spell is not powerful enough to restore the lost pages.
+55349: Something bars your way, and you hear the scales jangling militantly.
+You were trying to steal its coins!
+55434: Something bars your way, and you hear the scales jangle slightly with
+energy.
+55546: A fair-sized pair of scales hangs from a bracket in the cave wall.
+55602: The scales are balanced.
+55629: The left-hand side is higher.
+55652: The right-hand side is higher.
+55678: There are left and right hand pans, which you should refer to
+individually.
+55765: The pans gleam with what almost seems greed, and somehow they contrive
+to nudge your hand past them with your worthless and boring item.
+55978: The scales come into balance.
+56125: The spell fizzles away.
+56148: It's a matter of opinion, isn't it?
+56222: , turns into a featureless white cube just as the cyclops was about to
+hit you with it. Mightily embarrassed by this, he drops the cube and runs off!
+56357: Nothing obvious happens. Perhaps
+56421: The spell fizzles away.
+56444: It's a matter of opinion, isn't it?
+56563: Nothing obvious happens.
+56592: Suddenly, a tarantula races up your arm to your throat! Perhaps it was
+unwise to gizbru something you were actually holding.
+56686: Nothing happens. Perhaps that's just as well, after the last time.
+56812: Does the term "death wish" mean anything to you?
+56854: The cyclops bellows with glee as your spell has no effect. (After all,
+he wouldn't be "dangerous" if an urbzig spell worked on him, would he?)
+56962: He roars incoherently, swinging the mace!
+57009: Feeling that he's given you quite long enough to explain why you made
+such a mess of his life, he swings the great mace maniacally down on you!
+57118: The cyclops leaps and bellows!
+57148: Whirling the mace, the cyclops jabbers at you incoherently.
+57196: yhn
+The cyclops is losing patience (the appropriate cyclops word is
+untranslatable into English, but approximately means "forbearance in not
+smashing all nearby skulls").
+57317: The cyclops jabs you with the mace, almost breaking your rib.
+57382: Not until the carpet's on the ground, you can't.
+57445: Not until the carpet's on the ground, you can't.
+57489: Mysteriously, the carpet rucks and pulls until you're thrown off. It
+settles back on the white floor with a contented sigh.
+57581: The carpet rises suddenly, crashing into the roof of the cave and
+throwing you back off again. Painfully.
+57673: The carpet rises suddenly into the fluffy white clouds, and after a
+headlong journey deposits you...
+57773: Not while you're on it!
+57848: It is labelled "First Prize"!
+57883: It is labelled "Nineteenth Prize".
+57912: "You lose," says the ticket, with a smily face. "Try again!"
+58150: It would be cheating to see what's written on the curled up tickets
+still in the board.
+58217: "Get outta here, bub!", the barker says, disgusted.
+58274: "Roll up!  Roll up!  One silver piece for three goes!"
+58324: "Come on, then!  Just a silver coin gets you three!"
+58370: exn
+"Think what you could win, all for one silver coin!"
+58417: "This could be your lucky day!"
+58451: "None of that!" snaps the barker angrily, putting you off your study
+habits. He mutters about "Enchanter cheats", but under the circumstances you
+decide to let the insult pass.
+58600: The barker stabs you in the chest with his finger. "That's a silver coin
+to you, bub!"
+58691: That ticket's already taken.
+58787: The barker looks metaphysically embarrassed. "Um, Inform's object
+creation system seems not to have worked."
+59032: Give it to me if you want to play it."
+59068: The barker is burly, and won't let you tamper with the board.
+59121: No way. He must weigh twice what you do.
+59169: "Just one silver coin and a prize could be yours!"
+59217: He blows the dust off it. "Genuine antique, that."
+59267: "Good quality merchandise," he says, in a way that suggests he can only
+spell one of those three words.
+59352: "Three tickets for one silver coin!"
+59381: "Just play the game, bub."
+59412: The barker glowers at you.
+59481: With very bad grace, the barker shoves the cuddly toy elephant into your
+arms.
+59570: With concealed relief, the barker shoves the featureless white cube into
+your hands.
+59659: "You've had enough goes already!" he growls. No wonder trade is bad.
+59723: "What do you call that? One silver coin to play!"
+59784: Not a chance, sunshine."
+59857: Gleefully the barker snatches the gold coin. "Sorry bub, no change.
+Business is slack today!"
+59926: Grudgingly the barker takes the silver coin and stands back to let you
+at the board, arms folded.
+60010: He's not that much of an animal.
+60039: His problem is listening, not hearing.
+60073: For a moment his hair seems to comb itself. Irritated, he ruffles it
+again, and the spell dies an ignominious death.
+60174: The barker's mind is a heap of grumbles about lost prizes and scrawny
+Enchanters.
+60241: "Hope that scrawny Enchanter doesn't pick 2306!" thinks the barker
+(slowly).
+60302: "If that mark does win, hope it's only worthless old 5802," ponders the
+barker.
+60366: "Hands off those prizes!"
+60395: "Hands off those prizes!"
+60423: "Hands off those prizes!"
+60456: Let me get this straight. You, the enchanter who defeated Krill, the
+head of the Borphee Guild himself... are attempting to grow wings on a pink
+cuddly elephant?
+60577: Woolly.
+60593: The spell backfires, painfully.
+60627: You know that spell too well for your mind to be able to accept the
+change.
+60837: You really can't fault Helistar on this one. Death is absolutely
+immediate, like a sudden blackout curtain...
+60925: Nothing quite happens... and yet you feel enormously more confident as
+you go about this dangerous world.
+61012: Your foresight in preparing a resurrection was wasted. The tangled magic
+of the Balance Room coiled around your puny enchantment like a constricting
+serpent.
+61182: With great foresight you prepared yourself for resurrection... Your mind
+feels a little weaker, but at least you're alive.
+61309: You can make out nothing to the west.
+61347: A brief shower of gratuitous fireworks spells out: 
+
+The masterly
+Enchanter trilogy was written by Marc Blank, Dave Lebling and Steve Meretzky.
+61458: A lengthy shower of artistically justified fireworks spells out: 
+
+The
+masterly Enchanter trilogy was written by Jane Austen, Emily Bronte and Edgar
+Allen Poe.
+61586: The chanting is too quiet to make out.
+61615: The endlessly repeating threnody of the monks tells of the legend of one
+who will some day enlighten their order, and so be taken up to a higher plane.
+He (or she, presumably) is known as The Four-Cubed One.
+61771: The Temple is featureless and unbroken. Perhaps the top is open, because
+the sound must come from somewhere... but you wouldn't bet on it.
+61885: The huge temple remains impassive at your relatively puny enchantment.
+61970: The temple shakes, but then is still again.
+62022: White light plays over your hands and possessions, but then all is still
+again.
+62079: The temple shakes and white light bathes you. Smoothly it unfolds itself
+in a four-dimensional way your senses can barely comprehend. All you know is
+that when it is over, you find yourself in...
+62234: You stand outside an enormous temple in the shape of a perfect,
+featureless white cube, four hundred feet on a side. From somewhere within you
+hear the
+62386: It's only an image.
+62416: Nice try, but it is protected from enchantment.
+62451: However dusty it is, the podium is still protected from casual
+enchantment.
+62521: No substitute for old-fashioned hard work, sometimes, and after much
+patient (sneezy) scrubbing, the podium appears in its true white glory. Set
+into it are four sockets, arranged in a two by two square.
+62678: You'll have to say which socket you mean. (Let's call them "top left",
+"bottom right" and so on.)
+62826: The sockets are proof against magic.
+62974: The socket rejects that.
+63000: There is already a cube in that socket.
+63043: With much struggle, you manage to pull the cube away.
+63131: As you place the final cube into the sockets, you feel imbued with
+celestial wisdom (more so than usually). You find yourself growing to the
+height of the cube, so that you pull the balances back level by hand, and then
+you grow still further, out of the temple until it is but a cube in your hand,
+and you are a giant towering over the land. 
+
+Then, of course, you wake up,
+glumly realising it's time to go to your job at the new Borphee Laboratories
+and all those Wheatstone bridge experiments. But at least you can dream about
+the old days.
+63510: The sockets are all full now, but that doesn't mean anything's happened.
+63563: The cube is a predictably perfect fit in the socket.
+63846: a    
+
+You feel a little confused as to how you got here. Something to
+do with Helistar!  That's right, and how the world is so far off balance
+nowadays, after the Great Change.
+64001: Scientist.
+64014: Spellbreaker.
+64029: Sorcerer.
+64042: Enchanter.
+64059: Enchanter.
+64094: You feel fine, and your memory is unimpaired.
+64132: You feel shaky after your brush with death, but your mental faculties
+seem sound.
+64194: For someone who has died twice, you're in reasonable shape.
+64261: Your memory isn't what it was.
+66768: An Interactive Short Story 
+Copyright (c) 1994, 1995, 1996 by Graham
+Nelson.
+66992: Score:
+67000: Moves:
+67008: Time:
+67016: You can't go that way.
+67120: A perfect white cube, four inches on a side.
+67160: This is a magical burin, used for inscribing objects with words or runes
+of magical import. Such a burin also gives you the ability to write spell
+scrolls.
+67296: Helistar is your colleague, an Enchanter like you who has been much on
+your mind lately. She has been investigating some very dark magic indeed, and
+seems not to be around any more. You feel rather vague about the details.
+67452: A burin is an engraving and writing tool.
+67522: No, it's gone.
+67608: The grue is a sinister, lurking presence in the dark places of the
+earth. Its favorite diet is adventurers, but its insatiable appetite is
+tempered by its fear of light. No grue has ever been seen by the light of day,
+and few have survived its fearsome jaws to tell the tale.
+67800: According to Chambers English Dictionary, a grimoire is "a magician's
+book for calling up spirits".
+68424: A round unstamped disc, presumably part of the local currency.
+68588: Until quite recently, someone lived here, you feel sure. Now the
+furniture is matchwood and the windows are glassless. Outside, it is a warm,
+sunny day, and grasslands extend to the low hills on the horizon.
+68736: There's only the one room: better go "out".
+68772: The box bears the calligraphed initial H.
+68802: This must be the grimoire of dangerous spells kept by your irresponsible
+friend Helistar. Many pages are missing, but a few spells remain:
+68904: The grasslands sway over low hills in all directions: it is a peaceful
+wilderness, broken only by this hut and a faint path to the north.
+69000: You wander around for a while but end up back at the hut.
+69040: A pleasant pocket valley in the grassy hills, through which a trail runs
+north-to-south.
+69104: The trail runs out to nothing, and you retreat for fear of getting so
+lost you couldn't find the hut again by nightfall.
+69188: You wander around the pleasant valley, but are afraid to lose sight of
+the trail.
+69268: The road ends suddenly at a wide chasm. The road leads upward to the
+north, and you can see it continuing on the southern side of the chasm.
+69368: The chasm is too perilous to approach. The only safe way is up and to
+the north.
+69424: Lying in a tight coil at the edge of the chasm is a hissing snake.
+69472: It has some V-markings, some scaly parts, colours from grey to
+reddish-brown. Is that any help?
+69544: Beside a clump of daffodils is a featureless white cube.
+69584: A featureless cube rests where the snake took off from.
+69624: The snake appears to be curled around a featureless white cube.
+69668: The road crosses the top of a ridge here, sloping downwards to the south
+and the northwest. A track diverges to east.
+69752: A tortoise ambles along the road, extremely slowly.
+69800: It looks as if the tortoise was eating something - once it might have
+been a scroll, but now it lies there, chewed up like a lettuce leaf.
+69896: Possibly your rarest, and also least valuable, possession.
+69940: This is a cave mouth, at one end of a road which winds southeast over
+rising ground. The entrance west to the caves is a dark tunnel, and only a
+footpath runs further north, into gorse.
+70068: It just looks like an ordinary heavy iron door.
+70104: Clotted in the mud beside the door is a perfect sapphire.
+70156: A wide but shallow cave not far inside the hill. There is no obvious
+exit, except for the way you came in.
+70232: The only way is back "out" through the iron door.
+70268: Balanced on a rock formation is a featureless white cube.
+70340: A huge buck-toothed cyclops menaces you, armed with a heavy mace!
+70388: It looks much too heavy for you to even lift.
+70420: A featureless white cube lies where the cyclops dropped it.
+70464: The footpath from the cave mouth runs into dense, impenetrable gorse
+bushes. Perhaps it wasn't so much a footpath as a rill in the earth where roots
+wouldn't take; anyway, there's no way but back south.
+70608: Slung over one of the gorse bushes is a beautiful red carpet.
+70652: This is a carpet of unusual design. It is red, beautifully woven and
+bears a pattern of cubes.
+70772: But the contemptuous-looking barker is doing a very poor trade: hardly
+anyone wants his first prize, the big cuddly toy elephant, or even his
+nineteenth prize, a featureless white cube.
+70900: Everywhere, the crowds of jabbering natives block your way to all the
+good stalls. In fact, the only one you can get at is this dismal lottery.
+71000: There are a hundred holes each way, making, um, let's see, yes, ten
+thousand tickets in all. Still, there are nineteen prizes, so your odds must
+be, oh, well, not too awful anyway.
+71132: Behind the barker is a huge drilled board, and inside each little
+numbered hole is a rolled-up lottery ticket.
+71212: A boxer gone to seed who failed as a magician all down the coast, that'd
+be your guess.
+71276: This is a crowded, noisy bazaar. Directly in front of you is the
+lottery!
+71328: This is a crowded, noisy bazaar. Directly in front of you is the
+lottery!
+71380: Pink, cuddly, toy, elephant. Says it all, really.
+71420: Wouldn't you like to win it?
+71444: Pink, cuddly, toy, elephant. Says it all, really.
+71532: This is a room of bones. Shoulder blades make up the floor, skulls the
+walls and leg-bones the door frames. The west exit leads into darkness, but the
+doorway to the north opens onto a seemingly normal scene.
+71680: Some magical force blocks your way, as though that doorway led into
+adventures from your past which you cannot rejoin now.
+71764: You are almost treading on a worthless scroll.
+71816: This is the end of a long track winding through desolate hills, which
+runs back west up to the ridge.
+71888: It's much like every other gigantic temple in the shape of a featureless
+white cube you've ever seen. No obvious way in.
+71972: This seems to be the inside of a featureless white cube, forty feet on a
+side. The air is stale and there is no exit.
+72060: The image of a pair of scales hangs high in the air. One pan is much
+lower than the other.
+72124: Far below the scales, in the centre of the "floor", is a
+predictably-shaped podium, but it is so dusty and cobwebbed that you can't see
+what it once was.
+72232: As predicted, it is cubical.
+72256: Far below the scales, in the centre of the "floor", is a
+predictably-shaped podium. Set into it are four sockets, arranged in a two by
+two square.
+72412: It is pitch black. You are likely to be eaten by a grue.
+

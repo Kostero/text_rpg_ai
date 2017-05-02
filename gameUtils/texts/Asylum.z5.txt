@@ -1,0 +1,219 @@
+23957: Identification number:
+25555: There is no reply.
+25592: Nothing is on sale.
+26045: Dropped.
+26193: . Not bad.
+27095: Wrahn seem interested.
+28231: Done.
+28314: You are carrying nothing.
+28429: Keep your mind on the game.
+28454: You hear nothing unexpected.
+29368: But it's dark.
+29385: You find nothing of interest.
+29443: Quite.
+29473: Nothing to do!
+29508: o. You have won
+29573: It is now pitch dark in here!
+29600: I beg your pardon?
+29664: Sorry, that can't be corrected.
+29693: Think nothing of it.
+29746: As good-looking as ever.
+29778: You can hardly repeat that.
+29803: You can't begin with a comma.
+29917: I didn't understand that number.
+29946: You can't see any such thing.
+29982: You aren't holding that!
+30023: I'm not sure what "
+30075: That's not a verb I recognise.
+30113: You can't see "
+30220: Nothing to do!
+30237: There are none at all available!
+30685: You must supply a noun.
+30708: You may not supply a noun.
+30733: You must name an object.
+30756: You may not name an object.
+30781: You must name a second object.
+30817: You must supply a second noun.
+30995: That was a rhetorical question.
+31022: Score notification off.
+31045: Score notification on.
+31417: You are unable to.
+31436: Nothing obvious happens.
+31576: That's not a direction.
+31599: Not that way you can't.
+31746: You lack the dexterity.
+31831: Done.
+31913: Please answer yes or no.
+31939: Are you sure you want to quit?
+32059: Removed.
+32090: Failed.
+32109: Restore failed.
+32126: Ok.
+32136: You achieve nothing by this.
+32168: Save failed.
+32183: Ok.
+32290: There is no score in this story.
+32351: Transcripting is already off.
+32417: Transcripting is already on.
+32483: But it's dark.
+32558: You find nothing of interest.
+32814: Your singing is abominable.
+32848: You smell nothing unexpected.
+32875: Oh, don't apologise.
+32904: Keep your hands to yourself.
+32929: You achieve nothing by this.
+33237: Taken.
+33248: You are always self-possessed.
+33760: You taste nothing unexpected.
+33794: You talk to yourself a while.
+33821: This provokes no reaction.
+33847: What a good idea.
+33873: Futile.
+33911: Keep your hands to yourself!
+33936: You feel nothing unexpected.
+33961: If you think that'll help.
+34272: Time passes.
+34315: That seems unnecessary.
+34437: You wave, feeling foolish.
+75107: Variable unavailable:
+75145: Variable stack offset wrong:
+75216: Variable stack offset wrong:
+82676: You can't move nothing.
+82714: You can't divide by zero.
+83127: Attempt to 'decide on nothing'.
+83161: Low level error.
+83311: The memory stack is exhausted.
+83353: Error handling external file.
+96764: After moving blanks to back:
+96815: Final state:
+106070: in" or "notin
+106086: opmhas" or "hasnt
+106228: }" at end of "objectloop
+107788: Score:
+107796: Moves:
+107804: Time:
+107812: You can't go that way.
+107936: Violence isn't the answer to this one.
+107964: This dangerous act would achieve little.
+107992: I don't think much is to be achieved by that.
+108052: There's nothing suitable to drink here.
+108080: You can only get into something free-standing.
+108152: You see nothing unexpected in that direction.
+108184: But you aren't in anything at the moment.
+108244: You'll have to say which compass direction to go in.
+108284: You can't put something inside itself.
+108312: You jump on the spot, fruitlessly.
+108368: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+108464: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+108548: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+108660: You see nothing unexpected in that direction.
+108856: Please give one of the answers above.
+108884: [You can't "undo" what hasn't been done!]
+108920: [Can't "undo" twice in succession. Sorry!]
+108960: "Oops" can only correct a single word.
+108988: It is pitch dark, and you can't see a thing.
+109020: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+109080: You seem to want to talk to someone, but I can't see whom.
+109124: To talk to someone, try "someone, hello" or some such.
+109164: I didn't understand that sentence.
+109224: You seem to have said too little!
+109248: You can't use multiple objects with that verb.
+109284: You can only use multiple objects once on a line.
+109320: You excepted something not included anyway!
+109352: You can only do that to something animate.
+109384: That's not something you need to refer to in the course of this game.
+109432: I didn't understand the way that finished.
+109464: Sorry, you can only have one item here. Which exactly?
+109564: You may not name a second object.
+109588: You may not supply a second noun.
+109612: You must name something more substantial.
+109644: The use of UNDO is forbidden in this game.
+109676: That noun did not make sense in this context.
+109732: That would be less than courteous.
+109784: You can't put something on top of itself.
+109816: Are you sure you want to restart?
+109840: Attempt to end transcript failed.
+109864: Attempt to begin transcript failed.
+109892: You aren't feeling especially drowsy.
+109920: Real adventurers do not use such language.
+109952: There's nothing sensible to swing here.
+109980: You're carrying too many things already.
+110012: You lack the nerve when it comes to the crucial moment.
+110052: You would achieve nothing by this.
+110104: The game file has verified as intact.
+110132: The game file did not verify as intact, and may be corrupt.
+110176: The dreadful truth is, this is not a dream.
+112416: I didn't understand that sentence.
+112668: Too many procedural rules acting all at once.
+112702: Too many rulebooks in simultaneous use.
+112734: Too many timed events are going on at once.
+112900: Too many activities are going on at once.
+112930: Tried to abandon an activity which wasn't going on.
+112970: Tried to end an activity which wasn't going on.
+113008: You can't remove nothing from play.
+113036: Tried to access property for a value which didn't fit:
+113646: Attempt to see if a snippet of text matches something which is not a
+topic.
+113702: Attempt to find route or count steps through an implicit relation.
+113752: Attempt to use a property of the 'nothing' non-object.
+113842: Attempt to ignore the turn sequence rules.
+114018: The list-writer has run out of memory.
+114050: Attempt to remove the player from play.
+114082: Attempt to remove a door from play.
+114110: Attempt to change the player to a person off-stage.
+114150: Phrase applied to an incompatible kind of value.
+114188: Memory allocation proved impossible.
+114216: Attempt to use list item which does not exist.
+114250: Syntax error in regular expression.
+114278: This interpreter does not support Unicode.
+114312: Only backdrops can be moved to multiple places.
+127632: You wonder what is inside.
+127696: All of the corners are sanded off. Apparently they don't want you to
+hurt yourself. There is a small drawer in the front.
+127784: As good-looking as ever.
+127856: It breaks, as does anything that might have been on or inside it.
+127904: It feels as if something is inside it.
+127932: It is carved of oak wood.
+127952: It is detailed very well. It is an excellent example of true
+craftsmanship.
+128008: It is hard, and has a tannish color.
+128036: It is made of plastic. It holds
+128060: It is only a few inches above your head.
+128088: It is rather heavy.
+128104: It is very old and dirty.
+128124: It looks like it was made by a blacksmith.
+128156: It looks rather weak.
+128172: It shatters, spilling its contents into the drawer.
+128252: That doesn't seem like a good idea.
+128280: The chisel would probably be more useful if you had something to hit it
+with.
+128336: The clock chimes ten times. A little bird comes out. Several officers
+come in, bringing your food. They see you attempting to escape, and they
+immediately ruin your plans.
+128472: The heart breaks, and nothing is inside.
+128504: This combined with the chisel could be very destructive.
+128544: This combined with the hammer could easily be very destructive.
+128588: This key looks important.
+128628: You can't go that way.
+128648: You cannot open it, as it is pure glass.
+128680: You cannot see inside, but it is heavy, as if something were inside.
+128728: You could probably destroy it with the hammer and the chisel.
+128772: You could use something sharp to damage the wall with.
+128812: You could use something to hit it with.
+128840: You have failed.
+128852: You hit the hammer against the wall. Nothing happens.
+128892: You hold the chisel up to the wall and pound the chisel with the
+hammer. The wall collapses, revealing an exit to the north.
+128980: You hold the chisel up to the wall. You need something to hit the
+chisel with.
+129036: You look around, and panic. Get me out of here!
+129072: You need something to break it with.
+129100: You pound on the wall with your fist. Nothing happens.
+129192: This story file does not use a heap of managed memory.
+129512: give" or test "has" or "hasnt" with a non-attribute on the object
+129560: , but it is longer than 2 bytes so you cannot use "."
+

@@ -1,0 +1,787 @@
+13882: cnu 'dba KpmTo repeat a command like "frog, jump", just say "again", not
+"frog, again".
+13965: You can hardly repeat that.
+14228: You can't begin with a comma.
+14289: You seem to want to talk to someone, but I can't see whom.
+14379: To talk to someone, try "someone, hello" or some such.
+15343: I didn't understand that sentence.
+15451: I didn't understand that number.
+15482: You can't see any such thing.
+15545: You aren't holding that!
+15574: You can't use multiple objects with that verb.
+15614: You can only use multiple objects once on a line.
+15693: You excepted something not included anyway!
+15731: You can only do that to something animate.
+15768: That's not a verb I recognize.
+15798: That's not something you need to refer to in the course of this game.
+15854: You can't see "
+15899: I didn't understand the way that finished.
+16000: Nothing to do!
+16016: There are none at all available!
+18094: Sorry, you can only have one item here.  Which one exactly?
+25302: At the moment, "it"
+25372: and "me" means
+26222: Don't hurt yourself trying.
+26247: Digging here won't get you anywhere.
+26278: Enjoying yourself?
+26297: Oh, don't apologize.
+26318: Not quite.
+26368: Suppress your primal urges for a later time.
+26406: You haven't slept in years. You let Leo do all the sleeping for for you.
+26581: Moves:
+30518: Due to an unfortunate accident involving a lawn ornament and three
+glasses of orange juice, your score is unavailable at this time.
+34876: Nothing to do!
+34891: o. You have died
+35164: Please give one of the answers above.
+35195: It is now pitch dark in here!
+35222: I beg your pardon?
+35240: dxn[You can't "undo" what hasn't been done!]
+35282: ehn[Can't "undo" twice in succession. Sorry!]
+35354: Sorry, that can't be corrected.
+35383: Think nothing of it.
+35404: "Oops" can only correct a single word.
+35473: Please answer yes or no.
+35493: Are you sure you want to quit?
+35526: Are you sure you want to restart?
+35552: Failed.
+35567: Restore failed.
+35580: Ok.
+35593: Save failed.
+35604: Ok.
+35618: The game file has verified as intact.
+35645: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+35769: Transcripting is already on.
+35818: Transcripting is already off.
+35841: End of transcript.
+35862: Score notification on.
+35883: Score notification off.
+35906: You have visited:
+35931: Objects you have handled:
+35952: None.
+36169: You are carrying nothing.
+36211: Taken.
+36222: You are always self-possessed.
+36340: You already have that.
+36425: That isn't available.
+36466: That's hardly portable.
+36489: That's fixed in place.
+36513: You're carrying too many things already.
+36588: Already on the floor.
+36609: You haven't got that.
+36651: Dropped.
+36669: It is unfortunately closed.
+36694: But it isn't there now.
+36713: Removed.
+36794: You can't put something on top of itself.
+36871: You lack the dexterity.
+36948: Done.
+36990: You need to be holding it before you can put it into something else.
+37043: That can't contain things.
+37068: Alas, it is closed.
+37089: You'll need to take it off first.
+37205: Done.
+37246: That isn't in your possession.
+37269: First pick that up.
+37557: That's not something you can enter.
+37625: You can only get into something on the floor.
+37738: But you aren't in anything at the moment.
+37846: You'll have to say which compass direction to go in.
+37945: You can't go that way.
+38102: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+38204: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+38292: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+38651: But it's dark.
+38664: You find nothing of interest.
+38696: But it's dark.
+38768: You find nothing of interest.
+38796: You can't see inside, since it is closed.
+38879: That doesn't seem to be something you can unlock.
+38920: It's unlocked at the moment.
+38947: That doesn't seem to fit the lock.
+39001: That doesn't seem to be something you can lock.
+39040: It's locked at the moment.
+39065: First you'll have to close it.
+39092: That doesn't seem to fit the lock.
+39145: That's not something you can switch.
+39176: That's already on.
+39219: That's not something you can switch.
+39250: That's already off.
+39295: That's not something you can open.
+39326: It seems to be locked.
+39347: It's already open.
+39443: That's not something you can close.
+39474: It's already closed.
+39517: You're not wearing that.
+39564: You can't wear that!
+39585: You're not holding that!
+39608: You're already wearing that!
+39657: That's plainly inedible.
+39690: Not bad.
+39705: That was a rhetorical question.
+39732: This dangerous act would achieve little.
+39766: Nothing practical results from your prayer.
+39802: The dreadful truth is, this is not a dream.
+39839: That seems unnecessary.
+39862: Keep your mind on the game.
+39887: What a good idea.
+39906: You smell nothing unexpected.
+39933: You hear nothing unexpected.
+39958: You taste nothing unexpected.
+39990: Keep your hands to yourself!
+40015: If you think that'll help.
+40036: You feel nothing unexpected.
+40061: Digging would achieve nothing here.
+40092: Cutting that up would achieve little.
+40123: You jump on the spot, fruitlessly.
+40156: You would achieve nothing by this.
+40185: There's nothing suitable to drink here.
+40218: But there's no water here to carry.
+40249: Oh, don't apologise.
+40271: Real adventurers do not use such language.
+40306: Quite.
+40317: Violence isn't the answer to this one.
+40350: There's not enough water to swim in.
+40381: There's nothing sensible to swing here.
+40414: You can't usefully blow that.
+40441: You achieve nothing by this.
+40466: No, you can't set that.
+40489: No, you can't set that to anything.
+40520: You wave, feeling foolish.
+40550: But you aren't holding that.
+40614: It is fixed in place.
+40635: You are unable to.
+40654: That would be less than courteous.
+40679: Nothing obvious happens.
+40707: Is that the best you can think of?
+40736: That's not a direction.
+40755: Not that way you can't.
+40783: Keep your hands to yourself.
+40804: You achieve nothing by this.
+40834: Futile.
+40841: You lack the nerve when it comes to the crucial moment.
+40889: You talk to yourself a while.
+40912: This provokes no reaction.
+40939: There is no reply.
+40958: Nothing is on sale.
+40977: Your singing is abominable.
+41003: I don't think much is to be achieved by that.
+41040: Time passes.
+41055: You aren't feeling especially drowsy.
+41774: You gaze for a while. Nothing happens.
+41806: Nothing happens.
+41826: No hands to shake.
+41841: Your attempt at friendliness is ignored.
+41874: This is a ludicrous game. It is impossible to make mistakes that will
+prevent you from winning. Common sense should be avoided whenever possible.
+
+My
+apologies (somewhat) to Graham Nelson, Andrew Plotkin, and anyone who loves
+disco music. (Play to find out why.)
+
+Special thanks to Admiral Jota and Bernd
+Schmidt for beta testing. Also thanks to Dave Gatewood and Mark Tilford for
+finding post-beta bugs, and all the people who pointed out the idiotic bug in
+release 2 that kept the player from winning.
+
+Help is available through the
+HINT command, but if you want to avoid temptation type HINTS OFF. The hints
+cannot be turned on again if you turn them off.
+42354: That isn't something you can jump off.
+42386: Your senses are assaulted by a vision...
+42422: You are in a misty little haze of massages, all alike.
+42468: The vision passes.
+42486: That isn't something you need to burn.
+42545: The cannon is supposed to be fired by lighting up the fuse.
+42594: That's not something you can fire.
+42651: You push the trigger (colored green), and a large part of the cart
+catches on fire. The cart decides to not go through the the "burning away
+slowly" bit and skips right to disappearing in a puff of smoke. The
+flamethrower (slightly charred) falls to the ground. It plays a charming tune
+indicating it has annihilated a target.
+43004: You amuse yourself by briefly firing the flamethrower in a random
+direction.
+43091: That's not something you can start fires with. Not all by itself, at
+least.
+43153: That's not something you can start fires with.
+43230: That isn't going to be too productive.
+43262: That isn't going to be too productive.
+43294: Leo's the one talented at throwing his voice.
+43330: I don't understand what you mean.
+43358: Leo's the one talented at throwing his voice.
+43399: This is the wrong game for that sort of thing.
+43432: There's no point in licking that.
+43458: That won't play.
+43474: That isn't going to work.
+43502: That would be somewhat rude.
+43554: The proper way of talking to someone is like this: "Leo, Hello."
+43882: The hints have been turned off.
+43925: The hints are now off.
+43950: That's not the proper tool for the job.
+43979: That wouldn't be too useful.
+44018: Your last attempt resulted in having five stitches. Don't push your
+luck.
+44118: The crayon is fixed into place.
+44256: clicks neatly into place. A deep throbbing resonates as a secret
+compartment opens in the wall.
+44362: This game will admittedly let you sink to some pretty low moral values.
+This is not one of them.
+44448: Leo needs to be awake for you to do that.
+44489: "I'm not very good at talking about myself."
+44531: "You're my partner in crime, what else can I say?"
+44577: "He was a good brother. He died when he got pushed off a cliff by some
+film people trying to make a film about lemmings jumping off cliffs. Horrible."
+Leo shudders at the memory.
+44711: "Very nice. Useful for making bread products."
+44755: "He seems to be a fine chap to me. Probably had too much sugar in his
+cereal one day and snapped."
+44837: "It's a chest, it's high up, and we can't reach it. Have I covered
+everything?"
+44909: "Disco music is the basic building block of all matter. Scientists just
+haven't looked deep enough yet."
+44993: "Very cozy. Certainly better than that hotel we stayed at on our last
+trip. It had ants the size of gorillas." Leo is exaggerating, of course, but
+only slightly.
+45116: "Speaking in tongues, maybe?"
+45150: "Lemmings? What? Where? Who are you talking about?"
+45199: "I like rubble. It invigorates me."
+45235: "I never liked moose. I used to have nightmares of them chasing me."
+45297: "Great place. This town should advertise it more. There could be an
+entire theme park based around it."
+45383: "Can't help you there, sorry."
+45413: "I can't think of anything meaningful to say about that."
+45461: "Nothing witty comes to mind about that, sorry."
+45513: Leo needs to be awake for you to do that.
+45558: "Hello. I'd ask about the weather or something, but I hardly pay
+attention to that sort of thing."
+45631: "Can't help you there, sorry."
+45673: Leo needs to be awake for you to do that.
+45715: "That isn't in my job description."
+45749: "Sorry, I have this bad back, you see."
+45786: "I think that's in your department."
+45862: Leo wakes suddenly, barely missing your face with his paw. "What's the
+big idea, huh? Trying to make some sort of sentimental movie?"
+45959: Leo avoids you, watching suspiciously.
+45993: This game will admittedly let you sink to some pretty low moral values.
+This is not one of them.
+46076: You prod Leo for awhile, and he responds by turning his body a little.
+46146: Leo needs to be awake for you to do that.
+46184: "It wasn't that kind of question."
+46227: Leo needs to be awake for you to do that.
+46265: "I don't quite follow what you're getting at there."
+46313: "I don't need to mess with that anymore."
+46359: Leo pauses for a moment, then his eyes light up. He pops out of your
+pocket and disappears between the rows.
+46450: Leo needs to be awake for you to do that.
+46481: Leo looks just a bit confused.
+46518: Leo needs to be awake for you to do that.
+46549: Leo briefly sings part of an aria from a Mozart opera. "Sorry, that's
+all the words I know." Leo knows many songs, but only the first few phrases of
+each.
+46742: You feel something twisting in your pocket as Leo "the Lemming" pokes
+his head out of your pocket and sniffs around. "So, what trouble have you got
+us into now?" Leo is using his British accent at the moment.
+47085: Leo squeals with delight. "Look, disco!" He leaps onto the dance floor
+and starts spinning around.
+
+The scene of a furry animal dancing on a grid of
+multicolored lights is not a scene seen by many; you now understand what horror
+story writers mean by "forbidden knowledge."
+
+Your thoughts are diverted by
+three sounds, in quick succession: "plop", "aaah!", and "dong!". It seems that
+one of the dancers has sent Leo airborne.
+47512: Leo walks crookedly back and forth a bit more before plummeting off the
+end of the world.
+
+"AAAaaaaahhh....!"
+47660: Leo lands upside down in your pocket, then rights himself. "That was
+great! I haven't ridden a roller coaster like that in years!"
+47815: "Fools! You invoke the great curse of Nuag'gatoa!"
+47859: All heads turn to the booming voice coming from the giant moose head.
+47917: "One of you has dared to attempt to destroy me, the mighty moose god of
+ages, but I am here, and ready for vengeance!"
+48009: With that last word a stampede suddenly sends you sprawling against the
+wall as the members of the Secret Society of the Moose run for their
+lives.
+
+Leo rolls on the floor laughing uncontrollably, noticeably battered
+from being steamrollered by a crowd of moose fanatics. "Well," he says,
+"painful but great fun," immediately before jumping into your pocket and
+falling asleep instantly.
+48297: Leo says, "That's it? I excepted something more impressive, with
+fireworks and loud music or something."
+48400: Leo peers at the flamethrower, saying, "I used to have one of those when
+I was a kid. My brother and I would make cinnamon toast with it."
+48629: The first meeting of Onion Lovers Anonymous will begin at midnight."
+48685: I haven't seen giblets like that in years."
+48723: Why, when I was your age we had to walk twenty miles in the snow for one
+stalk of celery!"
+48792: One milkshake, hold the cup."
+48820: I knew he was trouble. People wearing bells on their hats always were."
+49026: You first met Leo "the Lemming" hitchhiking near Interstate 10. He has
+been a semiconstant companion ever since, being on the whole an agreeable sort
+of lemming.
+49152: Presently, Leo is dozing away in your pocket.
+49297: Very-Great-Grampa Darby must be rolling in his grave.
+49342: Aye, this brings back memories. Dates back all the way to the winter of
+1829 when Very-Great-Grampa Darby was hunting moose. It's been passed down from
+generation to generation ever since, hardly washed, and now has the general
+appearance of something a private eye might wear after being roughed up by a
+few IRS agents. Especially useful is the pocket that looks like it could hold
+enough to feed an entire army. (The edible parts, that is, although Leo has
+developed a theory that anything is edible as long as you swallow hard enough.)
+49738: It's the sort of thing you would normally find in a park, but this tree
+seems to have found itself among tasteful concrete pastels.
+49836: A chest has somehow managed to lodge itself in the tree's upper
+branches.
+49899: The tree gives you a somber look. How a tree can look somber is left to
+the imagination of the reader.
+49977: The tree refuses to cooperate; none of its branches have grown into a
+position convenient to climbing.
+50055: You grip the tree firmly with both arms, shake vigorously, wail loudly,
+and gain nothing but the respect and admiration of a crowd of spectators who
+just passed by.
+50174: A solid wooden chest, with the words "
+50250: It's currently lodged in the upper branches of the tree in a
+particularly embarrassing position.
+50336: After drying your eyeballs for quite some time, you glimpse the chest
+shift close to half a millimeter, but nothing else happens.
+50427: The chest is too high up to do anything but gaze longingly at it.
+50485: The chest is far too heavy to lift.
+50528: And deface a important artifact? Shame on you.
+50619: The fuse burns out with no gunpowder to light. A cannon fairy magically
+appears and puts on a new fuse before disappearing in a puff of smoke.
+50746: The cannon makes a loud pop but has no projectile to launch. A cannon
+fairy magically appears and puts on a new fuse before disappearing in a puff of
+smoke.
+50891: launches at the tree, exploding in a burst of water. A cannon fairy
+magically appears and puts on a new fuse before disappearing in a puff of
+smoke.
+51012: launches at the tree, but bounces off it and to the ground, hardly
+making any impression on the tree at all. A cannon fairy magically appears and
+puts on a new fuse before disappearing in a puff of smoke.
+51163: After a brief dramatic pause and drumroll sounding somewhere in the
+distance, the pink elephant launches directly at the tree, making an indistinct
+"plong" sound before vaporizing into dust.
+
+The chest falls to the ground and
+pops open.
+51340: Leo leaps at the chest with his usual squeal of delight, fainting in
+mid-air when he sees the contents of the chest and bouncing off the tree with a
+rather more distinct "plong" sound than the elephant made.
+51487: You peer fearfully into the chest. It contains...it
+contains...a...
+
+"Yes, You Too Can Find Hidden Treasure With This Handy
+Treasure Kit, Guaranteed to Work or Your Money Back."
+
+You faint, landing on
+top of Leo.
+51732: Leo flees to the southwest, where in the distance you can hear the
+"clang" of something hitting a metal pole.
+51829: You gulp down the water balloon. A few moments later you spit out a huge
+gush of water onto the ground.
+51906: Stars, galaxies, and fruits of various flavors tumble through the void.
+Quite romantic, really, and it seems someone else had the same idea; some
+restaurant-style tables are scattered near the edge so customers can take in
+the view. A sign leans heavily on a nearby pole. Roads lead off to the
+northeast, east, and southeast.
+52144: There's also a large hole you can enter to the south.
+52223: The most horrific mind-numbing terror ever created in the history of man
+is in that direction. I urge you to reconsider.
+52330: Please, think carefully about the value you put on your sanity before
+continuing.
+52396: You win, but I am exempted from responsibility for any damage this might
+cause...
+52495: Paths lead in easterly directions.
+52529: Paths lead in easterly directions. There's also a hole in the wall to
+the south you can enter.
+52596: Paths lead in easterly directions.
+52649: A supernova spins by followed by a flock of cows. An astronaut lands on
+a watermelon somewhere in the distance, plants some sort of flag, and is
+promptly flattened by a large, juicy tomato. You sail through a hail of water
+balloons, past a bunch of electric sparks that look like bad special effects,
+and...
+53071: Mysteriously, you sense you've gathered a new object along the way.
+53135: Leo says, "Nice landing."
+53177: It's too heavy.
+53201: The pole shakes and rings loudly.
+53243: The crayon falls off the pole to the ground.
+53294: A crayon falls off the pole to the ground.
+53332: Disappointingly, your tongue does not stick to the pole.
+53378: It's a tall, metal pole.
+53411: You notice a crayon situated on the top of the pole.
+53566: Really not all that tasty looking.
+53602: The lunatic plucks a few chords.
+53675: The lunatic says, "Wibble."
+53731: The lunatic turns away protectively.
+53767: It could be the one Jimi Hendrix played at Woodstock, or it could be
+your imagination.
+53833: It could be the one Jimi Hendrix played at Woodstock, or it could be
+your imagination. Large bananas float gaily by.
+53928: It is a maroon crayon.
+53945: It is a maroon crayon, one of the Magic Crayons of Destiny.
+53999: You see a maroon crayon situated on top of the pole.
+54036: You can see a maroon crayon here.
+54092: Your aim is off, and the water balloon explodes on the ground, lightly
+splashing your face.
+54164: The Holy Grail isn't something you want to throw around, even if it was
+made in Taiwan.
+54235: That won't work too well.
+54304: You can't reach it from here.
+54332: Recalling your childhood years, you gulp down the crayon, only to have
+it spit itself out again.
+54408: Magic Crayons apparently don't like being eaten.
+54456: It is a green crayon.
+54473: It is a green crayon, one of the Magic Crayons of Destiny.
+54527: Recalling your childhood years, you gulp down the crayon, only to have
+it spit itself out again.
+54603: Magic Crayons apparently don't like being eaten.
+54650: The music is quite hearable as it is.
+54715: Loud throbbing in the bass strains and stretches your ears.
+54762: The music kicks up to a faster tempo.
+54795: The music slows down a notch.
+54822: A chair with very tall legs looms before you.
+54858: An old man is perched on top of the chair.
+54901: You're really not in a good position to do that.
+54943: That's not very sporting, annihilating an unarmed man like that.
+55015: Your weapon strikes true, splattering the old man's face with water. He
+seemed to enjoy the experience, but immediately begins wiping his face dry.
+55127: The Holy Grail isn't something you want to throw around, even if it was
+made in Taiwan.
+55198: That won't work too well.
+55450: fxnbriefly does a "Thinker" sort of pose before relaxing again.
+55502: He looks like he could be someone's grandfather, albiet a very energetic
+one. Every once in a while he twiddles some device too far away for you to see.
+55616: His hand is resting on a record that is just within reach.
+55687: You manage to grab the record while the old man is distracted.
+55732: The old man's elbow is leaning on the record, holding it down.
+55784: I don't quite follow.
+55810: Your fingernail doesn't play the music on the record very well.
+55862: You move the needle along the record, and a few seconds of disco music
+erupt and die away.
+55948: The lunatic's eyes widen with fear, his hands tremble in fear, and his
+body is running with fear -- straight through the wall to the south, leaving an
+unusually large hole.
+56072: That isn't an effective tool for playing the record.
+56126: One man's market is another man's somewhat dilapidated looking corner
+with the word "Market" on a sign hanging above.
+56218: Other than that, the only indicator of such is a cart that probably held
+items once but looks pretty barren at the moment.
+56303: The pastel motif does do a bit to lighten things up, though. Roads wind
+their way west and southeast.
+56386: It's too high up for you to reach, even if you jumped.
+56435: Jammed into the frame of the cart is an official "L'il Terrorist
+Flamethrower."
+56494: There is a flamethrower (slightly charred) here.
+56534: Every kid's favorite toy, for ages 3 and up.
+56575: The only reason it hasn't been taken already seems to be that it is
+jammed solid into the frame of the cart.
+56667: The flamethrower is stuck in the frame of the cart.
+56712: The flamethrower works by saying something like "Fire flamethrower at
+haystack."
+56783: Only one is enough.
+56804: Never being one to take things literally, you actually do find a needle.
+56860: You find nothing of interest. Perhaps a more specific search would help.
+56920: A glowing force field briefly appears around the haystack with a distant
+voice saying, "This haystack protected by the Acme Anti-Arson System. Please
+call 1-800-ACME-FUN for more information. Thank you."
+57089: It's too heavy.
+57119: The bag bursts open, revealing some giraffe food. It seems the bag was
+mislabeled.
+57182: Kind of tricky with the bag closed.
+57221: It's too heavy.
+57238: The bag is already open.
+57262: The bag is ripped open. It isn't going to close.
+57309: You don't find any more prizes hidden in the bag.
+57359: Another search reveals prize at the bottom: the green crayon!
+57409: You dig through the food but find nothing.
+57450: There's too much to carry, and it really isn't needed later.
+57539: Actually tastes kind of good.
+57577: Another search reveals prize at the bottom: the green crayon!
+57625: You dig through the food but find nothing.
+57668: You are somewhat baffled by the speech, but it seems to have something
+to do with the inherent connections between moose, iguanas and electric light
+bulbs.
+57783: The dimmed light and assorted decorations here were probably done to set
+a mysterious atmosphere, but you can never tell with people wearing costumes
+depicting famous moose throughout history sitting cross-legged on the ground
+engrossed in a speech being given by a fierce-looking lady who occasionally
+beats on the large bowl in front of her for emphasis. There is an exit to the
+south.
+58048: The dimmed light and assorted decorations in here were probably done to
+set a mysterious atmosphere. The rest of the room is now abandoned, making the
+large bowl in the front of the room even more prominent.
+58330: a mauve crayon as a weapon. The crayon seems to stand out
+three-dimensionally from the rest of the picture.
+58435: There's a huge crowd and a speaker blocking your access.
+58484: This is a really big moose head. You can't budge it.
+58559: A huge moose head is hung on the wall behind the speaker.
+58611: You are somewhat baffled by the speech, but it seems to have something
+to do with the inherent connections between moose, iguanas and electric light
+bulbs.
+58724: Tempting, but not tempting enough.
+58771: The speaker takes some powder out of the bowl and sets it on the ground
+while taking out a lighted match. She puts the match to the powder, and it
+explodes. Apparently this illustrates some point in the lecture, but you can't
+fathom what.
+58955: The speaker beats on the bowl for emphasis.
+58993: The speaker makes what seems to be an important point about the inherent
+connections between moose and electric light bulbs.
+59085: The speaker makes what seems to be an important point about the inherent
+connections between iguanas and electric light bulbs.
+59269: That's not very sporting, annihilating an unarmed crowd like that.
+59331: There's a huge crowd and a speaker blocking your access.
+59385: The bowl is much larger and heavier than you are.
+59431: There's a huge crowd and a speaker blocking your access.
+59477: The powder streams between the gaps in your fingers. You need some sort
+of container.
+59550: It's only powder.
+59575: The powder immediately slips through the seams at the bottom of your
+pocket and vanishes.
+59644: That won't work as a container.
+59675: You fill the Grail with a quantity of powder.
+59720: The powder immediately slips through the seams at the bottom of your
+pocket and vanishes in the air.
+59796: You pour the powder back into the large bowl.
+59833: That won't hold the powder too well.
+59863: You put the powder into the cannon.
+59900: It is a mauve crayon.
+59917: It is a mauve crayon, one of the Magic Crayons of Destiny.
+59979: Recalling your childhood years, you gulp down the crayon, only to have
+it spit itself out again.
+60055: Magic Crayons apparently don't like being eaten.
+60122: You notice a black crayon under the rubble.
+60162: The light bulb is too high to reach.
+60197: It's a lot bigger than you are.
+60279: A secret compartment opens in the wall.
+60310: A bulky rock with writing scrawled on it is near one of the walls.
+60370: On second glance, it isn't blood but merely red crayon. It reads:
+"Insert the Magic Crayons of Destiny into the depressions to open the vault."
+60492: You notice a black crayon under the rubble that you hadn't seen before.
+60560: That won't fit.
+60585: Depressing.
+60596: Depressing. It contains
+60634: It is a black crayon.
+60651: It is a black crayon, one of the Magic Crayons of Destiny.
+60703: Recalling your childhood years, you gulp down the crayon, only to have
+it spit itself out again.
+60777: Magic Crayons apparently don't like being eaten.
+60825: A secret compartment is open.
+60905: The compartment is part of the wall.
+60941: It's a compartment in the wall.
+61030: You don't need to use the Grail for that.
+61076: There's nothing in the Grail.
+61103: You pour the powder out of the Grail, and it slowly vanishes into the
+air.
+61178: The Grail is already full with powder.
+61234: There's nothing you can fill from here.
+61283: The grail is empty.
+61306: Powder is a solid, not a liquid.
+61331: You don't need to do that, since you plan to live forever anyway.
+61386: Death. Decay. Stench. Bubblegum.
+61418: A skeleton is leaning against the wall here.
+61461: Have some respect for the dead.
+61491: Poor fellow. He has a package cradled lovingly in its arms.
+61534: The skeleton actually looks quite peaceful, now that it has been
+relieved of its package.
+61598: A package is cradled in the skeleton's arms.
+61639: It's a brown package, cradled in the skeleton's arms.
+61680: It's a brown package. There is a label on it marked "To: Balances."
+Looks like the delivery boy got sent to the wrong address.
+61794: You open the package and the wrapping disappears in a puff of smoke. You
+now have the pink cuddly toy elephant that was inside.
+62784: You can't go that way.
+62860: It is pitch dark, and you can't see a thing.
+62892: As good-looking as ever.
+62936: How do I get at the chest?
+62956: Take a look at the other things of interest near the chest.
+63000: The cannon seems to be pointed directly at the tree.
+63036: This is the puzzle that lasts the entire game.
+63068: Look at the cannon question for more information.
+63104: What do I do with the cannon?
+63128: EXAMINE THE CANNON.
+63152: You need all the pieces mentioned: a projectile, gunpowder, and
+something to light the fuse with.
+63220: This is the puzzle that lasts the entire game, so if there are still
+puzzles you haven't solved you should go back and do them now.
+63312: The flamethrower in the Market can be used to light the fuse.
+63356: The bowl in the Moose Headquarters contains gunpowder; you will need the
+Holy Grail to carry some to the cannon.
+63440: The pink elephant in the package the skeleton is holding is the
+projectile.
+63492: What should I do at the End of the World?
+63524: Read the sign.
+63536: This is not a game where you want to be cautious.
+63572: JUMP OFF THE END OF THE WORLD.
+63608: How do I get the maroon crayon?
+63632: Use your intuition here.
+63652: What have you seen the pole do before?
+63680: It shook when Leo hit it.
+63700: SHAKE THE POLE.
+63720: Is the lunatic useful for anything?
+63748: Yes.
+63752: The lunatic seems to like certain types of music.
+63788: But possibly not others.
+63808: Don't go on reading hints until you have the record.
+63848: You need to play the record for the lunatic. What are records played
+with?
+63952: Needle. What have you seen that could hide needles?
+63992: The haystack looks promising.
+64016: FIND THE NEEDLE IN THE HAYSTACK.
+64056: Then, PLAY RECORD WITH NEEDLE while at the lunatic.
+64108: How do I get the record?
+64128: You need to distract the old man with something.
+64164: Something not too violent, but forceful.
+64196: Something found near the End of the World. See the corresponding
+question if you need help with this.
+64268: THROW WATER BALLOON AT MAN. Then, TAKE RECORD.
+64324: Where do I find the Magic Crayons of Destiny?
+64360: There's no subtle way of saying these, so these are all direct answers.
+64412: Black crayon: You should see it after you examine the writing.
+64456: Maroon crayon: SHAKE THE POLE at the End of the World.
+64504: Green crayon: After doing OPEN BAG at the Market, SEARCH BAG twice.
+64564: Mauve crayon: EXAMINE THE PICTURE at the Moose Headquarters, then TAKE
+CRAYON.
+64640: How do I get rid of the crowd listening to the speaker?
+64680: You need to drive the crowd away somehow.
+64836: You need to somehow scare them with the huge moose head.
+64876: You can't reach the head from where you are.
+64908: Leo can, in a manner of speaking.
+64932: You need to use one of Leo's talents.
+64960: There are many ways to phrase this; LEO, THROW YOUR VOICE AT THE MOOSE
+HEAD will work.
+65044: What am I supposed to do at the Moose Headquarters?
+65084: Also, one decoration in particular seems interesting.
+65124: Examine the picture closely. Does anything seem unusual about it?
+(Besides it being unusual in general, of course.)
+65208: TAKE THE MAUVE CRAYON.
+65236: To do anything else you need to make the crowd and the speaker leave
+(see next question).
+65300: Check out the bowl near the front, and the decorations.
+65340: You need the powder from the bowl. There is a container elsewhere.
+65388: The container is at the Ancient Mayan Ruins.
+65424: The Holy Grail. Fill it with powder.
+65452: How do I get the flamethrower out of the cart?
+65488: Flamethrowers are useful for starting fires.
+65520: Which can in turn burn something down.
+65548: The cart, for instance.
+65568: SHOOT FLAMETHROWER AT CART or just SHOOT FLAMETHROWER.
+65632: What can I do with the haystack?
+65656: EXAMINE THE HAYSTACK.
+65684: Take what you read literally.
+65708: FIND A NEEDLE IN THE HAYSTACK.
+65754: There is information provided on the following:
+
+     How do I get at
+the chest? 
+     What do I do with the cannon? 
+     What should I do at the
+End of the World? 
+     How do I get the maroon crayon? 
+     Is the lunatic
+useful for anything? 
+     How do I get the record? 
+     Where do I find the
+Magic Crayons of Destiny? 
+     What am I supposed to do at the Moose
+Headquarters? 
+     How do I get rid of the crowd listening to the speaker? 
+  
+  How do I get the flamethrower out of the cart? 
+     What can I do with the
+haystack?
+66226: next to the words "Treasure located here!"
+66260: Tasteful pastels and neons form a concrete square around an anomalous
+growth in the form of a large tree. The odd walls and spires surrounding give
+the impression of exits in many directions.
+66392: After proceeding a short while, you are stopped at a road block that
+reads: "Closed for Construction, Use South Route."
+66480: After proceeding a short while, you are stopped at a road block that
+reads: "Closed for Construction, Use East Route."
+66568: A chest has somehow managed to lodge itself in the tree's upper
+branches.
+66620: A cannon sits nearby.
+66636: One of those old-style cannons, aimed directly at the tree; it has
+apparently been made after hours of painstaking research. For those unfamiliar
+with late 4th century Zilodaxian technology: a projectile and gunpowder go in
+the cannon, and the fuse is lit.
+66816: It's a green water balloon.
+66836: That's the edge. You can jump off it if you feel reckless today.
+66888: All the tables are the same style, circular with four legs and a smooth
+finish.
+66944: It ends abruptly, as most edges are apt to do.
+66980: "The End of the World Grill - Closed." Also underneath, in bold print:
+"No jumping off the edge! It may be hazardous to your health."
+67084: The lunatic shows the classic symptoms: wild eyes, foamy mouth, and a
+tendency to say "wibble" every once in a while. The guitar under the arm
+doesn't seem standard, but hey, whatever works.
+67220: A raised floor with an undulating and twisting crowd makes the whole
+scene defy further description.
+67288: You can only go out the way you came in.
+67316: It's a chair with very tall legs. How grandpa got up there is one of
+those mysteries shelved next to the aerosol deodorant.
+67404: Looks like a disco record.
+67424: It's a hole in the south wall.
+67448: The exits are west and southeast.
+67472: "Market." Very profound stuff. You mark a note to do a literary analysis
+sometime.
+67532: Haystacks are stacks composed of primarily hay. People also find needles
+in them (metaphorically, or course.)
+67612: It is a bag of Uncle Joe's World-Class Llama Feed, Guaranteed to Make
+Your Llama Grow Faster. Also Included in Every Bag Absolutely Free is a Green
+Crayon. The bag is closed.
+67748: It has "Each item $1" scrawled on the front. This has been crossed off
+and replaced with "Each item 50 cents" followed by "Each item 25 cents" and
+finally "Everything free." This last one seems to have brought the customers,
+because the cart looks pretty barren.
+67944: It is a bag of Uncle Joe's World-Class Llama Feed, Guaranteed to Make
+Your Llama Grow Faster. Also Included in Every Bag Absolutely Free is a Green
+Crayon. The bag is open, revealing some giraffe food.
+68104: Loads of giraffe food.
+68120: Paths lead east and west, and doors are to the north and south.
+68164: You've come across a relatively normal-looking section of town; the
+pastel motif and been traded in favor of dull browns and yellows. A building to
+the north has a sign and a door. A building to the south has a sign and a place
+that used to have a door. Paths to the east and west have neither signs nor
+doors.
+68380: "Come see the authentic Mayan ruins! Satisfaction guaranteed!" Between
+the words "the" and "authentic" you can see in fine print "slightly."
+68484: "Official Headquarters of the Secret Society of the Moose."
+68532: The only exit is south.
+68552: Pictures, certificates, and other objects of mysterious import. One
+picture in particular stands particularly prominent.
+68636: Fierce, embalmed, and very dead.
+68660: Black hair, tanned body, outrageous outfit, and eyes with a color so odd
+they can't really be described.
+68740: The people are paying painfully close attention to the lady who is
+speaking. They are also paying equal attention to the huge moose head on the
+wall, as if they are expecting that to start giving a speech, too.
+68884: Nicely carved out of marble, containing some sort of powder.
+68928: It's a dark, mysterious powder.
+68952: It's a dark, mysterious powder.
+68976: The only exit is north.
+68996: This place does have an antique flavor to it, although you never knew
+the Mayans made statues made entirely of old tires. The electric light also
+seems to detract somewhat from the atmosphere. Still, if you like piles of
+rubble this tourist spot is quite a photo opportunity. The only exit is north.
+69204: It's rubble. Not too exciting, is it?
+69236: A regular light bulb, currently on, and too high up to reach.
+69280: Big and rocklike. Also of note is the writing and the four depressions
+nearby.
+69336: The Holy Grail is supposed to grant anyone who drinks from it
+immortality, or at least that's what the movies say. You notice a "Made in
+Taiwan" stamp on the bottom.
+69456: Odor permeates this place, which seems to be the inside of a large wall.
+Shadows are positioned to look like they are ready to jump at you. The only
+exit is north.
+69572: The only exit is north.
+69616: says it all, really. Strange that it got sent here. Must be all the
+pastel motifs.
+

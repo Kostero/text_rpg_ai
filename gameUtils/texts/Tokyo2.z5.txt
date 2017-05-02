@@ -1,0 +1,1078 @@
+18669: Nothing to do!
+18704: o. You have won
+18788: It is now pitch dark in here!
+18815: I beg your pardon?
+18879: Sorry, that can't be corrected.
+18908: Think nothing of it.
+18961: As good-looking as ever.
+18993: You can hardly repeat that.
+19018: You can't begin with a comma.
+19132: I didn't understand that number.
+19161: You can't see any such thing.
+19197: You aren't holding that!
+19239: I'm not sure what "
+19291: That's not a verb I recognise.
+19330: You can't see "
+19438: Nothing to do!
+19455: There are none at all available!
+20365: Please answer yes or no.
+20391: Are you sure you want to quit?
+20436: Failed.
+20456: Restore failed.
+20473: Ok.
+20491: Save failed.
+20506: Ok.
+20550: Transcripting is already on.
+20616: Transcripting is already off.
+20674: Score notification on.
+20695: Score notification off.
+20718: You have visited:
+20746: Objects you have handled:
+20771: None.
+21157: You are carrying nothing.
+21206: Taken.
+21217: You are always self-possessed.
+21750: Dropped.
+21858: Removed.
+21997: You lack the dexterity.
+22078: Done.
+22344: Done.
+22564: Wrahn seem interested.
+23203: You can't go that way.
+23763: But it's dark.
+23780: You find nothing of interest.
+23816: But it's dark.
+23907: You find nothing of interest.
+25035: . Not bad.
+25053: That was a rhetorical question.
+25107: That seems unnecessary.
+25130: Keep your mind on the game.
+25155: What a good idea.
+25174: You smell nothing unexpected.
+25201: You hear nothing unexpected.
+25226: You taste nothing unexpected.
+25261: Keep your hands to yourself!
+25286: You feel nothing unexpected.
+25311: If you think that'll help.
+25420: Oh, don't apologise.
+25450: Quite.
+25519: You achieve nothing by this.
+25607: You wave, feeling foolish.
+25757: You are unable to.
+25776: Nothing obvious happens.
+25826: That's not a direction.
+25849: Not that way you can't.
+25881: Keep your hands to yourself.
+25906: You achieve nothing by this.
+25939: Futile.
+25968: You talk to yourself a while.
+25995: This provokes no reaction.
+26023: There is no reply.
+26042: Nothing is on sale.
+26061: Your singing is abominable.
+26095: Time passes.
+41462: That is so uncool!
+41500: Suicide would spoil the moment.
+41536: This ain't no Kung Fu movie!
+53352: Suicide is not an option.
+53535: Qohnabout 3/4 full.
+53912: Beep!
+56539: Eeeuww! Phthooey!
+56789: is a sturdy lifeboat. The
+57250: . A sturdy bench
+58217: "Kiss my arse, Hero-Boy!"
+58290: How exactly should he do that?
+58510: Scene 2:
+59149: In which direction?
+59164: Hey, this ain't "Superman!"
+59282: Ooh-la-laa!
+61744: in" or "notin
+61760: opmhas" or "hasnt
+61902: }" at end of "objectloop
+63252: Score:
+63260: Moves:
+63268: Time:
+63276: You can't go that way.
+63608: Please give one of the answers above.
+63636: [You can't "undo" what hasn't been done!]
+63672: [Can't "undo" twice in succession. Sorry!]
+63712: "Oops" can only correct a single word.
+63740: It is pitch dark, and you can't see a thing.
+63772: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+63832: You seem to want to talk to someone, but I can't see whom.
+63876: To talk to someone, try "someone, hello" or some such.
+63916: I didn't understand that sentence.
+63976: You seem to have said too little!
+64000: You can't use multiple objects with that verb.
+64036: You can only use multiple objects once on a line.
+64072: You excepted something not included anyway!
+64104: You can only do that to something animate.
+64136: That's not something you need to refer to in the course of this game.
+64184: I didn't understand the way that finished.
+64216: Sorry, you can only have one item here. Which exactly?
+64368: Are you sure you want to restart?
+64392: The game file has verified as intact.
+64420: The game file did not verify as intact, and may be corrupt.
+64464: Attempt to begin transcript failed.
+64492: Attempt to end transcript failed.
+64516: You're carrying too many things already.
+64548: You can't put something on top of itself.
+64580: You can't put something inside itself.
+64608: That would scarcely empty anything.
+64664: You can only get into something free-standing.
+64700: But you aren't in anything at the moment.
+64732: You'll have to say which compass direction to go in.
+64772: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+64868: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+64952: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+65128: This dangerous act would achieve little.
+65156: Nothing practical results from your prayer.
+65188: The dreadful truth is, this is not a dream.
+65220: Digging would achieve nothing here.
+65248: You jump on the spot, fruitlessly.
+65276: You would achieve nothing by this.
+65300: There's nothing suitable to drink here.
+65328: But there's no water here to carry.
+65356: Real adventurers do not use such language.
+65388: Violence isn't the answer to this one.
+65416: There's not enough water to swim in.
+65444: There's nothing sensible to swing here.
+65472: That would be less than courteous.
+65496: Is that the best you can think of?
+65520: You lack the nerve when it comes to the crucial moment.
+65560: I don't think much is to be achieved by that.
+65592: You aren't feeling especially drowsy.
+65678: WARNING: Your interpreter does not obey the z-machine standard. As a
+result some text and menus may not display correctly. It is recommended that
+you use a fully compatible interpreter.
+
+[Press any key]
+65832: WARNING: Your screen may not be wide enough to display some menu items
+correctly. It is recommended that you enlarge your screen size, if possible,
+before continuing.
+
+[Press any key]
+66012: {I}A fat elbow prods you in the ribs. "Hey, quit fidgeting!"
+66064: {I}A prod from your neighbour: "Hey, buddy, Julie Andrews you ain't!"
+66124: Our hero prefers to laugh in the face of danger.
+66160: {I}A fat elbow from the next seat prods you awake. You must have been
+snoring.
+66220: Tokyo smog can be thick, but not that thick!
+66372: That doesn't seem to be important in the current scene.
+66412: That doesn't seem to feature in the current shot.
+66448: The seat is hard and the popcorn is tasteless. A pair of teenagers
+play-fight in the back row -  they probably sneaked in without paying. A
+distressingly huge and sweaty bulk lowers itself into the seat next to yours,
+engulfing the armrest.
+
+This had better be worth it!
+The teenagers snort at
+some whispered wisecrack.
+
+Suddenly the lights dim. The murmur of conversation
+dies away and all eyes turn toward the screen...
+66760: WNTOWN TOKYO.
+66816: WNTOWN TOKYO.
+66842: PRESENT DAY.
+66890: Shadowed streets writhe with colour and movement. A tide of pedestrians
+flows through gorges of concrete and glass, rippling and eddying against the
+store-fronts.
+
+In the backwater of a street cafe sits an English newspaper. The
+pages lower and we catch a first glimpse of our hero, reading an editorial over
+his bowl of soup.
+67124: The man sits at an outdoor table surrounded by swirling crowds. He turns
+a page of his newspaper and takes a sip from a bowl of steaming soup.
+67224: In the middle of a nervous crowd stands our hero, directing a
+penetrating glance up the street.
+67292: Though ordinarily a man of action, our hero has no urge to leave his
+comfortable table.
+67352: Before moving, our hero pauses warily - there's something not quite
+right here...
+67412: Our hero can't move for the crowd frozen in the street.
+67452: They're just cheap extras, Rent-A-Crowd. They probably had to do their
+own makeup too. And it shows.
+67528: It is The Times (imported), but we aren't close enough to make out the
+date. The front page headline is "MISHAP AT JAPANESE DRUG LABORATORY", while a
+subheading below reads "Doku Defends Animal Testing Procedures".
+67704: The bustle of the street sounds somehow off-key today.
+67744: Oversized lettering reads "Doku Vitamin Tonic: NEW SUPER FORMULA". Below
+is pictured a surprisingly large Japanese boy holding a bottle of bright orange
+liquid. The finer print at the bottom is impossible to read from this distance.
+67928: The soup is a piquant concoction of chicken, seaweed, noodles, and
+chilli. He eats it in the Japanese way, with chopsticks for the chunky bits,
+and long noisy slurps of broth taken directly from the bowl.
+68072: With an eye on the table for more signs of shaking, our hero ventures a
+slurp of soup.
+68132: Our hero enjoys a long slurp of soup.
+68160: It's such good soup, he just can't bring himself to put it down.
+68208: A wonderful, piquant aroma wafts from our hero's soup bowl.
+68250: A huge scaly foot stands atop a pile of rubble.
+68286: Abruptly, the surface of the liquid is broken by a pulse of circular
+ripples, forming and dissolving as if rocked by some tiny tremor of the earth.
+Our hero looks up sharply, but the crowds have registered nothing unusual. The
+flier pinned to a nearby pole shivers, though not with the breeze.
+68492: Suddenly the table jerks, upsetting a bottle of soy sauce and sending it
+rolling over the edge. The flier drops to the ground. The crowd pauses for a
+moment, then moves on.
+68614: This time the quake is obvious, and accompanied by a dull rumble.
+Abandoning his newspaper and soup, our man joins the hesitant crowd for a
+better look up the street.
+68732: The ground shakes again, with the sound of crumbling masonry. Heads
+lift, necks twist, and all eyes come to rest at the end of the street. A
+stunned silence descends on the frozen crowd.
+
+What was a grand hotel just
+seconds before is now a pile of twisted rubble, surmounted by a huge and scaly
+foot!
+68944: A deathly hush has descended. All eyes are drawn towards the monstrous
+foot atop the ruins of a nearby building.
+69024: The crowd stands frozen, immobile before the huge taloned foot.
+69070: {I}A podgy elbow digs you in the ribs: "Hey get a load of those special
+effects! That foot is awesome!". A snigger erupts behind you.
+69174: Unable to avert his gaze any longer, he finally glances at the huge
+foot...
+69232: Our hero stares open-mouthed at three impossibly massive toes, scaled
+and reptilian, each ending in a cruel claw the size of a canoe. Slowly his eyes
+follow the thick leg skyward, coming to rest at last on the obscene and
+monstrous visage of...
+69402: The crowd erupts in mindless hysteria. Panicked pedestrians scatter;
+some trip and are crushed ruthlessly underfoot.
+69492: Downtown has been transformed into a killing field. Panicked pedestrians
+grapple and claw at each other as they attempt to flee. Children wail as they
+are dragged along by their parents. The streets are full of broken glass and
+rubble, while Chickzilla's bulk blots out the sun.
+69686: Our hero sits fumbling with the controls of an idling helicopter.
+69736: Our hero finds his way blocked at every turn by overacting extras.
+Progress is impossible. There is no escape!
+69814: Our hero is dwarfed by the mammoth mountain of fearsome feathers that is
+Chickzilla!
+69932: Suddenly Chickzilla seems to notice the little helicopter.
+69974: The monster stares curiously at the helicopter.
+70010: Chickzilla starts advancing slowly towards the helicopter.
+70054: Chickzilla is coming closer every second!
+70086: If our hero doesn't get airborne soon he's going to be chicken-food!
+70138: Chickzilla advances slowly toward the helicopter.
+70176: Chickzilla is almost standing on the helicopter!
+70212: A huge and beady eye suddenly appears in the helicopter windscreen.
+70260: With a start, Chickzilla recognises her nemesis.
+70296: The monster rears up on one foot...
+70324: Too late - Chickzilla has made mincemeat of our hero, helicopter and
+all!
+70378: Lazily the monster steps across the road, destroying another building.
+70430: Chickzilla gives her back end a slight wriggle and scratches deep
+trenches in the street. Severed water pipes hiss and spray.
+70520: Casually the monster devours a fleeing pedestrian.
+70556: Another building crumbles under a huge scaly foot.
+70592: A crazed pedestrian runs past shrieking "Abunai! Toori niku! Toori
+niku!"
+70696: Chickzilla lets out a deafening "Bwaark!", rattling the windows of
+nearby buildings.
+70758: With a thrust of the beak Chickzilla shatters a high window and plucks a
+thrashing office worker from inside.
+70836: Chickzilla squats low for a moment and her eyes become distant. Then
+suddenly she leaps up with a triumphant cackle, revealing a blimp- sized egg
+tottering atop the rubble.
+
+Slowly the huge egg starts rolling, scraping
+buildings on either side, down the street towards our hero!
+
+>
+71104: At the last second, the egg hits a lump of debris and bounces overhead,
+missing our hero by millimetres. It rolls along to the harbour, where it
+disappears in a spray of water.
+71228: Bestiality does not make good cinema.
+71256: A sudden rush of testosterone momentarily overcomes our hero's good
+sense. With a whoop he leaps and scrabbles at the scaley leg of the monster.
+Chickzilla gives him scornful glance as she shakes him off, to fall back into
+the mindless crowd.
+71424: Suddenly Chickzilla seems to notice our hero among the throng. She casts
+a beady eye upon him, but just as abruptly becomes distracted.
+71520: Though the sight of such enormous breasts almost overwhelms our hero, he
+draws the line at smooching this particular chickadee!
+71608: Our hero is captivated. He can't take his eyes from her smooth features.
+The arch of her brow, the swell of her cheek, the curve of her neck. He
+hungrily eyes the delicious roll of her hips, the pressure of firm flesh aching
+to escape the black leather jump-suit.
+71792: Part of a shredded poster blows past, showing a bottle of bright orange
+liquid and the words "oku Super Growth Formul", and "hree special activator
+ingredi". With another gust of wind it disappears in the chaos.
+71944: Suddenly a small helicopter careens earthward, bouncing to a stop just
+across the street. The helmeted pilot and a breathless cameraman tumble out,
+leaving the rotors spinning in readiness for a quick departure.
+72090: Removing the helmet with a flourish, the helicopter pilot shakes out her
+long dark hair! Our hero watches spellbound from across the street as the
+beautiful woman takes a microphone and turns to face the camera. She is
+perfectly composed, despite the chaos surrounding her.
+72282: Across the street the beautiful newscaster continues taping her
+broadcast.
+72336: Having finished her report, the woman prepares to reboard her
+helicopter. Taking one last look around, her roving eyes lock with those of our
+hero!
+72440: Cheeks flush in the heat of that gaze.
+
+All is silent, but for the
+bass-drum beat of twin hearts and the frenzied sawing of two dozen impassioned
+violins.
+
+A pair of pouting lips parts.
+
+Stars explode and snowy doves flap
+across the face of the moon.
+72620: Suddenly the world comes crashing in again, all sound and fury. A huge
+beak swoops down to snatch away the goddess and her cameraman. The crowd
+scatters, leaving our hero stunned and alone near the empty helicopter.
+72772: But our hero can't reach her through the panicked crowd.
+72812: But she is way over on the other side of the street: hundreds of
+panic-stricken Orientals lie between!
+72884: A quick glance reveals a black leather jump-suit, goggles, white silk
+scarf, and a helmet. Just the usual. Although there do seem to be some
+interesting bulges under that skin-tight black leather...
+73088: The cameraman isn't really our hero's type.
+73120: A small but powerful helicopter crouches across the street, it's rotors
+spinning in readiness.
+73188: A fuel gauge is the only thing recognisable among the gadgets and dials
+inside the cockpit. A joystick with a red button sticks up between our hero's
+legs.
+73346: " logo on the side. The door is open, the rotors are spinning, and some
+sort of metal hook is retracted up underneath.
+73432: It would be suicide to leave the safety of the cockpit!
+73472: Jaw set, our hero launches himself out of the helicopter. But this is
+just what Chickzilla has been waiting for: one little side-step and suddenly
+there is nothing for our hero to land on. The last thing that goes through his
+mind as he hits the pavement far below, is his backside.
+73668: Launching himself from the helicopter, our hero tumbles into the vat
+below.
+73724: He drowns in a chemical-induced agony. Not a pretty scene.
+73768: Moments later he explodes out again a thousand times larger than before!
+Chickzilla looks up from her destruction, turns deathly pale and drops an egg.
+She shrieks, turns turkey, and flutters back to disappear into the bay from
+where she came, dragging the beautiful reporter to a watery grave. Our hero
+gives a studly smirk. Shifting his weight, he inadvertently topples a building.
+He looks thoughtfully at the rubble, then experimentally pushes another. As it
+crumbles, a silly smile spreads over his face. He starts stomping other
+structures, slowly at first, but with increasing enthusiasm. As the credits
+roll, out hero is dancing, kicking, and jumping, merrily flattening Tokyo.
+74248: Heros don't gate-crash private functions - that's very bad form.
+74296: Some of those animals don't look too friendly!
+74332: This is no time for a swim, especially when our hero has no trunks!
+74380: If you can't beat 'em, join 'em! Hero and Love Interest splat on the
+ground like a pair of ripe pomegranates. Chickzilla raises her head high and
+lets out a deafening cackle - the world is now at her mercy!
+74528: The words are lost in the whine of the helicopter.
+74564: Little can be heard over the whine of the helicopter.
+74604: Our hero can't reach the helicopter: a panicked crowd blocks the way.
+74656: Our hero leaps into the helicopter cockpit and fumbles with the safety
+belt.
+74708: If only he could figure out how to fly this thing...
+74748: Fuel continues to pour out of a bullet hole in the side of the
+helicopter.
+74870: The fuel gauge, though nearly full, has started to drop slowly.
+74918: The fuel gauge shows 3/4 and falling...
+74952: The fuel gauge edges down over 1/2.
+74980: The fuel gauge now shows only 1/4 full!
+75012: A red light on the fuel gauge starts blinking.
+75046: The red light on the fuel gauge blinks faster!
+75082: Somewhere an alarm starts beeping in time with the blinking fuel light.
+75134: BEEP!
+
+The engine gives a splutter.
+75168: BEEP BEEP BEEP!
+
+The helicopter coughs and jerks, but somehow keeps
+running.
+75232: BEEP BEEP BEEP BEEP! The buzzer and fuel light are going crazy!
+75288: BEEP BEEP BEEP BEEP BEEP! The light on the fuel gauge bursts apart with
+a tiny explosion. The helicopter engine gives one last cough and stops
+completely. Our hero struggles frantically with the joystick as the nose drops
+and the whole aircraft suddenly plummets earthward.
+
+A fireball lights up the
+Tokyo skyline, while in the distance Chickzilla can be heard cackling in
+triumph.
+75566: {I}Slowly coming to your senses, you realise that your sweaty neighbour
+has been clutching at your arm in terror. You hurridly fend off the unwanted
+attention, but not before an explosion of giggles from the back row announces
+that somebody noticed.
+75748: The joystick emerges from the floor between our hero's feet. As he grips
+it with one hand, his thumb lies over a red button.
+75836: The helicopter lurches but remains firmly rooted to the ground.
+75880: Like a falcon unmasked, the helicopter leaps into the air. Wrestling the
+controls, our perspiring hero careens skyward, only narrowly avoiding the
+snatching of Chickzilla's deadly beak.
+
+As he passes, our hero glimpses the
+beautiful reporter, clinging precariously to the monster's dangling comb! Then
+she is gone, left far below as he soars into the open skies...
+76140: The button is labelled "Grapple".
+76168: A whirr and an insubstantial clunk can be heard from beneath the
+helicopter.
+76220: A flashing red light warns our hero not to fly any higher.
+76260: There doesn't seem to be anything interesting down there.
+76300: The endless city of Tokyo stretches out below. To the
+76382: With a touch of the joystick the helicopter thunders through the sky...
+76436: The helicopter hangs in the sky high above downtown. The endless city of
+Tokyo stretches to the horizon in all directions
+76520: , but a few major landmarks are visible. To the north-east lies a patch
+of green, while sunlight shimmers on the ocean to the south-east. The buildings
+to the south are particularly grand, but those to the west are not, and the
+smog is thickest to the north-west. Below, Chickzilla continues to crush
+citizens and crumble buildings.
+
+It has taken our hero just seconds to master
+control of the helicopter. He can now guide it remarkably smoothly in any
+compass direction, as well as up and down.
+76904: From a distance, Chickzilla looks much more realistic. But now the city
+looks to be made from cardboard and balsa.
+76984: Chickzilla is too far away for that.
+77012: The helicopter dips and dives just above the huge head of Chickzilla.
+The whirr of the rotors seems to enrage her, and she snaps at it with her
+massive beak. With every movement, the beautiful reporter loses more of her
+precarious hold on the monster's comb!
+77192: The beautiful heroine falls towards her doom!
+77224: Our hero seems paralysed by the sight of the woman falling to her death!
+77276: Chickzilla would surely catch our hero if he flew any closer.
+77320: From above, Chickzilla looks much more realistic. Unfortunately the city
+looks almost like it is made of cardboard, cut out and glued together.
+77420: This has no effect, however, on the grim visage of our hero: a close-up
+reveals the beautiful reporter dangling desperately from the monsters rubbery
+comb!
+77528: An expanse of striped canvas blinds the monster, rendering her immobile.
+77580: Chickzilla darts at the helicopter, but it is too high.
+77620: Chickzilla gives her back end a slight wriggle and scratches at the
+street with one massive foot.
+77688: Chickzilla plucks a thrashing victim from the streets below, and
+swallows him in one gulp.
+77752: A flick of one massive foot shatters another building.
+77792: A dark sedan appears in the street below. It glides to a stop and two
+people emerge. The man is lean and dark-haired, while the woman has light
+auburn hair to her shoulders. Both wear dark overcoats and reflective
+sunglasses. They gaze a minute at Chickzilla, before engaging in a heated
+discussion. The words "alien conspiracy" drift up from the man, while the woman
+mutters "some reasonable explanation". Just then Chickzilla stomps them both
+into bloody smears.
+78120: Since meeting the burning gaze of his leather-clad reporter, our hero
+has eyes for no other.
+78184: Far below, atop a hotel tower, a crystal swimming pool blinks in the
+sunlight. Off to the north, a monstrous chicken is tumbling buildings and
+ripping up pavements.
+78300: The helicopter hovers just above the top of the hotel tower.
+78344: Wind from the rotors fans waves on the swimming pool and buffets the
+canvas marquee erected next to it. A few guests in formal dress emerge from the
+tent to wave their fists angrily.
+78468: Angry guests mill about among the overturned tables where their marquee
+formerly stood.
+78528: A mass of canvas dangles limply beneath the helicopter.
+78568: A mass of striped canvas, the remains of a marquee, hangs below the
+helicopter. One particularly tenacious party guest still clings to a tattered
+corner.
+78676: The hotel has obviously been booked out for some special occasion, as a
+huge striped tent has been set up atop the hotel roof next to the swimming
+pool.
+78780: There's a whirr and a clunk and a huge ripping noise. The tattered
+remains of the marquee dangle below the helicopter.
+78862: The huge mass of striped canvas drifts gently down, fanning out like a
+parachute. Miraculously it settles right over the head of the beastly
+bird!
+
+Blindfolded, Chickzilla freezes. She stands stock still as an eerie
+silence grows. The survivors in the streets below turn to look upward, where a
+single high-pitched scream cuts through the atmosphere...
+
+The beautiful
+reporter has finally lost her grip and is falling (in slow-motion) toward the
+hard grey pavement below!
+79196: A gust of wind catches the falling marquee. It drifts earthward and is
+lost.
+
+A commotion breaks out on the roof below, centred around an intimidating
+woman clutching a chihuahua. She has cornered the hotel manager and proceeds to
+berate him with indignant getures in the direction of the helicopter.
+79404: A gust of wind catches the falling marquee. It drifts earthward and is
+lost.
+79460: The large woman clutches her chihuahua, oblivious to all but her
+unfortunate audience.
+79520: A woman clutching a tiny dog stands berating the hotel manager.
+79566: A tiny chihuahua dangles by the scruff of its neck from the grappling
+hand, yapping and snarling.
+79636: The woman has bailed the hotel manager up in a corner and is showing no
+mercy. Her little bundle of joy, a tiny chihuahua, stares up at the helicopter,
+snarling.
+79748: The tiny chihuahua snarls menacingly and gives a high-pitched yap.
+79796: The wildly swinging grapple-arm narrowly misses grasping the chihuahua,
+which snarls and yaps even more violently.
+79876: The wildly swinging grapple-arm snatches closed on the tiny chihuahua,
+whisking it from the grasp of the shrieking Madame. She faints in the direction
+of the nearby hotel manager, who deftly steps aside.
+80020: The snarling chihuahua falls towards the monster like a tiny bomb.
+Chickzilla bats it harmlessly aside with one wing and glares contemptuously at
+the helicopter that bobs just out of reach.
+80152: The snarling chihuahua lands safely atop the hotel. The guests scatter
+from the snarling bundle of malice; all except its adoring owner who runs
+forward to catch it up in a stifling embrace. Moving quickly, she cuts off the
+hotelier's escape and continues badgering him with many angry gestures at the
+helicopter.
+80368: The tiny chihuahua lands safely aboard the ship and promptly attaches
+itself to the ankle of a seaman. Another sailor tries to dislodge it by
+flailing wildly with an oar, but only succeeds in hitting everyone else.
+Finally a lucky sweep collects the snarling bundle of hate and sends it arcing
+across the water like a golf ball, to disappear in the distance with a silent
+splash.
+80628: The snarling chihuahua falls into the bay and disappears. Wrathful
+bubbles continue to surface for several minutes.
+80708: The snarling chihuahua lands safely among the bewildered zoo animals. In
+seconds the African Collection lies slaughtered, and only a quick-thinking
+zoo-keeper with a dart gun saves the Reptiles Of The World.
+80856: The snarling chihuahua drops soundlessly into the vat. Seconds later,
+the orange liquid begins to boil furiously.
+
+A huge paw emerges from the
+maelstrom and is drawn back.
+
+A massive ear appears and resubmerges.
+
+The
+ripples die away and all is quiet. Suddenly a gigantic chihuahua explodes from
+the vat! It lets out a deep rumbling snarl, the force of which sends the
+helicopter spinning across town...
+81142: (in the helicopter)
+Our hero regains control to find himself hovering
+within striking range of Chickzilla! But she cares little for him now - she has
+been challenged! With a deafening screech she lunges at the monstrous
+chihuahua.
+
+The beautiful reporter is tossed to one side, and tumbles (in
+slow-motion) toward the hard grey pavement far far below!
+81392: The snarling chihuahua drops like a stone into the city below.
+81436: A patch of green far below indicates Ueno Park with its zoo. To the
+south-west Chickzilla continues to demolish downtown Tokyo.
+81528: Miscellaneous animals cower in terror from the helicopter.
+81608: One of the most dangerous animals in the zoo, the ravenous bird blatter
+beast comes all the way from the Transvaal.
+81688: The grue is shrouded in a long black coat, dark shades, and plenty of
+zinc sunscreen.
+81872: with a casual flick of her beak. If only it had been bigger it might
+have been a match for her.
+82228: There is a rumble and a bubble, but it never resurfaces.
+82268: The liquid bubbles and rumbles violently as a massively enlarged leg
+appears briefly above the surface. Suddenly the liquid gives an almighty belch
+as a hideously deformed shape is spat out. It lies quivering for a moment
+before dissolving away down a sewer drain.
+82448: The liquid bubbles and rumbles violently as first leg and then a head,
+both massively enlarged, appears briefly above the surface. Suddenly the liquid
+gives an almighty belch as a hideously deformed shape is spat out. It lies
+quivering for a moment before exploding in chunks of raw flesh.
+82732: But that's outside the helicopter, out of reach.
+82988: nibbles delicately at the finger foods. Alas! The salmon dip has turned!
+The
+83216: tumbles into the vat with a wet smack. The liquid bubbles violently,
+then goes perfectly still.
+
+Suddenly a massive
+83300: explodes out of the vat. Towering over the city, it blinks and looks
+around. Its dewy eyes meet those of Chickzilla and for a moment time seems to
+stand still. Then Chickzilla screeches and attacks! Tactfully, the camera looks
+away during several minutes of intense sound effects, and when it turns back
+Chickzilla is once again demolishing downtown, a mountain of bloodstained fluff
+to one side.
+83616: But that's outside the helicopter, out of reach.
+83684: He seems surprised to find he has unwittingly become a movie star. But
+he's sure going to make the most of the opportunity.
+83772: Really, he's not our hero's type. In fact, poor Cornbred probably isn't
+anybody's type.
+83840: A whirr and a clunk, and Cornbred struggles in the grip of a metal hand.
+83892: falls through the air, looking mildly annoyed. He flaps his arms
+briskly, but it doesn't seem to help much.
+84058: Centigrade sticks in the throat: Chickzilla is choking! She lurches
+around for a several agonising minutes before finally toppling, dead, on the
+rubble-strewn street.
+
+Alas! The beautiful reporter has been crushed beneath
+the dead monster, but out of its gaping beak crawls Cornbred, unharmed and
+triumphant!
+84276: He lands safely amid the startled partygoers, who, on recognising him,
+promptly drown him in the pool.
+84348: He lands safely aboard the ship, and chases the crew twice around the
+deck before they manage to drive him overboard with a boat-hook.
+84444: Just before he hits the ocean a huge firey hand emerges, snatches him,
+and drags him under the waves.
+84516: He lands safely among the other animals, which proceed to kill him in
+their terror.
+84576: He lands in the vat with a plop, and disappears below the surface.
+84624: Presently, he bobs to the surface, places a clothes-peg on his nose, and
+gives an astounding performance of water ballet. Emerging to thunderous
+applause, he bows gracefully left and right before sloping off into the city,
+leaving a trail of damp footprints.
+84804: As he lands in the vat the surface goes deathly still.
+
+Suddenly a huge
+Cornbred explodes out of the vat. Towering over the city, he shakes himself off
+and looks around. His eyes meet those of Chickzilla and there is a moment of
+such tension that time almost seems to hiccup to a stop. Then a crafty smile
+steals over Cornbred's gigantic visage. Chickzilla cackles, and together they
+continue kicking over Tokyo. Almost as an afterthought Cornbred reaches over
+and casually flicks our hero's helicopter out of the sky. Looks like it's
+curtains for Tokyo.
+85196: Still flapping, he disappears into the city below. He reappears seconds
+later, bouncing up to do a goodbye triple-flip, before trampolining off towards
+solo stardom.
+85312: But he's outside the helicopter!
+85336: The glittering waters of Tokyo Bay, dotted with ships, stretch out to
+the south and east, while buildings crowd the shores. A trail of destruction
+leads north-west.
+85452: That way lies the Pacific - no place for a helicopter with limited fuel!
+85504: Wind from the rotors kicks up a ring of spray. The helicopter hovers
+just above a small ship, on which
+85576: can be seen two large crates. The bow of a small life boat protrudes
+from between the crates. Several seamen gesture angrily at the helicopter.
+85676: remains one large crate, and nestled beside it a small life boat. The
+crew shout and curse our hero, shaking their fists.
+85760: crew are getting ugly. Though they throw deadly squid meat at our hero,
+it glances harmlessly off the helicopter.
+85840: The ship is much too big to do anything with.
+85872: A large crate swings leisurely beneath the helicopter.
+85912: Bold lettering proclaims: "Noodles, Wun Tun".
+85976: The falling crate smashes open on the head of Chickzilla. For a moment
+she wobbles in place and it looks almost as if she will fall. But then her eyes
+clear and she glares up at the helicopter hovering just out of reach above her.
+86136: The crate falls, narrowly missing the rooftop, to crash open on the
+street below.
+86196: The crate is safely deposited back aboard the ship.
+86232: The falling crate disappears into the ocean with a splash.
+86272: The edgy animals attack, splintering the crate and scattering noodles
+over a wide radius.
+86336: The crate disappears into the vat with a smack.
+86420: The falling crate smashes open on the city streets below.
+86460: A small boat dangles beneath the helicopter.
+86494: A leaky lifeboat bobs in the centre of the swimming pool.
+86538: A small lifeboat sits on the ship.
+86568: It is full of sparkling pool water.
+86640: . The helicopter's grapple hook firmly grasps the bench which
+86684: With a clink the grappling hand grasps the rowing bench in the middle of
+the lifeboat.
+86744: The spinning life boat lands upside-down on Chickzilla's head, covering
+her eyes. For a moment she seems paralysed, but then with a shake she sends the
+boat crashing to the street below.
+86876: The lifeboat lands directly in the centre of the swimming pool and
+promptly fills with sparkling water.
+86948: The lifeboat thuds back aboard the ship, flattening an unlucky sailor.
+87000: The lifeboat smacks into the water, bobs for a second, and then sinks
+like a stone.
+87060: The lifeboat lands upside-down near a giant tortoise, who, mistaking it
+for another giant tortoise, tries to mate with it. Much to his disappointment
+the hull collapses under his weight.
+87192: The boat drops into the bubbling vat, overturns, and disappears.
+87268: The lifeboat smashes to pieces on the city streets.
+87304: A thick layer of smog, belched from a thousand chimneys, hazes the
+industrial zone below the bobbing helicopter. Chickzilla continues her rampage
+to the south-east.
+87420: cough and wriggle. The grapple loses it's grip, and the
+87492: Three large tanks stand among the maze of pipes, drains, and chimneys
+that form the "Doku Pharmaceuticals" factory below. Noxious fumes of
+87636: liquid churns and bubbles in the vat below. Signs on the surrounding
+fence warn:
+
+ DANGER!
+ Raw Unactivated Growth Hormone
+ May Cause Itching or
+Death 
+ Keep Clear
+87908: This is a particularly shabby section of the city. Shadowy forms can be
+seen skulking in the narrow alleys far below, and a giant chicken cackles from
+the east.
+88020: No way! Our hero isn't stupid enough to go down there again!
+88064: It looks dangerous down there. For an instant our hero hesitates: should
+he really go down there? (Y/N) >
+88144: With a thrust of the joystick the helicopter drops to skim the
+roof-tops.
+
+Abruptly, the movement in the alleys increases - shouts and bullets
+fill the air. Our hero pulls up sharply, but too late - a bullet has holed the
+fuel tank! A stream of liquid pours from the bullet hole, and the fuel gauge
+begins to drop more rapidly.
+88376: Tokyo stretches endlessly to the hazy horizons. Chickzilla's head can be
+seen bobbing above the rooftops to the north-east. The helicopter hovers over a
+wide roof in which is a small skylight.
+
+{I}Suddenly the soundtrack swells and
+the helicopter noise drowns out the background music. You and your sweaty
+neighbour swap questioning glances in the half-light.
+88632: Through the small skylight come irregular flashes of light.
+88674: With a whirr the grapple arm drops, shattering the skylight and
+disappearing into the darkness below.
+88748: You look up with a start as shards of broken glass fall into your
+popcorn. A mechanical hand dangles through a previously unnoticed skylight in
+the roof of the cinema. It drops to hover just overhead, and makes an
+ineffectual snatch at your cowering neighbour. Snatching a second time it
+manages to grab you by the back of your collar, and before you can even demand
+to see the manager you are whisked up and out into the sky.
+
+The city spreads
+out like a blanket before you as you are carried along beneath a small black
+helicopter. Flying into into a particularly smoggy part of the city, you dangle
+for a moment above a huge vat in which
+89186: liquid bubbles. But the helicopter pilot appears to change his mind, and
+whisks you off again.
+
+You start to get an uncomfortable feeling underneath the
+popcorn in the bottom of your stomach: up ahead a hugely overgrown chicken is
+tearing up the city. The helicopter halts just above the watchful fowl and
+suddenly the metal hand holds you no longer. As you fall you can't help feeling
+that there is something not quite fair in all of this. At the edge of your
+hearing you almost think you can make out the sniggering of a couple of
+teenagers and the wondering gasp of an overweight slob.
+
+This is not exactly
+how you thought the movie would end. In fact, as surprise endings go it's
+pretty impressive.
+
+You never hit the ground. Chickzilla eats you.
+89712: Thrusting the joystick, our hero tips his helicopter into a steep dive.
+Using all the forces of gravity and whining rotors he drives the screaming
+machine groundward at maximum speed. He reaches the falling beauty just metres
+above the pavement...
+89884: The ground is approaching FAST!
+89912: This close to the ground, the only way is up.
+89944: Somehow she still manages to look alluring, even as she plummets to her
+death.
+89998: The woman continues to plummet earthward.
+90030: Too late! There is a sickening thud as the woman splatters over the
+downtown pavement.
+90096: Disaster! The marquee has slipped, and Chickzilla is freed from her
+paralysis.
+90156: Meanwhile Chickzilla has disposed of her giant adversary, and turns her
+attention to the helicopter hovering helplessly nearby.
+90244: A huge wing darts out, batting the helicopter against the side of a
+building - it explodes in a ball of flame, incinerating our hero.
+
+Chickzilla
+raises her beak to the sky and cackles in triumph. The world is now at her
+mercy!
+90404: A whirr and a clunk and the beautiful reporter is snatched from her doom
+by the closing of a metal hand!
+
+Another wrench of the joystick brings the
+helicopter shrieking and grinding out of its desperate dive, and catapults it
+back into the sky. But wait -
+90734: lunges at the helicopter. Our hero gets a close-up view of a razor-sharp
+beak as it snatches for him...
+
+>
+90816: It missed! The bird missed! The helicopter spins out of control.
+Shearing sideways, the rotors slice neatly through the neck of the monster.
+Hero and reporter are flung from the wreck, crashing through the skylight of a
+nearby building.
+
+Chickzilla's head thumps to the ground, but the headless body
+doesn't remain standing still for long. Spouting blood, it runs blindly among
+the buildings, unwittingly retracing its own steps back to the harbour.
+Crashing into the water, it stirs up seaweed, capsizes a ship laden with
+noodles, and sends a dockside chilli warehouse sliding into the sea. Its
+thrashing and churning heats the waters almost to boiling point, and as the
+death-throes gradually subside a wonderful, piquant aroma slowly spreads across
+the city...
+91348: It is sunset. Our hero and his beautiful companion stand side-by-side on
+an amber-bathed rooftop overlooking the bay. Their clothes are alluringly torn,
+and feathers still cling to their hair. Nearby, a neon sign buzzes lazily over
+the distant shouts of excited children as they run to fill bowls from the edge
+of the harbour.
+
+As the ruby sun slowly sinks they lean closer.
+91612: A glorious sunset blazes out over Tokyo Bay. The rooftop is bathed in
+shades of red and gold, while a neon sign flashes green.
+91794: From the harbour a familiar fragrance wafts over the city.
+
+{I}From your
+obese neighbour a flagrant odour wafts through the theatre.
+91896: Why go somewhere else when everything's perfect right here?
+91940: The neon sign flashes "Katakunai Pillow Factory". Other signs light up
+the surrounding buildings.
+92058: ' Us", "Makoto's Broken Glass Emporium", and "Atshushi's Pets -
+Specialists in Hedgehogs and Porcupines".
+92144: Wisps of downy feathers cling to the couple, though it is hard to say
+whether they originate from the vanquished monster or from the pillow storeroom
+in which they landed.
+92260: The woman stands close, almost but not quite touching our hero. She
+gazes dreamily out into the setting sun.
+92340: Proximity, and the light of the setting sun, make her lovelier than
+ever. Our hero feels a great swelling inside. This must be love...
+92436: A solid slap on the face restores some manners to our hero.
+92480: There's only room in this movie for one star. A quick shove sends her
+shrieking to the streets far, far below. And there's time for one more studly
+pose before the credits roll...
+92608: The gentle press of a slender finger seals our hero's lips. Now is not a
+time for idle chatter.
+92676: Violins soar as lips meet. The focus softens as the last light of day
+leaves the sky. One by one, lights begin to shine out from the city below,
+mirroring those in the heavens above...
+92806: It is sunset. Our hero and Cornbred Centigrade stand side-by-side on an
+amber-bathed rooftop overlooking the bay.
+
+As the ruby sun slowly sinks,
+Cornbred gloats mercilessly about killing the monster. "What's the matter,
+Hero-Boy? Can't handle a little competition?"
+93008: A glorious sunset blazes out over Tokyo Bay. The rooftop is bathed in
+shades of red and gold.
+93076: Maybe suicide is not such a bad option after all. A quick leap, and
+suddenly it's done. The pavement looks strangely inviting as it rushes up to
+meet our hero...
+93192: There doesn't seem to be any way off the rooftop.
+93228: Cornbred slouches at the roof-edge, smirking. He's making the most of
+stealing the limelight.
+93296: How could you even THINK of that!?
+93370: centigrade plunge to his doom on the hard street below. Somehow it seems
+a fit ending.
+93432: Not on your life! That way madness lies.
+93464: Smooth of face and square of jaw, our man is set apart by his
+penetrating blue eyes and keen intellect. He is clearly a force to be reckoned
+with.
+93572: A true hero doesn't need to cart useless junk around wherever he goes.
+93676: {I}You can't help wondering why you bought this soggy mess, let alone
+the "Monster Tub" size.
+93748: {I}A barrage of stony glances shoots your way. The teenagers in the back
+row snigger.
+93812: {I}A heavy hand grabs your shoulder from behind, and you are blinded by
+a torch shone into your eyes. The burly usher escorts you from the premises,
+much to the amusement of the teenagers in the back row.
+94056: Our man is equipped with strong hands, a nimble mind, and an oversized
+jaw. What more can a hero need?
+94130: {I}As the lights come back on and the audience gets up to leave you
+can't help wondering at the strange ending. Why couldn't the hero save his love
+interest and conquer Chickzilla?
+
+Maybe if you sat through the next showing it
+would all become clear.
+
+Or maybe next time around things would go
+differently...
+94356: {I}The light outside is dazzling.
+
+A surly usher in a shiny waistcoat
+pretends to smile as you walk past,
+
+down the stairs,
+
+and back into the real
+world...
+94480: {I}Your sleazy advances are ignored by the blubbery bulk in the next
+seat. It doesn't look like you'll score tonight.
+95336: The End.
+95986: No chickens were harmed in the creation of this game.
+96034: MEANWHILE...
+
+Not far away something disturbs the calm waters of Tokyo
+Bay.
+Slowly, the tip of an enormous pink snout emerges to sniff the air.
+
+It
+smells like Party Time!
+
+
+DON'T MISS:
+96564: How much more ham can you take?!
+96588: Coming soon to a screen near you!
+96880: PORKZILLA: How much more ham can you take?!
+96922: Coming soon to a screen near you!
+97016: Our hero's grasp of the Japanese language is obviously poor!
+97060: Maybe you could be a little more specific.
+97092: Maybe you could be a little more specific.
+97124: Just because our hero can fly this thing doesn't mean he can land it!
+97172: {I}If you wanted porn' you should have gone next door to "Dierdre Does
+Dalmations".
+97240: {I}Maybe it's time you went on a diet. This popcorn isn't helping
+matters you know...
+97308: That can't be done, at least not here.
+97336: That's not something a true hero would do.
+97368: This game is permanently set in "verbose" mode.
+97404: Our hero would laugh in the face of danger - "Haha!", only it's not
+cool.
+97668: 1] is back!
+And it's bigger than ever!
+Featuring all new scenes rescued
+from the cutting room floor! Don't miss:
+
+
+   {B}DOWNTOWN TOKYO. PRESENT DAY. 
+
+ Release II: THE DIRECTOR'S CUT{B}
+97850: The critics praised Release I:
+"Small, but perfectly formed - and it's
+getting a perfect 10 from me" - Jane Kerr
+"Manages to firmly entertain, as well
+as break new ground" - Lucian Paul Smith
+"Tokyo has some surprises up its
+sleeve" - Paul O'Brian
+"'Sgood stuff" - Dan Shiovitz
+"Very clever... The pacing
+is excellent" - bones
+"Yay!" - Michael Straight
+"Cheesy, silly" - Suzanne
+Skinner
+"Short, cute... Very witty" - Mark Musante
+"Ah, now I _like_ this!" -
+Roger Burton West
+"My favourite in the competition" - Stephen
+Griffiths
+"Satisfyingly satirical" - Carl Muckenhoupt
+"A hell of a lot of
+fun... Features what may well be the best XYZZY response ever" - Adam Cadre
+99218: grove, Shona Lamoureaux, Gillian Dennis, Michael Kinyon, and Mark The
+Mark for beta-testing;
+
+Evin Robertson, Stephen Granade, Cody Sandifer, Ben
+Hines, and Neil Cerutti for bug reports;
+
+all those involved in Competition 98,
+but especially it's organiser, David Dyte, and those who donated prizes;
+
+and,
+of course, Graham Nelson for Inform.
+
+Without their efforts, this game would
+have been even worse than it already is.
+99618: om.
+
+Please note that this game contains no bugs, only "features".
+Nevertheless, "feature" reports will be gratefully received, along with
+comments, critisms, fan mail, lacy underwear, etc.
+99756: Release 1 / Serial number 980930
+- Version released for the 1998
+Interactive Fiction Competition.
+99838: "The Director's Cut"
+- Minor bug fixes, additions to the info menu.
+-
+Lots of new things to do, especially in Scene 2.
+99932: This game is distributed as freeware, which means it should cost you
+nothing - if you paid anything for it you have been ripped off, sucker! It also
+means that the author gets nothing out of it. If, however, you would like to
+make some small contribution to the author, then please name your first-born
+after him (McWiggle is such a nice name, especially for a girl).
+
+Being
+freeware, it is illegal to modify this game, or use it for commercial gain. It
+also illegal to discharge it from a grassy knoll. If swallowed, induce vomiting
+and seek medical advice immediately.
+100332: Any similarities between this game and certain cult movies is purely
+coincidental. The author has never seen any movie set in Japan, nor (with the
+exception of the "Die Hard" series) any starring a grotesquely overgrown
+animal. In fact, the author has absolutely no idea if this game resembles
+anything at all, including interactive fiction. Actually, one possible scene in
+"Tokyo" is fairly similar something in Infocom's "Hollywood Hijinx". That
+really was a coincidence - the author didn't play that game until after writing
+the relevant scene in this game. They say that great minds think alike, but I
+guess it really just goes to show that you should never mess with small baldy
+dogs.
+100816: You choose the course of this game by entering simple commands, to
+which the game responds. Commands should be typed at the ">" prompt, and
+executed by pressing the ENTER key.
+
+Some of the commands you might use when
+playing the game include LOOK, EXAMINE, GO, PUSH, PULL, GET IN, GET OUT, EAT,
+SMELL, FLY, and SPANK NANNY WITH THE WET FISH. The game also understands many
+other commands, so use your imagination.
+
+You may also UNDO a turn, SAVE your
+position, RESTORE a saved position, RESTART the game, or QUIT your job and join
+a hippy commune in the woods.
+101280: In most adventure games, YOU are the hero. YOU give the fried egg to
+the monk, YOU operate the Babel fish dispenser, and YOU have YOUR cardigan
+laughed at by space aliens.
+
+In this game, however, you actually play two
+people - one is the real you, sitting in the dark in a movie theatre, and the
+other is the hero of the film that you are watching. Most of the commands you
+type will affect the way in which the movie hero acts, but a few act on the
+real you (have you tried swearing, or typing "score"?).
+101644: {B}Warning:{B} The following gives one step-by-step solution (the
+easiest) to the game, though there are several others. Make extra sure you
+really want to spoil the game for yourself before pressing ENTER.
+102048: Damn! That didn't fool you. Well, don't say I didn't try to stop you...
+102104: PROLOGUE: examine soup, wait (until foot appears), examine foot.
+102156: SCENE 1: wait (until pilot removes her helmet), examine woman, get in
+helicopter, pull joystick.
+102232: SCENE 2: fly south, down, push button, north, down, push button, down,
+push button, (anything).
+102308: Aw! Not the last scene too - that's the best bit!
+102348: SCENE 3: kiss woman.
+102368: Oh, so you want more! Too bad - you'll just have to go and find your
+own alternative solution.
+102436: Have you tried the following:
+102692: typing "SMELL" in scene 3?
+102740: saying "XYZZY"?
+102792: See if you can:
+102804: re-enact a scene from "Indiana Jones"
+102900: witness the final episode of "The X-Files"
+103028: Patience is a virtue.
+103044: Things will start to happen at some stage.
+103076: In the meantime, have you had a good look at everything?
+103116: I mean everything.
+103132: Especially the soup.
+103148: Did you read the newspaper at the beginning?
+103180: It's really no sillier than your average Hollywood plot-line.
+103224: Have you looked at the controls?
+103248: The joystick seems promising.
+103272: Maybe if you push or pull it.
+103296: Now you can explore a bit - maybe you'll find something useful.
+103344: Have you figured out what that button on the joystick does?
+103388: Maybe if you were hovering over top of something when you pushed it.
+103436: You should be able to find your way back to downtown alright.
+103480: Did you find the zoo to the north-east of downtown?
+103516: Or the harbour to the south-east of downtown?
+103548: There's also a hotel south of downtown.
+103576: And the ghetto to the west.
+103596: Not to mention the factory to the north-west.
+103688: You have to defeat Chickzilla.
+103712: There are several ways of doing this.
+103740: Four, in fact.
+103752: You might want to experiment with moving things around the city.
+103796: Look out for anything that might be useful for subduing a bird.
+103840: Or maybe creating a suitable adversary.
+103868: You could throw a big party!
+103888: But there's more important things to do right now.
+103924: Maybe you could cover something up.
+103952: How do you subdue a bird?
+103972: They normally calm down a bit in the dark.
+104004: I guess you could cover it's eyes.
+104032: Hey, maybe that tent could be of some use after all!
+104072: Have you heard of healthy eating?
+104096: Carbohydrates are a major food group.
+104124: Complex carbohydrates are found in starchy foods, like potato, or
+pasta...
+104192: There are three crates of noodles on a ship in Tokyo Bay.
+104236: Hydrocarbons are high in energy.
+104260: That's why they are often used for fuel.
+104292: There's no fuel to be picked up around Tokyo.
+104328: But you ARE carrying some with you.
+104356: The problem is getting it into the vat.
+104384: Maybe you could open the helicopter's fuel tank.
+104420: With a bullet maybe...
+104440: Fly down into the ghetto.
+104460: The important part of calcium hypochlorite is the chlorine bit.
+104504: Where do you often smell chlorine?
+104528: Calcium hypochlorite is used to keep swimming pools clean.
+104568: You need a container to carry some pool water.
+104600: There's one on the ship in Tokyo Bay.
+104628: But you'll have to get rid of the crates first.
+104664: Hmmm. Suddenly the zoo seems to be full of soft and fluffys.
+104708: Bad luck that.
+104720: You might want to look around for another fierce animal.
+104760: Someone at the hotel party might be able to help you.
+104800: Well, you could just sit and watch her fall.
+104832: Of course, then she'd splatter all over the street.
+104872: Or you could follow her down and try to save her.
+104908: But you'd better be quick!
+104928: And don't forget that grappling arm!
+104956: Did you read the sign on the building where they landed?
+104996: It's a good thing they didn't land in one of those other buildings!
+105044: How do 99% of movies end?
+105068: You've got the sunset...
+105088: You've got the handsome hero and his luscious love interest...
+105136: Maybe there should be some physical contact.
+105168: NO - not THAT much physical contact!
+105200: This is a family film after all.
+105224: A simple kiss would be fine.
+

@@ -1,0 +1,528 @@
+30131: As good-looking as ever.
+32005: None.
+32452: Taken.
+33032: Dropped.
+33123: Removed.
+33408: Done.
+33737: Done.
+35139: afkjz    i.
+On
+37648: Not bad.
+37666: That was a rhetorical question.
+37903: What a good idea.
+38428: Oh, don't apologize.
+38458: Quite.
+38519: against it. Violence
+39157: Futile.
+67487: Any:
+68568: exm
+"I knew that already,"
+72274: No. Floor number
+81292: in" or "notin
+81308: opmhas" or "hasnt
+81450: }" at end of "objectloop
+82684: Type HELP or MENU to access the Online Help System.
+82996: Score:
+83004: Moves:
+83012: Time:
+83064: You can't go that way.
+83152: Nothing to do!
+83352: Please give one of the answers above.
+83400: I beg your pardon?
+83416: You can't "undo" what hasn't been done!
+83448: Can't "undo" twice in succession. Sorry!
+83480: Previous turn undone.
+83496: Sorry, that can't be corrected.
+83520: Think nothing of it.
+83536: "Oops" can only correct a single word.
+83564: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+83624: You can't begin with a comma.
+83688: To talk to someone, try "someone, hello" or some such.
+83728: I didn't understand that sentence.
+83788: I didn't understand that number.
+83812: You seem to have said too little!
+83836: You can't use multiple objects with that verb.
+83872: You can only use multiple objects once on a line.
+83908: You excepted something not included anyway!
+83940: You can only do that to something animate.
+83972: That's not a verb I recognize.
+83996: That's not something you need to refer to in the course of this game.
+84056: I didn't understand the way that finished.
+84088: Nothing to do!
+84100: There are none at all available!
+84124: only have one item here. Which exactly?
+84156: Since something dramatic has happened, your list of commands has been
+cut short.
+84212: Please press SPACE.
+84284: Please answer yes or no.
+84304: Are you sure you want to quit?
+84328: Are you sure you want to restart?
+84352: Failed.
+84360: Restore failed.
+84372: Ok.
+84376: Save failed.
+84388: Ok.
+84392: The game file has verified as intact.
+84420: The game file did not verify as intact, and may be corrupt.
+84464: Transcripting is already on.
+84484: Start of a transcript.
+84500: Attempt to begin transcript failed.
+84528: Transcripting is already off.
+84552: End of transcript.
+84568: Attempt to end transcript failed.
+84592: Score notification on.
+84608: Score notification off.
+84948: You'll have to say which compass direction to go in.
+85040: is now in its "brief" printing mode, which gives long descriptions of
+places never before visited and short descriptions otherwise.
+85132: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+85216: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+85860: Keep your mind on the game.
+85908: Keep your hands to yourself!
+86048: Real adventurers do not use such language.
+86192: Is that the best you can think of?
+86216: Keep your hands to yourself.
+86360: I couldn't go that way.
+86380: I can't go that way.
+86416: You couldn't go that way.
+86436: You can't go that way.
+86472: It couldn't go that way.
+86492: It can't go that way.
+86528: She couldn't go that way.
+86548: She can't go that way.
+86588: He couldn't go that way.
+86608: He can't go that way.
+86744: "Yes, I know about that but I think I'll keep it to myself."
+87236: .  "I'll have to remember that."
+87270: "I'm afraid I don't know anything about that,"
+87936: An elevator; pretty much like any other elevator you've ever been in.
+Your increased weight conveys the sensation of movement and the floor indicator
+above the closed doors changes as the elevator passes floors. Next to the
+elevator doors, several dozen buttons are arranged in two rows.
+
+All the walls
+in this elevator are mirrored and exhibit a matrix of identical vampires and
+gorgons stretching to infinity in all directions.
+88232: The elevator door is closed.
+88326: Butterflies momentarily flutter around in your stomach as the elevator
+slows to a stop and the doors open. Beyond is the party with dozens of people
+dressed in creative costumes.
+88452: You can't open the elevator door in the conventional manner. It'll open
+itself when you reach floor number
+88672: has already been selected. Selecting anymore floors would delay arrival
+at the party.
+88732: The mirrors on each of the four walls cast infinite reflections. Endless
+lines of Draculas and Medusas can be seen stretching to the vanishing point in
+all.
+88918: A dozen or so thin rubber snakes, painted red to blend almost
+unnoticeably with her long curls, bounce around her head and face as she moves.
+Her blue eyes glint in the dim lighting of the elevator.
+89102: Her reflections surround you in all directions.
+89136: There is a brief moment of uncomfortable silence.
+89172: The girl turns to the mirror for a moment and arranges her snakes.
+89220: The girl gives a barely audible sigh and brushes some previously
+unnoticed lent off of her toga.
+89288: With a faint glimmer of boredom, the girl seems to develop an intense
+interest in some invisible, far away object well beyond the walls of this
+elevator.
+89480: Beautiful, with tiny scarlet serpents intertwined in the long, red,
+curled locks.
+89544: Rubber, dyed red to match the girl's hair color. The tiny snakes curl
+about, interwoven with her natural curls. The affect is really quite stunning.
+89656: Just you, all dressed up in the Dracula costume your brother helped to
+make.
+89712: Rubber, dyed red to match the girl's hair color. The tiny snakes curl
+about, interwoven with her natural curls. The affect is really quite stunning.
+89944: Conversation: Theory and Implementation with the ORLibrary" which can be
+found at the following URL:
+90066: If you are a developer looking into the ORLibrary, the article should be
+well worth the time it takes to read.  And the source code... Well, there is no
+better example than an example. You can download it from:
+90494: The latest revision of the ORLibrary can be found at:
+91308: The entire game can be played via this menu system, or it can be turned
+off in favor of explicit ASK/TELL commands.
+91392: For convenience, the normal ASK command can be abbreviated as the letter
+A.  In addition, the character to which you are referring can also be presumed
+so that commands such as:
+
+     ASK GIRL ABOUT COSTUME
+
+can be abbreviated
+as:
+
+     A COSTUME
+91800: Conversations," each character in the game has a pool of potential
+conversation topics that can be discussed.  For the player character, these are
+normally displayed in the conversation menu; however a topic from this pool can
+also be selected at random with the TALK command which is issued in the
+following format:
+
+     TALK TO GIRL.
+92054: Speak command (or AMS for short) can be used to turn the automatic
+conversation menu on or off with the following syntax:
+
+     AMS ON
+
+Or
+
+    
+AMS OFF
+
+By default it is turned ON.
+93218: D. 
+
+In addition, he wrote the game, "Got Toast?" for Mark Musante's
+"Toaster Comp".
+93306: What does she do?
+93320: "My mother's the president of Securities Bank and Trust over in
+Milhelm."
+
+I used to live in Milhelm. I know where that bank is.
+93420: My mother's the president of...
+93444: So what other 'Great women' are in that 'long line' you come from?
+93494: "My grandmother makes the best blackberry cobbler on the planet."
+
+She
+smiled at that.  "That's certainly great if you like blackberry cobbler."
+93604: My grandmother makes the best...
+93628: "My sister is a neural surgeon."
+
+"Wow! Very impressive."
+
+You nod.
+"Except that its carries more weight when she tells me I'm messed up in the
+head."
+93744: My sister is a neural surgeon.
+93766: "I took theater for a couple of semesters and also remember Dr. Davidson
+being particularly budget conscious."
+93848: I took theater...
+93862: "You were in theater?" She pauses as though having difficulty believing
+that. "I've seen you around campus a few times; never would have pegged you for
+an actor. Play in anything traditional, or are you a full time vampire?"
+94026: "I played Macbeth."
+
+"You're kidding. Macbeth?"
+
+You nod and dig deep
+into your memories for a quote. "Had I but died an hour before this chance, I
+had lived a blessed time; for, from this instant, There's nothing serious in
+mortality." You strike a melodramatic pose for a moment, then smile at her,
+baring your fangs.
+
+She bursts out laughing.
+94288: I played Macbeth.
+94302: "So you want to be an actor?"
+
+You shake your head at this.
+94350: "I only took theater as an elective. I'll be transferring to Harvard Law
+after next year."
+
+"A lawyer! You're taking this bloodsucking theme a little
+far aren't you?"
+
+"Hey, not all lawyers are bad!"
+
+"Okay." She rolls her eyes,
+unconvinced.
+94540: I only took theater as an elective.
+94566: "My aunt is an accountant. You remind me of her actually."
+
+"I'm not
+sure how to take that," she replies with a queer look upon her face.
+
+"Take it
+well," you say.  "She's a great woman. In fact, I come from a long line of
+great women."
+94748: My aunt is an accountant.
+94766: "Dracula was always my favorite monster," you say, glancing at one of
+your many reflections.
+94836: Dracula was always my favorite...
+94862: "So you chose Dracula," she arches her eyebrows and gives a look of
+ridicule.  "Any significance to that?"
+95008: You watch her eyes look over your costume as though assessing your
+skills.
+95464: "'You can stand back up if you happen to fall, but forget your lines and
+make fools of us all.'  Yes, I think he makes them up himself.  We used to
+cringe when someone would mess up on their lines in rehearsal, knowing that it
+was coming."
+
+"Sounds like he considers himself a poet."
+
+"He's no Robert
+Frost."
+95692: "So you're a Frost fan?"
+95776: Road Not Taken' stands out most in my memories."
+95816: My mother used to read Frost to me...
+95844: "Mummies always scared me."
+
+A look of mock concern comes across her
+face. "That's sad," she says. "It's okay to be scared of monsters, but no child
+should be scared of mommies."
+
+You start to shake your head at her
+misunderstanding but see her smile and realize she was joking.
+96048: Mummies scared me...
+96064: "So what other things scare you?" she asks.
+96096: "As a child, I was scared to death of Grover."
+
+"Grover?  You mean from
+Sesame Street?"
+
+"Yes," you say, nodding. "He used to give me nightmares."
+
+She
+chuckles from that.  "I think he sounds like Yoda."
+96260: Grover scared me...
+96338: "Being trapped in an elevator with Medusa," you answer.
+
+"What, with
+those fangs?"
+
+"Fangs won't do me any good if I'm a statue."
+
+"Well if you turn
+to stone I'll give you a nice home in my garden," she says. "You can scare away
+the birds."
+96524: "I always liked Flash Gordon."
+
+"That's a little before my time," she
+responds with a smirk.
+
+"Not the original," you laugh.  "They remade it into
+new movie some time back."
+
+"A few decades ago," she says.
+
+"Well... yeah, I
+guess." you admit grudgingly.
+
+She nods, "I repeat, that's a little before my
+time."
+96768: I always liked Flash Gordon...
+96792: "So I bet you're a meat-eater, huh?"
+96822: "I could never be a vegetarian.  Nothing is better than a juicy, tender
+steak." You say.
+
+She cringes. "I just can't eat anything that once had a
+face."
+
+"Chocolate bunnies have faces."
+
+She laughs at this. "Okay, chocolate
+bunnies are the exception to the rule."
+97024: I could never be a vegetarian...
+97048: "I have a cousin who grows a flower garden for a living," you say.
+
+"For
+a living?"
+
+"Uh-hmm.  He has a big green house and supplies flower shops around
+his town with their inventory."
+
+"Hmmm," she thinks for a moment, then: "I
+never really thought about where floral shops get what they sell.  Flowers
+don't live very long."
+97288: I have a cousin who grows a flower garden...
+97320: "You don't agree with our position?" she asks, knowing the answer
+already from your expression.
+97388: "I'm actually a firm believer in capitol punishment," you say.
+
+She
+seems disappointed to hear you say this and responds, as though reading from a
+well-rehearsed script: "Murdering another person won't change what they
+did."
+
+"It isn't murder, its justice," you respond.  "And the mindset of a
+murderer is cancerous.  Cutting it out of society is the only way to ensure it
+doesn't grow."
+
+She reacts visibly to this, actually turning to face you. "You
+can remove it from society without..."  Then she stops, closes her eyes and
+turns back to the door.  She takes a deep breath and exhales.  Then she opens
+her eyes.  "Let's just agree to disagree," she says.
+
+You remain agreeably
+silent.
+
+For a moment there is an uncomfortable pause.  Then she looks at you
+with a glint in her eye and serious expression on her face.  "It's good that
+you care one way or the other.  Apathy kills a person from the inside out, so
+it's good to have strong opinions."
+
+You stand for a moment listening to her,
+conscious that there seems to be an invisible wall of separation between you
+now.  Then she speaks again with that sly smile on her face. "Even though
+you're wrong," she says.  And suddenly the wall is gone.
+98248: I'm a firm believer in capitol punishment...
+98282: "I like your costume," You say, conscious of how lame you sound.
+98336: I like your costume.
+98352: The girl smiles at you. "I've always been fascinated with Greek
+mythology." She glances at her reflection in the mirror. "My room mate helped
+me make this.  She's a theatrical major and gets a lot of experience working
+with costumes.  I understand her professor is a little on the cheap side so
+they often just have to make do."
+
+That rings true to your ears, having taken
+some creative arts classes before.
+98642: "What's the root of this aversion to lawyers, you seem to have?"
+98692: Why do you dislike lawyers?
+98712: "I dated a lawyer for a while." She shrugs her shoulders. "He argued
+with me about everything.  I don't think he cared which side of an argument he
+was on, just as long as we disagreed. It was frustrating."
+
+"I refer you to my
+previous statement: 'Not all lawyers are bad.'"
+
+"I'm sorry, but are you
+arguing with me?" she asks with a smirk on her face.
+98972: "What about you? What do you want to be when you grow up?" You ask
+jovially.
+
+"An astronaut," she answers.
+
+You start to chuckle but stop when you
+see her straight face.
+
+"Really?"
+
+She smiles. "No."
+99128: What about you? What do you...
+99152: "I've been majoring in accounting. I was thinking that would be a good
+fall back career in case my space faring ambitions don't pan out." Hmmm. You
+like her dry humor. It reminds you of your aunt who, incidentally is also an
+accountant.
+99322: "You want to be an accountant? Math has just never been my thing."
+
+She
+nods.
+99384: You want to be an accountant?
+99406: "I want to be a CPA.  I've been fascinated with numbers most of my life.
+I think I find comfort in the clear-cut, logical rules."
+99506: "Milhelm is an expensive area of town. Your family must live pretty
+comfortably."
+99568: Milhelm is an expensive area...
+99592: "We do okay. My father's a workaholic."
+99624: "What does he do?  Your father, I mean."
+99660: What does your father do?
+99678: "I'm not all that sure to be honest.  Something with computers, I
+think."
+
+You nod. "I hear some people think those things have potential."
+
+She
+giggles.
+99798: "I used to stay up late at night and watch vampire shows with my father
+when I was a little girl.  At least I did when he wasn't working."
+
+You
+grimace. "Not exactly Sesame Street."
+
+She shrugs.  "It's true.  I was too
+young to be watching those kinds of shows.  Vampires scare me even today."
+100020: "So what do you think about vampires?" you ask.
+100056: So you're a Star Wars fan?
+100078: She smiles. "I love Star Wars... And Star Trek."
+
+"I'm surprised.  You
+don't look like a 'Treky,'" you say.
+
+"Well, I draw the line at going to
+conventions, but yes.  I tend to like Science Fiction as a whole."
+100248: So you're a Star Wars fan?
+100270: "My favorite was Buck Rogers in the 24th and a half century," she says
+with a sly look on her face.
+
+You're beginning to catch on to her joking
+personality now, but decide to take the bait anyway: "I think that was 'Duck
+Dodgers' from a bugs bunny cartoon."
+
+"Oh," she responds dismissively.  "I
+hadn't realized."
+
+"Yeah, I bet," you say, smiling.
+100536: "So where exactly is this garden you need a stone scarecrow for?"
+100584: "I keep my garden in the back of our sorority house."
+100624: So where is this garden?
+100644: "Do you grow a flower garden, or a vegetable garden?"
+100768: Also, I'm a vegetarian so it comes in handy."
+100804: Is it a flower or vegetable garden?
+100832: "What sorority are you in?"
+100854: "I'm in the Chi Lambda sorority," the girls says.
+
+"Oh yes," you say
+recalling an event last summer. "You held that protest against the
+death-penalty last year."
+
+She smiles at the recognition and nods.  "Yes, it
+was fairly successful I think.  It definitely heightened public
+awareness."
+
+You suddenly feel a little warm. "I suppose," you say and suddenly
+gain an intense interest in the floor indicator.
+101156: What sorority are you in?
+101176: "So," you begin with a smile. "You seem to have quite the affinity for
+snakes."
+101308: "Your interest in Greek mythology led you to a medusa costume," you
+comment.
+101452: "And what does all of her work get her? Decapitation by 'the man'." She
+shakes her head in mock sorrow.
+101528: "What does your mother do?" you ask, looking to find more about this
+enchanting girl's roots.
+101596: "She's a homemaker," is her matter-a-fact response.
+101636: "Your roommate sounds like she seriously into theatrics."
+101678: "I like to think of her as a 'drama queen.'" she responds.
+
+You smile
+at this.
+101740: "Well," says the girl.  "It was nice to meet you."  With that she turns
+and steps off of the elevator. 
+
+You watch her blend into the party, mildly
+disappointed to see her walk away, then shrug it off.
+101900: If you could just keep a girl confined in a one-room conversation all
+the time, there wouldn't be much use for a party, now would there?
+101998: It took you a little time to get your vampire costume together, so
+you've been running late for Gary's costume party.  You've arrived now on the
+ground floor of his high-rise apartment building.  Better late than never as
+they say.  
+
+The elevator makes a soft jingle as it opens and you step into the
+mirrored interior.  For a moment you think, struggling to remember Gary's floor
+number...  Oh yes, you remember now,
+102304: .  You reach out and push the appropriate button.  The doors begin to
+close but stop suddenly as a slender hand appears.  There's another jingle and
+the doors open again revealing a beautiful, red-headed girl dressed in a toga. 
+
+
+You recognize her from campus although you do not actually know her.  For a
+moment you almost do not see the red rubber snakes entwined with her long red
+curls.  She steps into the elevator and reaches for a button, but stops,
+apparently seeing that it is already lit.
+102708: that this "Medusa" is going to same costume party that you are.
+102964: The Menu-Speak conversation system is already turned off.
+103008: The Menu-Speak conversation system is now turned off.
+103048: The Menu-Speak conversation system is already turned on.
+103092: The Menu-Speak conversation system is now turned on.
+103132: There are no conversation topics currently in the menu system.
+104128: "I don't know anything about that,"
+104244: You'll need to be more specific. Who
+104296: You'll need to be more specific. Who
+104348: You'll need to be more specific. Who
+104400: You'll need to be more specific. Who
+104434: This game employs the Ask/Tell model for conversation. It should be
+noted, however, that slight improvements have been made to the system
+traditionally employed. Of particular noteworthiness is the attempt to
+determine the person that is being addressed if unspecified. For example, the
+command:
+104794: ave been implemented for "Ask" and "Tell" respectively, so the above
+example could also be worded as:
+104870: The "Talk" command has been implemented. Be forewarned, that unlike
+other games, where "Talk" is the sole method of conversing, this command is
+meant to augment the Ask/Tell paradigm.  This command is not guaranteed to
+further a script. "Talk" simply chooses a random topic from the player's
+running pool of potential subjects. It can nevertheless be useful when you are
+uncertain what to say:
+

@@ -1,0 +1,528 @@
+21597: Nothing to do!
+21632: o. You have won
+21714: It is now pitch dark in here!
+21741: I beg your pardon?
+21805: Sorry, that can't be corrected.
+21834: Think nothing of it.
+21887: As good-looking as ever.
+21919: You can hardly repeat that.
+21944: You can't begin with a comma.
+22058: I didn't understand that number.
+22087: You can't see any such thing.
+22123: You aren't holding that!
+22165: I'm not sure what "
+22217: That's not a verb I recognise.
+22256: You can't see "
+22364: Nothing to do!
+22381: There are none at all available!
+23291: Please answer yes or no.
+23317: Are you sure you want to quit?
+23362: Failed.
+23382: Restore failed.
+23399: Ok.
+23417: Save failed.
+23432: Ok.
+23476: Transcripting is already on.
+23542: Transcripting is already off.
+23600: Score notification on.
+23621: Score notification off.
+23644: You have visited:
+23672: Objects you have handled:
+23697: None.
+24081: You are carrying nothing.
+24130: Taken.
+24141: You are always self-possessed.
+24674: Dropped.
+24784: Removed.
+24923: You lack the dexterity.
+25004: Done.
+25270: Done.
+25481: Wrahn seem interested.
+26062: You can't go that way.
+26622: But it's dark.
+26639: You find nothing of interest.
+26675: But it's dark.
+26766: You find nothing of interest.
+27894: . Not bad.
+27912: That was a rhetorical question.
+27966: That seems unnecessary.
+27989: Keep your mind on the game.
+28014: What a good idea.
+28033: You smell nothing unexpected.
+28060: You hear nothing unexpected.
+28085: You taste nothing unexpected.
+28120: Keep your hands to yourself!
+28145: You feel nothing unexpected.
+28170: If you think that'll help.
+28279: Oh, don't apologise.
+28309: Quite.
+28378: You achieve nothing by this.
+28466: You wave, feeling foolish.
+28616: You are unable to.
+28635: Nothing obvious happens.
+28685: That's not a direction.
+28708: Not that way you can't.
+28740: Keep your hands to yourself.
+28765: You achieve nothing by this.
+28798: Futile.
+28827: You talk to yourself a while.
+28854: This provokes no reaction.
+28882: There is no reply.
+28901: Nothing is on sale.
+28920: Your singing is abominable.
+28954: Time passes.
+52567: Hints have been disabled.
+52598: HINTS disabled.
+53648: Potential Sinner.
+53667: Rather Naughty Person.
+53690: Malingerer.
+53705: Moral Leper.
+53729: Scrapple Warrior.
+53748: Vanquisher of the Kunkel.
+53773: Master Mimetic.
+54119: Black (simply):
+54178: You:
+54257: You:
+54401: My sentiments exactly.
+54442: You get onto the bed.
+54561: Racy mode on.
+54582: A hollow voice says, "Bite me."
+54631: Water? What water?
+54661: That's not polite.
+55026: But it's already off!
+55055: The microwave beeps petulantly.
+55164: The microwave hums briefly.
+55205: Sugary.
+55305: It is piping hot.
+55320: Cold and greasy, though.
+55351: But it's cold!
+55391: Cold grease and cardboard.
+55418: Chili peppers.
+55503: The glass is full already.
+55535: The glass is now full of water.
+55575: The glass is already empty!
+55718: Really, it's still just scenery.
+55942: Or is it coriander?
+56437: "He's so dreamy!"
+56531: "Save the choad!"
+57310: "That poor plant!"
+58636: The rod is already charged.
+58753: Ugh.
+58775: No.
+58963: The Kunkel flinches and swears.
+59444: This is hardly the time.
+59510: P.
+62192: Score:
+62200: Moves:
+62208: Time:
+62216: You can't go that way.
+62548: Please give one of the answers above.
+62576: [You can't "undo" what hasn't been done!]
+62612: [Can't "undo" twice in succession. Sorry!]
+62652: "Oops" can only correct a single word.
+62680: It is pitch dark, and you can't see a thing.
+62712: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+62772: You seem to want to talk to someone, but I can't see whom.
+62816: To talk to someone, try "someone, hello" or some such.
+62856: I didn't understand that sentence.
+62916: You seem to have said too little!
+62940: You can't use multiple objects with that verb.
+62976: You can only use multiple objects once on a line.
+63012: You excepted something not included anyway!
+63044: You can only do that to something animate.
+63076: That's not something you need to refer to in the course of this game.
+63124: I didn't understand the way that finished.
+63156: Sorry, you can only have one item here. Which exactly?
+63308: Are you sure you want to restart?
+63332: The game file has verified as intact.
+63360: The game file did not verify as intact, and may be corrupt.
+63404: Attempt to begin transcript failed.
+63432: Attempt to end transcript failed.
+63456: You're carrying too many things already.
+63488: You can't put something on top of itself.
+63520: You can't put something inside itself.
+63576: You can only get into something freestanding.
+63608: But you aren't in anything at the moment.
+63640: You'll have to say which compass direction to go in.
+63680: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+63776: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+63860: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+64036: This dangerous act would achieve little.
+64064: Nothing practical results from your prayer.
+64096: The dreadful truth is, this is not a dream.
+64128: Digging would achieve nothing here.
+64156: You jump on the spot, fruitlessly.
+64184: You would achieve nothing by this.
+64208: There's nothing suitable to drink here.
+64236: But there's no water here to carry.
+64264: Real adventurers do not use such language.
+64296: Violence isn't the answer to this one.
+64324: There's not enough water to swim in.
+64352: There's nothing sensible to swing here.
+64380: That would be less than courteous.
+64404: Is that the best you can think of?
+64428: You lack the nerve when it comes to the crucial moment.
+64468: I don't think much is to be achieved by that.
+64500: You aren't feeling especially drowsy.
+65000: You've been abandoned and you are depressed.
+65032: You could eat something, or take a shower. Sometimes that helps.
+65080: But you should probably get out of the house.
+65112: Not as easy as it looks, huh?
+65136: What kind of plant is it?
+65156: What does the devil want?
+65176: What's the title of the game?
+65200: You have to commit each of the Seven Deadly Sins with or to the mimesis
+plant.
+65256: Just hanging out, and preventing you from leaving.
+65292: Try talking to him.
+65308: You have to prove that you're a sinner or he won't let you leave.
+65356: Have you checked your inventory after fooling around with the plant?
+65404: As you acquire more sins, show the disk box to the devil.
+65444: That sure is a nice plant you got there.
+65472: EXAMINE MIMESIS.
+65496: Violence is seldom the answer.
+65520: But, in this case, it is.
+65540: ATTACK MIMESIS.
+65560: A nap might help.
+65576: But you have no teddy bear.
+65596: The plant is sort of cuddly.
+65616: While holding the plant, LIE ON BED. SLEEP.
+65656: Hoard stuff!
+65668: GET MIMESIS.
+65684: Although you can eat the Chinese food...
+65716: The name of the game suggests what you should be being gluttonous about.
+65768: EAT MIMESIS.
+65784: Have you examined the plant carefully?
+65812: It's looking kind of dry.
+65832: Get the glass, and then fill it in the kitchen or bedroom, and then...
+65932: This can't be that difficult.
+65956: KISS MIMESIS.
+65976: Get out.
+65984: You must defeat the Kunkel and venture into StiffyWorld.
+66028: He seems very into his game.
+66048: Maybe if you changed his game...
+66072: But he won't let you if he knows what you're up to.
+66112: So you have to distract him.
+66224: OSE COMPUTER.
+66244: Go play Curses.
+66256: After the Kunkel has been vanquished...
+66288: WEAR GOGGLES.
+66308: About all you can do is leave.
+66350: INT IT AT ME.
+66368: Sure, didn't you ever see any Russ Meyer films?
+66404: Of course, they're deadly.
+66424: So avoid them.
+66436: Have you checked your inventory?
+66460: UNLOCK PINK DOOR WITH PINK KEY.
+66544: Or you could rescue Black.
+66582: INT IT AT BLACK.
+66604: Neil K. Guy and Brad O' Donnell, of course.
+66696: Zarf and Graham, for testing and their good humor about it all.
+66744: John Baker, as without the Fire Witch we wouldn't be having this game in
+the first place.
+66808: John Holder, because I misidentified John Baker as him in the previous
+releases of this game.
+66876: Whizzard, for hosting the competition this year, and for his efforts in
+getting Activision back on the True Path, and for that unfinished game of
+his...
+66984: L. Ross Raszewski, for his hint system.
+67016: The 1997 IF Competition judges and players, in particular Paul Janzen,
+who told me of a nasty bug, Stephen Granade, who suggested a number of
+improvements, and Martin Braun, who let me know of the John Holder/John Baker
+confusion.
+67188: The circumstances that brought me to write this game, about which I'd
+rather not think, but without which I wouldn't have bothered.
+67284: Graham, again, for Inform.
+67364: The Famous Grouse, without which none of this would have been possible.
+67416: Nuclear Fusion, without which the sun wouldn't work.
+67456: The Strong Force, without which...oh, never mind.
+67496: Imitation or mimicry.
+67512: In Interactive Fiction, something along the lines of "Creation of a mood
+such that it is possible to suspend disbelief and become immersed in the game."
+67620: Are you really that much of a wuss?
+67648: GET PLANT.X IT.KISS IT.KILL IT.EAT IT.E.GET GLASS.FILL IT.WATER
+PLANT.W.W.LIE DOWN.SLEEP.GET UP.E.N.SHOW BOX TO DEVIL.N.S.GET SACK.GET ROD.PUT
+ALL IN SACK.GET CD.N.N.UNPLUG GOGGLES.OPEN COMPUTER.GET STIFFY.PUT TEXT IN
+COMPUTER.CLOSE COMPUTER.OPEN COMPUTER.GET TEXT CD.PUT STIFFY IN COMPUTER.CLOSE
+COMPUTER.WEAR GOGGLES.UNLOCK PINK DOOR WITH PINK KEY.NE.GET ROD.STRIKE
+ROD.POINT IT AT BLACK.YES.
+68144: Are you happy now?
+68160: Wuss.
+68456: ...examining the "so on" in the bathroom, bedroom, or kitchen?
+68844: ...answering "maybe" to Black's question?
+68920: Destroyer of the Multiverse and Cosmic Butthead.
+69040: First-Class Passenger on the Hellbound Express.
+69076: There is a sharp crackling and a sudden smell of ozone, as something
+appears in your hand.
+69244: I think it's a kind of houseplant.
+69300: types. Handle low light well.
+69390: "Please excuse the crudity of what I'm about to do, you text-based
+Neanderthal, but my ancestors were AGT monsters."
+
+Its mouth opens to reveal
+teeth grotesquely out of proportion to the rest of its body, a fact you notice
+as those same teeth tear your flesh into tiny pieces.
+69592: The Kunkel, not suspecting your ruse, shrieks as wave after wave of pure
+text pummels its senses.
+70014: ....and, hours later, you awaken on the floor of the Scrappelizer,
+Black, crying, dabbing at your forehead with a cloth.
+
+"I'm really sorry," are
+Black's first words.  "White was such a bore.  Never let me do anything I
+wanted to, kept preventing me from wrecking history, always sketching animals
+in that dumb little book.  So naturally I accepted a lift from the first
+cattle-mutilating ultravixen that came along, and you see where
+70408: Ah, my love.  Can you forgive me?
+
+>
+70440: Black blinks.  "Oh.  Yes.  That's right.  Now I remember why I left you
+in the first place.  You're a
+70526: Then Black picks up the Kunkel's corpse and beats you to death with it.
+70664: to find out what this response is.  So go play it.  When you get there,
+you'll understand.
+70800: .  There's a lot to forgive: leaving you, attempting to wreck the course
+of the Twentieth Century, forgetting to water the plant..."  Black bursts into
+tears again.
+71008: to find out what this response is.  So go play it.  When you get there,
+you'll understand.
+71522: Or maybe you..."  Black's head shakes from side to side.  "I dunno.  But
+I do know one thing: you're stuck with me at least until we figure out how to
+get out of here."
+71722: So it's not perfect.  But what is?  And, all things considered, at the
+end of the day you really can't think of anyone with whom you'd rather be
+trapped in an abandoned scrapple factory.
+72024: Although suicide is an attractive option, you have nothing which which
+to shoot yourself.
+72088: You aren't feeling especially drowsy.
+72116: You toss and turn, but the bed is simply far too big to sleep in alone,
+and you sent Blamant the Teddy Bear out to be cleaned this morning.
+72216: You clutch the mimesis plant to your chest, and fall into a troubled
+sleep, haunted with dreams of chessboards and featureless white cubes.
+72312: Try as you might, you can't fall asleep again.
+72434: How would we ever sell Fox the rights to it?
+72466: Pain.  Unceasing pain.  Ever since your lover Black left, something to
+do with a mysterious stranger and a time machine, your days have been a dull
+blur of gray loneliness.  Perhaps you'd feel better if you got out and did
+something.
+72644: This is the living room of your rather squalid apartment. The huge
+compass rose on your floor reminds you that your bedroom is west, the front
+hall is north, the kitchen is east, and the bathroom is south.
+73118: It's much too big for you alone, you can't help but realize.
+73212: Persistent, aren't you?
+73294: If you think you do, go check out the bathroom or kitchen scenery
+instead.
+73346: Author's Note: Sure, I could make a dresser and nightstand with opening
+drawers, a lamp you could turn on and off, a headboard you could tie things to,
+box springs for the bed, carpeting with repulsive items ground into it, and a
+sock drawer full of real live socks.  But I won't.  This is just scenery and
+it's going to stay that way.
+73760: Bear with me.
+73924: Your basic four-tined dinner fork.
+74070: It is clearly labelled "Zap" and almost beckons you to press it.
+74116: A horrid plume of greasy smoke goes up as the food in the microwave
+vaporizes.
+74172: The tantalizing aroma of hot Chinese food assails your nostrils.
+74226: Look at all the pretty, pretty sparks!
+74310: You can almost hear the microwave chuckle evilly.
+74348: A white wooden table, large enough for two people to eat at comfortably.
+74400: Merely a plain wooden cabinet.
+74424: This is a bright red box of "Sugar Coated Corn Puffs," a terrifyingly
+unhealthy part of your complete breakfast.
+74508: The Sugar Coated Corn Puffs are whitish-yellow, with a coating of sugar.
+74580: Just like, in fact, you'd expect something called "Sugar Coated Corn
+Puffs" to taste.
+74696: It appears to have no use whatsoever, and indeed it is unclear what,
+exactly, it is meant to represent.
+74924: Your death is slow, grisly, and cold.
+75060: You have better manners than that.
+75224: There is an empty juice glass here.
+75252: You're holding that already (in the glass).
+75284: The glass is only supposed to hold liquids.
+75316: There is nothing here with which to fill the glass.
+75370: That wasn't very productive.
+75396: The water is cold and refreshing.
+75420: It looks like ordinary water.
+75444: You drink cold, refreshing water from the glass.
+75508: You have nothing in which to carry the water.
+75540: You have nothing in which to carry the water.
+75572: Stop being a wiseass.
+75644: Sure, there's a sink, a tub, a toilet, a medicine cabinet, and so on in
+here, but I promise you that you lose nothing by failing to examine them.
+75748: Author's Note: I'm certain I could make a bathtub you could bathe or
+shower in, with hot or cold water, a toilet that flushed and removed its
+contents, a medicine cabinet with a child-proof bottle within, and a fluffy
+towel on which to dry off.  But I haven't, and frankly I don't care that much
+about implementing bodily functions or sanitation in the game.
+76040: This is the front hall; a door north leads outside, and the living room
+is to the south.
+76104: The front door of your house is wooden and painted white.
+76144: The door is closed.
+76160: Through the open doorway, you can see a swirling violet mist, rather
+unlike the busy, dirty, and noisy street onto which it used to open.
+76256: As you step into the mist, everything becomes indistinct and hazy; you
+spin, receding ever-farther from consciousness.  Everything goes black...
+76410: "Not until I see some sin, son."
+76634: Hence the name.
+76748: You know if you take a disk out of the box you'll probably lose it.
+76912: Your mimesis plant squats in its pot in a corner of the room, slowly
+photosynthesizing.
+77212: Your heart swells with pride as you consider your beautiful houseplant.
+77416: You angrily rip a leaf from the mimesis plant.
+77448: You haven't the heart to damage your lovely plant any farther.
+77552: Ugh.
+77592: You have nothing with which to water the plant.
+77692: You wouldn't want to over-water the plant.
+77724: You greedily snatch at the mimesis.
+77752: You carefully set the mimesis down.
+77996: His complexion manages, through the mysteries of the supernatural, to be
+simultaneously firebrick red and pasty white.
+78126: Unix devil and Bill Gates, slouches insolently in the corner.
+78172: The devil glares at you and mumbles, "Bletch foobar to you too!"
+78392: "<giggle> Can I <snort> go out with your sister?"
+78466: Did you use DejaNews?"
+78524: "A way to hold people accountable for things they said in moments of
+<snort> madness and wish were forgotten!"
+78604: "The rec dot star dot int dash fiction groups are <snort> just the
+coolest!"
+78664: "I want to <giggle> bear Graham Nelson's children!"
+78708: "It's really <snort> swell of him to host the competition and all, but I
+sure wish he'd finish that game of his!"
+78796: "Do you mean <giggle> Cadre, who's cool, or Thornton, who's a total
+choad?"
+78860: "He's a very sinful IF author indeed!"
+78906: Wow, talk about <snort> a total dork <giggle>!"
+78948: "He wrote a really cool game with my <giggle> cousin in it."
+78996: "He wrote JZIP, but Thornton screwed up the <snort> attributions."
+79058: The Kunkel is smelly and <snort> stupid."
+79126: Troll of Omniscience?"
+79174: Be <snort> careful using it!"
+79348: "I hope you're feeling sinful today, because otherwise <giggle> I can't
+let you leave."
+79416: "<snort> You gotta pay your dues before you can go, buddy."
+79692: "<snort> It's the best! Graham Nelson is mega-<giggle>-cool!".
+79848: Whackin' on stuff <snort>.
+80414: Starts with a little kiss, but quickly progresses to the unspeakably
+lewd.
+80556: "That's for me to know <snort> and you to play!"
+80728: "You <giggle> earned it, you nasty bad sinner, you."
+81034: Then he gestures with his finger, and the front door swings open.
+81106: Your maiden aunt could do better!"
+81184: Well into the naughty realm, if not actually sinful."
+81280: The demon stares at you as if you are mad.
+81312: Fashion is not this devil's strong point.
+81638: The rusted Scrappelizer squats to the north, and the vat is south.
+81688: The bare light bulb, favored by tinpot dictators and goonish
+interrogators everywhere.
+81968: A rectangular hole, big enough to squeeze through.
+82004: A rectangular hole allows access to the innards of the Scrappelizer.
+82052: A rectangular hole allows access to the factory.
+82240: It's hard to see the goggles clearly, since they're on the Kunkel's
+face, and consequently twitching and swerving around.
+82432: Revolted, you retreat.
+82452: But the goggles are already unplugged!
+82480: But the goggles are already plugged in!
+82508: Not while the goggles are in the sack, you won't.
+82544: You must specify something to plug the goggles into.
+82606: The Kunkel sighs and closes the CD-ROM drive.
+82648: The Kunkel is awfully displeased at having its game interrupted.
+82696: There's nothing into which to plug the goggles here.
+82772: You put the goggles on, but they show nothing, so you remove them.
+82820: Wow!  Virtual reality really does work!  With a sensation of great
+speed, you are transported to....
+83056: The Kunkel's game must have come to a screeching halt, because it stops
+twitching, swears, and thumbs the drive door shut before you can react.
+83592: The sack smells revoltingly of pork byproducts.
+83628: Something like pork rinds, only really disgusting.
+83664: An exorbitantly expensive map of Paris circa 1993.
+83708: One of the last remaining bits of Druidical Magic.
+83976: There is another 'pop' and the devil is gone.
+84016: You need to be holding the rod before you can point it at something.
+84064: As the rod is not charged, nothing happens.
+84212: A flash of white light engulfs Black.  There is a huge noise and white
+blots out your vision as the rod melts in your hands....
+84308: The Rod of Returning charges up, drawing power from ley lines, or
+something like that.
+84560: The dead Kunkel lies on the ground, its head blown open and its eyes
+popped out, revealing the emptiness of its cranial cavity.
+84648: The Kunkel isn't good for much of anything anymore, not that it ever
+was.
+84752: The Kunkel is far too engrossed in its multimedia extravaganza to notice
+you.
+84808: The Kunkel isn't asleep, just...engrossed.
+84886: Add that to the stench of the Scrappelizer...
+84920: The Kunkel manages to plug the goggles back into the computer.
+84966: The Kunkel sighs and closes the CD-ROM drive.
+85008: The Kunkel is inordinately displeased that its game is no longer
+running.
+85060: There is a muffled shriek from the Scrappelizer.
+85096: The Kunkel sits stock-still, stunned by the loss of visual input.
+85188: The Kunkel blunders around trying to reconnect the goggles.
+85232: It looks as if the Kunkel is about to succeed in plugging in the
+goggles.
+85384: You are standing at the end of a road before a small brick building.
+Around you is a forest. A small stream flows out of the building and down a
+gully.
+85492: You are standing in an open field west of a white house, with a boarded
+front door.
+85552: The attics, full of low beams and awkward angles, begin here in a
+relatively tidy area which extends north, south and east. The wooden
+floorboards seem fairly sound, just as well considering how heavy all these
+teachests are. But the old wiring went years ago, and there's no electric
+light.
+85756: This is a featureless corridor similar to every other corridor on the
+ship. It curves away to starboard, and a gangway leads up. To port is the
+entrance to one of the ship's primary escape pods. The pod bulkhead is closed.
+85912: You stand at a point of decision on a road which makes a wide fork to
+the northeast and southeast, circling the base of the Lonely Mountain, which
+looms high overhead to the east. A very long and winding road starts here and
+stretches out of sight to the west through low, smoky hills.
+86156: Shaded glades stretch away to the northeast, and a hint of color marks
+the western edge of the Flower Walk.
+86232: An undistinguished bar, yet the social center of Upper Sandusky. The
+front door is almost lost amidst the hazy maze of neon that shrouds the grimy
+glass of the south wall. Doors marked "Ladies" and "Gents" lead, respectively,
+northeast and northwest.
+86412: If nothing else, you have a good seat. The stage is only a few rows to
+the north. People are jammed on benches in every direction; you think the aisle
+is somewhere to the west.
+86536: You are on a wide lawn just north of the entrance to the Robner estate.
+Directly north at the end of a pebbled path is the Robner house, flanked to the
+northeast and northwest by a vast expanse of well-kept lawn. Beyond the house
+can be seen the lakefront.
+86714: The bedroom is a mess.
+It is a small bedroom with a faded carpet and old
+wallpaper. There is a washbasin, a chair with a tatty dressing gown slung over
+it, and a window with the curtains drawn. Near the exit leading south is a
+phone.
+86952: Your impulsive action has destroyed the entire fabric of the multiverse,
+and you along with it.
+87184: You stumble down the corridor and into a large room.
+87368: The pink door bars passage to the northeast.
+87400: The pink door yawns open, promising tantalizing secrets within.
+87482: The door opens, like a flower blooming.
+87512: Once opened, these doors can no longer be closed.
+87602: The only exit is southwest.
+87730: You beast!  Fortunately, (at least for karmic justice) before you can
+attack, there comes a noise from the doorway.
+87820: This is hardly the time for romance.
+87848: Black mumbles slightly, but does not awaken.
+87880: Black can neither see nor hear you.
+87908: It is a pink cylindrical key, several inches long, and about an inch
+thick, with one rounded end.
+87976: BIG GUN KICK THE HELL OUTTA YOU!
+88016: Every Russ Meyer film you have ever seen.
+88048: You hear a sinister giggling from the west somewhere.
+88088: A fearsome "HONK, HONK!" echoes from the western corridor.
+88136: Loud, sensual moans are coming from the west and approaching rapidly.
+88184: "Pwoik, pwoik, pwoik" resounds from the west, quite nearby.
+88228: A girlish shriek comes from just down the corridor.
+88320: "EEEEEK!" comes from the southwest
+88352: You hear a girlish voice reminiscing about the delights of "Cabin Boy",
+just to the southwest.
+88420: You hear the squeaking of silicone-enhanced breasts rubbing together,
+coming your way!
+

@@ -1,0 +1,673 @@
+18112: There is no reply.
+18180: Nothing is on sale.
+18638: Dropped.
+18695: . Not bad.
+19823: Wrahn seem interested.
+20338: Done.
+20387: You are carrying nothing.
+20472: Keep your mind on the game.
+20497: You hear nothing unexpected.
+21561: But it's dark.
+21578: You find nothing of interest.
+21606: Quite.
+21636: Nothing to do!
+21671: o. You have won
+21771: It is now pitch dark in here!
+21798: I beg your pardon?
+21862: Sorry, that can't be corrected.
+21891: Think nothing of it.
+21944: As good-looking as ever.
+21976: You can hardly repeat that.
+22001: You can't begin with a comma.
+22115: I didn't understand that number.
+22144: You can't see any such thing.
+22180: You aren't holding that!
+22276: That's not a verb I recognise.
+22314: You can't see "
+22424: Nothing to do!
+22441: There are none at all available!
+22852: That was a rhetorical question.
+22879: Score notification off.
+22902: Score notification on.
+22931: Objects you have handled:
+22956: None.
+23429: You have visited:
+23623: You are unable to.
+23642: Nothing obvious happens.
+23692: That's not a direction.
+23715: Not that way you can't.
+23862: You lack the dexterity.
+23943: Done.
+23991: Please answer yes or no.
+24017: Are you sure you want to quit?
+24176: Removed.
+24207: Failed.
+24226: Restore failed.
+24243: Ok.
+24253: You achieve nothing by this.
+24285: Save failed.
+24300: Ok.
+24407: There is no score in this story.
+24445: Transcripting is already off.
+24511: Transcripting is already on.
+24577: But it's dark.
+24697: You find nothing of interest.
+24997: Your singing is abominable.
+25031: You smell nothing unexpected.
+25058: Oh, don't apologise.
+25086: Keep your hands to yourself.
+25111: You achieve nothing by this.
+25340: Taken.
+25351: You are always self-possessed.
+25874: You taste nothing unexpected.
+25908: You talk to yourself a while.
+25935: This provokes no reaction.
+25961: What a good idea.
+25987: Futile.
+26016: Keep your hands to yourself!
+26041: You feel nothing unexpected.
+26066: If you think that'll help.
+26312: Time passes.
+26336: That seems unnecessary.
+26432: You wave, feeling foolish.
+51576: You slept when you were dead.
+55789: Hints have been disabled.
+74959: No Les, No Moore.
+75006: Excuse me for not rising.
+75169: It was.
+75232: And no place to go.
+75325: And that is Strange.
+75399: We planted him raw.
+75455: But slow on the draw.
+75709: Non-explosive burning fluid.
+75739: I told you I was sick!
+75904: Gone underground for good.
+76015: Going!
+76040: Going!!
+76065: Gone!!!
+76594: Quite a few of them.
+76658: Four hinges, two on each side.
+77112: He's beyond help.
+77361: You don't have it.
+78265: You already have.
+78280: You'll have to figure out how.
+78437: BRAINS!
+78701: You ate 'em.
+79217: Heavy, solid marble.
+80076: The gun isn't loaded.
+80198: Only shells go in shotguns.
+80288: Hmthe gun is unloaded.
+80305: You close it back up.
+80326: It is closed.
+80790: Still have a pair.
+80895: You only have one.
+80915: That just doesn't look tasty.
+81144: Peeking through here and there.
+81176: You see nothing special.
+81244: Two feet for a shoeless joe.
+81265: You only have one.
+81285: That just doesn't look tasty.
+81322: Don't worry about that.
+81370: Waiting isn't the answer.
+81402: Maybe if you had a weapon?
+81434: The spellbook, specifically.
+81462: It's a nice, thick, heavy book.
+81498: HIT THE MAN WITH THE BOOK.
+81568: problem. Go raid the fridge.
+81624: That's different then.
+81670: No luck, huh?
+81686: What do zombies normally eat?
+81730: You'll have to break it open.
+81766: Have you looked at everything?
+81794: A piece of stone would be sharp.
+81866: One of the corners looks odd.
+82022: Just GO NORTH.
+82082: Have you tried to COUNT MY RIBS?
+82126: Or COUNTing anything, really.
+82158: Uttered the magic words?
+83236: There's only one.
+83359: Shoot what, Tex?
+83435: You can't cut with that!
+83660: That's better.
+83689: There, there.
+83712: Ack! Easy there zombie!
+83741: Meh.
+83746: Be man, just be.
+83890: It is unloaded.
+83968: It is loaded.
+86757: in" or "notin
+86773: opmhas" or "hasnt
+86915: }" at end of "objectloop
+89044: A Z-Machine Z-Grade Movie Text Adventure 
+Copyright (c) 2005 William
+McDuff.
+89268: Score:
+89276: Moves:
+89284: Time:
+89292: You can't go that way.
+89400: Violence isn't the answer to this one.
+89428: This dangerous act would achieve little.
+89456: I don't think much is to be achieved by that.
+89516: Digging would achieve nothing here.
+89544: There's nothing suitable to drink here.
+89572: That would scarcely empty anything.
+89600: You can only get into something free-standing.
+89672: But you aren't in anything at the moment.
+89704: But there's no water here to carry.
+89760: You can't put something inside itself.
+89788: You jump on the spot, fruitlessly.
+89816: You would achieve nothing by this.
+89868: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+89964: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+90048: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+90160: You see nothing unexpected in that direction.
+90424: Please give one of the answers above.
+90452: [You can't "undo" what hasn't been done!]
+90488: [Can't "undo" twice in succession. Sorry!]
+90528: "Oops" can only correct a single word.
+90556: It is pitch dark, and you can't see a thing.
+90588: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+90648: You seem to want to talk to someone, but I can't see whom.
+90692: To talk to someone, try "someone, hello" or some such.
+90732: I didn't understand that sentence.
+90792: You seem to have said too little!
+90816: You can't use multiple objects with that verb.
+90852: You can only use multiple objects once on a line.
+90888: You excepted something not included anyway!
+90920: You can only do that to something animate.
+90952: That's not something you need to refer to in the course of this game.
+91000: I didn't understand the way that finished.
+91032: Sorry, you can only have one item here. Which exactly?
+91132: Nothing practical results from your prayer.
+91188: That would be less than courteous.
+91212: Is that the best you can think of?
+91236: You can't put something on top of itself.
+91268: Are you sure you want to restart?
+91292: Attempt to end transcript failed.
+91316: Attempt to begin transcript failed.
+91344: You aren't feeling especially drowsy.
+91372: Real adventurers do not use such language.
+91404: There's not enough water to swim in.
+91432: There's nothing sensible to swing here.
+91460: You're carrying too many things already.
+91492: You lack the nerve when it comes to the crucial moment.
+91560: You'll have to say which compass direction to go in.
+91600: The game file has verified as intact.
+91628: The game file did not verify as intact, and may be corrupt.
+91672: The dreadful truth is, this is not a dream.
+91732: Considering the ruined state of your mouth, the reply comes out as a
+unintelligible groan.
+91796: There's no sense in attacking that.
+91848: Better not.
+91860: You might want to ask for a mouth that works first.
+91896: While violence is probably the answer, not in that particular way.
+91944: For that, you'd need lips, now wouldn't you?
+92020: Look, you just got out of a grave, you don't need to dig yourself (or
+anyone else, for that matter) a new one.
+92100: Considering you lack lips, that would be difficult.
+92136: Even if you could form the words, who takes orders from zombies?
+92184: You decide you really don't want God noticing you're up and about at the
+moment.
+92268: You grunt tunelessly.
+92388: you already did. Ah, forget it.
+92452: Considering the number of rotting holes in you, that's probably not a
+good idea.
+92516: If you ever find your tongue.
+92540: Without a tongue, you moan unintelligibly.
+92580: You don't have many brain cells left.
+92608: No, no, no, that was the first thing you did.
+92656: There's not much holding your wrists together.
+92806: You're fairly sure your jaw is rotted and tongue is missing, and what
+skin remains on your bones is gray and rotten. Generally, you look kind of
+fragile.
+93048: HINTS disabled.
+93384: I think you fail to see the gravity of the situation.
+93484: The full moon shines down through a high valley in the surrounding
+mountains, illuminating the hardy, though bare trees and the slightly shaggy
+browning grass in this small cemetery.
+
+Your grave is nearby, a bit messy from
+where you climbed out of it, your large gravestone illuminated clearly enough
+to examine by moonlight. There are other tombstones about as well.
+
+The
+graveyard is ringed by a six-foot iron fence, a massive gated stone arch to the
+north the sole gap. The gates are open, and look to have been that way for a
+very long time.
+93864: A darkly dressed young man is here.
+93892: A darkly dressed, dead young man is here.
+93924: A darkly dressed, dead young man with his head split open, his brains
+visible is here.
+93984: A darkly dressed, dead young man with an empty skull is here.
+94126: You turn to see him fingering for his shotgun, and you pause.
+94170: The last thing you hear is the boom of the shotgun as the goth unloads
+both barrels into your skull, separating it from the rest of your body.  This
+halts your attempt to leave, as well as ending your second life.  Or your first
+unlife.  Whatever.
+94346: You move towards the gate, and feel a wave of hunger pangs. You mind
+whirls a bit, your head turning without really thinking about it to focus your
+eyes on the dead goth's skull.  You find yourself taking a step back towards
+the body before you regain a hold of yourself.
+
+Perhaps you should feed your
+hunger, before your hunger consumes you.
+94586: You manage to lumber out of the graveyard and get onto the road.  Then a
+second wave of hunger pains hit, and it all goes red.  You're not really aware
+of what happens next as your hunger consumes you, but shortly after, you're not
+aware of anything at all.
+94820: Mmm...brains.
+94880: H'ors D'oeuvres:
+94936: They eat their victims, you understand that Mr. Berman?
+94980: That's what keeps them going."
+95008: -- Dr. Foster, Dawn of the Dead (1978)
+95108: You don't think you can climb it.
+95132: You look at a tombstone at random.  It reads:
+95484: Also, your own gravestone is nearby.
+95740: Your gravestone is much too heavy to move.
+95868: Hitting the gravestone does little damage.
+95900: The dirt is packed too thick to put something back in.
+96156: It's not really a crack any more, since you've taken the stone. Just a
+break in the gravestone where a piece is missing.
+96308: The rest are tombstones.
+96408: He's not really in the graveyard.
+96514: Nearly Hallowe'en's a good bet, given the other cliches indulged by the
+snot that summoned you.
+96756: I mean, people generally don't go around raising the dead when the moon
+is merely waning gibbous, do they?
+96832: The single moon shines among stars which are beyond counting.
+96876: Waning gibbous means after a full moon, but not yet half. Like the moon
+will be for the next few days. It's full tonight.
+97124: You're not going to waste your time counting grass.
+97256: Though the grass is as "pretty as a picture" through most of the
+graveyard, you have no reason to suspect that the groundskeeper's name might be
+Willy.
+97424: It must be near winter.
+97444: The fence is a lot of pointy, black metal spear-like things held
+together by welded cross beams, and held up by large, sturdy looking stone
+columns at the corners and the gate. You're not sure why a graveyard would need
+a fence, though. Perhaps people were dying to get in.
+97636: There's quite a few spears of metal, and a few cross-beams.
+97804: There's a sign hanging from the top of the arch, facing outwards,
+unreadable from this side.
+97944: The hinges are covered in rust, or iron oxide, caused by the oxidation
+of metal by rain. Closing the gate would be difficult.
+98046: But there has been, and it caused the rust.
+98080: A sturdy wooden sign, unreadable from inside the graveyard.
+98412: the undead eat, anyway?
+
+He's rather thin, and the trenchcoat hangs
+loosely on his fragile frame. You also notice a large bulge in his coat, which
+may be related to what seems to be the stock of a shotgun sticking out near his
+collar.
+99024: .
+
+His trenchcoat lays over him like a shroud
+99100: You've heard of dead weight? This is the case here. He's too heavy to
+shove.
+99258: However, if you go near him again, you better do something pretty final,
+or he'll probably shoot you for disobeying him.
+99344: The goth looks up and notices you coming closer to help again. "I
+thought I told you to-" He breaks off as the thought that you've disobeyed him,
+finally manages to sound off in his head.  His shotgun slides out, and before
+you can react, he fires, the blast making your second chance at life (or
+unlife, rather) very short.
+99576: He refuses to become taken with you.
+99626: Besides, you already have a dead body.
+99928: You'll have to find a piece to hit him with.
+99960: As you come up behind him, he barely notices you, intent on drawing a
+mystical circle or something.  You interrupt his work when you smash the heavy
+book on the top of his head.  You hear a rather wicked snap...
+
+Dammit, your
+wrist broke.
+
+However, the goth goes down heavily on top of the bag of blood
+and powder, sending them spraying out around him. He doesn't move at all as you
+carefully tie a few tendons back together.  By the time you get your hand
+reattached, you determined he's not breathing.  Finally, you manage to connect
+things successfully enough to let go of the book. As you look down at the dead
+boy, wiggling your fingers, you find yourself looking longingly at his skull
+with hunger for a moment, then realize what you're doing.
+100484: The fact that he's concious suggests that he might object. The fact
+that he has a large bulge in his coat, and that bulge has a gun stock sticking
+out near the collar suggests he might object violently.
+100624: You shamble up towards the darkly dressed young man... and suddenly
+lunge!  Your hands wrap around his throat, causing his eyes to bulge slightly. 
+He turns suddenly, trying to get away and there is a vicious snap!
+
+However, it
+turns out to be your arms, as they break at the elbows, leaving your hands
+around his neck, but unattached.
+
+It turns out that you're not the type of
+zombie that can continue to work when you're in multiple pieces.  The goth
+pulls out his sawed-off shotgun and unloads, making your skull multiple pieces
+that don't work either.
+101102: The words in the book didn't get in his head either.
+101282: Perhaps something else.
+101300: Even your rotted mind pauses at the thought of swinging a loaded
+shotgun around.
+101356: You swing the shotgun at the goth's head with all your might!  You
+don't hear the crack of the goth's skull, though.  It occurs, mind, but the
+roar of the shotgun going off is louder.  And since you were holding the muzzle
+end, the blast hits you full in the chest.  Silly zombie.  You should have
+enrolled in a Firearm Safety Course for the Undead, I guess.
+101614: Grabbing the end of the sawed-off like an aging golf pro, you wind up
+and swing the butt of the gun at the goth's head.  The stock comes whistling
+down and -
+
+Well, you miss the head completely. Golf never was your game.
+
+You
+take a mulligan and try again, this time connecting and doing some damage to
+the skull.  In a few moments, you've broken the head open and exposed the tasty
+looking grey matter within.  Time for the nineteenth hole, perhaps.
+102276: Besides, abusing dead bodies is a bad precident to set in your case.
+102324: The gothic young man nods that round, full skull of his at you. "Good. 
+My first minion.  With a few more, I can rule this piddly one-horse town.  Be
+helpful and stay close, but out of the way while I get another of your brethren
+above ground."
+
+With that, he pulls out some white powder and a clear bag of
+some thick red liquid, turning to a second grave to begin his task again, to
+summon another zombie.  Might even get it right this time.
+
+However, the little
+snot seems to have forgotten the spellbook at the ground near your feet.
+
+You
+feel hungry.
+102720: The goth's brain is covered with dark hair and looks quite solid.
+However, the hidden brain inside makes you salivate a bit.
+102808: The goth's head has been split open, blood soaking into the grass and
+revealing a delicious looking brain...
+102884: The goth's skull has been broken open and his brains scooped out
+leaving a broken, empty skull.
+102952: The only brain that might be around here is your own, and that's only a
+maybe.
+103008: Just touching the brains is too much for you, and you lunge towards
+them, mouth open.
+103096: There's nothing left of particular interest inside the skull.
+103286: Well, it's resting inside his skull, anyway: you're not sure how much
+he uses the thing...
+103356: You could literally blow his brains apart, true, but that would make
+such a mess of the brains.
+103422: The gun fires, the shotgun blast breaking open the skull indeed, but
+also pulping the brains inside into goo and and splattering them all over the
+grass.  You find yourself on your knees, licking at the goo, trying to eat what
+you can.  Shortly after, that's where the villagers find you.  Another shotgun
+blast rings out and...
+103656: Dammit Ash, you're a zombie, not a doctor.
+103688: The goth is already close-minded.
+103790: It's empty.
+103830: You'll have to break in somehow.
+104024: The brains squish tastily in your mouth, the grey folds overflowing
+your non-existant lips as you gobble up the ambrosiac brain matter, gulping it
+down like a half-starved teenager.  In moments, you're licking your fingers,
+getting the last of the juices off of them. Forget Colonel Sanders' eleven
+herbs and spices, this stuff is awesome.
+
+It's about then you realize that
+you've just eaten someone else's brain.  It was tasty, though, and you
+certainly feel a lot better, that hunger in your head receeding, your mind
+clearing.
+
+You shrug away moral concerns.  You're a zombie, after all. This is
+what zombies do.  Besides, if they catch you, they'll have no mercy for you
+anyway.  They'll kill (or possibly rekill) you and bury you six feet deep, or
+cremate you or something.  You've been dead once, and you've got no desire to
+return to 'the big sleep'.
+104660: There's none left here.
+104716: You might bruise 'em, and who wants bruised brains?
+104756: There's no reason to attack the empty skull.
+104788: The only noggin you can count on around here is your own.
+104936: The goth's blood and the blood in the bag he once carried have mixed,
+staining the grass an absolutely enchanting autumn scarlet.
+105042: It's underneath the goth's heavy body.
+105250: He's little more than a waste of a luscious, juicy brain.
+105368: Alas, it's below the goth, unable to be seen.
+105404: A handful of unidentifiable white powder that the young goth is using
+to make designs on the grass.
+105748: He's little more than a waste of a luscious, juicy brain.
+105830: Don't worry about it.
+105922: The graveyard rests on top of a hill which overlooks the entire town.
+From here, you can see that the valley that holds this mountain town is quite
+dark; the streetlights are the only illumination among the houses visible over
+the sharp drop to the west.  A nearby stadium which is bright with activity,
+though and other lights are visible on the Main Street.  A few stores and
+businesses are open it seems, the cliff top letting you see over the nearest
+buildings.  There's a few house lights in a cluster to the northeast as
+well.
+
+To the east, you see the road leading down to another lit house near the
+single visible traffic light, and beyond that the lights of bridge that spans
+the chasm that pens in this town against high cliffs and mountains to the south
+and west.
+106460: You look at this sight a moment, then stagger off downhill to feed your
+unnatural hunger...or would, if this wasn't an intro!
+106552: Still, you wonder what you could have done to earn the last lousy
+point.
+106606: You look at this sight a moment, then collapse in death. Apparently, in
+this intro the spell animating you has a distance limit. Oh well.
+106856: If you open it, you'll be able to examine the contents.
+106896: You page through the book.
+
+It's loaded with spells and incantations
+which all seem to require a complicated verbal component that must be said
+perfectly for the spell to work correctly.  Which means it's useless to you,
+since your lips, mouth and tongue are ruined enough that you can't speak at
+all.
+
+Fortunately for you, the goth seems to have messed up as well. 
+Unfortunately however, it seems uncontrolled zombies tend to go mad with hunger
+if they're not fed regularly on human brains.
+
+The book recommends that all
+uncontrolled zombies should be shot. How unpleasant.
+
+You close the book back
+up.  Sooner or later the little snot is sure to figure out he messed up. 
+You'll have to deal with him.  And your hunger.
+107404: You page through the book.
+
+It's loaded with spells and incantations
+which all seem to require a complicated verbal component that must be said
+perfectly for the spell to work correctly.  Which means it's useless to you,
+since your lips, mouth and tongue are ruined enough that you can't speak at
+all.
+
+Fortunately for you, the goth seems to have messed up as well. 
+Unfortunately however, it seems uncontrolled zombies tend to go mad with hunger
+if they're not fed regularly on human brains.
+
+The book recommends that all
+uncontrolled zombies should be shot. How unpleasant.
+107894: As you pick it back up, you consider that a more direct application
+might be in order.
+107954: The goth nods.  "Yes, look after that.  You are indeed my slave.  Hold
+on to it while I finish this circle and add to my army and make you just one of
+many." With that, he returns to the task at hand.  You hold the book in both
+hands.  It's not exactly light reading.  The thing must weight as much as a
+human head with brain in it.
+108238: Or possibly pointedly jagged.
+108260: You go to one of the stone columns and attack it, with little effect.
+108308: You take the jagged piece of marble and smash it with authority against
+your own skull.  It seems that the stone is weighty and pointed enough to smash
+through bone.  But as your brain is turned into non-functioning mush, you can't
+help but wonder if there was a better way to find this out...
+108516: You'll have to be more specific, there's lots of stone around.
+108584: The goth is looking at you, his hand straying to the trigger of the
+shotgun in his coat.
+108646: The goth sees you picking up the sharp, jagged stone, and takes no
+chances, especially since you just disobeyed him. The boomstick booms, and all
+fades to black.
+108828: . As an added bonus, you look like a bad-ass wearing it.
+108872: The bulge in the young man's coat looks to be a shotgun of some sort.
+108970: A quick check reveals a single shell in it, but you find no other ammo.
+109070: A quick check reveals that it is unloaded.
+109100: As you reach for the shotgun stock, the goth twists away from you,
+reaching for the gun himself.  "Don't touch that," he tells you. "Go over there
+and stand by your grave."  You obey for the moment, though due to the shotgun,
+not mystically commanded.
+
+The goth soon goes back to his work, but remains on
+guard.  If you disobey him, he's likely to shoot you.  Unless, of course, you
+disobey him enough that shooting you isn't a possibility.
+109416: You move towards the goth, attempting to take the shotgun from behind. 
+Unfortunately, your undead stench betrays you, as he whirls on you just as you
+get behind him, scrabbling away. "You're not doing what I told you!" he yelps,
+and you see the fear in his eyes.  Then the barrel of the shotgun is pointed
+between yours.  There's a blast, and...
+109666: You place the shotgun to your head and pull the trigger. In a moment,
+you've successfully cleared the world of undead.  Why you've chosen to do so?
+Now that's an interesting question...
+109804: The gun goes click, since it doesn't have ammo. Alright, enough with
+the Russian Roulette already.
+109876: You've already fired the shotgun, and don't have any more ammo.
+109924: You realize that if you fire the shotgun, it will make a lot of noise,
+and possibly draw unwanted attention...
+110148: Shortly after that, there's another shot, and in short, you're not sure
+what happens shortly after that, as you're dead once more.
+110376: It's considered traditional to, you know, shoot shells.
+110416: It's generally other people who tell zombies to eat lead.
+110508: One-my, two-my, three-my...
+110592: You see nothing special about that part of your body.
+110648: Which according to the scientists doesn't prove anything, you know.
+110702: You're missing your left pinky.
+110768: a few missing, a few rotted. Helps explain why you can't manage to talk
+comprehensibly.
+110840: The state of your mouth is so bad you can't even lisp.
+110880: A significant number, long and grungy.
+110908: 303.  Short three, since you're missing a finger.
+110948: One piece, though counting skin is odd, you know.
+111024: Stop playing with yourself, will you?
+111208: At the moment, you've covered them with a rather good-looking black
+trenchcoat that makes you look quite the bad-ass zombie.
+111296: Your feet are bare, the shoes either rotted off, or lost in your climb
+out of the grave.
+111380: You can't count 'em.
+111406: You're not exactly well-preserved.
+111432: One slightly ragged piece, though counting skin is odd, you know.
+111520: Summon a hint from the dead?
+111552: Well, he does warn you, doesn't he?
+111602: If you do anything threatening, he'll assume something's gone wrong.
+111652: Like trying to leave without a command from him.
+111712: You're not strong enough to throttle him.
+111744: There is something he'll let you pick up.
+111776: Violence is the answer to this one.
+111804: Well, the goth will shoot you if you leave or attack him, you'll have
+to deal with him first.
+111872: Don't read on until the goth can no longer kill you.
+111912: Have you tried leaving the graveyard to find a snack?
+111952: Have your tried to EAT HIS BRAINS?
+111984: Seems goth boy's got a thick skull.
+112028: You'll need a better tool.
+112048: Nope, not the columns holding the fence and gate up.
+112088: Have you looked at your own grave?
+112164: First you need to do something about the goth killing you, so see the
+first hint.
+112220: Next, you need to deal with your hunger, so see that hint.
+112264: Have you tried to LOOK AT THE TOMBSTONES?
+112308: How about LOOK AT CRACK then LOOK AT CHARLIE WATTS?
+112364: Look at the bag of blood (and its label) before you kill the goth?
+112444: In this advanced, unhinted mode, you have to find all thirteen ways to
+kill Ashley.
+112504: Have you figured out Ashley's gender?
+112532: How about counting other body parts?
+112558: Greetings, living ones.  Thanks for playing the revised version of my
+IntroComp 2005 entry.  The second rising of this particular version, so to
+speak.
+
+Much to my surprise and pleasure, this game came in first place in the
+competition.  I now feel honor-bound to get my 
+
+I should thank my own zombie
+legion, my playtesters, Erik Fredrickson, David Van Ommen, Chris Molloy Wischer
+and Katzy, without which this game would have been a shambles, instead of just
+the player being one.  Ronnie Simonds, David Whyld, Sam Kabo Ashwell, and Emily
+Short pointed out further bugs, and I'd like to thank them too. The latter
+three, as well as Dan Shiovitz, reviewed my game, which I am thankful for as
+well.
+
+I'd also like to thank Eileen Mullin of XYZZY News; Jacqueline Lott, the
+organizer of this year's competition; and the dezinens of IF MUD who's brains I
+ate and acquired the knowledge to overcome the difficulties in
+programming.
+
+Finally, I'd like to thank Chris Bauer, who gave me inspiration
+for this one day in a chat, and helped me iron out the plot, action, and
+puzzles in my head.  And of course, last of all, I'd like to thank those who
+voted for my game, and you, the player.
+
+See you with the full version by next
+year, optimists!
+
+Cheerfully,
+
+William Adam McDuff
+Karakuwa, Miyagi,
+Japan
+wmcduff at mac dot com
+113692: Translation:
+114648: You die, the world fading into darkness...instinctively, you start to
+scrabble.
+
+However, this time, your hands find no purchase, and you sink deeper
+into the inky blackness, until you calm down, peaceful, and proud that you've
+managed to finally return to death.
+114836: You die, the world fading into darkness...instinctively, you start to
+scrabble, your hands gaining purchase on the darkness and you pull yourself up,
+breaking the surface of the ground once more, finding yourself in a familiar
+time and place...
+115056: Without a tongue, you moan unintelligibly.
+115086: As you say the mystical word, you hear a piercing whine behind you. 
+The pale, grotesque face scares you senseless as it lurches toward you, hands
+extended.  You groan in horror.  It's Michael Jackson!  He gets his hands on
+you...
+
+You feel obedient to the "King of Pop" becoming one of his backup
+dancers until a brave soul shoots you, putting you out of your misery.
+115354: As you say the mystical word, you hear a piercing whine behind you. 
+The pale, grotesque face, the dark hair, the sunken eyes, they combine in an
+image that scares you senseless as it lurches toward you, hands extended. You
+groan in horror.  As you look at him, he begins to move in an unmistakable
+fashion, his arms moving rapidly and stiffly from left to right.
+
+NO!  Michael
+Jackson has risen from the pop graveyard!  You know what needs to be done.
+
+In
+a few (rather violent) moments, the "King of Pop" is reburied. However, you
+probably shouldn't say that word again.
+115848: Alas, in your case, dead can't dance.
+115876: Deadsville is a Comedy-Horror Text Adventure by William McDuff,
+copyright 2005.  The author's comments, amusing things to do after you've
+finished the game, and hint menu can all be accessed by typing 'Hint' during
+the game (twice, the first time), or AMUSING afterwards.  Have fun!
+116100: Someone who's undead would know their history.
+116186: Though you should probably pick something specific to attack.
+116320: You don't trust them to straighten again.
+116380: Why don't you just be happy that you're up and moving around?
+116424: Yeah, I love The Police. No, the B-side on the "Every Little Thing She
+Does Is Magic" single is called Shambelle, isn't it?
+116524: You don't have any lips to purse.
+116604: You stop, and it resettles.
+116628: That person doesn't appear to need your help.
+116802: You weren't able to get hold of it.
+116828: You remove the shell from the shotgun.
+116902: You weren't able to get hold of the shotgun.
+116982: You weren't able to get hold of the shell.
+117012: You load the shell into the shotgun.
+117180: die mode.  Your object is no longer to make it out of graveyard alive
+(or moving, rather) but to die in every possible way you can. There are
+thirteen ways to die, and each time you find one, the game will be reset to the
+beginning so you can find the next way to kill yourself.
+
+Happy dying!
+117680: give" or test "has" or "hasnt" with a non-attribute on the object
+117728: , but it is longer than 2 bytes so you cannot use "."
+

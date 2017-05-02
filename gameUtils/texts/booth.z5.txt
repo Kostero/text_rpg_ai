@@ -1,0 +1,214 @@
+7634: Score:
+7648: Moves:
+7688: Time:
+8381: Csdba KpmTo repeat a command like "frog, jump", just say "again", not
+"frog, again".
+8464: You can hardly repeat that.
+8794: You can't begin with a comma.
+8857: You seem to want to talk to someone, but I can't see whom.
+8948: To talk to someone, try "someone, hello" or some such.
+10822: I didn't understand that sentence.
+10932: I didn't understand that number.
+10964: You can't see any such thing.
+10997: You seem to have said too little!
+11029: You aren't holding that!
+11058: You can't use multiple objects with that verb.
+11098: You can only use multiple objects once on a line.
+11177: You excepted something not included anyway!
+11215: You can only do that to something animate.
+11253: That's not a verb I recognise.
+11283: That's not something you need to refer to in the course of this game.
+11339: You can't see "
+11384: I didn't understand the way that finished.
+11505: There are none at all available!
+14436: Sorry, you can only have one item here.  Which one exactly?
+23514: At the moment, "it"
+23586: and "me" means
+23613: exn** Player objects must have "number" prop **
+29017: M.
+33904: Nothing to do!
+33920: . You have died
+34198: Please give one of the answers above.
+34258: I beg your pardon?
+34276: dxn[You can't "undo" what hasn't been done!]
+34318: ehn[Can't "undo" twice in succession. Sorry!]
+34392: Sorry, that can't be corrected.
+34422: Think nothing of it.
+34444: "Oops" can only correct a single word.
+34515: Please answer yes or no.
+34535: Are you sure you want to quit?
+34569: Are you sure you want to restart?
+34595: Failed.
+34612: Restore failed.
+34625: Ok.
+34640: Save failed.
+34651: Ok.
+34666: The game file has verified as intact.
+34693: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+34868: Transcripting is already off.
+34891: End of transcript.
+34913: Score notification on.
+34935: Score notification off.
+34959: You have visited:
+35006: None.
+35231: You are carrying nothing.
+35274: Taken.
+35286: You are always self-possessed.
+35406: You already have that.
+35494: That isn't available.
+35537: That's hardly portable.
+35561: That's fixed in place.
+35585: You're carrying too many things already.
+35661: Already on the floor.
+35683: You haven't got that.
+35726: Dropped.
+35771: But it isn't there now.
+35790: Removed.
+35871: You can't put something on top of itself.
+35949: You lack the dexterity.
+36029: Done.
+36071: Pick it up before you put it in.
+36155: Alas, it is closed.
+36177: You'll need to take it off first.
+36219: Let's just create a spacial paradox by putting something inside itself!
+36331: Done.
+36373: That isn't in your possession.
+36396: First pick that up.
+36690: That's not something you can enter.
+36758: You can only get into something on the floor.
+36872: But you aren't in anything at the moment.
+36981: You'll have to say which compass direction to go in.
+37082: You can't go that way.
+37241: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+37343: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+37431: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+37848: But it's dark.
+37861: You find nothing of interest.
+37894: But it's dark.
+37984: You find nothing of interest.
+38012: You can't see inside, since it is closed.
+38111: That doesn't seem to be something you can unlock.
+38153: It's unlocked at the moment.
+38181: That doesn't seem to fit the lock.
+38235: That doesn't seem to be something you can lock.
+38301: First you'll have to close it.
+38329: That doesn't seem to fit the lock.
+38383: That's not something you can switch.
+38415: That's already on.
+38459: That's not something you can switch.
+38491: That's already off.
+38537: That's not something you can open.
+38569: It seems to be locked.
+38591: It's already open.
+38699: That's not something you can close.
+38731: It's already closed.
+38775: You're not wearing that.
+38823: You can't wear that!
+38845: You're not holding that!
+38869: You're already wearing that!
+38919: That's plainly inedible.
+38952: Tastes like chicken.
+38976: That was a rhetorical question.
+39004: Sure, and set the smoke detectors off.
+39050: Your prayer is sent.
+
+Some deity misunderstands you and sends down to
+you five chickens and a cow, all of which immediately run away.
+39268: Your prayer is sent and received through the proper channels, noted and
+cataloged, stamped with the date of which it was received, sorted in order of
+priority and then of request, re-routed several times to different departments,
+and by the time it reaches The Big Guy Upstairs(TM) you've already gone and
+solved your own problem yourself.
+
+No, this isn't a remake of "Bureaucracy".
+39546: Nothing practical results from your prayer.
+39583: The dreadful truth is, this is not a dream.
+39621: That seems unnecessary.
+39671: What a good idea.
+39691: You smell nothing unexpected.
+39745: You taste nothing unexpected.
+39825: You feel nothing unexpected.
+39851: Digging would achieve nothing here.
+39883: Cutting that up would achieve little.
+39915: You jump on the spot, fruitlessly.
+39949: You would achieve nothing by this.
+39979: There's nothing suitable to drink here.
+40013: But there's no water here to carry.
+40045: Oh, don't apologise.
+40067: You're playing this game, you're damned already.
+40135: We're not here to discuss your diet.
+40167: Quite.
+40179: Violence isn't the answer to this one.
+40213: There's not enough water to swim in.
+40245: There's nothing sensible to swing here.
+40279: You can't usefully blow that.
+40333: No, you can't set that.
+40357: No, you can't set that to anything.
+40420: But you aren't holding that.
+40485: It is fixed in place.
+40507: You are unable to.
+40527: That would be less than courteous.
+40552: Nothing obvious happens.
+40581: Is that the best you can think of?
+40611: That's not a direction.
+40630: Not that way you can't.
+40680: You achieve nothing by this.
+40711: Futile.
+40718: You lack the nerve when it comes to the crucial moment.
+40767: You talk to yourself a while.
+40790: This provokes no reaction.
+40818: There is no reply.
+40838: Nothing is on sale.
+40884: I don't think much is to be achieved by that.
+40922: Time passes.
+40938: You aren't feeling especially drowsy.
+41048: No need to pick it up now.
+41394: No big loss to humanity, I tell ya.
+41523: Sure, that looks non suspicious, a psychopath attacking a phone booth.
+41595: Whatever.
+41614: You've no need to pull it now that it's fallen over.
+41978: You've already pushed it over, dumbass.
+42035: You give the damn phone booth a mighty push and watch as, in a brilliant
+slow-motion display, it topples over, glass sides shattering onto the lawn,
+welded door crumpling under the impact, the phone itself flying off the hook
+and landing pathetically in a mass of metal and plastic. You have the distinct
+feeling that the booth will bother you no more.
+42289: The act of pushing the phone booth over has opened it up, in a sense.
+42381: The door is all bent, there's no way you can close it now, even if you
+wanted to.
+42456: Duh.
+42469: A familiar sound now comes out of the phone's receiver, lying
+pathetically on the ground.  You glare in satisfaction as you to the repetitive
+BEEPBEEPBEEPBEEP sound and then as the recorded voice of the Operator, the
+person you're going to marry someday, comes on and says...
+
+"... if you would
+like to make a call, please hang up and try again.  If you would like to make a
+call, please hang up and try again ..."
+42810: Yay!
+42963: ,
+
+
+
+
+
+
+And so you were taken from this place to another place, where
+you had absolutely no damn idea what it is you're supposed to be doing.  It's
+OK, you'll be all right.  Just don't pick up the phone booth, or else you'll
+die.
+43406: a NyQuil nightmare by R. Noyes
+43460: You can't go that way.
+43536: It is pitch dark, and you can't see a thing.
+43568: As good-looking as ever.
+43684: Like most any other nondescript New England towns, there's not much to
+see or do here, but maybe you'll find something amusing and enjoyable to do.
+43788: A shiny metal phone booth sits in the center of the square.
+44188: No longer will you need to push it over.
+44220: A fallen phone booth lies, crumpled, on the ground.
+

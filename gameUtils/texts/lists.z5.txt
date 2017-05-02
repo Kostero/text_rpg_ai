@@ -1,0 +1,865 @@
+20053: Csdba KpmTo repeat a command like "frog, jump", just say "again", not
+"frog, again".
+20136: You can hardly repeat that.
+20466: You can't begin with a comma.
+20529: You seem to want to talk to someone, but I can't see whom.
+20620: To talk to someone, try "someone, hello" or some such.
+22494: I didn't understand that sentence.
+22604: I didn't understand that number.
+22636: You can't see any such thing.
+22669: You seem to have said too little!
+22701: You aren't holding that!
+22730: You can't use multiple objects with that verb.
+22770: You can only use multiple objects once on a line.
+22849: You excepted something not included anyway!
+22887: You can only do that to something animate.
+22925: That's not a verb I recognise.
+22955: That's not something you need to refer to in the course of this game.
+23011: You can't see "
+23056: I didn't understand the way that finished.
+23177: There are none at all available!
+26108: Sorry, you can only have one item here.  Which one exactly?
+34590: At the moment, "it"
+34662: and "me" means
+34689: exn** Player objects must have "number" prop **
+39689: M.
+44632: Nothing to do!
+44648: . You have died
+44928: Please give one of the answers above.
+44988: I beg your pardon?
+45006: dxn[You can't "undo" what hasn't been done!]
+45048: ehn[Can't "undo" twice in succession. Sorry!]
+45122: Sorry, that can't be corrected.
+45152: Think nothing of it.
+45174: "Oops" can only correct a single word.
+45245: Please answer yes or no.
+45265: Are you sure you want to quit?
+45299: Are you sure you want to restart?
+45325: Failed.
+45342: Restore failed.
+45355: Ok.
+45370: Save failed.
+45381: Ok.
+45396: The game file has verified as intact.
+45423: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+45598: Transcripting is already off.
+45621: End of transcript.
+45643: Score notification on.
+45665: Score notification off.
+45902: You are carrying nothing.
+45945: Taken.
+45957: You are always self-possessed.
+46077: You already have that.
+46165: That isn't available.
+46208: That's hardly portable.
+46232: That's fixed in place.
+46256: You're carrying too many things already.
+46332: Already on the floor.
+46354: You haven't got that.
+46397: Dropped.
+46442: But it isn't there now.
+46461: Removed.
+46542: You can't put something on top of itself.
+46620: You lack the dexterity.
+46700: Done.
+46742: You need to be holding it before you can put it into something else.
+46822: Alas, it is closed.
+46844: You'll need to take it off first.
+46874: You can't put something inside itself.
+46964: Done.
+47006: That isn't in your possession.
+47029: First pick that up.
+47323: That's not something you can enter.
+47391: You can only get into something on the floor.
+47543: But you aren't in anything at the moment.
+47652: You'll have to say which compass direction to go in.
+47753: You can't go that way.
+47912: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+48014: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+48102: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+48519: But it's dark.
+48532: You find nothing of interest.
+48565: But it's dark.
+48655: You find nothing of interest.
+48683: You can't see inside, since it is closed.
+48782: That doesn't seem to be something you can unlock.
+48824: It's unlocked at the moment.
+48852: That doesn't seem to fit the lock.
+48906: That doesn't seem to be something you can lock.
+48972: First you'll have to close it.
+49000: That doesn't seem to fit the lock.
+49054: That's not something you can switch.
+49086: That's already on.
+49130: That's not something you can switch.
+49162: That's already off.
+49208: That's not something you can open.
+49240: It seems to be locked.
+49262: It's already open.
+49370: That's not something you can close.
+49402: It's already closed.
+49446: You're not wearing that.
+49494: You can't wear that!
+49516: You're not holding that!
+49540: You're already wearing that!
+49590: That's plainly inedible.
+49623: Not bad.
+49639: That was a rhetorical question.
+49667: This dangerous act would achieve little.
+49701: Nothing practical results from your prayer.
+49737: The dreadful truth is, this is not a dream.
+49775: That seems unnecessary.
+49825: What a good idea.
+49845: You smell nothing unexpected.
+49899: You taste nothing unexpected.
+49979: You feel nothing unexpected.
+50005: Digging would achieve nothing here.
+50037: Cutting that up would achieve little.
+50069: You jump on the spot, fruitlessly.
+50103: You would achieve nothing by this.
+50133: There's nothing suitable to drink here.
+50167: But there's no water here to carry.
+50199: Violence isn't the answer to this one.
+50233: There's not enough water to swim in.
+50265: There's nothing sensible to swing here.
+50299: You can't usefully blow that.
+50353: No, you can't set that.
+50377: No, you can't set that to anything.
+50440: But you aren't holding that.
+50505: It is fixed in place.
+50527: You are unable to.
+50547: That would be less than courteous.
+50572: Nothing obvious happens.
+50601: Is that the best you can think of?
+50631: That's not a direction.
+50650: Not that way you can't.
+50700: You achieve nothing by this.
+50731: Futile.
+50738: You lack the nerve when it comes to the crucial moment.
+50787: You talk to yourself a while.
+50810: This provokes no reaction.
+50838: There is no reply.
+50858: Nothing is on sale.
+50904: I don't think much is to be achieved by that.
+50942: Time passes.
+50958: You aren't feeling especially drowsy.
+51073: You push the door open. It doesn't creak at all.
+51122: Leave that alone; there's nothing new about it.
+51162: The door to the north is ancient, stained, knotted wood. It looks
+terribly out of place here. In fact, it
+51245: out of place here. The door
+51308: You push the door open. It doesn't creak at all.
+51361: The door is closed.
+51379: I refuse to ruin the suspense.
+51411: You push the door open. It doesn't creak at all.
+51453: Closed.
+51462: This is a comfortably cluttered room. Cluttered with bookshelves,
+mostly. To one side is a large desk, on which a computer squats regally.
+51568: A lumpy couch is the only other furniture of note.
+51627: Leaving so soon?
+51668: Leave it alone. It's done its job.
+51698: Clearly a geek's collection. Fantasy and science fiction on one side,
+puzzle books and loony philosophy on the other, and several shelves of little
+toys and puzzles in the middle.
+51832: You decide that the stuff on the shelves is not what you're in here for.
+51892: You decide that the stuff on the shelves is not what you're in here for.
+52018: The desk is obviously from that school of design that says that
+furniture should be clean, efficient, unadorned, and capable of being
+disassembled with allen wrenches and put into a box six feet by three feet by
+two inches high. On the desk
+52217: The desk doesn't have any drawers. It doesn't even have an inside.
+52271: This is not that sort of game.
+52306: The couch is occupied.
+52328: This is not that sort of game.
+52356: The couch is occupied by a genie.
+52412: The computer comes to life: whirr, feeple, feep! You settle yourself
+before the keyboard as text appears on the screen...
+52508: The computer returns to life...
+52910: You lean back. The genie glances over, and asks, "Got it working yet?"
+52968: You lean back and glance around.
+53003: A single line flashes on the screen:
+53043: You can't make out what's inside the translucent box.
+53087: The translucent glass is seamless.
+53125: You turn the box over carefully, then shrug and swing it sharply towards
+the table...
+
+"No no don't break it I'm awake!" A gleaming hand catches your
+wrist. The genie gently -- very gently -- removes the box from your grasp, and
+tucks it carefully away into nothing.
+53327: The genie looks you over, squinching his face in a manner to which mere
+mortal flesh could not aspire. "So. You're here to learn, are you?"
+53435: The genie yawns. "Ready to begin?"
+53495: Resting on the couch, and snoring in a manner which you suspect
+infringes copyrights owned by several local earthquakes, is a huge genie.
+Honest.
+53598: A huge genie is resting on the couch.
+53626: You always thought genies were folklore, but now that you've encountered
+one you find you really can't mistake it. He's eight feet tall, bright
+shimmering bronze, absolutely covered with tasteless wrought-gold jewelry, and
+he smells of ozone.
+53809: He's also quite dead to the world, snoring like mad on the lumpy couch.
+53870: He's reading a magazine.
+53899: He's eating a box of Turkish Delight.
+53938: He's playing with a yo-yo.
+53967: a. He's smoking a cigar.
+53996: He's playing "System's Twilight" on a laptop.
+54041: He's playing "So Far" on a laptop.
+54078: He's fiddling with a Berrocal sculpture.
+54280: The genie rolls over.
+54398: The genie glances up at you. "I'm not about to fall asleep, not with you
+muttering to yourself and scribbling all those notes."
+54590: "I have no idea what you're blithering about."
+54736: "You don't get it. You act. I guide."
+54789: The genie, unconscious, quite ignores you.
+54827: "What part of a yes-or-no question don't you understand?"
+54902: The genie, unconscious, quite ignores you.
+54940: "I thought the question was simple enough. Are you interested in
+learning what I have to teach? Yes or no will do."
+55055: The genie, unconscious, quite ignores you.
+55104: The genie frowns thunderously -- and maybe that won't be a metaphor for
+long. "Fine, go play around on your own. See where it gets you. Wake me when
+you're tired of wasting time." He tosses you the glass box, turns over, and
+begins snoring. Thunderously.
+55310: "Tell me when you're ready, then."
+55368: The genie, unconscious, quite ignores you.
+55417: The genie nods in satisfaction. "Right. Let's see, let's see..." He
+pulls a massive tome out of nowhere; opens it; pokes studiously at it; turns a
+page; snorts. Then he arises from the couch to his full height, raises the
+book, and booms...
+55615: Then he plops back into the couch, and adds, "...a self-paced course."
+He hands you the book.
+55763: fotahn
+"Congratulations," the genie booms. "You are now an accredited
+hacker of Lisp." He hands you something. "I'll let you keep playing with the
+machine. I," he adds with sudden intensity, "am going to return to my
+nap."
+
+The genie vanishes in a puff of silver smoke. A moment later, the couch
+follows.
+56018: The genie's possessions are not important.
+56050: It's a plate of thin gold, engraved with angular designs. In the center
+you see the words
+56135: .
+As you turn the plaque over, a slip of paper flutters to the floor.
+57353: in shell works well, sir.
+
+Mr. Lisper, I won't buy it.
+I can't use it. I
+won't try it.
+
+Very well, sir, back to lists, sir.
+I'll go through some points
+I missed, sir.
+Some more things on crisp lisp lists, sir.
+If a list's a list of
+costs, sir.
+And that list is also lost, sir.
+That's called a crisp cost lisp
+lost list, sir.
+But that list becomes a myth, sir,
+So it's not a crisp lisp
+list, sir.
+It's instead a myth cost list, sir.
+In this myth the lisp lists
+scythes, sir.
+Lifts, sir. Lofts, sir. Even Cliffe, sir.
+So this myth lost lisp
+cost list, sir
+Is now a lift, Cliffe, scythe, myth list, sir.
+Mr. Crisper, our
+new lisper
+Lists all lift and loft myth lists, sir.
+And it also lists the cost,
+sir.
+It's our last lisp, the very best lisp.
+It's called Lifty Scythy Lofty
+Costly
+Cliffe Myth Lost Last Best Crisp Lisp, sir.
+
+WHOOPS!
+
+Now you slip, sir.
+Now you trip sir.
+You just slipped and dipped and tripped, sir.
+Take your
+lists, sir. Take your costs, sir.
+Take your scythes and lifts and lofts,
+sir.
+Take your Cliffe, sir, with his myths, sir.
+Take these things and get them
+lost, sir.
+
+Mr. Lisper, that's the last, sir.
+I'm about to drop this class,
+sir.
+I'm through with Lisp; no more I'll delve.
+I'm leaving 15-212.
+58448: is copyright 1996 by Andrew Plotkin. It may be copied, distributed, and
+played freely.
+58517: I will make the source code available when the competition is over.
+58568: Type "help" for help with whatever you are currently stuck on.
+58617: Thanks for beta-testing and comments: Michael Kinyon, Dylan Thurston,
+Dave Seybert.
+58693: The author was very, very tempted to call this game "Lists And Lists: An
+Interactive Take That, Mister Gareth Rees And His Goddamn Recursive Toychest
+Lock Puzzle."
+58831: Consider going inside.
+58862: Check out the desk.
+58880: Check out the box.
+58904: Read the plaque.
+58926: The genie is your guide.
+58963: That's not how education works.
+59006: I'm not sure what you mean.
+59030: I'm not sure what you mean.
+59609: Table of Contents:
+61015: This is a story about Lisp. Actually -- I'll admit it right now -- it's
+about Scheme, which is a cleaned-up version of Lisp. More suitable for
+teaching, and (more to the point) easier for me to implement inside the
+Z-Machine. And -- to be really honest -- I didn't implement much of Scheme
+either. But I think it'll do for a start.
+61264: Since you have the Scheme interpreter right underneath your fingers,
+your job is to try all the examples. And experiment with new ones. Your friend
+the genie will pose problems for you to solve, but it's all self-paced. Play
+around as much as you want. Refer to this manual as much as you want. Or blow
+the whole thing and go fight dragons. Will I care? (Sniff.)
+61536: When you start the Scheme interpreter, you see a prompt:
+61588: You type things, and the interpreter responds. Try it. Type "5" and hit
+Enter. The interpreter will respond with "5".
+61690: That's all that happens in Scheme. You can go home now. Bye!
+61911: , or Pascal, or Inform. In those languages, you type in an entire
+program, and chuck it into the compiler, which either grinds you out a program
+or complains. In Scheme, or Lisp, you build programs out of small pieces. It's
+much friendlier.
+62088: But enough about Pascal. What happens in Scheme?
+62129: What happens -- really -- is that you type an expression, and the
+interpreter evaluates the expression and prints the result. Read, evaluate,
+print. Every expression evaluates to another expression (unless it produces an
+error.) We just demonstrated this;
+62365: . Numbers evaluate to themselves. If that's confusing, just try to get
+used to it. If it makes sense, you'll probably be confused later on, because
+most expressions
+62490: evaluate to themselves. Oh well.
+62528: We start with atoms.
+62547: An atom is a bunch of characters. Letters, numbers, most punctuation.
+Here are some atoms:
+62688: If you're familiar with languages like Pascal, you're probably
+desperately trying to read some of those as additions, or subtractions, or
+whatever. Don't bother. They're all just atoms. Letters, numbers, and
+punctuation are all treated the same in an atom.
+63055: So ho, you ask, what about numbers? Good point. An atom which is
+entirely made up of numbers, except possibly for a minus sign at the front,
+counts as a number. (Get it? Counts? Never mind.)
+63198: We've already said that a number evaluates to itself. That is, if an
+expression consists of just an atom, and the atom is a number, the value of
+that expression is that very expression -- which is to say, that atom.
+63378: What do other atoms evaluate to? Well, try it. I'll just cover my ears
+--
+63462: Don't worry; no permanent damage done. Most non-numeric atoms produce
+errors when you try to evaluate them. This is because they are not bound to any
+value. But what that means, we'll get to later.
+63616: A single atom is an expression. Is there any other kind of expression?
+Of course. An expression can also be a list. One list -- that's important. An
+expression is a single atom or a single list.
+63759: What's a list? A list is a list of expressions. That is, a list is a
+list of atoms and lists. A list is written as a pair of parentheses surrounding
+the contents of the list. Here's a list:
+63902: It contains one atom. Here's another list:
+63943: It contains two atoms. The order is significant;
+64020: A list can contain nothing:
+64047: is the empty list. It's famous. It's also called
+64198: As I said, a list can contain both atoms and other lists. So here are
+four more lists:
+64294: Don't be frightened by the stacks of parentheses. It's all recursive.
+That last list, for example, contains three expressions: the atom
+64433: . Which, itself, is one-term list containing only the list
+64482: Pm. Which is, itself, a one-term list containing only the atom
+64533: .. Get it?
+64548: By the way, remember that an expression is either a single atom or a
+single list.
+64631: is three separate expressions, not any funky kind of
+parenthesis-stripped list or anything. If you type several expressions at the
+Scheme prompt, the interpreter will evaluate them one at a time.
+64808: We've seen that numeric atoms evaluate to themselves, and other atoms
+seem to produce raging error messages. What does a list evaluate to? Aha!
+You've heard of functions? I really hope so. Anyway, when you evaluate a list,
+you're calling a function. The first element of the list is the function; the
+rest of the elements are its arguments.
+65064: Right! Addition! Let's take a closer look. We typed in an expression:
+65125: . Nothing magic there; it's a list containing three atoms, of which the
+first is a plus sign and the last two are both the number 1. The Scheme
+interpreter evaluates all of these. The plus sign means addition; the
+65286: atoms both evaluate to themselves. So the interpreter runs the addition
+function, and hands it a pair of
+65367: atoms to work with. One plus one is two, so the function returns the
+expression
+65430: . And that's what
+65466: Sneaky people will raise their hands at this point. What am I trying to
+pull? "The plus sign means addition?" Ok, ok. What I mean is, the atom
+65579: is not one of those pernicious undefined atoms. It
+65622: defined. Its value is the addition function. Here, try it:
+65678: The interpreter doesn't try to actually print out the addition function,
+because that's a bunch of internal program code. All functions print out
+looking like
+65902: the terms of a list? Indeed I did. This is important. Guess what
+65959: evaluates to? Ok, it's not too hard, but we'll go through it step by
+step anyway. It's a three-term list. The first term is
+66058: , which evaluates to the addition function. The second term is the list
+66154: ohm. The third term is
+66202: oxm. The addition function is handed the results,
+66284: Actually, the addition and subtraction functions can take any number of
+arguments, not just two.
+66364: What happens if you try to evaluate a list, and the first term doesn't
+evaluate to a function? You get errors, that's what. There are a couple of ways
+you can get this wrong. As your end-of-chapter exercise, meditate upon the
+following exchanges:
+66560: Oops, one more thing. The empty list -- whether you write it as
+66626: -- evaluates to itself. No function is called.
+66790: It sure would be handy if there were a way to produce an arbitrary atom.
+Well, watch:
+66870: acts sort of like a function which returns its argument unchanged.
+(Actually, it's not a function; it's a special piece of syntax. Can you see
+why? It breaks a rule of functions. Answer at the end of this chapter.) You can
+quote a list too:
+67172: That last example is important. It doesn't matter that
+67295: End of the chapter time. Why is
+67326: not a function? Because when Scheme evaluates a function, it evaluates
+all the arguments before handing them in to the function. The argument to
+67446: evaluated; it's handed straight in, so that it can be handed out
+unchanged. Watch this:
+67524: Special syntax forms are applied the same way functions are, but they
+can have funkier effects, and they don't necessarily evaluate all their
+arguments. Keep track of this fact, because someday it'll unconfuse you about
+something.
+67702: has a value which is automatically defined by the interpreter. Can we
+define values for atoms ourselves? Would I ask if the answer were no? Watch
+this:
+67828: is another piece of special syntax. It evaluates its third argument, and
+assigns the resulting value to its second argument, which must be an atom. (Why
+can't
+67947: be a function? Because all the arguments to a function are evaluated. If
+68132: returns the value it just assigned. We set
+68244: We don't have to use numbers, by the way. Let's set
+68370: evaluated. We can't use the
+68492: That works. Notice that we've replaced the earlier definition of
+68556: . Also note that addition righteously complains when we feed it an atom
+which isn't a number. And also also note that
+68681: You can replace the definitions of predefined functions, too. You could
+do
+68742: , for example. But I really don't recommend it. Reset the interpreter if
+you get carried away with this stuff.
+68825: Last trick of the chapter. What's going on here?
+68892: Back to lists. We often want to take them apart, see what makes them
+tick, and put together new ones. For that, we'll need some tools.
+68993: A list can be split into two parts: its first term, and its everything
+else. Now, in Scheme (and Lisp), the first term is called the list's
+69235: and I'm so sick of it I'm going to leave you in the dark. Go look it up,
+if you care.
+69356: . See that? The car is the first
+69723: are atoms. But they're defined to evaluate to functions, just like
+69785: ebxm. Get over it.)
+69823: Note the quote marks. What happens if you try to evaluate
+70114: , you can construct a list. The
+70269: and reassemble it. Maybe it'd help if I did it like this:
+70341: Oh, those lovely inside-out Scheme expressions! When in doubt, break out
+the magnifying lens and count parentheses.
+70487: ezhm had better be a list. If you break this rule, you get a broken,
+twisted, evil-twin kind of not-really-a-list, called an "improper" or "dotted"
+list.
+70613: I don't feel like explaining this right now, so just try not to do it.
+70777: I'm being tricky with that last one. If you try it yourself, make sure
+you've defined
+70846: the way I did a few paragraphs back. Also, see the difference a quote
+can make?
+70916: Some functions test a condition. The
+71147: does. More convenience; you don't have to quote
+71372: functions work as you'd expect. There are also some pre-defined
+functions which test other properties.
+71667: function compares numbers, but it produces an error if you try to use it
+on atoms or lists. For that, you need the
+71765: functions. These are slightly different, and the difference is sort of
+technical and confusing, but it's historical. You want to learn Scheme, you
+have to know
+71995: For atoms (including numbers), they both work as you'd expect.
+72156: For complex objects, such as lists and functions, things are trickier.
+If you hand two complex objects to
+72425: opm creates a list of two atoms. Evaluating
+72464: creates another list of two atoms. The lists have the same contents, but
+they're two separate objects. So they aren't
+72555: to each other. Now, when we do
+72691: , on the other hand, works sensibly. Two lists are
+72781: . Given the definitions above, you'll see that:
+73001: Up above I said that functions are as tricky as lists, when it comes to
+comparison. In fact, they're trickier. If two functions stem from the same act
+of creation, they're
+73141: , just like lists. But otherwise, two functions are never
+73254: if two functions do the exact same thing. I mean, there's no way for a
+73313: to tell. Not in all cases. Computers, forget it.)
+73364: Scheme offers a nice assortment of conditional syntax forms. Since I'm a
+lazy bum, I've only implemented the most basic one, which is
+73517: I've written it on multiple lines, but that's just for clarity. The
+point is, you have a list of clauses, and each clause is a list of two
+expressions: a test and a result. The
+73650: syntax goes through the clauses, in order. For each one, it evaluates
+the test. If the test returns true (anything but
+73743: ), it evaluates the result, and returns that value. If the test returns
+73802: , it goes on to the next clause. If all of the clauses return
+73962: If you want a final "default" clause, which will be used if all the
+others fail, you can use
+74083: You're still confused. Well, hark to the example.
+74225: . (Again, we've typed it in on several lines. Notice that the
+interpreter prints a single-arrow prompt if you've started a list and not
+finished it yet; the expression won't be evaluated until you've typed it all
+in. As a bonus, the status line shows how many left parentheses are currently
+hanging open. Cool, huh?)
+74464: There'd be no point to Scheme (or Lisp) if you couldn't define your own
+functions. You get a function when you evaluate a lambda-expression.
+74631: See? A function! You can probably guess what it does, but let's check:
+74765: as the argument. You don't need the definition, by the way.
+74906: It's a little hard to read, but count the parentheses and you'll see how
+it works.
+74969: Time to be more specific. The
+74998: syntax takes two arguments. The first must be a list of atoms, which are
+the names of the arguments of the function. The second is an expression which
+is evaluated to produce the function result.
+75226: Only, not really. Function argument definitions are local, not global.
+The assignment of
+75327: . In the outside world, the real world,
+75410: This is important. It's called static binding. Comp Sci types think it's
+really cool. It means that functions are all wrapped up in themselves -- they
+can't have side effects, and they can't be affected by outside influences
+(besides their arguments, of course.) Um, mostly. If you're careful. We'll get
+back to this, I hope.
+75651: A function can have any number of arguments, including zero:
+75833: , instead of a list of atoms. The whole list of arguments (possibly
+empty) gets assigned to the atom, inside the function.
+75968: How shall we define recursion? The old (old, old) joke is "Recursion:
+See recursion." This is a stinking lie. The correct definition is "Recursion:
+If you already know what recursion is, just remember the answer. Otherwise,
+find someone who is standing closer to Douglas Hofstadter than you are; then
+ask him or her what recursion is."
+76272: The idea is that you handle the very simplest case directly. For more
+complex cases, you chop off the littlest toe of the problem, handle that bit,
+and call yourself on the remaining nearly-as-big problem... because you know
+you can handle it. Because you know you can handle the
+slightly-smaller-than-that problem. Because... eventually, because you know you
+can handle the very simplest case. In math, your teacher called this "proof by
+induction."
+76634: stuff; they're designed to split a list into the first bit and the
+remaining nearly-as-big bit. Perfect! Let's use this to define a function which
+finds the
+76784: Well, that's a bargeload of parentheses, isn't it. Let's sort through
+it. We define
+76855: to be a function, that is, the result of a lambda-expression. This
+function takes one argument,
+76932: . It consists of a
+76953: expression. First clause: if
+77012: . Otherwise, return
+77035: . That's all.
+77050: Got it yet? The idea is this: if you have a one-term list, the last term
+is the first term. You can check this by seeing if
+77188: mpty. So if
+77252: . Otherwise, we have a list which is two terms or more -- so we can find
+its last element by calling
+77439: And lo, it works.
+77464: You often want to define temporary values -- helper functions, or
+temporary storage for partially-computed values, or whatever. Scheme allows you
+to do this with the
+77641: What goes on here is this: First, each of the value expressions is
+evaluated. Then a local binding is made, with each value assigned to its atom.
+Then the result expression is evaluated, with those assignments in place. The
+local assignments are thrown away, and the value of result is returned.
+77852: This sort of temporary assignment is exactly like what happens with
+function arguments. The definitions are only visible to the result expression
+-- not in the outside world. In fact, you can rewrite a
+78054: syntax is easier to read. Example time...
+78247: of the assignments are made. More correctly, none of the local
+assignments are visible to the value expressions; they're only visible to the
+result expression. If you want to make several definitions that refer to each
+other, you could use nested
+78799: all reference each other. For that, you need
+78881: i., but any of the assigned values can use any of the other atoms being
+bound. Sort of. The catch is, the atoms being bound can only be used
+79083: , that is) isn't "protected" inside a lambda-expression. If you think
+this is an arbitrary restriction, consider: if it were legal, what the heck
+would it evaluate to?
+79311: . If there were more terms being defined in the
+79352: , the results could be even stranger. This is because I used a fairly
+unpleasant hack when writing the
+79431: code. (A legal hack, honest. The Scheme standard says that this sort of
+79838: has been defined to be a function. What function is this? It's the
+function which the
+79940: . What was
+80098: . Let's check that:
+80372: itself. The function doesn't return an atom; it returns a function.)
+80560: are evaluated before any of the assignments are made. So that
+lambda-expression is evaluated, producing a function which returns whatever is
+assigned to
+80673: . But at this point, nothing
+80721: yet. And -- remember static binding -- functions are all wrapped up in
+themselves. The function can't see the temporary assignment to
+80824: which is made later on. That assignment only exists within the scope of
+the
+80885: statement. You can do it with
+81056: Oops, I started talking about scope. Time to define it.
+81170: and variants -- are fixed at the point where the function was defined.
+That's what "static" means. Look at the position of the lambda expression, see
+what
+81289: statements it's inside, and you can tell what assignments it knows
+about. That's the function's scope.
+81405: -- are different. They're visible everywhere. They can also change at
+any time. Convenient, but possibly a source of bugs.
+81498: Best to illustrate the difference with an example. Can't you define the
+evil function that returns itself more simply, this way?
+81609: Well, yes, that works. But it's dependent on the global definition of
+81668: . If you break that, the function stops working.
+81851: . If a function doesn't rely on top-level definitions that might change,
+its behavior is completely predictable. This is generally a good thing.
+82245: of side effects. Every time you change the value of a variable, you
+affect everything else that uses that variable.)
+82340: Well, that's it for the manual. We haven't covered all of Scheme by any
+means, but we've gone through all the foundations. If you've been following
+along with the genie's exercises, you have a handle on how to think in Scheme.
+82610: Pick it up, and find a real Scheme interpreter, if you're interested in
+learning more. If you ever figure out how continuations work, please come and
+explain them to me.
+82733: If it crosses your path of life to learn Lisp, you'll find that it's
+pretty much what you've learned here; just a little messier. (The biggest
+difference is that atoms have two distinct values assigned to them -- a data
+value, and a function value. I've never understood why. It's just something to
+remember.)
+82958: If you think this whole thing is a waste of your time... then why did
+you read this far?
+83025: Have fun.
+83044: This is a list of all pre-defined functions. Some of them have more
+functionality than the tutorial describes, so listen up.
+83479: Returns the list whose terms are the given arguments.
+83667: ., or are the same atom, or were created at the same time. Returns
+84140: if all the arguments are the same number. If there is only one argument,
+always returns
+84262: if all the arguments are numbers in strictly descending sequence.
+Otherwise returns
+84327: . If there is only one argument, always returns
+84421: if all the arguments are numbers in descending sequence, not necessarily
+strictly. Otherwise returns
+84498: . If there is only one argument, always returns
+84592: if all the arguments are numbers in strictly ascending sequence.
+Otherwise returns
+84657: . If there is only one argument, always returns
+84751: if all the arguments are numbers in ascending sequence, not necessarily
+strictly. Otherwise returns
+84828: . If there is only one argument, always returns
+84909: Returns the sum of all the arguments. If there are no arguments, returns
+85008: Returns the first argument minus the sum of all the other arguments. If
+there is only one argument, returns its negative. If there are no arguments,
+returns
+85203: is a function, whatever you give as the argument is evaluated before it
+is handed in. So
+85320: This is a list of all the special syntax forms available.
+85449: Causes an error. The arguments are ignored. This aborts the evaluation
+of an expression; once any part causes an error, the entire thing results in an
+error.
+85625: Goes through the clauses, in order. If the first (or only) term of a
+clause evaluates to
+85694: upm, it is skipped and the next one tested. The leftmost clause whose
+first term evaluates to non-
+85767: uxm is the winner. If it has only one term, that non-
+85812: value is returned. If it has two, the result of evaluating the second
+term is returned. If no clause is a winner,
+85993: (a top-level definition). If
+86020: iwxm already has a top-level definition, the older definition is
+replaced. The new value is also returned.
+86120: Returns a function. The scope of the function is the scope in which the
+lambda-expression is evaluated to produce it. When a function is called, the
+arguments it is given are assigned to the atoms in
+86600: All the definitions in the list of clauses are evaluated, in the current
+scope. Then a new scope is created, in which those values are assigned to their
+respective atoms (a local or temporary definition.)
+86886: is evaluated. A new scope is created in which the resulting value is
+assigned to
+86949: . In this new scope,
+86972: is evaluated. A newer scope is created in which the resulting value is
+assigned to
+87037: . This continues until all clauses are handled.
+87194: A new scope is created in which the atoms of all the clauses are
+assigned undefined values. All the definitions of the clauses are then
+evaluated, in this new scope. (For the results to be valid, all uses of the
+atoms must be inside lambda-expressions.) The resulting values are written into
+the scope, completing it, and then
+87460: And finally, I have been convinced to put in more about improper lists.
+(Chapter 8 was where I said that I didn't feel like explaining them.) This
+section is tacked on as reference material because you don't really need to
+know about improper lists for the purposes of this tutorial, but you're
+undoubtedly going to stumble into them anyway. So you can think of this chapter
+as an appendix. A weird little continuation tacked on after the manual's full
+stop. Ha! I just kill myself sometimes. Or at least strain my back reaching
+after feeble jokes.
+87899: list is not a list. That is, if the second argument of a
+88006: You can also create an improper list by typing the dotted form itself.
+88448: a list, it's just one thing; so there's no more to do. The appendix is
+written after the dot, and then you're done.
+88564: a list, then you're not writing an improper list at all. This follows
+directly from the rules, and a little experimentation shows that it's true:
+88817: , and assume the result is a list, you will get an ugly surprise. Many
+Scheme functions (including some built-in ones) do make this assumption, and
+they will choke horribly when fed improper lists. However, if you want to use
+improper lists for your own purposes, there's no reason not to.
+89059: Hey, that door wasn't there last time you walked by this spot. What the
+heck?
+89550: [The following codes have special meaning at the ">>" prompt:
+89710: Read the manual, if you have one.
+89744: Read the manual.
+89763: Redisplay the problem that you are working on.
+89879: Force garbage to be collected.
+94183: rxm[Computation may be in an infinite loop. Continue?] (y/n):
+95975: Heap:
+95999: Atom name space:
+96142: "Your first problem is just to acquaint you with the system. Start up
+the machine, and define
+96242: You can ask me to 'check' when you're ready, or 'repeat' the problem if
+you need me to.
+96315: "Let's try creating some lists. Define values for
+96489: to be the absolute value function for integers. That is,
+96640: to be a function that adds up a list of integers. So
+96702: . Make sure it works correctly for the empty list;
+96776: "This problem is like the last one, but more general. Define
+96827: to add up an arbitrarily nested list of integers. That is,
+96988: apm. You can assume the list will have at least one term."
+97038: "Last problem. You're going to define a function called
+97085: axm. This function should take one argument. Now pay attention here:
+97142: does two different things, depending on the argument. If you give it
+97236: . But if you give
+97437: Note that when you create a new pocket function, previously-existing
+functions should keep working."
+97508: "No problem here, pal."
+97534: The genie glares at the machine. Then he turns to you. "I'm sorry; the
+thing's memory is full. I can't check your solution. You'll have to reset the
+thing and do it all again." He shrugs helplessly.
+97686: He types:
+97718: The machine responds:
+98025: The genie glowers hugely at you. "Sigh. Yes, I do give hints. I am
+required to tell you, blah blah blah, irreparable loss of fun, blah blah, no
+refunds, fine. So if you still want help, ask again. If any hint I give isn't
+enough, ask again."
+98235: "Have you read up through chapter 6 of the manual?"
+98375: , but it's optional, because numbers evaluate to themselves. But you
+can't put a quote before the
+98452: . The first argument of a
+98521: "Have you read up through chapter 10 of the manual?"
+98597: to be identical lists, that will satisfy the first condition. They will
+be
+98879: list. This creates a new list, so if you do it twice, you get two lists
+which are not
+99009: "Have you read up through chapter 12 of the manual?"
+99151: "Have you read up through chapter 13 of the manual?"
+99236: example in chapter 13. You have a list of numbers to add up; consider
+the first term separately from all the rest."
+99328: "The base case, the simplest case, is when the list is empty; then you
+can just return 0."
+99400: v."If the list is not empty, add the first term to the sum of all the
+rest of the terms. Use the
+99632: "The change is that when you're considering the first term of the list,
+it might be a list instead of a number."
+99770: function. If it is a list, call
+99885: "Have you read up through chapter 14 of the manual?"
+99995: . Be efficient; finding the
+100144: of the remaining terms, choose the larger of these. But you don't want
+to call
+100207: twice on the same list. That would be miserably inefficient. So you
+should use a temporary binding to store the result of the call."
+100309: "The base case will be a one-term list, not an empty list. And in that
+case the maximum is just the first (only) term. Use the same test that was used
+in the
+100581: . But this can't work, because the variable can only be defined to one
+value at a time, and you have to have more than one pocket function working at
+a time."
+100849: "In fact, the best way to store the pocket value is as an argument to a
+function that returns a function. Because of static scoping, the inner function
+always sees the same value for the outer function's bindings. If you call the
+outer function more than once, you get distinct inner functions, with distinct
+bindings."
+101077: "Life is much easier if you think about a pocket-generator function
+rather than a pocket function. A pocket-generator is a function
+101237: "The generator will construct its pocket functions so that they can
+call the generator when needed."
+101404: As you can see, this is a direct transcription of the definition of a
+pocket function. It is given one argument
+101619: "There is more than one way to do this, but since you're asking for
+hints, I'll describe the most elegant and persnickety way. Use
+101720: to create a recursive function. (The alternative would be to define the
+generator to be a top-level function. But that would be cluttery; and if anyone
+redefined the generator's name to be something else, all the pockets would stop
+working.)"
+101964: "I really can't get any more explicit."
+102003: The genie looks at the screen. "The interpreter isn't even started up!
+It's the green button. Go on, get with the, uh, get started."
+102102: The genie appropriates the keyboard. "Let's see, now..."
+102228: isn't defined at all. Or if it is, you've done something really magical
+to it. Try again."
+102322: "Aha! Very good."
+102343: "Nope; that's not 27. Try again."
+102410: "That isn't going to work."
+102462: "That isn't going to work."
+102541: "Oops -- that's not right. They should be
+102637: h."Oops -- that's not right. They should not be
+102787: "Nope. Remember that
+102911: You used the simpler one, using one-term lists. The trickier solution
+would be something like this:
+103030: because they are both the thing defined on the first line. See?"
+103299: "Oops -- that's not right. The result should be
+103413: "Oops -- that's not right. The result should be
+103518: "Oops -- that's not right. The result should be
+103754: "Oops -- that's not right. The result should be
+103808: "Seems to work."
+103978: "Oops -- that's not right. The result should be
+104032: "Seems to work."
+104231: "Oops -- that's not right. The result should be
+104285: "Seems to work."
+104588: "No; a pocket function should return another function, when given an
+integer argument."
+104854: "No; a pocket function should return another function, when given an
+integer argument."
+105270: "I'm not sure what you want me to check."
+105316: An Interactive Tutorial
+Copyright 1996 by Andrew Plotkin.
+(First-time
+players should type "about".)
+105420: You can't go that way.
+105496: It is pitch dark, and you can't see a thing.
+105528: As good-looking as ever.
+105572: Everything here is just like it always is, except for that door.
+105624: You've been that way before.
+105656: The door isn't nearly so interesting from the inside.
+105696: You expected puzzle-less IF?
+105720: The couch has that peculiar slump of cushion that says that this couch
+has seen much service, mostly to a single vast rear end. Indeed, the depression
+is perfectly molded to the tuchus that occupies it at this very moment.
+105872: The computer is a bulky grey thing. It gives the distinct impression
+that it's full of vacuum tubes. The monitor is blank at the moment. However,
+the keyboard is surmounted by two painfully obvious buttons; the green one is
+labelled "run", and the yellow one is labelled "reset".
+106080: It's a small cube of frosted glass. Neatly etched on one side are the
+words "Break glass to wake owner." Something turns slowly inside the box... you
+can't quite see what.
+106204: "How To Program In Lisp!"
+106840: What's An Atom?
+106856: What's a List?
+107154: 1. What's Going On Here
+107196: 2. What's An Atom?
+107444: 3. What's a List?
+108014: 5. Quoting Expressions
+108230: 6. Defining Atoms
+108552: 7. List Chopping
+108818: 8. List Constructing
+109228: 9. Tests and Logic
+110496: 12. Creating Functions
+111010: 13. Fun With Recursion
+111296: 14. Local Definitions With Let
+111782: 15. Recursion, Functions, Endless Fun
+112586: 18. Reference: Functions
+112996: 19. Reference: Syntactic Forms
+113254: 20. Reference: Improper Lists
+

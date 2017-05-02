@@ -1,0 +1,561 @@
+28773: Identification number:
+30211: There is no reply.
+30248: Nothing is on sale.
+30701: Dropped.
+30849: . Not bad.
+31751: Wrahn seem interested.
+32847: Done.
+32930: You are carrying nothing.
+33045: Keep your mind on the game.
+33070: You hear nothing unexpected.
+33984: But it's dark.
+34001: You find nothing of interest.
+34059: Quite.
+34089: Nothing to do!
+34124: o. You have won
+34192: It is now pitch dark in here!
+34219: I beg your pardon?
+34283: Sorry, that can't be corrected.
+34312: Think nothing of it.
+34365: As good-looking as ever.
+34397: You can hardly repeat that.
+34422: You can't begin with a comma.
+34536: I didn't understand that number.
+34565: You can't see any such thing.
+34601: You aren't holding that!
+34642: I'm not sure what "
+34694: That's not a verb I recognize.
+34732: You can't see "
+34839: Nothing to do!
+34856: There are none at all available!
+35304: You must supply a noun.
+35327: You may not supply a noun.
+35352: You must name an object.
+35375: You may not name an object.
+35400: You must name a second object.
+35436: You must supply a second noun.
+35667: That was a rhetorical question.
+35694: Score notification off.
+35717: Score notification on.
+36089: You are unable to.
+36108: Nothing obvious happens.
+36248: That's not a direction.
+36271: Not that way you can't.
+36418: You lack the dexterity.
+36503: Done.
+36585: Please answer yes or no.
+36611: Are you sure you want to quit?
+36731: Removed.
+36762: Failed.
+36781: Restore failed.
+36798: Ok.
+36808: You achieve nothing by this.
+36840: Save failed.
+36855: Ok.
+36962: There is no score in this story.
+37023: Transcripting is already off.
+37089: Transcripting is already on.
+37155: But it's dark.
+37230: You find nothing of interest.
+37486: Your singing is abominable.
+37520: You smell nothing unexpected.
+37547: Oh, don't apologize.
+37576: Keep your hands to yourself.
+37601: You achieve nothing by this.
+37909: Taken.
+37920: You are always self-possessed.
+38432: You taste nothing unexpected.
+38466: You talk to yourself a while.
+38493: This provokes no reaction.
+38519: What a good idea.
+38545: Futile.
+38583: Keep your hands to yourself!
+38608: You feel nothing unexpected.
+38633: If you think that'll help.
+38944: Time passes.
+38987: That seems unnecessary.
+39109: You wave, feeling foolish.
+95606: Variable stack offset wrong:
+95676: Variable stack offset wrong:
+105046: You can't move nothing.
+105084: You can't divide by zero.
+105525: Attempt to 'decide on nothing'.
+105559: Low level error.
+105709: The memory stack is exhausted.
+105751: Error handling external file.
+121192: After moving blanks to back:
+121243: Final state:
+127961: Pass 1:
+127973: Pass 2:
+127985: Pass 3:
+128229: Pass 1:
+128241: Pass 2:
+128253: Pass 3:
+128497: Pass 1:
+128509: Pass 2:
+128521: Pass 3:
+128765: Pass 1:
+128777: Pass 2:
+128789: Pass 3:
+129033: Pass 1:
+129045: Pass 2:
+129057: Pass 3:
+129301: Pass 1:
+129313: Pass 2:
+129325: Pass 3:
+129569: Pass 1:
+129581: Pass 2:
+129593: Pass 3:
+129837: Pass 1:
+129849: Pass 2:
+129861: Pass 3:
+130105: Pass 1:
+130117: Pass 2:
+130129: Pass 3:
+130373: Pass 1:
+130385: Pass 2:
+130397: Pass 3:
+130641: Pass 1:
+130653: Pass 2:
+130665: Pass 3:
+130909: Pass 1:
+130921: Pass 2:
+130933: Pass 3:
+131246: Pass 1:
+131258: Pass 2:
+131270: Pass 3:
+131601: Pass 1:
+131613: Pass 2:
+131625: Pass 3:
+131869: Pass 1:
+131881: Pass 2:
+131893: Pass 3:
+132206: Pass 1:
+132218: Pass 2:
+132230: Pass 3:
+132542: Pass 1:
+132554: Pass 2:
+132566: Pass 3:
+132878: Pass 1:
+132890: Pass 2:
+132902: Pass 3:
+133309: Pass 1:
+133321: Pass 2:
+133333: Pass 3:
+133627: Pass 1:
+133639: Pass 2:
+133651: Pass 3:
+133966: Pass 1:
+133978: Pass 2:
+133990: Pass 3:
+134233: Pass 1:
+134245: Pass 2:
+134257: Pass 3:
+134501: Pass 1:
+134513: Pass 2:
+134525: Pass 3:
+134819: Pass 1:
+134831: Pass 2:
+134843: Pass 3:
+135089: Pass 1:
+135101: Pass 2:
+135113: Pass 3:
+135464: Pass 1:
+135476: Pass 2:
+135488: Pass 3:
+135802: Pass 1:
+135814: Pass 2:
+135826: Pass 3:
+136176: Pass 1:
+136188: Pass 2:
+136200: Pass 3:
+136445: Pass 1:
+136457: Pass 2:
+136469: Pass 3:
+136713: Pass 1:
+136725: Pass 2:
+136737: Pass 3:
+136981: Pass 1:
+136993: Pass 2:
+137005: Pass 3:
+137249: Pass 1:
+137261: Pass 2:
+137273: Pass 3:
+137517: Pass 1:
+137529: Pass 2:
+137541: Pass 3:
+143582: in" or "notin
+143598: opmhas" or "hasnt
+143740: }" at end of "objectloop
+145320: Score:
+145328: Moves:
+145336: Time:
+145344: You can't go that way.
+145480: Violence isn't the answer to this one.
+145508: This dangerous act would achieve little.
+145536: I don't think much is to be achieved by that.
+145596: There's nothing suitable to drink here.
+145624: You can only get into something free-standing.
+145696: You see nothing unexpected in that direction.
+145728: But you aren't in anything at the moment.
+145788: You'll have to say which compass direction to go in.
+145828: You can't put something inside itself.
+145856: You jump on the spot, fruitlessly.
+145912: is now in its "brief" printing mode, which gives long descriptions of
+places never before visited and short descriptions otherwise.
+146004: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+146088: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+146200: You see nothing unexpected in that direction.
+146396: Please give one of the answers above.
+146424: [You can't "undo" what hasn't been done!]
+146460: [Can't "undo" twice in succession. Sorry!]
+146500: "Oops" can only correct a single word.
+146528: It is pitch dark, and you can't see a thing.
+146560: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+146620: You seem to want to talk to someone, but I can't see whom.
+146664: To talk to someone, try "someone, hello" or some such.
+146704: I didn't understand that sentence.
+146764: You seem to have said too little!
+146788: You can't use multiple objects with that verb.
+146824: You can only use multiple objects once on a line.
+146860: You excepted something not included anyway!
+146892: You can only do that to something animate.
+146924: That's not something you need to refer to in the course of this game.
+146972: I didn't understand the way that finished.
+147004: Sorry, you can only have one item here. Which exactly?
+147104: You may not name a second object.
+147128: You may not supply a second noun.
+147152: You must name something more substantial.
+147184: The use of UNDO is forbidden in this game.
+147216: That noun did not make sense in this context.
+147340: That would be less than courteous.
+147392: You can't put something on top of itself.
+147424: Are you sure you want to restart?
+147448: Attempt to end transcript failed.
+147472: Attempt to begin transcript failed.
+147500: You aren't feeling especially drowsy.
+147528: Real adventurers do not use such language.
+147560: There's nothing sensible to swing here.
+147588: You're carrying too many things already.
+147620: You lack the nerve when it comes to the crucial moment.
+147660: You would achieve nothing by this.
+147712: The game file has verified as intact.
+147740: The game file did not verify as intact, and may be corrupt.
+147784: The dreadful truth is, this is not a dream.
+150164: I didn't understand that sentence.
+150288: Variable unavailable for this action, activity or rulebook:
+150736: Too many procedural rules acting all at once.
+150770: Too many rulebooks in simultaneous use.
+150802: Too many timed events are going on at once.
+150968: Too many activities are going on at once.
+150998: Tried to abandon an activity which wasn't going on.
+151038: Tried to end an activity which wasn't going on.
+151076: You can't remove nothing from play.
+151104: Tried to access property for a value which didn't fit:
+151762: Attempt to see if a snippet of text matches something which is not a
+topic.
+151818: Attempt to find route or count steps through an implicit relation.
+151962: Attempt to ignore the turn sequence rules.
+152138: The list-writer has run out of memory.
+152170: Attempt to remove the player from play.
+152202: Attempt to remove a door from play.
+152230: Attempt to change the player to a person off-stage.
+152270: Phrase applied to an incompatible kind of value.
+152308: Memory allocation proved impossible.
+152336: Attempt to use list item which does not exist.
+152370: Syntax error in regular expression.
+152398: This interpreter does not support Unicode.
+152432: Only backdrops can be moved to multiple places.
+152566: You can't take the square root of a negative number.
+152608: You can't implicitly repeat through the values of this kind:
+152696: Attempt to set a variable to the wrong kind of object:
+166132: After asking General about "me/musco/lieutenant"
+166168: After asking General about "st/saint/stellio"
+166292: After asking General about "lime/limes"
+168316: I think you might be imagining things.
+168588: Over the water to the west is the city of St. Stellio.
+168636: singing. You shriek the chorus. The chorus shrieks you.
+168976: A Gothic monstrosity made of wire and wicker.
+169024: A bare tree.
+169036: A black case lined with dark blue velvet and shaped like a trumpet,
+though slightly larger than a trumpet.
+169112: A blazing blue abyss.
+169128: A fizzing, fermented odor rises from the cocktail.
+169164: A green sphere the size of your fist.
+169192: A green sphere, soft and almost greasy to the touch. Its surface bears
+a texture of pores like bad skin.
+169268: A green sphere, soft and almost greasy to the touch. Its surface bears
+a texture of scabs like burned skin.
+169344: A green sphere, soft and almost greasy to the touch. Its surface bears
+a texture of scales like a snake.
+169420: A lawn of clipped grass. Beyond the lawn is a boxwood hedge.
+169464: A pink orchid grows from the skull's nasal hole.
+169500: A poisonous-looking, moss-green cocktail.
+169532: A skeleton lies deep within the tangle of stems, near the water level.
+There is a bowl-shaped mass of roots below it.
+169632: After a few years on St. Stellio, everything becomes grimy.
+169676: All you smell is salt water.
+169696: As good-looking as ever.
+169732: Behind the hedge is a tent of striped cloth.
+169764: Behind the trumpeter is a velvet-lined horn case.
+169800: Beside the general stands a large metal contraption of gears,
+flywheels, pistons, and valves. Most importantly it includes a hopper at the
+top, a placard at the middle, and a spout near the base, beneath which is a
+fluted glass.
+169972: Dark green twill. You're wearing one too, only without so much
+decoration. They're hot at Hell.
+170044: Dark green, glossy leather.
+170064: Down close to the water, some roots have grown into the shape of a
+bowl.
+170128: Even castaways realize drinking brine is a terrible idea.
+170168: Following the roots of the orchid deeper into the gloom, you spot the
+rest of the skeleton.
+170276: General Livia Tudor-Adolphus is the senior colonial officer left on St.
+Stellio. She is a tiny woman in her eighties. She is wearing a dark green
+uniform. Beneath a peaked hat, and a wig made of white metal molded into the
+shape of tight curls, her face is tanned and wrinkled. Her eyes are like small
+and perfectly formed spheres of ice.
+170516: General Livia Tudor-Adolphus sits in a huge wicker wheelchair. The
+sunlight glints on her uniform's silver switchblade insignia.
+170608: Holding the glass up above your head, you dance a few stately turns
+around the wharf, proud of how you don't spill a single drop.
+170700: Holding the lime up above your head, you dance a few stately turns
+around the wharf.
+170760: Holding up the croquet mallet like a tiny, wooden partner, you take a
+few turns around the wharf.
+170828: How strange. You blink. There's nothing there. Maybe your eyes are
+fatigued by the sunlight, are playing tricks on you?
+170916: I'll take a green skull."
+170940: In the pocket of the seersucker suit is a postcard with a picture on
+the front and a secret message on the back.
+171016: It must be itchy.
+171032: It seems to be a bundle of telegrams related to the retreat
+from--sorry, strategic deployment back home from--St. Stellio... though, ah...
+hmm... it's eight feet away, covered with mold, with slime, the letters
+wriggling and kinking like the worms that appear in buckets and puddles after a
+rain storm...
+171256: It smells like the tropics.
+171276: It smells rich and salty.
+171296: It was beautiful while it lasted (which was two and a half centuries).
+Now it's slag. Beyond the Palace is a cemetery.
+171384: It's a waist-high "mechanical bar-tender," imported from home at great
+expense. What a waste. You can read the placard to see what ingredients are
+called for next, or place ingredients in the hopper.
+171528: It's abandoned.
+171540: It's empty.
+171552: It's half a mile across the bay.
+171576: It's in use.
+171588: It's just a daydream.
+171604: Just a memory.
+171616: Just out of reach.
+171640: Looks like the place the completed drink is meant to come out of.
+171688: Most of the trees up at the summit have been flattened, but one lime
+tree remains.
+171748: No, nonsense.
+171852: On the bandstand a trumpeter is practicing his instrument. He is
+wearing a blue seersucker suit.
+171920: On the front of the card is an etching that depicts the bombardment of
+St. Stellio from the harbor. Soon after the bombardment, before the dust had
+settled and the fires burnt out, General Tudor-Adolphus would be in the city,
+slitting throats and bribing the locals to turn traitor.
+
+The day after the
+garden party you were deployed, to join a war that was already won.
+172180: Please press SPACE to continue.
+172248: Red speckles and smears.
+172280: She pulls out a service revolver and with a cock of the lever and pull
+of the trigger shows you her definition of "severely."
+172368: She smells like gunpowder and ink.
+172392: Sitting beneath the rusted sword is a fat lizard, motionless as a
+statue.
+172444: Sitting in the hollow of the roots is a plump St. Stellio lime.
+172492: Sitting inside the horn case is a plump St. Stellio lime.
+172536: Smells like sap and brine.
+172556: Splinters fly out from the works, and a weak, brown, milky
+liquid--curdled with dreams of home--pours into the glass.
+
+The general frowns
+at it, then pulls a service revolver from beneath her lapel, points it at your
+head. Her finger tightens over the trigger. Apparently the drink has not been
+made to her satisfaction. (To be honest, it does look foul.)
+172812: St. Stellio lime
+172836: Striped in pale pink and yellow. Brassy notes drift out of the tent.
+Inside it is a bandstand.
+172904: Stuffed inside the goblet is a bundle of rotted telegrams.
+172944: That way is an impassable tangle of stems and leaves, too flimsy to
+support your weight anyway.
+173012: That way is water.
+173028: That's not going to work.
+173048: That's not really how a sky works.
+173076: The capital of St. Stellio (which is a city also named St. Stellio) is
+invisible, somewhere through the glare to the west. To the north a tangle of
+foliage grows directly from the brine. To the east is the Atlantic ocean.
+173236: The capital of St. Stellio (which is city also named St. Stellio) is
+clearly visible over the water to the west. To the north a tangle of foliage
+grows directly from the brine. To the east is the Atlantic ocean.
+173388: The cement wharf is sun-baked above, slapped by water below.
+Hieroglyphs of glare inscribed on the flat surface of the harbor. Odors of
+salt, and rot, and sweat, and silt. The air burns like an iron.
+173532: The general barks at you: "Did I not make myself clear? Chain of
+command, my dear--I'll take that drink, now."
+173616: The general frowns at you: "Trying to hypnotize me, are you? That's not
+dancing; that's writhing."
+173692: The general glares at you until you stop.
+173724: The general says: "How am I? I'm very thirsty. Now how's that drink
+coming along?"
+173788: The general says: "I understand that even an idiot can work it,
+lieutenant." She stares at you pointedly.
+173864: The general says: "I'm sick of it. Aren't you?"
+173904: The general says: "Lovely, absolutely lovely. Wait, what was the
+question? Awful, absolutely awful."
+173980: The general says: "Must be some limes around here somewhere, eh?"
+174028: The general says: "Sounds splendid, doesn't it? Though I'd appreciate
+less talking about it and more making of it."
+174116: The general says: "This place has gone downhill, I'm afraid."
+174164: The general seems not to have heard. Or not to have cared.
+174208: The general smiles, unreassuringly. "Don't test me, now..."
+174256: The general sneers. "I knew you were a deserter... You have that shifty
+look about you." She pulls a service revolver from inside her uniform and shows
+you the cavernous interior of the barrel.
+174396: The general stares unhappily at the empty glass in your hand. She barks
+at you: "Did it wrong, did you? On purpose too, I'll bet. In my day we punished
+that kind of willful insubordination severely. Oh, what the hell, who's there
+to stop me taking a page out of that old book?"
+174596: The general's withered hand accepts the glass.
+
+Her face tilts up to
+you, a face speckled green with colonies of mold. She opens her mouth, and
+spores float up from beneath her tongue.
+
+From somewhere over the ruins of St.
+Stellio drifts a scream. It might be a high, frantic laughter. Or it might be
+the crashing of waves. Either way, there is green-stained blood dripping from
+your nose.
+174876: The hill of ruins is mostly crumbled white stone, streaked with black.
+When the colonials realized they could no longer hold the city they destroyed
+it.
+174984: The lime smells pungent and slightly spoiled.
+175016: The lizard sits curled around the rim of a golden goblet scaled with
+grime.
+175068: The machine is ready.
+175084: The marble is fire- and blood-stained.
+175112: The ruined capital of St. Stellio. Near the water is the Exchange.
+Above that, streets full of shattered buildings climb a sunny hill.
+175212: The silver switchblades on the general's lapels mean that she was here
+for the taking of St. Stellio thirty years ago. They also mean that she spilled
+blood. Rumor has it she's equally skilled with rifle, saber, cannon, and
+back-dated execution order.
+175392: The text, formed of modular letters like an inverted typewriter
+apparatus, reads: "Drink: Green Skull. Next ingredient: 1 over-ripe St. Stellio
+lime, whole."
+175512: The trumpeter is playing a syncopated martial tune that makes war sound
+rather stylish.
+175572: The walls of the Exchange are more hole than wall. A bright, cratered
+street runs up behind it to the Gubernatorial Palace.
+175660: The water is warm as blood.
+175680: The wharf ends here. South is the pier.
+175712: The wharf was built in a hurry to dock warships, and once the island of
+St. Stellio was taken, it hurried to decay. Now the ships are all gone. Now
+everyone is gone. (Well, almost everyone.)
+175852: There's something growing from a high branch...
+175888: These days the cemetery is no longer unique in being littered with
+large chunks of white marble, or being full of dead bodies. Just uphill of the
+cemetery is the arbor at the summit of the hill.
+176024: This tangle of bushes grows from water at the end of the pier. Deep
+inside the maze of stems and leaves you spot a skull. Beside the skull is a
+rusted sword.
+176136: Too insubstantial.
+176172: Undriveable now. Pretty much unwalkable too.
+176204: Very salty.
+176216: Why not? You dive off the edge of the wharf. It turns out that wet
+twill is very heavy. When you visit the bottom of the bay, your corpse is
+pinched by crabs, not that you mind.
+176344: Wings would be convenient, wouldn't they?
+176392: Wriggling, non-sensical symbols made of light. You are a little bit
+worried that you can almost read them.
+176472: You are Lieutenant Musco. With nobody left to command, you are
+officially the lowest ranking soldier left in St. Stellio.
+176560: You bite into the lime.
+
+A mossy song echoes in an empty grotto. That's
+your own skull, echoing with dripping sirens
+176644: You bite into the lime.
+
+Green sparks rise in a great dome-shaped flow.
+A fiery emerald flux. That's a skull they're forming. This tastes like poison.
+That's your own skull.
+176772: You bite into the lime.
+
+Your mouth fills with green bees. Thirteen
+hives of viridescent wasps erupt each from its own pink pore. Your head
+crumbles into green dust. No it doesn't.
+176904: You dance in a circle around mechanical bar tender, to little effect.
+176952: You do not smell very good.
+176972: You drink the green skull. It is sourness distilled.
+
+There is a green
+hand clawing at your guts. There is a white fever in your bones. There is a
+flaw along the horizon, if a horizon can wriggle like a snapped snake.
+
+Now,
+overhead, the hooting whistle of mortar shells coming in. One misses the wharf,
+sends up water shaped like an inverted church. Another misses the wharf, and
+another. Soon one won't miss.
+
+The general laughs, and cocks her revolver.
+177298: You drop another lime into the hopper. The machine churns for a moment,
+shuddering as if in orgasm. The letters on the placard chatter like a dozen
+keys breaking off in the wrong locks, then unfuse to display the the next
+ingredient.
+
+The general smiles. "Coming along, are you? Don't disappoint me,
+lieutenant."
+
+The sun has shifted slightly, altering the glare on the water,
+allowing you a view of the abandoned city of St. Stellio.
+177610: You drop another lime into the hopper. The machine churns for a moment,
+shuddering as if your eyes and eardrums are being stabbed with heated needles.
+The letters on the placard crackle like skulls crushed under the iron rims of a
+rolling juggernaut. The tangled letters crimp further, spelling out wavering
+clumps of nonsense, flickering like lightning sealed inside a wax candle.
+
+A
+dark green drink pours from the spout, filling the fluted glass.
+
+The general
+eyes the drink greedily. "Give it here, dearie. I won't stand for any further
+delay."
+177996: You drop the lime into the hopper. The machine churns for a moment,
+shuddering as if it wants oil. The letters on the placard shiver and jumble,
+then unjumble to display the next ingredient.
+
+The general shouts at you: "Keep
+going. I have a terrible thirst! If you don't fix me my drink soon I'll have to
+drink your blood instead. Haw. Haw." She enacts a terrible, stylized colonial
+laughter.
+
+You notice there is something leaning against the side of her
+wheelchair: a croquet mallet speckled with blood.
+178356: You hate to think where the blood came from. So you just... don't.
+Instead, you recall the cropped lawns of home. In your mind's eye you can see
+just such a lawn, floating behind the mallet. In the distance there is a
+boxwood hedge.
+178524: You lick the lime. The bumpy skin is bitter, with a hint of fermented
+tang.
+178580: You lick the lime. The bumpy skin is bitter, with a hint of mildew.
+178628: You lick the lime. The bumpy skin is bitter, with a hint of sour
+liquescence.
+178684: You sing a few lines of the St. Stellio anthem. Um, how does it go
+again?
+178740: You swoop in for a quick peck, but bounce back from the general's icy
+glare.
+178796: You take a few turns about the wharf, hands held up as if clasping an
+invisible partner.
+178860: Your basic tropical brine, the color of turquoise.
+178996: This story file does not use a heap of managed memory.
+179316: give" or test "has" or "hasnt" with a non-attribute on the object
+179364: , but it is longer than 2 bytes so you cannot use "."
+

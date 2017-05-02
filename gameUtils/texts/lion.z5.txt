@@ -1,0 +1,229 @@
+8820: There is no reply.
+8888: Nothing is on sale.
+9346: Dropped.
+9403: . Not bad.
+10532: Wrahn seem interested.
+11047: Done.
+11096: You are carrying nothing.
+11181: Keep your mind on the game.
+11206: You hear nothing unexpected.
+12270: But it's dark.
+12287: You find nothing of interest.
+12315: Quite.
+12345: Nothing to do!
+12380: o. You have won
+12485: It is now pitch dark in here!
+12590: Sorry, that can't be corrected.
+12619: Think nothing of it.
+12672: As good-looking as ever.
+12704: You can hardly repeat that.
+12831: I didn't understand that number.
+12902: You aren't holding that!
+13044: You can't see "
+13154: Nothing to do!
+13171: There are none at all available!
+13582: That was a rhetorical question.
+13609: Score notification off.
+13632: Score notification on.
+13661: Objects you have handled:
+13686: None.
+14159: You have visited:
+14353: You are unable to.
+14372: Nothing obvious happens.
+14422: That's not a direction.
+14445: Not that way you can't.
+14592: You lack the dexterity.
+14673: Done.
+14721: Please answer yes or no.
+14747: Are you sure you want to quit?
+14906: Removed.
+14937: Failed.
+14956: Restore failed.
+14973: Ok.
+14983: You achieve nothing by this.
+15015: Save failed.
+15030: Ok.
+15138: There is no score in this story.
+15176: Transcripting is already off.
+15242: Transcripting is already on.
+15308: But it's dark.
+15428: You find nothing of interest.
+15728: Your singing is abominable.
+15762: You smell nothing unexpected.
+15789: Oh, don't apologize.
+15817: Keep your hands to yourself.
+15842: You achieve nothing by this.
+16071: Taken.
+16609: You taste nothing unexpected.
+16643: You talk to yourself a while.
+16670: This provokes no reaction.
+16696: What a good idea.
+16722: Futile.
+16751: Keep your hands to yourself!
+16776: You feel nothing unexpected.
+16801: If you think that'll help.
+17047: Time passes.
+17071: That seems unnecessary.
+17167: You wave, feeling foolish.
+60721: The lion is your prey this day.
+60773: The Nemean lion isn't here!
+60856: The lion blocks your path.
+61068: The rock is already in place.
+61142: The Nemean lion is here. It
+61579: The Nemean lion is already dead!
+61799: The Nemean lion is already dead!
+61914: The Nemean lion is already dead!
+62145: The Nemean lion is already dead!
+62465: rhvi ebkfpxn. One of them is blocked!
+62502: You're already in the cave.
+62667: The Nemean lion is already dead!
+62793: The Nemean lion is already dead!
+66141: in" or "notin
+66157: opmhas" or "hasnt
+66299: }" at end of "objectloop
+68596: Score:
+68604: Moves:
+68612: Time:
+68740: Violence isn't the answer to this one.
+68768: This dangerous act would achieve little.
+68796: I don't think much is to be achieved by that.
+68856: Digging would achieve nothing here.
+68884: There's nothing suitable to drink here.
+68912: That would scarcely empty anything.
+68940: You can only get into something free-standing.
+69012: But you aren't in anything at the moment.
+69044: But there's no water here to carry.
+69100: You can't put something inside itself.
+69128: You jump on the spot, fruitlessly.
+69156: You would achieve nothing by this.
+69208: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+69304: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+69388: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+69500: You see nothing unexpected in that direction.
+69720: Please give one of the answers above.
+69748: [You can't "undo" what hasn't been done!]
+69784: [Can't "undo" twice in succession. Sorry!]
+69860: It is pitch dark, and you can't see a thing.
+70028: To talk to someone, try "someone, hello" or some such.
+70136: You seem to have said too little!
+70160: You can only use multiple objects once on a line.
+70196: You excepted something not included anyway!
+70228: You can only do that to something animate.
+70292: That's not something you need to refer to in the course of this game.
+70340: I didn't understand the way that finished.
+70372: Sorry, you can only have one item here. Which exactly?
+70472: Nothing practical results from your prayer.
+70528: That would be less than courteous.
+70552: Is that the best you can think of?
+70576: You can't put something on top of itself.
+70608: Are you sure you want to restart?
+70632: Attempt to end transcript failed.
+70656: Attempt to begin transcript failed.
+70684: You aren't feeling especially drowsy.
+70712: Real adventurers do not use such language.
+70744: There's not enough water to swim in.
+70772: There's nothing sensible to swing here.
+70800: You're carrying too many things already.
+70832: You lack the nerve when it comes to the crucial moment.
+70900: You'll have to say which compass direction to go in.
+70940: The game file has verified as intact.
+70968: The game file did not verify as intact, and may be corrupt.
+71012: The dreadful truth is, this is not a dream.
+71072: You are in the hills of Nemea, standing outside a cave with two
+entrances.
+71124: You are Heracles, son of Zeus!
+71148: Masochism isn't the answer to this one, Heracles!
+71184: This arrow is very sharp.
+71204: You throw the arrow at the lion with all your might, but the arrow
+merely bounces off the lion's invulnerable hide.
+71284: This club is very heavy.
+71304: A club is a poor projectile, Heracles!
+71332: The cave looks small and not very dark.
+71392: Even you cannot lift an entire cave, Heracles!
+71426: A huge rock blocks one of the entrances.
+71458: A huge rock sits near one of the entrances.
+71492: This rock is so huge that only someone with the strength of Heracles
+could move it!
+71552: With a mighty shove you block one of the cave entrances with the
+enormous rock.
+71608: Even you cannot lift a rock this large, Heracles!
+71644: Even you cannot smash a rock this large, Heracles!
+71764: The Nemean lion, brother of the Sphinx, is a ferocious beast, with claws
+sharper than spearpoints and an impenetrable hide.
+71980: The Nemean lion's pelt proves to have one vulnerability: to the lion's
+own claws! You remove the skin, and with that, your first labor is complete.
+72148: You stun the lion with a mighty blow!
+72176: An arrow makes for a poor club, Heracles!
+72256: You already have the lion right where you want it!
+72324: You shout at the top of your lungs, scaring the lion into the cave!
+72464: You wrap your mighty arms around the beast's throat and crush the life
+out of it. The Nemean lion is dead!
+72540: Eurystheus didn't want the whole lion--only its skin!
+72580: You've heard that nothing can cut the lion's skin.
+72744: The Nemean lion's pelt proves to have one vulnerability: to the lion's
+own claws! You remove the skin, and with that, your first labor is complete.
+72852: The cave is small and not very dark.
+72878: You hear the Nemean lion growling in the cave.
+72916: You can't see the Nemean lion--it's in the cave.
+72956: You stun the lion with a mighty blow!
+72984: An arrow makes for a poor club, Heracles!
+73064: You already have the lion right where you want it!
+73132: You wrap your mighty arms around the beast's throat and crush the life
+out of it. The Nemean lion is dead!
+73208: Eurystheus didn't want the whole lion--only its skin!
+73248: This throne room--indeed, this whole kingdom--should be yours. Thinking
+about it fills you with rage.
+73324: When your mother was pregnant with you, your father Zeus decreed that
+the next son born to the house of Perseus would become king. So Hera caused
+Eurystheus's mother to go into labor two months early. Bitch.
+73518: Before you can even move, Eurystheus shrieks and jumps into a huge jar
+to hide. Almost as if he sensed your intention! But that's impossible, isn't
+it?
+
+Ah, well, time to go. Things to do.
+73660: It's got big heavy legs.
+73726: Before you can even move, Eurystheus shrieks and jumps into a huge jar
+to hide. Almost as if he sensed your intention! But that's impossible, isn't
+it?
+
+Ah, well, time to go. Things to do.
+73868: It's got big heavy legs.
+73934: Before you can even move, Eurystheus shrieks and jumps into a huge jar
+to hide. Almost as if he sensed your intention! But that's impossible, isn't
+it?
+
+Ah, well, time to go. Things to do.
+74076: Hunh, what's the deal with that jar?
+74150: Before you can even move, Eurystheus shrieks and runs out of the room to
+hide. Almost as if he sensed your intention! But that's impossible, isn't
+it?
+
+Ah, well, time to go. Things to do.
+74324: . "Please, Heracles, drink," Eurystheus says
+74360: He's no Ganymede.
+74422: Before you can even move, the cupbearer shrieks and runs out of the
+room. Almost as if he sensed your intention! But that's impossible, isn't
+it?
+
+Ah, well, time to go. Things to do.
+74560: Eurystheus said the servants should bring forth his best wine, but you
+have your doubts.
+74720: hat are you DOING?" Eurystheus shrieks, jumping into a huge jar to hide.
+"The madness has come over him again!"
+
+What's he all worked up about? He told
+you to take the wine, didn't he? Well, fine, you'll just keep this pelt, then.
+It'll come in handy on your other eleven labors!
+74932: This is the trophy of your magnificent victory.
+74968: You find yourself reluctant to let go of the lion's pelt.
+75008: "Heracles!" cries King Eurystheus. "You live?! I mean, you live!
+Servants, bring forth my best wine! Heracles, tell me how you managed to bring
+me the skin of...
+75228: That would be discourteous to the king.
+75256: You must not leave without the lion's pelt!
+75764: give" or test "has" or "hasnt" with a non-attribute on the object
+75812: , but it is longer than 2 bytes so you cannot use "."
+

@@ -1,0 +1,2692 @@
+31353: Csdba KpmTo repeat a command like "frog, jump", just say "again", not
+"frog, again".
+31436: You can hardly repeat that.
+31766: You can't begin with a comma.
+31829: You seem to want to talk to someone, but I can't see whom.
+31920: To talk to someone, try "someone, hello" or some such.
+33794: I didn't understand that sentence.
+33904: I didn't understand that number.
+33936: You can't see any such thing.
+33969: You seem to have said too little!
+34001: You aren't holding that!
+34030: You can't use multiple objects with that verb.
+34070: You can only use multiple objects once on a line.
+34149: You excepted something not included anyway!
+34187: You can only do that to something animate.
+34225: That's not a verb I recognise.
+34255: That's not something you need to refer to in the course of this game.
+34311: You can't see "
+34356: I didn't understand the way that finished.
+34477: There are none at all available!
+37408: Sorry, you can only have one item here.  Which one exactly?
+45874: At the moment, "it"
+45946: and "me" means
+45973: exn** Player objects must have "number" prop **
+50977: M.
+55720: Nothing to do!
+55736: . You have died
+56029: Please give one of the answers above.
+56089: I beg your pardon?
+56107: dxn[You can't "undo" what hasn't been done!]
+56147: ing ehn[Can't "undo" twice in succession. Sorry!]
+56223: Sorry, that can't be corrected.
+56253: Think nothing of it.
+56275: "Oops" can only correct a single word.
+56346: Please answer yes or no.
+56366: Are you sure you want to quit?
+56400: Are you sure you want to restart?
+56426: Failed.
+56443: Restore failed.
+56462: Ok.
+56477: Save failed.
+56494: Ok.
+56509: The game file has verified as intact.
+56536: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+56711: Transcripting is already off.
+56734: End of transcript.
+56756: Score notification on.
+56778: Score notification off.
+56802: You have visited:
+56849: None.
+57074: You are carrying nothing.
+57117: Taken.
+57129: You are always self-possessed.
+57249: You already have that.
+57337: That isn't available.
+57380: That's hardly portable.
+57404: That's fixed in place.
+57428: You're carrying too many things already.
+57504: Already on the floor.
+57526: You haven't got that.
+57569: Dropped.
+57614: But it isn't there now.
+57633: Removed.
+57714: You can't put something on top of itself.
+57792: You lack the dexterity.
+57872: Done.
+57914: You need to be holding it before you can put it into something else.
+57994: Alas, it is closed.
+58016: You'll need to take it off first.
+58046: You can't put something inside itself.
+58136: Done.
+58178: That isn't in your possession.
+58201: First pick that up.
+58495: That's not something you can enter.
+58563: You can only get into something on the floor.
+58677: But you aren't in anything at the moment.
+58786: You'll have to say which compass direction to go in.
+58887: You can't go that way.
+59046: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+59148: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+59236: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+59653: But it's dark.
+59666: You find nothing of interest.
+59699: But it's dark.
+59789: You find nothing of interest.
+59817: You can't see inside, since it is closed.
+59916: That doesn't seem to be something you can unlock.
+59958: It's unlocked at the moment.
+59986: That doesn't seem to fit the lock.
+60040: That doesn't seem to be something you can lock.
+60106: First you'll have to close it.
+60134: That doesn't seem to fit the lock.
+60188: That's not something you can switch.
+60220: That's already on.
+60264: That's not something you can switch.
+60296: That's already off.
+60342: That's not something you can open.
+60374: It seems to be locked.
+60396: It's already open.
+60504: That's not something you can close.
+60536: It's already closed.
+60580: You're not wearing that.
+60628: You can't wear that!
+60650: You're not holding that!
+60674: You're already wearing that!
+60724: That's plainly inedible.
+60757: Not bad.
+60773: That was a rhetorical question.
+60801: This dangerous act would achieve little.
+60835: Nothing practical results from your prayer.
+60871: The dreadful truth is, this is not a dream.
+60959: What a good idea.
+60979: You smell nothing unexpected.
+61033: You taste nothing unexpected.
+61105: Eed EhgqlhnYou feel nothing unexpected.
+61139: Digging would achieve nothing here.
+61171: Cutting that up would achieve little.
+61203: You jump on the spot, fruitlessly.
+61237: You would achieve nothing by this.
+61267: There's nothing suitable to drink here.
+61301: But there's no water here to carry.
+61333: Oh, don't apologise.
+61355: Real adventurers do not use such language.
+61391: Quite.
+61403: Violence isn't the answer to this one.
+61437: There's not enough water to swim in.
+61469: There's nothing sensible to swing here.
+61503: You can't usefully blow that.
+61581: No, you can't set that to anything.
+61644: But you aren't holding that.
+61709: It is fixed in place.
+61731: You are unable to.
+61751: That would be less than courteous.
+61776: Nothing obvious happens.
+61805: Is that the best you can think of?
+61835: That's not a direction.
+61854: Not that way you can't.
+61904: You achieve nothing by this.
+61935: Futile.
+61942: You lack the nerve when it comes to the crucial moment.
+61991: You talk to yourself a while.
+62014: This provokes no reaction.
+62042: There is no reply.
+62062: Nothing is on sale.
+62108: I don't think much is to be achieved by that.
+62146: Time passes.
+62162: You aren't feeling especially drowsy.
+62578: THEATRE was designed and written by Brendon Wyber. However, THEATRE
+would not have come to existence without the efforts of several people.
+62689: Graham Nelson created the Inform compiler, which is the text adventure
+game development system used to create this game. Because Inform is such an
+integral part of the game system Graham gets co-author credits, but please
+don't bother him with problems about the game itself, it wasn't his fault.
+62900: Theatre was valiantly beta-tested by Paul Janzen, Michael Kinyon, J.
+Larios, Paul Lebeau, Mike Oliphant, Andrew C. Plotkin, Gareth Rees, Steve
+Salter, Richard Scipione, Andy Smith, Stephen Van Egmond, and The Adder.
+63075: "Post-release debugging" was performed by Richard Barnett, Bozzie,
+Robert A. DeLisle, Robert M. Dickau, Paul David Doherty, Martin Dunstan, Jason
+Dyer, Chris Malone, Michael S. Phillips, Nyuchezuu Shampoo, Dan Shiovitz, Todd
+from Virginia, Jacob Solomon Weinstein, Gerry Kevin Wilson, and many others.
+63318: Mark Howell wrote the interpreter (known as ZIP) which is commonly used
+to run this game.
+63387: The Implementors from Infocom designed the ZMachine, which is the
+standard used by Inform and Zip.
+63462: And finally, Joel Furr wrote a short story on the Lyric Theatre, which
+inspired this game. This story is included in the game under the topic
+63597: Any comments or bug reports are always welcome. Cave Rock's internet
+email address is the quickest and easiest method for contact, however a mail
+address is also given.
+63925: This is is the second release of THEATRE. It has been recompiled to use
+the latest version of the inform library and language. This has fixed several
+bugs, [and probably introduced a few more :-)]. Several corrections have been
+made fixing both grammar and spelling errors as well as some bugs found in the
+first release.
+64160: This version contains some new responses to unanticipated inputs but
+contains no new locations, puzzles, or objects.
+64499: This is the first release. Enjoy!
+64546: All rights reserved.
+64565: The Lyric Theatre short story is Copyright (c) 1989 Joel Furr.
+64620: THEATRE is copyright but permission is given for this game to be freely
+distributed by any and all possible means. Note, no costs may be charged for
+except for the distribution costs. In the author's opinion, if you paid for
+this program and you didn't get it on a CD-Rom filled with other programs, you
+have been cheated.
+64853: Although this game uses the data file format of Infocom's ZMachine it
+contains no code that was written by them.
+64938: [When you see the "[More]" prompt (or something similar) just press any
+key to continue...]
+65030: is a text only adventure game. These are basically large and complex
+logic puzzles presented in a form of a story in which
+65124: are the central character. In Theatre you are a property developer who,
+in the progress of attempting to sell an old disused theatre, leaves an
+electronic pager in the basement. Later on, when you come back to retrieve it,
+you become trapped by the theatre's denizens. To win you must escape, but
+before you can do that you must learn its secrets.
+
+When you play Theatre, the
+computer will describe to you your surroundings and then you type in, at the
+">" prompt, what you want to do, pressing return or enter when finished. No
+time will pass in the game until you press return or enter, so you can take
+your time deciding what to do.
+65573: Since it is easiest to learn from example, what follows is a transcript
+showing the typical things that can happen in a game like Theatre. Note that
+this is a made up example and the following does not appear in Theatre. The
+comments which appear
+65887: Ly MATTER which CASe you use.
+65920: Before you is Wellington House, site of the famous Red Lady ghost. You
+now regret your bet to stay overnight in this miserable dump, but you couldn't
+really back down in front of everyone after opening your big mouth about how
+ghosts could never exist. Now you have to stay in the cold all night, with
+nothing to look forward to except the inevitable break in by the others and
+their lame attempts to scare you. Lets hope they bring some decent beer with
+them...
+66262: A non-interactive instruction by Brendon Wyber.
+Version 6.66. New
+players should type in HELP.
+Dedicated to Level 9 Computing fans everywhere.
+66396: Weeds choke this overgrown driveway, obscuring the view of the house.
+Tall trees surround you giving you an intense feeling of isolation. The
+driveway winds north.
+66577: Before you is Wellington house itself. Once this place would have been
+very regal and grand, but now after years of neglect it is ruined. Vines cover
+the house in a thick web. The large front door, leading in to the north, has a
+brass knocker on it. The driveway leaves to the south.
+66939: The large front door blocks you way.
+67007: The large front door is locked, and you do not have the key.
+67093: The door does not budge.
+67153: The door look pretty solid. Violence isn't the answer.
+67526: Before you is Wellington house itself. Once this place would have been
+very regal and grand, but now after years of neglect it is ruined. Vines cover
+the house in a thick web. The large front door, leading in to the north, has a
+brass knocker on it. The driveway leaves to the south.
+67778: You knock on the door but your knuckles produce only a soft rapping
+noise.
+67910: The brass knocker mades a loud and deep knocking noise that revibrates
+throughout the entire house.
+
+You can hear a noise from inside the house.
+68048: Time passes...
+
+You can hear something moving towards the door. It is
+making a slithering hissing noise.
+68162: Time passes...
+
+You can hear a slithering from just behind the door.
+68250: Time passes...
+
+The front door opens and a madness-inducing mass of
+tentacles and slime emerges. You are paralysed with fear and cannot even scream
+as the tentacles close around you..
+
+
+*** You have died ***
+68578: Before you is Wellington House, site of the famous Red Lady ghost. You
+now regret your bet to stay overnight in this miserable dump, but you couldn't
+really back down in front of everyone after opening your big mouth about how
+ghosts could never exist. Now you have to stay in the cold all night, with
+nothing to look forward to except the inevitable break in by the others and
+their lame attempts to scare you. Lets hope they bring some decent beer with
+them...
+68922: A non-interactive instruction by Brendon Wyber.
+Version 6.66. New
+players should type in HELP.
+Dedicated to Level 9 Computing fans everywhere.
+69056: Weeds choke this overgrown driveway, obscuring the view of the house.
+Tall trees surround you giving you an intense feeling of isolation. The
+driveway winds north.
+69227: Before you is Wellington house itself. Once this place would have been
+very regal and grand, but now after years of neglect it is ruined. Vines cover
+the house in a thick web. The large front door, leading in to the north, has a
+brass knocker on it. The driveway leaves to the south.
+69475: They looks rather sturdy and completely entangle the house.
+69580: You are high up on the roof of Wellington house. You can see all around
+you the overgrown and neglected Wellington estate. Vines lead down, while an
+open window leads west.
+69749: It is too dark in here to see anything.
+69828: You are high up on the roof of Wellington house. You can see all around
+you the overgrown and neglected Wellington estate. Vines lead down, while an
+open window leads west.
+70076: You are carrying a tourist's map of Paris, a flashlight, and a set of
+cards.
+70184: You brought these along in case you got bored.
+70278: You thought this may come in handy. It is currently switched off.
+70384: The flashlight emits a steady beam of light.
+70459: The attic is a maze of old storage boxes and other dust covered junk. A
+closed trap door leads down.
+
+On one of the boxes rests an old bird cage.
+
+A
+cupboard sits in the corner.
+
+A ladder rests again the wall.
+70719: Old and wooden. It is currently closed.
+70867: You open the cupboard, revealing an old robe, a suitcase, a umbrella,
+and a small mirror. You also notice some writing on the cupboard door.
+71013: "Shelter I offer, to the cursed, unlucky, or damned."
+71105: Strangely, as you attempt to enter the cupboard you seem to be repelled
+by a strange unseen force.
+71751: Strangely, you are allowed entry now into the cupboard. As you get into
+it you notice it seems quite deep. You move further into it it seems to get
+even bigger and bigger until you realise it has become another place...
+71923: You are in a large wooden hall....
+72154: Here is a list of some of the most common and useful commands that are
+used in Theatre.
+72232: To move about you simple say GO and supply a compass direction, i.e. GO
+NORTH. You can also GO UP and GO DOWN. ENTERing and CLIMBing things may also
+move you about.
+72373: Since movement is so common the current abbreviations are provided.
+72648: To redisplay the current location go LOOK AROUND or L. You can also
+EXAMINE objects as well as LOOK UNDER, LOOK BEHIND, and LOOK INSIDE them. Extra
+descriptions may be given by LOOK UP and LOOK DOWN. Of course there are also
+other senses than sight. LISTEN, TOUCH, and TASTE will also work. Other things
+might require a bit of a SEARCH to uncover their secrets.
+72988: Scattered about the Theatre are several objects that will help you. To
+get then you simply TAKE them. Naturally when you don't want an object any more
+simply DROP it. Some objects are containers which you can OPEN and CLOSE. To
+see what you are carrying type in INVENTORY or I.
+73205: Some objects come in containers. You can always TAKE one object FROM
+another as well as PUT an item INTO a container. Other things might be so big
+that you can ENTER them and others you can push from location to location with
+a simple PUSH object NORTH.
+73431: When you have had enough you stop the game by typing QUIT. You can also
+RESTART the game from the beginning as well. However Theatre is a large game so
+you may want to SAVE your current place in the game so you can RESTORE it
+later. When saving a game, you will be prompted for a file name.
+
+Saving a game
+allows you to store a "snapshot" of the current game, remembering your score,
+where you are, and stuff like that. Using save you can avoid having start from
+scratch all the time.
+73815: The parser is the computer algorithm used by the game to process what
+you type in into something the game understands. Generally the game will
+understand the following types of sentences.
+74717: It is important to remember that you aren't talking to a real person, so
+it will not understand everything. The game will generally tell you when you
+have typed in something it doesn't understand, however it may misinterpret your
+meaning.
+74886: Below is a list of just some of the verbs it does understand.
+75398: Note, this list is not complete; there are others as well.
+75466: The following are special commands.
+75544: BRIEF: When you first enter a location it will display its description,
+but from then on, when moving about, it will not.
+75637: FULL SCORE: Displays the current score, and also says where the points
+come from.
+75704: HELP: Displays the help menu.
+75733: INVENTORY (abbreviated I): Will display what you are carrying.
+75806: : Displays the current location description. All of it, regardless of
+current BRIEF/SUPERBRIEF/VERBOSE mode.
+75903: PROMPT: Turns the "What Now?" prompt on and off.
+75948: QUIT: Quits the current game.
+75977: RESTART: Restarts the game from the beginning.
+76018: RESTORE: Reloads a previously saved game. You will be prompted for a
+filename.
+76083: SAVE: Saves the game to disk. You will be prompted for a filename.
+76138: SCORE: Will display what your current score it.
+76179: SCRIPT: Will start saving the actual text of the game, either saving it
+to a file (in which case you will be prompted for a filename) or sending it
+directly to the printer, depending on which computer you are running this game
+on.
+76346: SUPERBRIEF: In superbrief mode the game will not display the full
+location descriptions unless you type in LOOK.
+76437: TIME: Tells you what the current time it.
+76474: UNSCRIPT: Will stop the computer from scripting.
+76517: VERBOSE: In verbose mode the computer will display the full description
+of a location when you move about. This is the default mode.
+76618: VERSION: Displays the version information about the game.
+76742: 1. Draw a map. It should list the location names and the objects in
+them. It helps to stop you forgetting about things.
+76831: 2. Pick up everything you can. It could be useful later.
+76876: 3. Examine everything. Looking closer at the scenery may reveal hidden
+things and clues. Don't forget you can LOOK UP and LOOK DOWN, as well as LOOK
+BEHIND and UNDER things.
+77021: 4. If you are really stuck you can always look at the HELP menu again.
+You will notice that it will change to reflect the current state of the game.
+77130: 5. Play with a friend, err, play the game with a friend. What is
+difficult for you may be obvious for them.
+77211: 6. The author is a big fan of secret doors. There are three near the
+start. And also, what may seem to be an impassable barrier, might not be.
+77316: 7. There are some things that you cannot do until you become trapped
+inside the theatre. Going up the lobby stairs is just one example.
+77426: You have barely begun the game! Just get the pager and leave the
+theatre. It really is that simple.
+77518: There are some secret areas, that are accessible, that you haven't been
+to yet. Keep looking around.
+77630: There are some hard to reach places that you haven't been to yet. Go
+back to some places that seem blocked. They may not be that impassible.
+77740: Remember. Look everywhere and take everything.
+77787: Since this game is set inside and doors are everywhere, just ignore
+them, unless they are given special mention.
+77875: Necrophilia is not your style.
+77906: Dead men tell no tales.
+78027: The dead will only wait.
+78051: The dead aren't big on personal possessions.
+78114: This is a rather long story that inspired this game. I would recommend
+that you turn on scripting with the SCRIPT command, before viewing this, so
+that you can reread it more easily later on.
+
+Do you still want to view this?
+78395: I wrote this a long time ago -- a non-fiction, chatty account of a cool
+old theatre. It's not immortal prose but I still get requests for it, so here's
+a repost for old times' sake.
+78533: The Ghosts of the Lyric:
+79310: Beth had been a classmate of mine in high school, though we really
+hadn't become chatting friends until after graduation. She'd married Bud
+Bennett, four years her senior, in the summer of 1988 and the two of them
+worked days at the Virginia Tech library and then spent Tuesday, Wednesday, and
+Thursday evenings running the theatre. They hated the necessity of spending
+three evenings a week watching the meager crowds trickle in and out, but since
+they worked unpaid it permitted the theatre to stay open a little while longer.
+Profitable once, the days of competition with the eight-screen cineplex at the
+mall and the burgeoning video-rental businesses had reduced the Lyric to the
+point where the bank account balance spiralled downwards rather than creeping
+upwards or staying even. Without the clout to get the must-see movies, they
+showed what they could get, often having to show several also-rans as part of
+the package that brought them their rare popular film.
+79987: I wondered why the Kelseys kept the place open, since they knew full
+well that they would never make a profit again. One day I asked. Beth explained
+to me that, to be quite honest, it was only until her grandfather died. Without
+the Lyric, he'd have no reason to exist; even in his advanced years he would
+wander down to the theatre in the evening and poke uselessly around for a while
+before leaving.
+80272: Evenings spent chatting with Beth and Bud while we waited for the late
+showing of whatever dubious blockbuster they had that week to finish generally
+included at least a half hour of extensive complaining about the Virginia Tech
+students who vandalised the building during the day, when the University leased
+the space for large lecture classes. Each evening's crew would find a few new
+depredations, whether it be Coca-Cola syrup emptied out onto the snack counter
+floor, or wooden lap-boards shoved up under the carpet, or graffiti written on
+the bathroom walls in magic marker. We called the students "ingrates" out of a
+sense of irritation with the casual way they destroyed property that belonged
+to people who had never done them any harm. After Beth and Bud got that out of
+their systems we'd chat about life for a while, and then the movie would end
+and the twenty or thirty patrons would wander out and we'd close up.
+80913: I felt odd about staying after closing with them, worried that they'd
+think that I had nowhere else to be, but I did enjoy talking and truth to tell
+they were about the only people outside my cluster of fellow students with whom
+I did get to talk on a regular basis. And it was interesting getting to go in
+the places most patrons wouldn't even know existed: the back stairwell that
+must have been used decades ago by black theatre-goers, the vast empty stage
+behind the movie screen where once, long ago, theatrical plays had been
+presented; the eerie crawlspace under the stage where no one had much desire to
+explore; the boiler room with Russell's 55-gallon drum of stale popcorn; the
+odd crawlspaces
+82546: There were certain things that had to be done each evening and
+eventually I learned them and was able to help out. They had to make sure
+everyone was out of the place, then lock up. Then Bud would go up to the
+projection booth and start the movie feeding off the big platter it had
+collected onto and backwards onto another platter for the next showing. Or, if
+the movie was being shipped out in the morning, we'd collect it into two
+massively heavy movie canisters and lug it down the back stairs to the street
+entrance. Beth would go down to the right-side emergency exit passage and get
+the piles of wooden lap boards out for the students to use in classes the next
+day, and wheel out the overhead projector and microphone and slide projector
+and get them all set up. We'd take all the cups and napkins from the snack bar
+and lock them in a closet so the students wouldn't fill them with soft drink
+"post mix" (the syrup that gets combined with soda water to make the actual
+beverage) and splash it around, as they had done back in the days when Beth and
+Bud didn't know better than to leave the cups sitting out.
+83315: Fortunately, the actual cleaning of the theatre was not a chore we had
+to do; that was taken care of by an extremely old, senile man named Russell.
+Russell came in late at night, usually long after we left, and would clean up
+the spilled candy and popcorn and drinks and clean the restrooms and all the
+other distasteful things that one has to do in a place frequented by sloppy
+college students. Russell liked to collect things; Beth and Bud laughed
+hysterically when it occurred to them to show me his fifty-five gallon drum
+full of stale popcorn. Apparently he took all the leftover popcorn from the
+evening's showings and collected it in the aforementioned drum which he kept in
+the boiler room, a room accessed by a mostly-hidden panel located in one of the
+emergency exit passageways. Beth had asked him about the drum-ful of popcorn
+and Russell had told her that he saved it up for his "pups." "Pups?" Beth had
+asked, and Russell had assured her that the dogs he raised for sale loved to
+eat the stale popcorn. Beth never failed to go into conniptions if you
+mentioned Russell's corn-fed "pups."
+84084: Russell also collected used drink cups, combs, burned-out fluorescent
+light tubes... assortments of all of these would turn up in closets and storage
+areas and the back stairwell to eventually be thrown out by Beth or Bud or one
+of the other theatre employees. Once, he had retrieved some burned-out, dusty,
+singed-looking fluorescent light tubes from the garbage, had stuck them in a
+box, marked the box "new," and placed them safely away in a closet for future
+use. Beth and Bud eventually stopped trying to understand why he did these
+things; they simply took each newly-found cache as a pleasant discovery to be
+examined for possible actual usefulness and then disposed of once the diagnosis
+had come up "negative." Russell never seemed to mind; in fact, he seemed to be
+pleased when he noticed the absence of his prizes and would take it as an
+impetus to search for new and even more interesting treasures.
+84754: This narrative will shortly take a turn into a more mysterious vein, but
+before I got to that part, I wanted to explain to you what kind of place the
+Lyric Theatre was when I was spending some evenings there chatting with my
+friends. It was a nice old place, although it was disintegrating slowly. Beth
+and Bud were nice too; they were big Grateful Dead fans, frequent wearers of
+tie-dyed shirts, the sort of people who I figured would always be fairly happy
+no matter what they were doing. I was glad that I got to visit with them, and
+happy also that I got to look around the theatre and find out about all the
+little cubbyholes and dark corners that I'd never known about back when I was a
+kid and attending movies there.
+85265: Let me begin this part of the narrative by saying "I don't believe in
+ghosts." It's almost obligatory, I think, to begin a true-life account of a
+"haunting" with that disclaimer, so as to keep the reader from thinking that
+they're in for another credulous narrative from an under-skeptical lunatic.
+85480: I really don't believe in ghosts. I've never heard of any "documented
+evidence" on the subject of ghosts that didn't turn out to be misinterpreted or
+manufactured upon subsequent examination, and you'd think that if there really
+were such things someone would have been able to call in scientists and settle
+things for once and for all.
+85715: However... (long pause, deep sigh), I do have a few stories to relate
+that strike me as being pretty close to saying "If there aren't such things as
+ghosts, you tell me what it was I heard that night." I present them here not as
+evidence of the existence of ghosts but rather out of a desire to share my
+puzzlement with the reader.
+85952: At first, it didn't occur to me to be spooked about all of the old
+out-of-the-way places I came across while exploring the Lyric. I was generally
+not the sort of person to get myself all worked up over creaks and cold drafts,
+especially when there were neat things to be looking at. I really did like
+poking around, so I wasn't going to spoil things for myself by imagining
+haunts.
+86221: All this changed in a hurry one night when Beth and I were in the
+projection booth, high above the theatre, watching Bud do what he had to do to
+get the movie off the platters and back into the cans to ship out the next day.
+It was a quiet night, and we'd long since shooed everyone out and locked the
+doors and gotten the stuff out for the morning's classes. All that remained was
+to stow the movie away and we'd split, perhaps to go over to the nearby Cellar
+beer joint for a pitcher of something cold and effervescent. Then, during a
+lull in the conversation, there came a loud shriek, basically what one would
+expect to hear if you had a banshee close at hand, coming from just outside the
+booth and over to the right hand side of the balcony. All three of us reacted
+in the same way: we blinked and snapped our heads around to stare in the
+direction the noise had come from.
+86828: "What the hell was that?!" I asked, extremely startled by the volume of
+the shriek coming from what I had every reason to believe was a completely
+deserted balcony.
+86947: Beth and Bud looked at each other, then at me, and then Beth shrugged,
+and said "We hear things like that all the time."
+87038: "What is it?" I wondered if it was some sort of equipment in the walls
+rasping against something. Ever the skeptic, I was looking for a reasonable
+expectation before jumping to the conclusion that it was ghosts.
+87189: Bud spoke up, matter-of-factly. "We assume it's a ghost. Like, there's
+no one in the theatre and even if someone had hidden in the restroom and then
+snuck up here to scare us they'd have no way to get out without coming to us
+and saying 'Can I get out?'" This was true, since even the emergency exits were
+locked at night for reasons I wasn't sure of.
+87444: Intrigued by the bland way Bud accepted the fact that a loud shriek had
+come from a deserted balcony in an empty, locked theatre, I wondered what else
+had happened in the past to accustom them to such things going on?
+87597: "We assume that there's a woman's ghost haunting the building. Every so
+often we hear her screaming from over in the direction of the ticket booth."
+Beth pointed down through the floor and to the right, in the approximate
+direction of both the ticket booth on the floor below and also the direction
+the scream had seemed to come from. I'd thought of it as more or less on the
+same floor as us, but then again it hadn't lasted long enough to stop and
+triangulate its position.
+87928: "No kidding," I said. "Does she ever say anything, or does she just
+scream?" I was being facetious, not expecting the answer I got.
+88029: "No, sometimes she says 'Let me out, let me out.'" I thought Beth was
+kidding but from the look on her face, I realised that she wasn't.
+88134: Now I began to get the impression that there really was more going on
+here than I had originally thought. I was still mostly expecting to go
+downstairs after Bud finished and find something parked out on the street that
+could have made the noise we'd heard, but Beth and Bud seemed to take it as
+just another odd occurrence in a string of odd occurrences. The fact that all
+three of us had heard it and registered shock was another point in favour of it
+being something requiring more explanation than I had handy.
+88491: Bud finished his work and he and I each carried one of the heavy movie
+canisters down the back stairway to the street door. On the way, we passed many
+little openings stuffed full of old flyers and boxes of junk, and a door that
+was nailed shut, and more boxes of junk, and an opening that led off to a dead
+end, and so on down to the door. Where once I'd just poked around and wondered
+what all that stuff was kept lying around for, now I was eyeing the door and
+the dead-end opening with a little suspicion and a little edginess. Bud, for
+all that he had much more experience with the noises, could just as well have
+been walking down Main Street at high noon as using the dark, cluttered back
+stairway of a haunted theatre at eleven thirty in the evening. He didn't seem
+nervous or worried so I just shrugged and went on down and out to the street,
+where we met Beth coming out of the main doors and locking them behind her.
+89134: "Do you really hear things like that often?" I asked?
+89177: They maintained that they did. For two people who had to work three
+nights a week in a place where they regularly heard eerie screams late at
+night, they were pretty composed, I thought.
+89310: We were all fairly tired that particular night, so we didn't stick
+around to discuss the "ghosts." Beth and Bud went on home and I went off home
+too and mulled it over.
+89433: The next night, after class, I came back and sat in the foyer with them
+and we talked about the ghosts. Beth said that there were actually three or
+four places within the theatre that had ghosts or ghostlike phenomena
+associated with them.
+89602: The first was the screaming woman, who usually just shrieked wordlessly
+but sometimes screamed to be let out of wherever it was she was trapped. For
+some reason, Beth and Bud focused in on the origin of the sounds; they both
+went to great lengths to explain how it had seemed to come from the direction
+of the ticket booth. They usually heard it when they were up in the balcony,
+but one time Beth had been in the ticket booth itself, which sat just in from
+the street in a large entranceway open to the weather, and had heard the
+screaming coming from directly above her, from the other side of the ceiling
+and perhaps coming from the rooms directly above.
+90057: I asked the obvious question: did they know of anyone who'd been walled
+up alive in the theatre? I asked this facetiously, of course, but their story
+seemed to indicate that a spirit of a woman was trapped in some way in the
+offices or ceiling above the ticket booth.
+90315: Not the answer I'd expected, but it did make me stop and think. If
+ghosts did haunt the place they died, it might mean that some of the
+"paranormal activity" in the theatre might be caused by the ghost of that
+workman.
+90472: And, in fact, there were some stories that made one think again of this
+workman who'd been killed there. Beth said that she sometimes heard a man
+stomping around on the stairs leading up to the balcony and sometimes on the
+old back steps leading from the balcony and projection booth to the street.
+90679: A good place to hear and sometimes see odd things was the balcony steps,
+they said. If you stood on the steps up to the balcony, still in sight of the
+candy and drink station in the lobby, you could often feel a chill brush past
+you and now and then you'd be able to hear and see faint mutterings and shadows
+from up above.
+90904: Bud had several stories concerning voices he'd heard in places where he
+could definitely attest that no customers or Lyric employees had been. He said
+that he had once or twice been up in the balcony and heard a voice speaking
+quietly to itself down in the main seating area, in the area of seats nearest
+the screen. He'd looked out from the balcony and seen absolutely no one
+anywhere out in the seats, and yet here was this quiet voice speaking to
+itself. With the Lyric locked up tight so no one could get out without a key,
+it would have been tough for someone to hide there to fake the "ghost" and then
+sneak out after Bud had left. And what would have been the point? Beth and Bud
+were both so blase' about the whole mess that anyone who stayed behind in the
+Lyric night after night to try to startle them would quickly have gone mad
+watching Beth and Bud yawn and lock the place up and leave night after night.
+91537: A similar story involved a man and woman talking in the balcony one
+night when Bud was tidying up downstairs. He started up the balcony steps to
+take care of the movie and heard them talking and waited a few minutes for them
+to resolve their conversation and head on out. When they didn't come down past
+him, he went on up and found the balcony area empty. Since the back steps
+leading down to the street required one to use a key to get out of the
+building, the people couldn't have gotten out, so either they had hidden
+themselves in one of the dead-end passages off the back stairs or in the
+crawlspace above the projection booth, neither of which sounded likely, or they
+had vanished into thin air.
+92094: worth stealing, but it didn't. The projectors were these massive,
+far-too-heavy-to-move pieces of equipment that used carbon arcs for lighting.
+Wandering into the projection booth was like wandering into a mad scientist's
+workshop and if a thief had found him or herself there, the first reaction
+would likely have been to curse at the junk and head for the exit. Vandalism
+was by far the greater problem for the Lyric management and employees. People
+would tear most anything apart if it was left out for anyone to get their hands
+on the next morning. That nothing substantial ever turned up smashed or wrecked
+by some "stay-laters" makes me think that some other explanation was needed to
+explain the Lyric "ghosts."
+92595: None was forthcoming at the time, and since Beth and Bud had no
+explanation either save that it might possibly have something to do with her
+great-grandfather who had spent a lot of time in the building during his life,
+we went on to talk about other subjects.
+92778: A few nights later, Beth and Bud were in fairly perky moods when I
+dropped by, and Bud asked me if I wanted to see what was behind the screen.
+92883: "Sure," I said, not really expecting anything in particular but willing
+to look.
+92946: Once we had closed up, Bud led the way to the right-hand emergency exit
+passageway and opened a locked panel a few feet above the floor in the
+left-hand wall. Beth hopped up, and then I climbed up, and Bud followed. We
+were behind the screen, in the vast emptiness of the old stage. It was fairly
+dark but Bud turned on a few lights that revealed just how large it all was.
+High above us, if you turned to look, there were openings that led into rooms,
+or something, but there was no way to get to them. I pointed and asked and Beth
+told me that those were the old dressing rooms, used when the theatre had
+offered stage productions. The stairs and catwalks that led to the dressing
+rooms were long gone. Bud said he had been up and in them, finding nothing all
+that exciting to look at, but I didn't think to ask how he'd gotten up there
+because he was leading us over to another locked panel, this one in the floor
+of the stage near the middle of the screen.
+93615: Bud opened the panel, and looking down into the opening, I saw just
+blackness. Bud said that if you jumped down you'd find yourself in a tunnel
+leading along underneath the stage.
+93744: "Hmm," I said, for some reason none too enthusiastic about jumping down
+into a pitch-black tunnel leading into the bowels of a darkened theatre.
+93849: "A friend and I once got some flashlights and went down there. It was
+spooky as hell." Bud placed a great deal of emphasis on the phrase "spooky as
+hell." I could see why. It was dark down there. "We crawled down the tunnel
+until we got to this grate. It felt cold. Like there was something just beyond
+it waiting for someone to come through." Anticlimactically, he finished, "We
+got the hell out of there."
+94144: "Why don't you shut the hatch?" I suggested?
+94183: Beth grinned at me and Bud shut the hatch.
+94218: Once it was shut, Bud pointed out that the old orchestra pit was still
+down under the theatre. If you stood in the front row of seats, there was a
+semicircular area of floor between the seats and the screen where the old pit
+had been covered over. Bud theorised that the tunnel beneath the stage might
+well have led to the covered-over orchestra pit; the grate might have been the
+entrance to the pit. We had just been talking about the voices in the seats
+that Bud had heard one night, and I think we all started to wonder if there
+might have been any connection between the voices and what I privately thought
+of as the "malevolent force" beyond that grate. Perhaps someone was buried
+under the floor in the old orchestra pit. Once our thoughts started down that
+avenue we could keep coming up with new ways to scare ourselves, so we got out
+of there and locked the stage access panel back.
+94835: Before we left that night, Bud showed me the boiler room, located
+beneath the stage and accessed through a panel at the back of a little niche
+that seemed made for a garbage can to sit in, there in the emergency exit
+corridor. That was when I found out about Russell's popcorn. The drum was
+three-quarters full and a whole stack of empty, soiled popcorn tubs was sitting
+next to it. I wondered how an aged man such as Russell would be able to get the
+drum of popcorn out when the time came to take it off to feed to his "pups."
+Perhaps he emptied it into smaller containers. One might never know. One day
+the popcorn would be there and the next night it would be gone.
+96001: I climbed back up and past the stack of records and looked over a low
+wall of cinder blocks where the projection booth wall continued on up past its
+ceiling, and looked out over the top of the theatre. In the dim vastness of the
+theatre, I could see metal struts and beams, all supporting the weight of the
+ceiling and lighting, and far across the theatre, at the stage end, I could see
+a catwalk of some sort. Once I'd noticed it I could see it running back toward
+me, stopping part-way across. I assumed that it might have been there for
+changing of lights or something. For some reason, though, my imagination
+started to click, wondering who or what might be out there on the catwalk.
+Before I knew it I was half-imagining something coming along the catwalk toward
+me, something headless and dark. I ducked back down and into the projection
+booth, having actually seen nothing but having managed to spook myself
+considerably nevertheless.
+96656: Back down in the balcony after we left the projection booth, I asked Bud
+what was on the other side of a door that one could see in the balcony wall,
+half-blocked by chairs and painted over. I'd asked this before but forgotten
+his answer. He replied that it led to the offices, he thought, although he
+didn't remember which office had a door that didn't go anywhere. I'd never been
+up in the Lyric offices, which looked out over the theatre marquee, since there
+wasn't any way to get from the Lyric proper into them. You had to go out to the
+street, down past Carol Lee Donuts, and back in another entrance that led to a
+stairway and up to the offices. Bud said he'd take me up there sometime. It was
+nothing all that exciting, he said, but I just wanted a look around.
+97199: So, a couple of weeks later, I asked Bud if he'd show me around up
+there, since he'd just gotten through telling Beth that he'd come in early the
+next afternoon to set up a new movie. He said "Sure, come on by and we'll go
+look." So, I did. I found Bud up in the projection booth, about five thirty in
+the afternoon. He left what he was doing and we went back out to the street and
+up to the offices. The offices themselves were pretty humdrum, typical dusty
+old offices with pictures and things from Beth's father's high school days and
+even further back than that. Bud then showed me the rest of the rooms, after
+having showed me each of the offices. We went into a storeroom full of junk,
+passing right by another door as we went. I stopped and opened the door we'd
+passed by.
+97752: Dark. That was my first reaction. The hallway was none too well lit and
+the room beyond the door was not lit at all. More than that, it seemed to be
+full of a kind of inky blackness. I kid you not when I say that I felt a kind
+of awareness in the room. I was still standing there, staring worriedly into
+that room with the hair on the back of my neck standing up, when Bud came back,
+having noticed I was not following behind him. "Joel, I would close that door."
+I closed it.
+98093: I looked at Bud and said "Ack." He nodded and said "I know. That was why
+I passed that door by."
+98170: I looked at him, then at the door.
+98199: "Wow," was all I could say.
+98226: We poked around a little more, but it really wasn't that impressive a
+place; it was just a set of offices with old movie schedules and projector
+parts and boxes of cups sitting around. Except for the Door.
+98373: When we left and went back into the theatre, I was thinking furiously.
+For one thing, that room was just precisely situated to be on the far side of
+the painted-shut door in the balcony wall. For another, it was more or less
+right above the ticket booth. For a third, it seemed alive, or perhaps dead
+would be a better way of putting it. Well, whatever it added up to, I left the
+theatre that day certain that I would not go into that room for any amount of
+money. Not unless I had about six floodlights and a Bible and a crucifix and
+about six gallons of holy water with me. I don't know what works against ghosts
+but I was fairly sure one was in there and that was good enough for me.
+99690: tried to keep the Lyric open, using the old Lyric staff who'd worked for
+Beth and Bud and the Kelseys, but even with staff that knew the operation there
+was just no way you could make money at it. Even without having to pay
+themselves rent, the amount that they had to make to pay off the movie
+distribution companies each week before they could make any profit was way more
+than they could take in each week. Eventually the Lyric closed its doors for
+good and wound up being used only when Virginia Tech needed it for some reason.
+The Virginia Tech Union showed films there for a while (even going so far as to
+sell the incredibly stale candy that had been left over from when the Kelseys
+had owned it) but when the student center on campus re-opened that was it.
+100221: Since the Lyric occupies the center of a block, with apartments above
+parts of it and stores all around it, no one can just go in and demolish it and
+build something on the site. So until someone comes up with the money to gut
+the insides and put something else there, or comes up with the wherewithal to
+restore the theatre and use it for theatrical productions or something people
+would come to, the Lyric will remain closed and shuttered, with only its ghosts
+for company.
+101046: Another birthday has come, and this time Mother has given me this
+diary, probably an attempt on her part to encourage my writing habits. I do
+promise to correspond with her, now that I am leaving for the City.
+101198: My salvation has come, in the unexpected form of Trent. He saw the more
+involved changes I had made when he visited the building site. Apparently,
+despite Horton's death, they are still building that damned theatre. Later on,
+he broke into the Horton estate and he saw
+101430: He has told me to return home to Melissa and my family and to forget
+that this ever happened. I shall do this.
+
+Farewell, my diary, I am about to
+give you to Trent. He has promised me that he will throw this chronicle into
+the foundations of the theatre and that he shall see that Elizabeth will not
+survive to see her theatre completed.
+
+I shall return to my true love,...
+     
+    ...Melissa.
+101752: The page is from a journal with these entries:
+101792: The pages form a journal with these entries:
+102092: You have no time to explore what lies up the stairs.
+102128: Your pager lies down in the basement.
+102163: Just leave, now that you have the pager, or you will be late meeting
+the others.
+102211: Just get the pager and get to the opera.
+102258: A quick check determines that the thug is still out there.
+102303: You are not leaving without your pager.
+102330: Actually, this room is two stories high. You can see a landing going
+around the walls. The staircase goes to this landing.
+102414: A circular window is in the southern wall above the theatre doors.
+102454: The southern wall above the theatre doors in shrouded in darkness.
+102503: There is nothing but dust behind the posters.
+102569: Did you read the introduction?
+102599: You have to find your pager.
+102625: You left it in the basement. Type in compass directions to move about.
+102734: Just get the pager and then leave.
+102758: You have found what you came for, so just leave.
+102785: No car? Better get back into the theatre is see if you can get some
+help from inside.
+102838: Once, people would have hung up their coats and hats here, but now the
+hooks lining the walls are home only for cobwebs.
+102912: One particular hook is cleaner than the others.
+103029: You can't go that way.
+103087: You pull a couple of the hooks at random but nothing seems to happen.
+103203: A secret passage opens, leading down. Hmm, this is great, you can slap
+a couple of grand onto the price tag.
+103282: The passage opens, again.
+103309: The passageway closes.
+103384: You have no time to explore what lies down the secret passage.
+103426: Your pager lies down in the basement.
+103459: Just leave, now that you have the pager, or you will be late meeting
+the others.
+103507: Just get the pager and get to the opera.
+103538: Judging from the desk and lots of papers everywhere, this must have
+been the manager's office.
+103598: Doors lead to the southeast and to the north.
+103637: Doors lead to the southeast and to the north, while a hole in the wall
+leads south.
+103691: Doors lead to the southeast and to the north.
+
+The southern wall has
+been plastered over.
+103757: G.
+
+The desk has an open drawer containing
+103828: You have no time to explore what is north of here.
+103864: Your pager lies down in the basement.
+103899: Just leave, now that you have the pager, or you will be late meeting
+the others.
+103947: Just get the pager and get to the opera.
+104035: You go to pick up the papers but decide not to bother in the end, they
+are just too boring.
+104090: The desk, like the rest of the office, is covered in papers. However,
+you do notice it has
+104146: Pma closed drawer.
+104288: This is a small old-fashioned safe with a dial and a handle on it.
+104346: Hmm, perhaps if you turn the dial, you might hear something.
+104389: The safe is locked.
+104417: The markings on the dial are all worn away. The dial turns quite freely
+104636: Click... Click... Click... Clunk...
+104679: Click... Click... Click... Click... Click... Clunk...
+104735: Click... Click... Click... Click...
+104770: The dial clicks faintly as you turn it to the left.
+104831: Click... Click... Clunk...
+104881: Click... Click... Click... Clunk... Rumble...
+
+The door swings open.
+Looking inside the safe you can see
+105004: . The safe door swings shut, seemingly of its own accord.
+105044: Click... Click... Click... Click...
+105079: The dial clicks faintly as you turn it to the right.
+105130: The plans are for the front end of the theatre. Commissioned by Nelson,
+Meldrew, and Grahams in 1955, they covered an extension to the front of the
+theatre
+105226: . Strange, according to the plans, there is a ticket booth to the south
+of the office
+105304: to ihn
+Actually, looking closer at the wall, you can see where the
+southern wall has been plastered over. Hmm, you would never have been able to
+spot it if you hadn't looked at the plans.
+105480: It was through here that you left your pager.
+105547: The plaster has been broken and an exit leads south.
+105580: The southern wall has been roughly plastered-over.
+105624: You have already done enough damage!
+105655: You are not going to start ruining the building without a good reason.
+105701: The plaster breaks away leaving an exit to the south. You recoil away,
+as a pocket of rotten-smelling air is expelled from the newly formed opening.
+105793: An aroma of rotting flesh emits from the hole.
+105827: To see whats inside just go south.
+105866: Well, if the markings on the dial have warn away then you couldn't open
+it even if you had the combination.
+105938: So, it looks like you will have to break into it. In the movies bank
+robbers traditionally used dynamite. However, that would probably be a little
+hard to come by here.
+106050: In spy movies, however, sometimes safe crackers used a little more
+finesse.
+106147: They are too dirty to see through.
+106177: You try to polish the windows but it is ineffective. Most of the dirt
+must be caked on from the outside anyway.
+106251: You would never fit through them.
+106281: The electrical panel is mounted on the wall. On it you can see a
+switch. The switch is
+106460: display. This particular model was designed for long range and
+durability, which is just as well considering all the things that you have done
+to it.
+106556: At the moment it has no message on the display.
+106585: Currently a message flashes across the display...
+
+         Hurry up,
+slow coach! The Opera is about to start!
+106682: You give a little jump of fright as suddenly your pager emits a series
+of high pitched beeps.
+106751: If you want some popcorn just take it.
+106868: It's the type of switch that you turn off or on, not push or pull.
+106919: You turn the switch on. It emits a low hum but nothing special seems to
+have happened.
+106977: You turn the switch off. It stops humming.
+107011: Hmm, it is bland and flavourless. Still it is surprisingly crunchy.
+107100: You are carrying enough popcorn as it is.
+107195: You scoop up the popcorn (there is plenty more in the barrels).
+107237: You scoop up the popcorn.
+107263: Sorry, the rest of the popcorn is congealed into a large mass.
+107306: The neighbourhood outside the theatre has deteriorated steadily over
+the last three decades, to the state of a slum (not that you would ever use
+that word, of course). Now a slight mist covers the litter-strewn streets. The
+street heads east and west into the murky twilight.
+107470: You stop for a moment. Something is wrong with this scene. Your car is
+missing. Your car is not here. Your car is gone. There is a big space where
+your car was once parked. It's absent, vanished, vacated the premises,
+disappeared, ... stolen. Someone has stolen your car! How typical, in order to
+save an annoying little pager, fate has robbed you of your car. That car has
+been part of your life for years and now it is gone. It looks like you could be
+late for the opera, after all.
+107774: Unfortunately, your car has not miraculously reappeared.
+107833: You retreat into the theatre.
+107859: Great, now you are trapped in the theatre. Perhaps there is a phone
+somewhere here.
+107928: As you start to head back into the theatre you smell something
+unpleasant and then hear laughter behind you.
+
+You stop and turn around. 
+Before you stands a nasty-looking thug wielding a sharp knife.
+108061: The thug blocks your path.
+108083: Not in this neighbourhood! Perhaps something back inside the theatre
+could help you.
+108145: The thug blocks your path.
+108167: Not in this neighbourhood! Perhaps something back inside the theatre
+could help you.
+108227: What an entirely perverse and unpleasant idea!
+108268: The only treat the thug is after seems to involve you and that rather
+sharp little knife he has.
+108333: It would be foolish to provoke him.
+108363: The thug mumbles some obscenities back at you.
+108403: The thug obviously has a poor choice in cologne.
+108439: The thug is rambling on. It is difficult to make out what he is saying.
+108493: "Wozzamadda", the thug mumbles, "Loozzuming? Hee hee!"
+108541: ihm
+"Iwannayafomezelf...", your companion continues, waving his knife
+about.
+108663: Now that his little speech is over, the thug steps toward you and you
+notice that his grip on the knife is tightening.
+108741: The thug begins slashing the knife at you. He seems to be trying to
+drive you back into the theatre.
+108803: ehm
+"Goinzid", the thug growls at you, "oraslashya!"
+108851: The thug slashes his knife at your face, barely missing you. "Nekstime
+yawonbe saluckee", he threatens.
+108927: The thug promptly impales you in the throat with his knife. Death is
+mercifully quick.
+108995: You can retreat into the theatre.
+109025: But that is what the thug wants you to do.
+109066: The street thug cannot be passed. To escape you must solve the
+Theatre's secrets first.
+109143: The whole place emits the aroma of rotting flesh.
+109183: Don't bother. They are solidly boarded up.
+109214: Obviously the source of the smell, you can see a human skeleton lying
+in a ragged heap in the corner.
+109394: No way. Let the dead lie.
+109420: I don't think you can put anything in the skeleton without it falling
+to pieces.
+109481: No way. The rags would just fall to pieces.
+109527: Perhaps you should take a closer look at the dial.
+109565: The pocket watch is connected to the skeleton by a chain. You could
+remove it if you really wanted to, but you don't feel comfortable disturbing
+the body.
+109670: Actually, it looks like a pretty flashy pocket watch for its age, and
+it has a little dial on it. It currently says it is about
+109794: It is one of the dials that you can turn, and also push and pull it.
+109842: It has been pushed all the way in.
+109928: You have already pulled out the little dial as far as it will go.
+109968: You pull the little dial out of the watch, a little bit.
+110013: The dial is pushed in as far as it will go.
+110043: You push the dial in a bit.
+110072: The watch clicks a bit as you turn the dial.
+110111: The hour hand turns around, (you notice that the minute hand is
+jammed). The watch now says it is
+110189: The dial is firmly attached to the watch.
+110234: Here, the boxes have recently collapsed, creating a large pile of junk.
+The air is very musty here.
+110304: A large pile of carpet rolls have fallen over, effectively blocking the
+way north, but you can go back to the south.
+110378: The hallway continues north past some carpet rolls and south.
+110432: A pile of carpet rolls block your way north.
+110471: The carpet rolls have been pushed aside to allow passage to the north.
+110517: The rolls, although precariously balanced, manage to block the way
+north.
+110576: You pushed the rolls as far as they can go.
+110614: You give the pile of rolls a solid push, and they collapse freeing the
+passage to the north. You suddenly realise that there was a body under the
+pile!
+
+You look closer at the body. Bloody Hell! It's Rienhart, one of the
+Mulluer executives you were showing around earlier. The body has obviously been
+crushed by the rolls.
+110814: Rienhart's crushed corpse lies on the ground.
+110937: . He possesses
+110972: Every budding cannibal knows it's best to cook 'em up first.
+111057: Rienhart's corporate greed days are over.
+111096: You drag poor Rienhart over your shoulder.
+111137: You gently ease poor Rienhart into the coffin. He, somehow, looks more
+comfortable in there.
+111219: You quickly browse through the appointment book. It seems to contain
+the normal entries, appointments and "to do" lists. Today's entry mentions the
+appointment you had earlier. You notice that in big red letters circled next to
+the appointment is...
+
+   "Collect Phone"
+111395: If only you could find that cellular phone.
+111428: Rienhart left his cellular phone here! If you can find that, then you
+can call for help!
+111498: The door has been nailed shut and nothing is going to open it.
+111545: The doors seem to be locked from the inside.
+111630: ehn. There is nothing in the rubbish bin that appears to be useful.
+111671: . Amongst its rubbish is
+111717: It is far too heavy to lift.
+111837: ehn. There is nothing in the rubbish bin that appears to be useful.
+111878: . Amongst the rubbish is
+111938: A voice hisses out "You are too late! The show has already started over
+half an hour ago.".
+112004: A voice hisses out "You are too late! The show has finished.".
+112052: A voice hisses out "You are far too early. Come back later."
+112100: There is a sudden gust of cold air and you find yourself...
+112156: Your old ticket flutters down beside you.
+112207: A whisper echoes around you. "Enjoy the show!"
+112256: c."I like it here",
+112291: c."Hi there, sexy",
+112323: She ignores your request.
+112345: You take her in your arms and give her a kiss.
+112379: "Oh, I'm so wet", she moans softly. "Take me..."
+112423: She is getting aroused.
+112449: You slowly slide your hand over her graceful curves.
+112487: "Oh, I'm so wet", she moans softly. "Take me..."
+112531: She is getting aroused.
+112605: After your initial foreplay she is hot and ready to go. You settle in
+for some hard love making. Your passion is infectious and soon the others join
+in. Hours of pleasure later, you all relax, your lusts sated for the moment.
+112835: The large portrait blocks the way north.
+112867: The portrait is huge! You would never be able to carry it.
+112907: The portrait is firmly attached to the wall.
+112939: It seems very realistic in places.
+112969: It has an irregular feel with lots of ridges, particularly around the
+area where the painted door is.
+113041: The surface of the painting is bumpy.
+113073: The surface of the painting is bumpy.
+113105: The surface of the painting is bumpy.
+113137: It feels very real. It feels as if you could just open it.
+113207: Surprisingly, the painted door opens easily, revealing a passage
+leading north.
+113283: You can hear something out there. It seems to be very close and comes
+from all around you.
+113336: You can't see the ghostly presence to do anything to it, but somehow
+you can feel that it is near.
+113475: You get no response.
+113490: You can't see the ghostly presence to do anything to it, but somehow
+you can feel that it is near.
+113566: You hear a faint whisper from out of the darkness, "Ticketsss,
+pleassse".
+113622: You hear a shallow breathing from nearby.
+113654: You hear a faint whisper from out of the darkness, "Ticketsss,
+pleassse".
+113710: You hear a shallow breathing from nearby.
+113742: You hear a harsher voice echoing out of the darkness, "Ticketsss, now!"
+113796: Suddenly, from the darkness, a cold grasp reaches out...
+113847: Perhaps you should give him what he wants.
+113883: You don't have it? Perhaps you should just run away.
+113925: And come back later when you do have it.
+113953: The voice maybe a ghost. Who would it be a ghost of?
+113999: Hmm, I wonder how the ghost can tell the time.
+114041: You need a definite plan of action to work things out.
+114140: That is too far away. Try going down the stairs.
+114211: For a moment you think you hear footsteps echoing up from the lobby
+below, but when you look down you see nothing.
+114286: Below you is the theatre lobby.
+114310: Actually you see that the light shining through the window has made a
+spotlight on the lobby floor below.
+114388: Now that you have opened the curtains you can see the window behind
+them.
+114427: Behind the curtains is a patterned circular window, which I suppose you
+can get at more easily if you just opened them.
+114538: You open the curtains revealing a curiously patterned circular window,
+illuminated by the street lights behind it.
+114639: There is no apparent way to open it.
+114667: No way! That patterned window is meant to be unique and irreplaceable
+feature of the theatre front. Besides, you would hurt yourself on all the
+broken glass.
+114770: You might as well try to reach out and grab the moon.
+114813: The spotlight is on you now, but your new found fame changes little.
+114901: You put the clear lens into the direct centre of the spotlight. Somehow
+the pattern seems to get burned into the lens!
+115010: The patterns make no sense to you at the moment.
+115050: Try looking down.
+115160: You can hear that something else is in the room with you.
+115219: A sudden burst of cold air stops you in your tracks.
+115271: This is not the time or place for a rest.
+115392: You can hear that something else is in the room with you.
+115451: A sudden burst of cold air stops you in your tracks.
+115503: This is not the time or place for a rest.
+115579: There is nothing special about that at all.
+115695: As you take the photo there is a burst of bright light as the flash
+goes off. The shadow creature gives a loud scream and vanishes!
+115797: A shadow forms out of the gloom and stops you, driving you back with a
+wave of cold air.
+115859: The shadow blocks your way.
+115882: Amongst the gloom you can see a shadowy outline moving about.
+115941: There is a burst of light as the star crystal hits the shadow creature,
+and you can see the light destroying it. Unfortunately, the ensuing explosion
+slays you too.
+116053: You get no response.
+116103: You feel a cold presence touch you.
+116134: Shadows are formed from darkness.
+116166: And the opposite of darkness is...
+116329: Looking through the stuff you see little of interest; some coins, a
+pencil, and little bits of paper.
+116435: You cannot make out anything distinguishable.
+116514: The voices came from above you.
+116547: You hear voices from above you, but you can not make out what is being
+said.
+116601: You hear a mumbled conversation above you.
+116662: You are in the eastern balcony overlooking the theatre auditorium,
+where once the elite would have been seated enjoying the shows on the stage
+below. Far across from you to the west you can see the other balcony seats. The
+only exit for those who cannot fly is down to the south.
+116907: This is not the time or place for a rest.
+116934: Yes!
+116950: But you need to have a girlfriend called Jane.
+117022: It is too far away.
+117045: It is too high up.
+117166: You grab hold of the Chandelier and swing across. Below you the seats
+become an endless blur. You see the western wall and balcony approaching
+rapidly. You close your eyes and let go. After a painful landing you find
+yourself...
+117323: You grab hold of the Chandelier and swing across. Below you the seats
+become an endless blur. You see the eastern wall and balcony approaching
+rapidly. You close your eyes and let go. After a painful landing you find
+yourself...
+117477: You grab hold of the chandelier but nothing much happens. Perhaps if
+you tried pushing it.
+117544: As you grab the chandelier its gentle swaying stops altogether.
+117591: As the chandelier swings by you grab hold of it. However you jumping
+onto it seems to have robbed it of most of its momentum. Perhaps if you were
+higher up.
+117691: You polish it a little, but your effort is wasted. It is just too
+dirty.
+117757: Ahn
+The chandelier comes to a stop.
+117800: The chandelier swings a little more gently now.
+117847: Below you, the auditorium's chandelier has been lowered to the ground
+level.
+117897: The chandelier has been lowered to ground level for easy access.
+118018: The chandelier is gently swinging back and forth.
+118127: . According to a dial you have
+118190: If you want to take a picture of something type in PHOTOGRAPH OBJECT.
+To advance the film just WIND THE CAMERA.
+118284: If you opened the camera, it would ruin the film.
+118349: You have run out of film!
+118367: You wind the camera, advancing the film on.
+118424: It seems unused.
+118447: You catch a glimpse of something moving in the corner of your eye.
+However, when you whirl around there is nothing there.
+118527: Don't bother. The stage doors have been securely sealed forever.
+118575: A quick pull of ropes determines they are sturdy enough to climb.
+118621: You clamber up the rope...
+118655: You could play Tarzan for a while, but the only exits still remain west
+or down.
+118726: Due to your precarious position here, you don't want to muck about. You
+have two options, going back down to the stage, or going west.
+118810: You clamber back down to safety...
+118843: The locker moves a little as you push it.
+118927: As the locker goes over the doorway, it tips and then falls down to the
+stage below with a loud crunch.
+118996: Pushing it would be easier.
+119030: As you reach into the locker, the snake strikes, biting you in the
+hand. The stinging sensation soon stops as you expire.
+119109: It's a bit too heavy to lift up.
+119152: As you open the locker you hear a nasty hiss. Inside is
+119217: The snake hisses at you as you close it once more inside the locker.
+119262: You give the locker a sturdy push.
+119303: It is too big and in too many pieces.
+119344: I don't think the snake will let you do that.
+119392: As you reach for the snake, it strikes at you biting your hand. You
+stumble backwards and collapse to the ground as you find it increasingly more
+difficult to breath...
+119525: The snake ignores you.
+119542: Well, going near the snake will probably get you bitten by it, so
+perhaps you should deal with the problem from another angle.
+119626: Or perhaps another place. Now you just have to get the snake there.
+119694: This is a miserably dank underground passage lined by old brick walls.
+The passage heads up to the west and continues to the east to
+119845: Despite their appearance, the brick walls are firmly mortared.
+119890: The iron door looks quite sturdy. It is currently
+119926: Hnlocked tightly shut.
+120018: It is pretty simple. You just need to find the key for it.
+120066: And then you can just UNLOCK and OPEN it.
+120102: In the centre of this huge cavern-like room is a large pit, somewhat
+reminding you of an empty indoor swimming pool. A passage heads off to the west
+to
+120323: You hear a loud snoring coming from down the pit.
+120389: You can hear some sort of growling beast in the pit.
+120425: A savage roar issues forth from the pit.
+120452: You can hear something large moving below in the pit.
+120491: You haven't got enough of anything to fill the pit with.
+120531: For a closer look, you will have to go down into it.
+120627: You hear a curious sniffing sound from down in the pit.
+120670: You hear a deafening roar of pain from the pit and then there is a
+tremendous explosion. Several tons of burning theatre collapses on top of you.
+(On the bright side, you did kill the monster).
+120796: adnlj. You can hear some awful crushing sounds, like bone grinding on
+bones, coming down from the pit
+120939: Hzbzse to         ger,
+Above you can hear a loud clang as the iron door
+slams shut!
+121022: It seems that the snoring was a cruel ruse by the beast to lure you
+into the pit. Sadly, feeding it Rienhart's body only gave it a taste for human
+flesh.
+121113: With a howl the creature charges you. You are unable to see or resist
+its onslaught.
+121174: Its been in the pit for a long time. Perhaps its hungry.
+121224: You could feed it yourself, or perhaps you could give it something else
+to eat.
+121278: The traditional monster food is meat.
+121312: The creature, however, can eat a lot, so you will have to make the meal
+last a while.
+121399: There seems to be no immediate way to open it.
+121465: You are as close to the sewage as you want to get!
+121559: You push the lever with all your might but nothing happens. Perhaps if
+you pulled it?
+121619: The lever slowly gives as you pull it. You hear a grinding sound from
+the west, and realise that the sluice gate is opening. There are loud sloshing
+noises as hundreds of litres of sewage pour through the gate, into the trench
+121800: The lever slowly slides back into position as the gate automatically
+closes.
+121965: The rats hiss viciously at you as you attempt to go that way.
+122022: As you attempt to walk through the archway, it suddenly lights up and
+you get thrown roughly backwards, as if by magic.
+122100: As you attempt to walk through the archway, it suddenly lights up and
+you get pushed gently backwards. You notice that the amulet gently glows.
+122187: The amulet gently glows as you walk through the archway.
+122306: No, I don't think so.
+122383: Gross!
+122404: The rats ignore you.
+122434: The rats seem interested in the popcorn.
+122498: The rats are too far away.
+122520: There are too many of them.
+122548: Angry little rats swarm all around you.
+122582: To the east you can see a swarm of nasty little rats.
+122622: To the west you can see a swarm of nasty little rats.
+122667: To the east you can see a swarm of nasty little rats.
+122707: To the west you can see a swarm of nasty little rats.
+123063: One of the rats jumps up at your face, biting at you. While you defend
+yourself a couple of others, taking a running jump, knock you over. As you can
+pick yourself up, you can see one of the rats disappearing into the distance
+with the jewelled dagger!
+123226: One of the rats grabs the jewelled dagger and runs away with it.
+123288: With squeals of delight the rats consume the popcorn.
+123331: In the distance you can see the rats are eating something.
+123496: At 9kca  Ehn
+The rats jump up at you excitedly, theirs noses twitching.
+123554: The rats swarm about your feet occasionally biting you.
+123596: The rats screech at you.
+123643: The rats scurry about, chewing at the nearby dung.
+123759: A large swarm of rats scurries out of the southeastern tunnel, their
+noses twitching excitedly.
+123886: A swarm of rats slithers in from the northwest.
+123922: The rats disappear down the southeastern tunnel.
+123961: The rats disappear from the eastern end of the sewer.
+124053: The rats move closer and now swarm all around you.
+124091: The rats scurry towards you, down the drainage trench.
+124185: The rats move closer and now swarm all around you.
+124267: The rats move further away from you, to the eastern end of the drainage
+trench.
+124321: The rats move away to the eastern end of the sewer.
+124369: The rats move further away from you, to the western end of the drainage
+trench.
+124467: The rats move closer and now swarm all around you.
+124505: The rats move away to the western end of the sewer.
+124548: The rats scurry towards you, down the drainage trench.
+124588: The rats move closer and now swarm all around you.
+124714: You will need to get rid of them somehow.
+124750: Stay by the rats for a while. They should do random things.
+124798: If they don't, and do one particular thing all the time, then that is a
+clue.
+124856: They will react to something you are carrying. Give it to them.
+124904: Hmm, perhaps if you try elsewhere.
+124930: Read the description more carefully.
+124969: Perhaps you need some protection. Try looking closer backstage.
+125013: You need an object you haven't come across yet. Try tackling another
+problem.
+125089: Despite the fact it seems to be very, very heavy, it is also far to hot
+to touch.
+125151: It is hot to the touch.
+125171: Actually, a rather pleasant odour comes from the cauldron.
+125260: The popcorn is dissolved into the bubbling liquid.
+125402: . The statue is holding a jewelled dagger.
+125434: The statue depicts a woman that is both hauntingly beautiful and
+frightfully savage. Her near-perfect beauty is blemished by an elongated
+forehead, which has four eye sockets forming the shape of a diamond.
+126227: You have a feeling that something really bad might happen if you just
+put the pearl into the socket without knowing into which one it should go
+into.
+
+Do you really want to do that?
+126339: Better safe than sorry.
+126405: As you place the eye into the socket the statue recoils backwards as if
+the pearl was burning hot. It takes a moment to recover and then it stabs you
+with the dagger.
+126565: As you place the eye into the socket the statue recoils backwards as if
+the pearl was burning hot. It takes a moment to recover and then it stabs you
+with the dagger.
+126910: . The jewelled dagger falls to the floor.
+126942: It is one of those curved ceremonial types, with strange hieroglyphics
+inscribed on the blade. It appears to be made of silver, and encrusted with
+gems, while a
+127153: You will need to free the dagger from the statue first.
+127200: You will need to free the dagger from the statue first.
+127240: That doesn't fit in the hilt's depression.
+127320: The dagger is firmly attached to the statue.
+127357: It would just seep through your fingers, and you don't have a container
+that could stand the heat.
+127415: The liquid smells quite pleasant.
+127469: You take a tentative sip of the liquid. Although it is rather hot it
+has a very pleasant taste. Relaxing, you gulp down another couple of mouthfuls,
+not realising how hungry you really were. Its only on your third mouthful that
+you see the
+127633: float to the surface of the liquid. You gag uncontrollably and then
+vomit into the corner of the room.
+127705: You were carrying it around with you before and it wasn't that
+important, so why would you want it now.
+127784: Looking closer at your vomit you notice something unusual in it.
+Grimacing, you reach in and take out a small metal object. Wiping it clean, you
+can see that is a ring. You will certainly remember to chew your food properly,
+the next time you go gulping down unknown casseroles.
+127957: You don't remember eating half of that.
+127989: Lets not get carried away. Remember the rules of social etiquette frown
+on playing with vomit.
+128057: That is so gross that the author doesn't want to even think about it.
+128286: The pearl is perfectly round, and almost two centimetres in diameter.
+Embedded in it is a small
+128882: You will need to get the statue to let go of the dagger.
+128926: The dagger is being gripped by four hands. What else has the statue got
+four of?
+128986: We are not talking fingers or toes here.
+129024: The statue has four eye sockets. Perhaps there is a connection.
+129074: Four eyes have been scattered about the theatre here. You need to find
+them and return them to their rightful sockets.
+129150: Having problems knowing which eye belongs where?
+129194: Perhaps you could ask for some help.
+129223: You can't make out the chanting that well, as it seems to be in a
+unfamiliar language.
+129286: The chanting sounds awfully sinister in that direction.
+
+Are you sure
+you want to go that way?
+129352: Perhaps it is for the best.
+129370: Not if you have something better to do first.
+129398: "Perfect timing", she cackles, moving closer to you.
+129435: Rough hands grab you from behind, and a smell of rotting flesh assails
+you. You struggle but cannot break free of the vice-like grip. You can clearly
+see the features of the woman now, as she faces you. Her eyes are solid black
+while her pale skin seems to be tightly stretched over her narrow
+undernourished face, giving an almost skeletal appearance. It is almost
+impossible to tell her age but you get the impression of great antiquity.
+129704: She smiles coldly at you. "Your marrow smells so sweet, but I must
+restrain myself. Your death serves a higher purpose."
+129798: She reaches out and rummages through your pockets eventually pulling
+out the jewelled dagger.
+129868: You hear a nearby squeaking as a rat rushes in dragging behind it the
+jewelled dagger, which she takes.
+129942: She pulls out the jewelled dagger. It looks none the worse for being
+flushed down the drain.
+130005: She pulls out a jewelled dagger, with a strange brown crystal in the
+hilt of it.
+130059: She pulls out the jewelled dagger.
+130102: She retrieves the brown crystal from you and puts it back into the
+dagger's hilt.
+130162: Taking out the brown crystal, she puts it back into the dagger's
+hilt.
+
+"It was very difficult finding that little bauble down the drain."
+130248: She takes out the brown crystal and puts it back into the dagger's
+hilt.
+130296: She brings back the dagger, then slashes down at your face. You feel
+the blade slice through the flesh of your face leaving a hot searing wound. You
+can feel your blood running down your face and neck.
+130415: The room darkens as the light sphere turns bright red.
+130450: "Your blood summons the old one. A path is formed and a new gate will
+open. It will be drawn to this planet now by the taste of your soul."
+130550: The temperature in the room suddenly lowers drastically as the lighted
+sphere turns black, flooding the room with darkness. You can feel an immensely
+powerful presence entering the area.
+
+You start screaming...
+130677: Suddenly her voice falters as she stares at the dagger.
+130730: crystal", she shouts. She turns and runs towards the light. "Forgive
+me, Great One. I did not know. I was tricked!"
+130815: The light sphere suddenly turns bright blue and shrinks quickly to the
+size of a ping pong ball. A wind seems to blow towards the small sphere of
+light.
+130910: "No! Please," the woman whimpers. "I don't want to go back. I want to
+live forever."
+130973: The wind blows stronger and the woman seems to fall into the light and
+vanish. You are released by your captor, but before you can do anything, this
+wind seems to pick you up and throw you into the light.
+131143: You are in something that looks very much like a mine shaft. In the dim
+electrical light you can just make out rough walls and not much else. Tunnels
+lead in all directions.
+131259: Not without some pretty heavy mining equipment.
+131300: A large cage dominates the area.
+131359: . It appeared to be resting but as you entered it awoke and sniggered
+at you with a surprisingly soft voice
+131438: The creature sees what you are doing and shrieks at you.
+
+"Don't let me
+out! You will only get me into trouble."
+131515: It is hard too tell who finds whom more repulsive!
+131579: The bars of the cage would make that difficult.
+131626: "Oh, pretty. Much nicer than the one I dug up."
+131666: The creature looks at the crystal sadly. "Clawed in the dirt for months
+for that, I did. It changed me. Made me like this, but she needed it. She said
+that she needed it blooded to draw her master to this point. No other crystal
+could do it."
+131818: The creature whimpers sadly.
+131842: "No doubt belongs to some predecessor of yours."
+131880: "Frightfully amateurish work. Look at that. They moved a couple of
+supporting studs! Obviously not correctly trained. Still to be fair, it will
+work quite well."
+132002: The creature eats the popcorn.
+132033: The creature look closer at the gem.
+
+"Oh, that is one of the Eyes of
+Power, which guards the lady's most prized treasure. That one is the
+132128: Eye of Mana. It forms the foundation of all the other eyes."
+132168: Eye of Strength. It is the right hand of all the other eyes."
+132212: Eye of Control. It stands above the other eyes."
+132248: Eye of Wisdom. It stands beside Strength to help balance the other
+eyes."
+132316: "Infocom were the Gods of the Implementer and Engineer."
+132364: "You are fat and ugly."
+132392: "The Implementer used to tools of the Engineer to create the universe."
+132448: "The Engineer created the tools that enabled the Implementer to create
+the entire world."
+132510: "Some sort of cabbage isn't it?"
+132542: "The Eyes of Power are used to control the guardian."
+132584: The creature shudders.
+
+"Utter ruthless creature. The lady forced me to
+help her create the beast."
+132654: A tear rolls down the creature's cheek.
+132690: "I once had a name, but I cannot remember it now."
+132747: The creature recoils at the name. "Quiet!" it hisses at you, "She might
+be listening."
+132811: "They have great power, because they are formed when too much mystical
+energy is at one place at a time."
+132885: "He got away, with his beloved. It was the only good that came out of
+my actions."
+132945: "There are so many monsters now."
+132977: "They hold the key to great secrets. Show some to me, and I will tell
+you more."
+133035: "Special stones were lucky to people who were born on a certain month.
+If you show me a gem I can tell you if it is a birthstone or not."
+133126: "I don't know anything about that."
+133163: "Flee, quickly! You must leave this place. If she sees you here, you
+will be lucky if she just kills you."
+133234: "I obey only her now.", the creature whimpers.
+133279: "I was once like you." the creature says with a surprisingly soft
+voice.
+133333: "I thought I could beat her too", the creature says, "I tried to help a
+colleague and this is my reward."
+133409: The creature paces back and forth in the cage.
+133443: "Dig, dig, dig", say the creature. "That's all I ever seemed to do. Did
+learn lots about rocks and stones though. They talked to me, while I slept."
+133546: The creature seems to get upset if you try to free him.
+133592: Perhaps you shouldn't bother.
+133622: He does rattle on a bit. Perhaps it knows something useful.
+133672: You can always ask him or show him things.
+133824: sxmsecret library. The room is filled with
+133953: The air is filled with the smell of musty paper. Aisles lead south,
+while a small recess lies to the north. To the east, a bookcase has collapsed
+leaving a hole in the wall.
+134069: It is just the hook the chain used to be attached to.
+134100: A metal chain is attached to the hook.
+134180: You can only push the shelves to the south.
+134224: You have already pushed them all over.
+134254: The silky ropes seems to hold them sturdily in place.
+134296: The metal chain stops the shelves from toppling over.
+134336: You will need a good reason to destroy all those bookcases!
+134412: With a good push the first bookcase tips over, striking the next one.
+That collapses, knocking the next one. Like a series of dominos, all the
+bookcases fall over one by one. As the last one topples, far to the south, you
+can hear a sickening crunch.
+134701: None of them seem that useful.
+134725: Your grab a book from random, and read a little, but soon return it to
+the bookcase, as it is unhelpful.
+134790: The chain is quite long, old, and rusty. It connects all the library
+shelves together.
+134850: The chain stretches off to the north.
+134880: The chain has been unhooked from the north wall.
+134909: The chain has been hooked to the north wall.
+134947: The chain has been fixed to the shelves permanently.
+134997: You can only connect the chain to the hook.
+135031: The connection must be to the north.
+135061: The chain no longer reaches the hook.
+135089: The chain is already hooked onto the hook.
+135119: You hook the chain back onto the hook.
+135161: You can only disconnect the chain from the hook.
+135195: The connection must be to the north.
+135223: The chain is already unhooked from the hook.
+135253: You unhook the chain from the hook.
+135409: A cold and damp breeze blows in from a broken French window to the
+west, while a library aisle leads north.
+135498: The giant slug blocks the way to the window.
+135545: The slug monster zealously guards the nest, but you can see an eye-like
+pearl in it.
+135603: The slug monster zealously guards the nest.
+135640: In the centre of the nest you can see a large slug or larva at least
+one and a half metres in length.
+135739: The slug ignores you.
+135770: The slug spits at you a second time. This time the spittle hits you on
+the face. It is a gruesome way to die.
+135838: As you approach the slug, it spits at you. The spittle hits your
+shoulder and it burns through your clothing like acid. Screaming in pain you
+grab a book and scrape off the acid. You wouldn't want to do that again.
+136068: The crystal flies through the air striking the slug. In a burst of
+white light the slug literally melts. Unfortunately the following fireball
+destroys everything else.
+136179: hits the slug but the force of the throw is absorbed by its soft flesh.
+The ripple effect produced is quite nauseating to watch.
+136285: As you touch the strands your hand sticks to them. It is only after
+much struggling that you manage to free yourself.
+136355: As you touch the strands you find your hand stuck to them. You try to
+pull away, but your wriggling only attracts the attention of the giant slug,
+which slithers towards you. Slowly it embeds its needle-pointed end into your
+shoulder. The pain you endure as it injects acid into you is too intense to
+describe. Horribly you are still alive when it begins to suck out your
+dissolving flesh...
+136595: It is all crushed now. You would probably need a couple buckets to
+scoop it up with.
+136653: Gross!
+136667: Why bother? It is quite dead.
+136690: Deal with the slug the same way people deal with all annoying insects.
+136744: Before they had fly-spray and other insecticides.
+136786: You need a giant fly swat. Look around. What is big and flat?
+136856: You can hear a strange piano melody coming from above you. The melody
+is a classical piece sounding a little like Beethoven's "Moonlight Sonata"
+136959: The strange piano melody continues.
+136998: A strange piano melody can be heard very faintly from above.
+137050: As you descend the stairs the melody fades away.
+137090: As you climb the stairs the melody abruptly stops.
+137699: You must pour the liquid onto something to empty the vial.
+137739: I don't think that will fit in the vial.
+137781: You need to keep the clear blue liquid in the small vial otherwise it
+would just spill everywhere.
+137878: Glumly, you drink the liquid. Almost instantly you feel very tired and
+137963: , falling into a dead slumber. Later on you awake to the sound of
+chanting. Looking up you see an unfamiliar ceiling above you and a bright light
+shines down upon you.
+138071: Against the light you suddenly see a silhouette of a long curved dagger
+and then your screams begin...
+138143: They are pills so you eat not drink them.
+138175: You are not in that much pain, yet.
+138221: You cannot put that on over the gas mask.
+138268: The stethoscope is becoming uncomfortable to wear. Perhaps you should
+remove it.
+138330: You remove the stethoscope, as it is irritating your ears too much.
+138430: You cannot reach the trapdoor from your current position.
+138517: Ignore the junk.
+138577: An open trapdoor in the ceiling leads up.
+138607: An open trapdoor in the floor leads down.
+138645: There is a closed trapdoor in the ceiling.
+138673: There is a closed trapdoor in the floor.
+138730: You cannot reach the trapdoor from your current position.
+138766: Perhaps you need to grow a little taller.
+138804: Or elevate your position in life.
+138838: A little song can lift your spirits.
+138925: That would be a good way to get yourself killed.
+138964: Supported on the floor by a couple of sturdy crossbeams is a large
+winch with a handle. From the winch a thick cable runs down through a hole in
+the floor.
+139105: Besides the fact that you can't fit through the hole in floor, you
+could never get a good enough grip on the cable to stop you plummeting to your
+death on the cruel seats below.
+139238: As you turn the handle, the winch raises the chandelier to just below
+the floor.
+139302: As you turn the handle, the winch lowers the chandelier to the
+auditorium floor far below.
+139367: The cable extends down to the theatre floor.
+139395: Through the cracks you can see that the cable ends at a large
+chandelier.
+139447: The chandelier is too far away.
+139478: You cannot reach it as it is beneath the floor. Besides it looks very
+heavy.
+139558: If you examine it closely you will see that it has a handle, which
+raises and lowers a chandelier.
+139628: But you need to be elsewhere, to get any benefit.
+139707: You get the creepy sensation that you are being watched.
+139817: Out of the corner of your eye, you glimpse movement from the gladiator
+mannequin.
+139879: Ever so slowly, you notice the pirate mannequin turn its head to look
+at you with its unseeing eyes.
+140063: The mannequins move closer, but as they cross the puddle of glue they
+stop, unable to move their feet.
+140149: The mannequins hiss at you as they struggle against the glue.
+140191: Unable to move their feet, the mannequins squirm about where they
+stand.
+140238: The mannequins reach out at you, clawing the air.
+140307: The mannequins group around you blocking your escape. The gladiator
+impales you with its trident.
+140379: Err, um... I don't think
+140469: Violence is not the answer. Particularly since all the mannequins are
+armed.
+140537: As you reach out to take it from the mannequin, it draws away from you
+and issues a loud hiss.
+140617: There are three nasty looking mannequins between you and the gas mask.
+140674: As you reach out to take the gas mask, the mannequins issue a loud
+hiss.
+140738: You can't put that on over the stethoscope.
+140795: You slip past the mannequins and take the now unprotected gas mask.
+140891: Breathing in that gas mask is becoming difficult. Perhaps you should
+take it off so you can breath more easily.
+140980: You remove the mask so that you can breath more easily.
+141018: Run away...
+141074: Avoidance is a good way to solve a sticky situation.
+141117: You don't want it.
+141150: You struggle through the Soldier's Waltz. It's been a while since you
+last practiced.
+141214: The mannequins seem unimpressed by your efforts, but it was a valiant
+attempt, anyway.
+141271: You do a sterling rendition of Chopsticks, it being the only piano
+piece you know by heart.
+141337: You cannot do that to the piano when standing on it.
+141368: The piano moves quite freely.
+141406: The piano would never make it down the stairs.
+141441: You cannot do that to the piano when standing on it.
+141488: The piano rolls to a stop.
+141513: Pushing it would be easier.
+141614: You can only put sheet music on the piano.
+141663: The piano moves easily as you push it.
+141742: It seems to be arranged for a piano. Looking at it brings back
+childhood memories of long tortuous piano practice sessions. Anyway, to play it
+just put it on the piano and then play the piano.
+141881: You can't go that way.
+141913: You can't go that way.
+141992: Carefully, you clamber down the sooty shaft.
+142036: Carefully, you clamber up the sooty shaft.
+142080: Actually, you can climb up or down the chimney.
+142197: You clamber down the shaft.
+142226: You clamber back up the shaft.
+142257: Actually, you can climb up or down the chimney.
+142309: You are relieved to find that the coffin is empty. No, actually,
+looking closer you can see that there is a key in there caught up in the
+lining.
+142403: You are not ready for the grave yet.
+142435: The door is soundly sealed. You will never get it open.
+142487: You give the velvet lining a strong yank but it doesn't give.
+142542: The key is caught in the lining and you cannot reach it.
+142586: Can't reach the key? Perhaps you need a smaller hand.
+142632: Or someone else's smaller hands.
+142685: You clamber back up the shaft.
+142839: Wonder Glue
+      Bonds in seconds!
+    Safe to use (will not 
+   stick
+to living things)!
+142931: Sadly, the jar seems to be sealed tight. Looks like the glue works
+quite well.
+142995: The jar of glue shatters as you break it, splashing glue everywhere.
+143049: The jar of glue soars through the air and shatters as it hits the
+ground, splashing glue everywhere.
+143110: The ground is covered with a sticky substance.
+143150: It is indeed fortunate that the glue doesn't stick to living tissue,
+otherwise you would be in a sticky situation (if you can pardon the pun).
+143239: You have no suitable source of fire.
+143342: You are high on the roof of the theatre, near a large chimney. All
+around you, the city is starting to light up for the oncoming sunset.
+143428: The roof slopes off dangerously in all directions but you know that you
+can safely go west to the balcony. Also a chimney leads down
+143571: Youyepn.
+143633: You clamber down the chimney.
+143728: The crow looks inside the coffin and flies down into it. It then flies
+out with something shiny in its beak. As the crow flies up the chimney with its
+new prize, it drops it. The crow promptly caws in annoyance, and then continues
+up the chimney.
+143899: The crow quickly eats some of the popcorn.
+143942: The crow caws mournfully.
+143966: The crow preens itself, unruffling some feathers.
+144002: The crow shifts side to side.
+144227: The crow seems to want the popcorn but doesn't seem to trust you enough
+to take it from your hand.
+144284: The crow ignores you generous offer.
+144369: The crow caws curiously at you.
+144394: Look closer at the poor little thing.
+144430: It looks hungry and miserable.
+144502: dyb GhnThe gas is making you dizzy. You lose your concentration before
+you can do that.
+144582: A strange greenish gas pours out of the telescope.
+144633: The gas mask protects you from the gas.
+144661: The gas makes you feel a little dizzy.
+144694: The gas overwhelms you!
+144730: It is oddly shaped because there is no little eye piece to look into.
+It is roughly a cylinder 1 metre long, with
+144808: hxnlenses at both ends. Looking closer you notice that one of the
+lenses is removable.
+144863: a coloured lens at one end. The telescope is filled with a strange
+greenish gas, that is leaking out.
+144936: Completing the scene is a large strangely shaped telescope.
+144995: A green gas is pouring out of it.
+145043: You never want to look through that blasted thing again.
+145103: As you gaze through the telescope, the patterned lens seems to cancel
+out the patterned window, as well as the greenish gas giving you a clear view
+of the night sky.
+
+You suddenly realise that the sun hasn't set yet but you can
+clearly make out all the various stars. Wait a second... the stars are moving!
+They are moving aside, to let something else come up from beyond them. An
+intensely alien presence awaits, tearing at the very fabric of the physical
+universe, waiting for something to happen to let it in. A cold chill runs down
+your spine as you realise that the presence has turned its attention to you.
+You can feel its scrutiny as its eyes focus on you.
+
+With a muffled cry, you
+recoil back from the telescope, collapsing on the floor. Monstrous thoughts
+bombard your mind as you flail on the floor. An overwhelming feeling of
+anticipation overcomes you. A sense of impending freedom, a longing for
+vengeance, a hunger for your very soul. You scream out loud, in an attempt to
+block the flood of emotions, but you cannot. To escape the steady flow of
+nightmares, your mind mercifully collapse into unconsciousness.
+
+You awake
+later and struggle to your feet. You notice you are carrying something new
+amongst your possessions.
+145836: You see an indistinct green blur, as you look into the telescope. It
+makes the patterned window even stranger.
+145908: If you want to take the lens, just take the lens.
+145958: Returning the lens stops the flow of the gas.
+145995: You breath in a lungful of the stuff and instantly regret it.
+146044: You can't do anything to the green gas.
+146069: It is a sluggish moving gas, slightly green in colour, pouring out of
+the telescope. There seems to be enough of it.
+146198: . It is almost as if it is reacting to the light.
+146251: through the lens doesn't alter it in any way. It looks like the lens
+doesn't magnify anything at all.)
+146341: Strange, when you look into the lens it doesn't distort what you see.
+It is as if it is just clear old glass.
+146425: With a loud hiss you remove the lens from the telescope. You can't help
+but notice that a green foul smelling gas emits from the new opening.
+146517: Telescope are used to look at things far away. To use the telescope
+just LOOK INTO THE TELESCOPE.
+146605: While you are there, why don't you LOOK AT IT as well.
+146647: The gas is fatal, so don't dawdle with the lens.
+146687: Protection is in ignorance.
+146717: Isn't there a similar place to the attic, that you can uncover?
+146774: On the floor in the centre of the spotlight is the newly formed
+patterned lens.
+146858: The pattern on the lens and the pattern on spotlight are exactly the
+same.
+146906: The pattern on the lens and the pattern on window are exactly the same.
+146954: The pattern on the window and the pattern on the lens mix together in
+an unpleasant way. It is fortunate that you cannot hold the lens steadily.
+147086: The pattern distorts everything you see.
+147274: The man is dressed in clothes that were in style at least 70 years ago.
+147326: The man seems to be grasping his stomach in pain.
+147359: Looking at the bloody wound, it would seem this gentleman has been
+shot.
+147514: The man scoffs all of the pills. You can see him visibly relax as the
+pills remove his pain.
+
+"Thanks", he says, "my name is Trent. I know you don't
+know me but I must ask of you a favour, one that may seem a request of madness,
+but you
+147672: do it."
+
+"Below, is an evil in female form. You must destroy her, if
+you do not she will do great harm."
+147764: "Please, kill the bitch."
+147788: ehn
+"Please, you must believe me. She must be destroyed."
+147846: It will take more than courtesy to get you out of this one.
+147892: The younger lady raises her pistol and, quite literally, blows your
+brains out.
+147954: The dagger hits her in the shoulder and she staggers back as her pistol
+goes off, firing low but not low enough. You scream in agony as you feel your
+left knee explode and you collapse in a heap on the floor. The old hag picks up
+the pistol and wanders over to you. She points the gun directly at your
+face.
+
+"I will tell her everything. Forewarned is forearmed. I won't make the
+same mistake again."
+
+With that she fires.
+148221: The crystal flies through the air, and hits the young
+woman.
+
+"Excellent", cries the old hag, "Now we don't have to bother to dig one
+up."
+
+The young woman seems less pleased about it, however, and shoots you.
+148364: She dodges the attack and raises her pistol and shoots you.
+148418: It will take more than courtesy to get you out of this one.
+148459: No thanks.
+148476: As you move in, the younger lady raises her pistol and, quite
+literally, blows your brains out.
+148548: The dagger hits the old woman in the shoulder and she staggers back
+wounded. The young lady points her pistol at you and fires. The shot hits you
+in the head killing you instantly.
+148663: The old hag catches the crystal nimbly.
+
+"Excellent", cries the old
+hag, "Now we don't have to bother to dig one up."
+
+The young woman shrugs and
+then shoots you.
+148778: She dodges the attack, and the younger woman callously raises her
+pistol and shoots you.
+148844: The old hag shrieks at the younger woman.
+
+"Quickly, fool! He has given
+us a second chance. He brought me here so that you will not repeat my
+mistake."
+
+She points at you.
+
+"Our enemy has arrived. Now, kill!"
+148988: "He will deprive you of the knowledges you have sought, if you don't
+kill him now!"
+149044: ihn
+"Shoot him!"
+
+The young lady's face hardens as a look of
+determination appears.
+149109: Much to the old hag's delight, the young lady points her pistol at you
+and fires. You try to dodge but cannot and the bullet hits you in the chest,
+crumpling you into a heap. The women stand over you, saying something but you
+cannot concentrate on their words. Slowly consciousness drains away...
+149294: The crystal flies through the air and hits her squarely on the
+shoulder. There is a massive discharge of energy as the crystal shatters and
+you, the women, and the entire house are consumed in an immense explosion.
+149475: There is nothing but dust behind the posters.
+149543: Just leave!
+149561: Don't worry too much if the pager is missing. Just have a look around a
+bit.
+149608: You have reset time, so just get your pager and leave.
+149659: You pull a couple of the hooks at random but nothing seems to happen.
+149751: You go to pick up the papers but decide not to bother in the end, they
+are just too boring.
+149874: It was through here that you left your pager.
+149957: Looking about you realise that your pager is not here. Damn!
+150012: gaa,
+As you enter, the northern door of the office opens, and Rienhart
+walks in. When he notices you he jumps in fright. 
+
+"Oh, you startled me," he
+says, grinning sheepishly. "I hope you don't mind me coming back in here but I
+left my cell phone behind. Anyway, while I was searching for it I found this as
+well", and he passes you your pager.
+
+"Well I have to go, I'm in a bit of a
+rush", and with that he heads southeast into the lobby.
+150366: You hear the sound of a car start up and drive away.
+150463: No way! You came all this way just to get the blasted thing.
+150564: You are not leaving until you have your pager.
+150597: You get into your car, and start the engine. As you look out the
+windows to check that the way is clear, a leather-dressed figure limps into
+view. There is something sinister about the figure and the jerky way he walks,
+so you slip the car into gear and drive off. You get the uncanny sensation that
+the figure is staring at you, as you disappear into the distance.
+151735: What do you want to do now?
+151859: What now?
+152250: An Interactive Night of Horror.
+Written by Brendon Wyber and Graham
+Nelson.
+152312: All rights reserved.
+152371: Sorry, but your screen is too small to play Theatre. Minimum screen
+size is
+152599: All rights reserved.
+152779: Another day, another dollar! Life is good at the moment, the property
+market is booming. Still, it does have its down side; when showing those
+Mulluer Corporation executives around that old theatre dump, err, opportunity
+you must have left your pager down in the basement. Better hurry, you have to
+meet the others at the opera in an hour, and be careful. It wouldn't do to show
+up with your clothes all dirty.
+153080: Another day, another dollar! Life is good at the moment, the property
+market is booming. Still, it does have its down side; when showing those
+Mulluer Corporation executives around that old theatre dump, err, opportunity
+you must have left your pager down in the basement. Better hurry, you have to
+meet the others at the opera in an hour, and be careful. It wouldn't do to show
+up with your clothes all dirty.
+153400: What do you want to do now?
+>mYou are slowly awakened by a soft and
+warm breeze blowing on your face. Above you, you can see the night sky shining
+down. Standing up you can see you have been lying on a grass lawn.
+153683: It is almost sunset. You have about an hour to meet the others at the
+opera
+153734: It is almost sunset. You have about a half hour to meet the others at
+the opera
+153789: It is practically sunset. It looks like you will be late to meet the
+others at the opera
+153845: It is sunset. You are late meeting the others at the opera
+153902: . In case you are really interested, you have been playing for
+154320: Who cares what your score is?
+154351: You are about to be slaughtered by some smelly hooligan.
+154389: Some smelly hooligan has you trapped in this theatre and your car has
+been stolen.
+154449: Just leave and get to the opera with the others.
+154486: Just get your pager from where you left it.
+154516: Just get your pager from the basement.
+154869: Hnare just starting out.
+154914: Xnare getting into the game.
+155116: Hnhave finished the game.
+155197: The actual game THEATRE was designed by Brendon Wyber.
+155312: ).
+You are playing THEATRE on Interpreter
+155580: Taken.
+155631: You cannot see anything in the dark.
+155654: You see nothing of interest.
+155786: I don't think much can be achieved by that.
+155919: You can't help that.
+155939: Help is available for the following:
+156287: There is little point knocking on the doors.
+156322: No need to knock on that.
+156342: Bad command or filename.
+156375: There is nothing suitable to drink here.
+156422: There is nothing to be gained by riding anything here.
+156465: You can only pour liquids.
+156487: It would just spill onto the floor and evaporate.
+156528: The popcorn is inedible already, without you having to poison it.
+156580: You pour the poison all over Rienhart's dead body. You can see it soak
+into his clothes.
+156635: It would just evaporate.
+156691: Nice weather we are having lately.
+156719: Hello.
+156731: Goodbye.
+156740: Good day!
+156760: You can only take photograph things with the camera.
+156801: How can you do that without a camera?
+156831: You have run out of film!
+156851: You just took a photograph with the camera. You will need to wind it to
+advance the film.
+156914: The camera goes click as you take the photo.
+157014: The shadows shift subtly. Perhaps it would not be wise to draw
+attention to yourself by uttering those words.
+157182: You cannot wind that.
+157222: You cannot look through that.
+157242: That would achieve little.
+157265: THEATRE is now in its "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+157361: THEATRE is now in its "verbose" mode, which always gives long
+descriptions of locations (even if you've been there before).
+157453: THEATRE is now in its "superbrief" mode, which always gives short
+descriptions of locations (even if you haven't been there before).
+157546: It is best not to draw attention to yourself.
+158064: Copyright (c) 1995 by Cave Rock Software Ltd.
+158104: You can see nothing special above you.
+158132: You can see nothing special below you.
+158180: You can't go that way.
+158256: It is pitch dark, and you can't see a thing.
+158288: As good-looking as ever.
+158332: "Is there anybody there?" said the Traveller,
+158368: Knocking on the moonlit door.
+158428: Of the forest's ferny floor.
+158466: Walter de la Mare, "The Listeners"
+158560: -- H.P. Lovecraft, "The Nameless City"
+158598: (for purists: the "even" has added later)
+158632: Don't rejoice in his defeat, you men.
+158880: This is NOT a maze!
+158924: Egypt shall surely perish!
+159126: meant in croaking "Nevermore."
+159160: Edgar Allen Poe, "The Raven"
+159188: If you can see this then it is the result of either a very serious bug
+or you have been hacking. Go north to get to the theatre lobby.
+159296: Details about the authors.
+159340: Version and release information.
+159384: Copyright and other legal dribble.
+159432: Help for beginners.
+159460: List of special commands.
+159492: General hints for novice players.
+159528: Help me, I am generally stuck.
+159568: Story of the Lyric Theatre.
+159624: The letter confirming my appointment as draftsman at Baggett, Kuhl, and
+O'Leary, arrived this morning. I leave on Wednesday. I dread telling Melissa. I
+will definitely miss her. She is rather sweet but I will not propose to her. I
+am only 22 and I have a whole lot of living to do. There are no places to sow
+wild oats here.
+159874: My first day at the firm has been very eventful. I was shown around the
+offices and introduced to everybody and then was given an office with another
+chap called Brighton. I spent the rest of the day revising some old drafts that
+the architects had done.
+
+The firm is very busy, as they are preparing a tender
+to build a new theatre for a client called Horton. I have never heard of this
+person but he seems to have all the big wigs upstairs as busy as bees in a
+hive. Apparently he is one of the new oil chaps. One day I hope to be as rich
+as he.
+160272: The firm has won the account to build the theatre. Brighton and I have
+been assigned to the team involved. The main architect is Trent. Curiously,
+Horton wants his daughter, Elizabeth, involved in some of the minor details,
+much to Trent's distress.
+160482: Alexander Horton and his daughter, Elizabeth. Miss Horton, to use
+Brighton's terminology, is quite a dish. I tend to agree. She seems very
+intelligent, and has the most splendid eyes. A true raven-haired beauty. Seeing
+her has made me very glad I didn't propose to Melissa, who seems almost dull
+compared to Elizabeth.
+ 
+Still I have yet to gain my fortune, so ladies like
+Miss Horton are still out of my reach. That doesn't seem to stop Brighton. He
+clearly has a way with the ladies. I suppose I am a little envious.
+160874: Today, Trent and I went to Horton's house to discuss some design
+matters. Brighton was quite annoyed that I went instead of himself, but I
+suspect that Trent was a little concerned about his behaviour towards Miss
+Elizabeth.
+ 
+We arrived at the Hortons' estate a little after 3. It was a
+rather smashing place with large gardens, a tennis court, and a small private
+zoo, where there was a tiger! I didn't get to see the beast itself, but I could
+hear it roaring quite loudly when we arrived.
+
+Horton and Trent spent a lot of
+time talking about the structure of the ceiling beams, while I had to do a lot
+of rough on-the-spot sketches. Apparently Horton wanted some rather unusual
+mathematical shapes designed in the ceiling struts and in the foundations.
+Trent admitted that some of the designs were highly innovative, but seemed
+unnecessarily expensive, but Horton insisted.
+ 
+During the discussion I had a
+chance to talk to Miss Elizabeth. It seems she is an artist, a passion, she
+said, she inherited from her mother. (I saw a large portrait of her mother,
+posing with a then much younger Alexander Horton. Miss Elizabeth is the
+striking image of her mother.) She has some designs of a giant front glass
+window. Very unusual.
+161764: We are still working on the design of the theatre. Yesterday, I saw
+Miss Elizabeth at the local gallery. We later supped at the gallery's cafe. I
+made an error in judgement of telling Brighton. He was very hostile about it.
+161940: A terrible thing happened last night. Brighton was found murdered. Due
+to Brighton's jealousy of me over the last week, the police interviewed me.
+Since I was helping Trent with the plans last night I was soon freed from
+suspicion. Rumour has it that Brighton was very drunk last night and quite
+abusive to people. He probably ran into someone who wasn't very tolerant.
+162216: Just arrived home after having an exquisite dinner at Elizabeth's. She
+truly is beautiful. I will admit that I am somewhat smitten with her. This is
+silly because she is unobtainable to me. Her father would never allow it. I
+must cool things down before I get in trouble. The firm would fire me, at the
+instant, if they knew about my feelings. Fortunately, the work on the theatre
+design is progressing at an extremely fast rate and soon will be finished. Then
+I will be able to avoid her while my feelings simmer down.
+162596: Yesterday was an incredible day. Elizabeth accompanied her father to
+the office and we had a chance for a private conversation. I told her it would
+be best if we weren't so informal together and that it wasn't appropriate for
+us to meet like we have been. She just laughed and kissed me. Just like that,
+in the office. Goodness, if any of my superiors had seen us there would have
+been a tremendous fuss. She then told me that, in her words, I had "delightful
+properties" and that I was "valued quite highly in her affections".
+162982: I spent last night in Elizabeth's arms. We went out for supper and then
+I escorted her home, where I spent a most magical night. Truly, I love her. I
+love her smell, her touch, her delicate laugh, her dark hair, and her beautiful
+eyes.
+
+One curious incident, though, puzzles me. After we made love I went to
+the bathroom and upon leaving it almost walked into her father, whom I had
+successfully avoided earlier in the evening. On seeing me, I expected a most
+violent reaction, and my career to be ruined, but instead he just looked at me
+with sad eyes, like he felt sorry for me.
+163412: My romance with Elizabeth has been continuing steadily. I have managed
+to keep it a secret from those at work although I think Trent suspects
+something. I find her father's reaction, or lack of one, to our affair curious.
+Last night I saw some of Elizabeth's pictures. To be honest they were rather
+dreadfully morbid images of strange old cities. Others, which she had hidden,
+were of the most fantastic and ghastly creatures. I don't think I shall tell
+her I saw them, in case she might ask me my opinion. I cannot lie to those
+beautiful eyes of hers.
+163820: Today, we finished the designs of the theatre. Trent held a little
+celebration, for us all, at his club. It is good that Horton is no longer a
+client of ours. I now do not have the threat of dismissal spoiling my feelings
+towards Elizabeth.
+164008: Elizabeth made a most curious request of me. She wanted me to alter the
+plans slightly. I told her about how I was only a draughtsman and not an
+architect, and what the actual difference is, but she insisted. I now
+understand what my father meant about not being able to tell a woman anything.
+In the end I went to her father and he okayed the changes. I tried to tell him
+that Trent should be the one to do the changes but he said I was to do it.
+Still I think I will do it. Then perhaps she will let me see her pet tiger.
+164392: I never really knew what a violent temper Elizabeth had, until a couple
+of days ago. She gave even more changes to make to the plans, including a
+secret passageway from the toilets, of all places. I went to Trent and showed
+him the changes. When Elizabeth found out she was furious.
+164608: I now have discovered the reason behind Elizabeth's quick temper and
+increasing moodiness. Her father was, apparently, sick for several days, and
+this morning he passed away. Elizabeth has obviously been replacing her grief
+with anger. Hopefully, soon she will have a good cry and return to her normal
+lovely self.
+ 
+Elizabeth gave me more changes to make. They are very subtle
+changes to some of the geometric shapes that were built into the ceiling and
+foundations. I don't know why but these changes disturb me greatly.
+164988: Elizabeth has been impossible the last few days. She gives more and
+more changes, and then flies into great rages at the merest hint of objection.
+Also my health has been failing due to my insomnia. Those changes she has been
+forcing me to make are hideous to behold. The strangest thing is I don't even
+know how drawn shapes on paper could be so disgusting anyway, and how they can
+give me such terrible dreams.
+165292: I think I am losing my mind. My nights are filled with nightmares,
+especially about what that awful underground pit could be used for. Since I
+have finished the changes, I haven't seen Elizabeth but I don't miss her. Oh,
+Melissa. I am ashamed of my previous entry about you. You are more of a lady
+than that whore ever was.
+
+I haven't been into work for several days so I
+expect I am unemployed, but considering what trouble that job brought me, I
+don't really care.
+165656: This section of the journal is missing.
+165736: This room is a tribute to the now-faded glory of the theatre. The
+still-smiling faces of forgotten productions stare out from faded posters at
+you. An old grand staircase leads up, while the exit lies to the south. Small
+private doors lead northeast and northwest.
+165892: The anonymous faces smile back at you.
+165924: These fine old stairs once would have been the focus of the entire
+lobby. Unfortunately they are a bit decrepit now.
+166000: How do you start the game?
+166016: Cobwebs cover the whole row of dirty hooks. Looking closer you see that
+one is a lot cleaner than the others.
+166080: One hook stands out from the others because it is a lot cleaner, having
+no cobwebs over it.
+166136: This hook is a lot cleaner than the others.
+166164: The secret passage leads down.
+166182: Great, tax receipts from 1937. Riveting stuff.
+166224: The little metal markers on the dial are all worn away. No one could
+open this now.
+166280: How do I open the safe?
+166324: You can barely make anything out in here. The only source of
+illumination is the light seeping in from the street-level windows. Not that it
+really matters because all this room seems to contain is boxes and a couple of
+barrels.
+166464: An old electrical panel is mounted on the wall.
+166496: Sitting on one of the boxes is your trusty pager, right where you left
+it.
+166548: Oddly, the barrels are filled with old stale popcorn.
+166580: Hmm, popcorn doesn't age well.
+166616: There is too much smog to the evening sunset.
+166644: Boarded up buildings block your path.
+166668: A dirty wispy type of mist that is half fog and three-quarters smog.
+166712: It was the thing that your car used to drive on. When you had a car,
+that is.
+166760: This individual is very large and bulky, and is wearing heavy leather
+clothing that is ripped in several places. He has very pale skin but dark
+spooky eyes that stare at you with no trace of emotion (perhaps even life). You
+can't help but notice that half of his mouth is sewn together. He emits a
+rather unpleasant odour that is difficult to classify, but you concentrate more
+on the sharp and deadly little knife he is holding.
+167016: A vicious looking thug stands before you, wielding a deadly looking
+knife. He seems quite smelly.
+167080: It looks like it could cut through budding young land agents' throats
+quite easily.
+167144: How do I get past the street thug?
+167168: This is a small room that has been sealed up. The windows have been
+boarded over, but faint light enters through cracks. The booth smells very bad,
+like old rotten meat.
+167280: Once these rags would have been an old usher's uniform but now they are
+just rags.
+167336: Boxes of junk line the walls, making the narrow hallway even more
+difficult to navigate through. Doors lead south and west, while the hallway
+continues north.
+167440: A quick rummage through the boxes finds nothing useful at all.
+167488: The narrow hallway and its rows of boxes come to an end here. To the
+north is the back exit of the theatre while the hallway continues south, and an
+office door leads west.
+167588: Unfortunately the door has been nailed shut from the other side. You
+will never get that open.
+167644: The office door has been nailed shut.
+167668: You are behind the old theatre building in a small courtyard in the
+centre of the city block. On all sides tall buildings block you in. Once an
+alleyway allowed passage to the streets, but that alleyway was built over a
+couple of decades ago, so now the large stage doors to the south are quite
+useless. A small back entrance, however, lies to the southwest.
+167888: The large stage doors are locked shut from the inside.
+167920: The tall walls of the courtyard block your way.
+168048: You are in a dream location. Soft light set a romantic mood.
+168088: A very large, very comfortable bed. It could sleep five easily.
+168128: Oh, what a heavenly babe.
+168148: An outstanding beauty.
+168168: A simply stunning example of the female gender.
+168208: The body perfect.
+168240: Here the grand staircase splits to the east and the west. You can also
+go back down to the south.
+168300: Below you is the theatre lobby.
+168316: The stairs lead up to the east and west.
+168340: It is a full-length picture of a distinguished gentleman in an
+old-fashioned suit. He is standing in a wood-panelled room with an oaken door
+and a large fireplace that has a roaring fire in it, casting flickering light
+all around the room. Looking closer you can't help but feel that the background
+room has been drawn with an incorrect perspective.
+168560: A huge portrait dominates the northern wall.
+168588: Seems oddly realistic in someplaces.
+168612: Very distinguished and quite old. There is no clue as to the identity
+of this character.
+168668: The painted fireplace has a large burning fire in it.
+168704: The painted oaken door is closed. Actually the door is very realistic.
+It is almost as if you could reach out and touch it.
+168780: The painted open door is open.
+168800: A huge portrait dominates the northern wall. The painted door in it is
+open showing a passage to the north.
+168868: The painted oaken door is closed.
+168892: A huge portrait dominates the northern wall.
+168932: How to I stop the ghostly voice?
+168976: This landing circles around the upper level of the lobby allowing you
+to see down into it. The landing continues south and west, where it goes down
+the lobby stairs. A set of double doors lead north to the theatre auditorium
+itself, while a single finely carved wooden door leads east.
+169144: Below you is the theatre lobby.
+169160: This landing circles around the upper level of the lobby allowing you
+to see down into it. The landing continues south and east, where it goes down
+the lobby stairs. A set of double doors lead north to the theatre auditorium
+itself.
+169296: Below you is the theatre lobby.
+169312: But there is no door to the west from here.
+169340: The landing sweeps around the theatre's entrance hall. Here, at the
+southern end, you are above the main doors, and you can look down to the lobby
+below. The landing continues to the northeast and northwest.
+169460: It's not safe to go down from here.
+169484: Against the southern wall you can see some closed heavy curtains.
+169528: Against the southern wall you can see a circular patterned window
+surrounded by heavy curtains.
+169588: Against the southern wall you can see some closed heavy curtains.
+169628: The window has a very curious pattern on it. The pattern is impossible
+to describe and as you look closer at it the more indistinct it gets, causing
+you to lose your concentration.
+169736: The light shining down from the circular window above you has created a
+faint spotlight with a curious pattern on the floor.
+169812: The circular window above must have a slightly concave surface because
+it seems to have focused the curious pattern into a smaller version of itself.
+Unfortunately you still can't make head or tail of its meaning.
+169960: What is with this funny patterned window?
+169988: This aisle runs north and south through the large theatre auditorium,
+where you are surrounded by a sea of seats. Another aisle is to the west while
+the stage is to the north. Double doors lead south.
+170112: This aisle runs north and south through the large theatre auditorium,
+where you are surrounded by sea of seats. Another aisle is to the east while
+the stage is to the north. Double doors lead south.
+170234: Here you stand upon a stage that once would have been graced by the
+finest thespians in the country. However, now the only players upon this stage
+are the spiders who spin the cobwebs, and who act out that never-ending saga of
+life, death, and life again.
+
+Anyway to the southeast and southwest aisles wind
+their way through the endless sea of seats, to the north is the back stage
+area, while down to the south is the orchestra pit.
+170488: Far above you, you can see endless rows of lighting and girders.
+170536: This depression would have been too small for anything but the most
+basic of orchestras. Looking about you can see why this is called a pit. You
+can go back up to the stage, or east to some walk-in storage cupboards.
+170668: Far above you, you can see endless rows of lighting and girders.
+170712: It looks dark and gloomy inside them.
+170740: It is very dark inside the cupboards here. You imagine that this is
+where the orchestra used to keep its equipment, but there is no sign of it here
+now. The cupboards are empty except for the shadowy gloom. The orchestra pit
+itself lies to the west and a gap in the east wall leads east.
+170908: The creature is a intangible shadowy presence.
+170960: How do I pass the shadow?
+170988: This is a very dark place and you can barely make out passages heading
+west and northwest.
+171044: Light filters through from the cracks on the boards above you, that
+form the stage. It is quite cramped here, and you have to bend over slightly as
+you walk to avoid hitting your head on the low ceiling.
+
+A passage leads
+southeast from here into darkness.
+171192: Littered on the ground are various small items that seem to have fallen
+through the cracks above you.
+171252: This is a finely carpeted stairway that leads down to a wooden door,
+and up to the north.
+171308: Below you is the stage and the theatre auditorium.
+171360: Can I get to the western balcony seats?
+171388: This is a cramped dimly-lit room, empty but for the rows of pictures
+that are on the walls. A small door leads south.
+171464: The pictures are very depressing. They are a collection of strange
+landscapes of what looks like a monstrous city, with large stone buildings of
+curious design. You have seen nothing like them before. Obviously they are
+abstract pictures, because the angles the buildings are drawn at look
+incorrect, almost like a bizarre perspective puzzle, where it is hard to tell
+where the walls end and the street begins. The streets are empty of inhabitants
+but you get the impression of great size and antiquity.
+171764: A jumble of supports, ropes, and curtains divide the back stage in to a
+maze of compartments. The general clutter isn't helped by the rolls and rolls
+of canvas scenery backdrops. The stage doors, leading north, have been boarded
+over, and you can see that the remains of stairs leading up have been pulled
+down, so only the exit seems to be back south to the stage.
+171980: Looking up you can see several doors above you. You would imagine that
+there once would have been a landing there but it must have been pulled down
+like the stairs.
+172072: The stage doors have been nailed over.
+172096: The stairs have been removed.
+172120: Once stairs lead up, but sadly they have been removed.
+172156: The stage doors have been nailed over.
+172184: Once used to support things but you are not too sure what.
+172224: Old and beginning to rot, but these things would have onced been used
+to separate the various areas of the stage.
+172292: Actually, looking up, you notice that the ropes go near some doors set
+into the western wall high above you.
+172364: These large canvas sheets would have had the set's backdrops painted on
+them.
+172404: You are suspended about five metres above the stage, clinging on to one
+of the many ropes. Across a narrow space you can see some doors set in the west
+wall that would have once lead onto a landing (which is long since gone). One
+of the doors is very close by.
+172556: You can only go west and down here.
+172576: This room was probably once an old dressing room, but it is hard to
+tell as scuff marks on the floor are the only traces of the room's original
+furniture left. A door leads east, back to the rope.
+172696: Seems like people were pushing heavy furniture about.
+172736: The locker has seen better days. The fall has smashed it open,
+rendering it useless as a container. It seems the snake must have crawled away,
+as you can see no trace of its body.
+172844: This is a small round amulet with a matching chain that is designed to
+be worn. You're not too sure, but some mercenary instinct believes the amulet
+is made of gold. In the centre of the amulet is an impressive inscription of
+what looks to be a moon symbol.
+173002: Its seems to be a cut-out of a review of a theatre show. As you quickly
+read it through, one section in particular seems to stand out:
+
+...but the
+highlight of the show must have been the performance of the half time act of
+Marcilax, Master of Magicks. His acts of illusion and prestidigitation were
+simply wondrous and astounding to behold. Fortunately this reviewer had time to
+interview Marcilax after the show. When complimented on his performance,
+Marcilax modestly informed this reviewer that his success was partly due to the
+setting itself. To quote him "...this very theatre seems to be a storehouse of
+mystical energy. Normally when an abundance of mystical energy is centred in
+one place it will condense into crystals of immense powers, but here in this
+theatre it seems to be dispersed into the very walls. However one must still be
+careful, if I was not protected by the enchantments weaved into my protecting
+medallion, my very soul could be in jeopardy." Anyway, despite the rhetoric, we
+can expect great things to come of this performer.
+173644: This is a strangely coloured snake. You think it is a cobra. Certainly
+the way it hisses at you seems to suggest it is very dangerous.
+173736: How do I get rid of the snake?
+173768: This is an old secret stairway that leads up and down. The area is
+feebly lit by electrical lights set in the roof.
+173840: The stairs descend into darkness.
+173868: They emit a feeble glow.
+173908: How do I get through the iron door?
+173932: You have to go down into the pit first.
+173956: The rough walls of the pit make an easy climb up and out of here. A
+gloomy tunnel heads east.
+174020: They provide easy hand holds to climb up out of here.
+174052: You can see an indistinct blur of the beast's basic outline as it paces
+back and forth in the pit.
+174112: In the gloom, you can make the outline of some sort of transparent yet
+very large creature that is trapped in the pit.
+174184: How do I safely enter the pit?
+174232: You are at a junction in a little network of tunnels. One tunnel heads
+west back to the pit, while others branch northeast, southeast, and southwest.
+174326: You have reached the western end of a large sewage drainage trench that
+continues east quite some smelly distance. A passageway leads northwest, back
+under the theatre.
+
+This end of the trench seems to terminate at a large sluice
+gate that opens into a drain leading further down into the muck.
+174500: There is no way that you are going further down into the drain.
+174536: The sluice gate is at the end of the trench, above a large drain.
+174576: The large drain is at the end of the trench, below the sluice gate. It
+leads down into darkness, but you have no wish to find out what is down there!
+174660: The old trench has been crafted from old red bricks that have been
+stained green by the continues slime than has filtered down it through the
+decades.
+174748: You shouldn't be in here. This is a BUG. Please report it to the
+author. Go up to leave.
+174808: You appear to be in the centre of the drainage trench, which leads east
+and west from here. Above you, to the north, is a strange metal platform.
+174896: You are on a metal platform, which grants a clear view of the entire
+sewer (for what it is worth) that lies down to the south.
+174972: You imagine the lever operates by pulling it.
+175000: From out of the roof extends a long rusty lever.
+175032: Here the drainage trench ends at a junction of small pipes, each
+impassable. The trench leads west, while a tunnel leads southeast.
+175120: This small northwest-southeast tunnel is covered in rotting sewage and
+animal droppings. The tunnel ends at a unusual archway to the south-east.
+175216: The archway's smoothly polished surface is distinctly out of place with
+the rest of the surroundings.
+175280: The rodents are slick and slimy, looking very vicious with their beady
+little eyes and cruel little razor teeth. They quickly swarm over each other as
+they move.
+175380: You shouldn't be in here. This is a BUG. Please report it to the
+author. Go up to leave.
+175440: How do I get past the rats?
+175472: How do I get cross the archway?
+175508: Beyond the archway lies a small circular room of red brick, shaped,
+oddly enough, like an Eskimo's igloo. Dominating the centre of the room is an
+old iron cauldron, filled with an unknown bubbling liquid. All around the walls
+are shelves filled with curious little vials and other knick-knacks that seem
+to give you the impression of a witch's secret laboratory or the like. The only
+exit appears to be back to the northwest through the archway.
+175780: Searching through the stuff you find nothing really useful.
+175824: This side of the archway is formed out of brick.
+175860: Looking closer you realise that it is very hot but you can see no fire
+or other form of heat source.
+175920: Lying on the ground in front of the statue is a jewelled dagger.
+175960: This is a small round crystal, with a circular pattern on it. It is
+earthy brown in colour.
+176024: Looking closer it seems to be either a very chunky soup or a very
+watery casserole.
+176076: It seems to be a simple silver wedding band.
+176116: How do I get the jewelled dagger?
+176160: This sinister and murky hallway leads from the southwest to the
+northeast, where you can hear the sound of chanting. The chanting has a
+sinister inflection to it and you can feel an undefinable fear rising up within
+you.
+176296: Should I investigate the chanting?
+176316: The hallway opens out into a huge cavernous room, brightly lit by a
+large sphere of light which floats above the centre of the floor. Standing
+beside the light is a tall thin woman.
+176444: You follow a winding tunnel and end up where you started.
+176480: You are much deeper in the mine shaft here. The area has been widened
+out into a cavern and there are signs that some major excavations occurred
+here.
+176568: The creature is humanoid and about five feet tall. However he is very
+thin and his skin has hardened into rough black leather. His face has also
+distorted into ugly pig-like features with solid black eyes. The eyes look back
+at you intelligently but sadly.
+176748: How do I free the goblin creature?
+176770: A thick layer of dust everywhere shows that no one has been here for
+quite a while, which is not surprising since there seems to be no way out of
+here. A bricked-up doorway once led west from here.
+
+Looking closer you realise
+that there is an exit. A small hole has been knocked into the wooden wall to
+the side of the bricked-up wall. The hole, which is small enough to crawl
+through, leads northwest.
+177020: The exit west from here has been bricked up.
+177048: Below you is the stage and theatre auditorium.
+177076: You are dirty enough as it is without poking around in the dust.
+177116: The bricks form quite a sturdy wall, blocking the exit west.
+177152: You seem to be crawling along inside a hollow in the wall separating
+the theatre from the building next to it. It is very dirty in here, and the
+lack of light makes it difficult to see anything clearly. The hollow continues
+south from here, while a hole lies to the southeast.
+177312: This narrow hollow, which exists in the wall separating the theatre
+from its neighbouring building, continues north from here. However a large hole
+leads west from here, into the neighbouring building itself.
+177432: The hole is big enough to allow passage west from here.
+177464: The hole is big enough to enter.
+177484: There are hundreds of books here, but most of them have turn mouldy in
+the damp air and the rest seem quite useless.
+177552: This little recess appears to have been once a reading area. A small
+reading table and chair are still here. The library continues to the south.
+177644: It doesn't look very comfortable but a chair's a chair.
+177680: You can see that all the strange glistening strands converge in the
+centre of a large heap of rotting books that appear to have been made into a
+nest.
+177764: Its flesh is a sickly pulpy white colour, covered in hard ridges. At
+one end (which you imagine must be its head) there are a lot of large black
+dots which seem to be eyes and at the end is a strange bony point.
+177896: They seem like large versions of something from a spider's web.
+177932: Under one of the collapsed bookcases you can see the body of a large
+slug.
+177980: Its flesh was a sickly pulpy white colour, covered in hard ridges. The
+flesh has now burst open and a foul-smelling ichor leaks out.
+178088: How do you remove the slug?
+178104: You are high above a side street on an old stone balcony. Once, long
+ago when this part of the city wasn't abandoned, the view from here would have
+been incredible. Now, instead of glittering lights and flashing signs, the view
+is of old boarded-up shop fronts and ruined buildings.
+
+You can go back through
+the windows to the east or you can risk climbing up the outside wall.
+178332: You can see a side street below you.
+178356: Sadly, the evening sky is lost above clouds of smog.
+178388: Unfortunately, you can see no way you can climb down, only up, and you
+are too high up to jump.
+178448: The view is pretty lousy from here.
+178476: This narrow little stairway winds its way up to the west and down to
+the east.
+178524: This is a long wood-panelled corridor that goes north and south. A
+narrow little staircase leads down to the east from here, while a door goes
+west.
+178616: The stairs only go down.
+178632: Flat and wooden, doubtlessly like many thespians who would have graced
+this theatre.
+178684: This is a long wood-panelled corridor that goes south from here. Doors
+lead north and west.
+178744: This is a long wood-panelled corridor that goes north from here. Doors
+lead south and west.
+178804: This small room seems to be reserved for medical emergencies. The walls
+are covered with old medical posters giving cheerful descriptions on how to
+heal cuts, tend to burns, and deliver babies?! Healthy people can leave to the
+south.
+178948: These give details on how to treat accidents that could occur in the
+average theatre.
+178996: There is a bed here, for the infirm.
+179016: It is written in a woman's handwriting. It seems to be addressed to
+you. You had better read it.
+179076: "For the effective relief of most severe pains. Prescription use only!"
+says the label on the pill container.
+179152: Something you wear on your ears. Doctors use them to listen to people's
+heart beats. You remember most of them as being very cold.
+179232: In here were stored many of the smaller props once used in the
+theatre's production. Shelves full of junk line the walls. A door leads out to
+the north.
+179328: The junk includes vases, plates, plastic pot plants, bottles of beauty
+lotions, magazines, hair brushes, etc... Hmm, nothing useful at all, unless you
+run one of the television sales channels.
+179476: How do I go up the prop room's trapdoor?
+179504: You have made your way up into the attic of the theatre. Wooden studs
+and crossbeams make progress through the room difficult but not impossible.
+Cobwebs and thick dust line the area. The attic continues further to the north.
+179648: Dust coats the crossbeams, and covers the thinly plastered floor here.
+Looking through the cracks in some of the plaster, you can see that you are
+high above the theatre auditorium itself. The attic continues south from here,
+while to the north you notice a curious construction.
+179812: Through cracks in the floor you can see the theatre auditorium is far
+below you.
+179864: One end is connected to the winch and the other is to the chandelier.
+179904: Designed for simple turning.
+179924: The chandelier is a large brass monstrosity covered with those little
+sparkling crystals. It would look quite good if it weren't covered in dust and
+cobwebs.
+180032: What do I do with the attic winch?
+180056: Stepping into this room is like journeying back in time to another era.
+This room is filled with racks and racks of old costumes. The costumes range
+from Imperial Rome to World War I uniforms. An exit leads east.
+180192: The only door leads back out to the east.
+180224: This mannequin is wearing a pirate costume, complete with eye patch and
+cutlass.
+180276: This mannequin is wearing the traditional cowboy costume, complete with
+six-gun and hat.
+180332: This mannequin is wearing the traditional gladiator costume, complete
+with net and vicious trident.
+180396: Bundled amongst some other scraps of clothing is an old gas mask.
+180448: How do I stop the mannequins?
+180480: This room seems to have contained music equipment. Battered violin
+cases and coils of various types of strings litter the floor. For the less
+musically inclined a door leads east.
+180588: This rubbish has never interested you.
+180616: A piano has been pushed up against one of the walls.
+180652: It is one of those compact, stand up types, with wooden finishing and
+little wheels at the bottom of it. The piano has a little holder on the front
+where you would put the sheet music.
+180760: The sheet music is called "The Soldier's Waltz". It is a
+complex-looking piece of music by some guy, with a German sounding name, whom
+you have never heard of.
+180860: This is a rather posh little suite, probably used by the theatre's
+owner or perhaps by an occasional guest star actor. The room's furniture is of
+noticeably superior quality to the rest of the theatre, with a fine four-poster
+bed. A fireplace is in the western wall. A door leads back to the east.
+181040: The furniture is antique. Sadly, there is nothing special about it that
+will help you in your predicament.
+181108: The bed has seen a lot of use. Who knows what liaisons have been kept
+in this room?
+181160: The fireplace is black with soot. Looking closer you notice that the
+chimney shaft continues both up and down from here.
+181236: This room was once an office but all of the furniture has been removed,
+leaving only a small fireplace in the west wall. A door once led east from here
+but you can see that it has been completely boarded up.
+181360: The only exit seems to be via the chimney.
+181384: The door has been securely boarded up.
+181408: The door has been securely boarded up.
+181432: This sooty shaft seems to be the only access out of here. It continues
+both up and down.
+181488: In the middle of the room, straight out of a scene from a silly vampire
+movie, is an old-style wooden coffin with brass fittings, on a mahogany stand.
+181580: The door has been soundly boarded up.
+181620: How do I get the shiny key?
+181652: A huge boiler dominates this room. Its pipes extend through the walls,
+ensnaring them. A shaft from the boiler leads up, but, strangely, there seems
+to be no other exit out.
+181764: The boiler would have once heated the entire theatre, but now its only
+use is to provide an exit up and out of here.
+181832: Against one of the walls is large dirty coal bin.
+181864: It is a small lump of coal only a couple of centimetres across.
+Actually it looks wrong for a lump of coal (not that you are an expert), in
+that it seems almost spherical.
+181972: Far below you, on the mist covered street, you can see the street thug
+staring back up at you.
+182032: It is almost sunset, and you can just make out some of the stars above
+you.
+182080: You would slide down the roof tiles and fall to your doom.
+182112: There is nothing but sky above you.
+182136: You have already seen more of the chimney than you ever would have
+wished for.
+182184: The tiles are too slippery to move over, making any movement other than
+back down the chimney impossible.
+182248: You silently ponder if you will ever walk amongst those city streets
+again.
+182296: This poor creature looks a bit battered and beaten. Its feathers are
+all dishevelled and it looks like it hasn't eaten for a week.
+182384: Does the crow do anything useful?
+182404: You conclude that this must be some kind of observatory, after all,
+what else could it be? However, why is it that instead of the usual dome, the
+roof just has a strangely patterned window? Also, instead of the normal studs
+and crossbeams, the exposed wooden beams of the walls are set at bizarre
+angles. It gives you the impression that you are inside a large multi-sided
+mathematical shape. An opening leads south.
+182676: The net effects of the curiously angled beams of the walls is a
+suspension of the firm belief that up is up and down is down.
+182748: The circular window has a pattern that is most peculiar. The more you
+look at it the less you can see anything discernible about it. It is as if the
+very act of observing it causes it to swirl in chaotic patterns. No, that can't
+be it. It's just a funny pattern.
+182904: The clear lens is about the size of a small plate.
+182936: What is the telescope for?
+182964: The lens is about the size of a small plate. Imprinted onto the lens is
+a strange pattern.
+183056: This is a small round crystal, milky white in colour. It appears to
+have a star shaped pattern in it.
+183120: You are standing on what seems to be someone's front lawn. A gravel
+driveway winds its way south while hedges block all other directions. To the
+north you can see a large mansion. The upper stories are ablaze.
+183248: As you start down the driveway, everything suddenly goes blurry. When
+you stumble back, your vision clears.
+183316: It is just grass, although it is neatly trimmed and well cared for.
+183356: The driveway goes to the south.
+183376: The hedges block the view (and your passage) to the surrounding area.
+183424: The upper stories are well ablaze, but the lower stories seem
+relatively safe (for the moment).
+183484: Smoke circles around in the air making it difficult to breathe, but
+that is the only visible trace of the fire here in the long hallway. Doors and
+stairs lead off in all directions, but the safest one is to the south which
+leads outside. You notice that a trail of blood goes down some stairs.
+183656: The fire would make it dangerous to go wandering off too far in that
+direction.
+183700: The stairs go up and down.
+183720: A trail of blood goes downstairs.
+183756: This was a large wine cellar that has been cleared out and put to a
+more sinister use. Large tables filled with strange paraphernalia are dotted
+about the room.
+183852: It wouldn't be a good idea to turn your back on those bitches.
+183892: It wouldn't be a good idea to turn your back on those bitches.
+183936: I think you have more pressing concerns than that.
+183968: A beautiful young woman stands here, with a pistol in her hand, and a
+cruel expression on her face.
+184032: She has long dark hair and cruel eyes. She seems quite capable of using
+the pistol in her hand. You can't help but notice there are many similarities
+in appearance between her and the old hag.
+184156: It is the same charming individual who stabbed you in the face a few
+minutes ago. Curiously you can see that in many ways she is very similar to the
+younger woman.
+184256: The old woman from the theatre ceremony is here as well.
+184288: A nasty looking, high calibre weapon.
+184332: This room is a tribute to the now-faded glory of the theatre. The
+still-smiling faces of forgotten productions stare out from faded posters at
+you. An old grand staircase leads up, while the exit lies to the south. Small
+private doors lead northeast and northwest.
+184488: You have no time to explore what lies up the stairs.
+184516: You have no time to explore what lies up the stairs.
+184544: Actually, this room is two stories high. You can see a landing going
+around the walls. The staircase goes to this landing. The southern wall above
+the theatre doors in shrouded in darkness.
+184660: The anonymous faces smile back at you.
+184692: These fine old stairs once would have been the focus of the entire
+lobby. Unfortunately they are a bit decrepit now.
+184768: Ending the game.
+184780: Hooks line the walls here, where once people would have hung their
+coats and hats, now they are home for only cobwebs. The lobby lies to the
+southwest.
+184868: Cobwebs cover the whole row of dirty hooks, which all look the same.
+184912: Judging from the desk and lots of papers everywhere you assume this
+must have been once the manager's office. Doors lead to the southeast and to
+the north.
+185000: You have no time to explore what is north of here.
+185026: Great, tax receipts from 1937. Riveting stuff.
+185068: The desk, like the rest of the office, is covered in papers.
+185184: You can barely make anything out in here. The only source of
+illumination is the light seeping in from the street level windows. Not that it
+really matters because all this room seems to contain is boxes and a couple of
+barrels.
+185324: The old barrels are empty.
+185340: The neighbourhood outside the theatre has deteriorated steadily over
+the last three decades, to the state of a slum (not that you would ever use
+that word, of course). Now a slight mist covers the litter-strewn streets. The
+street heads east and west into the murky twilight.
+185500: There is too much smog to the evening sunset.
+185528: Not in this neighbourhood! Use the car.
+185556: Not in this neighbourhood! Use the car.
+185584: Boarded up buildings block your path.
+185608: A dirty wispy type of mist that is half fog and three-quarters smog.
+185656: This car has served you well over the years, and you have grown quite
+attached to it.
+185704: Your car is parked outside here.
+
+

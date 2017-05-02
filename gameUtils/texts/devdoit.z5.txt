@@ -1,0 +1,270 @@
+11613: Nothing to do!
+11648: o. You have won
+11732: It is now pitch dark in here!
+11759: I beg your pardon?
+11823: Sorry, that can't be corrected.
+11852: Think nothing of it.
+11905: As good-looking as ever.
+11937: You can hardly repeat that.
+11962: You can't begin with a comma.
+12076: I didn't understand that number.
+12105: You can't see any such thing.
+12141: You aren't holding that!
+12183: I'm not sure what "
+12235: That's not a verb I recognise.
+12274: You can't see "
+12382: Nothing to do!
+12399: There are none at all available!
+13265: Please answer yes or no.
+13291: Are you sure you want to quit?
+13336: Failed.
+13356: Restore failed.
+13373: Ok.
+13391: Save failed.
+13406: Ok.
+13450: Transcripting is already on.
+13516: Transcripting is already off.
+13574: Score notification on.
+13595: Score notification off.
+13618: You have visited:
+13646: Objects you have handled:
+13671: None.
+14062: You are carrying nothing.
+14111: Taken.
+14122: You are always self-possessed.
+14655: Dropped.
+14765: Removed.
+14904: You lack the dexterity.
+14985: Done.
+15251: Done.
+15462: Wrahn seem interested.
+16043: You can't go that way.
+16603: But it's dark.
+16620: You find nothing of interest.
+16656: But it's dark.
+16747: You find nothing of interest.
+17875: . Not bad.
+17893: That was a rhetorical question.
+17947: That seems unnecessary.
+17970: Keep your mind on the game.
+17995: What a good idea.
+18014: You smell nothing unexpected.
+18041: You hear nothing unexpected.
+18066: You taste nothing unexpected.
+18101: Keep your hands to yourself!
+18126: You feel nothing unexpected.
+18151: If you think that'll help.
+18260: Oh, don't apologise.
+18290: Quite.
+18359: You achieve nothing by this.
+18447: You wave, feeling foolish.
+18597: You are unable to.
+18616: Nothing obvious happens.
+18666: That's not a direction.
+18689: Not that way you can't.
+18721: Keep your hands to yourself.
+18746: You achieve nothing by this.
+18779: Futile.
+18808: You talk to yourself a while.
+18835: This provokes no reaction.
+18863: There is no reply.
+18882: Nothing is on sale.
+18901: Your singing is abominable.
+18935: Time passes.
+20888: [Advanced to "noun" token:
+36749: " of "
+36788: " list of "
+36869: " has no "time_left" property
+36899: The object "
+36959: The room "
+36973: " has no "description" property
+45929: Trace off.
+46651: Nothing is in scope.
+46788: Temptations:
+47267: into Mr. Harkin's yard.
+50388: Score:
+50396: Moves:
+50404: Time:
+50412: You can't go that way.
+50744: Please give one of the answers above.
+50772: [You can't "undo" what hasn't been done!]
+50808: [Can't "undo" twice in succession. Sorry!]
+50848: "Oops" can only correct a single word.
+50876: It is pitch dark, and you can't see a thing.
+50908: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+50968: You seem to want to talk to someone, but I can't see whom.
+51012: To talk to someone, try "someone, hello" or some such.
+51052: I didn't understand that sentence.
+51112: You seem to have said too little!
+51136: You can't use multiple objects with that verb.
+51172: You can only use multiple objects once on a line.
+51208: You excepted something not included anyway!
+51240: You can only do that to something animate.
+51272: That's not something you need to refer to in the course of this game.
+51320: I didn't understand the way that finished.
+51352: Sorry, you can only have one item here. Which exactly?
+51392: Your temptation count increased by one!
+51420: Your temptation count decreased by one!
+51560: Are you sure you want to restart?
+51584: The game file has verified as intact.
+51612: The game file did not verify as intact, and may be corrupt.
+51656: Attempt to begin transcript failed.
+51684: Attempt to end transcript failed.
+51708: You're carrying too many things already.
+51740: You can't put something on top of itself.
+51772: You can't put something inside itself.
+51828: You can only get into something freestanding.
+51860: But you aren't in anything at the moment.
+51892: You'll have to say which compass direction to go in.
+51932: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+52028: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+52112: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+52288: This dangerous act would achieve little.
+52316: Nothing practical results from your prayer.
+52348: The dreadful truth is, this is not a dream.
+52380: Digging would achieve nothing here.
+52408: You jump on the spot, fruitlessly.
+52436: You would achieve nothing by this.
+52460: There's nothing suitable to drink here.
+52488: But there's no water here to carry.
+52516: Real adventurers do not use such language.
+52548: Violence isn't the answer to this one.
+52576: There's not enough water to swim in.
+52604: There's nothing sensible to swing here.
+52632: That would be less than courteous.
+52656: Is that the best you can think of?
+52680: You lack the nerve when it comes to the crucial moment.
+52720: I don't think much is to be achieved by that.
+52752: You aren't feeling especially drowsy.
+53260: Try typing "showverb" and then the name of a verb.
+53328: Property value not routine or string: "
+53356: Entry in property list not routine or string: "
+53476: " can only be used as a player object if it has the "number" property
+53738: Sitting atop a small white picket fence, you watch the children play in
+their backyard. Behind you, is old Mr. Harkin's place, an odd place, with an
+odd owner. What evil might we do today? As the Devil himself, you never tire of
+creating havoc amongst the little souls of the world. The more innocent the
+victim, well, all the more satisfying.
+53988: Sitting on top of a white picket fence, you can see several children
+playing in a backyard, and a larger yard behind you. You can get 'down' anytime
+you wish.
+54100: The children's yard is small with a slide in the middle.
+54140: All of a sudden the children's mother appears. "Alright kids, just
+remember, you musn't ever go into that yard next door. I'm watching you from
+the window, so just stay put," and she disappears into the house.
+
+And with
+that, your plan is set. Entice one or both of the little rugrats into Mr.
+Harkin's backyard.
+54368: You try to examine the little yard but the there is no refuge. The grass
+is perfect, not a single weed. The bushes and flowers are the work of a true
+gardener. The ladder and slide are constructed of the finest materials and
+workmanship. It all makes you want to run. But you can't pass up the
+opportunity to bedazzle these two innocent souls.
+54608: The fence is of the sickeningly white, picket variety. The goodness that
+eminates from the craftmanship turns your already fiery insides into a flaming
+boil.
+54716: You double over. The house is simply pure goodness. You feel lucky to be
+able to be so near such a perfect example of everything good in the world and
+still try to spread evil.
+54840: Nothing like cement to calm the nerves and the stomach. Inert, dead,
+lifeless, souless rock. The next best thing to fire and brimstone.
+54936: There are two children. A small boy about 4 years old and a slightly
+bigger girl, probably about 6 years old.
+55016: He's a cute little monster. Nothing makes your skin crawl more than a
+cute little boy having fun. You do a check on his soul, just to make sure, and
+recoil from the overwhelming goodness within.
+55152: The little boy eats a pez candy, one after another and like a vulture on
+a dead herd of buffalo, you pounce, increasing his hunger and thus, his
+gluttony.
+55260: The little boy shares pez with his sister, then throws it over the
+fence.
+55312: The little boy climbs the ladder of a slide and yells as he swiftly
+glides back to earth.
+55374: The little boy falls down, giggles, and gets back up.
+55416: The little boy chases his sister.
+55442: The little boy looks at the fence, knowing he's not supposed even think
+about going into the other yard.
+55520: She's pretty, calm, happy, and loves her little brother. A migraine
+begins to grow as you focus on her. The piety of her soul enrages you to no
+end.
+55626: Overwhelmed by the Devil's play, the two children slowly and quietly
+edge towards the opening in Mr. Harkin's Fence.
+55716: The children's mom comes out to scold them, but the little gnome catches
+her eye and she stops a moment to admire it. In that instant, you pounce,
+filling her with all of the sins her children have already suffered. The
+children successfully sneak into Mr. Harkin's yard, thus breaking their
+mother's rules, and creating a never-ending cycle of devilish behaviour. Your
+task complete, you pop out of the yard and move on to other evil doings.
+56028: The children's mom comes out to scold them just in time. They sheepishly
+drop the things they were holding and sulk into the house, with their mother
+behind. Eventually, her discipline heals the wounds of your devilish behaviour,
+leaving you without any success in this backyard.
+56224: Eventually the little girl notices her little brother eating candy after
+candy while trying to hide the Pez dispenser from her. She tries to grab it
+from him, but it accidently flips out of both of their hands into Mr. Harkin's
+yard. They look at each other, accusingly, thus adding wrath to their list of
+sins.
+56442: The little girl climbs the ladder of a slide and runs down, jumping to
+the ground.
+
+"I saw that young lady," her mom yells from the house.
+56544: The little girl skips around the yard, singing to herself.
+56586: The little girl runs from her brother.
+56616: The little girl looks at the house, wondering if their mother is paying
+attention.
+56676: It's a very small and sturdy little ladder and slide. The kids are
+taking turns on it.
+56740: It's a wonderful, large, filthy yard with all kinds of sharp tools,
+dangerous machinery, and broken glass laying about. A child could get into a
+lot of trouble in that yard. It is exactly the type of place that soothes your
+temper and fills you with peace.
+56920: They're old and dangerous tools. Exactly the type you'd have yourself.
+56972: The igauna slithers through the fence, but not before the little boy
+chases after him. Missing the iguana by a tail, the little boy yelps and
+notices a small opening through the fence.
+
+As he peers through the opening, a
+spark of curiosity fills the little boy and with a small nudge, you increase
+his level of envy (for the iguana's location on the other side of the fence).
+57232: The little boy reaches for the pez dispenser and grabs it. You wave your
+hand and the candy becomes irresistable.
+57316: The little boy notices the pez, but seems afraid to reach through the
+opening and leaves the pez behind.
+57388: The boy pounces on the iguana, holding it tightly in his hands. The
+lizard looks at you angrily and sticks its tongue out at you. The little boy
+shows his sister. They take it to the edge of the yard and release it into some
+trees.
+57548: The girl suddenly notices the green yo-yo and quickly picks it up,
+hiding it for no apparent reason, from her brother. As quick as lightning, you
+fill the little girl with fear and her reaction is to covet the yo-yo,
+increasing her level of avarice. The feelings are so strong, they invade the
+little boy too.
+57764: The little girl picks up the yo-yo and plays with it. After a few
+moments, she shares it with her little brother.
+57848: It's your standard toolkit for the evil.
+57880: A cool glow in-the-dark green yo-yo. A picture of an imp adorns each
+side.
+57936: It a small statue of a fictional character with a red hat and beard.
+You've been trying to get rid of it for a millenium.
+58020: It's a creature you're terribly fascinated with, although it has a habit
+of eating underwear. Never have found a use for it. It looks at you with those
+beady little eyes and flicks a forked tongue out. You catch hold of the tongue
+for a moment, see the animal squirm, then let go and mutter, "Simple
+pleasures," to yourself.
+58248: A perfect small kernel ear of white corn.
+58280: It's a small toy robot duck you made a long time ago. It's helped you
+nab many a soul and is one of your most prized possesions.
+58372: It's a simple toy, with an unlimited supply of candy.
+58412: It's a small tart candy.
+58430: You eat one of the candies and get dizzy from the sweetness. Magically,
+another candy appears in the pez dispenser.
+58514: The little boy eats one of the candies.
+58546: The little girl eats one of the candies.
+58580: A man runs passed you being chased by lions and a blonde-haired man. You
+think to yourself, "Isn't that my little protege Karl? How wonderful!!!"
+

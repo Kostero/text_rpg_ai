@@ -1,0 +1,795 @@
+16449: Nothing to do!
+16484: o. You have won
+16567: It is now pitch dark in here!
+16594: I beg your pardon?
+16658: Sorry, that can't be corrected.
+16687: Think nothing of it.
+16740: As good-looking as ever.
+16772: You can hardly repeat that.
+16797: You can't begin with a comma.
+16911: I didn't understand that number.
+16940: You can't see any such thing.
+16976: You aren't holding that!
+17072: That's not a verb I recognise.
+17110: You can't see "
+17220: Nothing to do!
+17237: There are none at all available!
+18160: Please answer yes or no.
+18186: Are you sure you want to quit?
+18231: Failed.
+18250: Restore failed.
+18267: Ok.
+18284: Save failed.
+18299: Ok.
+18343: Transcripting is already on.
+18409: Transcripting is already off.
+18467: Score notification on.
+18488: Score notification off.
+18511: You have visited:
+18539: Objects you have handled:
+18564: None.
+18948: You are carrying nothing.
+18997: Taken.
+19008: You are always self-possessed.
+19650: Dropped.
+19795: Removed.
+19932: You lack the dexterity.
+20013: Done.
+20277: Done.
+20515: Wrahn seem interested.
+21298: You can't go that way.
+21969: But it's dark.
+21986: You find nothing of interest.
+22022: But it's dark.
+22142: You find nothing of interest.
+23417: . Not bad.
+23435: That was a rhetorical question.
+23489: That seems unnecessary.
+23512: Keep your mind on the game.
+23537: What a good idea.
+23556: You smell nothing unexpected.
+23583: You hear nothing unexpected.
+23608: You taste nothing unexpected.
+23643: Keep your hands to yourself!
+23668: You feel nothing unexpected.
+23693: If you think that'll help.
+23801: Oh, don't apologise.
+23831: Quite.
+23900: You achieve nothing by this.
+23987: You wave, feeling foolish.
+24155: You are unable to.
+24174: Nothing obvious happens.
+24224: That's not a direction.
+24247: Not that way you can't.
+24278: Keep your hands to yourself.
+24303: You achieve nothing by this.
+24336: Futile.
+24364: You talk to yourself a while.
+24391: This provokes no reaction.
+24419: There is no reply.
+24438: Nothing is on sale.
+24457: Your singing is abominable.
+24491: Time passes.
+27466: [Advanced to "noun" token:
+52628: " of "
+52666: " list of "
+52746: " has no "time_left" property
+52776: The object "
+52835: The room "
+52849: " has no "description" property
+71785: Trace off.
+72951: Nothing is in scope.
+73111: The watch looks indestructable.
+73218: "Leave me alone"
+73237: "I don't think so"
+73339: The dog runs away.
+73362: Do you think that will help?
+73412: Warning lights show.
+73475: Your head hurts.
+73510: You enter the hub of the base.
+73630: You read the note:
+73954: This one won't open.
+73975: This won't open.
+74198: Tom is here.
+74214: That is taboo. You wont do that.
+74243: That is taboo. You wont do that.
+74318: "Don't you order me around"
+74418: Natalie is here.
+74438: That is taboo. You wont do that.
+74467: That is taboo. You wont do that.
+74496: Natalie stares at you.
+74546: "Don't you order me around"
+74895: "Busy right now. Ask later"
+74931: "Uh huh, that's nice."
+75438: You cannot breath now.
+75620: "We're almost there now."
+75726: You hear a low rumble.
+75752: The ship's alarm is sounding.
+75781: The ship's alarm is sounding.
+78934: in" or "notin
+78950: opmhas" or "hasnt
+79092: }" at end of "objectloop
+81142: The end of the world.
+Hugo Martay
+81332: Score:
+81340: Moves:
+81348: Time:
+81356: You can't go that way.
+81688: Please give one of the answers above.
+81716: [You can't "undo" what hasn't been done!]
+81752: [Can't "undo" twice in succession. Sorry!]
+81792: "Oops" can only correct a single word.
+81820: It is pitch dark, and you can't see a thing.
+81852: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+81912: You seem to want to talk to someone, but I can't see whom.
+81956: To talk to someone, try "someone, hello" or some such.
+81996: I didn't understand that sentence.
+82056: You seem to have said too little!
+82080: You can't use multiple objects with that verb.
+82116: You can only use multiple objects once on a line.
+82152: You excepted something not included anyway!
+82184: You can only do that to something animate.
+82216: That's not something you need to refer to in the course of this game.
+82264: I didn't understand the way that finished.
+82296: Sorry, you can only have one item here. Which exactly?
+82448: Are you sure you want to restart?
+82472: The game file has verified as intact.
+82500: The game file did not verify as intact, and may be corrupt.
+82544: Attempt to begin transcript failed.
+82572: Attempt to end transcript failed.
+82596: You're carrying too many things already.
+82628: You can't put something on top of itself.
+82660: You can't put something inside itself.
+82688: That would scarcely empty anything.
+82744: You can only get into something free-standing.
+82780: But you aren't in anything at the moment.
+82812: You'll have to say which compass direction to go in.
+82852: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+82948: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+83032: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+83208: This dangerous act would achieve little.
+83236: Nothing practical results from your prayer.
+83268: The dreadful truth is, this is not a dream.
+83300: Digging would achieve nothing here.
+83328: You jump on the spot, fruitlessly.
+83356: You would achieve nothing by this.
+83380: There's nothing suitable to drink here.
+83408: But there's no water here to carry.
+83436: Real adventurers do not use such language.
+83468: Violence isn't the answer to this one.
+83496: There's not enough water to swim in.
+83524: There's nothing sensible to swing here.
+83552: That would be less than courteous.
+83576: Is that the best you can think of?
+83600: You lack the nerve when it comes to the crucial moment.
+83640: I don't think much is to be achieved by that.
+83672: You aren't feeling especially drowsy.
+84022: Best choices are all from the same group.
+84224: Try typing "showverb" and then the name of a verb.
+84292: Property value not routine or string: "
+84320: Entry in property list not routine or string: "
+84440: " can only be used as a player object if it has the "number" property
+84704: You are taller than average and well built. Your hair is slightly
+greyed.
+84756: Silence.
+Autumn 2097. People have been taking to the hills. Hiding. Now
+people are running, other people standing. A light in the sky unchanging.
+ You
+wont find him of course. You never do.
+84900: Your watch is on your wrist. It does not tell the time.
+84940: The watch is the only steady thing in your changing universe.
+84984: You look across a city to the sea on the far side. A silent city. The
+hilltop itself is barren of trees, although the steep slopes around are wooded.
+You must be standing a good forty or fifty metres above the city below.
+85140: You look along the coast to the north. You do not have time to explore
+this. The city can be reached by climbing down off the hill/
+85232: Mountains reach the seas. They are far away and you know that you do not
+have much time. You could scramble down the cliffs though
+85324: The mountains behind you stand out darker than the surrounding sky. On
+earlier days it might have been nice to climb these peaks, to find out what
+lies behind, but today is not a good day for a hike.
+85464: The city stretches to the sea. A glittering collection of yellow stars.
+You watch with detatched fascination.
+85542: You are standing on a steep sided hill. Behind you to the east is a
+range of mountains trapping the city against the sea. In front of you would
+once have been a forested plain stretching down to the sparkling sea. You can
+imagine the first humans to see this place, standing on the hilltop, the
+ancestors of this great city in front. You feel a sense of kinship with that
+ancient people, as you stand knowing that you will be the last person to see
+this now metropolised, cultivated plain.
+85884: You can leave the hill by going down. I promise there is no other way
+off.
+85936: A dull star in the sky. The beautiful form of the end of humanity
+85984: A dull star stands out against the cloudless twilight sky. It will soon
+hit the earth four hundred miles away.
+86060: You see people around you. Some of them seem to have a purpose, mostly
+they do not. English seems to be their language as expected in this part of the
+world. They are wearing clothing indicative of Western culture but seem to have
+an Eastern accent and appearance.
+86244: People stand around you.
+86264: "Good luck. Don't worry, we'll get through somehow."
+86308: "I'm sorry, I just don't want to know."
+86348: Large urban expanse stretching to the sea.
+86384: A street climbing up the side of the hill. Houses are to both sides.
+People, parked cars. A dog roams about. A path leads up the hill behind you. A
+meadow lies to the south.
+86508: Some mongrel dog. Perhaps someone's pet once. Barking and jumping at
+people. It does not understand what is happening.
+86596: The dog yelps, then growls. It jumps at you sinking its teeth into your
+leg. Remembering the context you realise there is not need to get a rabies jab
+86700: This must once have been a well to do neighborhood. The houses are large
+and have manicured gardens. Given time and inclination these might be worth
+looting. Now however, even criminals are lacking motivation.
+86848: A well mown meadow. Trees line the edge, two newspapers lie on the
+ground at your feet
+86908: In the summer, these trees would be perfect for sitting under, you can
+imagine playing frisbee here with friends on a summer evening.
+87000: Tabloidy newspaper. "Could the asteroid be Elvis?" you think probably
+not, but you don't have the musical or physics background to be certain
+88164: :17, local time, in the Indian ocean.
+
+Today's weather has been removed
+in place of a full length review of survival tactics in order to keep
+complaints of 'bad-taste' down to a minimum."
+88300: You are in a space ship, you would guess in the control capsule. It
+looks like a white cylinder, about 2 metres long and diameter 2 metres. Slight
+gravity. Wires are taped together and to the wall. A hatch leads down.
+88456: You are in a space craft of some description. White walls surround you,
+obscured by masses of wires, and other such junk. A hatch leads down.
+88556: The only way out is through the hatch below you.
+88592: A tiny porthole is attatched to the side of the vessel. Nothing is
+visible in it except the blackness of space.
+88712: A computer shows the status of various ship functions. All lights are
+green at the moment.
+88808: The computer shows that all systems are ok.
+88840: The computer is attatched to the wall.
+88868: Some wires cross the walls in thick bundles.
+88902: You cut the wires. White sparks light up the room. Smoke wisps out.
+Alarms sound. You continue hacking the wires. 
+
+A commotion sounds behind you.
+Some people float behind you in disbelief. They are trying to control you now,
+but they are too late. The ship will never reach mars. You can feel your hands
+being tied behind your back. 
+
+"Who the fuck are you?" You don't reply. You
+don't know the answer. "What have you done?" You don't reply. "Why have you
+done this?" You don't reply. "Throw him outside." That is, you think more of a
+threat than it at first sounds.
+
+ You feel rough hands pushing you. You
+struggle, but a blow to the head renders you unconscious.
+89396: This, you recognise is a low interference transmission line. Guess what
+this would be good for
+89464: A stainless steel penknife, it has no decorations.
+89792: 0 to the mars colony. This virus has been around for a few months. Earth
+has underestimated its effects and has failed to scan the personal on board for
+this virus. The destruction of this ship will prevent the virus from reaching
+mars.
+89956: You are in a narrow tunnel. It has three exits. One of them you have
+already decided is up and leads to the control capsule. Two more that you will
+arbitrarily designate north and south.
+90088: You crawl into a narrow tunnel, only just big enough to squeeze into.
+This ship was not built for comfort.
+90162: You are in what is clearly the crew's sleeping quarters. There must be
+at least ten people sleeping here. A hatchway leads further to the north, but
+you dare not go any further. You don't know how to answer the awkward questions
+they will ask if they find you. You don't really know why you are here. Have
+you taken the body of someone here, will they recognise you as one of their
+own? you don't know. 
+Sometimes when you are teleported somewhere you are given
+your own body, sometimes you take over someone elses. Whatever happens, it's
+not the body you had in the last scene, you worked this out from the fact that
+your legs are not broken, your ribs are rib-like, your face has not been
+mangled and you have air in your lungs.
+90672: You enter a cylindrical capsule, about twenty metres long and about 3
+metres in diameter. Once your eyes get used to the darkness you see lots of
+people asleep strapped to bunks. You do not dare to make any noise.
+90820: You enter what you recognise as a life support module. Wires everywhere.
+Fans suck air into one wall and blow it out again somewhere else. Other life
+support aparatus is around. Water purification devices for instance
+90972: You enter a narrow capsule. Gentle humming surrounds you.
+91096: Lots of gadgets embeded in the wall. Looks too robust to destroy or
+harm. Try the wires.
+91236: Your head spins, you realise with relief that you are not in the void of
+space, perhaps you are in a temporary prison.
+91320: These clearly are hatches: the edges look airtight, but could perhaps
+slide to one side.
+91384: You bang on the hatches frantically, you search them for anything that
+might allow you to open them, but all of this is in vain.
+91472: This is the hub of a research base. Doors lead north to the bio labs,
+east to the comm station, south to the telescope room, west to the habitation
+module and a hatch leads up. The walls are the light grey of breezeblock. The
+ceiling is low and made of coated metal.
+91658: You find yourself in what you know to be a research base. You know the
+base, you do not remember why. Everything you see brings a dark sense of deja
+vu. You are in the hub, this connects various parts of the base together.
+91816: That is not possible.
+91832: You venture up, open the hatch, stand on the roof of the hub. 
+
+You can
+see for miles, across a frozen wasteland, The base was built on a high ridge, a
+hundred or so metres above a valley with a glacier filling it. Jagged rocky
+mountains line the far side some 2 or 3 kilometres away. In the other
+direction, a stony plain stretches away to some mountains in the distance. It
+is bitterly cold. You would guess twenty, perhaps thirty degrees Celcius below
+zero. Could be Greenland, could be Siberia, perhaps Antarctica. The sun is low
+in the sky. 
+
+A sign saying "Antarctic Research Base" fixes it's location
+nicely. A flag bearing the SAS green, red and black is attatched to a nearby
+flagpole. A helipad is nearby. No sign of a helicopter. Your hands are going
+numb now. You have a sudden urge to cross the glacier, explore this uncharted
+wilderness, but now your face starts to numb, reality springs back into focus.
+You don't have the clothing for such a venture. You don't have maps, food,
+water, shelter, backup, communications, transport, experience, training, nor a
+hope in hell of being alive next morning if you tried leaving the station.
+
+
+You wisely climb back into the station, close the hatch behind you and sit on
+the floor trying to get blood flowing back into your hands and face.
+92752: This is the door between the hub and the telescope.
+92788: You hear sounds on the other side of the door and do not wish to be
+seen.
+92876: Just go up. There's no need to explicitly open it.
+92916: This is the door between the hub and the habitation.
+92952: You go open the blue door, and go through. Two people are asleep on
+their beds. You dare not wake them. You return to the hub.
+93162: This virus must have been the one that was onboard the Mars24. You must
+therefore have travelled back in time a year or so. Something you remember
+strikes an off chord. You are sure that that cannot be true, but you can't put
+your finger on what. Who sent the note? Whoever sent you here you imagine. No
+way of telling. The handwriting is perfect.
+93412: You are in a longish room. Low humming coming from an electron
+microscope in a corner. Probably a vacuum pump of some sort. There is a smell
+of formaldehyde and cleaning fluid. A workbench is in front of you. On it is a
+computer.
+93576: You enter a longish room. Its walls are tiled with white ceramics. The
+place is well lit. There are no windows. Your eyes wander over the machinery in
+front of you.
+93692: You can't go there. The only exit is south.
+93812: 390 virus. This presumably explains the electron microscope and the
+vials in the cabinet.
+93876: A glass cabinet contains several vials. It has the biohazard stickers
+that everyone would recognise.
+93972: A glass cabinet stands in one corner. Vials are inside.
+94012: You can't open it. It is opened by the computer, but you would need to
+know how to do this, plus know the passwords to do this. You suspect that you
+could smash it with your hand.
+94164: You smash the glass cabinet open with your fist. Ouch.
+94204: This is a glass container containing a green powder.
+94240: To tell you the truth you can't open the vial to drink it.
+94284: The vial is a closed surface. It does not have a cork or anything
+openable in or on it.
+94348: The green vial smashes loudly. The content, a fine green powder,
+disperses in a green cloud of smoke.
+94420: You stand staring at the vial for a moment. Wondering if your mission
+has been completed. The room fades. It must have been. You take the shape of a
+35 year old astronomer. Your memories change, your recollection of the past
+events being replaced by those of your new host.
+
+You are working away at your
+computer as you have been all morning. It is now time to go through your
+station duties as normal.
+94708: You are as normal, male, 35, average height, well built, pale skinned
+from lack of sun. Yesterday, you recall, the three of you had inspected the
+satelite dish, the radio transmitter, and a radar array nearby. Most of the
+work had been too delicate to use gloves and as a result your fingertips still
+feel a bit over-sensitive. You are still tired from the morning jog you always
+take.
+94980: You hear a noise coming from the direction of the door.
+95040: You put the vial to you lips but as the liquid inside touches your lips
+a reflex makes you jerk your hand away and spit it out. It leaves a numb
+feeling on your tongue and an odd texture. It tastes heavily metalic. You
+recognise that this would certainly cause you to be violently ill should you
+ever drink it.
+95260: A standard electron microscope.
+95312: A smashed green vial. It is made of glass and is about an inch long with
+a closed end and a smashed open end. A grey-green powdery residue coats the
+inside.
+95424: You are in a largish room without any visible telescope. Perhaps it is
+outside somwhere. That would make sense. The stars are, after all, outside.
+This room is dusty and untidy.
+95550: Several computers line the walls, the prominent one, after some
+experimentation, contains a half written lab report. An observation is needed
+on the 10th of march to fix the asteroid's orbit with the precision to
+establish whether or not it will hit Earth.
+95732: It is the 5th of february 2091 now.
+95760: It is the 10th of march 2091 now. You plug the telescope data into an
+orbital calculation program and establish that the asteroid will indeed hit
+Earth.
+95872: This is a small room. There is lots of junk here, not much of it looks
+interesting.
+96102: . We need medical assistance immediately."
+96208: "The prime minister of China has today rejected claims that the
+reconstruction program is in any way related" You can't be bothered listening
+any more
+96312: "A group of UN delegates has successfully reopened negotiations with
+botswana over" Not really relelvant now.
+96436: The radio is missing a coaxial cable and batteries.
+96472: There is a large radio here.
+96492: Just examine the radio. It is loud enough to hear easily.
+96536: Various pieces of equipment are on shelves, on the floor, on desks.
+Documents lie on the desk, a workstation is to one side. You do not have the
+technical knowledge to use any of this stuff.
+96672: You leaf through the documents, examine several of the things lying
+around, but do not find anything interesting.
+96756: Sleeping quarters. There are three beds. The room is circular, with a
+roof about 7 or 8 feet off the ground. A window is in one wall.
+96852: You look out of the window. You see a rocky plain and a pale sky. No
+vegetation is visible. This could be the moon if the sky wasn't pale blue.
+96954: The inhabitants of the station are alerted to the release of the
+superbug. An attempt at a cleanup is executed. Communications are still down,
+so there is no escape for the inhabitants or the virus.
+97098: The weeks pass. Communications still have not been restored.
+97148: Thomas Campbell, communications expert. Is here to install a new piece
+of communications equipment. He knows the workings of the telescope as well as
+you do. Is currently trying to establish communication with the outside world.
+It seems to be down at the moment, the cause is unknown, but it doesn't appear
+to be a problem at this end.
+97412: "The communications are down. There is no way to tell anyone anything."
+97464: "That's just an old radio I was trying to fix. It needs a coaxial cable
+and batteries obviously."
+97630: 0 virus the military have created. She is here, it is assumed, because
+the antarctic research base would be easy to quarantine. It is easier just to
+'quarantine' the place with a ton of explosive than to put proper safety
+measures in place.
+97856: The virus has unknown effects. It replicates in the presence of
+bacteria. Has been known to affect mice. Its incubation period in mice is long.
+98012: This is your bed, you would be sleeping in it now, but you have work to
+do.
+98068: Your bed is in the corner.
+98088: This is your desk. There is a drawer in it with your diary.
+98132: Your desk is beside your bed.
+98156: Your diary. The only important stuff in here is that a number of
+asteroid observations have been made for an asteroid, and another one is needed
+to fix its orbit precisely. The last entry is dated 03/02/2091 - the third of
+february.
+98324: Small room. No obvious context. It could be an office, it could be
+anything.
+98868: incubation period is still not known. Several of the original rescue
+team have been taken ill. Quarantine measures are to be put in place. It is not
+known how many people have been exposed to the virus. Several stories refer to
+the recent communications problems.
+
+You recall that the virus was released in
+febuary 2091. The mars mission was sabotaged 2090.
+99122: The image in front of you fades into nothing. You become aware of
+darkness and cold. You are drenched with water. Salty water. Your eyes sting,
+your hands are cold. Your clothes are wet through. You open your eyes. Thick
+cloud is blocking the sun. You are drifting on the open ocean in an orange life
+raft. You are its only inhabitant. Flashes of light occasionally light up the
+horizon. The sea is choppy and it rocks the raft. Spray blows into your eyes
+every so often.
+99464: You are an SAS marine.
+99482: You tumble down with the masses of water, following the ship down to the
+seabed, Everything goes black, you loose sight of the surface. The world spins,
+your panic subsides as you feel air against your face again, your wet and
+ripped navy suit becomes a space suit, the drowning stillness of the deep sea
+becomes the low hum of a working spacecraft. You open your eyes to confirm that
+you are indeed on an ESA spaceship of some sort.
+99792: You are on an orange life raft, around two or three metres in diameter.
+It is made of inflated plastic. It has the words "property of the SAS navy." on
+the side.
+99908: You are on a sodden plastic life raft.
+99936: A fast boat, able to carry about 6 or 7 people. It looks just about
+seaworthy, this one has three marines onboard, all SAS navy. The loud outboard
+prevents conversation.
+100060: They are well built, they are wearing waterproof red navy suits.
+100108: You are too tired to do much. Anyway the sound of the boat drowns out
+any conversation.
+100172: You are in a medical bay. White, sterile, smells of disinfectant as
+expected. The only way out is into the corridor to the north.
+100264: A white stainless steel table. It has knives, scissors and other first
+aid things on it.
+100328: The SAS generally deals with theft harshly. You decide not to.
+100376: The ship doctor. He seems to be busy sorting out some paperwork.
+100424: "I'm busy, speak to me later. You seem to be in perfect health."
+100472: A long thin room, about ten metres by forty or so. Would, at a meal
+time, be full of marines and food. Has two long tables and benches around
+these. The only exit is to the north, to the corridor.
+100612: You enter a darkened room.
+100632: Standard metal tables, also long steel benches.
+100668: Long room, about 10 by 40 metres. Has about 60 or 70 bunks. Not very
+many people here.
+100736: Standard steel bunks with grey blankets.
+100764: Plain corridor. The food hall lies to the south.
+100800: Plain corridor. The medical bay lies to the south.
+100836: Plain corridor. The crews quarters lies to the south.
+100876: Plain corridor. The ship's control room is to the south.
+100920: This is the SAS Anatoly's control room. People are manning several
+computers. A large terminal mounted to one side indicates that the ship is
+several hundred kilometres north of australia's north coast. Hundreds of other
+vessels are listed alongside their positions on the map. Lights indicate that
+all of the ships systems are working properly.
+101164: The ships control room. The large terminal which normally gives the
+ship's location is blank except for the words "Communications Failure". Lights
+indicate that the central computer, guidance systems, navigation instruments,
+weapons systems, defence systems, communications have all failed. The engine,
+kitchens, satelite dish and power are all working correctly. Navy personel are
+frantically trying to run diagnosis programs for various pieces of hardware.
+101484: Plain corridor. A munitions store is to the south.
+101520: Security is fairly low aboard, but you need security clearance to enter
+the munitions room. You don't currently have this, nor are you likely in the
+near future to get this.
+101640: Plain corridor. South is the computer room.
+101672: Stairs. Exits up, east and south.
+101700: You venture into the kitchen, but it is overwhelmingly hot and smells
+of brussel sprouts. You leave again.
+101776: Stairs. Exits up, west and south.
+101804: Storeroom. Has a security code that you don't know.
+101844: Stairs. Exits up, down and east.
+101872: Stairs. Exits up, down, west.
+101896: Stairs. Exits down, east and west.
+101924: You are tempted for a moment to venture onto the deck, but it is cold
+and wet outside and there is nothing of interest out there.
+102012: The bridge stands above the deck, resembles a tower, it has various
+instruments on it. You can return to the stairs to the east.
+102104: Stairs. Exits east and down.
+102128: You are standing on the deck at the eastern end of the ship. Several
+missile launchers stand nearby. The sky is grey, the wind has picked up, you
+are being drenched by rain and spray. You can return inside to the west.
+102280: The machinery behind these missile launchers must be below deck, only
+some stubby turrets stick above the deck.
+102356: Small room, with protective shielding all around. A computer is in the
+middle, around the size of a small car.
+102434: You upload the virus to the ship's central computer. Almost
+immediately, an alarm goes off.
+102508: Computer. This is the ship's central computer. Controls everything from
+navigation to weapons control.
+102584: Darkish room. You can return to the corridor to the north. You search
+through the shelves and find a radio.
+102660: Mini radio. Has the advantage of working.
+103046: M. Good luck. The central computer is towards the west, A deck."
+103108: You are in the water, fairly cold, you are struggling to keep you head
+above the choppy sea.
+103172: The SAS Anatoly, is low in the water, heavily listing, has fire and
+smoke pouring out of the hull.
+103272: You are underwater, you try to swim to the surface, your eyes are shut,
+panic starts to set in as you reach up for air but can find none.
+103368: Marines, all seem to be busy.
+103392: Some marines are busy here.
+103432: issile base. I'm busy, can you leave me alone."
+103468: "I might give a damn if I wasn't busy"
+103500: Inside of a space capsule. An airlock is above you.
+103540: Note. "Your next mission is to destroy this vessel. You have no choice.
+Destroying this vessel is your only escape. The alternative is a life sentence
+aboard the Ark1."
+103662: An airlock has 2 doors. Down to habitation. Up to the vacuum.
+103812: opening the external door closes the internal door and evacuates the
+airlock.
+You are wearing a space suit in case you give a damn.
+103904: You can see the ship. A single capsule. A metal sphere with a riveted
+airlock on the outside.
+103972: The engine's workings are accessible.
+104036: Radiation shield. Stops neutrons.
+104104: This ship was earth's answer to the asteroid. Existing nuclear weapons
+fail to work. The workings are exposed to the sky. This is obviously a ship
+that never saw an atmosphere. The fact that this bomb does not currently work
+is the main reason that there is a human present.
+104344: Lump of plutonium. An integral part of the plutonium bomb.
+104396: contains various paraphernalia required by a self sufficient colony.
+Almost deserted. The docking bay is to the north, the planning room is to the
+south
+104504: Other parts of the colony can be reached through these doors, but time
+is running out and you don't have time.
+104580: There is nothing there for you now.
+104608: The station personel expect you to find the mars24 stranded somewhere
+in the red desert.
+104672: Person.
+104758: when necessary. Large doors lead north, large enough to admit a rover
+of the type parked against a wall. The floor has had fine sand blown across it.
+The atmosphere is handled automatically, you do not need to worry about
+accidental suffocation. The dome itself is made from plastic sheets bolted to a
+steel or some other metal structure. South to main dome.
+105008: huge 6 wheeled truck. Sealed.
+105056: You enter the rover. You start up the engine, radio for permission to
+leave the base. You wait for ten minutes while the pressure in the dome is
+lowered to martian standard pressure.
+105184: Large dome, charts, maps, a long table, computer printouts. North is
+the planning room.
+105248: Charts, describe inventorys, communications from earth, incident
+details etc. There is so much information here you cannot even begin to find
+anything interesting.
+106596: You are outside the martian base. A collection of low domes stands
+clustered. Rust coloured sand has collected against some of the walls.
+Visibility is down to only a few kilometres. The ground is composed of wind
+polished black rock with red sand filling up the hollows in the rock. No large
+features are visible.
+106816: Around fifteen white domes with red sand blown against the walls.
+106862: You radio for permission to enter the base. A few minutes later the
+doors open and you drive in, park and leave the rover. You fill it up with
+fuel.
+106972: Wilderness, nothing of any interest visible. Dark red surface. Stone
+surface with some windblown sand.
+107048: You trundle slowly across the wilderness. Your eyes tire of the boring
+martian landscape.
+107112: The rover lurches as one wheel hits a sand filled hole, the rover rolls
+over into an unseen rift. Your death dooms the martian base to failure. The
+water facilities will never be found, lost to the desert.
+107256: You have strayed too far, you cannot remember the route home, the
+martian base suffers for your failure. They cannot live without water. It only
+lasts another month before the water runs out and the inhabitants die.
+107406: A metal structure is ahead. You slow down the rover. A bowl shaped
+metal structure. The mars24's heat shield. You search around, next you discover
+a single parachute. Nearby is a second. The mars 24 was fitted with three
+parachutes. You then discover the mars24 in a sand pocket. The sand has been
+thrown out, the landing was not easy clearly. It has changed since your last
+visit. One of the pods is not there, perhaps it housed the heat shield. The
+vessel's hull is scarred from the heat of entry into the martian atmosphere. It
+is also slightly distorted from the heavy landing. One of the capsules has
+crumpled, presumably from impact. You leave your rover, and walk round the
+mars24, although damaged, you think that enough of the ship has survived for it
+to be possible for some crew members to have survived.
+
+ You find the airlock,
+the heat has sealed it shut. You return with a crowbar and force the airlock.
+You risk depressurising the capsule, but you suspect that it has already been
+depressurised. The airlock opens, aparently it still works. Several astronauts
+on the other side, wearing partial space suits, designed to cope with the
+relative warmth and pressure of the martian climate rather than the harshness
+of space. They seem to be pleased to see you. 
+
+The meeting is awkward. No
+whoops of joy. Noone formally announces their name. "What do you have with you"
+you recall were the first words. The base was then informed, using the rovers
+radio. You gave them all the first aid equipment in your rover, and began the
+evacuation. The earth is at this point unsaveable. Mars still has a chance. You
+think you have inherited enough of your bodyhost's memories to carry on his
+life. You are going to stay on mars.
+108624: The star is quite bright now and is moving almost unnoticeably west.
+108672: The star continues its slow move west.
+108700: The star brightens until it is dazzlingly. It now swings west and
+disappears over the horizon.
+108768: The western sky becomes red. Masses of glowing, billowing smoke shoots
+into sight.
+108828: The sound of ten trillion tons of rock hitting the earth reaches your
+ears. It sounds like thunder, but much much louder. Windows smash, people
+scream.
+108936: A great wall of water suddenly roars out of the sea.
+108974: The wave breaks over the city. The houses disappear under the water.
+All up and down the coast the same thing is happening. The sky is now howling
+with wind. Red as fire, a hurricane has formed. Trees are being ripped up.
+109134: At last the wall of water hits you. In slow motion you see the white
+massiveness come towards you, unbelievably fast. You turn away and crouch into
+a ball. You are spun round. You recognise that there is no escape. You had
+assumed that one way or another you would survive the asteroid, but now you
+realise that this is the end. 
+
+You know what happens next. Your view fades and
+you feel yourself disappear. Your broken ribs, mangled leg and stunned mind all
+return to normal. Your clothes dry. You feel yourself floating, opening your
+eyes reveals that you are now in a space craft of some sort. This has been
+going on for as long as you can remember. You have become accustomed to the
+sudden jumping in space and time of your mind. In this case you welcome the
+change. The space craft feels positively welcoming after the previous scene.
+109726: You hear hissing and the air starts to thin around you. Your breathing
+becomes difficult and your skin feels funny.
+109856: The door of the airlock opens and what is left of the air in the box
+pushes you out into space. Later you wont remember panic, you are experiencing
+this with complete detachment. Thoughts slip across your mind, disappointment,
+surprise, confusion. Your eyes hurt from the low pressure and the unfiltered
+brightness of the sun, your vision is distorted. The sun is behind you, the
+space craft is much larger than you had expected. About 7 or 8 capsules have
+been loosely bolted together, it is quite beautiful. The letters ESA have been
+printed in bold letters to one of the capsules. 
+
+Your breath slips away, and
+panic sets in. You begin to get light headed, your body retches for more air.
+You pass out. 
+
+You wake up as if from a long sleep, the memory of your second
+death seems distant and impersonal. It feels odd to have that memory rather
+than odd to still be alive. You feel a hard surface return under your now
+crumpled body. The smell of purified air mixed with a hint of propanone,
+formaldehyde and some unknown ester - probably some kind of cleaning fluid -
+fills your nose.
+110620: You have changed slightly you are perhaps a little shorter without a
+mirror it is difficult to say exactly how different..
+110704: The virus has clearly infected you. In the last few days you have felt
+very unwell.
+110764: You feel very faint suddenly. You loose consciousness.
+
+
+
+When you
+regain consciousness you have regained all of your previous memories. A room
+starts to form around you. White walls. No obvious way out.
+110916: You are taller than average and well built. Your hair is slightly
+greyed.
+110968: A small ship painted in grey is some way away. It is coming towards
+you.
+111020: The ship is around one, perhaps two hundred metres away. It sends out a
+motorboat towards you. Your throat is dry and hurting from salt water. Your
+eyes are stinging, a scratch you have on your elbow is stinging too.
+111172: The motor boat stops by the raft. "Come aboard. Can you walk?" you nod,
+but find yourself unsteady as you rise to your feet. You fall towards the
+motorboat, and are caught before you fall into the water. You are hauled
+aboard. "Drink this. Do you need medical attention?" You drink the water they
+provide gratefully. "You must have been at sea for days."
+111430: You are put onto a stretcher. The boat pulls alongside the ship which
+you can see is a standard SAS missileship. You are carried aboard and taken to
+the medical bay.
+111552: You see a roar of flame and a missile is thrown clear of the ship. You
+cover your ears. It quickly disappears into the night with a streak of white.
+111656: You see an explosion tearing into the night sky, lighting up the mist
+and rain around. It can only have been two, perhaps three kilometres away.
+111756: You hear the thunderclap of an explosion.
+111910: missile installation. He seems to be confident that the ship will not
+suffer any damage.
+111972: The ship's alarm stops. Presumably everyone now knows there is a
+problem.
+112028: The north wall of the room explodes inwards in a rush of flame and
+water. You are hurled against the wall, you loose consciousness very quickly.
+112128: You feel a shock pass through the ship, throwing you off balance. You
+hear a deafening bang, fading into a dull roar.
+112214: Water floods through from the west.
+112244: You find yourself submerged. You soon run out of air. You pass out.
+112300: An alarm goes off. This one is more serious. You follow the surge of
+people up the stairs onto the deck. The ship is developing a list.
+112396: The ship, is now visibly low in the water. Bubbles are swelling the
+water by the western end of the ship. The ship creaks. A roaring/hissing is
+coming from the ship.
+112516: You see a streak of light coming towards the ship. You are thrown off
+your feet as a second deafening explosion sounds. The ship's bridge is torn
+apart as if made of lego. Flame errupts out of the hole where it used to be.
+The ship lurches starboard side down
+112696: The bow of the ship is now submerged, crashing sounds come from inside
+the ship, lights have gone out, smoke and flame errupts from where the bridge
+used to be.
+112808: You feel the floor buckle under your feet, your feet slide across a now
+hot metal deck. The heat of the fire burns the side of your face. Yet another
+huge explosion throws you into the water.
+112940: You gasp for air as your hands reach the surface. You can see the SAS
+Anatoly, a burning wreck not so far away
+113064: The Anatoly plunges into the water at last, bubbles push the water
+aside. You feel yourself being sucked down.
+113144: Litres of fuel left. Your location is
+113172: Your fuel runs out. The engine does not splutter to a halt, it simply
+slows down, quietly coming to a standstill. There is no hope of rescue. You are
+as alone as anyone can be. You climb out of the rover, a quick death preferable
+to a slow waiting for oxygen to run out, for the temperature to drop and for
+your breath to be stolen away. You step out into the cold of the martian
+desert. No glamorous sweeping view for your grave, you can hardly see anything.
+Your lungs are unable to support you in the low pressure and your consciousness
+fades.
+114252: You become aware of your tireless mission. Thousands of generations of
+people have walked this earth, all going through birth, childhood, adolescence,
+raised children of their own then grown old and died. You chose a different
+path. You are floating back through the Mars24 spacecraft now. You find
+yourself with a scrap of paper in your hand, you are writing on it. Your path
+never ends as it never began. An unconscious marine on a floating raft is
+nearby. You leave a few of your possesions with him. You remove your watch, you
+scratch off a piece of dirt you see on it. Nothing will ever happen to it. The
+death of humanity is a small price to pay for immortality.
+
+
+
+
+
+
+
+
+
+
+You are on
+a hilltop. You look across a city to the sea on the far side. A silent city.
+People stand around you. A dull star stands out against the cloudless twilight
+sky. It will soon hit the earth four hundred miles away. You look around for
+your old self. The self that stood here not so long ago. You wont find him of
+course. You never do.
+115170: muk. The only puzzle in the game is that of how to make a plutonium
+bomb. Work it out for yourself. There are two possible endings.
+115262: That's a verb I recognise. 
+
+Computers are always operated by examining
+them. Next time you say that you'll get a spoiler.
+115356: Perhaps the mars24 crew are sending out a radio signal.
+115400: The parts for the radio are hidden in the game somewhere.
+115444: If you put enough plutonium in one place, a feedback mechanism causes a
+fission reaction. A radiation shield though will prevent this effect though.
+

@@ -1,0 +1,736 @@
+29045: Identification number:
+30487: There is no reply.
+30524: Nothing is on sale.
+30977: Dropped.
+31125: . Not bad.
+32027: Wrahn seem interested.
+33123: Done.
+33206: You are carrying nothing.
+33321: Keep your mind on the game.
+33346: You hear nothing unexpected.
+34260: But it's dark.
+34277: You find nothing of interest.
+34335: Quite.
+34365: Nothing to do!
+34400: o. You have won
+34465: It is now pitch dark in here!
+34492: I beg your pardon?
+34556: Sorry, that can't be corrected.
+34585: Think nothing of it.
+34638: As good-looking as ever.
+34670: You can hardly repeat that.
+34695: You can't begin with a comma.
+34809: I didn't understand that number.
+34838: You can't see any such thing.
+34874: You aren't holding that!
+34915: I'm not sure what "
+34967: That's not a verb I recognise.
+35005: You can't see "
+35112: Nothing to do!
+35129: There are none at all available!
+35577: You must supply a noun.
+35600: You may not supply a noun.
+35625: You must name an object.
+35648: You may not name an object.
+35673: You must name a second object.
+35709: You must supply a second noun.
+35940: That was a rhetorical question.
+35967: Score notification off.
+35990: Score notification on.
+36362: You are unable to.
+36381: Nothing obvious happens.
+36521: That's not a direction.
+36544: Not that way you can't.
+36691: You lack the dexterity.
+36776: Done.
+36858: Please answer yes or no.
+36884: Are you sure you want to quit?
+37004: Removed.
+37035: Failed.
+37054: Restore failed.
+37071: Ok.
+37081: You achieve nothing by this.
+37113: Save failed.
+37128: Ok.
+37235: There is no score in this story.
+37296: Transcripting is already off.
+37362: Transcripting is already on.
+37428: But it's dark.
+37503: You find nothing of interest.
+37759: Your singing is abominable.
+37793: You smell nothing unexpected.
+37820: Oh, don't apologise.
+37849: Keep your hands to yourself.
+37874: You achieve nothing by this.
+38182: Taken.
+38193: You are always self-possessed.
+38705: You taste nothing unexpected.
+38739: You talk to yourself a while.
+38766: This provokes no reaction.
+38792: What a good idea.
+38818: Futile.
+38856: Keep your hands to yourself!
+38881: You feel nothing unexpected.
+38906: If you think that'll help.
+39217: Time passes.
+39260: That seems unnecessary.
+39382: You wave, feeling foolish.
+99866: Variable stack offset wrong:
+99936: Variable stack offset wrong:
+109288: You can't move nothing.
+109326: You can't divide by zero.
+109767: Attempt to 'decide on nothing'.
+109801: Low level error.
+109951: The memory stack is exhausted.
+109993: Error handling external file.
+125512: After moving blanks to back:
+125563: Final state:
+132685: Pass 1:
+132697: Pass 2:
+132709: Pass 3:
+132953: Pass 1:
+132965: Pass 2:
+132977: Pass 3:
+133221: Pass 1:
+133233: Pass 2:
+133245: Pass 3:
+133489: Pass 1:
+133501: Pass 2:
+133513: Pass 3:
+133757: Pass 1:
+133769: Pass 2:
+133781: Pass 3:
+134025: Pass 1:
+134037: Pass 2:
+134049: Pass 3:
+134293: Pass 1:
+134305: Pass 2:
+134317: Pass 3:
+134561: Pass 1:
+134573: Pass 2:
+134585: Pass 3:
+134829: Pass 1:
+134841: Pass 2:
+134853: Pass 3:
+135097: Pass 1:
+135109: Pass 2:
+135121: Pass 3:
+135365: Pass 1:
+135377: Pass 2:
+135389: Pass 3:
+135633: Pass 1:
+135645: Pass 2:
+135657: Pass 3:
+135939: Pass 1:
+135951: Pass 2:
+135963: Pass 3:
+136247: Pass 1:
+136259: Pass 2:
+136271: Pass 3:
+136555: Pass 1:
+136567: Pass 2:
+136579: Pass 3:
+136825: Pass 1:
+136837: Pass 2:
+136849: Pass 3:
+137093: Pass 1:
+137105: Pass 2:
+137117: Pass 3:
+137437: Pass 1:
+137449: Pass 2:
+137461: Pass 3:
+137705: Pass 1:
+137717: Pass 2:
+137729: Pass 3:
+137973: Pass 1:
+137985: Pass 2:
+137997: Pass 3:
+138279: Pass 1:
+138291: Pass 2:
+138303: Pass 3:
+138663: Pass 1:
+138675: Pass 2:
+138687: Pass 3:
+138933: Pass 1:
+138945: Pass 2:
+138957: Pass 3:
+139277: Pass 1:
+139289: Pass 2:
+139301: Pass 3:
+139545: Pass 1:
+139557: Pass 2:
+139569: Pass 3:
+146546: in" or "notin
+146562: opmhas" or "hasnt
+146704: }" at end of "objectloop
+148268: Score:
+148276: Moves:
+148284: Time:
+148292: You can't go that way.
+148424: Violence isn't the answer to this one.
+148452: This dangerous act would achieve little.
+148480: I don't think much is to be achieved by that.
+148540: There's nothing suitable to drink here.
+148568: You can only get into something free-standing.
+148640: You see nothing unexpected in that direction.
+148672: But you aren't in anything at the moment.
+148732: You'll have to say which compass direction to go in.
+148772: You can't put something inside itself.
+148800: You jump on the spot, fruitlessly.
+148856: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+148952: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+149036: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+149148: You see nothing unexpected in that direction.
+149344: Please give one of the answers above.
+149372: [You can't "undo" what hasn't been done!]
+149408: [Can't "undo" twice in succession. Sorry!]
+149448: "Oops" can only correct a single word.
+149476: It is pitch dark, and you can't see a thing.
+149508: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+149568: You seem to want to talk to someone, but I can't see whom.
+149612: To talk to someone, try "someone, hello" or some such.
+149652: I didn't understand that sentence.
+149712: You seem to have said too little!
+149736: You can't use multiple objects with that verb.
+149772: You can only use multiple objects once on a line.
+149808: You excepted something not included anyway!
+149840: You can only do that to something animate.
+149872: That's not something you need to refer to in the course of this game.
+149920: I didn't understand the way that finished.
+149952: Sorry, you can only have one item here. Which exactly?
+150052: You may not name a second object.
+150076: You may not supply a second noun.
+150100: You must name something more substantial.
+150132: The use of UNDO is forbidden in this game.
+150164: That noun did not make sense in this context.
+150288: That would be less than courteous.
+150340: You can't put something on top of itself.
+150372: Are you sure you want to restart?
+150396: Attempt to end transcript failed.
+150420: Attempt to begin transcript failed.
+150448: You aren't feeling especially drowsy.
+150476: Real adventurers do not use such language.
+150508: There's nothing sensible to swing here.
+150536: You're carrying too many things already.
+150568: You lack the nerve when it comes to the crucial moment.
+150608: You would achieve nothing by this.
+150660: The game file has verified as intact.
+150688: The game file did not verify as intact, and may be corrupt.
+150732: The dreadful truth is, this is not a dream.
+153308: I didn't understand that sentence.
+153504: Variable unavailable for this action, activity or rulebook:
+153980: Too many procedural rules acting all at once.
+154014: Too many rulebooks in simultaneous use.
+154046: Too many timed events are going on at once.
+154212: Too many activities are going on at once.
+154242: Tried to abandon an activity which wasn't going on.
+154282: Tried to end an activity which wasn't going on.
+154320: You can't remove nothing from play.
+154348: Tried to access property for a value which didn't fit:
+155006: Attempt to see if a snippet of text matches something which is not a
+topic.
+155062: Attempt to find route or count steps through an implicit relation.
+155206: Attempt to ignore the turn sequence rules.
+155382: The list-writer has run out of memory.
+155414: Attempt to remove the player from play.
+155446: Attempt to remove a door from play.
+155474: Attempt to change the player to a person off-stage.
+155514: Phrase applied to an incompatible kind of value.
+155552: Memory allocation proved impossible.
+155580: Attempt to use list item which does not exist.
+155614: Syntax error in regular expression.
+155642: This interpreter does not support Unicode.
+155676: Only backdrops can be moved to multiple places.
+155810: You can't take the square root of a negative number.
+155852: You can't implicitly repeat through the values of this kind:
+155940: Attempt to set a variable to the wrong kind of object:
+170924: Instead of answering someone that "no"
+170952: Instead of answering someone that "yes"
+171076: Instead of answering someone that "sorry"
+172216: She stares past you. "I was in such pain," she says. "Do you know what
+it's like to feel yourself dying, slowly, piece by piece? But then," she says,
+her hands clenching in the coverlet of the bed on which she's sitting, "but
+then... for a moment, it was over. There was nothing. And now..."
+172452: her. Whatever you think of me for this, you need never have anything to
+do with me again once it is done. Won't you please give her to me?"
+172556: me!" she exclaims. "I didn't want this. He never asked me what I
+wanted. I only wanted not to feel pain anymore."
+172644: one," your employer says. "This one is worthless. Stop wasting my time
+and fetch me the right one."
+172732: "... Yes, sir," you say reluctantly, having the feeling that you are
+not going to get anything more out of him on this subject.
+172824: "About those flowers I got for you..." you begin.
+172864: "Are you all right, ma'am?" you ask, realizing too late that this is an
+incredibly stupid question. "That is... I'm sorry about your husband."
+172972: "Begging your pardon, sir, but that portrait hanging in the landing is
+quite striking," you say. "May I ask who the woman in it is?"
+173068: "Do you want to die again?" you say, a bit incredulously.
+173112: "Don't concern yourself about the details of the thing," he replies. "I
+only need you to fetch the materials. It is best that you don't know the
+specifics of the thing."
+173236: "Er, the portrait of you on the landing is very nice," you say,
+desperately trying to make some more innocuous conversation.
+173324: "Excuse me, sir, but who are you, exactly?" you ask.
+173364: "Excuse me," you say, "but is somebody here ill? That room down the
+hall, next to the study..."
+173436: "Excuse me," you say, "but who is Leonora?"
+173472: "For the same reason any other helpless widower would hire a servant,"
+he replies. "I require help around the house."
+173556: "Give it to me, then," he says impatiently.
+173592: "Go, then," Leonora says dully.
+173620: "Good," he says. "There are several items around this house that I
+require, but I am... unable to leave this room at present. I want you to fetch
+them for me. Understood?"
+173748: "Good," says Leonora.
+173768: "Have you brought the flowers?" your employer asks.
+173808: "He brought you back," you say. "He saved you."
+173848: "I asked you a question, girl," your employer says, in a pale, raspy
+imitation of an authoritative tone. "I expect an answer. Yes or no?"
+173952: "I don't know what you're going on about," your employer says stiffly.
+174004: "I don't know," Leonora says. "But I can't be in this house anymore."
+174060: "I have to go," you say. Truth be told, you don't know where you could
+possibly go to, but you can't bring yourself to stay here with Leonora and the
+charred black thing for much longer.
+174192: "I know little about flowers, I'm afraid," Leonora says, "but I always
+did like those. Considerate of him, I suppose, to have remembered to plant them
+there. If he did."
+174320: "I know what it feels like to die," she says. "It's horrible. It's
+excruciating. And one day it will happen again. It could happen any day, any
+time, without warning. The only reason why any man is able to go about his
+daily business is that death is so remote to him, so unreal that it doesn't
+really seem to him that it will ever happen to him. It isn't that way for me
+now.
+174588: "I lost someone too," you say, without really thinking. "Someone I
+cared about very much."
+174656: "I see," says Leonora flatly. "I hope you weren't planning on
+resurrecting him, too."
+174724: "I should introduce myself, I suppose," you say, but Leonora waves her
+hand dismissively.
+174792: "I told you," your employer interrupts, "I can't recall which one it
+is. I can't tell you any more about it than I have."
+174884: "I want you to get me one of the books from my study. The only one of
+the cursed things that's useful. I can't recall the title now, but if you have
+a look at them I am sure you will figure it out. Most of them are clearly
+trash, after all."
+175056: "I was," she says. "I may still be, for all I know."
+175100: "I will," you say. After all, you would be cruel not to. You
+half-carry, half-drag the corpse to the third door, which opens just a little
+wider than usual to admit your dread burden - though you still don't quite
+manage to catch a glimpse of the man inside.
+175284: "I'm sorry," you say, "but what exactly is in that book that you
+wanted?"
+175340: "If I may ask, sir," you say, "why did you hire me?"
+175384: "If it means anything to you at all," you say, "I'm sorry."
+175432: "If you wanted to know that badly," your employer says dryly, "you
+should have read it yourself."
+175504: "In that case," he says, "why are you bothering me?"
+175544: "Just go," Leonora says.
+175564: "More potent with distillation?" one of the notes on the brown book's
+brittle pages reads. Another, next to a heavily underlined passage, simply says
+"Time of day???" Most of the other notes on the page are similar, but at the
+bottom, the same hand has scrawled "Nonsense for credulous fools! No results
+from any of this. An utter waste of time."
+175812: "My late wife," he says shortly. "I trust you do not wish to pry any
+further into my grief?"
+175880: "No, sir," you say.
+175900: "No," you repeat. "I'm sorry, sir, but I can't allow this to happen. It
+isn't right, and I can't be a part of it." A part of you flinches at speaking
+to an employer that way, but what is he going to do to you, anyway, from the
+other side of that door?
+176084: "No," you say. "I think not." You may understand him, but you don't
+like him any better for that. He is a cruel, imperious, selfish man; why should
+he deserve happiness? Why should he have his Leonora back, when you can't have
+Lucy?
+176256: "No," you say. "I wouldn't." The idea is undeniably tempting, but...
+no, it's wrong. It's against nature. You may have done some things in your life
+that others would call unnatural, but tampering with life and death is going
+too far even for you. Anyway, you doubt Lucy would thank you for undoing
+something she did by her own hand.
+176500: "Not to overstep my boundaries, sir, but about my pay..." you begin.
+176552: "Nothing," you say, feeling foolish. "I don't know what came over me."
+176608: "Now," your employer says, "I want you to find me a certain flower.
+Small, white, five petals. There should be some growing in the garden."
+176852: "Pardon me," you say, "but the book you wanted me to find-"
+176900: "Please, stand right where you are," your employer says, "just there,
+in front of the door, and don't move until I say so. This will all be over
+shortly, and you will have your compensation."
+177040: "Please," your employer says, his voice a tiny whisper. "
+177084: "Really?" Leonora replies, giving what might almost be a wry smile. "I
+always thought it came out terribly. I never much liked sitting for portraits."
+177196: "Sir, I don't think I can-," you reply nervously.
+177236: "Sir, about the, ah, experiment you're conducting..." you say.
+177288: "So, no," she concludes, "I don't want to go through the process of
+dying again. But what kind of life can I have now?"
+177380: "Suffice it to say that they are deeply important," your employer says.
+177432: "Then you still have work to do, don't you?" he says.
+177472: "Then you'll help me?" he says. "You'll give her to me?"
+177520: "There is one last thing I require," your employer continues. "I want
+you to go to the attic and bring me whatever you find on the table there."
+177624: "There were these white flowers growing on your- er, in the back
+garden," you say. "Do you know what kind they were? I didn't recognize them." A
+ridiculous thing to say, really, but in this situation your usual rules of
+social interaction are not availing you.
+177812: "This is the house, miss," the man from the town says, stopping a good
+few yards from the gate. Even as you thank him, he is walking briskly away -
+shoulders hunched, hands in pockets - and he does not turn around to answer
+you.
+177976: "Well, I do feel better than I did in those last days," she says. "But
+perhaps it's merely reverted to an earlier stage of the disease. It begins with
+fatigue, you know. Just a bit of tiredness."
+178120: "Well, then," he says, "what are you waiting for? Let's get on with
+it."
+178176: "Well?" says the voice of your employer. "Have you brought the book?"
+178228: "What did you need them for?"
+178252: "What does it matter?" she says dully.
+178284: "Where will you go, then?" you ask.
+178312: "Why on Earth did you come here if you are not prepared to do as I
+ask?" your employer says, in a voice like brittle twigs snapping. "Look. There
+are several items I need, but I cannot leave this room at present, so you will
+get them for me. The first thing I want is for you to fetch me one of the books
+from my study. The only one of the cursed things that's useful. I can't recall
+the title now, but if you have a look at them I am sure you will figure it out.
+Most of them are clearly trash, after all."
+178672: "Xyzzy!" you exclaim suddenly.
+178696: "Yes, sir," you reply, trying to keep the unease out of your voice.
+178748: "Yes, sir," you say once again.
+178776: "Yes, sir," you say, looking at the floor. "I- I suppose I was
+confused."
+178836: "Yes, sir," you say.
+178856: "Yes," he says finally, "this is precisely what I was looking for.
+Clever girl."
+178920: "Yes," you say. "I would." Of course you would. How could you not? If
+you had the chance to fix it, to see her again... As little as you like this
+man, you understand only too well why he is doing this.
+179080: "You are full of questions, aren't you?" your employer says, not
+entirely unkindly. "No one is in that room now. That should be answer enough
+for you."
+179192: "You can't tell?"
+179208: "You intend to... to bring her back," you say. It isn't a question.
+179260: "You may not," your employer replies. "You are not here to discuss art;
+you are here to do what I ask of you as promptly as possible. Is that
+understood?"
+179376: "You should have all the information you need to find them," your
+employer says.
+179436: "You were ill?" you say.
+179456: "You'll be paid in full for your work as soon as you've finished the
+tasks I ask of you," he says. "Kindly do not ask me about it again."
+179556: "You're here," says the person on the other side of the door - your
+employer, you assume. His voice sounds hoarse and rusty from disuse. "Are you
+ready to begin?"
+179676: "You've brought her to me," your employer says softly. "My Leonora."
+179736: , you must understand what this means to me. I
+179868: A bit of grey stone is barely visible in the midst of a clump of dry
+brown grass.
+179924: A heavy wooden door with a tarnished brass knocker in the shape of the
+head of some unidentifiable manner of beast.
+180004: A large desk stands proudly against the lefthand wall.
+180044: A large four-poster bed with rich red velvet hangings.
+180084: A low wooden table is next to the bed.
+180112: A monstrously large thing made of some kind of dark and
+expensive-looking wood. A fine layer of dust coats its surface.
+180196: A narrow and decidedly creaky set of wooden steps, without so much as a
+banister to lean on.
+180260: A plain, unremarkable door of dark, unpainted wood.
+180300: A plain, unremarkable wooden door, its white paint peeling.
+180344: A portrait of a woman hangs on the wall opposite the stairs.
+180388: A series of thumps and creaks seem to be coming from somewhere to the
+west.
+180440: A small glass bottle full of liquid sits on the table.
+180480: A small handful of late wildflowers can only just be seen through gaps
+in the weeds.
+180540: A small tarnished brass key.
+180560: A small, bare landing, with stairs leading down and a single door to
+the west.
+180616: A twisted, blackened thing lies on the floor in the center of the
+circle.
+180668: A young, fair-skinned woman with long black hair gazes steadily out at
+the viewer, unsmiling against a background of flat, featureless grey. She is in
+a standard portrait pose, sitting up straight with her hands folded primly in
+the lap of her fine dress, but her dark eyes seem focused intently on something
+you cannot see.
+180892: Ah, well. What have you got to lose? You may as well go in.
+180936: All you can hear is the wind in the grass and a loose shutter somewhere
+clattering against the side of the house.
+181016: And so you wait, obediently, in the position indicated. Long moments
+pass, and you gradually become aware of a sort of high whine coming from
+nowhere in particular and a feeling of pressure building inside your skull. It
+builds slowly and steadily, until you almost can't take it anymore, and then
+something seems to snap in a rush of heat and noise. You faint.
+181268: Around the stone, flowers are growing.
+181296: Before you can say any more, she flees, her hurried steps echoing in
+the corridor.
+181356: But you have no energy now to worry about what will become of Leonora.
+Your work done, you leave her behind and continue on your way back to town.
+181460: Dark corridors extend east and west from here, and the rickety
+staircase descends to the foyer.
+181536: Everything about this room is dark and heavy - the furnishings, the red
+brocade drapes, the leather-bound tomes. A musty, mildewy smell pervades
+everything. The door leading back to the hallway is to the south.
+181684: For a moment, you are in the bedroom of a different house, far away,
+staring into the unseeing eyes of a different woman, and you choke back a sound
+that is halfway between a scream and a sob, and without really meaning to, you
+take a few stumbling steps back towards the door.
+181876: For some reason, the word "xyzzy" floats into your mind. Where on earth
+did you hear such a thing? It's not a word in any language you know. You say it
+out loud, and then feel silly when nothing happens.
+182020: He reaches out through the narrow opening again and drops something
+cold and metallic into your hand - a key.
+182096: Heavy black drapes cover the windows, and no lamps are lit. Most of the
+room is taken up by a large circle of charred, smoking wood; some of the
+furniture has been reduced to ash, although the large canopied bed, shoved
+awkwardly into a back corner, is still intact. Its single door, now apparently
+unlocked, leads southeast to the corridor.
+182336: If you wish to start a conversation, it behooves you to have a
+particular subject in mind about which to ASK.
+182420: In the center of the room is a long, low table of sorts.
+182460: It is far too heavy for you to lift.
+182488: It is not until you are a little way down the road that you come to
+your senses and realize that you are carrying a dead body down a public (if
+little-travelled) thoroughfare, and that if someone were to ask you why you
+were doing so, you would not have a satisfactory explanation. Who would believe
+your story, after all?
+182712: It is very dark in the attic; even leaving the eastern door open
+doesn't allow much more light. The disused furnishings and other forgotten
+things that have been locked away up here are hulking, shadowy shapes all about
+the perimiter of the room.
+182884: It is, or was, a pale young woman with inky-black hair that matches the
+black silk of her dress. Her open eyes are vacant and glassy.
+182980: It isn't much of a garden, really; like the rest of the grounds, it has
+been neglected, and whatever flowers were here have been supplanted by weeds.
+Skeletal vines crawl over everything they can reach. A terrible waste, really.
+A path leads around the house to the southwest.
+183176: It isn't quite so much a table as it is a low platform made of what you
+think is marble, although it is hard to tell in this light.
+183268: It looks as though it may all come tumbling down at any minute. Faded,
+peeling paint, shutters hanging at odd angles, rot beginning to stretch its
+fingers across the wood. Still, it must have been a rather grand house once.
+183424: It looks just like the other two doors on this hall, but it seems to be
+shut fast. Rustling noises and a sort of tuneless humming issue from the other
+side of it.
+183536: It looks terribly inviting at the moment, but this is not really the
+place to sleep.
+183596: It seems very old, and you are concerned that the fragile pages might
+break as you turn them. Not that it does you much good to turn the pages, since
+you can't read German; fortunately the scrawling around the edges is in
+English.
+183760: It takes you a moment to realize that it was once human, and another to
+realize that this must be all that remainsof your employer.
+183852: Its white sheets are askew, and you notice faint yellowish patches of
+discoloration.
+183912: Just like the house where you used to work, where Lucy- but no. You're
+not thinking about that.
+183984: Leonora shakes her head mutely.
+184008: Leonora sits forlornly on the bed.
+184032: Leonora stands up. "I can't stay here," she says. "I just can't."
+184084: Leonora's brow furrows. "I beg your pardon?"
+184120: Looking at it more closely, you can see that there is some kind of
+intricate pattern drawn on the burnt portion of the floor. The circle around
+the outside doesn't seem to quite close up properly, and a few of the lines
+within it have overrun its boundaries.
+184300: Looking outside, you can see that night has fallen. The wind blows a
+few dry leaves past the window, and clouds drift over the moon.
+184630: The rest of the page is taken up with questions such as "Candles really
+necessary to the process?" and "Can this be substituted for with
+locally-growing variety?" and "How to designate the sacrifice?"
+184776: Not the most scintillating bit of conversation, but better that than
+discussing the inevitability of death.
+184856: Pardon me," you say, "but those flowers you wanted me to find-"
+184904: Plain and sensible, because you are trying to look like a plain and
+sensible person. It is a bit rumpled from travel and the hem shows some
+spatters of mud, but it is presentable enough, fortunately.
+185052: Pushing the grass aside, you see that this is a roughly-hewn
+rectangular slab of stone. It is fairly small and quite plain, save for the
+name "Leonora" carved into one side. It looks very much like a gravestone,
+although it seems out of place on an estate like this - you would have expected
+a marble mausoleum, or a family plot somewhere filled with memorials bedecked
+with statues of weeping angels.
+185388: She doesn't seem to want it.
+185412: She is still just as young and just as pale and dark-haired as she was
+before, and she still carries that smell of sickness. Her eyes, however, are
+bright and alert now - and, of course, she is breathing. Crying, in point of
+fact.
+185576: She's heavy and the lifeless way she lolls in your arms makes you feel
+sick, but you don't want to leave her here. She deserves a proper burial - or
+at least a better one than she's had.
+185708: Small yellow flowers - yellow wood-sorrel, you think. They are wilting
+a little.
+185768: That would hardly be appropriate.
+185792: The air of this room carries that sort of stale smell peculiar to rooms
+where very ill people have been shut up for long periods of time. The unmade
+bed against the back wall is unoccupied, however. The angles of the corners are
+not quite regular, which gives the impression that the white walls are crowding
+in on you. Behind you, to the southwest, the door back to the hallway seems
+terribly inviting.
+186072: The bed does look terribly inviting a the moment, but this is not
+really the place to sleep.
+186136: The corridor is narrow and windowless, but a cold draft seems to be
+creeping in from somewhere - perhaps from the landing to the east. There are
+three doors along the north wall.
+186260: The corridor is narrow and windowless, but a cold draft seems to be
+creeping in from somewhere. At the end of the corridor is a set of stairs
+leading up.
+186368: The door does not open, and for a moment there is dead silence. You are
+about to conclude that the house is abandoned after all, but then you think you
+hear a thin, creaking voice saying, "Come in." It is so faint, though, that you
+are not sure that you did not imagine it.
+186560: The door opens ever so slightly again, and your employer takes the
+flowers from your hand. "Ah, yes," he says, "perfect."
+186652: The door opens ever so slightly again, and your employer takes the
+flowers from your hand. Almost immediately, he hands them back to you. "I said
+186756: The door opens just a crack - a chain on the inside seems to prevent it
+from opening any further - and a bony hand darts out and takes the book from
+you. There is a brief sound of pages turning.
+186892: The door opens just a crack - a chain on the inside seems to prevent it
+from opening any further - and a bony hand darts out and takes the book from
+you. There is a brief sound of pages turning; then the door opens again and the
+book is hurled at your feet. "I told you to bring me the
+187132: The gate towers over you, and its loops of metal are so ornate that
+trying to follow the pattern makes you feel a bit dizzy. It would be more
+impressive, though, if it hadn't gone to rust quite so badly.
+187276: The ground is cold and hard and in any case you have no shovel, so you
+do the best you can, laying Leonora down by the side of the road and piling
+dead leaves and sticks atop her until she is no longer visible. Sooner or later
+someone will find her, but at least she's well enough away from her former
+husband. You hope no one will be able to connect you to any of this; you have
+been accused (not formally, perhaps, but certainly in common gossip) of being
+responsible for another's death once, and it is not an experience you are
+anxious to repeat.
+187656: The odor of smoke and burnt flesh.
+187680: The old boards of the porch seem to give a little under your feet. To
+the south, a set of creaking steps leads down to the overgrown, tangled expanse
+of the lawn; to the north is the front door of the house.
+187824: The room is nearly bare and quite dim. Shadows have accumulated in the
+corners. The space is dominated by a large wooden staircase with a worn,
+discolored carpet; the stairs apparently lead to the second storey. There is a
+white door to the east and a carved wooden door to the west.
+188024: The sour odor of illness still lingers. You try to avoid inhaling it.
+188076: The stone path, choked with weeds and grass, winds its way from the
+front of the house, southeast of here, to the back of the house, to the
+northeast.
+188184: The table looks out of place in the room; its color is wrong, and in
+contrast to the simplicity of the bed and the walls, it is carved in an
+elaborate pattern of large anad overblown flowers that look like poppies.
+188332: The tall, browning grass rustles in the chill wind, but there don't
+seem to be any flowers to bring a bit of color to the grey surroundings. A
+cobbled path cuts a narrow slice through the overgrown lawn, leading north to
+the house, and another path, branching off of that one, leads around the side
+of the house to the northwest. To the south looms the front gate.
+188584: They are small and white, with five delicate petals.
+188624: They are very thick and very dark. You wonder whether they were meant
+to keep out the light or to keep your former employer's secrets hidden. Perhaps
+both.
+188732: They've seen better days, to be sure, but they look sturdy enough to
+climb.
+188808: When you come back to yourself, you are lying on the floor of an
+unfamiliar room. You can hear a woman sobbing nearby.
+188892: Without thinking, you find yourself humming a snatch of an old,
+familiar tune. One of Lucy's favorites, you remember suddenly. You used to sing
+it together, sometimes, although truth be told you always preferred just to
+listen to her.
+189080: You are fairly certain you could never be tired enough to sleep in this
+room.
+189136: You breathe deeply, trying to fight off nausea, but the sour, sickly
+smell only makes it worse.
+189204: You can't even identify the language of the text. It seems to use
+symbols with which you are wholly unfamiliar. The careful annotations are in
+English, however.
+189320: You can't see him from here.
+189344: You cannot quite place what kind of flower they are. Odd, that - you
+thought you knew every sort of flower that grew around here. You've always been
+fond of plants; you used to tell Lucy how you dreamt having a great big garden
+someday, the purely decorative kind with no such boring utilitarian things as
+vegetables. It was a castle in the air, of course, but you liked to talk as
+though you really believed it would happen. "And I'd bring you fresh flowers
+every day," you'd tell her, and she would laugh and swear to you that one day
+she would-
+189728: You could leave, of course. But where would you go? No, better not.
+189780: You decide that it would be unwise to point out that you can't.
+189824: You don't have to look too closely at the medicine bottle to know what
+it is. You've seen one just like it before, not so long ago-
+189916: You don't know where you could possibly go, but you're sure you can't
+stay in here with the charred black thing. You slowly make your way out of the
+house. The sun has gone down, the air has grown chillier, and you are alone.
+When you reach the gate, you pause for a moment and wonder what will become of
+Leonora, if there's anything at all you can do for her. But you don't have the
+energy to worry too much about that now. Stepping through the rusty gate, you
+start on the long walk back to town.
+190264: You don't think it would be very considerate to manhandle a woman who
+is clearly very upset.
+190328: You don't want to even touch it.
+190352: You don't want to examine it too closely.
+190384: You don't want to look at the bottle again.
+190416: You don't want to touch it.
+190436: You flip through the book, but it seems to be in Latin, which language
+was not considered an essential part of the education of a girl of your
+station. In the margins, though, are some handwritten notes that do seem to be
+in English.
+190628: You have tried to lay a spirit to rest for good.
+190664: You knock, but there is no response.
+190692: You look at the floor, ashamed. Of course it hadn't been your idea to
+bring Leonora back, but you could have refused to go along with it. "Her,
+actually - and no, not after what happened here."
+190832: You look down at yourself. You look ordinary, you suppose. You hope you
+look ordinary.
+190896: You move the portrait aside, but there is nothing but blank wall behind
+it. You are not quite sure why you expected there would be something there.
+191000: You peer more closely at the form on the table, and all at once you
+realize it is a person. A woman. The woman from the portrait on the landing.
+You think for a moment that she is asleep - but then you notice her eyes. They
+are wide open, glassy, staring at nothing. She isn't sleeping.
+191204: You shake your head, hard, as if this will drive the memory out. You
+can't afford to be thinking about that now.
+191284: You shouldn't go in; you know you shouldn't. But then, knowing that
+something is a bad idea does not stop you from doing that thing nearly as often
+as it ought to. If it did, you would probably never have gotten yourself into a
+situation where your only hope of employment was to answer a strange, vague
+advertisement from someone who didn't care for references. And it follows that
+you would then not be on this dilapidated porch, contemplating trespassing.
+191604: You sigh. "Very well," you say. He does seem terribly desperate, and
+you can't quite find it in you to deny him. You half-carry, half-drag the
+corpse to the third door, which opens just a little wider than usual to admit
+your dread burden - though you still don't quite manage to catch a glimpse of
+the man inside.
+191828: You squint at the notes that run across the page you've opened to in
+the green book. "Unsuccessful - perhaps try with water instead?" says one note
+next to the first paragraph, while another note reading "Can this material be
+found anymore? Unlikely." is followed by an arrow pointing to an underlined bit
+of text. At the bottom is a sort of sloppy, informal chart that begins "Attempt
+1 - full moon - result: failure. Attempt 2 - new moon - result: failure." It
+continues in this vein for some time.
+192184: You stand up abruptly.
+192204: You start to leave. "If it means anything at all to you... I'm sorry,"
+you say.
+192268: You stumble, and only just manage to avoid pitching face-first onto the
+floor with the corpse beneath you.
+192344: You take a deep breath and look away.
+192372: You think you can hear someone moving around upstairs.
+192412: You'd rather leave her, of course, but if you do you're sure he'll
+convince some other desperate girl to go along with his plan and then he'll get
+what he wants after all.
+192532: Your arms strain under the dead weight of your burden.
+192572: Your clammy hands stick unpleasantly to the dead woman's silk dress.
+192620: Your employer laughs hollowly. "No one," he says. "I haven't been
+anyone for a long, long time."
+192696: Your employer rails at you, calling you heartless and ungrateful and
+cowardly, but you do your best not to pay him any mind as you stumble down the
+hall, dragging the young woman's body along with you.
+192836: Your gorge rises as you heave the inert body up and drag it (drag her?)
+off of the bier.
+192964: as is the third. The second is ajar.
+193184: Well, you should at least go up to the house and look. You've come all
+this way, after all.
+193252: You peer through the wrought-iron curlicues of the gate and wonder if
+there has been some mistake. This house hardly looks inhabited. All its windows
+are dark. Its paint, whatever color it once was, has faded to a dull greyish
+shade. The posts of the porch railing are broken and jagged, leaning at odd
+angles like a mouthful of crooked teeth. Can this really be the home of your
+new employer?
+193528: You step through the gate. It creaks shut behind you.
+193604: This story file does not use a heap of managed memory.
+193924: give" or test "has" or "hasnt" with a non-attribute on the object
+193972: , but it is longer than 2 bytes so you cannot use "."
+

@@ -1,0 +1,515 @@
+11205: Score:
+11219: Moves:
+11236: Time:
+11364: I beg your pardon?
+11412: [You can't "undo" what hasn't been done!]
+11453: ke     gpm[Your interpreter does not provide "undo". Sorry!]
+11520: [Can't "undo" twice in succession. Sorry!]
+11693: Sorry, that can't be corrected.
+11728: Think nothing of it.
+11751: d."Oops" can only correct a single word.
+11960: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+12033: You can hardly repeat that.
+12263: You can't begin with a comma.
+12320: You seem to want to talk to someone, but I can't see whom.
+12411: To talk to someone, try "someone, hello" or some such.
+14052: I didn't understand that sentence.
+14159: I didn't understand that number.
+14191: You can't see any such thing.
+14224: You seem to have said too little!
+14256: You aren't holding that!
+14285: You can't use multiple objects with that verb.
+14325: You can only use multiple objects once on a line.
+14404: You excepted something not included anyway!
+14442: You can only do that to something animate.
+14480: That's not a verb I recognise.
+14510: That's not something you need to refer to in the course of this game.
+14566: You can't see "
+14611: I didn't understand the way that finished.
+14732: There are none at all available!
+17486: Sorry, you can only have one item here. Which one exactly?
+25262: At the moment, "it"
+25334: and "me" means
+25361: exn** Player objects must have "number" prop **
+30229: M.
+34860: Nothing to do!
+34876: . You have died
+35056: fhn[Your interpreter does not provide "undo". Sorry!]
+35154: Please give one of the answers above.
+35248: Please answer yes or no.
+35268: Are you sure you want to quit?
+35302: Are you sure you want to restart?
+35328: Failed.
+35345: Restore failed.
+35358: Ok.
+35373: Save failed.
+35384: Ok.
+35399: The game file has verified as intact.
+35426: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+35601: Transcripting is already off.
+35624: End of transcript.
+35646: Score notification on.
+35668: Score notification off.
+35692: You have visited:
+35739: None.
+35964: You are carrying nothing.
+36007: Taken.
+36019: You are always self-possessed.
+36139: You already have that.
+36227: That isn't available.
+36270: That's hardly portable.
+36294: That's fixed in place.
+36318: You're carrying too many things already.
+36394: Already on the floor.
+36416: You haven't got that.
+36459: Dropped.
+36504: But it isn't there now.
+36528: You'll need to take it off first.
+36553: Removed.
+36572: You need to be holding it before you can put it on top of something
+else.
+36628: You can't put something on top of itself.
+36706: You lack the dexterity.
+36786: Done.
+36828: You need to be holding it before you can put it into something else.
+36908: Alas, it is closed.
+36930: You'll need to take it off first.
+36960: You can't put something inside itself.
+37050: Done.
+37092: That isn't in your possession.
+37115: First pick that up.
+37409: That's not something you can enter.
+37477: You can only get into something on the floor.
+37593: But you aren't in anything at the moment.
+37662: You are on your own two feet again.
+37694: You'll have to say which compass direction to go in.
+37795: You can't go that way.
+37954: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+38056: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+38144: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+38437: Darkness, noun. An absence of light to see by.
+38558: But it's dark.
+38571: You find nothing of interest.
+38604: But it's dark.
+38694: You find nothing of interest.
+38722: You can't see inside, since it is closed.
+38821: That doesn't seem to be something you can unlock.
+38863: It's unlocked at the moment.
+38891: That doesn't seem to fit the lock.
+38945: That doesn't seem to be something you can lock.
+39011: First you'll have to close it.
+39039: That doesn't seem to fit the lock.
+39093: That's not something you can switch.
+39125: That's already on.
+39169: That's not something you can switch.
+39201: That's already off.
+39247: That's not something you can open.
+39279: It seems to be locked.
+39301: It's already open.
+39409: That's not something you can close.
+39441: It's already closed.
+39485: You're not wearing that.
+39533: You can't wear that!
+39555: You're not holding that!
+39579: You're already wearing that!
+39629: That's plainly inedible.
+39660: . Not bad.
+39678: That was a rhetorical question.
+39706: This dangerous act would achieve little.
+39740: Nothing practical results from your prayer.
+39776: The dreadful truth is, this is not a dream.
+39864: What a good idea.
+39884: You smell nothing unexpected.
+39938: You taste nothing unexpected.
+39992: You feel nothing unexpected.
+40018: Digging would achieve nothing here.
+40050: Cutting that up would achieve little.
+40082: You jump on the spot, fruitlessly.
+40116: You would achieve nothing by this.
+40146: There's nothing suitable to drink here.
+40180: But there's no water here to carry.
+40212: Oh, don't apologise.
+40234: Real adventurers do not use such language.
+40270: Quite.
+40282: Violence isn't the answer to this one.
+40316: There's not enough water to swim in.
+40348: There's nothing sensible to swing here.
+40382: You can't usefully blow that.
+40460: No, you can't set that to anything.
+40523: But you aren't holding that.
+40588: It is fixed in place.
+40610: You are unable to.
+40625: Nothing obvious happens.
+40654: Is that the best you can think of?
+40684: That's not a direction.
+40703: Not that way you can't.
+40753: You achieve nothing by this.
+40784: Futile.
+40791: You lack the nerve when it comes to the crucial moment.
+40840: You talk to yourself a while.
+40863: This provokes no reaction.
+40891: There is no reply.
+40911: Nothing is on sale.
+40957: I don't think much is to be achieved by that.
+40995: Time passes.
+41011: You aren't feeling especially drowsy.
+41090: Welcome to Anycity College, O seeker of learning! Somewhere within, you
+know that the fabled and priceless Degree waits to be found, if only you will
+enter and embark upon the...
+41482: You achieve nothing.
+41502: You sit down. A bit later, realising the pointlessness of your action,
+you stand up again.
+41570: You run on the spot for a few minutes. Perhaps the exercise will get
+your brain working.
+41851: I thought not.
+41890: Do you really want to leave the college forever?
+41940: You leave the college, never to return.
+41987: The receptionist does not look up. "Please fill in this form," he tells
+you, shoving one at you.
+42075: "All right," she says. "Let's see your identity card."
+42142: The secretary notes your name down on a list in front of her. "You're
+registered," she says.
+42227: can't run off with that! That's my form!" says the receptionist. You
+desist.
+42296: As you have no pen this is a problem for you.
+42339: The receptionist takes the form, examines it carefully, and places a
+small plastic card on his desk.
+42424: The student union president stops you. "You can have your identity card
+back if you give me the book," she says.
+42515: The general odour is very unsavoury.
+42551: You force it down with some difficulty.
+42587: Ugh. Is that hydrogen sulphide, or is it chlorine? You were never very
+good at chemistry. In any case, it's unpleasant.
+42681: There is a relentless thudding noise coming from the west. It sounds as
+though someone is running on a hard wooden floor.
+42847: . You feel distinctly sick
+42883: You've already passed physical education and no way are you going
+through that again.
+42955: You set out to run the forty laps, but after twenty laps your legs feel
+weak and you start to wobble. After twenty-five laps you can't keep to a
+straight line and you feel dizzy. After thirty laps you collapse from
+exhaustion.
+
+You have failed.
+43145: You set out to the run the forty laps. It's tough - in fact, it almost
+kills you - but you make it!
+43240: The sports instructor blocks your way and pushes you back out into the
+corridor. "Only students allowed in the sports hall!" he tells you, and goes
+back inside.
+43371: The instructor notices you. "You've already passed PE!" he says. "Now
+get out of here!"
+43445: The instructor comes up to you. "To pass PE", he says, "You've gotta run
+forty laps. That's five miles!"
+43547: "Come on," he says as he runs past you, "I expect you've got better
+things to do than hang around here all day!"
+43630: "To pass PE", he says, "You've gotta run forty laps. That's five miles!"
+43699: Ugh. No wonder they call chemistry `the stinks'.
+43750: The chemistry invigilator says, "You've already taken the exam!"
+43799: You start the exam.
+43823: But you have no pen and are thus unable to write down your answers.
+
+You
+fail the exam.
+43912: With the aid of the cheat sheet, you breeze through the exam, scoring
+the highest marks!
+43975: The entire paper appears to be written in a foreign language. You spend
+the allotted time but cannot answer a single question.
+
+You fail miserably.
+44112: The invigilator blocks your way and pushes you back out into the
+corridor. "I'm afraid I can't let you into the chemistry lab until you've
+registered and paid your tuition." She disappears back into her lab.
+44279: The invigilator approaches you, waving her hands. "You've already taken
+the Chemistry exam! Now get out of my lab!"
+44371: The invigilator comes up to you. "You're just in time for the chemistry
+exam! Sit down and start."
+44463: The invigilator says, "OK, that's it! I'm expelling you for breaking
+exam regulations!".
+44543: The invigilator says, "No talking in exams! This is your last warning!"
+44638: The psychologist looks up as you enter.
+44676: "Oh, it's you again," he says disappointedly.
+44721: "Aha! a subject!" he says happily. He points to a piece of paper covered
+with inkblots. "What do these suggest to you?" he asks.
+44836: "Very interesting," says the psychologist.
+44881: The psychologist says, "Give it to me!"
+44934: The psychologist takes the magazine and thanks you.
+44983: The psychologist has lost interest in you.
+45017: "Alas, you appear to be perfectly normal," says the disappointed
+psychologist. "There is no need for treatment."
+45112: The psychologist stops you, saying, "You can have the folder if you
+bring me a copy of 'Psychiatry Today'."
+45203: Inside is an analysis of the College Dean, concluding that the Dean
+"shows strong schizophrenic tendancies and strong delusions of grandeur. He
+will do anything to prevent these conclusions being made public."
+45368: "Give it to me," he says.
+45409: "You're not a registered student, so I can't help you," he says.
+45474: "That's not enough for your tuition!" he says.
+45543: "That seems to be in order," he says. "You can have your transcript
+receipt now."
+45604: "That seems to be in order." he says, "But you can't have your
+transcript receipt until you've finished the curriculum.
+45704: The bursar takes your coin and bites it. "Thankyou," he says, "You now
+owe me a silver piece for your report transcript."
+45808: "You owe me a gold piece for your tuition," he says.
+45847: "You need to pay me a silver piece for your report transcript," he says.
+45916: The bursar stops you. "You still owe me a gold piece for your tuition,"
+he says.
+46002: The bursar stops you. "You haven't finished the curriculum yet!" he
+says.
+46064: The bursar stops you. "You need to pay me a silver piece for your report
+transcript," he says.
+46156: says, "You've already taken the exam!"
+46187: You start the exam.
+46211: But you have no pen and are thus unable to write down your answers.
+
+You
+fail the exam.
+46283: There will be no interruptions during the test. It consists of five
+questions and you must answer at least three correctly to pass. Otherwise you
+fail and will be expelled.
+
+Question 1. Enter the adjective in the following
+sentence:
+ "The water was perfectly transparent."
+->
+46540: Score:
+46554: Moves:
+46828: Score:
+46842: Moves:
+46921: ). A complement is the opposite of an insult.
+->
+47018: Score:
+47032: Moves:
+47079: Question 4. Enter the word that is spelled incorrectlly:
+ "Octopus",
+"Skeptical", "Reciprocal", "Clandestine", "Precursor"
+->
+47242: Score:
+47256: Moves:
+47411: . Definitely inferior
+->
+47490: Score:
+47504: Moves:
+47573: The english professor takes in the paper and tabulates your score.
+47631: She notices your pledge pin and lowers your score by one.
+47688: You answered every question correctly!
+47725: You didn't get a single point!
+47786: You pass!
+47795: You fail.
+47836: The professor blocks your way and pushes you back out into the corridor.
+"I'm afraid I can't let you into the english class until you've registered and
+paid your tuition," she says, before departing to the west.
+48007: The english professor says, "OK. All candidates for English Paper 1
+should sit down and prepare for the exam."
+48107: The professor says, "OK, that's it! I'm expelling you for breaking exam
+regulations!"
+48183: The professor says, "No talking in exams! This is your last warning!"
+48243: The English professor stops you. "If you want to take the exam, sit
+down," she says.
+48339: The secretary takes your receipt and examines it. "This seems in order,"
+he says. "You can take your report."
+48432: "Can't you see I'm busy?" he says.
+48461: The secretary says, "I can let you have your report when you've finished
+your course, OK?"
+48544: "I can't let you have your report until I have proof of payment!" the
+secretary tells you.
+48619: What does money smell like? You're not quite sure, but this room
+definitely smells of it.
+48707: The financial aid officer looks up as you enter. "Would you like
+financial aid?' she asks you.
+48795: "There's no more help I can give you, I'm afraid," she says.
+48844: The officer brightens at your words. "Please fill in this form" she
+says, placing it on her desk.
+48974: As you have no pen, this is a problem for you.
+49024: The financial aid officer reads the form and immediately says, "Well, it
+looks as though we can help you!" She takes two coins out of her purse and puts
+them on the desk.
+49254: The Dean says, "Shut up!"
+49324: "Give it to me!" says the Dean.
+49361: The Dean grimaces. "There's no need to rub it in," he says.
+49416: The Dean's face turns pale.
+49448: "OK, you win," he says. "You can have the degree."
+49491: "Look, I will be fair with you," he says. "If your paperwork is OK, I'll
+let you have the degree."
+49602: The Dean takes your identity card and pockets it. Again he stands in
+your way.
+49693: The Dean tears the receipt into tiny pieces and stamps on them! He
+continues to block your way.
+49796: The Dean takes your transcript, crumples it up and eats it!
+49846: Again he stands in your way.
+49949: "Did you think it would be that easy?" he says. "You haven't even
+registed yet!"
+50019: "Did you think it would be that easy?" he chuckles. "Give me your
+identity card first."
+50098: "You haven't even paid your tuition yet!" he snarls.
+50148: "Hmmm..." he says. "We seem to have lost all your records. Do you have
+proof that you paid your tuition?"
+50253: "You've got to finish the curriculum first!" he gloats.
+50305: "Not so fast," he says. "Now give me your report transcript."
+50368: "Tough luck kiddo!" he says. "You may have all the paperwork, but I
+don't like your face. You're not going to get the degree."
+50463: Reluctantly the Dean stands aside. "OK, you can have the degree," he
+says.
+50546: The Dean stands in your way.
+50626: The psychologist is unwilling to relinquish it.
+50681: "You can have the book if you give me your identity card," the president
+says.
+50738: "You can have your identity card back if you give me the book," he says.
+50804: "Give it to me!" says the president.
+50861: The president takes the book and returns your identity card.
+50920: The president accepts your identity card.
+50964: The president stops you. "You can have the book if you give me your
+identity card," he says.
+51041: The book lists the steps needed to attain a level of power termed
+"Graduation":
+ 1. Get identity card and register.
+ 2. Pay tuition.
+ 3. Pass
+English, Chemistry and Physical Education.
+ 4. Get report transcript.
+ 5. Take
+paperwork to Dean.
+ 6. Hope Dean is in good mood.
+51259: Bluto disdains your offer. "I got no use for material possessions" he
+says.
+51371: "The pledge pin is the sign of our secret fraternity. You must prove
+yourself worthy to own one," he says, and he puts a bottle down on the bar.
+"Drink some of this!" he tells you.
+51513: "You've gotta prove you got what it takes," says Bluto, "Drink some rum.
+It's good stuff!"
+51595: "You can do better than that!" says Bluto, "Drink some more!"
+51662: "That's the spirit," says Bluto. "You can take the pin."
+51739: Bluto stops you.
+51776: The bottle is closed.
+51793: You can smell the powerful odour of ethanol. Or is it ethyl alcohol? You
+were never very good at chemistry.
+51958: You drain the bottle. You are completely drunk. The room spins
+chaotically around you and you pass out.
+
+You awaken some time later with a
+splitting headache...
+52090: You take a sip. The dark liquid burns its way down your throat and into
+your stomach.
+52160: You take a gulp and hiccough violently. This is good stuff!
+52212: You take a gulp. You are feeling light-headed.
+52256: You take a gulp. You are feeling very light-headed.
+52324: Bluto says, "Here, you might need this," and pushes a grubby-looking
+sheet of paper at you.
+52408: Taken. Bluto says, "That's powerful stuff!"
+52516: You can't go that way.
+52584: It is pitch dark, and you can't see a thing.
+52616: As good-looking as ever.
+52648: You are in a clearing in the forest outside the College. The entrance to
+the College is a great dark gateway to the south, inscribed above with the
+words, "Abandon hope all ye who enter here." The forest surrounds you on all
+other sides.
+52816: You are in a large hallway at the entrance to the College. To the north
+an exit leads out to a forest, to the south there is a large hall buzzing with
+noise, to the west is the refectory and to the east stairs lead up and down.
+52972: This vast hall is buzzing with students going this way and that. The
+single entrance is to the north, and at a desk near this entrance a
+receptionist sits behind a large pile of forms. At another desk a bored
+secretary chews on a pen.
+53136: The only way out is to the north.
+53160: The receptionist is a young man, probably a student himself.
+53208: The secretary is obviously bored with her dull job.
+53248: The form asks for personal details.
+53276: As to its form, the identity card is plastic and credit-card shaped. As
+to its function, you are less sure.
+53356: You are in what seems to be a refectory: a dark, forbidding room. Evil
+smells drift ominously on the air. A dark corridor leads south and a lighter
+corridor runs east towards the entrance hall.
+53492: The ham sandwich is rather stale.
+53516: You are in a long dark north-south corridor south of the refectory.
+Noxious fumes assault you from the south, and there is a relentless thudding
+noise coming from the west.
+53636: You are in a vast, echoing sports hall. The sports instructor, a young
+woman in shorts and trainers, is jogging around the room. The only exit is to
+the east.
+53748: The only way out is to the east.
+53772: The instructor is a young man in shorts, trainers and a t-shirt bearing
+the logo, "For your heart's sake - Run!" He is following this instruction.
+53884: This busy chemistry lab is set out for an exam. The invigilator is
+hurrying about, urging students to sit down and be quiet. Noxious fumes and
+vapours lurk in the air.
+54000: The only way out is back north, the way you came.
+54036: The invigilator is glancing nervously at her watch.
+54076: On the cover you can see, "Chemistry, Paper 1".
+54120: You are in the stairwell on the ground floor. Stairs lead upwards and
+downwards into darkness, and there is a corridor to the west.
+54212: You are at a landing on the first floor. Stairs lead upwards and
+downwards into darkness, and there is a corridor to the west.
+54300: You are in a long dark north-south corridor. There are stairs to the
+east and offices to the north and west.
+54376: You are in a cramped and badly-furnished psychology laboratory. A
+strange old man in a white coat peers at you curiously through white-rimmed
+glasses. To the south a door leads out to a dark corridor.
+54516: The only way out is to the south.
+54540: The psychologist is an old man wearing a white coat. He peers at you
+through thick spectacles with professional curiosity.
+54628: The cover reads, "A Psychological Analysis".
+54664: The inkblot shapes on the paper suggest nothing to you.
+54704: This room is the bursar's office. The bursar sits behind his desk, doing
+his best to ignore you. You can leave to the east.
+54792: The only way out is to the east.
+54860: The tuition receipt indicates that the bearer has paid his or her
+tuition fees.
+54916: The transcript receipt indicates that the bearer has paid for his or her
+report transcript.
+54980: You are at the south end of a long dark north-south corridor. There's a
+classroom to the west and an office to the east.
+55064: This smoke-filled English classroom is laid out for an examination. The
+source of the smoke is soon revealed to be the English professor who lights up
+another cigarette as you watch. The corridor is to the east.
+55212: The only way out is to the east.
+55236: The english professor is permanently surrounded by the greyish cloud
+that results from her chain-smoking.
+55312: On the cover you can see, "English Language and Literature, Paper 1".
+55372: The records office is overflowing with a paperwork. The secretary,
+looking extremely hassled, is rushing around attempting to clean up the mess.
+There is a door to the west.
+55496: This office has only one exit; to the east.
+55528: This young man is busily engaged in the hopeless task of tidying the
+records office.
+55592: The report transcript indicates that the bearer has achieved a
+sufficient academic standard to graduate.
+55664: You are at a landing on the second floor. Stairs lead downwards into
+darkness and there is a corridor to the west.
+55744: You are in a long dark north-south corridor. There are stairs to the
+east and offices to the north and west.
+55820: You are in a financial aid office, redolent with the smell of money.
+Perhaps the financial aid officer can tell you if any of it's for you? There is
+a door to the south.
+55940: The door leads south.
+55960: The form asks for personal details.
+55992: This room is the lair of the College Dean, and it is hard to prevent a
+tremble entering your knees as you catch sight of that feared creature. The
+only escape from this room is to the east.
+56124: The only escape is to the east.
+56148: The dean is a tall evil-looking man, dressed impeccably, arrogantly
+even. Smoke curls upwards from his nostrils, as his small black eyes glare at
+you with disgust.
+56268: The certificate explains that the bearer has achieved the state of power
+known as "graduation".
+56336: You are at the bottom of the stairs, which stretch upwards into
+darkness. There are dark tunnels leading north and south, and a rubbish bin
+lurks near the west wall.
+56452: It is full of incomprehensible pseudo-scientific jargon.
+56492: You are in the office of the College Student's Union. A happening place.
+A tunnel leads south.
+56564: The only way out is a dark tunnel to the south.
+56604: The book is called, "A Guide to Higher Education".
+56644: This dark and dingy closet of a bar is closed, of course. A tunnel leads
+north.
+56700: The only exit is that dark tunnel to the north.
+56816: It's a small metal badge, bearing the Greek letters Gamma Upsilon
+Epsion.
+56952: The sheet of paper is a cheat sheet on which all the answers to the
+chemistry exam have been printed!
+

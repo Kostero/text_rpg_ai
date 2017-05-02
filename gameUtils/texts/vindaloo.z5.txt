@@ -1,0 +1,362 @@
+10674: Score:
+10688: Moves:
+10728: Time:
+11429: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+11504: You can hardly repeat that.
+11834: You can't begin with a comma.
+11897: You seem to want to talk to someone, but I can't see whom.
+11988: To talk to someone, try "someone, hello" or some such.
+13862: I didn't understand that sentence.
+13972: I didn't understand that number.
+14004: You can't see any such thing.
+14037: You seem to have said too little!
+14069: You aren't holding that!
+14098: You can't use multiple objects with that verb.
+14138: You can only use multiple objects once on a line.
+14217: You excepted something not included anyway!
+14255: You can only do that to something animate.
+14293: That's not a verb I recognise.
+14323: That's not something you need to refer to in the course of this game.
+14379: You can't see "
+14424: I didn't understand the way that finished.
+14545: There are none at all available!
+17476: Sorry, you can only have one item here.  Which one exactly?
+26554: At the moment, "it"
+26626: and "me" means
+26653: exn** Player objects must have "number" prop **
+32057: M.
+36928: Nothing to do!
+36944: . You have died
+37222: Please give one of the answers above.
+37282: I beg your pardon?
+37300: dxn[You can't "undo" what hasn't been done!]
+37342: ehn[Can't "undo" twice in succession. Sorry!]
+37416: Sorry, that can't be corrected.
+37446: Think nothing of it.
+37468: "Oops" can only correct a single word.
+37539: Please answer yes or no.
+37559: Are you sure you want to quit?
+37593: Are you sure you want to restart?
+37619: Failed.
+37636: Restore failed.
+37649: Ok.
+37664: Save failed.
+37675: Ok.
+37690: The game file has verified as intact.
+37717: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+37892: Transcripting is already off.
+37915: End of transcript.
+37937: Score notification on.
+37959: Score notification off.
+37983: You have visited:
+38030: None.
+38255: You are carrying nothing.
+38298: Taken.
+38310: You are always self-possessed.
+38430: You already have that.
+38518: That isn't available.
+38561: That's hardly portable.
+38585: That's fixed in place.
+38609: You're carrying too many things already.
+38685: Already on the floor.
+38707: You haven't got that.
+38750: Dropped.
+38795: But it isn't there now.
+38814: Removed.
+38895: You can't put something on top of itself.
+38973: You lack the dexterity.
+39053: Done.
+39095: You need to be holding it before you can put it into something else.
+39175: Alas, it is closed.
+39197: You'll need to take it off first.
+39227: You can't put something inside itself.
+39317: Done.
+39359: That isn't in your possession.
+39382: First pick that up.
+39676: That's not something you can enter.
+39744: You can only get into something on the floor.
+39858: But you aren't in anything at the moment.
+39967: You'll have to say which compass direction to go in.
+40068: You can't go that way.
+40227: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+40329: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+40417: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+40834: But it's dark.
+40847: You find nothing of interest.
+40880: But it's dark.
+40970: You find nothing of interest.
+40998: You can't see inside, since it is closed.
+41097: That doesn't seem to be something you can unlock.
+41139: It's unlocked at the moment.
+41167: That doesn't seem to fit the lock.
+41221: That doesn't seem to be something you can lock.
+41287: First you'll have to close it.
+41315: That doesn't seem to fit the lock.
+41369: That's not something you can switch.
+41401: That's already on.
+41445: That's not something you can switch.
+41477: That's already off.
+41523: That's not something you can open.
+41555: It seems to be locked.
+41577: It's already open.
+41685: That's not something you can close.
+41717: It's already closed.
+41761: You're not wearing that.
+41809: You can't wear that!
+41831: You're not holding that!
+41855: You're already wearing that!
+41905: That's plainly inedible.
+41938: Not bad.
+41954: That was a rhetorical question.
+41982: This dangerous act would achieve little.
+42016: Nothing practical results from your prayer.
+42052: The dreadful truth is, this is not a dream.
+42140: What a good idea.
+42160: You smell nothing unexpected.
+42214: You taste nothing unexpected.
+42294: You feel nothing unexpected.
+42320: Digging would achieve nothing here.
+42352: Cutting that up would achieve little.
+42384: You jump on the spot, fruitlessly.
+42418: You would achieve nothing by this.
+42448: There's nothing suitable to drink here.
+42482: But there's no water here to carry.
+42514: Oh, don't apologise.
+42536: Real adventurers do not use such language.
+42572: Quite.
+42584: Violence isn't the answer to this one.
+42618: There's not enough water to swim in.
+42650: There's nothing sensible to swing here.
+42684: You can't usefully blow that.
+42762: No, you can't set that to anything.
+42825: But you aren't holding that.
+42890: It is fixed in place.
+42912: You are unable to.
+42932: That would be less than courteous.
+42957: Nothing obvious happens.
+42986: Is that the best you can think of?
+43016: That's not a direction.
+43035: Not that way you can't.
+43085: You achieve nothing by this.
+43116: Futile.
+43123: You lack the nerve when it comes to the crucial moment.
+43172: You talk to yourself a while.
+43195: This provokes no reaction.
+43223: There is no reply.
+43243: Nothing is on sale.
+43289: I don't think much is to be achieved by that.
+43327: Time passes.
+43343: You aren't feeling especially drowsy.
+43760: You dig deep into all the rubbish and discover a hat which someone has
+just tossed aside. It looks fairly new.
+43864: As you pull aside the weeds you discover an onion growing in amongst
+them. You had forgotten you had planted it, but it will come in handy.
+43971: Your trusty stove which you have used to make numorous curries is on and
+ready to cook. You can see a flame coming from the ring.
+44062: Ahh yes many curries have been made at this stove, you look forward to
+using your trusty stove again for this next one.
+44156: The stove is already on.
+44221: You turn on the stove and your meal begins cooking. Soon you are
+enjoying your long awaited vindaloo.
+44292: You don't have all the ingeredients in the pan, so you decide against
+it.
+44402: The stove is already off.
+44427: You turn off the stove, and the flames die down.
+44476: The drawer is jammed shut and it won't budge no matter how hard you try.
+44560: You just manage to force the drawer open with the crowbar.
+44601: It's already open.
+44632: The tap is already on.
+44657: Water pours copiously from the tap into the sink.
+44703: The tap is already off.
+44728: You turn off the tap, and the water runs down the plughole.
+44792: You push all your clothes aside looking for anything interesting, and
+you see your favourite scarf in the corner of the closet.
+44904: You thoroughly search the bed, knowing how easily things can be lost in
+there. Ah ha what's this? You find an old pound coin.
+45022: You find a key on the hall table.
+45060: The door is locked, so if you don't have a key then this is the end of
+the road for you.
+45225: Raj says: If you want something you'll have to buy it.
+45272: Raj says: Please don't throw your things down on my floor.
+45398: You think twice and decide not to.
+45423: You have no money.
+45470: Raj says: I have many fine spices for sale. I am sure they are just what
+you are looking for.
+45555: Raj says: Everything for a pound today sir.
+45588: Raj says: Sorry, I don't know anything about that.
+45646: Raj says: Hello to you sir.
+45678: Raj says: Goodbye. Come again soon.
+45707: Raj says: If you need help on anything just ask me about it.
+45772: You kick bricks and bits of pipes out of the way and discover a steel
+crowbar.
+45928: Bill says: Sorry mate, I gave you my last ones.
+46027: You thinck twice and decide not to.
+46054: You have no money.
+46088: Bill says: This stuff isn't free ya know. If you want it, you pay for
+it.
+46210: Bill says: Some hooligan has stolen my new hat.
+46245: Bill says: Ah, it is good to have my new hat back.
+46303: Bill says: It's just not the same as my hat. Thanks anyway.
+46379: Bill says: Ah, thanks you found my hat. Here have my last tomatoes as a
+reward.
+46448: Bill says: Ah, thanks you found my hat. Here have some apples as a
+reward.
+46535: As you dig the soft earth with your trust spade a big fat worm emerges
+and wiggles at you.
+46607: You see a finely chopped onion.
+46630: A medium sized white onion.
+46684: It is already chopped up.
+46710: You have nothing to chop it with.
+46740: You'd rather try that in a more convienient location.
+46786: You chop the onion finely.
+46815: It is a chopped and plucked, dead chicken.
+46851: It is a plucked, dead chicken.
+46879: It is a dead chicken.
+46896: The chicken is running hapily around.
+46984: You chase the chicken around but can't catch it.
+47056: This isn't the place for killing chickens.
+47097: You grab the chicken's head and twist it off. The chicken is now dead.
+47159: The chicken is already chopped up.
+47191: You have nohing with which to chop the chicken.
+47231: You don't think this is a good place to try that.
+47280: You chop the chicken into cubes and throw away the bones.
+47326: You can't cut up the chicken with it's feathers on.
+47365: You chase wildy around around after the chicken, waving your knife
+furiously, but there is no way you'll catch this chicken.
+47459: Cluck! Cluck!
+47494: The chicken pecks the worm to pieces, and is happy. It seems to be
+following you now.
+47565: The worm wriggles around in your mouth as you chew on it. As you swallow
+the mushed up worm you begin to feel a little queezy. A passer-by looks at you
+very strangely.
+47691: You see some chopped tomatoes.
+47714: They are juicy tomatoes.
+47796: You have nothing to chop them with.
+47828: You'd rather try that in a more convienient location.
+47874: You chop the tomatoes finely.
+47922: You put the chopped onion into the frying pan.
+47968: You put the chopped tomatoes into the frying pan.
+48016: You put the chopped chicken into the frying pan.
+48063: You put the spices into the frying pan.
+48092: You don't need to be putting that in there.
+48172: You place the frying pan down on the flames and soon your meal is
+cooked. Ahh nothing like a good vindaloo.
+48247: You don't have all the ingeredients in the pan, so you decide against
+it.
+48313: Hooooo! Hooooo! The spices were very hot. You wish you hadn't eaten them
+now.
+48379: Ahhh, the water is cool and refreshing.
+48451: In your futile atempt to take the flames you only succeed in burning
+your fingers.
+48518: The chicken follows you.
+48605: As you awake in your bed you decide today you feel like making your
+famous vindaloo curry. You are looking forward to it already.
+48939: Obvious exits:
+49138: It is pitch dark, and you can't see a thing.
+49188: The chicken has already been plucked and chopped.
+49228: The chicken has already been plucked.
+49260: This isn't really the place for plucking chickens.
+49309: You pluck the chicken.
+49331: You attempt to pull out the bird's feathers but it just pecks you and
+struggles free.
+49392: You can't pluck that.
+49492: You can't go that way.
+49568: It is pitch dark, and you can't see a thing.
+49600: As good-looking as ever.
+49644: You are in dirty alley. There is a big pile of rubbish stopping you from
+going any further north.
+49712: You scramble half way up the pile of rubbish but that's as far as you
+get.
+49764: The rubbish is mounted so high that there is no way you can get past it.
+49816: The dim alley extends north from your back garden, which you can see to
+the west.
+49872: The back garden doesn't look as neat and tidy as it probably should.
+You'll get around to tidying it up one day. The whole place is overgrown with
+weeds. At the end of the garden is the entrance to the alley behind your house.
+50032: Your whole garden is overgrown with weeds.
+50068: This is your little bathroom. It contains all the usual things.
+50116: Ah, the bathroom. You'd better remember this place. You could be needing
+to find it very quickly after this vindaloo.
+50200: This is the kitchen. It is fairly messy as is the rest of the house. To
+the north you can see the back door, leading into the garden. In the corner or
+the room is your stove. Over by the sink is a drawer. In the centre of the room
+is a large square table. On the wall above the drawer is a reasonably sized
+cupboard. Over near the back door is the sink.
+50448: This drawer contains all the odds and ends you feel you need in the
+kitchen.
+50500: It is a big square table, perfect for preparing food.
+50540: Your cupboard for pots and pans.
+50564: Just an average sink with a tap.
+50588: A tap for getting water from, nothing unusual here.
+50624: The door leading between the kitchen and the garden.
+50660: The closet which contains all your clothes and things.
+50700: Your whole collection of clothes. You don't seem to have thrown anything
+out for a long time. There are all kinds of interesting articles of clothing.
+50808: You are in your bedroom. There is a bed here and a bedside table. Your
+closet is in the west wall. North is the bathroom.
+50896: It is your soft comfortable bed.
+50920: Your bedside table is a cheap DIY job from a local shop. Every time you
+put something on it you think it will collapse, but as yet it hasn't.
+51020: You are at the centre of your house. The front door is south of here.
+There are other rooms in most directions.
+51100: This is the hall table. There is stuff on it.
+51136: It is the front door to your house.
+51164: In your garage there are many tools and bits of old junk lying around,
+nothing out of the ordinary and nothing particularly interesting.
+51260: You are standing at the front of your house, which is to the north. A
+road stretches out infront of you. To the west is your garage.
+51356: This is a small Indian shop filled with shelves holding many exotic
+products.
+51412: The shelves are packed with all kinds of Indian food stuffs. You
+shouldn't have any trouble finding what you are looking for here.
+51508: Raj is your good neighbour and local shop keeper.
+51544: Bricks and junk and the like are piled everywhere.
+51580: There could be anything in amongst this lot.
+51612: Here the road bends from east to south.
+51640: The road heads east or west depending on which way you are going.
+51688: You are on the road outside your house. It stretches from east to west.
+51740: Another bit of east west road.
+51764: To the north you can see a small shop. East is what looks like
+roadworks.
+51816: There are a lot of road works here. You won't be able to go any further
+in this direction.
+51880: It is good ol' Bill and his fruit and veg stall, he is here all weather.
+He sells the best wares around.
+51956: On the stall there are all manner of fresh fruit and vegetables.
+Everyone comes to Bill.
+52020: You see good ol' Bill. He is here whatever the weather to sell the
+finest fruit and veg in these parts
+52092: You are in the lovely green park. Quiet birdsong is all that is to be
+heard.
+52148: This park is a favourite place of yours. You often come here to just
+relax and watch the world go by.
+52220: The park is lush and green, excellent soil.
+52252: It is your front door key.
+52272: A big fat juicy earth worm. It is wiggling around.
+52308: A good solid looking spade, good for digging.
+52340: A garden spade rests against the garage wall.
+52372: A tartan cloth cap.
+52388: It is a new red football. Some unfortunate child must have lost it.
+52436: It is you favourite old blue woolen scarf. It's seen you through eleven
+cold winters has this scarf.
+52508: A scarf is bundled up in the corner of the closet.
+52544: It is a heavy bar of steal bent at one end. You think you could really
+do some dammage with this.
+52612: Looking at how sharp this knife is, you had better count your fingers
+after using it.
+52672: It is an ordinary large frying pan.
+52700: It is an old pound coin dated 1987.
+52728: They are all the spices you need for making a vindaloo already premixed
+by Raj himself.
+52792: It is a traffic cone.
+52808: A traffic cone is sitting in the middle of the road.
+52844: Some of Bill's finest apples.
+52872: The water is cool and wet.
+52892: The flames flicker and dance as the are emitted from the stove.
+

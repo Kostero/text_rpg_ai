@@ -1,0 +1,1805 @@
+43449: Nothing to do!
+43484: o. You have won
+43566: It is now pitch dark in here!
+43593: I beg your pardon?
+43657: Sorry, that can't be corrected.
+43686: Think nothing of it.
+43739: As good-looking as ever.
+43771: You can hardly repeat that.
+43796: You can't begin with a comma.
+43910: I didn't understand that number.
+43939: You can't see any such thing.
+43975: You aren't holding that!
+44017: I'm not sure what "
+44069: That's not a verb I recognise.
+44108: You can't see "
+44216: Nothing to do!
+44233: There are none at all available!
+45143: Please answer yes or no.
+45169: Are you sure you want to quit?
+45214: Failed.
+45234: Restore failed.
+45251: Ok.
+45269: Save failed.
+45284: Ok.
+45328: Transcripting is already on.
+45394: Transcripting is already off.
+45452: Score notification on.
+45473: Score notification off.
+45496: You have visited:
+45524: Objects you have handled:
+45549: None.
+45933: You are carrying nothing.
+45982: Taken.
+45993: You are always self-possessed.
+46526: Dropped.
+46634: Removed.
+46773: You lack the dexterity.
+46854: Done.
+47120: Done.
+47340: Wrahn seem interested.
+47979: You can't go that way.
+48539: But it's dark.
+48556: You find nothing of interest.
+48592: But it's dark.
+48683: You find nothing of interest.
+49811: . Not bad.
+49829: That was a rhetorical question.
+49883: That seems unnecessary.
+49906: Keep your mind on the game.
+49931: What a good idea.
+49950: You smell nothing unexpected.
+49977: You hear nothing unexpected.
+50002: You taste nothing unexpected.
+50037: Keep your hands to yourself!
+50062: You feel nothing unexpected.
+50087: If you think that'll help.
+50196: Oh, don't apologise.
+50226: Quite.
+50295: You achieve nothing by this.
+50383: You wave, feeling foolish.
+50533: You are unable to.
+50552: Nothing obvious happens.
+50602: That's not a direction.
+50625: Not that way you can't.
+50657: Keep your hands to yourself.
+50682: You achieve nothing by this.
+50715: Futile.
+50744: You talk to yourself a while.
+50771: This provokes no reaction.
+50799: There is no reply.
+50818: Nothing is on sale.
+50837: Your singing is abominable.
+50871: Time passes.
+75413: It is empty.
+75662: There is nothing in there.
+75827: There is no effect.
+76358: The Emperor is not amused.
+77081: Control your hormones.
+77401: An ordinary, smooth white door.
+77502: Yep. Running water.
+77924: It feels fishy.
+77950: Is this a Freudian thing?
+78131: It's a wooden board.
+78305: It's stuck.
+78387: That doesn't fit in the box.
+78453: That does not work.
+78637: That's no way to make coffee.
+78766: That doesn't fit in the grinder.
+78798: You can't get a grip.
+78834: The drain is clogged.
+78851: The drain is unclogged.
+79348: I know her,' he says.
+79686: Marchus gives you a foul look.
+79809: You pull the lever.
+80089: You hit the jackpot!
+80262: Goodbye! Please come again!
+80313: You'd have to buy it to take it.
+80890: Yeah. That would be useful. Not.
+81064: The doorbell is ringing.
+81714: It's broken. You can't. Move on.
+81758: You dig through the files.
+81822: It's too dry to drink.
+81905: It's empty.
+81923: You don't see that there.
+82007: It is empty now.
+82037: That isn't a liquid.
+82348: Yeah. Right.
+82465: That's fixed in place.
+82573: Why buy something twice?
+82692: That's 'armless.
+82734: Don't hold back on my account.
+83918: I know how you feel.
+83949: I was sure I got that one out...
+83989: Oh dear...
+84002: Ah, yes! But how?
+84264: Ape.
+84285: Human.
+84306: Space Traveller.
+84337: Space Detective.
+84362: Space Time Detective.
+84426: You smile.
+84966: AAAAAhhhhhhhrrrrgggggg!!!
+85007: You dance. Happy now?
+85036: There's no point in that.
+85126: There is nothing ringable here.
+85690: EXAMINE enabled for rooms.
+85724: EXAMINE disabled for rooms.
+88240: in" or "notin
+88256: opmhas" or "hasnt
+88398: }" at end of "objectloop
+89660: Written by Harry Hol
+
+(c) 2000 - 2002 Bibberfrob Productions
+You may
+type 'about' for extra information.
+89752: There is no need to refer to that in the course of the game.
+89952: Score:
+89960: Moves:
+89968: Time:
+89976: You can't go that way.
+90308: Please give one of the answers above.
+90336: [You can't "undo" what hasn't been done!]
+90372: [Can't "undo" twice in succession. Sorry!]
+90412: "Oops" can only correct a single word.
+90440: It is pitch dark, and you can't see a thing.
+90472: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+90532: You seem to want to talk to someone, but I can't see whom.
+90576: To talk to someone, try "someone, hello" or some such.
+90616: I didn't understand that sentence.
+90676: You seem to have said too little!
+90700: You can't use multiple objects with that verb.
+90736: You can only use multiple objects once on a line.
+90772: You excepted something not included anyway!
+90804: You can only do that to something animate.
+90836: That's not something you need to refer to in the course of this game.
+90884: I didn't understand the way that finished.
+90916: Sorry, you can only have one item here. Which exactly?
+91068: Are you sure you want to restart?
+91092: The game file has verified as intact.
+91120: The game file did not verify as intact, and may be corrupt.
+91164: Attempt to begin transcript failed.
+91192: Attempt to end transcript failed.
+91216: You're carrying too many things already.
+91248: You can't put something on top of itself.
+91280: You can't put something inside itself.
+91308: That would scarcely empty anything.
+91364: You can only get into something free-standing.
+91400: But you aren't in anything at the moment.
+91432: You'll have to say which compass direction to go in.
+91472: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+91568: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+91652: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+91828: This dangerous act would achieve little.
+91856: Nothing practical results from your prayer.
+91888: The dreadful truth is, this is not a dream.
+91920: Digging would achieve nothing here.
+91948: You jump on the spot, fruitlessly.
+91976: You would achieve nothing by this.
+92000: There's nothing suitable to drink here.
+92028: But there's no water here to carry.
+92056: Real adventurers do not use such language.
+92088: Violence isn't the answer to this one.
+92116: There's not enough water to swim in.
+92144: There's nothing sensible to swing here.
+92172: That would be less than courteous.
+92196: Is that the best you can think of?
+92220: You lack the nerve when it comes to the crucial moment.
+92260: I don't think much is to be achieved by that.
+92292: You aren't feeling especially drowsy.
+92410: How Interactive Fiction works
+
+If you've never played a game like this,
+you are in for something special. Interactive Fiction, or 'text adventures'
+allow you, the player, to explore strange and exciting worlds. The computer
+will describe to you what you can see and it is up to you to respond to the
+situations presented.
+
+For example:
+
+Garden.
+You stand in a well kept garden.
+Beautiful flowers are blooming all around you. You can see the front door to
+your house to the north.
+
+You see a key here.
+> OPEN DOOR <------- You type
+this
+The door is locked. <--------- The computer responds
+
+> TAKE
+KEY
+Taken.
+
+>UNLOCK THE DOOR WITH THE KEY
+You unlocked the door. (ETC. ETC...)
+92954: Tips for playing the game
+
+1. First of all: EXAMINE everything you come
+across. This way you can learn more about the world you are exploring and
+perhaps find valuable hints to solve the many puzzles you will come across.
+
+2.
+If you can't reach a certain location, or take a certain object, don't give up
+trying. There might be a way to solve the problem if you look around carefully
+and use your creativity. Also: if you really can't find a solution: focus on
+another problem. Maybe solving this will allow you to solve something
+else...
+
+3. Make a map. You move through the world with the directions of the
+compass (UP, DOWN, NORTH, NORTHEAST, EAST, etc.) and after a while it is easy
+to get lost.
+93476: Some handy commands
+
+TAKE, DROP, EXAMINE, INVENTORY, PUSH, PULL, INSERT,
+REMOVE, JUMP, EAT, DRINK
+
+But there are others...
+93610: I tried to keep the interface as 'standard' as possible but there are
+some things to consider: 
+
+READ cannot be used to consult things. So READ ABOUT
+XYZZY IN MAGIC BOOK will not work. READ LETTER, however, will work as expected
+since it is the same as EXAMINE LETTER. If you want to consult something, use
+CONSULT MAGIC BOOK ON XYZZY for the desired result. 
+
+There is an EXITS
+command. Some people dislike that, others love it. The game can be finished
+without ever using it, so don't think you HAVE to use it.
+94574: T.
+
+Dutch travels to a space station, an intergalactic zoo (where he is
+caught and put on display), an alien world and back to the headquarters of
+Quarbonkers for a dramatic confrontation that ends with a chase through long,
+white corridors that seem to go on forever. Dutch manages to escape, but he
+still hasn't found the missing person.
+94812: Space Time Detective Dutch Dapper has made quite a name for himself in
+the years after his escape from Quarbonkers. From all over the galaxy,
+creatures call on him to solve murders, find out who is cheating on their six
+wives and to find missing pet Kroppie Kroppies (six feet tall monsters that are
+both completely unsuitable as pets and completely terrified of feathers).
+
+
+Things start to get quite weird, though, when someone leaves a small parcel in
+front of his front door in the middle of the night, which contains one of the
+rarest objects in existence: the egg of a Bibberfrob. This creature was
+supposed to be extinct for millions of years and it is up to Dutch to protect
+this priceless baby and find out why someone is willing to blow up the Earth to
+acquire it.
+
+This time, his travels lead Dutch to the purple jungle of Erdea
+where he manages to stop a Zxarg from destroying an entire world, after which
+he meets the time traveller Joria Mirin, who he saves from being killed by
+Mirin's younger self.
+
+The strange trail of cause and effect finally takes
+Dutch to the centre of Groga IX, a hollow world inhabited by the Splurge, a
+hive mind that was responsible for the annihilation of the Bibberfrobs. In a
+climactic battle, which includes a chase through long white corridors, which
+seem to go on forever, Dutch managed to destroy the Splurge. The Bibberfrobs
+were allowed to prosper once again.
+95796: Dutch Dapper receives a distress call from the race of cute yet
+intelligent Swoobies. These creatures are being threatened by none other then
+Emperor Jacklejitt III, the ruthless dictator who wants to use his Psychotronic
+Strank Inversor to enslave them. Dutch travels to the Swoobie homeworld,
+Swoobster, where he is too late to save the Swoobie princess. 
+
+Dutch wants
+revenge and locates Jacklejitt's home base. To get there, however, he has to go
+to Starmus 7, the only place from which he can open a wormhole to infiltrate
+the base. There, he is caught in the middle of a barbarous ritual, in which the
+native Harbara-Bara try to sacrifice the female warrior Aya to a wild Kroppie
+Kroppie. 
+
+Dutch manages to save her and together they gain entrance to a small
+outpost. Here they cooperate to reprogram a broken doorstop to vanquish the
+evil JanitorBot. This allows them to finally transport to Jacklejitts control
+centre. Dutch decides it is too dangerous to take Aya with him, so he enters
+Jacklejitts throne room alone, his mind set on revenge.
+96540: Why don't you play it and find out?
+96986: adventure. Just like James Bond and Indiana Jones usually open with the
+end of a previous (untold) adventure. So the prologue of Dutch Dapper IV is
+actually the ending of Dutch Dapper III. The actual DDIII game was never
+written.
+97428: Didn't you just rip off Douglas Adams with this game?
+
+Short answer:
+maybe.
+
+Long answer: I am a big fan of Douglas Adams and I have included some
+references in the game that are straight from Hitchhikers Guide to the Galaxy.
+But the story, characters and style are my own. I do want to dedicate this game
+to the memory of Douglas Adams, as his books had a big influence on me.
+98730: Aya's Quest
+
+A lot of the events in this game do not seem to make sense.
+Especially the ending. But they do... Honestly!
+
+If you want to find out why
+Aya did not contact Dutch directly...
+If you want to know why Dutch had to
+travel to Jor...
+If you hated to pass through weathersight without exploring
+it...
+If you really, really want another game in the Dutch Dapper
+Universe...
+
+Then you might want to wait for AYA'S QUEST, which will be
+released in 2014 if all goes according to schedule (and enough people want me
+to write it).
+99136: You can't without a container to hold it in.
+99168: It is a square coin with the face of prince Billiam van Purple on one
+side.
+99236: A clear liquid.
+99256: You can't without something to hold it in.
+99288: The bright light is almost too strong to look at. Actually it is a small
+wormhole but you were never one to be bothered with technical details.
+99388: A bright rectangle of light hovers just a few inches above the ground.
+It's almost like a door, but it also doesn't seem to belong here.
+99484: Gleaming lights cover the walls. Several big screens are active. Some
+show the surface of strange, unknown worlds. Some display nothing more than
+stars. A big chair in the middle of the room looks like a throne and anyone
+sitting here must look very powerful indeed. It is clear that this is the heart
+of the evil empire. This is the centre of war and destruction. This is the
+office of Emperor Jacklejitt III.
+99776: Yep, Scenic compiled.
+99796: They're flashing as if they are very important. You don't know what they
+actually do, but you can assume they have some evil purpose.
+99892: You have to arm the explosives before you can leave.
+99928: You can only go west.
+99944: It is very sharp and dangerous.
+99968: The throne is padded with comfortable artificial leather that
+automatically moulds itself to the behind of whomever is sitting in it. These
+types of sitting devices are the most comfortable in the galaxy. Oh, and this
+one has a vibration module! Hmmm.
+100144: Yes, it would be an interesting experience, and yes, it would be great
+to be able to brag: 'I was so cool! I sat on his throne in the face of certain
+death and torture!' But why don't you take this opportunity to, well, I don't
+know, ARM THE EXPLOSIVES??!!
+100340: Damn it, man, you really have to show off, don't you? Sitting down
+while there is a big pile of EXPLOSIVES about to go off?
+
+
+   *** YOU HAVE DIED
+***
+
+
+Well, no you haven't, but this should motivate you to get going now,
+right?
+I hope I made myself clear.
+100556: The explosives have been well hidden, so no one but you would be able
+to locate them. They are not armed yet.
+100632: They have been armed and the countdown has begun... Better get out of
+here...
+100692: You just planted them! Leave them alone.
+100724: Some explosives have been placed in the room.
+100756: It's a small black box with one button. It will arm the explosives and
+start the countdown.
+100820: You are about to press the button.
+100844: You arm the explosives. The countdown has started.
+Jacklejitt looks in
+horror as he realises what is about to happen.
+100928: A handy instrument for fastening or removing screws. You know, a
+screwdriver?
+100984: It is just out of reach, so you can't get it.
+101018: It is hard to keep your balance, but somehow you manage. You take the
+screwdriver.
+101080: On top of the high cabinet, you see a screwdriver. It is just out of
+reach.
+101136: An integrated circuit, part of a larger machine and probably
+responsible for an important maintenance task.
+101212: A beautiful feather from a Frammon Bird. They're very rare!
+101256: The table has several straps that can be used to, well, strap down a
+person. It takes several physical configurations into account, so even the
+weirdest appendages can be securely fastened.
+101388: You might think that would be of help. But it isn't. So move on.
+101464: fixations. And besides, shouldn't you be busy saving some planet or
+other?
+101520: A large torture table stands next to the throne.
+101556: You can't, because you're strapped to the table.
+101592: Some show unknown worlds -- Others just show stars. None of them show
+nudity.
+101648: No nudity! NO nudity I said! Why don't people READ?
+101692: His four eyes are burning with madness. Nothing can truly describe the
+cold hatred he projects with a mere lifting of one of his facial skinflabs. His
+bloated, pulsating skin is almost purple and makes him look very much unlike a
+frog.
+101856: Jacklejitt has been reduced to a blubbering heap on the floor. He looks
+at you with disgust and fear.
+101928: Emperor Jacklejitt III is here.
+101956: You kick Jacklejitt while he is down. Not very heroic, but satisfying
+nonetheless.
+102016: Even though Jacklejitt is lying on the floor, he is still awake and
+gives you an evil look.
+102080: Don't be silly. What's the point in throwing
+102116: The only thing you should give to this bastard is another kick in the
+guts.
+102168: Jacklejitt stares at the remote, knowing very well what it represents.
+102328: Jacklejitt looks at the microchip but doesn't say a word.
+102368: Jacklejitt quivers with fear as he looks at the metallic blade.
+102414: you have been nothing but a nuisance to me... But now I will crush you
+like a bug!
+102562: there in no point in trying to bribe me with rare feathers, Dapper... I
+will kill you AND take your precious treasures! Mwha ha ha ha ha!
+102752: Ah, you like my machines! Good! You have taste... With them I shall
+control THE UNIVERSE!!'
+102834: yes, Dutch, I will use my Psychotronic Strank Inversor... It will be
+glorious! The Swoobies are MINE! Mwha ha ha ha!'
+103024: The Emperor is too shocked to respond to your questions.
+103064: The Emperor has no intention of leaving the room.
+103160: Jacklejitt blocks the way.
+103180: You hear laughing behind you. When you turn around you see the
+disgusting appearance of emperor Jacklejitt III, ruler of the Morgon Empire and
+enslaver of worlds.
+
+His guards overpower you quickly and you are strapped onto
+the torture table.
+
+Jacklejitt now has the remote and playfully tosses it from
+hand to hand.
+'Guards, leave us,' he commands, which they do.
+103442: The emperor bends over you and you smell his horrible breath. He laughs
+maniacally. 'So, I've captured the great Space-Time Detective Dutch Dapper.
+This is almost too easy. Your plan has failed and now you will see my true
+power...' Jacklejitt continues with his Evil Boss speech. You look around
+carefully, hoping to find a way out of these straps.
+103698: Jacklejitt has finished his megalomaniacal speech.
+'And now, young
+Dapper, you will die...'
+The emperor touches a panel and a revolving buzzsaw
+comes down from the ceiling, slowly moving towards you.
+103846: The saw comes closer and closer... You have to move your face to the
+side to avoid that nose-job you never wanted.
+103930: This is bad... It doesn't seem like there is a way out of this! Is this
+the end of Dutch Dapper?
+104008: She is dressed just as she was when you found her on Starmus 7, where
+she was about to be sacrificed to the wild Kroppie Kroppie, a menacing beast
+with a ridiculous fear of feathers. Her shapely body is barely covered by a
+hide two-piece. She has the strength of a warrior and the speed of a Sharavvyfi
+(believe me, that is fast). She owes her life to you and swore to protect you.
+Unfortunately she doesn't believe lack of sex can kill you.
+104320: Aya, the female warrior is here.
+104344: You hear a bang. The straps keep you from seeing everything that
+happens around you. Someone screams. You see Jacklejitt being thrown against
+the wall... The remote falls to the floor. It's Aya! She came anyway! Quickly
+she cuts the straps on the torture table and you are free to stand again!
+104560: e've got to get out of here! Pronto!', you say.
+Aya gives you an
+understanding nod and leaves west.
+104640: ollow me!' you yell to Aya, 'we don't have much time!'
+'I'll follow you
+anywhere, Dutch,' she answers with a soft voice.
+This could be promising. But
+first you have to get out of here.
+104778: Aya is here, ready to follow you.
+104808: Aya is standing here, looking rather startled.
+104852: ot here!' you say.
+'Hold on, Dutch...' Aya replies. She produces a
+black box from somewhere and taps on it.
+'One second, Dutch... Almost got it!'
+104972: ot it!' Aya says.
+Just in front of the west wall it looks like space
+itself is cut open. A beam of light grows longer, like a zipper opening up. It
+then expands to form a rectangle of light that hovers a couple of inches above
+the floor.
+105236: Oh how you want to... but there are other things to consider now...
+like saving both your lives!
+105308: Are you sure it's not you who is dreaming?
+105340: Come on: kindergarten is over. You don't attract attention from the
+ladies anymore by throwing stuff at them. And don't even THINK of putting
+straws in your nose...
+105608: Aya quickly looks at the chip.
+'Are you still carrying that thing
+around? It's useless now, you know!
+105754: the explosives have already been armed... Let's just get out of here!'
+Aya says.
+105814: Aya looks at the remote.
+'You'd  better arm the explosives,  Dutch...
+Remember the Swoobies!'
+105890: he is a vile megalomaniac who is responsible for the death of the
+Swoobie princess. He must be stopped.'
+105966: let's not dwell on the past... There are more pressing things at hand!'
+106130: oh, come on, Dutch... Let's get this over with first...'
+106324: You already have hold of Aya. Now don't start crumbling under the
+pressure...
+106384: You grab hold of Aya. She looks startled, but there is no time for
+explanations. A great wall of fire is moving towards you...
+106476: You start tickling Aya. She looks at you surprised, but that is it. She
+doesn't appear to be very ticklish.
+106556: The black box has some lights and a display and is used to summon
+wormholes in case of emergency. The trouble is, these wormholes are never
+completely stable...
+106752: The corridor continues through the base. The featureless walls are
+still white and have no doors. You can go south or east.
+106840: It's like these corridors will never end. There must be a way out of
+here. There's just got to be! You can go west or north.
+106932: The corridor ends here. With no other way out of here than back east,
+this could be quite literally a dead end. Who designed this place anyway?
+107032: Go back? Are you crazy??
+107052: You can't go that way.
+107072: The bright light is almost too strong to look at. It is the door that
+leads back to the Space Time Transporter back home. Actually it is a small
+wormhole but you never wanted to be bothered with technical details.
+107220: A white rectangle of light hovers just a few inches above the ground.
+It's almost like a door, but it also doesn't seem to belong here.
+107316: The impossible room that aliens built here eight years ago... The
+strange machine that started your adventures through space and time. This is
+the Space Time Transporter room, which exists in nullspace on the boundaries of
+reality and marketing reports. The logo of the Quarbonkers Corporation is
+prominently placed above the main control panel. Lights flash everywhere and
+every wall is covered with weird buttons and switches.
+107616: It is clear the people of the marketing division of Quarbonkers never
+dealt with human physiology before, or at least don't believe Earth is a big
+market for them. Otherwise they would not have chosen this particular shape as
+their company logo.
+107788: Guess.
+108082: You enter the bright portal. There is a sensation of movement.
+The
+rectangle of light disappears behind you, closing like a zipper.
+108180: You can't go that way.
+108208: was delivered eight years ago in the middle of the night by an alien
+courier service. They threw you out of your own house and refused to let you
+back in until they were finished with installing it. The result was this room,
+which does not really exist in normal space. You never did find out exactly why
+you received this machine or who ordered it for you. After installing it you
+were dragged into the middle of the Case of the Missing Civil Servant, which
+you had to solve to pay your considerable debt to the Quarbonkers Corporation.
+And you have been using it ever since. There must be some operating
+instructions somewhere, but you always forget where you last put them, just
+like the registration card you still have to fill in and send out to
+Quarbonkers.
+108776: Wouldn't it be better to answer the door first?
+108812: From nowhere, a light appears in mid air. It is like the very fabric of
+space is cut open. The light expands into a door of light that leads east.
+108914: You definitely do NOT want to go back there...
+108954: I don't care how lost you say you are, I have never heard of anyone who
+forgot which planet he is on.
+109038: efuses to open a portal to any world that hasn't a suitable atmosphere
+or a decent bar on it. You've been to Mars before. The bar sucks.
+109134: An enormous gas giant with giant rings might look pretty through a
+telescope but suffocating while being crushed by the toxic atmosphere isn't
+something to experience first hand.
+109258: Freezing cold and no atmosphere might be the ideal holiday destination
+for a vegetarian backpack tourist, but you'd rather pass.
+109350: You try to open a portal to Uranus. Some jokes are better left unsaid.
+109404: With a surface temperature equal to the melting-point of lead, it is
+hardly the paradise people thought it to be in the 19th century. But enough
+about India. Venus is too hot, too.
+109534: Did you know, that if you could find a volume of water large enough,
+Jupiter could float in it due to its low density? Did you also know the
+pressure in the centre of Jupiter is high enough to turn carbon to diamonds in
+a matter of minutes? And did you know it is impossible to go to Jupiter in this
+game?
+109748: This scarred, boiling hot, empty world might be the ideal destination
+for Russian probes, but then again, look at what happened to Russia.
+109848: Oh please, Neptune? Come on... Wouldn't you rather go somewhere else? I
+mean, Neptune! You wouldn't be caught dead on Neptune! Well, actually, if you
+did open a portal and go there, you WOULD be caught dead on Neptune.
+110076: An ordinary, smooth white door, except for the fact that it logically
+can't go anywhere since the wall where it was put is the outside wall of the
+house.
+110184: There is a white door to the west, which is open.
+110220: There is a white door to the east, which is open.
+110256: There is a white door to the east, which is closed.
+110292: There is a white door to the west, which is closed.
+110328: The walls are lined with book cases. A filing cabinet stands in a
+corner, next to your desk. Clutter is everywhere. Piles of paper stack almost
+to the ceiling. You meant to reorganise your filing system, but then again you
+pretty much know where everything is. South is the upstairs landing.
+110532: There are books about every imaginable and unimaginable subject here. A
+lot of the volumes are rare. Either because they're out of print, or because
+they were printed on another planet. The information density is so high, it is
+almost tangible.
+110704: Your filing system is based on geology: every layer is an era. So if
+you know approximately when something happened, you need only dig to a certain
+depth to find what you need.
+110828: There are some family portraits here, which you put here in an
+(unsuccessful) attempt to lend a little character to this place. But otherwise
+this is just a landing, with a bathroom to the west, a bedroom to the east and
+your study to the north. Stairs lead down.
+111012: They're very ugly.
+111028: Sink, shower, toilet. This is a bathroom all right. With white tiles
+and everything. And a mirror. Don't forget the mirror. Those things are
+important to mention, as is the exit to the east.
+111168: Like, with running water, man!
+111192: You look at yourself in the mirror. Kind of scary.
+111228: You can't have a bathroom without white tiles. Well, you could, but it
+wouldn't be a very good one, now would it?
+111312: Like, with running water, man!
+111336: You are really obsessed with little details, aren't you?
+111376: A vertical personal hygiene unit.
+111400: Yes, you could use a shower, but this is neither the time nor the
+place. Well, ok, it is the place, and come to think of it, you do smell. But
+let's just forget about it for now... There are so many more interesting things
+to do besides playing with water.
+111584: Erm, you really want me to explain?
+111612: When the time comes that you really need to 'go', I will let you know,
+ok? Now let's just focus on solving the problems at hand.
+111704: You flush. With an impressive and satisfying 'whoosh' the water runs
+through the bowl. Isn't technology marvellous?
+111788: I can understand things might be getting to you, and I sympathise. But
+please, for the love of God, leave the plumbing alone!
+111880: This is a small room, just big enough for a double bed and a
+nightstand. Not much ever happens in here, except for the time a rat ran across
+the room, which was the most excitement you got from this place in recent
+times.
+112032: It dried up quite nicely.
+112052: Rat?? Where? Where???
+112072: It's big enough for two. Well, you can always dream.
+112112: A small nightstand. Nothing special. On it you see an alarm clock.
+112180: 0. You gave up trying to set it years ago, since setting it to the
+correct time seems to cause some sort of Chaos theory, butterfly effect, which
+results in a blackout. Every time you have it fixed the power goes out and you
+don't believe in coincidence any more. But then again, you could just be
+paranoid.
+112396: They go straight up (or down, depending on your point of view), which
+is the whole purpose of structures like these. There are some family portraits
+hanging on the wall. They do nothing to enhance the scenery.
+112544: They're very, very ugly. You are still amazed that a good looking guy
+like yourself can come from such a warped gene pool.
+112632: They go up and down. Impressive, isn't it.
+112664: The entrance hall of your small, but comfortable home. It is always a
+pleasure to come back here, after a harrowing day of saving some planet or
+other. A flight of stairs goes up from here and there are exits to the living
+room (to the west) and the kitchen (to the east).
+112856: They go up.
+112868: An ordinary, wooden front door.
+112892: The front door to the south is open.
+112920: The front door to the north is open.
+112948: The front door to the north is closed.
+112976: The front door to the south is closed.
+113062: V. A picture hangs on the wall above the fireplace. A nice coffee table
+stands next to the couch. Very handy for putting chips and drinks on when you
+are in front of the television. This place says 'home' to you.
+113212: The picture hangs above the fireplace. In it would have been better,
+but it was a gift from your aunt who keeps threatening to visit you 'tomorrow'
+but never does. The picture is a self-portrait of the aforementioned relative.
+113372: There is a fire burning, which gives off no heat whatsoever.
+113416: On closer inspection, the fire place is fake and the flames are a
+projection. A nice gimmick but rather tacky. This was a gift from your aunt,
+who decided her picture would look better above a cosy fire.
+113560: No matter how often the repairman calls it a 'feature', you know there
+is something wrong with the set, since it automatically switches channels when
+it is on.
+113684: on. It starts flipping through the channels at random.
+113734: see a large cow glue a chicken to her head. Is this what passes for
+entertainment these days?
+113800: The screen shows some idiot in a bad suit who tells you there is no
+shame in hair-implants. He obviously hasn't seen a mirror since the Reagan
+administration.
+113912: On the screen you see a blonde with enormous breasts singing completely
+off-key. It's wonderful!
+113980: At first it seems that the screen only displays static, but it turns
+out to be some alternative music channel. Oh, no wait. It is static after all.
+114084: The screen displays some hip, beautiful people dance, sing and make
+love while drinking some soft drink. You bought the drink. You're still single.
+114188: No matter how often the repairman calls it a 'feature', you know there
+is something wrong with the set, since it automatically switches channels when
+it is on.
+114300: It is made of green leather and is very comfortable. You have fallen
+asleep on this couch many times. It is rather worn and has some unattractive
+stains but you couldn't part with it for anything.
+114436: It's just orange juice. Honest!
+114460: It is cluttered with junk, like empty cola cans, candy bar wrappers,
+dirty dishes etc.
+114560: You meant to clean this place up, but you're hardly home and when you
+are you have work to do. That and you really don't care for cleaning up after
+yourself.
+114670: The book case is filled with all kinds of souvenirs. Some from Earth,
+but mostly they are extra-terrestrial. When someone visits and asks you about
+them you usually mumble something about Marrakech and change the subject, since
+most of your friends still really aren't ready to know the truth about your
+job. In fact, telling them about your travels through space and time would
+likely result in you being locked up. That would be a bad thing.
+114984: None of them are of interest to you right now.
+115016: There is a book case against the wall, but there are hardly any books
+in it. Just some souvenirs from your holiday trip to Paris and other
+meaningless junk from far off places that you collected over the years.
+115164: A totally useless object that serves no purpose other than to confuse.
+It served that purpose quite nicely back on Space Station Johnny, where you
+racked your brains for hours figuring out what it was for. You finally gave up
+on it. But you still suspect it might be useful for something...
+115368: What? And possibly destroy an object that could be vital to solve a
+future puzzle? I don't think so!
+115440: You take aim and throw the herring. To your utter surprise, the herring
+not only misses its target but, like a boomerang, it spins round and returns to
+your hand.
+115556: This fish does not sing 'take me to the river'. If you like that sort
+of thing, call your local home shopping channel. I hear they have singing
+lobsters now too. You can't argue about taste, I guess.
+115700: You shake the red herring. That sounds kinda like it means something
+totally different, but I assume you actually meant to move the fish up and down
+quickly. That doesn't sound any better actually. Ok: let's just forget it,
+since it doesn't achieve anything anyway.
+115888: You hit the herring in the head. Do you feel like more of a man now?
+115936: Are you bucking for a guest appearance on Jerry Springer?
+115980: Well, it ain't smelling like roses!
+116008: Do you often stuff herrings when you don't know what to do next?
+116056: It looks like a statue of a snake-like creature but you know better. It
+is actually still alive, very deadly and highly intelligent. You had put this
+Zxarg, as it is called, in suspended animation just before it tried to destroy
+the desert world Erdea, and kept it as a souvenir. There is hardly any chance
+of it regaining consciousness.
+116292: And here it is, straight from the home office on Alpha Centauri: top 5
+things that would NOT be considered a Good Idea:
+
+5. During a tax audit, say to
+the auditor 'Before we start, I want you to know I understand you just have to
+do your job. And I understand you do this with so much dedication because you
+feel frustrated about being unable to satisfy your wife in bed. At least that's
+what she told me last night.'
+4. Go to a feminist's lecture and from the front
+row yell 'Take it off! Take it all off!'
+3. Walk into a bikers' bar and say
+'Who owns the Harley with the cool skull painted on the tank? Actually it could
+be a picture of a bunny-rabbit as well, but it is hard to tell since I just ran
+over it with my car.'
+2. Stand on top of a hill during a thunderstorm while
+screaming: 'The Gods are assholes!'
+1. WAKING UP THE ZXARG.
+116912: After you saved the time traveller Joria Mirrin from an assassination
+attempt (that a younger Joria had planned against himself) he gave you this
+little machine that, according to him, would stay in motion forever. It didn't
+and it is just collecting dust now.
+117096: A glass ball with a miniature Eiffel tower in it. If you shake it, it
+starts to snow. A very valuable memento indeed.
+117180: You shake the ball wildly. Something is happening inside.
+117224: A glass ball with a miniature Eiffel tower in it. The snow in the ball
+is twirling around like a blizzard.
+117300: A glass ball with a miniature Eiffel tower in it. Snow gently falls on
+the miniature landscape.
+117368: A glass ball with a miniature Eiffel tower in it. If you shake it, it
+starts to snow. A very valuable memento indeed.
+117452: There is a high cabinet above and a low cabinet below the kitchen sink.
+A herb rack is fastened to the wall and there is a stove here. The work-top is
+kind of dirty and there is a pile of dishes to be done here. Below the work-top
+are two drawers, one to the left and one to the right.
+117652: You have a simple rule: If it moves, you'll wash it. This pile of
+dishes proves you broke that rule.
+117724: Lots of spices you never use. You're a 'salt and pepper' type of guy.
+117776: The most common spice in the universe.
+117838: dinners. There is no need to mess with it now.
+117872: Spice up your life!
+117886: A handy kitchen cabinet, above the sink. Nothing special.
+117932: A handy kitchen cabinet, below the sink. Nothing special.
+117976: It's the top board from the kitchen cabinet, below the work-top and the
+drawers. It's a bit loose.
+118048: You'd need something strong to use as a lever.
+118084: But you are not carrying the screwdriver!
+118116: You remove the board from the cabinet and put it on the floor. There is
+something stuck between the left drawer and the lower cabinet.
+118208: If you want to remove the board, you had better use a tool to help you.
+118260: The spoon is jammed between the left drawer and the cabinet.
+118304: An ordinary spoon, slightly bent from being stuck in a drawer.
+118348: With some effort, you remove the spoon.
+118376: A kitchen drawer. Nothing out of the ordinary.
+118412: You hit the drawer several times in frustration. You jiggle it, pull
+it, pounce on it, do the hokey cokey and STILL the damn thing won't open. Maybe
+it is time to use your brains in stead of your muscles?
+118560: You hit the drawer. Now doesn't that feel good?
+118596: A kitchen drawer. Nothing out of the ordinary.
+118632: A flat surface suited for the preparation of food. It is kind of dirty.
+118684: You start cleaning the work-top. It doesn't improve much.
+118726: It's a small metal box. It says 'coffee' on it.
+118768: The darn thing won't open. The lid is stuck. You need something thin
+and strong to get it open.
+118836: That is too thick to get between the lid and the box. You'll need
+something thinner.
+118896: Something is rattling around inside the box.
+118928: You shake the box violently. The beans fall out and land on the floor.
+118980: It is a coffee-maker. It can hold a filter and a thermos. It has a
+water reservoir which is automatically filled.
+119060: You see the thing your aunt gave you, of which you know exactly what it
+is.
+119116: The coffee-maker makes coffee and fills the thermos.
+119156: A brown liquid.
+119172: It holds the water for the coffeemaker. It is automatically filled.
+119220: You can put coffee-beans in here which will be ground.
+119264: An electric coffee-grinder is attached to the wall above the work-top.
+119316: You grind the beans and the filter is full of powder now.
+119356: The beans are ground into a fine powder but since there is nothing to
+catch the powder it falls through a small grid and disappears.
+119448: With nothing to grind, the machine buzzes for a short time and then
+stops.
+119500: It's ground coffee.
+119516: It's a coffee-filter.
+119536: They're coffee-beans.
+119560: One of those common, dull knives that are completely useless and
+wouldn't cut through butter if your life depended on it.
+119644: The sink is very dirty and it would not be unlikely if new life forms
+were to evolve here soon.
+119712: You stand in front of your house. The streets are still wet from the
+recent rain. It is rather unpleasant outside. The street continues to the west
+and to the east.
+119828: A plain, paper envelope, addressed to you.
+119860: You can't put that in the envelope.
+119894: dapper,
+
+Although I have heard from my sources you have retired, I need
+you to take my case. 
+
+It is impossible to tell you what it is about in this
+way, we must meet. I am currently en route to a secret location that I also
+cannot reveal yet. I need you to travel to Jor and meet my contact, Marchus.
+Show him the crystal I have enclosed to prove your identity. He will take you
+to me. 
+
+It is vital that you do as I ask, as my own life depends on it. Please
+come.
+
+-- A desperate client'
+120248: A small, sparkling clear crystal.
+120272: A little grey man with a huge head with big, black eyes. The strange
+thing isn't the fact he is an alien, but that he is wearing a postal worker's
+uniform.
+120382: Outside is an alien! It's a little grey man with a huge head with big,
+black eyes. The strange thing isn't the fact he is an alien, but that he is
+wearing a postal worker's uniform. He tips his hat when he sees you.
+
+'Good
+evening, sir, madam or gender neutral entity.'
+The alien comes in and holds up
+an envelope.
+'A special delivery for Dutch Dapper.'
+
+Too surprised to say
+anything, you accept the envelope.
+
+'And can I have some of your DNA
+please?'
+
+The alien holds up a spatula. You still are unable to say anything
+and the alien obviously takes your silence as permission, since he scrapes some
+flakes of skin off of your hand, and puts them in a small plastic bag.
+
+'Well,
+have a nice day.'
+
+The alien dashes off and a moment later you see a bright
+object fly away into the distance.
+120956: Wouldn't it be a better idea to see what this alien wants?
+121000: The pavement continues from here to the east and west. There is nothing
+of note here, just the houses of the neighbourhood and an endless row of well
+kept gardens.
+121112: You wander the streets aimlessly but since you have nowhere to go you
+return to your own neighbourhood.
+121184: Just your average homes where average people live.
+121220: It's hard to find differences between them. It's like they were
+designed by some collective consciousness. But in reality they're just boring.
+121324: The pavement continues from here to the east and west. There is nothing
+of note here, just the houses of the neighbourhood and an endless row of well
+kept gardens.
+121436: You wander the streets aimlessly but since you have nowhere to go you
+return to your own neighbourhood.
+121508: Just your average homes where average people live.
+121544: It's hard to find differences between them. It's like they were
+designed by some collective consciousness. But in reality they're just boring.
+121648: It looks a lot like Scheveningen, where you spent many a holiday.
+Except for the water, which is yellow, the sky, which is green and the beach
+which is off-grey. Actually it's not like Scheveningen after all. The beach
+continues to the north and south. East is a boulevard that runs parallel to the
+beach.
+121864: It may or may not be actual water. It's best to leave it alone.
+121912: The sun is shining and there are two odd looking moons in the sky.
+You're not on Earth anymore. That much is clear.
+121996: They're asymmetrical rocks, marked with craters.
+122032: Don't you think you've been looking at the scenery long enough now?
+Just get going, ok?
+122096: It looks like a red giant.
+122116: The beach looks quite pleasant to spend some time at, if you weren't on
+a case right now. After you've got used to the weird colours it is possible to
+appreciate the beauty of it all. But first you have to overcome the headache
+you got from dealing with all this visual information.
+122312: It may or may not be actual water. It's best to leave it alone.
+122360: The sun is shining and there are two odd looking moons in the sky.
+You're not on Earth anymore. That much is clear.
+122444: They're asymmetrical rocks, marked with craters.
+122480: Don't you think you've been looking at the scenery long enough now?
+Just get going, ok?
+122544: It looks like a red giant.
+122564: The beach seems to go on forever. After walking for a while you decide
+this isn't really a good direction to travel in and you turn back.
+122660: You can't go that way.
+122680: The sun is shining and there are two odd looking moons in the sky.
+You're not on Earth anymore. So much is clear.
+122764: They're asymmetrical rocks, marked with craters.
+122800: Don't you think you've been looking at the scenery long enough now?
+Just get going, ok?
+122864: It looks like a red giant.
+122884: Looking at all these strange, alien colours, it is hard to imagine what
+kind of creatures live here. The beach stretches on and on to the south and
+north. The sea to the west should be avoided at all cost, judging from the way
+it looks. For all you know it could be some kind of horrible acid.
+123088: It may or may not be actual water. It's best to leave it alone.
+123136: The sun is shining and there are two odd looking moons in the sky.
+You're not on Earth anymore. That much is clear.
+123220: They're asymmetrical rocks, marked with craters.
+123256: Don't you think you've been looking at the scenery long enough now?
+Just get going, ok?
+123320: It looks like a red giant.
+123340: You can't go that way.
+123360: Running parallel to the beach to the west, this looks like your typical
+tourist trap. You see a sign, and ad-bots hover overhead, providing worthless
+information about bad restaurants and casinos. Music is playing, but you can't
+determine where it comes from. The boulevard continues to the north and to the
+south. A road runs east from here.
+123600: Basically, they're hovering street-signs, but with a bit of artificial
+intelligence. They scan the area for creatures with low levels of intelligence
+and radiate subliminal messages to them. They seem to like you as several are
+gathering over your head. It's not long until you are humming the casino theme
+song and are craving for a Zorch Burger from Glabulo's Fabulous Zorch Burger
+Restaurant.
+123880: You hear music, but don't know where it is coming from.
+123920: The moment you enter the boulevard, a swarm of small, metallic objects
+zoom towards you... They point some sort of instrument at your head and you
+become dizzy and disoriented. You would sell your mother to buy a Zorch Burger
+at Glabulo's Fabulous Zorch Burger Restaurant. You would blow up planets if it
+would help you to play 'one more hand' at the casino... With what is left of
+your consciousness you realise these are ad-bots, who prey on the weak-minded.
+In desperation you flee back to the beach...
+124282: A group of tourists moves by quickly. One of them sees you and takes
+out a strange device. He points it at you and a moment later you are completely
+blinded. When you regain your eyesight the tourists are gone.
+124432: A big purple blob waggles past, humming the casino theme tune. You see
+ad-bots hover over his 'head'. The blob waggles out of sight.
+124528: Two insectoid creatures walk past hand in hand in hand (they have six
+arms each).
+124586: Some strange looking, bird-like creatures with yellow feathers and
+pink, fuzzy feet walk by in a hurry.
+124662: A little green man with antennae on his head dashes past.
+124706: A grey creature with big black eyes almost bumps into you. It
+apologises and disappears into the distance.
+124784: An ad-bot hovers overhead, directs its scanner at you and comes closer.
+You feel a little light-headed and have an almost irresistible urge to buy a
+cheesy t-shirt. The ad-bot hovers out of sight.
+124924: An ad-bot hovers overhead, directs its scanner at you and comes closer.
+You feel a little light-headed and have an almost irresistible urge to sell
+your mother and go to the casino. The ad-bot hovers out of sight.
+125076: There is a restaurant with a neon sign above it to the east. There are
+some very strange noises coming from within, indicating it is busy now. The big
+window of the restaurant is all fogged up so you can't see inside. The
+boulevard continues to the south.
+125316: Someone has drawn the Quarbonkers corporate logo on the fogged up
+window. Either that or the artist is familiar with human physiology.
+125412: The boulevard ends here, and sand dunes make it impossible to continue
+to the south. A breeze carries in the smell of the ocean, which lies west from
+here. Again, it is unreachable because of the dunes. There is a brightly lit
+building to the southeast, with a very large sign hovering over it. This must
+be the famous Jor Casino.
+125644: It makes it impossible to travel south. That's all you need to know.
+Move on.
+125700: You really, really can't cross the dunes. Give it up.
+125740: You really, really can't cross the dunes. Give it up.
+125780: The bouncer stops you and looks you up and down.
+'We have a
+dresscode...sir...', he says, and he pushes you back.
+125868: The bouncer looks you up and down. He notices the Stryvle and gives you
+a nod. 'Have a good time...sir...', he says, and he steps to the side to let
+you pass.
+125988: Yup, this is the casino all right. You can tell by the big spinning
+wheel, the neon money signs and, well, the word 'CASINO'. Gambling
+establishments can be found everywhere in the universe. But none are so
+luxurious or so much fun as on Jor. Well, that's what the ad-bot is projecting
+into your mind anyway.
+126284: He is orange, has a large head with a dumb expression on his face and
+he is at least twice your size. It's not hard to understand why this fellow got
+his job. This ugly brute looks quite capable of ripping your head from your
+body with the same ease as you would snap a twig. A very thin twig. A brittle,
+thin twig. A very thin, very brittle twig that is already almost broken. A very
+thin, very brittle... well you get the idea.
+126588: A big, orange creature stands by the entrance to the casino.
+127202: Uncertainty in the universe has always been a powerful force and gave
+gambling an irresistible appeal to almost every living, intelligent creature.
+The desert world of Tantoo, for instance, was a thriving, lush green world with
+endless jungles until its prefect, Waffel the Unrestrained, lost the planet's
+oceans in a bet with emperor Jacklejitt I over how many times Waffel would
+survive a dip in molten lava. This shows both the dangers of gambling and the
+relativity of the term 'intelligence'.
+127552: The casino is dimly lit. Most of the light comes from the many
+different game machines that cast an unnerving glow on the fanatical faces of
+those who are playing the odds. Mechanical sounds mix with the metallic
+clinking of currency. Electronic music, coming from different sources, fills
+the air. You hear the casino theme song above all, though. The catchy tune digs
+itself into your brain and stays there forever, urging you to gamble or be
+forced to hum the melody all day. A table with a spinning wheel stands in the
+centre of the room. An exit leads northwest, to the boulevard.
+127956: This guy (or girl, you're not completely sure) has distinctly
+lizard-like features. His scaly green skin, his yellow eyes and pointy tail
+form a strange contrast to the uniform of the Galactic Spaceliner Organization
+he is wearing.
+128224: He says: 'My name is Marchus. What of it?'
+128260: Marchus is following you.
+128278: The lizard looks at the crystal. Then he stares at you for a moment, as
+if he is looking for something.
+'You're... Dapper, aren't you?'
+
+Finally! Now
+we are getting somewhere! You've made a new friend!
+
+The lizard punches you in
+the face.
+
+For a moment you see nothing but stars. Then you regain your senses
+and look up at an angry lizard.
+
+'Get up, Dapper!' he barks at you.
+'I am
+Marchus.'
+For a moment you consider to just stay down. But then you see that
+the lizard man reaches out with his hand, like he wants to help you up. You
+accept his help and get back on your feet.
+'I greeted you in the traditions of
+my people. I will assist you and take you to your client.'
+You are still dizzy
+but slowly you regain your balance.
+'Come on... human... We have to go to the
+spaceport. My ship is there.'
+Marchus urges you to lead on. He starts to follow
+you.
+128912: A tall, lizard-like creature stands here, dressed in some kind of
+uniform.
+128966: Marchus growls a bit to himself.
+128992: Marchus looks around impatiently.
+129020: From the guardhouse, a purple blob appears. Marchus walks toward him
+and they exchange some words. The blob goes back in and a moment later the gate
+opens before you.
+129136: Marchus walks towards the 'Nightling', presumably his ship. A hatch
+which wasn't visible before opens and the lizard man enters, leaving you
+outside. A moment later he sticks his head out of the hatch.
+'Well, what are
+you waiting for, ape! We have to get to Weathersight immediately.'
+Before you
+can ask anything Marchus has gone back inside. It seems the only option open to
+you is follow this  stranger. Well, you could always stay here and find out
+what a Zorch tastes like...
+
+You enter through the hatch which closes behind
+you with an unsettling screeching noise.
+129544: Marchus, the lizard man, sits in the pilot's seat.
+129582: As Marchus glances over the controls, he growls at you:
+'Sit down,
+human. This might be a bumpy ride.'
+129820: already... I don't want to wipe your bloodstains from my cabin...'
+129872: The lizard pushes some buttons in front of him. A view screen lights up
+to show the spaceport outside. Then it turns black again. Marchus hits the
+console in a casual way like it is part of the pre-flight check and the screen
+lights up again. A humming noise grows louder and louder until it is a
+deafening roar. The Nightling starts to shake as if it has a fear of heights.
+On the screen you see the ship is slowly starting to rise.
+
+Suddenly the
+Nightling accelerates. Now you know what the lizard meant with 'bumpy'... This
+guy has a gift for understatement. You feel like your intestines have been
+pushed through the back of your seat and are still on Jor. The shuttle weaves
+and bobs as if the pilot is drunk.
+'Tractor beam', Marchus growls as if it is
+the most obvious thing he ever had to explain.
+'The Jor Spaceport doesn't like
+their visitors to leave. Ever.'
+
+The Nightling shakes and bucks like a horse
+that wants to shake its riders from its back. Then, without warning, the ship
+shoots away, free from the magnetic beam. You are on your way... But on your
+way to where? And why?
+
+After an hour of uneventful flight you are about to
+find out. In the view screen you see something unlike anything you have
+encountered in outer space.
+
+An object of enormous size is visible, and it
+appears you are getting closer to it. It is obviously constructed, a space
+station of some kind. But without an obvious design or plan: It's like someone
+has emptied a big box of space Lego on the diner table and someone else who has
+never seen Lego before, put all of those parts together in a random
+monstrosity. Modules upon modules, cables connecting bridges, bridges
+connecting enormous crate-like objects. And the closer the Nightling gets, the
+more obvious it becomes that this 'station' is almost the size of a
+planet.
+
+'Weathersight,' Marchus says without looking at you.
+
+He presses some
+buttons and the Nightling turns a few degrees. The ship is lining up with a
+relatively small protrusion in the 'surface'. Relatively, since it could
+probably hold the Empire State building with room to spare for both King Kong
+and Godzilla.
+
+Smoothly the Nightling slides into a docking bay. Then the
+screen goes black.
+
+The ship shakes slightly. A sound of metal on metal. The
+hissing of something hydraulic. The hatch to your west opens up and an eerie
+light enters from outside. 
+'I'm staying here,' the lizard growls. So much for
+his charming companionship.
+131612: It is very crowded around the table and there is no chance of getting
+close enough to take a look, or even play whatever it is they are playing
+there.
+131716: A game machine with a lever and an electronic display. You can insert
+coins into it.
+131776: One of the slotmachines is unoccupied and stands enticingly in a
+corner.
+131828: You can only insert coins in this.
+131852: With a mechanical sound, the machine accepts the coin.
+131892: A lever, which you can pull. It'll start the game.
+131932: You try to pull the lever but it seems to be stuck. Perhaps you should
+insert a coin first?
+131996: If you pull the lever, the display will show three symbols. If they are
+the same you win.
+132060: The display starts to blink and after a moment three symbols are
+displayed:
+132112: You hit the jackpot! The machine makes some mechanical noise but that's
+it. It must be empty.
+132180: Zarbles fell out of the machine.
+132208: The effect from the ad-bots is making it difficult to view your
+surroundings objectively. At first, you see the fabulously luxurious hotel to
+the east and the amazingly diverse souvenir shop to the south. But when your
+own will returns you see a seedy inn and a tourist trap. A strange little
+building lies to the northeast, in what looks like the bad part of town. In the
+distance to the north you make out a space port of sorts.
+132504: The walls are lined with racks, carrying the weirdest items imaginable.
+They are beyond reach, though, since there is a counter of sorts between you
+and the rest of the store. The green light casts eerie shadows through the
+half-drawn blinds that are hanging in front of the shop window.
+132704: The counter stands between you and the inventory of the store.
+132748: You try to leap over the counter but an invisible forcefield bounces
+you back. Alarm bells ring for a moment, but no one seems to respond to it.
+132848: It is invisible. How do you propose to examine something that is
+invisible? Geez.
+132908: The blinds keep the light out of the store.
+132940: The green light casts eerie shadows on the strange items in the store.
+132988: The racks are filled to the brim with alien artefacts, jewellery,
+musical instruments and stuff you couldn't identify if your life depended on
+it.
+133092: You can't get near, with the counter in the way.
+133128: An enormous, golden tower reaches up into the clouds. A giant awning is
+shining brightly. One of the letters on it is buzzing and blinking in a random
+way. This is Jor's Infinite Hospitality Hotel, famous all through the galaxy as
+the worst place to stay in a 12 light-year radius. Unfortunately it is the only
+place to stay within that same 12 light-year radius. The bar is supposed to be
+all right, though. An exits leads south, to the lobby and west to the main
+road.
+133464: It is designed to draw guests to the hotel not unlike a porch light
+draws flies.
+133520: Big bright signs always have a buzzing, blinking letter. Most people
+think it is just an annoying malfunction, but in fact it is a conspiracy of
+sign-builders in the universe. With the blinking, subliminal messages are sent
+to the observer that in the long run turn everyone into slaves. At least this
+is what you read on the internet somewhere so it must be true.
+133772: The walls are all gold plated and huge chandeliers provide a bright and
+painful light that is reflected infinitely in the mirror floor and ceiling.
+Soft, annoying bossa-nova music is playing in the background. There is a desk
+here where guests can check in if they are both mad enough and rich enough to
+stay. An elevator can be seen in the south. There is a large sign hanging on
+it. Exits leads east, to the bar, and north.
+134068: Guests can check in but they can't check out. That sounds probably more
+sinister than it should. There simply is no-one behind de desk at the moment to
+check someone in or out.
+134192: Hideous.
+134200: Sickening.
+134208: Nauseating.
+134220: The music is composed to make you feel welcome and relaxed. In stead it
+just gives you a headache.
+134288: This is one of those typically touristy shops, that sells wearables
+with original, clever texts, like 'My Quadronical Slug went to Jor and all he
+got for me was this lousy four by eight z-shirt'. The store is filled with
+racks that carry clothing for almost every conceivable body shape, all in bad
+taste. (The clothing, not the body shapes. Although don't get me started on
+Quadronical Slugs.)
+134604: It is a disgusting, purple blob with a single eye and a name tag.
+134650: The purple blob makes a waving motion. A watery voice says:
+'I have no
+use for that.'
+134716: The purple blob accepts the zarble.
+134824: A watery voice says: 'We only accept Zarbles. No credit.'
+134916: A watery voice says: 'I run a store. That is all I do.'
+134960: A purple blob stands here. It appears to be the shopkeeper.
+135004: You look at the eye. The eye looks back.
+135036: There are different kinds of clothing on the rack.
+135072: There are different kinds of clothing on the rack.
+135108: It's an odd piece of cloth that has several strings attached to it. It
+probably should be worn somehow, but since you already have trouble with a
+necktie, this should be interesting.
+135236: You struggle with the stryvle and lose... You untie it again before you
+strangle yourself... Better try again.
+135316: It looks like you've got it! But then the whole thing starts to fall
+apart on you again. Is this thing alive or something? Try again!
+135412: You manage to get all the strings sorted out and now wear the stryvle!
+135460: It is interesting to note that there are substances in the universe
+that have no effect on a species, but others that can inspire wild, week-long
+orgies in the same species. It is the goal of every good beverage producing
+corporation in the universe to find the first kind of substance and market it
+as the second. This explains why wild, week-long orgies are so rare and also
+why bars are so popular. Many creatures go to bars to drown the sorrow of not
+having been part of an orgy in recent times, let alone one that would last for
+a week. And there is always the hope of meeting someone of the preferred sex.
+And if that also does not happen (which it rarely does) then at least there is
+the drunken stupor to wallow in until the universal hangover rears its ugly
+head in the morning.
+136004: There is a bar with some stools in front of it. Behind it is the
+mandatory wall, filled with strange and interesting looking bottles. A silver
+ball hovers in mid air over what looks like a dance floor. The ball reflects
+beams of light that are projected on everything around. The effect is both
+tacky and nauseating. Street-signs have been fastened to the walls and a big
+net hangs on the ceiling. An exit leads west, to the lobby.
+136304: Lots of strangely shaped bottles, filled with liquids of different
+colours. They just scream 'hangover'.
+136380: It's kind of like a camouflage-net, used to hide tanks and such from
+enemy aircraft. Come to think of it, an airstrike would probably improve this
+place.
+136488: Signs like: 'road closed', 'one way street' and 'No Kroppie Kroppies
+Allowed'.
+136552: Multicoloured lights flash on and off to persuade you to party like
+it's 10,191.
+136612: A basically humanoid creature, but small and wrinkled looking, and with
+an extra eye in the middle of his forehead. He is sitting at the bar. Well,
+sitting, hanging over it is more accurate. He appears to be completely and
+utterly drunk.
+136780: The owner of the Pawnshop is a small, wrinkled looking humanoid, with a
+third eye in the middle of his forehead. He looks quite eager to get back to
+his store to reopen his business but every attempt to walk is a struggle
+against the large quantity of alcohol in his system. The alcohol is winning.
+136988: The owner of the Pawnshop is humanoid, except for a third eye in the
+middle of his forehead. He is standing behind his counter and is looking at you
+with an expectant smile. A foul odour of alcohol hangs around him, but he
+appears to be somewhat sober.
+137162: You see a small, humanoid creature with three eyes, who is slouched
+over the bar. He is drinking heavily.
+137240: You see Graaier Morgul, the owner of the Pawnshop here. He is
+completely drunk, but at least he isn't drinking any more.
+137328: Graaier Morgul, the owner of the Pawnshop, is standing behind the
+counter. His eyes are bloodshot. All three of them.
+138104: The pawnshop owner is quickly regaining control over his limbs again.
+Soon he is able to walk and he sprints out the door. You can shtill, I mean,
+still hear him call from a distance:
+'I will reopen my shtore! Shtop by
+quickly!'
+138308: and sighs deeply.
+'That'sh no rare at allsh. And it doeshn't even DOESH
+anythingsh.'
+138502: Graaier Morgul takes a look at the glass snowball.
+'Oh boy! Oh Boy!
+It'sh nice! It'sh wonderfulsh! I wantsh to buy it from you, I doesh!'
+Graaier
+tries to get up from the barstool but the alcohol is preventing him from
+finding his balance.
+'Shoot. I wantsh to get back to my shtore... Guesh you
+have to wait for me to shober up... Shouldn't take more than a couple of daysh,
+I thinksh.'
+138792: Graaier Morgul isn't really interested in anything you have to give
+him. He is to drunk to take it anyway. If only he was more motivated...
+138894: shmells good, that brown stuff. But I can't drinksh from thish!' he
+says.
+139020: Graaier takes the cup from you and smells its contents.
+'Thish good!
+Thish strong!' he says, and he drinks the coffee. He appears to sober up before
+your eyes!
+139136: It is interesting to note that there are structures that exist all over
+the universe. Every species everywhere sometimes just doesn't want to provide
+for its own food. Whether it is the Greblivirk from Mamurg III who is tired of
+having to regurgitate his freshly caught Zarf six times before it's done every
+night, or the Nib-Nib from Hilmimi Himmi who feels like having someone else
+liquefy her fresh Goob, there is always demand for a good restaurant. And then
+there are places like Glabulo's Fabulous Zorch Burger Restaurant, that serve
+quickly prepared flavourless meals with a high calorie count that make you feel
+hungry an hour after you ate.
+139880: rather not find out. An exit leads west to the boulevard.
+139920: They are all occupied by all kinds of creatures.
+139956: Aliens from all over the galaxy seem to have gathered here to eat bad
+junk food.
+140012: Before you can sneak into the kitchen, the waiter jumps in front of
+you.
+'That's for authorised personnel only, sir,' he says as he pushes you
+back.
+140120: A door blocks the kitchen from view. You do hear some awful sounds
+coming from there, and let's not even discuss the smell.
+140296: Some smells are better left unsmelled. This smell is better left buried
+under two tons of rock. If that were possible with a smell.
+140388: You hear clanking, talking and now and then a bloodcurdling scream.
+140436: You could enter it and maybe even order something. If you dare.
+140484: The menu doesn't have any writing on it. Just pictures of what you can
+order. One big, greasy object must be the famous Zorch Burger. The only other
+recognisable item is a cup of some sorts.
+140620: A plaque with a menu on it is nailed to the wall next to you.
+140664: It is very likely that the creator of the statue tried to convey a
+feeling of friendliness and joy with his or her representation of this
+interstellar entrepreneur. The sculptor failed miserably.
+140800: The waiter is an insectoid with six arms and eyes on his tentacles. The
+way he scurries about reminds you of a cockroach, which does little to ease
+your apprehension about the food in this place.
+140934: The waiter looks at you briefly but then takes the order from some
+other guest who came in after you.
+141006: You see the waiter scurry about, conspicuously not making eye contact
+with you.
+141064: The waiter runs into the kitchen to fetch somebody's order. Then
+returns in such a way that he can ignore you best.
+141146: After the waiter served another table, close to your booth, he walks to
+the corner and starts to study the walls.
+141228: A large fence is put up here, to keep people from entering the
+spaceport to the north. A small structure stands next to the gate, presumably a
+guardhouse. It is interesting to note that everything here seems to be placed
+so as to discourage leaving this world. It might be justified to persuade
+people to stay longer with, say, colourful advertisements. But barbed wire and
+signs warning of 10,000 volts on the fences?
+141520: The fence has barb wire woven through it, which makes it impossible to
+climb.
+141580: RNING: 10,000 Volts!'
+Curious. Who'd have thought they had 'volts' in
+Space? What next? The Metric System?
+141672: An iron gate that stands between you and the space port.
+141712: You can't open it yourself. It has to be opened by the guard.
+141756: The small building looks like guardhouses all over the universe, with
+just enough room to hold a single humanoid person. You hear some noises from
+inside, so there must be somebody there.
+141888: A purple blob comes out of the guardhouse and stops you from entering.
+The blob looks quite annoyed, shakes his body at you and disappears inside
+again.
+141996: The gigantic launch pad is further north and is closed off by a large
+fence. A large structure stands to the west. This must be the departure and
+arrival building, as large bridges run from it to the launch pad. An enormous
+fuel tank stands opposite the building. To the east is the private shuttle lot.
+142208: It must be the departure and arrival building of the spaceport.
+142252: A large tank to store, well, fuel.
+142280: A charred round pad where spaceships lift off.
+142520: Many private craft stand here. Some are being refuelled, and some are
+being serviced. A large crane stands ready to lift a ship from it's parking
+place to the launch pad. Among the rows and rows of spacecraft there is one
+ship that stands out in particular. It is sleek and shiny and looks brand-new,
+with gorgeous flowing lines that make it look like the craft is going
+incredibly fast, even as it stands still. Next to it is a scruffy small
+modified freighter which carries the name 'Nightling'.
+142868: It is an enormous machine that looks like a giant arm. A true marvel of
+engineering.
+143008: You ring the doorbell. No-one answers, since this is your own home.
+Sad, that.
+143068: The interior of the Nightling is crammed full with modifications. Loose
+panels are everywhere with nothing looking even remotely ergonomic. Several
+bare wires run dangerously close to each other and once in a while sparks fly
+around, punctuated by electrical buzzing sounds and small puffs of smoke. There
+is one free passenger seat just behind the pilot.
+143380: You are wise enough to leave them alone.
+143408: As this is Marchus' ship it would be unwise to come even near this
+seat. So leave it alone. Seriously.
+143484: The hatch used to be there. Not any more. So you can't leave. Live with
+it.
+143540: A functional seat, not particularly comfortable. It used to have
+seatbelts but now clinging to the armrests is as good as it gets.
+143632: Don't worry about them. Worry about everything else, but don't worry
+about them.
+143692: Ok, if I would tell you there are NO clowns in here, would you start
+examining them too?
+143756: Hm. I guess you would.
+143776: You stand on a metal platform in a kind of hexagonal tube, which is
+huge and could hold an entire city. Instead there are cranes and platforms,
+just like the one you stand on, but on different levels. This must be a
+spaceport of some kind. The Nightling is docked to your east and to the north
+is a walkway.
+143992: The figure is wearing a hooded cloak made from some kind of grey fabric
+which covers the entire body, including hands and feet. It is impossible to see
+a face as it is hidden in shadows.
+144120: A mysterious, cloaked figure is here with you.
+144154: As you enter the landingbay you notice a cloaked figure standing there.
+It is impossible to see who it is or even what species as it's entire body is
+covered with a hooded cloak.
+
+'Thank you for coming,' the figure says.
+'Please
+follow me. I need you to help me but I cannot explain too much... Please trust
+me...'
+
+Then you realise what is so strange about this person. It looks like he
+(or she, you can't tell that either) is not completely here... As if you are
+watching a holographic projection, phasing in and out of focus.
+
+'I cannot
+explain my appearance to you now,' the figure says, as if reading your mind,
+'All I can tell you is that I am in a state of flux which can only be resolved
+if you help me...' 
+The figure takes you by the hand and leads you across the
+walkway to the north. There a small train on a monorail stands waiting. The
+figure gets into the first wagon. You follow.
+
+The train begins to move and
+after a few minutes you are able to take your eyes of off the Figure and look
+outside.
+144882: The monorail runs right trough the enormous structure. You notice at
+some points you can see open space. Then you realise this train moves through
+large, winding, transparent tubes. It's like a carnival ride through a
+nightmarish junkyard that defies logic or gravity. Obviously this has been a
+city of some sort, as you now begin to recognise structures as living spaces,
+factories, spaceports, agricultural pods and so on. The only things missing are
+inhabitants. Apart from your 'guide' and yourself there doesn't seem to be
+anything living in  here.
+
+'This is Weathersight,' the figure explains with a
+soft voice,
+'It used to be a weather observatory, orbiting a planet. But slowly
+the people of that world added more and more components to the station, until
+it became so big it could house millions. Later even billions. Weathersight
+grew until it became the size of a planet. This happened thousands of years
+ago. Then, without warning, the inhabitants of Weathersight disappeared without
+a trace. Nobody knows what happened to them or where they went. In fact, most
+people today think Weathersight is a legend. But it is real. Marchus found it
+and it is perfect for your plan.'
+
+'My...plan?' you utter with amazement.
+
+'Yes. The plan which will save my life.'
+
+The cloaked figure keeps silent
+while the train moves on and on through the enormous structure.
+
+The train
+pulls into a small station. Your guide and you leave the wagon and walk through
+a long, white corridor without doors. After what seems like an hour you reach
+the end of the hallway. The figure waves a card at something you cannot see and
+a sliding door opens in front of you, which you enter.
+146070: egins,' the figure says, and takes out a small black box.
+'Everything
+has come together. There is only one chance.'
+
+In front of you, space is cut
+open in a rather familiar way. Like a zipper, a portal appears, leading north
+to who knows where...
+'Please do as I say: enter the portal and grab the first
+thing you see. Then step back. If you fail, you and I will both die.'
+146344: The small wagon is made from some kind of metal. The doors only open
+automatically so it is impossible to leave while the train is in motion.
+146444: The enormous hangar-like room is filled to the brim with electronic
+equipment. Everywhere you look, there are either flashing lights, screens or
+just coils of cables. Rows and rows of metal cases, most of them man-high, line
+the walls and stand in the middle of the space like some kind of computerised
+Stonehenge. It is hard to see the roof of this place, as some kind of fog fills
+the air. An even light source fills the lab and casts hardly any shadows.
+146776: It is so mind bogglingly complex that you don't even begin to
+understand what all this is for.
+146842: You step from the portal disoriented. First you just see some blurry
+images. Then you see someone you haven't seen in a long time: Aya is here. You
+see here push someone through another portal. It must have been unstable as it
+closes immediately and its light fizzles out. Then your realise what is
+happening. The explosives have gone off. A rushing noise is nearly upon you!
+147112: This the dead end of a long, white corridor, in the heart of Emperor
+Jacklejitt's base. You have been here before, months ago. In your mind you
+never left, since it was the place you lost Aya.
+147252: A huge ball of fire is coming right at you!
+147284: A great ball of fire envelopes you! This is a bad thing...
+147328: Upon closer examination, the coil of rope is in fact a lasso, used to
+catch things like they do in westerns... Rather cool actually.
+147424: There is no need to tie this rope. It is already tied. Didn't you
+examine it?
+147480: A coil of rope seems to have been washed ashore here.
+148028: EPILOGUE
+
+You lie awake in your bedroom. It must be the middle of the
+night, but you can't sleep.
+
+Even now, two months later, you still don't quite
+understand what happened, even though Aya tried to explain it to you several
+times: According to her, both wormholes became unstable. The first one closed
+before Aya could enter it. The second one fortunately did not close but
+rejected Aya from the timeline. Now in a state of 'flux' she did not really
+exist in this universe. Luckily she was able to contact Marchus,  who helped
+her to plan her own rescue. To change the timeline they needed someone who was
+part of the original incident because anything else would also be rejected by
+time itself. Which brought them to you. A lot of this doesn't make any sense to
+you, but then again: you were never one to be bothered with technical
+details.
+
+After you and Aya married, you swore never to take another case
+again. Time and space had to sort themselves out from now on.   Almost losing
+someone you loved again was enough to cure you for good.
+
+You turn over, and
+look at Aya's face. She sleeps peacefully. Everything turned out great. No more
+travel. No more danger. Just you and Aya and...
+
+The doorbell rings...
+148932: Sand is sand. What did you expect? It's the stuff that gets in your
+shoes, gets too hot to walk on without shoes and which covers buried treasure
+beneath your shoes. You know? Sand!
+149064: You dig... and see something shimmer. It appears to be a helmet of some
+kind.
+149120: You dig around for a while but find nothing...this time!
+149164: It looks like there is something buried here...
+149200: You find nothing of interest here. But there is a lot more beach to
+search through...
+149264: It has electronic wires sticking out of it and a light is flashing on
+top. You can see a label, which reads 'MindProtect inc.'
+149356: It reads 'MindProtect inc.
+149380: It seems to keep the helmet functioning... whatever it is it does.
+149428: It indicates the helmet is doing something. What, you have no idea.
+149476: You decide it would be wiser to keep the helmet.
+149510: As you stroll along the boulevard, a swarm of small, metallic objects
+zoom towards you... They point some sort of instrument at your head and you
+become dizzy and disoriented. You would sell your mother to buy a Zorch Burger
+at Glabulo's Fabulous Zorch Burger Restaurant. You would blow up planets if it
+would help you to play 'one more hand' at the casino... With what is left of
+your consciousness you realise these are ad-bots, who prey on the weak-minded.
+In desperation you flee back to the beach...
+149874: As you stroll along the boulevard, a swarm of small, metallic objects
+zoom towards you... They point some sort of instrument at your head and you
+become dizzy and disoriented. You realise these are ad-bots, who prey on the
+weak-minded and beam their subliminal messages into your brain to get you to
+buy stuff.
+
+The helmet you are wearing seems to protect you from the ad-bots.
+They still influence you but the messages are now bearable and it is possible
+to ignore them.
+150208: It is impossible to make out what exactly is in the cup, but it at
+least seems to be a drink.
+150664: Judging by the picture, it does not seem wise to put something like
+THAT in your mouth.
+150728: He seems to have moved out of sight to continue his search.
+150770: A dizzy looking little man walks into view and is looking around
+carefully as if he lost something.
+'Oh dear, oh dear,' he mumbles, and walks
+away.
+150878: A strange, dizzy looking little man crawls across the beach, feeling
+the sand as if he is searching for something important. He scrapes some sand
+away at random places and then moves out of sight.
+151016: A small alien man walks into view and starts digging around in the sand
+frantically.
+'Where is it? WHERE IS IT???', he exclaims with a voice heavy with
+panic. Then he walks further down the beach, out of view.
+151176: Erm... I am not exactly sure what you expect now...
+151216: That is either ridiculous or an attempt at rape.
+151250: The sign on the elevator reads: 'out of order'
+Had you really expected
+anything else?
+151316: This appears to be 'Qwartobibrivram Swarvortabble Boulevard'. You'd
+hate to give that address over the phone.
+151396: Damn, you really typed that in correctly! I'm impressed!
+151440: A nice, wooden desk, but nothing incredibly special. No secret
+compartments, no treasure maps hidden in its legs and it did not belong to some
+cursed pirate/magician who hid a chest of gold on a desert island. It's just a
+desk.
+151600: It's wet from recent rain.
+151620: It is one of those amazing little contradictions of the universe: in
+locales where the beverages induce a loss of balance, the stools require an
+almost acrobatic sense of equilibrium to sit on, even when sober.
+151764: A free barstool stands in front of the bar.
+151796: Polished by thousands of appendages belonging to creatures trying to
+drown sorrow, celebrate or both with large quantities of whatever it is that
+gets them drunk.
+151908: A glittering ball that rotates and reflects beams of light. Disco
+didn't really die. It left Earth to conquer other worlds, leaving a horrifying
+trail of bellbottoms and lavalamps in its wake.
+152072: They contain information you gathered during other cases. You can
+consult them when needed.
+152154: I was the last in a line of ruthless dictators. He was famous for
+saying: 'If it ain't broke, break it.' which he brought into practice by
+snapping his fathers neck at the age of seven. His forefathers were responsible
+for the extermination of 2% of the population of the galaxy. Jacklejittt III
+was well on his way in making it a nice round 5% until you stopped him by
+blowing up his base. He wasn't nice.'
+152510: was known for his complete lack of self control. Historians have yet to
+complete the records on Waffel's two week reign over Tantoo, which ended with
+him dipping himself seventy-two times in a bath of molten lava.'
+152660: There might be something in here that deals with that, but right now
+you can't find it...
+152724: I don't know what you think your doing but you are completely on the
+wrong track. Pouring something into the sink will get you knowhere in this
+game. Trust me on this.
+152840: You show a little leg and whistle to passers by but no-one is
+interested.
+152892: Graaier looks at you and says:
+'I can't doesh bushinesh with yoush
+here.. If yoush show me  shomething good, I might reopen my shtore for yoush.
+152996: This is neither the time nor the place to make some money on the side.
+153044: There doesn't seem to be anybody here to sell something to.
+153088: Graaier ishn't interested in that.
+153114: Graaier Morgul takes a look at the feather.
+'They ushed to be raresh,
+but now everybodysh shelsh theshe. I'll give yoush a Zarble for it.'
+He takes
+the feather from you and tosses a single square coin towards you, which you
+catch.
+153282: Graaier's eyes light up.
+'Yesh! I'll buysh that form yoush! I'll give
+yoush ten zarble for itsh!'
+He takes the snowball from you and gives you ten
+square coins.
+153404: You can shake it all you like, but it wouldn't do you any good.
+153452: You don't *buy* stuff here, you *order* them. Jeez.
+153500: This is not the place to buy something.
+153528: You look around in the store but the only thing in your size is a
+t-shirt with the text 'I'm with Stupid'. Since you are on your own you decide
+to pass.
+153636: You look around in the store but the only thing in your size is a
+t-shirt with the text 'I'm with Stupid'. Since you don't care for another punch
+in the face from the lizard you decide to pass.
+153926: The purple blob bobs up and down.
+A watery voice says:'That'll be two
+zarble.' The coins float from your hands and disappear behind the purple
+blob.
+A strange object floats from a shelf and hovers before you in mid air.
+You take what you assume to be the stryvle.
+154116: To help you along in this game, and to give you some extra information,
+the following commands are at your disposal:
+
+HELP -- If things get to you,
+this might, erm, help.
+REGISTER -- Information on registering your copy of this
+game
+CREDITS -- Who were involved with the creation of this game?
+INFO --
+brings up a menu with all sorts of information about the game and how to play
+it.
+
+SCORE -- Gives your score
+FULL -- Gives your score and what you did for
+your your points
+OBJECTS -- lists all objects you have handled
+EXITS --  lists
+possible exits in a location.
+
+Use these commands only for good.
+154576: From here? Impossible. You're out of range.
+154612: That is why you brought that handy remote. Use it.
+154648: I hope you enjoy my game. If you do, I'd like it very much if you would
+register your copy by sending me an e-mail at 'bibberfrob@haha.demon.nl'.
+Please specify which game you want to register. I don't ask any money for the
+game (but if you insist on paying me, who am I to disagree ;-) I only want to
+know how many people are playing this story and to keep you informed of updates
+and other games I work on. I will not spam you or sell your address. I will
+only send you one (1) invitation to join my IF newsletter. That's it. So please
+register and I'll be your friend for life.
+
+Harry Hol
+
+P.S.: I am always happy
+to receive feedback on this game. You can send that to the above address as
+well!
+155156: Are you developing a shpeech impediment?
+155184: Dutch Dapper IV was written by Harry Hol.
+
+Many thanks to my beta
+testers who were willing to sift trough this bug-ridden piece of IF so many
+times in their own free time. They were (in no particular order):
+Jonathan
+Pentor, Pollodiablo, Aidan Brack, Jason Melancon, Alan Buckeridge, Andrew
+MacKinnon, Phil Swinbank, Johan Berntsson, Mueen Nawaz, James Anderson and
+Graham Holden.
+
+Special thanks to Lucian P. Smith and his Beta Test site, and
+of course to Graham Nelson for creating Inform.
+155556: That wouldn't accomplish anything.
+155582: You sneak through the door. So far so good. It was a smart choice to
+leave Aya behind. She would have just got in the way.
+
+So this is it: The
+control centre. It is deserted, which is odd. After all the trouble you had to
+go through to get here... The wild Kroppie Kroppie on Starmus 7, the endless
+hassle with the four vending machines from hell, your successful reprogramming
+of the broken doorstop, which helped you vanquish the evil JanitorBot... And
+now you can just walk into the heart of the evil empire without any resistance?
+This is strange indeed.
+
+But you are not one to complain when things are
+finally getting easy. Carefully, you plant the explosives around the room.
+Emperor Jacklejitt will never again be able to use his Psychotronic
+Strank-Inversor to enslave the cute yet intelligent Swoobies. The death of the
+Swoobie princess still brings a tear to your eye.
+156368: There is no point in catching that.
+156396: Maybe it is smarter to sit down in the booth first.
+156432: You must be losing it. Did the ad-bots finally get to you?
+156474: You swing the lasso above your head and with a lucky throw, you catch
+the waiter. He protests fiercely as you reel him in, but then seems to realise
+there is no point in resisting.
+'Hi, I'm Milo. I'll be you waiter here tonight.
+How can I help you?' he says with a phoney smile.
+156676: This isn't the place to order something.
+156706: The waiter looks at you and says:
+'Just take a seat... We have a booth
+free for you. I'll be there in a minute...'
+156858: yes sir, right away,' he says. He removes the lasso and runs to the
+kitchen. Just as you think he might have fled, he comes back with your order.
+It's a cup of water. Delicious.
+156992: Zorch Burger, coming right up', he says.
+
+As Milo walks towards the
+kitchen he yells:
+'Hey, Chuck! I don't care what's wrong with that batch you
+got there, we need another Zorch Burger'
+You cannot hear what 'Chuck' replies,
+but the waiter yells back:
+'Then scrape those maggots off. I'm not interested.
+You could vomit on it for all I care, just get me a Zorch Burger.'
+
+The waiter
+enters the kitchen.
+
+Some tense moments go by. You hear some clanking sounds
+come from the back, like someone (or something) is throwing around the
+inventory. A scream sends a shiver down your spine. A giant tentacle protrudes
+from the kitchen for a moment. Another scream. Then silence.
+
+The waiter
+returns to your booth.
+'I'm sorry,' Milo says, 'The Zorch is off.'
+158050: Space Time Detective Who Doesn't Allow Himself To Be Confused By Red
+Herrings.
+158144: fixations. And besides, shouldn't you be busy saving some planet or
+other?
+158200: Now what would the point be of that?
+158228: That would be amusing, yet pointless.
+158256: You could, but you don't really want to.
+158404: You flush the red herring through the toilet. Good riddance!
+158448: That isn't something that even comes close to being flushable.
+158492: You haven't anything fishy to slap with.
+158524: A dozen aliens wearing police uniforms rush in and place you under
+arrest for trying to re-enact an old Monty Python sketch. When they realise
+they are doing the same thing, they arrest each other and disappear without a
+trace.
+158682: You are carrying too much. You try to juggle all your possessions but
+unfortunately you dropped
+158752: You take a chance and dive into the ocean. The water seems to be just
+water and you are starting to enjoy yourself. Then you hear something...
+
+
+Music? This is weird... Two tones that follow each other and repeat. Sounds
+like a cello. Ah well, you just continue swimming and you feel great.
+
+The
+music keeps getting louder and louder...
+
+OH MY GOD! IT'S A CELLO-OID! The
+enormous wooden instrument grabs you and drags you into the deep.
+159080: There isn't enough water here to swim.
+159108: You party to express your happiness. After jumping up and down a bit
+and yelling 'I'm number one! I'm number one!' for a few minutes you start to
+feel a bit silly and you calm down.
+159240: You don't have anything suitable to lasso with.
+159276: That wouldn't be a very productive thing to do.
+159312: You get into the groove and before you know it you're doing the Hussle,
+flailing your arms around like an idiot. Then you do the moonwalk, the
+aligator, the swim, the bird, the hokey cokey AND the mashed potato before you
+discover the music has long since stoped. How embarrassing.
+159510: And here it is, straight from the home office on Alpha Centaury:
+
+Top 5
+of things that would NOT be considered a Good Idea:
+
+5. During a tax audit, say
+to the auditor 'Before we start, I want you to know I understand you just have
+to do your job. And I understand you do this with so much dedication because
+you feel frustrated about being unable to satisfy your wife in bed. At least
+that's what she told me last night.'
+4. Go to a feminists lecture and from the
+front row yell 'Take it off! Take it all off!'
+3. Walk into a bikers' bar and
+say 'Who owns the Harley with the cool skull painted on the tank? Actually it
+could be a picture of a bunny-rabbit as well, but it is hard to tell since I
+just ran over it with my car.'
+2. Stand on top of a hill during a thunderstorm
+while screaming: 'The Gods are assholes!'
+1. WAKING UP THE ZXARG!
+160136: ya, you go first,' you say.
+'No, Dutch, go!'
+'The place is gonna go up
+any minute... Come on!'
+An enormous explosion shakes the palace on its
+foundations. You see a great ball of fire come towards you through the
+corridor. In a split second, Aya gives you a push and you tumble towards the
+bright rectangle.
+
+You enter the portal. There is a sensation of movement.
+The
+rectangle of light disappears behind you, closing like a zipper.
+
+'Aya!' you
+yell. But she's not here. She didn't come with you through the portal.
+Everything is silent now.
+160538: You wake up with a scream. At first you are disoriented but then you
+realise it was a dream. You've been back on Earth for three months now and you
+haven't worked on a case since. You lost Aya. She is gone forever and it is
+your fault.
+160716: It's a small black box with one button. You used it to arm the
+explosives in Jacklejitt's control centre. Unfortunately, you lost Aya in the
+blast.
+160824: That's just scenery.
+

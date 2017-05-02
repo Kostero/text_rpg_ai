@@ -1,0 +1,159 @@
+10061: Nothing to do!
+10098: You rock and rolled all night!
+10193: It is now pitch dark in here!
+10220: I beg your pardon?
+10284: Sorry, that can't be corrected.
+10313: Think nothing of it.
+10366: As good-looking as ever.
+10398: You can hardly repeat that.
+10423: You can't begin with a comma.
+10537: I didn't understand that number.
+10566: You can't see any such thing.
+10602: You aren't holding that!
+10644: I'm not sure what "
+10696: That's not a verb I recognise.
+10735: You can't see "
+10846: Nothing to do!
+10863: There are none at all available!
+11758: Please answer yes or no.
+11784: Are you sure you want to quit?
+11829: Failed.
+11849: Restore failed.
+11866: Ok.
+11884: Save failed.
+11899: Ok.
+11943: Transcripting is already on.
+12000: Transcripting is already off.
+12049: Score notification on.
+12070: Score notification off.
+12093: You have visited:
+12121: Objects you have handled:
+12146: None.
+12530: You are carrying nothing.
+12579: Taken.
+12590: You are always self-possessed.
+13132: Dropped.
+13242: Removed.
+13381: You lack the dexterity.
+13462: Done.
+13728: Done.
+14002: Wrahn seem interested.
+14468: You can't go that way.
+15001: But it's dark.
+15018: You find nothing of interest.
+15054: But it's dark.
+15145: You find nothing of interest.
+16273: . Not bad.
+16291: That was a rhetorical question.
+16345: That seems unnecessary.
+16368: Keep your mind on the game.
+16393: What a good idea.
+16412: You smell nothing unexpected.
+16439: You hear nothing unexpected.
+16464: You taste nothing unexpected.
+16499: Keep your hands to yourself!
+16524: You feel nothing unexpected.
+16549: If you think that'll help.
+16658: Oh, don't apologise.
+16688: Quite.
+16757: You achieve nothing by this.
+16845: You wave, feeling foolish.
+16995: You are unable to.
+17014: Nothing obvious happens.
+17064: That's not a direction.
+17087: Not that way you can't.
+17119: Keep your hands to yourself.
+17144: You achieve nothing by this.
+17177: Futile.
+17206: You talk to yourself a while.
+17233: This provokes no reaction.
+17261: There is no reply.
+17280: Nothing is on sale.
+17299: Your singing is abominable.
+17333: Time passes.
+38637: Not till you get it up.
+38707: Boioioioioioioing!
+38802: Nope, still limp.
+41508: Score:
+41516: Moves:
+41524: Time:
+41532: You can't go that way.
+41776: [Your interpreter does not provide "undo". Sorry!]
+41864: Please give one of the answers above.
+41892: [You can't "undo" what hasn't been done!]
+41928: [Can't "undo" twice in succession. Sorry!]
+41968: "Oops" can only correct a single word.
+41996: It is pitch dark, and you can't see a thing.
+42028: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+42088: You seem to want to talk to someone, but I can't see whom.
+42132: To talk to someone, try "someone, hello" or some such.
+42172: I didn't understand that sentence.
+42232: You seem to have said too little!
+42256: You can't use multiple objects with that verb.
+42292: You can only use multiple objects once on a line.
+42328: You excepted something not included anyway!
+42360: You can only do that to something animate.
+42392: That's not something you need to refer to in the course of this game.
+42440: I didn't understand the way that finished.
+42472: Sorry, you can only have one item here. Which exactly?
+42624: Are you sure you want to restart?
+42648: The game file has verified as intact.
+42676: The game file did not verify as intact, and may be corrupted (unless you
+are playing it with a very primitive interpreter which is unable properly to
+perform the test).
+42792: You're carrying too many things already.
+42824: You can't put something on top of itself.
+42856: You can't put something inside itself.
+42912: You can only get into something freestanding.
+42944: But you aren't in anything at the moment.
+42976: You'll have to say which compass direction to go in.
+43016: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+43112: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+43196: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+43284: Darkness, noun. An absence of light to see by.
+43372: This dangerous act would achieve little.
+43400: Nothing practical results from your prayer.
+43432: Close, but not cigar. Try something more tabaco oriented.
+43476: Digging would achieve nothing here.
+43504: You jump on the spot, fruitlessly.
+43532: You would achieve nothing by this.
+43556: There's nothing suitable to drink here.
+43584: But there's no water here to carry.
+43612: Real adventurers do not use such language.
+43644: Violence isn't the answer to this one.
+43672: There's not enough water to swim in.
+43700: There's nothing sensible to swing here.
+43728: That would be less than courteous.
+43752: Is that the best you can think of?
+43776: You lack the nerve when it comes to the crucial moment.
+43816: I don't think much is to be achieved by that.
+43848: You aren't feeling especially drowsy.
+43942: It cost you eighteen dollars, one more than months you've gone with out
+an erection. There's a bathroom to the north, and you can leave the room to the
+west. A single light dangles from the ceiling like that dangling thing in the
+back of your throat. There's also a Dauphin sized bed.
+44142: Embarrassed by your lack of girth, you escape into the lonely night.
+44196: Who cares. She mentioned something about a degree in Cognitive Science,
+but she seems as interested in _the_ act as you. She's very upset about her
+plurality.
+44372: She totally ignores you and asks, "What's the hold up?"
+44416: Bigger than twin, smaller than king, it's a Dauphin. You hate the
+French. The mattress is very noisy. Ah, memories.
+44720: Not worth touching. Ick.
+44740: The mirror is jutted about three inches from the wall. You glance at it,
+and for a moment you remember that stunning Symetry game. Your appearance does
+not help your problem.
+44862: You open the mirror to reveal a small pill....viagra!
+44908: There is an open mirror here.
+44934: tiL. YelloY.
+45064: Aventure Manure.
+45230: No genius in the penis for you.
+45274: O, it's just gas.
+45480: The darkness is here in abundance.
+45504: It's been seventeen months since your last erection. Now there's a
+female in an apartment room with you. This is the moment of truth.
+

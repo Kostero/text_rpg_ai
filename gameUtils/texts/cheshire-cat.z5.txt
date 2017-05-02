@@ -1,0 +1,517 @@
+13860: There is no reply.
+13928: Nothing is on sale.
+14367: Dropped.
+14424: . Not bad.
+15361: Wrahn seem interested.
+15833: Done.
+15882: You are carrying nothing.
+15967: Keep your mind on the game.
+15992: You hear nothing unexpected.
+16936: But it's dark.
+16953: You find nothing of interest.
+16981: Quite.
+17011: Nothing to do!
+17046: o. You have won
+17128: It is now pitch dark in here!
+17155: I beg your pardon?
+17219: Sorry, that can't be corrected.
+17248: Think nothing of it.
+17301: As good-looking as ever.
+17333: You can hardly repeat that.
+17358: You can't begin with a comma.
+17472: I didn't understand that number.
+17501: You can't see any such thing.
+17537: You aren't holding that!
+17578: I'm not sure what "
+17630: That's not a verb I recognise.
+17668: You can't see "
+17775: Nothing to do!
+17792: There are none at all available!
+18203: That was a rhetorical question.
+18230: Score notification off.
+18253: Score notification on.
+18282: Objects you have handled:
+18307: None.
+18713: You have visited:
+18888: You are unable to.
+18907: Nothing obvious happens.
+18957: That's not a direction.
+18980: Not that way you can't.
+19127: You lack the dexterity.
+19208: Done.
+19256: Please answer yes or no.
+19282: Are you sure you want to quit?
+19402: Removed.
+19433: Failed.
+19452: Restore failed.
+19469: Ok.
+19479: You achieve nothing by this.
+19511: Save failed.
+19526: Ok.
+19633: There is no score in this story.
+19671: Transcripting is already off.
+19737: Transcripting is already on.
+19803: But it's dark.
+19893: You find nothing of interest.
+20163: Your singing is abominable.
+20197: You smell nothing unexpected.
+20224: Oh, don't apologise.
+20252: Keep your hands to yourself.
+20277: You achieve nothing by this.
+20506: Taken.
+20517: You are always self-possessed.
+20942: You taste nothing unexpected.
+20976: You talk to yourself a while.
+21003: This provokes no reaction.
+21029: What a good idea.
+21055: Futile.
+21084: Keep your hands to yourself!
+21109: You feel nothing unexpected.
+21134: If you think that'll help.
+21341: Time passes.
+21365: That seems unnecessary.
+21461: You wave, feeling foolish.
+36499: You're not hungry now.
+36522: You're not thirsty now.
+36545: Amen!
+36574: You aren't tired!
+47274: Nothing of interest.
+47298: A half full bottle of beer.
+47319: An empty bottle of beer.
+47356: You aren't thirsty.
+47382: The bottle is empty.
+47405: I doubt it works.
+47443: No problem.
+47465: I doubt it works.
+47484: The bottle is empty.
+47569: Mario is not your type.
+47660: Chi ha tempo non aspetti tempo.
+47703: You've sung enough today.
+47769: You've got enough from here.
+47885: I doubt it works.
+47923: He's drunk.
+47956: Luigi isn't your type.
+48166: You haven't any lighter.
+48362: Try something extreme!
+48399: You have nothing to do it.
+48491: No problem!
+48570: You're not hungry now.
+48745: Nothing of interest.
+48830: That would be of no use.
+48902: She's upset.
+48976: Nothing of interest.
+49016: You can't go that way.
+49045: The door is closed!
+49136: "Don't touch it!" screams Lara.
+49181: "Don't touch it!" screams Lara.
+49353: I doubt you'd be so courageous.
+49402: The door is open.
+49417: The door is locked.
+49758: I'm afraid it's impossible.
+49781: You don't smoke.
+49802: I'm afraid it's impossible.
+52318: EXAMINE enabled for rooms.
+52352: EXAMINE disabled for rooms.
+55438: in" or "notin
+55454: opmhas" or "hasnt
+55596: }" at end of "objectloop
+56842: SAVE THE CHESHIRE CAT!
+57296: Score:
+57304: Moves:
+57312: Time:
+57320: You can't go that way.
+57428: Violence isn't the answer to this one.
+57456: This dangerous act would achieve little.
+57484: I don't think much is to be achieved by that.
+57544: Digging would achieve nothing here.
+57572: There's nothing suitable to drink here.
+57600: That would scarcely empty anything.
+57628: You can only get into something free-standing.
+57700: But you aren't in anything at the moment.
+57732: But there's no water here to carry.
+57788: You can't put something inside itself.
+57816: You jump on the spot, fruitlessly.
+57844: You would achieve nothing by this.
+57896: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+57992: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+58076: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+58188: You see nothing unexpected in that direction.
+58452: Please give one of the answers above.
+58480: [You can't "undo" what hasn't been done!]
+58516: [Can't "undo" twice in succession. Sorry!]
+58556: "Oops" can only correct a single word.
+58584: It is pitch dark, and you can't see a thing.
+58616: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+58676: You seem to want to talk to someone, but I can't see whom.
+58720: To talk to someone, try "someone, hello" or some such.
+58760: I didn't understand that sentence.
+58820: You seem to have said too little!
+58844: You can't use multiple objects with that verb.
+58880: You can only use multiple objects once on a line.
+58916: You excepted something not included anyway!
+58948: You can only do that to something animate.
+58980: That's not something you need to refer to in the course of this game.
+59028: I didn't understand the way that finished.
+59060: Sorry, you can only have one item here. Which exactly?
+59160: Nothing practical results from your prayer.
+59216: That would be less than courteous.
+59240: Is that the best you can think of?
+59264: You can't put something on top of itself.
+59296: Are you sure you want to restart?
+59320: Attempt to end transcript failed.
+59344: Attempt to begin transcript failed.
+59372: You aren't feeling especially drowsy.
+59400: Real adventurers do not use such language.
+59432: There's not enough water to swim in.
+59460: There's nothing sensible to swing here.
+59488: You're carrying too many things already.
+59520: You lack the nerve when it comes to the crucial moment.
+59588: You'll have to say which compass direction to go in.
+59628: The game file has verified as intact.
+59656: The game file did not verify as intact, and may be corrupt.
+59700: The dreadful truth is, this is not a dream.
+59760: You have to find a cat, not the pirate's treasure.
+59796: You have no time for fitness today.
+59824: You like singing, but you have no reason to do it now.
+59864: Nothing of interest.
+59880: You're not here to hang around the book fair, you're here to find the
+missing Cheshire Cat!
+59948: The bar furniture is not important to your mission.
+59984: You are at Miky Bar, a famous hangout in the old town centre, where
+every reason is good for eating tons of snacks and belting down any kind of
+booze. To the east you can reach the main street.
+60120: The exit is to the east.
+60140: On the table in front of you, there is your bottle of beer.
+60240: With all your disgust to that horrible thing, you pour the beer on the
+cardboard totem of the book fair, letting it drench of alcohol.
+60332: With all your disgust for that horrible thing, you pour the beer on the
+cardboard advertising totem, letting it drench of alcohol.
+60424: Mario is a top member of the club. He's called the 'dwarf' because of
+his considerable past as a player of many basketball teams. He's very fond of
+the Cheshire Cat, with which he has a relationship that, reportedly, is not
+just a business relationship.
+60604: Mario is here.
+60616: Mario invites you to investigate to find the Cheshire Cat.
+60660: Hit a tax inspector, if you want to be violent with someone.
+60888: the last time we saw it, it was at our stand, half an hour ago. So, it
+could have been kidnapped by someone that lives or works in the surroundings."
+60996: The only thing Mario wants from you is to have the Cheshire Cat back!
+61268: Cheshire Cat. Northbound, the road continues to other destinations.
+61320: Towards the south there is nothing of interest.
+61356: You are in front of the stand of the "Ludo Ergo Sum" club. This part of
+the book fair is dedicated to the presentation of the new board and card games,
+with the presence of various authors and specialists.
+61500: However, there is only Luigi now, a tall man with a gloomy threatening
+look, who watches the merchandise to scare the thieves away. Westbound, you can
+reach the main street.
+61624: Nobody is here now. Westbound, you can reach the main street.
+61670: However, there is only Mario now. Westbound, you can reach the main
+street.
+61732: Hey! Before you can leave the stand you have to wait for somebody else
+to arrive to watch the merchandise in your stead.
+61816: You wait for a while for Luigi to come back to the stand, but time
+passes and nothing happens. Maybe you should do something to attract the
+attention of somebody: don't forget that every minute you lose here could be
+fatal to the Cheshire Cat!
+61988: Singing could be a way to draw the attention of someone, but it should
+be embarassing to do it without a musical instrument.
+62076: You start to play the guitar and sing out the theme songs of your
+favourite cartoons, like Fist of the North Star, Saint Seiya, Tiger Man, Dragon
+Ball, Candy Candy... Candy Candy?! You're so off-key that all the people at the
+book fair frown at you and demand that you stop singing. In the end, Mario runs
+out of the bar to come and see what's happening. When you see him arrive, you
+stop singing and put the guitar where you found it, glad that someone is
+arrived to watch the merchandise in your stead.
+62440: You can go only west.
+62456: On the table at the stand, you can see a deck of cards of "Darkiss! The
+kiss of the vampire", the new horror game that is having a big success with the
+kids.
+62568: You'd better not leave your things around.
+62600: I'm sure you can do better than that.
+62628: Thinking that you want to steal some of merchandise, Luigi prevents you
+from taking a closer look at the stand.
+62708: You've done enough here, now concentrate your energy on the search for
+the Cheshire Cat.
+62772: You take another look at the stand, without finding anything of
+interest.
+62824: Now that Luigi has gone, you can take a closer look at the stand... Hey,
+there is a guitar under the table!
+62904: You found a classic guitar under the table of the stand.
+62944: Someone must have left it here to play it at one of the music shows of
+the book fair.
+63004: You'd better not leave your things around.
+63036: Luigi is a tall man with a gloomy threatening look, who watches the
+merchandise to scare the thieves away. He's so fond of the Cheshire Cat that
+recently he went to Amsterdam to try joining in marriage with it!
+63252: "Aren't you hungry?" Luigi asks you, tormented by a growing appetite.
+63304: "Cin cin!" exclaims Luigi, while he's drinking his (eigth) beer. He
+tries to hug you, convinced that you are Creamy Mami, the Magic Angel. Thanks
+God you can slip away from him.
+63436: "Haven't you anything to eat?" Luigi asks you.
+63472: Luigi doesn't seem interested to your offer.
+63504: "Thank you!" says Luigi, taking the 'stroscia' and starting to eat it.
+"I was really hungry." After a while, the threatening man moans that the cake
+made him thirsty. So he invites you to watch the stand in his stead, while he
+goes to take a beer to Miky Bar.
+63692: On the table at the stand, you can see a deck of cards of "Darkiss! The
+kiss of the vampire", the new horror game that is having a big success with the
+kids.
+63804: A deck of cards of "Darkiss! The kiss of the vampire", the new horror
+game that is having a big success with the kids.
+63888: You'd better not leave your things around.
+63920: "You thief!" shouts Luigi into your ears, when you try to take the deck
+of cards. "The cards of Darkiss are not for sale. Anyway I doubt a beggar like
+you would have the money to buy them."
+64056: Without that nuisance of Luigi at the stand, you can now take the deck
+of cards.
+64112: Compared with that nuisance of Luigi, Mario is not vigilant enough to
+prevent you from stealing the cards of Darkiss.
+64196: You are in the northern zone of the main street. Even here the roadsides
+are occupied with the stands of the publishers that take part in the book fair.
+Towards the west there is the entrance of the cinema, towards the east a small
+square, towards the north a crossroad, while towards the south you go back to
+the south zone of the street.
+64428: Nothing of interest.
+64444: You take another look at the stand, without finding anything of
+interest.
+64496: Hey! It looks like somebody forgot a pack of cigarettes on the table at
+the stand.
+64556: You have reached a small square, surrounded by the old buildings of the
+centre. In front of you there is a big stand where the authors invited as
+special guests give presentations of their books. However, nobody is here now.
+Towards the west you go back to the main street.
+64748: Hey! It looks like somebody forgot a pack of cigarettes on the table at
+the stand.
+64808: A pack of cigarettes, with something written on it: "Smoke kills".
+64860: Inside the pack of cigarettes there are an elephant, a whale, the Empire
+State Building, a very large piece of the planet Mars and... I'm joking, eh!
+64972: Try something more useful... and clever!
+65004: To put out a cigarette you should light it, before.
+65040: Simply horrible.
+65124: ersion of Battleship Potemkin. Towards the west there is the box office,
+while towards the east you go back to the main street.
+65216: You're not here to watch a film. Your task is to find the missing
+Cheshire Cat!
+65302: lasses. Probably someone threw it away after he had forgotten to return
+it at the end of the show.
+65508: glasses, but a kid that has popped up from out of nowhere is faster than
+you. After he takes it, the kid hastens to wear it with an arrogant attitude.
+He says that if you want the glasses back you have to give him something of
+equal interest. "If you look for me, you'll find me around the book fair" he
+concludes, before disappearing among the stands of the main street.
+65808: Beating a child is not in your style, although he would deserve more
+than a slap.
+65944: The kid refuses your offer, saying he smoked enough today.
+65988: The kid refuses your offer, saying he drank enough alcohol today.
+66036: The kid doesn't seem interested to your offer.
+66134: glasses off and gives them to you, saying: "You can have this horrible
+trinket, if you really want it." Then he runs away.
+66224: You've reached the crossroad where the main street meets Liberty Road on
+the west and Sun Street on the east. The stands of the book fair are
+everywhere, but your attention is drawn to the fur coats shop you can see
+towards the north. To go back to the main street you can go south.
+66420: At the corner of the crossroad, the cardboard advertising totem of the
+book fair is burning like straw, after you've set fire to it.
+66514: At the corner of the crossroad, there is the giant cardboard advertising
+totem that shows the map of the stands of the book fair and many other pieces
+of information about the event.
+66642: The cardboard advertising totem is drenched and it stinks of alcohol.
+66696: Although it seems to be useful, the cardboard advertising totem in fact
+is hated by all the people that live in the old town centre, without
+distinctions of sex, race, class, zodiac sign, because it is an evident
+obstruction to the circulation. It is rumoured that somebody tried to burn it,
+without success - unfortunately!
+66920: The cardboard advertising totem is burning like straw.
+66960: The cardboard advertising totem is already burning like a witch at the
+stake; among the crowd of onlookers that are staring at it, there is also the
+well-known furrier Mara.
+67084: To be sure that the cardboard advertising totem burns, you should drench
+it with petrol or with another combustible.
+67164: After drenching the cardboard advertising totem with your beer, you set
+fire to the horrible installation using the lighter that you stole from the
+girl at the "Oasis of the Flavour". Flames build up in a while, attracting the
+attention of the crowd of pedestrians... and also that of the furrier Mara, who
+gets out of her shop to come and see the tragicomic event.
+67420: You are at Sun Street, among the stands of the book fair. Towards the
+west you go back to the crossroad.
+67496: The famous writer of history novels Ido Mariani is the man who has
+stolen Umberto Eco's place in the heart of the readers (and of the housewifes).
+67600: Ido Mariani doesn't know where the Cheshire Cat is, but he tells you
+that on the occasion of the book fair a sensational opportunity is being
+offered. If you give the correct answer to a question about the history of
+Italy you'll win a signed copy of his latest bestseller. Do you accept?
+(y/n)
+
+>
+67812: Ido Mariani is glad you accepted to take part in the promotional quiz
+and he puts the question you have to answer to. "In which city was Leonardo Da
+Vinci born?"
+67928: Ido Mariani has not put any questions.
+67956: "You're wrong!" exclaims Ido Mariani, a bit disappointed in your
+ignorance. "However, you can try again if you want. I'll be here, ready to give
+you my book if you'll answer the question properly."
+68100: "You're right!" Ido Mariani exclaims, very pleased with your knowledge.
+He gives you his latest book with the inscription: "To my dear friend...",
+inviting you to read it soon and write a good review on your blog. Then he goes
+away, looking for someone else to engage in his 'promotional quiz'...
+68316: Instead of deferring action, try and answer Ido's question about
+Leonardo Da Vinci's place of birth.
+68392: The book that you have received from the writer Ido Mariani is a very
+heavy volume with hundreds of pages. It tells the extraordinary epic journey of
+a medieval knight, that makes Homer's Odyssey seem like a picnic.
+68544: You are on Liberty Road, always surrounded by the stands of the book
+fair. Towards the west there is the stand of the "Oasis of the Flavour", while
+towards the east you go back to the crossroad on the main street.
+68696: You're here to find the Cheshire Cat, not to eat for free!
+68740: You've reached the gazebo of the "Oasis of the Flavour", a space
+displaying all sorts of good things to eat and drink, aiming to promote the
+most delicious local products through generous samples offered to the people
+passing by. However, the most tempting thing on display is the girl behind the
+table who prepares the samples and smiles to everybody who takes one. Towards
+the east you come back to Liberty Road.
+69028: Among the products on display at the "Oasis of the Flavour" there is
+also a mouthwatering 'stroscia', a typical thin and crunchy cake made with
+extra virgin olive oil.
+69148: The 'stroscia' is a typical thin and crunchy cake made with extra virgin
+olive oil.
+69208: The girl is very pretty. She is in charge of preparing the samples to be
+offered to the visitors. She moves elegantly behind the table, not paying
+attention to the chaos of fair around her.
+69340: No doubt you'd like it very much, but I'm afraid she'd not appreciate
+it.
+69396: Now that she's got the cigarettes, the girl seems no longer interested
+in your talking.
+69460: You say hello to the girl and ask her how things are going, but all you
+get is a skimpy: "Hey, dude, do you have a cigarette?"
+69552: The girl doesn't seem interested to your offer.
+69588: The girl gets as bright as a Christmas tree when you show her the pack
+of cigarettes, which she immediately grabs, thanking you with all her heart.
+She pulls out her lighter to have her first cigarette, then she drops it with a
+distracted gesture on the table.
+69844: You'd better not leave your things around.
+69876: While the girl is turned away, you grab the lighter she left on the
+table and put it in your pocket.
+69948: The lighter works properly, you can use it to light up, warm up or burn
+down everything you want, if such an occasion should occur.
+70040: Towards the north there is a passage that should lead you to the rear
+entrance of the shop.
+70104: Behind the counter, you can see the charming shop owner, Mara.
+70152: You've entered into a luxurious fur coats shop, whose windows are filled
+with furs of every type, including a very rare kind manufactured with mosquito
+hairs. Oddly enough, there aren't cat furs, but you are glad that those
+adorable felines have been saved from a trend that every year causes the death
+of millions of animals in the world. Towards the south you go back to the
+crossroad that faces the main street, while towards the north there is a
+passage that should lead you to the back section of the shop.
+70504: "The back shop is closed to the public!" says Mara, blocking your way
+towards the north.
+70568: Hey, you hear some meows coming from the north.
+70602: Hey, you hear some meows coming from the north.
+70640: It's very strange that there isno cat fur at all, considering the wide
+assortment of the shop.
+70708: I doubt Mara would let you do it.
+70732: For your mission these furs are totally useless.
+70766: Behind the counter, you can see the charming shop owner, Mara.
+70814: The owner of the fur coats shop, Mara, is also staring at the burning
+totem.
+70872: She's the charming owner of the fur coats shop.
+70908: I'm sure you can find a less gruesome way to get rid of her.
+70952: Mara says that she is there to sell furs, not to chat.
+70992: "That's terrible!" screams Mara, while she's staring at the burning
+totem. "If the fire reaches my shop, the furs will go up in smoke."
+71092: Concealed behind the tapestry of the north wall of the room, you can see
+a secret door.
+71152: You're in the back section of the fur coats shop. Around you, there are
+boxes with the furs that haven't been yet exposed in the shop windows, towards
+the south.
+71268: You hear some meows coming from somewhere around you.
+71402: You hear some meows coming from somewhere around you.
+71444: Around you, there are boxes with the furs that haven't been yet exposed
+in the shop windows.
+71508: There is nothing of interest inside the boxes.
+71540: You move the boxes, without finding anything of interest.
+71580: At the room centre, busy arranging some boxes, there is Lara, Mara's
+ugly sister, that has been relegated to the back shop to keep the furs supply
+in order.
+71692: On the floor there is Lara, unconscious.
+71724: Lara is Mara's ugly sister, in charge of keeping the back shop in order,
+so that her unpleasant features cannot be seen by the glamorous customers.
+71828: You take again a look at Lara's body, without finding anything else that
+might be useful.
+71892: Searching Lara's body you find a key, which you hurriedly put into your
+pocket.
+71948: You've already knocked Lara out, now try and find that damned cat!
+71996: I'm sure you can find a less gruesome way to get rid of her.
+72040: You've already knocked Lara out, now try and find that damned cat!
+72088: Lara looks like a sturdy woman. If you want to get rid of her in order
+to examine carefully the back shop, maybe you'd better get yourself a weapon,
+or at least an object heavy enough to knock her out at the first try.
+72240: Thanks to the ponderous history novel that the writer Ido Marian gave to
+you, it's a piece of cake to knock Lara out. When you hit her in the face with
+the book, the woman falls down to the floor, unconscious.
+72444: "What are doing here, you damned busybody?" says Lara in a rough way.
+"Get out of here immediately, or I'll call the police!"
+72540: A metal key.
+72552: You'd better not leave your things around.
+72582: Concealed behind the tapestry of the north wall of the room, you can see
+a secret door.
+72648: There's no need to knock down the door any longer, now it's open.
+72696: A weakling like you doesn't have strong enough shoulders to break the
+door open.
+72752: "Stay away from that door, you damned meddler!" screams Lara blocking
+your way to it.
+72816: After a series of incredible adventures, you've eventually reached the
+narrow storage closet where the sisters of the shop kept segregate the cats
+which they would probably have used to make new expensive fur coats.
+72964: Well done! Your mission has been accomplished! You've found the Cheshire
+Cat and all the other alley cats that have disappeared in the last weeks,
+saving them from the horrible end they were destined. The "Ludo Ergo Sum" club
+is proud of you! :)
+73142: Among the cats that are being kept prisoner in this stinking hiding
+place you can also spot... the Cheshire Cat!
+74370: ) shows the description of the place where you currently are.
+
+  - The
+verbs you can use in this game are: get, examine, show and give [something to
+someone], ask and tell [someone about something], answer [something to
+someone], wait, sing, sleep, jump, listen, wear, remove, open, close, unlock,
+lock, hit, empty [something on something else], eat, drink, play, burn.
+
+  -
+Examining the furnitures and the details mentioned in the descriptions of the
+places allows you to find hidden objects and important information. By speaking
+with the other characters you can know what you have to do to obtain their
+help.
+
+  - To read again these instructions and information about the author
+and the software license type >info or >instructions.
+
+Have fun!
+75012: That's just scenery.
+75392: yl) shows the description of the place where you currently are.
+
+  - The
+verbs you can use in this game are: get, examine, give, ask [someone about
+something], answer, wait, sing, sleep, listen, wear, remove, open, close,
+unlock, lock, hit, empty, play, eat, drink, burn.
+
+  - Examining the furnitures
+and the details mentioned in the descriptions of the places allows you to find
+hidden objects and important information. By speaking with the other characters
+you can know what you have to do to obtain their help.
+
+  - To read again these
+instructions type >info or >instructions.
+
+Have fun!
+76732: mcom. If you want to view the source code, just ask for it.
+
+For now,
+thanks for all the time you'll spend playing my text adventure. Have fun!
+77752: give" or test "has" or "hasnt" with a non-attribute on the object
+77800: , but it is longer than 2 bytes so you cannot use "."
+

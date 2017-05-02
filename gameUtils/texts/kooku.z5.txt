@@ -1,0 +1,1168 @@
+16101: Nothing to do!
+16136: o. You have won
+16219: It is now pitch dark in here!
+16246: I beg your pardon?
+16310: Sorry, that can't be corrected.
+16339: Think nothing of it.
+16392: As good-looking as ever.
+16424: You can hardly repeat that.
+16449: You can't begin with a comma.
+16563: I didn't understand that number.
+16592: You can't see any such thing.
+16628: You aren't holding that!
+16670: I'm not sure what "
+16722: That's not a verb I recognise.
+16761: You can't see "
+16869: Nothing to do!
+16886: There are none at all available!
+17796: Please answer yes or no.
+17822: Are you sure you want to quit?
+17867: Failed.
+17887: Restore failed.
+17904: Ok.
+17922: Save failed.
+17937: Ok.
+17981: Transcripting is already on.
+18047: Transcripting is already off.
+18105: Score notification on.
+18126: Score notification off.
+18149: You have visited:
+18177: Objects you have handled:
+18202: None.
+18586: You are carrying nothing.
+18635: Taken.
+18646: You are always self-possessed.
+19179: Dropped.
+19289: Removed.
+19428: You lack the dexterity.
+19509: Done.
+19775: Done.
+19986: Wrahn seem interested.
+20567: You can't go that way.
+21127: But it's dark.
+21144: You find nothing of interest.
+21180: But it's dark.
+21271: You find nothing of interest.
+22399: . Not bad.
+22417: That was a rhetorical question.
+22471: That seems unnecessary.
+22494: Keep your mind on the game.
+22519: What a good idea.
+22538: You smell nothing unexpected.
+22565: You hear nothing unexpected.
+22590: You taste nothing unexpected.
+22625: Keep your hands to yourself!
+22650: You feel nothing unexpected.
+22675: If you think that'll help.
+22784: Oh, don't apologise.
+22814: Quite.
+22883: You achieve nothing by this.
+22971: You wave, feeling foolish.
+23121: You are unable to.
+23140: Nothing obvious happens.
+23190: That's not a direction.
+23213: Not that way you can't.
+23245: Keep your hands to yourself.
+23270: You achieve nothing by this.
+23303: Futile.
+23332: You talk to yourself a while.
+23359: This provokes no reaction.
+23387: There is no reply.
+23406: Nothing is on sale.
+23425: Your singing is abominable.
+23459: Time passes.
+46299: A.
+46548: Newbie.
+46563: Net Surfer.
+46582: Newsgroup Moderator.
+46607: Spam Canceller.
+46628: UUNET Administrator.
+46655: USENET Grand Poobah.
+46680: Fluffy!
+47132: It doesn't fit.
+47472: The users don't seem interested.
+47588: It doesn't fit.
+47620: The coffee was delicious.
+47970: "Nice breasts you know."
+48035: "UCE is free speech you know."
+48150: Do it yourself, Cabal!
+48181: The pack is currently open.
+48202: The pack is currently closed.
+48260: It doesn't fit.
+49379: It doesn't fit.
+49515: Leave that to Miss April!
+49719: "I'm her boy, fucker."
+49865: "I'm her boy, fucker."
+49999: "Go fuck yourself, dickface."
+50742: You switch the name server on.
+53188: Score:
+53196: Moves:
+53204: Time:
+53212: You can't go that way.
+53544: Please give one of the answers above.
+53572: [You can't "undo" what hasn't been done!]
+53608: [Can't "undo" twice in succession. Sorry!]
+53648: "Oops" can only correct a single word.
+53676: It is pitch dark, and you can't see a thing.
+53708: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+53768: You seem to want to talk to someone, but I can't see whom.
+53812: To talk to someone, try "someone, hello" or some such.
+53852: I didn't understand that sentence.
+53912: You seem to have said too little!
+53936: You can't use multiple objects with that verb.
+53972: You can only use multiple objects once on a line.
+54008: You excepted something not included anyway!
+54040: You can only do that to something animate.
+54072: That's not something you need to refer to in the course of this game.
+54120: I didn't understand the way that finished.
+54152: Sorry, you can only have one item here. Which exactly?
+54304: Are you sure you want to restart?
+54328: The game file has verified as intact.
+54356: The game file did not verify as intact, and may be corrupt.
+54400: Attempt to begin transcript failed.
+54428: Attempt to end transcript failed.
+54452: You're carrying too many things already.
+54484: You can't put something on top of itself.
+54516: You can't put something inside itself.
+54572: You can only get into something freestanding.
+54604: But you aren't in anything at the moment.
+54636: You'll have to say which compass direction to go in.
+54676: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+54772: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+54856: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+55032: This dangerous act would achieve little.
+55060: Nothing practical results from your prayer.
+55092: The dreadful truth is, this is not a dream.
+55124: Digging would achieve nothing here.
+55152: You jump on the spot, fruitlessly.
+55180: You would achieve nothing by this.
+55204: There's nothing suitable to drink here.
+55232: But there's no water here to carry.
+55260: Real adventurers do not use such language.
+55292: Violence isn't the answer to this one.
+55320: There's not enough water to swim in.
+55348: There's nothing sensible to swing here.
+55376: That would be less than courteous.
+55400: Is that the best you can think of?
+55424: You lack the nerve when it comes to the crucial moment.
+55464: I don't think much is to be achieved by that.
+55496: You aren't feeling especially drowsy.
+55584: This is a startlingly disorganized office. Beneath the mountains of
+papers, computer manuals and discarded junk food containers you can barely make
+out a dented metal desk. The only exit from the clutter is to the east.
+55736: Among the papers you recognize code snippets from the cancelbot you were
+writing, pedantic memorandi from your superiors and scribbled email addresses
+and URL's.
+55848: It's best to leave the papers be.
+55984: It's best to leave the manuals be.
+56012: Just the usual Jolt Cola cans, Frito bags and empty Jack Daniel's
+bottles.
+56068: Leave it alone, you might catch something fatal.
+56104: You don't need to refer to that in order to complete this game.
+56248: The display is blank. Looks like the network's down again!
+56290: The display shows a list of who is currently logged in:
+56600: Nearly buried, your battered desk has one working drawer.
+56704: From: F. L. Uffy, Dean, College of Computer Science, Kook University
+To:
+Network Administrator
+Subject: USENET Abuse
+
+I am sick and tired of receiving
+Complaints from People all over the Internet about the Usenet Abuse committed
+by some of our less welcome Students.  Put a Stop to the Abuse immediately or
+We will find Ourselves a new Network Administrator!
+57512: This short hall in the Computer Center continues to the south. Your
+office is to the west. There is a heavy door to the north, protected with a
+card reader. There is a sign above the north door.
+57652: Computer Room: Authorized Personnel Only!
+57684: The card reader has a small slot, just about the size of a USENET Cabal
+membership card.
+57752: The computer room door unlocks with a loud clunk.
+57788: The computer room door has been scarred by the fingernails of frustrated
+users.
+57844: The door to the computer room is closed.
+57872: The door to the computer room is open.
+57900: Kook U's main computer room, where you spend much too much of your time,
+is cooled by a massive air conditioning system. All manner of electronic
+equipment beeps and flickers. Thankfully the janitorial staff has cleaned up
+the most recent electrical fire. The exit is to the south.
+58096: You don't need to refer to that in order to complete this game.
+58160: ENET news server, usually extremely active, seems oddly silent. Oh no,
+is the network down again?
+58736: This is Kook U's central network router, responsible for directing most
+of the network traffic for the entire campus. Being such a crucial piece of
+equipment it is essential that the router be 100% operational at all times.
+58896: As you switch on the router, the level of activity in the computer room
+increases noticeably. After a few seconds you hear the distant cheers of users
+everywhere. The network is up again!
+59028: The router is off again, the network is down again.
+59064: This is the south end of a short hall in the Computer Center. There is
+an office to the east and the main terminal room is to the south.
+59160: Much more organized than your own, this is the office of Martin, one of
+your colleagues. The exit is to the west.
+59246: Grubana - By Martin Hannigan
+Original "Copa Cabana"  - By Barry
+Manilow
+
+His name was Boursy, he was a showoff
+With yellow feathers in his hair
+and his rent way up there
+He would merengue and do the cha-cha
+But while he
+tried to be a star,
+Grubor always tended bar
+Across the crowded room, he posts
+from 8 til 4
+They were young and they had each other
+Who could ask for
+more?
+
+At the Copa (CO!), CopaGrubana (CopaGrubana)
+The hottest spot north of
+MAE-East-ana (here)
+At the Copa (CO!), CopaGrubana
+Usenet and passion were
+always in fashion
+At the Copa....they fell in love.
+
+His name was Rico. He
+wrote a FAQ list
+He was escorted to his chair, he saw Boursy dancing there
+And
+when he finished, he called him over,
+But Rico went a bit to far,
+Grubor sailed
+across the bar
+And then the punches flew and chairs were smashed in two
+There
+was blood and a single gun shot
+But just who shot who?
+
+At the Copa (CO!),
+CopaGrubana (CopaGrubana)
+The hottest spot north of MAE-East-ana (here)
+At the
+Copa (CO!), CopaGrubana
+Usenet and passion were always in fashion
+At the
+Copa....he lost his love.
+
+Copa... CopaGrubana... Usenet and passion... always
+the fashion...
+
+Her name was Boursy, he was a showgirl,
+But that was 30 years
+ago, when they used to have a show.
+Now it's a disco, but not for Boursy,
+Still
+in the dress he used to wear,
+Faded feathers in his hair.
+He sits there so
+refined, and smokes himself half-blind.
+He lost his youth and he lost his
+Grubor,
+Now he's lost his mind!
+
+At the Copa (CO!), CopaGrubana
+(CopaGrubana)
+The hottest spot north of MAE-East-ana (here)
+At the Copa (CO!),
+CopaGrubana
+Usenet and passion were always in fashion
+At the Copa....don't fall
+in love.
+60560: Martin's screen is blank. The network must be down again!
+63156: The main terminal room of Kook U's College of Computer Science is filled
+with terminals, personal computers, workstations and other computing equipment,
+all being used by university students and faculty. A small hall leads north and
+the building's exit is to the south.
+63348: The users, angry that the network is still down, refuse to permit you,
+the Network Administrator, to leave the building.
+63436: The computing equipment is being used by someone else. Besides, you have
+your own terminal back in your office.
+63516: The users are all busy with their work.
+63544: The users look as if they're ready to tar and feather you.
+63588: The users have better things to do.
+63616: You are standing at the entrance to the College of Computer Science,
+which lies to the north. Pleasant paths also lead east and west to other
+buildings, and south to the main commons.
+63762: commons area is a welcome refuge from the stresses often found in the
+surrounding buildings. The lawn is spotted with gently swaying trees and
+shrubbery. Paths lead off in all directions.
+63892: You don't need to refer to that in order to complete this game.
+63936: You are just oustide Kook U's Loan Office, where students can obtain
+information on, and often quarrel about, their student loans. The building's
+entrance is to the northwest. Paths also lead east, southeast and south.
+64092: The electric fan, which you cleverly switched on earlier, does a fine
+job clearing the smoke-filled air in the Loan Office, making breathing just
+barely tolerable.
+64208: You attempt to enter the Loan Office, but the air inside is so thick
+with cigarette smoke that you must return, coughing and hacking, to the
+outdoors.
+64316: It must be lunch time in this, Kook U's student loan office, since all
+the teller's windows are vacant. The exit is to the southeast.
+64412: You don't need to refer to that in order to complete this game.
+64592: censorship
+
+>Boursy is incorrectly correcting his own correct
+statements.
+>No more I need see.  Take the loco weed away from
+him--NOW.
+>Before he hurts himself.
+
+Actually it's not the locoweed--it's just
+not
+enough coffee--can't function much until the 3rd cup.
+I even drink it right
+before sleeping--a true addict--
+I only notice it when I don't drink it.
+64868: The Thermos has the word "MEOW" emblazened boldly across its surface.
+The thermos is currently
+64940: You have nothing to pour the coffee into.
+64972: The coffee's aroma is reminiscent of the finest blends available from
+Cafe Algiers in Cambridge, Massachusetts.
+65052: The coffee's aroma is reminiscent of the finest blends available from
+Cafe Algiers in Cambridge, Massachusetts.
+65132: Stephen Boursy is here, typing at the office's only computer terminal.
+65184: The years have not been kind to Stephen Boursy. Steve is in his late
+forties. His smoking problem has kept him thin, however. His eyes are sad, his
+face is somewhat gnarled, and his gray hair is cut short. He must have arms,
+since he is typing, yet you don't seem to be able to actually see them.
+65396: Steve dodges your attack and admonishes "Stop trying to censor me with
+violence, you cabal apologist!"
+65468: Steve looks up from his terminal briefly, coughs, then goes back to
+typing.
+65524: Ew! Not even his own wife wants to do that!
+65596: For a moment Steve looks excited at the prospect of joining the Cabal.
+65648: Steve looks with disdain upon Martin's lyrics.
+65682: Steve eagerly gulps the fine coffee. For a moment he appears to relax.
+Suddenly, however, he stands, clutches his chest, and collapses to the floor
+with a thin gasp. His corpse disappears in a cloud of cigarette smoke.
+65840: Steve appears to be more interested in what he's typing.
+65880: Boursy trembles slightly at the sight of the Dean's name.
+65924: For a moment Steve looks excited at the prospect of joining the Cabal.
+65976: Steve looks with disdain upon Martin's lyrics.
+66012: Steve admires the coffee with envy. Smacking his lips, he stammers "The
+cafeteria is fresh out you know."
+66088: Steve appears to be more interested in what he's typing.
+66128: "Just another Cabal forger and theif [sic]."
+66168: Boursy trembles slightly at the mention of the Dean's name.
+66212: "Drink it constantly. The cafeteria is fresh out you know."
+66256: "I'll probably die sooner, but I certainly enjoy them."
+66300: "<ahem> Haven't smoked the stuff in years."
+66336: "Miss April makes my pecker hard."
+66364: "John is my best friend. He wants me to have sex with my daughter the
+horny teen you know."
+66432: "A fine Freedom Knught you know."
+66644: ever loses it's spine I'll put it up at AOL and take it to the Ma.
+Attorney Generals Office and the Mass. ACLU if there are any problems with
+AOL."
+66760: "These censors repel me--but I'll tell you--even more disgusting are the
+sys admins that bend to them-- they have not one shred of decency in them."
+67268: "The very next ISP in Massachusetts that pulls a users plug based on
+usenet content will be held fully accountable for their entire feed--including
+their porn and warez files and the proper authorities and public interest
+groups will be take on a guilded tour until they are closed down and lose
+everything."
+67664: Steve appears to be more interested in what he's typing.
+67704: Marlboro, of course. Steve's in a hurry for the big C.
+67746: Steve jumps up to stop you from snatching his beloved smokes. Suddenly
+he freezes, clutches his chest, and falls to the ground with a thin gasp. With
+a quiet "poof!" his corpse disappears into a cloud of cigarette smoke.
+67904: Seems to be the finest Acapulco gold. Harvested early in the season,
+before the rains. Poignant, but not overbearing. Not that you would know
+anything about this sort of thing.
+68052: Arboretum, or "arb", as it's known, lies to the northeast. Other paths
+lead west, southwest and south.
+68128: All manner of trees and shrubs surround you in the arb, making this an
+extremely pleasant place on campus. The arb's exit is to the southwest.
+68228: The varied vegetation in the arb is calming to the spirit.
+68470: mdrugs
+
+I want to say more about my history with legal and illegal
+drugs. I found that with marijuana smokers some of them were more intelligent
+than the normal beer drinking crowd of North Carolinians.  So I liked being
+around pot smokers, not all of them, but the ones who would smoke and get into
+philosophic discussions.  There were other Mary Jane smokers who would just
+talk drug talk about the quality of this pot or that pot. I didn't enjoy that
+talk at all.
+
+At one time in college, I was a pot head.  There are times when I
+think that I should stop smoking pot all together.  But a little now and then
+helps me to cope with the stark reality of capitalism. The euphoria of pot some
+times helps me see ways out of the cruel reality.
+68992: Doctress Neutopia is here, dancing naked among the trees.
+69036: While not a young woman anymore, the Doctress is not unattractive. She's
+thin with long, dark hair and a far away look in her eyes.
+69132: "Get away from me! What are you, a Monster Truck Neutopian?"
+69180: The Doctress regards you invitingly for a moment, but then decides
+you're not Gaia Messiah material. "The Queen Bee isn't in the right mood for a
+massgasm right now," she declares.
+69312: "Thank you. I couldn't live without my connection to the global network
+of love."
+69372: "This "Martin" person does not seem to be capable of universal love."
+69424: "No thank you, I had to give them up years ago."
+69460: The Doctress takes the joint gingerly and ponders it momentarily. With a
+shrug, she inhales a long draw, holds it for at least a minute, and exhales
+with a smile. As she mumbles of arcologies, massgasms, and lovolution, a cloud
+of smoke billows around her. She reclines and is lifted off into the distance,
+presumably to the Neutopian world she seeks.
+69708: The Doctress seems pre-occupied with thoughts of her Neutopian vision.
+69760: "A symbol of the oppressive patriarchy."
+69852: "This "Martin" person does not seem to be capable of universal love."
+69904: "No thank you, I had to give them up years ago."
+69994: The euphoria of pot sometimes helps me see ways out of the cruel
+reality."
+70048: The Doctress seems pre-occupied with thoughts of her Neutopian vision.
+70154: The euphoria of pot sometimes helps me see ways out of the cruel
+reality."
+70268: "He's only interested in looking at my tits."
+70304: "Karl does not share my Lovolutionary insight. He in not capable of
+global love. He has been brainwashed by the patriarchy."
+70396: "A good lay but not capable of the eternal love I require of a soulmate
+and Gaia Messiah."
+70464: "My mission here is to herald in a Neu Age of love, peace, ecofeminism,
+communalism, solar energy, the end of poverty, and a planetary network of
+arcologies."
+70580: "To accomplish the Great Work of re-ordering the world to reflect the
+God/dess within, we will need everyone's sincere dedication to the Crone's
+Wisdom and the Neutopia society S/he envisions."
+70720: "Neutopia is a millennium movement. Isn't it time, friends and lovers,
+that we come together? Please join me in this multi-dimensional reality."
+70824: "We shall move beyond the injustices of worldwide Greco-Christian
+dominance and global capitalism if we but dream and participate in the
+collective miracle of Neutopian evolution! Yes, the massgasm is about to
+climax!"
+70980: "Please join me in helping to create this Neutopian dream of planetary
+harmony."
+71040: The Doctress seems pre-occupied with thoughts of her Neutopian vision.
+71092: The Doctress glances your way with a brief, bright smile and goes back
+to her revelry.
+71152: "The Queen Bee does not take orders from her beloved subjects."
+71200: The noble entrance to Kook U's esteemed College of Law is directly to
+the west. Other paths lead north, east and south.
+71312: Shelves and shelves of legal tomes fill this, the massive law library of
+Kook U. Shafts of light illuminate the dust motes suspended in the air of this
+dimly lit hall. The exit from the College is to the east and a small corridor
+leads north.
+71480: The shelves are full of a variety of legal reference books.
+71524: You don't need to refer to that in order to complete this game.
+71568: You recognize this as a copy of H.R. 1748, "The Netizens Protection Act
+of 1997," also known as the "Smith Bill." This is a legal document that would,
+among other things, impose severe penalties for sending Unsolicited Commercial
+Email (UCE). The document also includes an email address to obtain more
+information: comments@cauce.org.
+71824: Filled with quaint wooden desks, this study hall is used by law students
+to research important legal issues. A corridor leads south.
+71916: You see nothing special about the desks.
+71944: John Grubor sits at one of the desks, working at a computer terminal.
+72046: 6", has stringy dark hair and an angry face. But by far his most
+startling feature is his enormous eyebrows.
+72124: John throws a weak punch in retaliation, but his age and health prevent
+him landing anything substantial.
+72196: John massages his buttocks, as if recalling an unpleasant memory.
+"Sorry, jerkoff, but that's reserved for Bubba."
+72280: "That guy is a suspected pedophile."
+72308: "I invented the friggin' Internet asswipe."
+72344: "I'll OWN the goddam Cabal soon, moron."
+72380: "Mister Boursy told me that fucker was a pedophile. By the way, have you
+seen Boursy's daughter around anywhere?
+72462: Grubor pops the joint into his mouth, chews, and swallows. "Strictly for
+medical purposes, boy."
+72536: John spends a few minutes reading the article. (He's not exactly an
+Evelyn Wood graduate.) Wiping away tears, John sobs wildly "It's true, it's
+true! I don't deserve to live." John produces a revolver and, before you can
+react, lifts it to his temple and fires. He falls limply to the ground and
+utters his last words: "This is the Law Systems Institute...Out." As you stand
+horrified, the campus janitorial staff arrives, swiftly removes the mess, and
+departs.
+72876: "You anti-UCE jerks are all pedophiles."
+72908: John seems more interested in what he's typing.
+72944: "That guy is a suspected pedophile."
+72972: "I invented the friggin' Internet asswipe."
+73008: "I'll OWN the goddam Cabal soon, moron."
+73044: "Mister Boursy told me that fucker was a pedophile. By the way, have you
+seen Boursy's daughter around anywhere?"
+73128: Grubor snatches at the joint and growls "Give me that or I'll sue, you
+child molestor!"
+73192: John spends a few minutes reading the article. (He's not exactly an
+Evelyn Wood graduate.) Wiping away tears, John sobs wildly "It's true, it's
+true! I don't deserve to live." John produces a revolver and, before you can
+react, lifts it to his temple and fires. He falls limply to the ground and
+utters his last words: "This is the Law Systems Institute...Out." As you stand
+horrified, the campus janitorial staff arrives, swiftly removes the mess, and
+departs.
+73532: "You anti-UCE jerks are all pedophiles."
+73564: John seems more interested in what he's typing.
+73600: "That's another Cabal pedophile."
+73628: John trembles slightly at the mention of the Dean's name.
+73672: "I only use it for medical purposes."
+73700: "Mister Boursy tells me she has nice breasts."
+73736: "Mister Boursy is the Master of USENET. By the way, have you seen his
+daughter around?."
+73808: "You anti-UCE jerks are all pedophiles."
+73840: "The forces of good, Boursy & Grubor & Allisat and Gonzales, will
+conquer the evil cabal system in due time."
+73924: "News administrators do what the USERS say, regardless of the stress on
+the routers or the news-servers."
+74378: Then the Berkley boys got into the picture in the fall of 1969."
+74428: "Did you stop molesting those small boys yet?"
+74840: et where audio-video newsgroups shall soon reign. Grubor and Boursy both
+have excellent voices."
+75042: My husband is a Lawyer and I could sue these people for some "equal
+protection" or something, but I just rather do it the easy way. -- Mary
+Grubert"
+75244: John seems more interested in what he's typing.
+75280: Grubor grumbles something about a lawsuit and goes back to his work.
+75328: "I don't take orders from Cabal pedophiles."
+75466: morg
+Subject: Sex With My Daughter
+
+The soul and the Father Master.  I
+will order my Daughter to blow you on sight and you can get some feel for the
+power.  You stepdaughter ought to start sucking your cock soon also, to worship
+the Father.
+75644: Kook U's main library stands to the east of you. There are other paths
+leading north, west and south.
+75716: This is Kook U's main library. The shelves are filled with famous
+literature. The library's exit is to the west.
+75800: You don't need to refer to that in order to complete this game.
+75844: March 31, 1982, Wednesday, AM cycle
+
+DATELINE: PITTSBURGH
+
+A disbarred
+Butler County attorney who admitted stealing $28,000 from a client was
+sentenced to up to 23 months in prison Wednesday by an Allegheny County Common
+Pleas Court judge.
+
+John Grubor, 36, of Butler, broke down and cried after
+Judge Robert E. Dauer imposed the 11 -to-23-month prison term to be served at
+the state Correctional Institution at Greensburg, Westmoreland County.
+
+The
+judge also ordered that Grubor spend five years on probation after completing
+the prison sentence.
+
+Grubor pleaded guilty last month to one count of theft by
+failure to make required dispostion of funds entrusted to him. He admitted he
+bilked a client out of $28,000 in a workmen's compensation settlement.
+
+The
+state Supreme Court disbarred Grubor as a result of the theft.
+76554: medu
+Subject: I <heart> You
+
+Dearest April,
+
+How I long to see you
+again. There is nothing I like more than seeing your cheeks stuffed with my
+love sausage. Do you mind if I post the pictures we took to USENET?
+
+Perhaps
+this weekend we could go to the Colorado Club (one of my favorite "gentleman's
+clubs" -- they know me there) together.
+
+Don't worry yourself too much about
+what happened last night. I'm certain your Ukrainian hubby didn't see me slip
+out the bedroom window.
+
+Yours forever
+Al McAnespy
+76936: Miss April is here, typing at one of the library's computer terminals.
+76988: Miss April seems to be about forty and somewhat short of stature. If one
+had to pick a single word to describe her overall appearance, it would be
+"dizzy".
+77100: As much as you'd like to, you decide against attacking poor Miss April.
+77152: You plant a little kiss on Miss April's cheek. She wipes it off and
+pushes you away with a giggle.
+77278: "Internet terminal
+is like my home
+so everyone
+can read my poem"
+77328: "That Martin creep
+is a big stalker
+I'll still hate him
+When I'm old in
+my walker"
+77392: April glances at the tape with a slight hint of recognition.
+77434: "I don't care
+what your Dean do
+I'll post my poems
+where I want to"
+77488: "Internet terminal
+is like my home
+so everyone
+can read my poem"
+77536: "That Martin creep
+is a big stalker
+I'll hate him
+When I'm old in my
+walker"
+77596: April glances at the tape with a slight hint of recognition.
+77640: "It's true what they say: Size doesn't matter."
+77678: "You think I'm married
+But it's just talk
+If you try to find out
+I'll
+say you stalk"
+77746: "I don't know anything about that. Would you like to hear one of my
+poems?
+78372: Sometimes i feel
+like baby bird
+tip tapping on a shell
+
+slimed in the
+muck
+from others' thoughts
+I fed and wish them well
+
+breakthrough I'm
+free
+sweet slime, cloak me
+until I beat my wings
+
+in time I'm dry
+sustained, I
+fly
+come hear my true voice sing.
+
+April"
+78566: Jealous Lover
+
+His thoughts churned
+imagined
+their sex
+with me
+his
+fantasy
+slithered
+beyond reason
+retching ill
+I hemmed in
+please, not again
+too
+late
+his snakes were mating
+as I stood clear
+begged him to stop
+sickened with
+fear
+blameless blamed
+he aimed at me
+imagined my recoil
+I stood
+as he
+fanged
+fantasy guilt
+disgusted
+at him.
+
+April"
+78820: A Night in Confession
+
+My eyes smile sweet anger
+Luring you past the
+pulpit
+Pressing over you
+Swallowing you in
+
+Your eyes close begging
+Escaping
+the coldness
+My judgement 
+Watches over you
+
+Your denial flys open
+I still
+myself 
+Keeping your gaze
+You shutter your soul
+
+I dangle your release
+
+Gripping, fluid, rhythm, again
+Now    halt   between
+Beads of your
+penance
+
+Motionless, shuddering
+My quick darting sin
+A deliverance, your
+puzzle
+You squirm envious in prayer
+
+Till my answer crashes, now
+faster
+Chanting, singing, calling  benediction
+I evoke exalting streams,
+quiver
+Hush   rest   now   
+in forgiveness.
+
+April"
+79284: I Test Drove a Volvo Today
+
+Today I drove a Volvo
+Black and
+nondescript
+I was feeling quite benign
+Until I saw the stick
+
+Confident and
+yearning
+I pet ignition fur
+Stroked the gears to churning
+Bold shifts to make
+it purr
+
+We sprung to pounce on asphalt
+Heart leap at every curve
+Growling
+pause at stop signs
+To ease sweet rider's nerve
+
+Stalk, shift back to the
+dealer
+We felt so prime and fit
+Addressing now my pale one
+"I think, I want,
+buy it!"
+
+April"
+79626: ADD
+
+Sometimes I am like a child
+when you speak long
+I see your point
+as
+you spell out the details
+forever it takes
+I am somewhere else
+now thinking 
+of
+how I wish you'd speak
+in a commercial moment
+
+Arrgggghh!  Just spit it out
+already!
+
+Sometimes I listen long
+as you skip from tale to tale
+they all tie in
+together
+a yarn of commercial moments
+
+Thank you!  I could listen
+forever!
+
+April"
+79918: Motorcycle thoughts
+
+Driving on high ground
+my Mountaineer, safe and
+sound
+as freon crisp air
+caresses my hair
+I nod 
+
+Shelled glass seeing
+danger
+bike on the side
+a frightened young wife with
+twisted metal thoughts
+hung her
+man
+a for sale sign
+
+Stolen cycle dreamin'
+I'm renting the road
+petal pink
+dress ripping
+sweat sleek and low
+bucking under
+yellow frilled panties
+wind
+trap hair
+encrusted bug fleece 
+as I'm whizzing by
+blurred passerby
+I snore
+
+I
+don't need that young wife's fear
+I only need to dream it here.
+
+April"
+80304: The Down Feather
+
+Sanding in your circle
+My wings tucked in splints
+My
+mind gropes with hindsight
+Resounds in the present
+
+Your theme is easy to
+pick
+I see your record skip
+all so easy now
+
+Shadowed by threats
+My heart has
+grown cold now
+My mind turns it over
+Keeps faint hearts beating
+
+Wings have
+grown itchy
+From hiding their glimmer
+Your thumb is still pressing
+Charade is
+the under
+
+April"
+80594: Mind has gone jittery
+imagining the split
+of lifetimes and promises
+all
+under the bridge
+it's gone on too long now
+the spell that I'm under
+feeling a
+need now
+to reach it I wonder
+
+A way, what way, I know the way
+It's taking too
+long
+Just day by day
+
+Suffering affections
+in returns half-hearted
+All to
+consider
+A name lost in credit
+I know your financials
+The payment is
+slowly
+hocked in a gold band
+my priceless not finding
+
+I wear scarlet "I" on my
+chest
+while you search for a tag 
+to cover me in dress
+
+April"
+80972: Unrequited Moments
+
+For a moment
+You breathed a question
+That brought a
+stab of longing
+To a resolute heart
+
+For a moment
+I turned to you
+Gave a gentle
+puff
+For your floundering ego
+
+For a moment
+You needed my
+contemplation
+Stretched all your being
+For my consideration
+
+For a moment
+I
+turned indecisive
+Wishing for only
+More of such moments
+
+For few moments
+Bear
+no sustenance
+Gentle puffs I give
+Never come back to me.
+
+Away you dance
+Filled
+with a light I'd given
+And I sit as always
+In the darkness you've left for
+me.
+
+April"
+81370: Sewing Circle
+
+He spoke in a seam
+of red flowing thread
+stitching the
+petals
+of embroidered love
+
+I listened in green
+of pinpricked stemms
+poking the
+thorns
+through naked canvas
+
+We waited between
+empty spools of thread
+clumsy
+thimble thumb find
+a white color for life.
+
+April"
+81574: untitled
+
+Yes, it's pouring cold rain.  Nothing warm or sultry about it.
+ And I had an umbrella, a way to protect us.  But your ego in a flash of white
+blinding light, cut through my advice and left it to be swallowed in a rapidly
+growing puddle.  And you sleep through your mistake as I'm drowning in this
+pool of fear.  Fear from being forced to live with your lies, your rash
+reasonings, your jealousy, your control, your threats. Too often you sought to
+tie my hands, gag my mouth, and I can only wish for the way it was when I was
+alone.  There are no ties of love anymore, no security of that warm gentle
+inspiration to keep me going in the stormiest circumstance.  My every instinct
+is shouting to me, "run while you can!"  But you've left me without the means
+anymore.  Crippled emotionally, financially, I begin to think of things I knew
+I never would.  But I never knew I'd be in a situation like this.  Chapter 13
+begins to look more and more like the doorstep I'll darken, as I think of
+stretching my already-stretched-with your-debt charge card to pay a lawyer's
+fee.  Two fees, maybe.  
+
+It had to all be in my name, didn't it?
+
+The ad in
+the paper says desperate seller, everyone knows what that means.  Except you. 
+I'm trying hard now, to push back these fears, but you've left me with nothing
+to fall on.  Not even you.  In the silent despair of threats overshadowing,  I
+can think of no way except one, "Run, run while you can."
+ 
+April"
+82616: Untitled
+
+You saw me as an Angel, a slight swish touch to make you
+smile.
+I prayed you were my saviour, built you, made you strong.
+Your strength
+heralded rash decisions.  My caution could not withstand.
+And through it all I
+see your weakness.  My advice, ignored, how can I
+remain strong?  When all you
+do to build us up shakes me to the core?
+Should I remain to fall into the pit
+with you?  
+A rainy day, I had an umbrella, you threw it away.  Now like an
+anxious
+mother, all births still, I remain infertile.  I just can't seem
+to
+produce any more, except these words of anguish.  
+How can I hope to
+conceive new life, when I feel you drag me down?  In
+truth, I felt more
+confident to be a mother when I was all alone.
+You've tied me, to leave now I
+cannot sustain even myself.  But to stay,
+worried, I fear I would eat my
+young.
+Anxious now, untrusting of your unstable strength,
+I cannot conceive, I
+cannot receive, 
+just dry and barren womb.
+
+April"
+83314: His stifling words
+Pushed me to run
+No limit in mind
+Only
+emptiness.
+
+Kinda like a floundering fly in a bowl of pea soup
+Every instinct
+crying "Danger!"
+As his needle stuck legs sink further in the green
+muck.
+
+April
+83526: aycare facility. The exit to the facility is to the northeast.
+83572: Leave that stuff for the kiddies to enjoy.
+83604: It's a cheap Rat Shack job. Unable to record tapes, it can only play
+pre-recorded ones.
+83668: You'll have to turn off the tape player first.
+83704: There's already a tape in the cassette player.
+83740: There's already a tape in the cassette player.
+83776: You'll have to close the cassette tape player first.
+83816: The air is filled with the type of angst-ridden sophomoric tripe
+preferred by many of today's spoiled Generation X'ers. After a few songs the
+tape ends and the player switches off.
+83944: The tape is awfully noisy, but you can make out parts of it: "...Do you,
+April...take this man...to be your lawfully wedded husband?... I do...You may
+kiss the bride..."
+84078: April's eyes open wide as you play the tape, and her face begins to
+assume an expression of terror. As the recording ends, she blurts in
+anguish,
+
+"All right! Okay! I'll leave you alone
+I don't understand how can
+this be
+But please don't tell my husband at home
+About my boyfriend Al
+McAnespy!"
+
+With that, she darts out the door.
+84324: The tape ends and the player switches off.
+84356: Nothing happens, probably because there's no tape in the tape player.
+84408: The tape is a Nine Inch Nails bootleg with the title "Children of the
+Night".
+84468: This is a cheap unlabeled cassette tape.
+84510: students and faculty are parents, there is a day care facility on
+campus. The entrance to the facility is to the southwest. Other paths lead
+north, northeast, and east.
+85344: It's easy to miss Implant due to his diminutive size. Sitting at his
+little desk, his feet, which resemble hooves, dangle well above the floor. His
+thin goatee seems out of place on such a youngster.
+85484: Implant is here, typing at one of the facility's computer terminals.
+85532: You can't bring yourself to attack the little ankle-biter.
+85576: Implant trembles slightly at the sight of the Dean's name.
+85620: "You fucking Cabal ladies are all fucking the fucking same, assfuck."
+85672: "Fucking Fat Marty is another fucking one of you fucking Cabal fuckers,
+shitass."
+85836: When are you fuckers gonna fucking learn that fucking UCE is fucking
+free fucking speech, dildo."
+85908: "Fucking BRILLIANT ain't it, fuckwad?"
+85944: "I don't fucking give a fuck, shithead."
+85976: Implant trembles slightly at the sight of the Dean's name.
+86020: "You fucking Cabal ladies are all fucking the fucking same, assfuck."
+86072: "Fucking Fat Marty is another fucking one of you fucking Cabal fuckers,
+shitass."
+86236: When are you fuckers gonna fucking learn that fucking UCE is fucking
+free fucking speech, dildo."
+86308: "Fucking BRILLIANT ain't it, fuckwad?"
+86344: "I don't fucking give a fuck, shithead."
+86376: "Just another fucking Cabal dickhead."
+86408: At the sound of his own name Al "Implant" McAnespy stands rigid and
+focuses a terrified gaze in your direction. With a mind-numbing scream Al
+begins to shrink even smaller than he already is. His shriek rises in pitch as
+he decreases in height to barely an inch.
+86592: "I don't fucking give a fuck, shithead."
+86624: "Just another fucking Cabal dickhead."
+86656: At the sound of his own name Al "Implant" McAnespy stands rigid and
+focuses a terrified gaze in your direction. With a mind-numbing scream Al
+begins to shrink even smaller than he already is. His shriek rises in pitch as
+he decreases in height to barely an inch.
+86840: "I don't fucking give a fuck, shithead."
+86872: Little Al "Implant" McAnespy, barely an inch tall, is running around on
+the floor in a panic. His pitiful scream is but a tinny buzz.
+86972: There's a tiny Al "Implant" McAnespy running around the floor.
+87020: You effortlessly squash the tiny Al "Implant" McAnespy, mercifully
+putting him out of his misery.
+87092: easily squashes the tiny Al "Implant" McAnespy, mercifully putting him
+out of his misery.
+87160: The teensy Implant is too frantic to pay you any attention.
+87204: You're standing outside the office of F. L. Uffy, the Dean of the
+College of Computer Science. The Dean's office is to the south. Other paths
+lead north, east and west.
+87332: The door is solid oak with a solid brass plaque displaying the Dean's
+name.
+87388: The door to the Dean's office is closed.
+87420: The door to the Dean's office is open.
+87452: L. Uffy, Dean, College of Computer Science"
+87488: Kook U's College of Business lies to the southeast of here. Other paths
+lead north, northwest, and west.
+87584: college of Business, which has a well-deserved poor reputation among the
+fiscal community. The college's exit is to the northwest.
+87676: Sanford Wallace is here, munching potato chips and typing at a computer
+terminal.
+87736: Sanford "Spammy" Wallace's junk mail business appears to have fed him
+well, judging by his waistline.
+87812: Your attack is deflected by Sanfords's ample girth.
+87904: Sanford examines the memo. Finding no email address, he returns it to
+you.
+87960: Sanford examines the card. Finding no email address, he returns it to
+you.
+88016: Sanford examines the lyrics. Finding no email address, he returns it to
+you.
+88072: Sanford examines the thermos. Finding no email address, he returns it to
+you.
+88128: Sanford examines the pack of cigarettes. Finding no email address, he
+returns it to you.
+88192: Sanford examines the joint. Finding no email address, he returns it to
+you.
+88248: Sanford examines the article. Finding no email address, he returns it to
+you.
+88304: You can see Sanford's rage grow as he reads the bill. His face becomes
+red, his eyes bulge, his veins throb. He becomes hopping mad, jumping up and
+down in anger. Bits of plaster fall from the ceiling. Suddenly, the roof
+collapses! An enormous quantity of junk mail plummets from the floor above,
+smothering Sanford.
+88528: Sanford examines the tape. Finding no email address, he returns it to
+you.
+88584: Sanford examines the tape. Finding no email address, he returns it to
+you.
+88640: Stanford examines the thermos. Finding no email address, he returns it
+to you.
+88696: Sanford examines the memo. Finding no email address, he promptly loses
+interest.
+88756: Sanford examines the card. Finding no email address, he promptly loses
+interest.
+88816: Sanford examines the lyrics. Finding no email address, he promptly loses
+interest.
+88876: Sanford examines the thermos. Finding no email address, he promptly
+loses interest.
+88936: Sanford examines the pack of cigarettes. Finding no email address, he
+promptly loses interest.
+89004: Sanford examines the joint. Finding no email address, he promptly loses
+interest.
+89064: Sanford examines the article. Finding no email address, he promptly
+loses interest.
+89124: You can see Sanford's rage grow as he reads the bill. His face becomes
+red, his eyes bulge, his veins throb. He becomes hopping mad, jumping up and
+down in anger. Bits of plaster fall from the ceiling. Suddenly, the roof
+collapses! An enormous quantity of junk mail plummets from the floor above,
+smothering Sanford.
+89348: Sanford examines the tape. Finding no email address, he promptly loses
+interest.
+89408: Sanford examines the tape. Finding no email address, he promptly loses
+interest.
+89468: Sanford examines the item. Finding no email address, he promptly loses
+interest.
+89592: "Send me your email address and I'll get back to you."
+89696: "Send me your email address and I'll get back to you."
+89736: "Send me your email address and I'll get back to you."
+89776: You don't need to refer to that in order to complete this game.
+90352: The fan is small but seems quite powerful. It could probably do a good
+job circulating the air in a moderately-sized room.
+90440: Leave the junk mail alone. You get enough in your mailbox as it is.
+90488: You enter the Dean's office apprehensively.
+91048: Network one final Time." 
+
+With a hint of a "meow," the Dean directs you
+back to the...
+91120: Kook U's main computer room, where you spend much too much of your time
+is cooled by a massive air conditioning system. All manner of electronic
+equipment beeps and flickers. Thankfully the janitorial staff has cleaned up
+the most recent electrical fire.
+91296: The door to the computer room is closed.
+91324: The door to the computer room is open.
+91352: You don't need to refer to that in order to complete this game.
+91944: The name server begins to boot up but shortly dies with the error
+message "network unreachable."
+92012: The file server begins to boot up but shortly dies with the error
+message "network unreachable."
+92080: The file server begins to boot up but shortly dies with the error
+message "unable to resolve host name."
+92152: Switching off the file server causes the news server to shut down.
+92200: The news server begins to boot up but shortly dies with the error
+message "network unreachable."
+92268: The news server begins to boot up but shortly dies with the error
+message "invalid host name."
+92336: The news server begins to boot up but shortly dies with the error
+message "unable to mount file system.
+

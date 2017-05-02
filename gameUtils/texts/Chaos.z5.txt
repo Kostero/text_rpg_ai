@@ -1,0 +1,626 @@
+14260: There is no reply.
+14328: Nothing is on sale.
+14786: Dropped.
+14843: . Not bad.
+15972: Wrahn seem interested.
+16487: Done.
+16536: You are carrying nothing.
+16621: Keep your mind on the game.
+16646: You hear nothing unexpected.
+17710: But it's dark.
+17727: You find nothing of interest.
+17755: Quite.
+17785: Nothing to do!
+17820: o. You have won
+17903: It is now pitch dark in here!
+17930: I beg your pardon?
+17994: Sorry, that can't be corrected.
+18023: Think nothing of it.
+18076: As good-looking as ever.
+18108: You can hardly repeat that.
+18133: You can't begin with a comma.
+18247: I didn't understand that number.
+18276: You can't see any such thing.
+18312: You aren't holding that!
+18408: That's not a verb I recognise.
+18446: You can't see "
+18556: Nothing to do!
+18573: There are none at all available!
+18984: That was a rhetorical question.
+19011: Score notification off.
+19034: Score notification on.
+19063: Objects you have handled:
+19088: None.
+19561: You have visited:
+19755: You are unable to.
+19774: Nothing obvious happens.
+19824: That's not a direction.
+19847: Not that way you can't.
+19994: You lack the dexterity.
+20075: Done.
+20123: Please answer yes or no.
+20149: Are you sure you want to quit?
+20308: Removed.
+20339: Failed.
+20358: Restore failed.
+20375: Ok.
+20385: You achieve nothing by this.
+20417: Save failed.
+20432: Ok.
+20540: There is no score in this story.
+20578: Transcripting is already off.
+20644: Transcripting is already on.
+20710: But it's dark.
+20830: You find nothing of interest.
+21130: Your singing is abominable.
+21164: You smell nothing unexpected.
+21191: Oh, don't apologise.
+21219: Keep your hands to yourself.
+21244: You achieve nothing by this.
+21473: Taken.
+21484: You are always self-possessed.
+22007: You taste nothing unexpected.
+22041: You talk to yourself a while.
+22068: This provokes no reaction.
+22094: What a good idea.
+22120: Futile.
+22149: Keep your hands to yourself!
+22174: You feel nothing unexpected.
+22199: If you think that'll help.
+22445: Time passes.
+22469: That seems unnecessary.
+22565: You wave, feeling foolish.
+66281: You have reached paradox.
+66845: You hear nothing at all.
+67084: That is the key to reality.
+67380: He snickers.
+67550: It is bolted to the floor.
+67606: You almost want to vomit.
+67694: The sundae is not for you.
+67719: It is quite tasty.
+67745: The pedestal doesn't budge.
+67870: The old woman shows no interest.
+68004: The jukebox fails to turn on.
+68079: You need to stand up first.
+68152: You need to stand up first.
+68231: You need to stand up first.
+68325: You need to stand up first.
+68399: You need to stand up first.
+68507: You need to stand up first.
+68579: You need to stand up first.
+68673: You need to stand up first.
+68747: You need to stand up first.
+68819: You need to stand up first.
+68956: She doesn't even notice you.
+69192: There is no coffee left.
+69238: The omelet refuses.
+69322: It seems to be fixed in place.
+69354: It seems to be fixed in place.
+69642: Are you serious?
+69866: There's a voice inside my head!
+72245: in" or "notin
+72261: opmhas" or "hasnt
+72403: }" at end of "objectloop
+74688: Score:
+74696: Moves:
+74704: Time:
+74712: You can't go that way.
+74820: Violence isn't the answer to this one.
+74848: This dangerous act would achieve little.
+74876: I don't think much is to be achieved by that.
+74936: Digging would achieve nothing here.
+74964: There's nothing suitable to drink here.
+74992: That would scarcely empty anything.
+75020: You can only get into something free-standing.
+75092: But you aren't in anything at the moment.
+75124: But there's no water here to carry.
+75180: You can't put something inside itself.
+75208: You jump on the spot, fruitlessly.
+75236: You would achieve nothing by this.
+75288: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+75384: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+75468: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+75580: You see nothing unexpected in that direction.
+75844: Please give one of the answers above.
+75872: [You can't "undo" what hasn't been done!]
+75908: [Can't "undo" twice in succession. Sorry!]
+75948: "Oops" can only correct a single word.
+75976: It is pitch dark, and you can't see a thing.
+76008: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+76068: You seem to want to talk to someone, but I can't see whom.
+76112: To talk to someone, try "someone, hello" or some such.
+76152: I didn't understand that sentence.
+76212: You seem to have said too little!
+76236: You can't use multiple objects with that verb.
+76272: You can only use multiple objects once on a line.
+76308: You excepted something not included anyway!
+76340: You can only do that to something animate.
+76372: That's not something you need to refer to in the course of this game.
+76420: I didn't understand the way that finished.
+76452: Sorry, you can only have one item here. Which exactly?
+76552: Nothing practical results from your prayer.
+76608: That would be less than courteous.
+76632: Is that the best you can think of?
+76656: You can't put something on top of itself.
+76688: Are you sure you want to restart?
+76712: Attempt to end transcript failed.
+76736: Attempt to begin transcript failed.
+76764: You aren't feeling especially drowsy.
+76792: Real adventurers do not use such language.
+76824: There's not enough water to swim in.
+76852: There's nothing sensible to swing here.
+76880: You're carrying too many things already.
+76912: You lack the nerve when it comes to the crucial moment.
+76980: You'll have to say which compass direction to go in.
+77020: The game file has verified as intact.
+77048: The game file did not verify as intact, and may be corrupt.
+77092: The dreadful truth is, this is not a dream.
+77152: Even science can't explain what the gods usually know. You have moved
+beyond the synchronistic environment and into a void devoid of null and full of
+nothing. Your mind will make it real but who controls the mind?
+77304: You stand in the middle of the desert on a sand deposit so large there
+is no dune in sight. Only the bright whitish sun hangs as the center piece to a
+boring portrait; A portrait you are not so sure if you are a part of. The sky
+glows a solemn blue turning into nothing but a haze as the horizon meets the
+burnt sand.
+77524: In each direction you can see hazy beginnings. To the west, you make out
+the glow of a city street. To the east you make out a giant cauldron. To the
+north you are unable to make out much of anything and to the south nothing but
+a pale white backdrop.
+77700: The wind picks up a nebula of dust then dies down again.
+77742: Red clouds form off in the distance.
+77772: The vulcher cries out in disgust, anguish, and madness.
+77814: The vulcher taunts you from up above.
+77846: The vulcher swoops down and steals your hat and proceeds to chew on it.
+77900: The vulcher peers down at you looking for something to steal.
+77948: An old woman on the side of the street beckons you to hear her plead for
+forgiveness. Her gaze does not lie on you however, but rather at the
+cobblestone below, still damp and reflecting the faint yellow glow from the
+streetlight. You stand at the corner of a boutique and butcher's shop.
+Tenements covered in grime and accessed through bolted doors prove this
+street's vacancy.
+78244: Old rusty cars pass down the street, their drivers hidden inside the
+dingy metal boxes. A group of rats fester in a knocked over garbage can.
+78344: The street is eerily quiet save for a car or two passing by.
+78388: The old woman gives an weird look.
+78412: The thick air holds in the scent of moist trash and car fumes.
+78456: Your surroundings shift into a dark red mystical blur with a gigantic
+iron vat in the middle. You gag as you waft the contents of the cauldron but a
+faint light appears among the murky goo. You hear whispers and make out what
+seems to be eyelids flashing open all around you. You make out what can only be
+described as pulsing veins in the grey mist illuminated in red. A pedestal
+stands to the northwest of the cauldron.
+78744: Deep throbbing rumbles vibrate from your surroundings.
+78784: A flash of light distracts you from the otherwise terrifying place.
+78830: The cauldron bubbles and splashes its content about the room. You hear a
+high shrieking noise enough to make you plug your ears and wince. The symbols
+on the side of the cauldron illuminate in a bright purple. Suddenly you glance
+at the pedestal and notice a hot fudge sundae sitting there.
+79032: The cauldron no longer stirs, as if the magic was swept away from it.
+79080: The cauldron gurgles and the sound of laughter fills the room.
+79124: You almost walk yourself right off the edge of the cliff before
+embracing a rock to hold you back. It's as if this cliff divides what is real
+and what isn't. From a certain angle you wouldn't even know it is there. You
+can't make out what is below except for a haziness drenched in mystery.
+79328: The cliff must be an impenetrable wall from the perspective of those
+down below.
+79384: Let's hope you don't accidently get knocked over the edge.
+79428: You willfully leap from your safe perch down into the mysterious
+unknown. The abyss into which you have cast yourself continues for infinity.
+Any possibility of understanding what happened to you is now lost. It is up to
+you to decide if your newly discovered fortune is a good thing or a bad thing.
+79636: You find yourself on the inside of a white coffee mug. If it wasn't for
+the faint breeze of a diner fan above you it would be hard to tell where you
+were. It is a good thing the contents of this cup have been drunk already
+although you can still make out the scent of a freshly poured cup of Joe. An
+enormous spoon, by comparison to your newly found size, rests against the rim
+and extends down to the bottom of the cup.
+79924: An enormous spoon, by comparison to your newly found size, rests against
+the rim and extends down to the bottom of the cup.
+80010: What confounded science has brewed the pot of coffee likely just
+finished by a diner patron? You begin to realize the enormity of the void and
+the vast potential it stores. Are you still in control of it?
+80154: You smell breakfast being cooked above you.
+80188: You make it up the spoon in one piece suddenly growing in size to find
+yourself in the diner.
+80256: You suddenly lose your voice in the midst of your tune.
+80296: You hear the sound of plates clanging.
+80324: It is the pungent smell of coffee.
+80348: All lights in the diner seem extraordinarily dim. The jukebox in the
+corner glows yellow and red and purple casting its colors onto the table and
+pictures on the walls. Only barstools and a bar stand in this diner. It is a
+cramped little place not unlike a sort of hopeless retreat for the sinners and
+loners. The exit lies through the door left ajar to the southwest.
+80604: A waitress leans against the counter staring out the window. You can see
+in her eyes the image of a soulless individual.
+80688: You hear "The Poncho Song" playing.
+80716: You hear the clanging of plates as breakfasts are being cooked up in the
+kitchen. The jukebox remains silent.
+80792: The waitress commends your singing while the baroness sharply ignores
+you.
+80844: This is a place that everyone knows about yet no one is aware of. It is
+the edge between black and white. It is the smallest number larger than zero.
+Your mind makes it real. You have crossed beyond the thought of infinite. You
+occupy infinite.
+81016: This is your surroundings. This is all you perceive for the time being.
+81068: Do you really think praying will change your perception of the world?
+81116: Classical music starts playing, an oboe first, then clarinet, and a
+large string arrangement.
+81184: Top 40 radio hits occupy your hearing.
+81212: A jazz ensemble plays an uptempo tune.
+81240: You hear the sound of chilled beats.
+81268: Tribal beats induce a trance like state. Your surroundings begin to fade
+but you quickly snap back into reality.
+81348: You sing "The Poncho Song" to yourself as laughter grows and wanes from
+an unknown source.
+81414: You hear the lowest octave of a harmonium.
+81448: The lowest octave is joined by the next highest octave.
+81488: The next highest octave joins the other two.
+81520: The next highest octave joins the other three.
+81554: The next highest octave joins the other four.
+81590: The next highest octave joins the other five.
+81626: The next highest octave joins the other six.
+81660: All eight octaves join in unison before they eventually fade out.
+81706: His gaze befuddles you. His eyes seem to pop out of their sockets with a
+frightening clarity that makes you turn away. Yet still he looks quite hungry
+and your inability to lay to rest any pity thwarts your attempt to ignore the
+mangled creature. 
+
+"OHH am I hungry!" he cries out.
+81908: The creature seems invulnerable to any attack.
+81940: The vulcher bats it away and chuckles.
+81968: "Use the command 'talk' for conversation"
+82000: "You look like quite the tasty dessert from a diner menu, but I grow
+weary up here in the sky all day long. I circle for hours and never find much
+to eat."
+
+He sneers your way flapping his wings in large undulating motions
+perhaps waiting for your reaction with a plot in his mind.
+82196: "Well if you keep bothering me we won't ever make progress. Ok, I tell
+you what you little banana split, I have a proposition."
+
+His snicker grows.
+82304: "If you bring me a delicious treat then I will refrain from eating you.
+It makes it easier on me and perhaps you may value your life enough to want to
+live it."
+82416: "What are you waiting for!? I grow ever more weary by the minute, maybe
+even by the second you little peach cobbler."
+82500: The vulcher lays his eyes on the sundae and swoops down to grab it. He
+practically tackles you into the dirt while sticking his head into the sundae.
+He stops for a brief moment to say, "This is so tasty and delicious" before
+deciding that the hot fudge sundae is not enough to satisfy his hunger. 
+
+"My
+insatiable desire for food to fill my hunger never dies. I am afraid, my little
+apple streudel, that I am in the need of the main course. Dessert is fantastic
+but the saying that you will spoil your appetite by eating dessert first does
+not apply to me. 
+
+"How about I try a bite of you to see how good you are
+first," he says as his beak clasps down on your ring finger and he gulps it
+down his throat. 
+
+"You will do just fine," the vulcher snickers as he proceeds
+to dive into your chest, starting with your liver. You soon begin to remember
+what happened to you. It all seems overwhelming but you had been on the run
+from the local sheriff. 
+
+You had been the reason for the death of many,
+unsettling the northern and southern armies. The confederate general was
+hunting you down for having stolen weapons and collusion with the north. You
+were a traitor. 
+
+Not one hour ago you had run into the confederate army. You
+had escaped but suffered tremendous blood loss from a shot to your liver. Now
+you lie here in the desert with a vulcher eating away at your corpse.
+83456: The vulcher is not impressed with what you have brought him. He begins
+to eye you up.
+83516: It is finely grained sand blown in from the west.
+83552: It is extremely hot to the touch.
+83576: The sun hangs high in the sky.
+83600: It is about 8 feet wide, 4 feet high. Dirt and grime has built up along
+its outer face.
+83664: It is bolted to the floor. You wonder why that is.
+83700: The cauldron bubbles and froths and the color of its content distorts.
+83752: You go to place the object in the cauldron and the ground beneath you
+shakes. The veins pulse more violently and the cauldron spits the object back
+at you.
+83860: The cauldron is plenty full. It just seems to be missing a few
+ingredients in order to produce anything from its vile, spiritual containment.
+83960: You see dozens of spider eggs attached to the underside of the cauldron.
+84010: You remove the grime and dirt off the side of the cauldron to reveal a
+message. 
+
+Het retga REMA cmeomnds oseth owh kees teh suptanrerrual orf hlep.
+Pary dan ym respow lliw eb elaverde.
+84144: It is definitely mystical in origin. That is your only conclusion.
+84192: You aren't putting your hands in that disgusting liquid, if that is what
+you can call it.
+84256: You put a small hand full of the liquid in your mouth and immediately
+induce extreme vomiting, causing you to go under for quite some time. But you
+regain your strength.
+84372: Terrifying.
+84384: Het retga REMA cmeomnds oseth owh kees teh suptanrerrual orf hlep. Pary
+ot ym enma dan ym respow lliw eb elaverde.
+84468: It is too dirty to see what might be on the cauldron.
+84508: The eyes open and close sometimes in unison circling the room in a wave.
+84560: You look deeply into the eyes and see nothing there, as if these eyes
+were a part of all the many lives that are blind to the world around them.
+84660: They pulsate in rhythmic patterns.
+84684: It looks delicious.
+84700: A large flat slab of stone, finely cut, rests atop a four foot high
+cylinder. Its circumference is cut in a zig zag pattern resulting in triangular
+ruffles.
+84808: The top of the pedestal is surprisingly smooth and has not collected any
+dirt at all.
+84872: She chants in a strange tongue; Every verse letting out an untangible
+laugh. It is a cross between the maniacal laugh of wicca and the lengthy drawn
+out laughs of circus performers. Her makeup runs down her round face dripping
+onto her triangular nose and onto her quivering lips where it resides begging
+to enter the mouth.
+85096: She ogles the statue for nearly fifteen seconds, her eyes lighting up,
+seemingly knocking her out of her trance. The old hag picks it up and fondles
+Rockefeller's feet before they give way revealing a hidden compartment inside.
+Her long fingernails sift through the compartment before grasping a folded up
+piece of cloth. Unfolding it gently, the old woman now appearing in full
+ecstacy bares the prize inside, that being a full silver dollar from before the
+turn of the century.
+85426: She turns back to you in astonishment that such a poor soul would bear
+such a magnificent surprise. She grins and says to you, "This is quite a
+magnificent exchange item from your half. I will indeed hold up my end of the
+bargain in accordance to the exchange. 
+
+"I know what it is you seek. Your life
+may be in peril at the hands of one who would like to see your end, even more
+than yourself! 
+
+
+When you have lost all your marbles 
+And your mind's in the
+cobbles 
+Find the way towards the mushrooms 
+Where the men play with brush
+brooms 
+There lies the big books 
+With bags full of small hooks 
+And all call
+for one newt 
+To give a kick with a boot" 
+
+She hands you one newt and returns
+the statue.
+85928: The old woman delights in the thought of playing with a wooden
+merry-go-round. "This is fantastic," she exclaims.
+86012: "You should be giving this to someone else in more need of love than
+me."
+86064: "That thing is hideous. I hope someone steals it."
+86104: She vanishes before your very eyes with the same maniacal laughter. As
+quickly as she disappeared she reappears, unscathed.
+86220: "Forgive me please for the sins I have committed in my life! Won't you
+spare me an invaluable? I have nothing much left to live for." 
+
+She runs her
+hands over your face as if to abide by some sinister spirit to "check" your
+life force. 
+
+"You are already dead inside, my poor soul, like a christmas tree
+in January," she laughs. 
+
+"You and I are much in common. Perhaps it would work
+in both our interests if we were to commit to an exchange."
+86540: "Well, do you want an exchange or not?" she asks vehemently.
+86584: She gives a brief smile before returning back to her chanting and
+laughter.
+86636: The shops are still open for business judging by what you can see in the
+windows, but they are closed at this time of night.
+86724: A sign on the outside of the building reads "Hannover Towers"
+86768: It is a tall, skinny type of streetlight with a bent arm holding the
+yellow glowing bulb in place.
+86836: It might be a challenge to get up but if you believe you can climb it
+you will be able to.
+86900: The table has five seats attached to the floor in front of it.
+86944: A number of records can be seen inside along with their titles.
+86988: The waitress starts listening to the song, her eyes still fixated on the
+streetscape through the window. Out of no where she starts into a lengthy
+rambling. 
+"So then he decided to pick up the lamp and throw it in my
+direction. It made no sense to me at the time since, you know, I was clearly
+confused by his change of attitude. I mean, it's not like I ever meant to flirt
+with that guy in the suit. A friendly smile is all. It's not as if I can help
+it that the guy probably doesn't see his lover very often being out of town all
+the time. I was just humoring him. Of course just before this incident happened
+I had realized I forgot to pay the electricity bill." 
+
+She pauses for a
+moment, "I was in the middle of writing my resume for that job at the Pookah
+Bar and bam, I lost all of my progress. It just so happened as well that my
+girlfriend called asking for money to pay her rent earlier in the day. That
+place only stands with the aid of gum and gum bands. I swear the girl can't
+make it herself, alone out there. 
+
+Sometimes you just want to take a moment to
+let it all soak in and then blow it all out like a dam bursting. Whether the
+violent force breaks you or releases you it depends on the side of the dam you
+are on, and you wanna be on the top but the dam has no ladder to climb. So you
+desperately attempt to clasp on to the walls and pull yourself up. Some people
+make it because they have tools and others don't because all they have are
+their calloused hands. 
+
+If only the world were made of wood, then it wouldn't
+matter what happened to everyone because we would all be made of the same
+thing......."
+88190: muzzle" and your favorite, "Read It!".
+88224: They are portraits of famous movie stars, singers, and musicians, as
+well as a few photos of the city including one depicting the burning Harowitz
+building.
+88332: An ordinary barstool.
+88348: You cannot sit where the baroness is sitting.
+88382: The baroness does not appreciate you sitting next to her with other
+empty seats available not next to her highness. Inevitably, she slides herself
+over one seat.
+88496: The waitress does not seem to recognize you in the seat you are sitting
+in.
+88552: An ordinary barstool.
+88568: You cannot sit where the baroness is sitting.
+88602: The baroness does not appreciate you sitting next to her with other
+empty seats available not next to her highness. Inevitably, she slides herself
+over one seat.
+88716: The baroness does not appreciate you sitting next to her with other
+empty seats available not next to her highness. Inevitably, she slides herself
+over one seat.
+88828: The waitress does not seem to recognize you in the seat you are sitting
+in.
+88884: An ordinary barstool.
+88900: You cannot sit where the baroness is sitting.
+88934: The baroness does not appreciate you sitting next to her with other
+empty seats available not next to her highness. Inevitably, she slides herself
+over one seat.
+89048: The baroness does not appreciate you sitting next to her with other
+empty seats available not next to her highness. Inevitably, she slides herself
+over one seat.
+89160: The waitress responds, "The usual right? A mushroom swiss omelet and a
+cup of coffee coming right up." She cracks a smile as she grabs a mug and pours
+coffee into it. 
+"Here you go!" she says as she places before you the omelet
+and the cup of coffee. "It has been a slow morning here, as usual." 
+
+She goes
+back to staring out the window.
+89408: An ordinary barstool.
+89424: You cannot sit where the baroness is sitting.
+89458: The baroness does not appreciate you sitting next to her with other
+empty seats available not next to her highness. Inevitably, she slides herself
+over one seat.
+89572: The baroness does not appreciate you sitting next to her with other
+empty seats available not next to her highness. Inevitably, she slides herself
+over one seat.
+89684: The waitress does not seem to recognize you in the seat you are sitting
+in.
+89740: An ordinary barstool.
+89756: You cannot sit where the baroness is sitting.
+89790: The baroness does not appreciate you sitting next to her with other
+empty seats available not next to her highness. Inevitably, she slides herself
+over one seat.
+89904: The waitress does not seem to recognize you in the seat you are sitting
+in.
+89958: Her nose seems to hit the ceiling. The heavy set lady is decked out in
+all jewelry imaginable. Her eyes remain shut as if you were not worthy of her
+view. She sips her coffee with a disdain for all lifeforms. Her red dress burns
+your retina.
+90130: The baroness is sitting in the first seat.
+90164: The baroness is sitting in the second seat.
+90196: The baroness is sitting in the third seat.
+90228: The baroness is sitting in the fourth seat.
+90260: The baroness is sitting in the fifth seat.
+90292: "Use the command 'talk' for conversation"
+90324: If it wasn't for her need to blink you might not know she was alive. The
+short, brown haired girl perhaps in her twenties stands nearly motionless save
+for the intermediate glances about the diner. Her name tag reads Mandy.
+90480: Nothing will break this girl's lack of concentration.
+90520: "Use the command 'talk' for conversation"
+90552: She doesn't seem to have anything to say.
+90584: She waits for you to take a seat.
+90608: She does not recognize you sitting in this seat.
+90644: Her eyes try hard not to meet yours, "Yes, that is your coffee. I hope
+it is satisfactory."
+90712: "Why is it green? It looks awful," she says.
+90748: Her eyes try hard not to meet yours, "Yes, that is your coffee. I hope
+it is satisfactory."
+90890: Mrs. Landett over there left this statue here by accident the other day
+claiming it had been her luck and inspiration. She complained it had gone
+missing but I never told her that I secretly have been keeping it here the
+whole time. Take it quick before she notices. Maybe it will bring you good
+fortune." 
+She hands the statue over discretely making sure you keep it out of
+sight by having you put it in your jacket.
+91180: It is just an ordinary mug. White on the outside, filled with coffee.
+91232: The bottom of the mug reveals the word LOVE.
+91268: Black.
+91276: The coffee tastes good and goes down smoothly. The bottom of the mug
+reveals the word LOVE.
+91362: Rockefeller.
+91372: A silver dollar.
+91384: Fashion is not your area of expertise.
+91412: A newt.
+91420: It is the white knight from an ordinary chess set. It appears to be made
+of marble.
+91480: One of the finest looking omelets you have ever seen. Big juicy
+mushrooms blend into melted swiss cheese wrapped nicely in well cooked eggs.
+91576: They float all around you.
+91596: You make note of each snowflake containing a different pattern.
+91640: You make note of the vastness of it all.
+91668: You can barely tell it is there.
+91692: It is like something out of the antique road show. On the front there is
+a pull out drawer with a knob made of iron.
+91772: That is much too heavy for you to carry.
+91800: Objects start pouring out of the nightstand. Your surroundings become
+that of clouds all around you. They move in random directions leaving shafts of
+light to pour through at various moments. You can just make out hints of a blue
+sky through the clouds.
+91976: The long arm of a drill extends over the wooden mouse unable to move.
+The drill makes a crevice in its midsection and blood gushes out. The mouse
+remains motionless.
+92092: Its neck is being sawed at by the deep slices of sharp teeth. Blood
+pours out of the thing's neck in lake fulls.
+92172: It seems to come out of no where. Its teeth drip with blood and contains
+bits of entrails and bodily tissue.
+92248: You grapple with the long arm only to result in the drill gashing into
+your right shoulder.
+92312: It seems to come out of no where. Its bit drips with blood and contains
+bits of entrails and bodily tissue.
+92388: You grapple with the long arm only to result in the drill gashing into
+your right shoulder.
+92452: It reflects light it is so shiny and orderly kept. It is strange to see
+this thing outside of a kitchen. It seems to lose its purpose out here.
+92552: That is much too heavy for you to carry.
+92580: Objects start pouring out of the cabinet. Your surroundings become that
+of a wintery blizzard all around you. Snowflakes move in random directions. You
+can just make out hints of a blue sky through the snow.
+92724: The saw divides the flower in half while chlorophyl gushes out. It looks
+like it could be a rose but its value would lie on what color it is and this
+flower has the color of wood.
+92848: You gather the pieces of the flower. It would be pretty useless at this
+point.
+92904: Did you expect it to be alive?
+92928: It is just a miniature but yet the little figure taunts you with creepy
+organ music.
+92988: This one is still alive and is being felled before your eyes.
+93032: The tree is much too big for you to carry.
+93064: It is an ordinary chest for holding various objects. There is no lock on
+it.
+93120: The chest is much too heavy for you to carry.
+93152: Objects start pouring out of the chest. Your surroundings become that of
+space with celestial bodies all around you. Comets and asteroids move in random
+directions. You can just make out hints of constellations in the blackness.
+93312: He just stands there.
+93328: It contains many obscure recipes of things you have never heard of.
+93376: A oil lantern. It glows yellow and orange.
+93408: You can't light anything with the glass fixated overtop the flame.
+93456: The glass is fixated in place and cannot be removed.
+93492: The lantern bursts open. Its oil scatters and ignites the wooden world
+around you. An awful stench fills your surroundings as the stars in the sky
+seem to fall into nothingness. You gag as you make out the scent of burning
+flesh. Soon the void you found yourself in becomes engulfed in flame. 
+
+As you
+begin to feel a burning sensation you realize the world around you is nothing
+but an extension of the inner mind. The setting snaps back to the diner with
+the same waitress still staring out the window.
+93840: It might not be a good idea to destroy the fabrications of your reality
+yet.
+93892: It stands as tall as any skyscraper you have seen. The saw and drill go
+to work on it. It won't be long before it is destroyed as well.
+93988: The thing is falling apart before your eyes. Why would you want to go in
+it?
+94044: The elephant moans in agony as the saw cuts off its limbs and ear and
+tail and the drill works itself into the wooden elephant's abdomen. It must
+remain in place seeing as how it is made of wood.
+94180: The elephant cannot be taken with you.
+94208: At the moment, you can't think of anything to say.
+94548: give" or test "has" or "hasnt" with a non-attribute on the object
+94596: , but it is longer than 2 bytes so you cannot use "."
+

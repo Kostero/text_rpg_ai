@@ -1,0 +1,786 @@
+26653: Nothing to do!
+26688: o. You have won
+26772: It is now pitch dark in here!
+26799: I beg your pardon?
+26863: Sorry, that can't be corrected.
+26892: Think nothing of it.
+26945: As good-looking as ever.
+26977: You can hardly repeat that.
+27002: You can't begin with a comma.
+27116: I didn't understand that number.
+27145: You can't see any such thing.
+27181: You aren't holding that!
+27223: I'm not sure what "
+27275: That's not a verb I recognize.
+27314: You can't see "
+27422: Nothing to do!
+27439: There are none at all available!
+28349: Please answer yes or no.
+28375: Are you sure you want to quit?
+28420: Failed.
+28440: Restore failed.
+28457: Ok.
+28475: Save failed.
+28490: Ok.
+28534: Transcripting is already on.
+28600: Transcripting is already off.
+28658: Score notification on.
+28679: Score notification off.
+28702: You have visited:
+28730: Objects you have handled:
+28755: None.
+29141: You are carrying nothing.
+29190: Taken.
+29201: You are always self-possessed.
+29734: Dropped.
+29842: Removed.
+29981: You lack the dexterity.
+30062: Done.
+30328: Done.
+30548: Wrahn seem interested.
+31187: You can't go that way.
+31747: But it's dark.
+31764: You find nothing of interest.
+31800: But it's dark.
+31891: You find nothing of interest.
+33019: . Not bad.
+33037: That was a rhetorical question.
+33091: That seems unnecessary.
+33114: Keep your mind on the game.
+33139: What a good idea.
+33158: You smell nothing unexpected.
+33185: You hear nothing unexpected.
+33210: You taste nothing unexpected.
+33245: Keep your hands to yourself!
+33270: You feel nothing unexpected.
+33295: If you think that'll help.
+33404: Oh, don't apologize.
+33434: Quite.
+33503: You achieve nothing by this.
+33591: You wave, feeling foolish.
+33741: You are unable to.
+33760: Nothing obvious happens.
+33810: That's not a direction.
+33833: Not that way you can't.
+33865: Keep your hands to yourself.
+33890: You achieve nothing by this.
+33923: Futile.
+33952: You talk to yourself a while.
+33979: This provokes no reaction.
+34007: There is no reply.
+34026: Nothing is on sale.
+34045: Your singing is abominable.
+34079: Time passes.
+36070: [Advanced to "noun" token:
+51199: You lack the means.
+51218: With what, your fingers?
+51241: The ground is made of rock.
+51266: Boing!
+51283: You're just a tourist here.
+51309: Try reading the source code.
+51338: You're unsuccessful.
+51360: You whistle tunelessly.
+51393: I'm duly shocked.
+51455: You feel nothing unexpected.
+51492: Hi!
+51865: " of "
+51904: " list of "
+51985: " has no "time_left" property
+52015: The object "
+52075: The room "
+52089: " has no "description" property
+61829: Trace off.
+62619: Nothing is in scope.
+62799: You seem to have lost the key.
+63119: All locks unlocked.
+63149: That's not relevant here.
+63174: That's not relevant here.
+64875: You generate a nice breeze.
+65065: Soft and warm to the touch.
+65092: Smooth and cool.
+65118: Rough under your fingers.
+65160: It doesn't taste like much.
+65185: Cold and tangy.
+65202: There's a faint savor of sap.
+65383: Odd idea.
+66171: Your legs aren't that long.
+66359: Dankness, wet stone, and smoke.
+66392: The quiet after rain.
+66473: A slow curve away into darkness.
+66557: You can't swim.
+66594: You smell nothing.
+66613: The water itself makes no sound.
+66662: Smooth but not slippery.
+66757: Rough to the touch.
+66859: Something gently breaks.
+66952: Best not to disturb the leaves.
+67122: You smell nothing.
+67312: It rattles musically.
+67480: A round pink sack.
+68244: Nothing happens.
+68303: Nothing changes.
+68340: Nothing changes.
+68377: Nothing changes.
+68414: Nothing changes.
+68451: Nothing changes.
+68472: Nothing happens.
+68490: That's part of the furnace.
+68575: That's part of the furnace.
+68872: Air whistles through the tube.
+69235: The scroll is still rolled up.
+69834: The stairs are broken.
+69874: Hushed.
+69894: Stone.
+69939: Plastered and whitewashed.
+69973: Solid, even stone.
+69992: You can't reach from here.
+70428: You can't easily climb in.
+70612: Small enough already.
+70917: It smells like heat.
+70969: A shifting pattern of colors.
+71039: Solid, even stone.
+71058: You can't reach from here.
+71165: It's high overhead.
+71182: It's out of reach.
+71566: It tastes faintly bitter.
+71629: That's unlikely to do much.
+72134: It's part of the door.
+72180: You can see another round room.
+72208: You can't do that.
+72286: It's part of the door.
+72309: Silent and well-oiled.
+72341: They're on the other side.
+72362: There's really no point, now.
+72385: You can't do that.
+72414: You see only caught rainbows.
+72452: You fail to hit any of them.
+72533: It smells dank.
+72572: Receding into darkness.
+72648: You can't reach from here.
+72700: That could be dangerous.
+72749: You can't swim.
+72775: You smell nothing.
+72829: It smells dank.
+72868: Receding into darkness.
+72944: You can't reach from here.
+73102: The hook is already occupied.
+73215: Slightly damp and cold.
+73247: Mm, slime.
+73552: A latticework of looped glass.
+73641: It smells a little muddy.
+73668: It's grave-still.
+73696: Receding into darkness.
+73763: Solid underfoot.
+73780: You can't reach from here.
+73878: It's much too big to lift.
+74201: It feels reassuringly solid.
+74230: A lumpy rock.
+74546: They refuse to fit on your feet.
+74684: And now too large to wear.
+74720: And now too small to wear.
+74741: But at least they still fit.
+74943: You'd hardly fit in there.
+75135: A ball of navy-colored wool.
+75184: A great wooden sphere.
+75228: A tiny mottled stone ball.
+75257: An enormous pumice ball.
+75289: A mottled stone ball.
+75332: A large shining ball of metal.
+75464: The ball becomes dark wooden.
+75540: It's much too tangled.
+75566: An ordinary sewing needle.
+75770: It's more of a small hoop, now.
+76018: It's too big for you.
+76123: You are now unclad.
+76598: You are unable to do so.
+76707: Futile.
+76718: Nothing much results of this.
+76745: There is no clapper.
+76790: Ouch.
+76935: That could be uncomfortable.
+77018: Not a very meaningful gesture.
+77195: There's not really much point.
+77313: You can't make out the writing.
+77417: Unlikely to be very effective.
+77603: You lack the means.
+80572: Copyright Emily Short 2001.
+80756: Score:
+80764: Moves:
+80772: Time:
+80780: You can't go that way.
+81112: Please give one of the answers above.
+81140: [You can't "undo" what hasn't been done!]
+81176: [Can't "undo" twice in succession. Sorry!]
+81216: "Oops" can only correct a single word.
+81244: It is pitch dark, and you can't see a thing.
+81276: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+81336: You seem to want to talk to someone, but I can't see whom.
+81380: To talk to someone, try "someone, hello" or some such.
+81420: I didn't understand that sentence.
+81480: You seem to have said too little!
+81504: You can't use multiple objects with that verb.
+81540: You can only use multiple objects once on a line.
+81576: You excepted something not included anyway!
+81608: You can only do that to something animate.
+81640: That's not something you need to refer to in the course of this game.
+81688: I didn't understand the way that finished.
+81720: Sorry, you can only have one item here. Which exactly?
+81872: Are you sure you want to restart?
+81896: The game file has verified as intact.
+81924: The game file did not verify as intact, and may be corrupt.
+81968: Attempt to begin transcript failed.
+81996: Attempt to end transcript failed.
+82020: You're carrying too many things already.
+82052: You can't put something on top of itself.
+82084: You can't put something inside itself.
+82112: That would scarcely empty anything.
+82168: You can only get into something free-standing.
+82204: But you aren't in anything at the moment.
+82236: You'll have to say which compass direction to go in.
+82276: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+82372: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+82456: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+82632: This dangerous act would achieve little.
+82660: Nothing practical results from your prayer.
+82692: The dreadful truth is, this is not a dream.
+82724: Digging would achieve nothing here.
+82752: You jump on the spot, fruitlessly.
+82780: You would achieve nothing by this.
+82804: There's nothing suitable to drink here.
+82832: But there's no water here to carry.
+82860: Real adventurers do not use such language.
+82892: Violence isn't the answer to this one.
+82920: There's not enough water to swim in.
+82948: There's nothing sensible to swing here.
+82976: That would be less than courteous.
+83000: Is that the best you can think of?
+83024: You lack the nerve when it comes to the crucial moment.
+83064: I don't think much is to be achieved by that.
+83096: You aren't feeling especially drowsy.
+83446: Best choices are all from the same group.
+83648: Try typing "showverb" and then the name of a verb.
+83684: Unlikely that would achieve anything.
+83720: It's a little humid here but that's about it.
+83756: The Compleat Rope has yet to be invented in this universe.
+83800: You're awake and likely to stay that way.
+83864: Property value not routine or string: "
+83892: Entry in property list not routine or string: "
+84012: " can only be used as a player object if it has the "number" property
+84442: How much good it will do you is another question: this is not a place
+wherein luck counts for much.
+84512: That's a bit bulky to wave around conveniently.
+84580: That's unlikely to have much effect.
+84624: That could be uncomfortable.
+84648: You can trace the grains of growth, the solidity.
+84684: A scrape against the tongue, flavorless.
+84716: Anything you threw in there, you would be unable to retrieve.
+84872: The hole made by the needle is almost too small to see.
+85196: You can't exactly see through it just at the moment.
+85236: A process that shows you nothing particularly interesting.
+85276: The glass distorts the image, but not in any interesting way.
+85320: You don't see anything particularly exciting.
+85388: You detect nothing extraordinary.
+85412: That's an idea that dosn't hold much appeal.
+85444: The walls are solid and would likely cause more damage to you than you
+to them.
+85536: Against the rough north wall of the cavern lies a moon-shaped landing of
+white stone, with a pair of shallow steps down to the glass-black surface of
+the lake.  A Moorish archway leads away to the north.
+
+A dead-end, for there is
+neither bridge nor boat, nor means to make or summon any.
+85740: You don't know how -- and even if you did, the lake is so cold that you
+would probably cramp up immediately.
+85816: The walls curve up and into a kind of ceiling.
+85848: The north wall has been scraped into a rough obedience; set into it, an
+archway of white stone, shaped like a keyhole.
+85932: The walls are too distant to see.
+85956: Cold but not quite wet, worn but not quite smooth.
+85992: The only doorway is north.
+86012: Preternaturally smooth and flat.
+86036: Anything you dropped in there, you would be unable to retrieve.
+86080: You stoop towards the water, but you can't bring your lips to the
+surface itself.
+86140: You're arrested by your own faint reflection, staring back pale and
+disshevelled from the surface.
+86208: So cold it burns your fingers and leaves your whole arm feeling
+momentarily numb.
+86360: You're already standing on the steps; to sit on them would be a chilly
+proposition, and entail putting your feet in the lakewater.
+86452: You're already at the top of the steps.
+86480: From this side, the shape of the doorway is partially concealed by the
+rich accretion of shells, beads, and mirrors that cover every surface.
+86580: Outlined in white stone and decorated with a geometric pattern.
+86624: The stone is cool and a little rough, smoothed and lightly polished but
+then left to age a long time, so that the surface has in places crumbled.
+86724: Under the magnifying glass, the deterioration of the stone is more
+evident, and you can see where dirt and perhaps some kind of lichen have
+collected in the deep grooves of the pattern.
+86852: The pattern on the doorway is only visible from the other side.
+86896: Predominantly made of triangular or near-triangular figures,
+interlocked, and carved deeply into the stone.
+86972: You can only see one triangle at a time like this, standing out from the
+interlocking pattern.
+87040: You trace the figures with your finger.
+87068: A whole strange grove of strange trees, growing like ice out of the
+ground.  They are made, as you recall, of glass.  A metal apple hangs rather
+prominently from one of them.
+
+At the center of this is a clearing where a
+monstrous furnace stands -- shaped like a coiled dragon.
+87264: You land heavily, crushing delicate leaves almost to powder underfoot.
+87316: Dusty sweetness, like elderberries overgrowing the corner of a grave.
+87364: Layers on layers of fragile detritus.
+87392: The ceiling shimmers through a lattice of glass.
+87428: An unlit passage pierces the heavy wall.
+87456: Glistening with a frost of vines.
+87480: It is a large room and the grove too dense to permit you close access to
+any side.
+87536: The eddy of wind lifts and redistributes bits of leaf.
+87576: The only way out is west.
+87596: Not long, not wide, not tall; unlit and round as a barrel's mouth.
+87766: Hanging from one of the trees is an almost perfectly round apple, made
+of a reddish metal.
+88012: A few leaves cast loose, only to break on the floor around you.
+88056: The trunks are fairly solid near the ground, and this does nothing.
+88104: Branches splinter and fall glittering to the ground, losing themselves
+in the rich detritus already there.
+88180: Branches splinter and fall glittering to the ground, losing themselves
+in the rich detritus already there.
+88256: The slender branches would not support your weight.
+88292: The glass roots of the trees spread out a little in each direction
+before disappearing into the ground.
+88362: In the breeze, the strands of glass and crystal stir and chatter.  Light
+moves and shadows settle in new places.
+88444: That would probably be a most unrewarding experience.
+88484: Pungent, and slightly off, like juice half gone to cider.
+88528: There is a faint sweet fruit smell.
+88556: It is of an opaque material; the innards are not currently visible.
+88604: Something shifts inside the cloth.
+88704: That doesn't seem to want to fit.
+88728: A pale, iridescent red bauble, with only the faintest hint of an indent
+where the stem once went.
+88796: An apple almost perfectly round, made of a ruddy metal.
+88836: A polished model apple made of reddish wood.
+88868: A heavy round apple of bloodstone.
+88892: The hole made by the needle is almost too small to see.
+88932: , revealing a delicate glass key inside.
+
+The almost sickly smell of
+overripe fruit fills the air, then dissipates.
+89052: You can feel something hard inside, through the cloth.
+89092: It rattles a little, as though there were something inside.
+89136: The plump surface gives way to a satiny lushness, falling in on itself.
+89222: The teeth are quite precisely filed.
+89248: A delicate key of silvery metal, with precisely-cut teeth.
+89334: The teeth don't seem very precisely defined.
+89368: A bit of obsidian chipped into the semblance of a key.
+89408: A wad of rag, snipped and stitched to look roughly like a key.
+89452: Even close inspection leaves you with no clear idea how the key was
+made.
+89504: The teeth seem larger and sharper under magnification.
+89544: You inspect the wood grain for a moment and the bark, but notice nothing
+interesting.
+89604: Under magnification you can see the unevenly flaked surface.
+89648: The magnification picks up the stitching, done in a dark blue thread.
+89696: The individual leaves are shaped like spades, but with serrated edges.
+89748: You take one of the glass leaves, but it is so fragile that even the
+slightest handling destroys it.
+89820: So clear and perfect are the veins of a leaf under magnification that it
+almost hurts to look at it.
+90008: The dragon's ear is a sort of dial; the dragon's eye is a push-button.
+90220: You can only fit one thing into the furnace at a time.
+90260: The button is made of jade and is round and bright.
+90296: Pushing the button might be more effective.
+90328: That doesn't make a very effective tool with which to exert pressure.
+90400: The dial can be set to anything from 1 to 5.  It currently stands at
+90454: The label under this dial reads "Change to".
+90488: It is already set to that position.
+90516: The only positions possible are those labelled 1 through 5.
+90740: Doorways open south, east and west.
+90768: A wooden tube lies forgotten on the floor.
+90912: You fail to dislodge the scroll by this method.
+90948: The shape makes that a bit awkward.
+90976: You can't manage to dislodge the vellum with your fingers: the tube is
+too narrow for easy negotiation.
+91048: You wouldn't be able to seal off the opening.
+91080: The sudden blast of air dislodges the vellum, causing it to shoot out of
+the far end of the tube and then drift lazily to the floor, unscrolling as it
+does so.
+91428: A short wooden tube, open at each end.
+91576: A rolled piece of vellum, torn at one edge.
+91608: You peer at the edges of the scroll, but feel no more enlightened than
+before.
+91662: With the aid of the magnifying glass, you're able to make out what is
+written:
+91724: Under the magnification you inspect the shapes of the letters -- very
+delicately and uniformly applied, with little variety of formation.
+91944: The whole sheet has been distended past its natural size, so that all
+the lines look uneven at the edges.
+92060: The original texture of the vellum is restored as though no change had
+ever been made.
+92132: It turns to stone, with a worked but rough finish such as you might see
+on the outside of a building.
+92216: The surface goes stiff and plate-like.
+92256: The rectangle rapidly acquires the grain and banding of wood.
+92316: It melts into a perfectly rectangular sheet of some vitreous substance,
+then hardens again, smooth-surfaced except where the letters run.
+92632: In fact, when you think about it, it's difficult to see that there is
+anything upstairs anyway.
+92700: You remember this place.  The animals, trapped in their cages and
+motionless -- presumably stuffed.  In one cage is an elephant, so short that he
+reaches only to your knee; you easily could lift him under one arm and carry
+him away.  In another cage, a giant mouse lies, curled as though
+slumbering.
+
+The sight of them moves you with pity and regret, for they seem
+destined to remain there, unrescued and ignored.
+92992: The faintest most unidentifiable musk.
+93020: Heavy vaults plastered and whitewashed, with ribs of exposed dark stone.
+93072: An unlit passage pierces the heavy wall.
+93100: You can't reach the walls for the cages in between.
+93136: The only exit is the east doorway.
+93160: They look like something out of a pasha's pleasure garden: ornate in
+shape and workmanship, but still strong enough to withstand considerable
+battering, even though the animals inside are stuffed.
+93372: A butterfly with wings large enough to make a cloak of, carefully
+displayed with strings to support its fragile body, for instance.
+93464: The key is too large to fit the lock.
+93492: The key seems as though it would go in the lock, but it is slightly too
+small.
+93548: You put the key in and wiggle it around a little, but it is so delicate
+that it seems it will shatter if you exert too much force.
+93640: The key goes into the keyhole, but won't turn.
+93844: Actually, he's considerably heavier than he looks.
+93880: It seems cruel to awaken him only to leave him caged.
+93918: You spray the butterfly with the animating liquid.  The light comes back
+into its (huge, bulbous eyes) and the life into its (enormous) wings.
+
+It
+begins to flap.  There is a breeze, scented with chloroform.  You are overtaken
+with nervousness, and then the thing, thank goodness, flies away.
+
+Your work
+here is done.
+94252: He seems peaceful and ponderous, as though enlargement has banished all
+his fears and replaced them with a blissful serenity.
+94444: Actually, he's considerably heavier than he looks.
+94480: It seems cruel to awaken him only to leave him caged.
+94518: You spray the mouse with the animating liquid.  The light comes back
+into its (big, black) eyes.  You are momentarily concerned about the outcome,
+but it seems content.  So long as it does not mistake you for a cheese, all
+should be well...
+
+Your work here is done.
+94712: There's a look almost beseeching in his grave eyes, as though he lived
+to old age at a proper size, and then only at the end was reduced to this sad
+state.
+94820: Since he is in a cage, you can't get close enough to make the magnifying
+glass focus on him.
+94884: Actually, he's considerably heavier than he looks.
+94920: It seems cruel to awaken him only to leave him caged.
+94958: You spray the elephant with the animating liquid.  There is a long
+silence, as though it takes some time for the fluid's power to work in through
+the thick skin.  Then it shudders back to life, looking at you with gentle,
+beseeching eyes, and its child-sized trunk curls trustingly around your
+wrist.
+
+"Feed me," it seems to be saying.  "I desire nuts."
+95596: A daring idea, but impracticable.
+95656: You can't seem to jam that into the contraption.
+96042: The north one has a door in it, though.
+96076: The north one contains the remains of a door.
+96112: The light from above is a bit glaring and gets in your eyes.
+96156: There is a faint tinkling of glass meeting crystal, of chain twisting
+and untwisting.
+96216: Glittering all around the central eye, like the sun with a court of
+stars.
+96268: All the walls are covered with tiny mirrors and bits of beads and
+shells, pressed into the raw plaster.
+96408: The surface is covered with tiny mirrors and bits of beads and shells,
+pressed into the raw plaster.
+96480: The bits of shell are smooth-surfaced, rough-edged, under your hands.
+96530: In the breeze, the strands of glass and crystal stir and chatter.  Light
+moves and shadows settle in new places.
+96612: The exits lie only in the cardinal directions.
+96644: It's hard to tell, from here, whether you are seeing sunlight or some
+other kind.  You see daylight rarely in your travels; these are isolated
+places, self-contained.
+
+But the light is too bright too look at long, whether
+it falls through glass or empty air; it carries no heat.
+96916: The magnifying glass is quite sturdy and refuses to break.
+96956: You cannot bring the magnifying glass to bear on itself.
+97026: It is significantly taller than you are, narrow, with a keyhole exactly
+in the middle.
+97192: The door gives with a crash, torn partway off its hinges.
+97232: You can't smell anything particular.
+97260: The door itself makes no particular sound.
+97292: The door rings musically against its frame, but no answer comes.
+97340: Merely battering the door with your fists is unlikely to do much.
+97440: The door rocks noticeably on its hinges, and it sounds as though
+something is giving way.
+97504: The door is already damaged beyond repair.
+97568: The door rocks noticeably on its hinges, and it sounds as though
+something is giving way.
+97632: The door is already damaged beyond repair.
+97664: You'd shatter the slippers doing that.
+97692: You can't kick really hard without hurting yourself.
+97732: You give the door a powerful kick, leaving a dent in its surface.
+97780: The door rocks noticeably on its hinges, and it sounds as though
+something is giving way.
+97844: The door is already damaged beyond repair.
+97876: The key is too large to fit the lock.
+97904: The key seems as though it would go in the lock, but it is slightly too
+small.
+97960: You put the key in and wiggle it around a little, but it is so delicate
+that it seems it will shatter if you exert too much force.
+98052: The key goes into the keyhole, but won't turn.
+98088: The hinge mechanism no longer works.
+98116: You unlock the silvered door and push it open.
+98148: A modestly-sized keyhole, surrounded by an undecorated plate of silver
+metal.
+98236: The magnification does not help you see any better what lies on the
+other side.
+98292: Any sounds you can hear through the keyhole are too indistinct to
+identify -- though there seems to be a sort of far-off rumbling.
+98384: Since the door is open, you find yourself peering through at the
+adjacent wall.
+98440: You see, as though you looked into a kaleidoscope, myriad colors and
+lights.
+98496: The hinges are on the other side of the door.
+98528: The door is open; the hinges are currently out of sight.
+98572: One seems to have wrenched completely from its place.
+98612: Perhaps slightly too small for the weight they must bear.
+98652: This shows you nothing extraordinary.
+98786: The rainbows color your skin.
+98808: It's hard to see how you intend to accomplish THAT.
+98848: Shiny beads, shells sawn in half and jagged shards of mirror, all no
+larger than your thumb, are embedded into the plaster of the ceiling.
+98944: They're already broken into shards.
+98972: You see, jagged, dozens of your eyes, hundreds of your mouths, none
+quite alike in shade or shape or angle.
+99048: It's hard to see how you intend to accomplish THAT.
+99088: This is the rim of a great cistern, which is built of bricks and lined
+with plaster, and must be very old.  Along the inside of the cistern, a spiral
+stair descends towards the surface of the water, more than a full story below
+you.
+
+The walls themselves are painted with a kind of mural of various sealife.
+99304: You hear a very faint and distant dripping.
+99336: The stairs descend in a slow arc.
+99360: The paintings are exceptionally detailed.
+99392: The staircase is solid underfoot.
+99416: You touch the clammy plaster with one fingertip, but do not want to
+smudge the gentle paintings there.
+99488: The only exits are the door east and the spiral stair descending into
+the cistern itself.
+99552: Dark and still.
+99564: Anything you dropped in there, you would be unable to retrieve.
+99608: It's too dark to see anything that might be down there.
+99648: There's just a faint distant dripping.
+99676: It's too far away for you to reach from here.
+99708: There are a wide variety of fishes painted on the walls.
+
+Some of the
+picture is too tiny for you to make out with the naked eye.
+100008: The surface of the water is still some distance below you.
+100052: You hear a very faint and distant dripping.
+100084: The stairs descend in a slow arc.
+100108: The paintings are exceptionally detailed.
+100140: The staircase is solid underfoot.
+100164: You touch the clammy plaster with one fingertip, but do not want to
+smudge the paintings.
+100228: The only exit is the spiral stair, by which you can emerge from the
+cistern.
+100284: Perhaps to deal with predicaments such as that in which you now find
+yourself, a pulley mechanism has been installed at this level.
+100376: A mossy chain hangs from the pulley: one side descends into the water
+below, while the other ends in a hook just at a reachable level.
+100500: There's just the wheel; the hook and chain are gone.
+100540: The angle is awkward, and you can't seem to exert enough force to
+achieve anything.
+100600: The hook and chain are absent, and the pulley itself won't hold much.
+100652: That would be extremely unpleasant, were you to succeed.
+100692: There's no good way to fit that on the hook.
+100724: It has no distinctive smell, over and above the dampness in the air.
+101010: At the same time, something else is lifted out.
+101044: Nothing happens -- perhaps something heavier?
+101136: A little delicate key that looks as though it is frequently and easily
+lost.
+101230: The teeth don't seem very precisely defined.
+101264: A bit of obsidian chipped into the semblance of a key.
+101304: A wad of rag, snipped and stitched to look roughly like a key.
+101348: The teeth seem larger and sharper under magnification.
+101388: You inspect the wood grain for a moment and the bark, but notice
+nothing interesting.
+101448: Under magnification you can see the unevenly flaked surface.
+101492: The magnification picks up the stitching, done in a dark blue thread.
+101692: Heavy-hanging fruits and strange vegetables whose like you have never
+seen.
+101744: You are unable to pass through the paving stone.
+101780: The paving stones are heavy and close-set.
+101812: The paintings are exceptionally detailed.
+101844: You touch the clammy plaster with one fingertip, but do not want to
+smudge the gentle paintings there.
+101916: The door opens west.
+101932: The plants are thick and heavy, but further details are hard to make
+out.
+101984: With the magnification, you can see prickly fruits, thick-rinded
+fruits, long fruits, round fruits... a wide variety of fruits none of which you
+recognize, to be frank.
+102104: The floor is paved with large stones, and one of these is partly budged
+from its position.
+102168: One of the large paving stones has been removed from its position, and
+a ladder descends into the dark gap beneath.
+102248: Now lying to one side, as a result of your efforts.
+102284: About two feet on a side and many inches thick: it is hard to guess
+what force might have budged it in the first place.
+102368: You lack the strength to move it with your bare hands.
+102408: All you can tell is that there is some considerable space beneath the
+stone.
+102460: If you want to try to pry it up, just say so.
+102524: You manage to pry up the stone, exposing a ladder down into the gap
+beneath.
+102580: That would be a trifle redundant at this point.
+102616: Ordinary but solid-looking.
+102692: Mold? Dirt?
+102704: You can see nothing in this inky blear.
+102732: You can see nothing in this inky blear.
+102760: The ceiling is just out of reach.
+102784: It's hard to imagine what you mean.
+102812: Your hand closes around a bottle of something.
+102844: Despite your expectations, there's nothing lying on the floor.
+102888: You feel along the roughness of the walls, but can make out no
+particular features.
+102948: It seems you hear a whisper, reverberant: Keep looking.
+102988: It smells rich and damp, like freshly turned earth.
+103024: Anything you do, you will have to do by touch.
+103114: The Latin label is lengthy and obscure, but leads you to understand
+that life will be conferred (vitam novam conferabitur) on any object (ALIQUAM
+REM, in bold lettering) by the properties of the spray within.
+103268: You feel exceptionally sprightly.
+103292: A stream of strong-scented spray comes out of the bottle, but nothing
+much happens.
+103364: A loose rock lies near your foot.
+103400: The lump takes on the color and consistency of a sponge.
+103460: First the surface, then the inner regions go clear, until the whole
+thing is a greenish mass of raw glass.
+103548: Bark grows over the surface of the lump, ending as a rough burl.
+103608: The rock reverts to its original appearance, granitic, rough.
+103664: A dull sheen creeps across the surface of the object, until it takes on
+the qualities of a rough lump of tarnished silver.
+103748: Kicking things while wearing glass slippers is an invitation to
+disaster.
+103800: You put them on, but they slip off again.
+104048: The wooden box in which you keep small tools for your work around the
+house.
+104128: It's more something to carry than to wear.
+104160: You can't put it on while it contains things.
+104192: The box is too small now to hold anything.
+104224: You slip the former workbox over the tip of one finger.
+104276: A tiny quantity of navy-colored wool, tightly wound.
+104316: A ball of navy wool bigger than your head.
+104348: A little wooden ball about the size of the last joint of your thumb.
+104396: A stained wooden ball, curiously grooved.
+104428: A glass ball, like those that scryers use.
+104460: A ball of ornamental stone, such as might belong in a rich man's
+garden.
+104512: A metal ball the size of a marble, with lines abstractly marking off
+the surface where the yarn used to wind.
+104588: A metal ball with a knobby surface and a bluish sheen.
+104628: The needle passes through but leaves no particular change to the ball
+of yarn.
+104684: The needle stubbornly refuses to go through the solid ball.
+104736: The ball grows rough, wobbles a few times in its place, and then goes
+still again.
+104868: Then the transformation completes itself and the ball appears as one
+solid object, even the ridges between the strands vanishing as the warm
+material melts together.
+104980: The ball goes glassy, first at the outside, then at deeper and deeper
+layers, leaving something visible (but not perhaps material) at the very heart.
+105092: A hard, shiny surface forms rapidly over the face of the ball.
+105144: Surprisingly, the individual strands of yarn distinguish themselves
+again, growing their old fibers, twisting like worms out of the main mass.
+105252: It's hard to see how you mean to do that.
+105284: You find it hard to see through the opaque material.
+105320: You have a clear and disorienting vision of someone typing on a
+computer.
+105436: It refuses to fit on your finger.
+105528: It is the only thing of value you possess.
+105636: The ring rolls down the side of the hourglass contraption, circles the
+hole a few times, and then is sucked through, falling out the other side
+considerably smaller than when it went in.
+105764: The ring rolls straight down the inside of the hourglass, passes
+through the narrow point (though it really shouldn't be able to), turns in on
+itself in some way that your eye is not able to follow, and emerges larger than
+it was to start with.
+105940: You can't get it to fit, at this size.
+105968: The former dress is no longer sufficiently flexible to be worn.
+106012: The cloth is worn, and fraying in a few places: the magnifying glass
+makes this all the more evident.
+106084: The links are tiny and precisely joined, more perfect than you imagine
+would be possible with merely human skill.
+106164: You see only the texture that was already there, more closely.
+106208: You slip the rough cloth back over your head.
+106240: The gown clinks as it settles over your body.
+106272: Your old brown dress, but shrunk to a size that would fit an infant.
+106320: Your old brown dress, but too small now to wear, even as skinny as you
+are.
+106376: The coarse dress that you wear to do chores around the house -- and
+your tasks in other realms, as well.
+106452: Your brown dress, expanded to a size that would robe your master with
+cloth to spare -- if he would wear something of this sort, of course.
+106552: A small chainmail shirt, impossible for you to fit into.
+106592: Your old dress has been transformed into a garment of linked rings,
+like the armor you have seen in pictures.
+106732: A great chainmail suit, large enough to rattle along the ground were
+you to try to wear it.
+106892: The surface of the gown grows together into a single organic mass.
+106940: The surface of the dress takes on the texture of driftwood.
+106992: The surface of the gown grows together into a single clear mass.
+107036: The surface of the dress takes on the texture of mottled glass.
+107088: The surface of the gown grows together into a single stone mass.
+107132: The surface of the fabric takes on the texture of freshly quarried
+stone.
+107192: The shininess fades and the rings soften and grow together again, into
+the familiar surface.
+107256: The mass of the dress separates again into distinct surfaces of cloth,
+the hard folds loosening.
+107336: The fabric bunches, thickens, and redistributes itself into a chainmail
+of fine rings.
+107396: The sense of deja vu is almost disorienting.  You land in the world of
+changeables with a thump that shocks you all the way through your material
+bones.   But here you are again.
+
+Thank goodness, you have a rock.
+107602: This is a toy, really, meant to be enlightening (maybe) and amusing.
+107920: Interesting idea, but implausible.
+107948: The yarn is much too tangly to cooperate.
+107980: Unlikely to work, considering that the ball is more or less a solid
+mass at the moment.
+108040: There's nothing appropriate with which to do that.
+108076: That's not a workable tool for the job.
+108104: You have heard of tribespeople who practice such self-mutilation, but
+you have never understood it yourself.
+108180: The needle in its current form is too dull to do that.
+108220: How, by ramming it with your head?
+108248: You fancy yourself quite the contortionist, don't you?
+108288: You are insufficiently flexible to kick something you're holding.
+108336: It would help if the object in question were on the ground.
+108680: You are unable to budge yourself by these means.
+108788: ?" roars an offended voice.
+
+But the light comes back up without any
+grue-related incident.
+108856: Unclear what you mean to accomplish.
+108912: Flinging yourself about like that is unlikely to help.
+108952: It's hard to aim effectively at something you're holding.
+109028: That doesn't really have a useful edge.
+109056: It's hard to see how you mean to do that.
+109088: You lack the means to magnify things.
+

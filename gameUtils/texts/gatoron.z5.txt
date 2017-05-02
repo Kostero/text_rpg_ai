@@ -1,0 +1,483 @@
+41920: There is no reply.
+41988: Nothing is on sale.
+42446: Dropped.
+42503: . Not bad.
+43631: Wrahn seem interested.
+44146: Done.
+44195: You are carrying nothing.
+44280: Keep your mind on the game.
+44305: You hear nothing unexpected.
+45369: But it's dark.
+45386: You find nothing of interest.
+45414: Quite.
+45444: Nothing to do!
+45479: o. You have won
+45581: It is now pitch dark in here!
+45608: I beg your pardon?
+45672: Sorry, that can't be corrected.
+45701: Think nothing of it.
+45754: As good-looking as ever.
+45786: You can hardly repeat that.
+45811: You can't begin with a comma.
+45925: I didn't understand that number.
+45954: You can't see any such thing.
+45990: You aren't holding that!
+46086: That's not a verb I recognize.
+46124: You can't see "
+46234: Nothing to do!
+46251: There are none at all available!
+46662: That was a rhetorical question.
+46689: Score notification off.
+46712: Score notification on.
+46741: Objects you have handled:
+46766: None.
+47239: You have visited:
+47433: You are unable to.
+47452: Nothing obvious happens.
+47502: That's not a direction.
+47525: Not that way you can't.
+47672: You lack the dexterity.
+47753: Done.
+47801: Please answer yes or no.
+47827: Are you sure you want to quit?
+47986: Removed.
+48017: Failed.
+48036: Restore failed.
+48053: Ok.
+48063: You achieve nothing by this.
+48095: Save failed.
+48110: Ok.
+48217: There is no score in this story.
+48255: Transcripting is already off.
+48321: Transcripting is already on.
+48387: But it's dark.
+48507: You find nothing of interest.
+48807: Your singing is abominable.
+48841: You smell nothing unexpected.
+48868: Oh, don't apologize.
+48896: Keep your hands to yourself.
+48921: You achieve nothing by this.
+49150: Taken.
+49161: You are always self-possessed.
+49684: You taste nothing unexpected.
+49718: You talk to yourself a while.
+49745: This provokes no reaction.
+49771: What a good idea.
+49797: Futile.
+49826: Keep your hands to yourself!
+49851: You feel nothing unexpected.
+49876: If you think that'll help.
+50122: Time passes.
+50146: That seems unnecessary.
+50242: You wave, feeling foolish.
+75273: You have died.
+75313: Friend to Wetlands.
+75334: Environmentalist.
+75353: Composter.
+75366: Bike Commuter.
+75383: Occasional Recycler.
+75400: Part of the Problem.
+96010: Unrecognized direction:
+96602: There's no way to close the bag.
+96875: The hatch slowly creaks open.
+97012: Nothing else happens.
+97032: It's much too large and heavy.
+97118: You look mighty.
+97341: Impossible!
+97440: Preposterous.
+97730: Pyth-nor tightens its grip.
+97842: Pyth-nor bites you!
+98006: Swum.
+98094: You can't fly.
+98110: The water is too shallow.
+98130: A hollow voice ignores you.
+98306: Where?
+98462: You head north.
+98484: It could be anywhere.
+98508: Ha ha.
+98557: Some environmentalist you are!
+99253: The tram arrives.
+99387: But you're onboard the tram!
+99446: But the tram is right here!
+99477: You head along the loop road.
+99507: It could be anywhere.
+99588: "What beacon might that be?"
+100186: Encountered error:
+100362: But you aren't asleep.
+100560: But you aren't open!
+100608: Um, okay.
+100664: You take a quick gator-nap.
+100748: Nothing special happens.
+100770: You aren't tired.
+101229: Ridiculous.
+101376: It's much too heavy.
+101426: But you aren't biting that.
+101612: Your mouth is already open.
+101650: Ridiculous.
+101792: Made.
+101900: Already made!
+102001: What?
+102014: Been reading self-help books?
+102311: Yourself.
+105005: in" or "notin
+105021: opmhas" or "hasnt
+105163: }" at end of "objectloop
+107284: GATOR-ON, Friend to Wetlands!
+107504: Score:
+107512: Moves:
+107520: Time:
+107528: You can't go that way.
+107636: Violence isn't the answer to this one.
+107664: This dangerous act would achieve little.
+107692: I don't think much is to be achieved by that.
+107752: Digging would achieve nothing here.
+107780: There's nothing suitable to drink here.
+107808: That would scarcely empty anything.
+107836: You can only get into something free-standing.
+107908: But you aren't in anything at the moment.
+107940: But there's no water here to carry.
+107996: You can't put something inside itself.
+108024: You jump on the spot, fruitlessly.
+108052: You would achieve nothing by this.
+108104: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+108200: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+108284: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+108396: You see nothing unexpected in that direction.
+108660: Please give one of the answers above.
+108688: [You can't "undo" what hasn't been done!]
+108724: [Can't "undo" twice in succession. Sorry!]
+108764: "Oops" can only correct a single word.
+108792: It is pitch dark, and you can't see a thing.
+108824: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+108884: You seem to want to talk to someone, but I can't see whom.
+108928: To talk to someone, try "someone, hello" or some such.
+108968: I didn't understand that sentence.
+109028: You seem to have said too little!
+109052: You can't use multiple objects with that verb.
+109088: You can only use multiple objects once on a line.
+109124: You excepted something not included anyway!
+109156: You can only do that to something animate.
+109188: That's not something you need to refer to in the course of this game.
+109236: I didn't understand the way that finished.
+109268: Sorry, you can only have one item here. Which exactly?
+109368: Nothing practical results from your prayer.
+109424: That would be less than courteous.
+109448: Is that the best you can think of?
+109472: You can't put something on top of itself.
+109504: Are you sure you want to restart?
+109528: Attempt to end transcript failed.
+109552: Attempt to begin transcript failed.
+109580: You aren't feeling especially drowsy.
+109608: Real adventurers do not use such language.
+109640: There's not enough water to swim in.
+109668: There's nothing sensible to swing here.
+109696: You're carrying too many things already.
+109728: You lack the nerve when it comes to the crucial moment.
+109796: You'll have to say which compass direction to go in.
+109836: The game file has verified as intact.
+109864: The game file did not verify as intact, and may be corrupt.
+109908: The dreadful truth is, this is not a dream.
+109998: Open schism with the Sierra Club, talk of Pyth-nor advancing down the
+Florida coast, and now an urgent summons to your secret Everglades base...
+After years of work and preparation, the moment of crisis has finally arrived!
+110164: This paved blacktop road was constructed to connect the visitor center
+to the observation tower.
+110232: THERE are no other Everglades in the world.
+110296: A little brackish, but serviceable.
+110324: You have nothing in which to carry the water.
+110356: What commonly gets called a "swamp" is actually the most extraordinary
+ecosystem on the planet. Water and grass extend as far you can see, filled with
+an incredible variety of birds and fish and turtles and (of course!)
+alligators.
+110518: You can see the loop road to the west.
+110548: The sawgrass is too thick to permit travel in that direction without a
+machete.
+110604: You can't go that way.
+110624: You can't go that way.
+110644: This is an area of dense vegetation and short hardwood trees.
+110688: The vegetation is too thick in that direction.
+110720: US-41 stretches east and west across the landscape.
+110760: Water collected in this depression to form an alligator hole.
+110804: Outcroppings of porous rock punctuate the marshy ground. No sign of
+otters, though.
+110864: The Visitor Center is really just an outside pavillion with an
+overhanging roof, for short public presentations.
+110944: An black expanse of asphalt, a common sight in Florida. There is a
+vistor center southeast.
+111012: A short path connects the Loop Road, to the North, with the Observation
+Tower, to the south.
+111080: This cool winding structure affords a great view of the surrounding
+area.
+111132: The wetlands are waist-deep here.
+111156: Serious gray reptiles of impressive size.
+111188: You're a vegetarian, and I'm pretty sure that has meat in it.
+111236: Finally noticing you, the alligator takes your leg in its jaws and
+casually kills you to death.
+111304: Remarkably, the alligator ignores you.
+111332: Alligators don't eat corn chips, or at least this one doesn't.
+111380: The alligator isn't hungry for a plastic bag.
+111412: It's a bright yellow bag of bright yellow corn chips. Not exactly 100%
+organic, but we all have our weaknesses.
+111496: The bag of corn chips is sealed.
+111520: The corn chips bag has been torn open.
+111556: The beacon's arrow is pointing directly at the transmitter.
+111644: The device consists of a translucent globe which is currently inactive.
+The background of the globe is decorated with the silhouette of an open-jawed
+alligator against a field of impressive red-to-orange color gradients.
+111796: A hatch on the ground is barely visible through the periphyton.
+111840: An opened hatch drips water into a chamber, below.
+111876: Just as you are about to unlock the hatch, you are startled by a crow
+flying right at you! In your surprise, you fumble away the key. By the time you
+have regained your composure, the crow has already snatched up the key and
+flown away to the north!
+112052: The hatch falls closed with a loud metallic noise.
+112088: But the hatch is already closed!
+112112: It's a shiny, white plastic key with blue and red trace.
+112152: Uneven cinderblock walls struggle against the constant press of wet
+earth, supplemented by a sump pump whose hum you can hear nearby. A smooth,
+steep chute has been cut into the limestone floor.
+112286: You slide down the chute for several minutes.
+112324: The hatch is closed.
+112340: It was originally drilled years ago, by an oil company.
+112380: It's a small device with a tiny antenna.
+112412: A giant cavern has been cut into the limestone.
+112448: The large button is built into the floor of the cavern. It features an
+icon with several wavy, crested lines.
+112524: Your massive snout easily pushes the large button. Almost immediately,
+a passage appears in the north wall and the cavern fills with water.
+112622: Unfortunately, this has consequences for the tiny person in your brain.
+112676: Unfortunately, this has consequences for the tiny person sleeping
+neraby.
+112728: You are a giant robotic alligator.
+112784: The orange-colored giant robotic alligator has transformed to reveal a
+vaguely human (although giant) head and zigzag ports.
+112936: Power for the massive servo generators is supplied by an enormous
+diesel fuel tank. For every hour the alligator is in operation, much of the
+cities of Berkley, Asheville, Eugene, and Takoma Park have to voluntarily go
+dim for a week to supply the necessary carbon offsets.
+113308: You close your mouth for a while, but ultimately decide that it looked
+cooler before and open it again.
+113386: After you put on the helmet, you fall into something like sleep.
+113434: The bay bursts forth from a hundred estuaries against the backdrop of a
+pure blue sky. The clouds appear to be perched almost directly atop the water.
+113540: The bay is curently swathed in a rainbow of light with no evident
+purpose or origin.
+113600: Four specks of color appear in the distance.
+113632: The four specks of color are now close enough to see that they are the
+four other giant robotic alligators! 
+
+The orange-colored one is piloted by
+Dipole, a noted chemist and manufacturer of drink containers that grow into
+topiary animals when discarded.
+
+The caramel-colored one is piloted by Petal, a
+young woman who lived in a tree for a year to prevent it from being cut down
+(for a year).
+
+The lime-colored one is piloted by Osceoleta, the brilliant (and
+beautiful!) Seminole engineer who designed the robot alligator fleet.
+
+And
+finally the lemon-colored alligator is piloted by Jasmine, a fifth-grader who
+wrote a moving essay on the importance of water conservation.
+114108: A more gutural, lower-pitched version of what you would otherwise
+recognize as Osceoleta's voice comes on the radio. Gator-Osceoleta explains all
+about how the Pyth-nor Consortium (consisting of reactionary sugar growers,
+building developers, feathered hat makers, and extremist elements of the United
+States Chamber of Commerce) intends to destroy Gator-on before it can begin its
+mission closing destructive canals, stopping illegal use of damaging
+fertilizers, and thwarting poachers.
+114452: The robotic gators begin to undergo transformations! The
+caramel-colored and lime-colored gators become giant arms (albeit arms with
+gaping alligator maws.) The lemon-colored one and your own become
+similarly-arrayed bipedal legs.
+
+The orange-colored gator changes most of all.
+Its own arms and legs swivel around to reveal zigzag ports. Its alligator head
+rolls back to reveal a human-like robot head.
+
+Your robotic gator and much of
+the bay are surrounded by a rainbow of light with no evident purpose or origin.
+
+
+The other gators then paddle towards the orange-colored gator and take turns
+biting down onto one of its newly-revealed ports.
+114904: All of a sudden, you are knocked into the bay by something very large,
+very fast, and metallic. A glance upward confirms your apprehensions...
+Pyth-nor. Before you know it, the thing has already started to wrap itself
+around you.
+115068: You experience searing pain as you begin to buckle under the stress.
+115116: You can hear Gator-on beginning to buckle under the stress.
+115160: Pyth-nor finally crushes you apart. You are wrenched from the deepest
+sleep just in time to subsequently drown.
+115240: Pyth-nor succeeds in crushing Gator-on apart. That task completed, it
+refocusses its attention on you.
+115316: Pyth-nor lunges at you, but you are able to evade it.
+115358: Pyth-nor tries to wrap itself around you, but you manage to slip out of
+its grasp.
+115420: You are seized with the pronounced inclination to form a crackling
+mace.
+115472: The Crackling Mace hums with power in your hands.
+115510: Pyth-nor bats you down into the bay with its powerful tail.
+115556: Pyth-nor bites at you, denting your hull.
+115590: Pyth-nor catches you in its jaws, crushing you! You are jolted out of
+something resembling a deep sleep only the have the experience of being crushed
+to death a second time.
+115714: Pyth-nor unceremoniously eats you.
+115744: No need... there's water almost everwhere.
+115776: There's important work left undone here.
+115808: You are a perfectly healthy giant robotic alligator.
+115844: You are currently having the life crushed out of you by a giant robotic
+python.
+115900: You are eager to use the combined might of several good people and
+robots to protect Wetlands everywhere. Ho!
+115976: You are anxious, but in good health.
+116004: The Loop Road passes a large parking lot, to the south, and leads off
+to the north and southeast.
+116076: The loop road passes the visitor center here, south, and continues
+along to the southwest and southeast. There is a parking lot to the west.
+116176: The crow has black feathers and intelligent black eyes.
+116216: A crow searches the grass for discarded snacks.
+116252: The crow gobbles them up readily.
+116276: The crow easily avoids your grasp.
+116300: The crow grabs the corn chips bag and promptly flies off with it.
+116416: A crow swoops down from the sky.
+116444: The children clutch a declining collection of snacks.
+116532: At the tram's front are a driver and a tour guide.
+116568: You are sitting onboard a tour tram.
+116594: comes to a gentle stop near the Visitor Center, to the south. Most of
+the passengers get off and then others get on.
+116728: I don't think the driver would agree with you.
+116764: The tour guide is busy telling bad jokes interspersed with a few
+barely-informative details about the Everglades.
+116844: The tour guide ignores you and goes on talking.
+116880: The tour guide pronounces it typical of the many fine collectable
+souvenirs available from the Shark Valley gift shop.
+116964: The tour guide answers that the tram leaves periodically from the loop
+road, just north of the visitor center.
+117040: The tour guide indicates that this is it.
+117072: The tour guide regards the transmitter for a moment and then asks you
+which cell phone plan you're on.
+117144: "What transmitter might that be?"
+117172: "One of the most popular attractions in South Florida!"
+117216: The tour guide ignores you and goes on talking.
+117252: I don't think the tour guide would agree with you.
+117288: The tour guide welcomes everybody to Shark Valley, and then spends
+several minutes trying to explain why there aren't any sharks.
+117380: The tour guide delivers some nonsense about how to outrun an alligator
+by running in zig-zags.
+117446: The tour guide maintains that the Everglades and the nearby city of
+Miami co-exist in ecological harmony.
+117524: The tour guide informs you that the Everglades was once the subject of
+a Kingston Trio song.
+117590: The tour guide nervously laughs off a question as to whether the giant
+robotic snake recently spotted outside Sanford is in fact headed for the
+Everglades.
+117700: The tour guide incorrectly describes alligators as "Modern-Day
+Dinosaurs".
+117756: The tour guide tells everybody where the bathrooms can be found, again.
+117808: The tour guide tells an ineffective joke.
+117840: The road runs north and east, and the top of Obseration Tower is
+visible to the south.
+117904: You indulge yourself with a quick look around and then come back down.
+117952: It consists of a spiralling, painted concrete ramp. It's very similar
+to the observation tower at the top of Clingman's Dome at Great Smoky Mountains
+National Park.
+118072: You awake as if from a deep sleep, and are once again a giant robotic
+alligator.
+118154: You exit something resembling a deep sleep, feeling entirely yourself
+again.
+118220: The tiny, familiar-looking person appears to be asleep.
+118260: You are jolted awake by the profoundly unpleasant experience of being
+wrenched in two by the steel jaws of a giant robotic alligator.
+118352: They appear to be getting closer.
+118376: You make as much noise as possible, but still don't succeed.
+118424: She appears to be asleep and her hair is braided.
+118468: She appears to be asleep and has very long hair.
+118508: There isn't anywhere good to bite down on the orange-colored robotic
+alligator.
+118564: But you have already bitten down upon the zigzag port.
+118602: You bite down on the zigzag port. Gator-on is assembled! You fall into
+something resembling an even deeper sleep.
+118688: You don't really have an articulable mouth. Now if you were a giant
+robotic alligator, on the other hand...
+118768: He appears to be asleep. His hands are stained from the use of
+laboratory dyes.
+118828: She appears to be asleep.
+118848: You start to swim north, but lose your concentration.
+118886: You swim north. You feel a pressure change as the airlock closes behind
+you.
+118944: You are Gator-on, Friend to Wetlands!
+118974: Gator-on is an enormous, multi-colored bipedal robot.
+119016: Gator-on is so enormous, in fact, that the bay only goes partially up
+the height of his feet.
+119084: A formidable weapon, crackling with electric charge.
+119124: Your claws aren't really designed to hold things.
+119160: The air around the mace is seriously ionized.
+119192: This time, Pyth-nor is prepared. In the middle of waking up from what
+resembles a deep sleep (again), you are gobbled up by an enraged giant robotic
+python.
+119304: You release your jaws. The other Gator-on Force members see what you
+are playing at and release their jaws, too. The center of gravity of the robot
+alligators shifts and you are all free of Pyth-nor's death grip!
+
+Gator-on
+begins to reassemble, prompting Pyth-nor to roar with anger.
+119508: You don't really have an articulable mouth. Now if you were a giant
+robotic alligator, on the other hand...
+119616: You attack Pyth-nor with your jaws. Pyth-nor is dented slightly, but
+essentially unaffected.
+119684: You struggle to attack Pyth-nor, but you are immobilized.
+119728: You pound Pyth-nor down into the bay. It recoils as though in pain.
+119780: You futilely pound Pyth-nor with your fists.
+119812: You struggle with all your might, to no avail.
+119848: You can't form the Crackling Mace without your hands free.
+119890: You bring your steel fists together and draw them slowly apart,
+producing a bright beam of light.
+
+You are now carrying the Crackling Mace.
+119992: They short trees have evolved to thrive in low-phosphorous conditions.
+120044: An olive-colored community of symbiotic microorganisms.
+120084: Not as numerous as they once were, but no less captivating.
+120128: You couldn't even get close to most of them.
+120160: Their shells can occasionally be seen protruding just above the water.
+120208: Believe it or not, there would be no advantage in taking a turtle.
+120256: The one thing just about every other animal here eats.
+120296: They're way too quick to catch without tackle.
+120484: Edit and the totally unexpected Inform syntax hiliting mode.
+
+Special
+thanks also to my Everglades hiking companion, beta-tester, and Significant
+Otter, the lovely and talented Shani Warner. Your score has just gone up by one
+point!
+120652: A theme of GATOR-ON, Friend to Wetlands! is that missteps, both
+ecological and otherwise, can often be reversed. This philosophy informs the
+story as well as the solutions to many of its puzzles.
+120796: You don't need to explore every location to win. The game will lead you
+to most of the important places. Have you taken inventory?
+120888: The crow's destination varies, but it likes to hang out at the Visitor
+Center.
+120944: Stay or get on the tram, wait until it stops, get off, and go south.
+120996: Nope.
+121004: The crow flies too fast to really follow it. You'll need some way to
+trick the crow into revealing its hiding place.
+121088: Make sure you haven't left behind anything useful at the hatch.
+121132: The button is clearly too big for a person to press. You'll need
+someone else to do it for you.
+121200: If you were designing a vehicle, how would you address the problem?
+121248: You need to be shaped differently.
+121272: You might benefit from a change in perspective. What accompanied your
+last one?
+121328: No need... there's water almost everwhere.
+121360: There's nothing to fill that with here.
+121388: You deliver Pyth-nor a decisive blow with the Crackling Mace! Its bulk
+casts eerie shadows as it grinds to a gradual halt. The Sun is setting over
+Florida Bay, but not on the future of the Florida Everglades. Or on its new
+champion.
+121860: give" or test "has" or "hasnt" with a non-attribute on the object
+121908: , but it is longer than 2 bytes so you cannot use "."
+

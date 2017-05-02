@@ -1,0 +1,78 @@
+22255: Goods:
+22275: Buildings:
+22295: Plantations:
+22698: Plantation tiles remaining:
+27010: Building tile supply:
+29502: Starting new turn.
+30000: Role cards left:
+30729: Not a valid choice.
+31002: End of turn.
+31443: Final scores:
+32970: The Trading Post contains:
+33693: Not valid choice.
+34421: Can't create Quarry [BUG].
+34456: No quarries left.
+34477: Not a valid choice.
+34750: Not a valid choice.
+35090: Not valid input.
+35903: Not a valid choice.
+36685: Skipping to next player.
+37006: Not valid input.
+37058: Movement cancelled.
+37230: Not valid choice.
+37264: Movement cancelled.
+37469: Not valid choice.
+37790: Supply down to:
+38913: Not valid input.
+40902: Current Cargo fleet:
+42696: Not valid input.
+42907: Cancelling. Choose again.
+42984: Not valid choice.
+43076: Not valid choice.
+43154: Not valid choice.
+43394: . Choose again.
+44544: You must make a selection.
+44750: Not valid choice.
+45370: Couldn't find warehouse!
+46285: Blorted.
+46687: .
+   Colony ship has
+46766: Corn:
+46836: Sugar:
+46869: Tobacco:
+47054: Commands at any prompt:
+50979: in" or "notin
+50995: opmhas" or "hasnt
+51137: }" at end of "objectloop
+59384: Inform adaptation by J. Robinson Wheeler. Play testing by Storme
+Winfield.
+59548: Please choose a number between 2 and 5.
+59710: Restoring role cards, with doubloons on unpicked roles...
+59876: Trading post is now full, and is cleared out.
+59918: Plantation tiles currently available:
+60126: No tiles left.    Moving to next player
+60286: You can't buy more than one of the same type of building.
+60336: You can't afford that selection.
+60594: Colonist supply is now exhausted. Game will end this turn.
+60722: tokens left. Please select again or 0 to cancel.
+60800: at this time. Please select again.
+60828: is full. Choose a different ship or 0 to cancel.
+60866: You can't have two ships with the same cargo.
+60904: . Try again or 0 to cancel and choose a different type of Goods.
+60952: Captain phase is over. All goods not shipped or stored must be reduced
+to 1.
+61282: Option not available until game begins.
+61314: Option not available until game begins.
+61346: Option not available until game begins.
+61378: Option not available until game begins.
+61410: Option not available until game begins.
+61442: Option not available until game begins.
+61474: Option not available until game begins.
+61506: Option not available until game begins.
+61538: Option not available until game begins.
+61570: Option not available until game begins.
+61602: Option not available until game begins.
+61634: Option not available until game begins.
+61666: Option not available until game begins.
+61698: Goods tokens remaining for production:
+

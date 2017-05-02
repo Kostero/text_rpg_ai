@@ -1,0 +1,2321 @@
+29837: Nothing to do!
+29872: o. You have won
+29970: It is now pitch dark in here!
+29997: I beg your pardon?
+30061: Sorry, that can't be corrected.
+30090: Think nothing of it.
+30143: As good-looking as ever.
+30175: You can hardly repeat that.
+30200: You can't begin with a comma.
+30314: I didn't understand that number.
+30343: You can't see any such thing.
+30379: You aren't holding that!
+30421: I'm not sure what "
+30473: That's not a verb I recognise.
+30512: You can't see "
+30620: Nothing to do!
+30637: There are none at all available!
+31547: Please answer yes or no.
+31573: Are you sure you want to quit?
+31618: Failed.
+31638: Restore failed.
+31655: Ok.
+31673: Save failed.
+31688: Ok.
+31732: Transcripting is already on.
+31798: Transcripting is already off.
+31856: Score notification on.
+31877: Score notification off.
+31900: You have visited:
+31928: Objects you have handled:
+31953: None.
+32339: You are carrying nothing.
+32388: Taken.
+32399: You are always self-possessed.
+32932: Dropped.
+33042: Removed.
+33181: You lack the dexterity.
+33262: Done.
+33528: Done.
+33739: Wrahn seem interested.
+34320: You can't go that way.
+34880: But it's dark.
+34897: You find nothing of interest.
+34933: But it's dark.
+35024: You find nothing of interest.
+36152: . Not bad.
+36170: That was a rhetorical question.
+36224: That seems unnecessary.
+36247: Keep your mind on the game.
+36272: What a good idea.
+36291: You smell nothing unexpected.
+36318: You hear nothing unexpected.
+36343: You taste nothing unexpected.
+36378: Keep your hands to yourself!
+36403: You feel nothing unexpected.
+36428: If you think that'll help.
+36537: Oh, don't apologise.
+36567: Quite.
+36636: You achieve nothing by this.
+36724: You wave, feeling foolish.
+36874: You are unable to.
+36893: Nothing obvious happens.
+36943: That's not a direction.
+36966: Not that way you can't.
+36998: Keep your hands to yourself.
+37023: You achieve nothing by this.
+37056: Futile.
+37085: You talk to yourself a while.
+37112: This provokes no reaction.
+37140: There is no reply.
+37159: Nothing is on sale.
+37178: Your singing is abominable.
+37212: Time passes.
+39164: [Advanced to "noun" token:
+55161: " of "
+55200: " list of "
+55281: " has no "time_left" property
+55311: The object "
+55371: The room "
+55385: " has no "description" property
+64349: Trace off.
+65071: Nothing is in scope.
+65372: Off it is.
+65467: It's the door to the hallway.
+65574: Don't worry about that anymore.
+65826: Don't worry about that anymore.
+65857: Close it first.
+65963: The coffeemaker is overflowing!
+66042: The coffeemaker is overflowing!
+66111: The coffeemaker is overflowing!
+67002: Don't worry about that anymore.
+67033: Don't worry about that anymore.
+67124: On the floor? Nasty thing!
+67159: Okee-dokee.
+67195: It's empty already.
+67230: Hell no!
+67256: It won't fit that way.
+67299: Don't worry about that anymore.
+67346: Don't worry about that anymore.
+67453: Don't worry about that anymore.
+67596: One chance is all you get.
+67640: One chance is all you get.
+67688: Don't worry about that anymore.
+67789: Don't worry about that anymore.
+67925: One chance is all you get.
+67967: One chance is all you get.
+68015: Don't worry about that anymore.
+68109: Don't worry about that anymore.
+68225: One chance is all you get.
+68265: One chance is all you get.
+68313: Don't worry about that anymore.
+68454: That goes without saying.
+68597: "What about it?"
+68729: "I felt the same way you did."
+69003: Jepos takes her sword back.
+69042: Jepos takes the parchment back.
+69144: You wish you had the time!
+69206: You wish you had the time!
+69397: "I'll do anything I can."
+69772: You take Jepos's sword.
+71144: Better stay hidden, you two.
+71526: A little of the soot comes away.
+71576: No.
+71791: Let the dead bury their dead.
+72205: It's in the bottle, isn't it?
+72261: Oh hardly!
+72283: There's somethin' in there!
+72368: Filled with mouthwash.
+72438: It already is!
+72505: Glug, glug, glug.
+72526: On the floor? Nasty thing!
+72594: Hell no!
+72618: That won't fit on there!
+72658: It's in the bottle, isn't it?
+72714: Fine, fine.
+73322: That's you, all right.
+73362: Now there's a parsing conundrum.
+73466: It looks full of mouthwash.
+73498: It looks like a plastic bottle.
+73545: It's in the bottle, isn't it?
+73600: Oh hardly!
+73622: There's somethin' in there!
+73697: Filled with whiskey.
+73761: It already is!
+73824: Down the sink.
+73841: On the floor? Nasty thing!
+73909: Hell no!
+73933: That won't fit on there!
+73958: Ahh.
+73978: Ahh.
+74002: Fine, fine.
+74054: Ahh.
+74078: Fine, fine.
+74149: Fine, fine.
+74378: Certainly not.
+74424: It already is!
+74457: All-righty.
+74547: Don't worry about that anymore.
+74588: Don't worry about that anymore.
+74629: Don't worry about that anymore.
+74678: Don't worry about that anymore.
+74760: Don't worry about that anymore.
+74801: Empty that basket first!
+74843: Don't worry about that anymore.
+75010: The elevator doors whisk open.
+75084: The elevator doors whisk shut.
+75143: Ralph holds the door for you.
+75606: You draw the strings tight.
+75759: The whispering dies away.
+75797: You leave the shade of the oak.
+75944: "It's not polite to stare!"
+76034: No.
+76262: Too late.
+76305: Answer his question!
+76507: They're way way up there.
+76584: Shut up and listen!
+76611: It hasn't started yet!
+77005: "Ask yourself, my dear."
+77930: "What in particular?"
+78184: You light the lamp.
+78209: You switch off the lamp.
+78931: Judy is staring off into space.
+79178: Judy is staring off into space.
+79202: Judy is staring off into space.
+79226: Judy is staring off into space.
+79293: You hear a faint hum.
+79313: Uh, look around ...
+80837: It feels a bit lumpy.
+80854: Taken.
+81038: Oof. Taken.
+81476: You can't go that way.
+82109: You can't go that way.
+82694: You can't go that way.
+82905: You can't go that way.
+83419: You can't go that way.
+84250: You can't go that way.
+84477: The army is retreating.
+84545: The army is retreating.
+84731: Nothing special happens.
+84750: Nothing special happens.
+84889: Nothing special happens.
+84908: Nothing special happens.
+85079: Nothing special happens.
+85098: Nothing special happens.
+85268: The elevator doors whisk shut.
+85371: You hear a loud hum.
+85404: The elevator doors whisk shut.
+85446: You hear a loud hum.
+85490: You hear a loud hum.
+85508: Uh, look around ...
+85549: You hear a loud hum.
+85570: Uh, look around ...
+85610: Yup, it smells like boooooze.
+85678: Yup, it smells like mouthwash.
+85717: Don't worry about that anymore.
+85794: Don't worry about that anymore.
+85970: No.
+86220: Done.
+86227: Not a chance.
+86304: You don't know the number.
+86395: Haidro. This is it.
+86447: Laid to rest.
+86466: Soon to be laid to rest.
+86726: A minor character.
+86754: A minor character.
+86782: A minor character.
+86809: You hear a dial tone.
+86841: Click.
+86957: You have no ideas whatsoever.
+86980: Hello?
+87042: Always do the right thing.
+87154: Your teeth are now whet.
+87181: Now you're cookin'.
+87283: THERE it goes.
+87326: Okay. Now what?
+87341: Why?
+87350: Yeah? You and who else?
+87430: Awww ... aren't we clever!
+87470: Were you sitting down?
+87490: This ain't no playground.
+87530: How salubrious!
+87554: I'd feel the same way.
+87574: The verb you want is RESTORE.
+87682: Aww!
+87690: Sensitive type?
+87758: HUNH! What is it good for?
+87782: Yeah, peace, bro!
+87798: Hi, sailor!
+91524: Score:
+91532: Moves:
+91540: Time:
+91548: You can't go that way.
+91840: Please give one of the answers above.
+91868: [You can't "undo" what hasn't been done!]
+91904: [Can't "undo" twice in succession. Sorry!]
+91944: "Oops" can only correct a single word.
+91972: It is pitch dark, and you can't see a thing.
+92004: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+92064: You seem to want to talk to someone, but I can't see whom.
+92108: To talk to someone, try "someone, hello" or some such.
+92148: I didn't understand that sentence.
+92208: You seem to have said too little!
+92232: You can't use multiple objects with that verb.
+92268: You can only use multiple objects once on a line.
+92304: You excepted something not included anyway!
+92336: You can only do that to something animate.
+92368: That's not something you need to refer to in the course of this game.
+92416: I didn't understand the way that finished.
+92448: Sorry, you can only have one item here. Which exactly?
+92600: Are you sure you want to restart?
+92624: The game file has verified as intact.
+92652: The game file did not verify as intact, and may be corrupt.
+92696: Attempt to begin transcript failed.
+92724: Attempt to end transcript failed.
+92748: You're carrying too many things already.
+92780: You can't put something on top of itself.
+92812: You can't put something inside itself.
+92868: You can only get into something freestanding.
+92900: But you aren't in anything at the moment.
+92932: You'll have to say which compass direction to go in.
+92972: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+93068: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+93152: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+93328: This dangerous act would achieve little.
+93356: Nothing practical results from your prayer.
+93388: The dreadful truth is, this is not a dream.
+93420: Digging would achieve nothing here.
+93448: You jump on the spot, fruitlessly.
+93476: You would achieve nothing by this.
+93500: There's nothing suitable to drink here.
+93528: But there's no water here to carry.
+93556: Real adventurers do not use such language.
+93588: Violence isn't the answer to this one.
+93616: There's not enough water to swim in.
+93644: There's nothing sensible to swing here.
+93672: That would be less than courteous.
+93696: Is that the best you can think of?
+93720: You lack the nerve when it comes to the crucial moment.
+93760: I don't think much is to be achieved by that.
+93792: You aren't feeling especially drowsy.
+94300: Try typing "showverb" and then the name of a verb.
+94368: Property value not routine or string: "
+94396: Entry in property list not routine or string: "
+94516: " can only be used as a player object if it has the "number" property
+94778: The suite your publisher's installed you in free of charge (within
+reason, as you've discovered trying to order adequate dinners from Room
+Service) till you get your goddamn book done.  Your deadline's three days away
+and you haven't written a solitary word.  Not word one;  zippo;  nada city. 
+Even if you could think of a word or (miracle of miracles) two you'd need to
+sober up massively before you could enter it into your laptop.
+
+
+Oh, the room? 
+There's a bed that's been slept in way too often, unaltered by the housekeepers
+since your last nap.  There's a hotel chain's idea of a workdesk, a doorway
+into the bathroom at the southeast end of the room, a walk-in closet to the
+east, the door to the hallway in the northwest corner.  Gillian your editor,
+bless her heart, instructed them to remove the t.v.  A minibar stands on the
+wall.
+95378: Oh, the room?  There's a bed that's been slept in way too often,
+unaltered by the housekeepers since your last nap.  There's a hotel chain's
+idea of a workdesk, a doorway into the bathroom at the southeast end of the
+room, a walk-in closet to the east, the door to the hallway in the northwest
+corner.  Gillian your editor, bless her heart, instructed them to remove the
+t.v.  A minibar stands on the wall.
+95668: The door to the hallway is chained, latched and double-locked (from the
+inside).
+95796: With the aid of the lamp you find and procure the old issue of
+"Mizopolitan" that was languishing under the bed.
+95876: You can do that as many times as you like, but you won't find anything
+else under there.
+95940: It's way too dark to see under there.
+95968: You flip through the old issue of "Mizopolitan:" five articles catch
+your eye.
+96024: Oh God no. Just reading the titles is enough to remove any self-respect
+as a writer you might've had left.
+96100: The first article is titled "Cheating: It Isn't Just For Adventure
+Gamers!"
+96160: Oh God no. Just reading the titles is enough to remove any self-respect
+as a writer you might've had left.
+96236: The second article is titled "Getting in Touch with Your Inner Creator."
+96292: Oh God no. Just reading the titles is enough to remove any self-respect
+as a writer you might've had left.
+96368: The third article is titled "Opening the Door to Success."
+96412: Oh God no. Just reading the titles is enough to remove any self-respect
+as a writer you might've had left.
+96488: The fourth article is titled "Be Nice to Men ... They're Dumber than You
+Are."
+96552: Oh God no. Just reading the titles is enough to remove any self-respect
+as a writer you might've had left.
+96628: The fifth article is titled "When a Decent Lay Goes Astray."
+96676: Oh God no. Just reading the titles is enough to remove any self-respect
+as a writer you might've had left.
+96752: Say which article you want to look at, please.
+96788: You've dedicated it to the latest installment of your fantasy series
+RANS.
+96842: It boots up with hardly a buzz or a bleep.
+96876: There's enough for you to type the whole book, if only you could think
+of anything.
+96940: If you wanna read what you've written so far, restart the game!
+96988: You gotta write it before you can read it.
+97020: Nothing. Not a whit. Not a shred.
+97048: It's a sturdy stack of manuscript.
+97076: Your newest novel in the RANS series begins in a mountain fastness in a
+time of civil war. The Princess Sephyr and her loyal retainer Kyub are rescued
+by a powerful stranger from another land who goes on a secret mission to the
+capital, fights alongside the loyalist resistance and discovers a resistance
+leader's treason which, when revealed, gains the Princess and the loyalists
+popular support, so the rebellion is overthrown. The book ends at a "speaking
+contest" in a rural market fair close to the sea, whence the "stranger" is
+apparently about to embark to a new and unexplored place. You leave it nicely
+ambiguous at the end whether the rebellion that threatened the kingdom has been
+crushed, or its crushing is only inevitable.
+97588: You also see a telephone.
+97608: It's the phone you've been using to call room service.
+97648: The door to the hallway is chained, latched and double-locked (from the
+inside).
+97706: You unchain the chain, slide back the latch and flip the deadbolt with a
+practiced flip of the wrist.
+97780: Locked and latched all over again.
+97808: The minibar supports a small coffeemaker.
+97840: You're too drunk to be able to manage that, but you dimly recall it has
+an opening where you pour water, a basket to put coffee filters in, and a
+switch to start it up.
+97960: You fumble with the plug, but it's about like trying to disrobe a
+one-night-stand while in a similar condition. Unlike that experience, you soon
+give up.
+98068: The liquid strikes the top of the unopened coffeemaker and spills all
+over the floor. Neatness is evidently not one of your virtues.
+98160: Your hand trembles vividly, but you manage to get most of the water into
+the coffeemaker, about enough for a cup. The rest of it will dry, you hope.
+98280: Your hand trembles vividly, but you manage to get most of the water into
+the coffeemaker, about enough for a cup. The rest of it will dry, you hope.
+98400: Filled with rye whiskey, as per your instructions.
+98452: Filled with mouthwash, as per your instructions.
+98500: It won't work without a basket in it. Just pointing this out.
+98544: Ahem ... I'd suggest you empty the bottle before doing this.
+98592: Aw fuck me! The mouthwash bottle's melting!
+98670: CCRRIIIINNGGMMNNGGHHSSS!
+
+As the night wears on, your guilt over your
+wanton destruction of hotel property gives you a slight heartburn and curbs
+your ability to think for a spell. You sit staring at the walls. Then you
+sleep. Then you wake up past your deadline, imagining you really might've
+finished your book if you'd kept awake. Nah. To hell with this writer shit
+anyway. You're a drunk, is all there is to it. Have a nice rest of your life.
+99000: A labored hissing and bubbling sound issues from the coffeemaker.
+99048: It'll turn itself off when it's ready.
+99076: The coffeemaker emits a series of gasping, snorting noises, then goes
+silent.
+99132: All you've accomplished now is to leave an unholy mess on the floor. The
+coffeemaker doesn't look too streamlined either.
+99218: All you've accomplished now is to leave an unholy mess on the floor.
+99296: You experience a dramatic clearing of the head ... a warehouse-sized
+clearance is more like it.  Now if you could just get a bit of fresh air ...
+99402: You get the plastic top situated over the reservoir again.
+99446: You take the plastic top off the reservoir.
+99568: Jesus, what do you need, a walkthrough?
+99600: Easier to do by far if you take the basket out of the coffeemaker.
+99646: You just manage to slide the basket out of the coffeemaker. Sliding it
+back in is gonna be another thing entirely.
+99728: In your state, you'd better line it up first.
+99764: It's the old filter full of coffee dregs.
+99796: Ick! Why not just empty the basket somewhere?
+99830: Next to the coffeemaker are three packets of Insta-Drip Dark Roast.
+99884: Next to the coffeemaker are two packets of Insta-Drip Dark Roast.
+99934: Next to the coffeemaker is a packet of Insta-Drip Dark Roast.
+99984: It looks just like a packet of Insta-Drip.
+100016: You struggle to do this, but your hands aren't deft enough, or the
+packet is too tightly sealed, or ... well, you know.
+100104: I'd clear my throat if I had one.
+100130: You tear an opening big enough to pour from (and are fated to have
+coffee grounds all over your teeth for hours).
+100214: Next to the coffeemaker are three packets of Insta-Drip Dark Roast.
+100268: Next to the coffeemaker are two packets of Insta-Drip Dark Roast.
+100318: Next to the coffeemaker is a packet of Insta-Drip Dark Roast.
+100368: It looks just like a packet of Insta-Drip.
+100400: You struggle to do this, but your hands aren't deft enough, or the
+packet is too tightly sealed, or ... well, you know.
+100488: I'd clear my throat if I had one.
+100514: You tear an opening big enough to pour from (and are fated to have
+coffee grounds all over your teeth for hours).
+100598: Next to the coffeemaker are three packets of Insta-Drip Dark Roast.
+100652: Next to the coffeemaker are two packets of Insta-Drip Dark Roast.
+100702: Next to the coffeemaker is a packet of Insta-Drip Dark Roast.
+100752: It looks just like a packet of Insta-Drip.
+100784: You struggle to do this, but your hands aren't deft enough, or the
+packet is too tightly sealed, or ... well, you know.
+100872: I'd clear my throat if I had one.
+100898: You tear an opening big enough to pour from (and are fated to have
+coffee grounds all over your teeth for hours).
+100984: The gouda is straitly bound in cellophane and sealed in wax. You know
+how they are.
+101044: No effort you make, no sweat you sweat, appears to help toward opening
+the lonely gouda.
+101106: As you peel the gouda down to its red wax shell, it's hard to ignore
+the suspicion that the red has migrated onto and into your hands, your skin. It
+races along your arms and you feel its sickening flush on your neck, your face,
+your very eyes. A wall of scarlet pours across the world. You blink. It isn't
+unexpected this time. The thing you didn't expect was
+101432: You've decided you aren't hungry. Not THAT hungry.
+101482: The capital is convulsed with the most animal of conflicts, guerilla
+war in the streets. Black smoke, the glare of unchecked burnings, painridden
+screams fill the air. Somehow, somewhere in this indistinct warren of narrow
+roads, you and Jepos were cut off from your Loyalist squadron and forced into a
+hand-to-hand skirmish with rebel militia who knew who and what you were, caught
+you with only one sword between you, and seem to increase in number by the
+minute. You passed the sword to Jepos, of course--it's been your habit to leave
+feminist issues out of this novel, but at the moment you wish you hadn't made
+chivalry such an automatic code.
+
+Do something about that mace or you're dead!
+101968: The capital is convulsed with the most animal of conflicts, guerilla
+war in the streets. Black smoke, the glare of unchecked burnings, painridden
+screams fill the air. Somehow, somewhere in this indistinct warren of narrow
+roads, you and Jepos were cut off from your Loyalist squadron and forced into a
+hand-to-hand skirmish with rebel militia who knew who and what you were, caught
+you with only one sword between you, and seem to increase in number by the
+minute. You passed the sword to Jepos, of course--it's been your habit to leave
+feminist issues out of this novel, but at the moment you wish you hadn't made
+chivalry such an automatic code.
+102420: Your partner Jepos stands beside you.
+102448: She has a straight back, sallow glowing skin & dark-lashed eyes. She's
+been a part of your squadron ever since the Resistance got going. She doesn't
+say much, unless she needs to. She carries a sword.
+102596: She has a straight back, sallow glowing skin & dark-lashed eyes. She's
+been a part of your squadron ever since the Resistance got going. She doesn't
+say much, unless she needs to.
+102728: Did she say something? That'd be out of character somewhat.
+102772: "If I were sure what we were fighting for, or even what we're fighting
+against, I'd feel a lot better."
+102848: "No wonder we're losing, if our commander is working with the enemy."
+102900: "All I know is, Sephyr's against them. That's good enough for me."
+102952: "She's the Heir. It's as simple as that."
+102988: "I know who you are. I wonder if you do."
+103020: "There's not much to tell. I was a little girl, now I'm a big girl, and
+you know what's made me that way."
+103100: "I don't like him much, but he's the boss."
+103136: "No wonder we're losing, if our commander is working with the enemy."
+103188: "I think it must lead to Kamendro's room."
+103220: "They give me the creeps. But what ARE they?"
+103256: "What're you doing, flirting? Not that I don't appreciate it."
+103304: "It happened. I'm a big girl. We don't have to talk about it anymore."
+103360: "It's part of something else, something unknown to me."
+103404: She reads it to you: "I, Kamendro, pledge my fate, and the fate of my
+followers, to the success of the Rebellion."
+103488: Jepos has nothing to say on that topic.
+103516: You're close enough to hear her gasp, though no one else is.
+103560: "I was there, remember? I heard the whole thing."
+103600: Are you as insane as that command makes you sound?
+103636: "That belongs to you, in more ways than one."
+103672: Her eyes stare into yours with a bit of startlement and a bit of a
+smile. Her warm lips, rich and clinging, answer every motion of your own.
+103772: It goes on and on, a black hole in the flow of time.
+103812: You feel each other's shortened breath and hammering hearts.
+103856: This isn't an ideal place for nakedness, is it? I'm sure you can
+uncover the essential places.
+103924: Does the word "foreplay" ring a bell?
+103952: It's urgent, almost desperate, but attentive and careful at the same
+time. Your organs could've been engineered to slide together, your rhythms are
+a single rhythm--towering, cresting, washing you with steep delight and the
+muffled cries it pulls forth. Tenderly, deeply hushed, you disentangle.
+104160: You've been deliciously fucked. You're a whole other kind of fucked if
+you want more anytime soon.
+104232: "I'll do it, but we need to get closer to his room."
+104272: Your partner Jepos stands beside you, holding a small blackened mirror.
+104322: She stares into you. You can't tell much about what's behind her eyes.
+But then she nods, takes her sword in hand and steps through the doorway. You
+nearly stagger, expecting all her weight to be added to your belongings, but
+there's nothing. You're alone.
+
+After a short time she steps into being again.
+If doing a murder has changed her, the change is only apparent now in her
+refusal to look you in the eyes. "I found a parchment in Kamendro's
+handwriting," she says, "written in Kamendro's blood, pledging himself to the
+Rebellion. Once the others see it, they'll believe we've been betrayed. We can
+start to weed ourselves out, piece ourselves back together." She holds up a
+small blackened mirror. "This is something Kamendro was keeping--but it really
+belongs to you."
+104880: "You can't just tell me to do something like that."
+104920: "I'll do it, but we need to get closer to Kamendro's room."
+104968: Your partner Jepos stands beside you, holding a small blackened mirror.
+105018: She stares into you. You can't tell much about what's behind her eyes.
+But then she nods, takes her sword in hand and steps through the doorway. You
+nearly stagger, expecting all her weight to be added to your belongings, but
+there's nothing. You're alone.
+
+After a short time she steps into being again.
+If doing a murder has changed her, the change is only apparent now in her
+refusal to look you in the eyes. "I found a parchment in Kamendro's
+handwriting," she says, "written in Kamendro's blood, pledging himself to the
+Rebellion. Once the others see it, they'll believe we've been betrayed. We can
+start to weed ourselves out, piece ourselves back together." She holds up a
+small blackened mirror. "This is something Kamendro was keeping--but it really
+belongs to you."
+105576: She passes you her sword, staring steadily.
+105608: She hands you the piece of parchment.
+105636: "You'd rather I did it? Fine. Just give the order." She hands the
+doorway back to you.
+105702: Your hands meet once more, and within the now-familiar swoon that
+signals a shift of world, you hear Jepos tell you, "To recognize evil is to
+recognize it in oneself: but recognizing it in yourself, you banish it." Then
+the shift is complete.
+105876: She reads it to you: "I, Kamendro, pledge my fate, and the fate of my
+followers, to the success of the Rebellion."
+105964: It's a sword.
+105976: The grim man isn't interested in academic questions, you realize as his
+sword impales you.
+106040: I guess you decided not to talk him round ...
+106074: You waited too long to do anything about the mace. I'm afraid you can
+no longer be described as someone with a good head on your shoulders, or indeed
+much of one at all.
+106196: You lunge downward out of the way of the mace, which passes overhead
+with a grisly whistle, but you raise so much dust in the process that you can't
+see a thing!
+106308: As you flounder lost in the dust, it's simple for your enemies, not
+similarly affected, to locate your ribs and stick their swords between them.
+106412: You vault backwards out of the path of the mace, slamming into Jepos
+and knocking her to the ground beneath a rebel fighter, who prepares to thrust
+his sword into her heart.
+106532: You don't act soon enough to prevent Jepos from being run through ...
+and something tells you that's not really the best thing you could've done.
+You've introduced this character only to kill her off, without stopping to
+consider how important she could have been to the story--or to you. I guess
+you're not the novelist you think you are. Maybe you never were.
+
+You kneel and
+shut your eyes, not caring if you wake up in the hotel room or in the land
+you've so callously ruined. There's no point in going on now.
+106896: As you struggle to get the dust out of your eyes, someone drops a thick
+net over you, like the ones in those gladiator B-movies.
+106986: As you thrash ineffectually in the net, someone inserts a sword through
+the mesh. You cry out, but the end is clean and quick.
+107080: You stir up the dust enough to get it in everyone's eyes. After a
+period of panicked yelling on all sides, the cloud of dust begins to
+settle--soon enough for you to see a runaway cart, set on fire, careening right
+for Jepos!
+107238: The cart smashes into Jepos and she goes up like a torch, with barely
+enough time to wail her fear and hurt ... and it strikes you maybe you ought'nt
+have let this happen. You've introduced this character only to kill her off,
+without stopping to consider how important she could have been to the story--or
+to you. I guess you're not the novelist you think you are. Maybe you never
+were.
+
+You kneel and shut your eyes, not caring if you wake up in the hotel
+room or in the land you've so callously ruined. There's no point in going on
+now.
+107620: You knock the enemy's sword aside, causing it to slash open a barrel of
+oil standing nearby, which promptly spills all over the street, and you fall on
+your ass!
+107732: As you thrash about merrily in the pool of oil, someone slides by
+jerking a sledgehammer and smashes in your skull.
+107812: Leaping up, she shoves you angrily, snarling "I can take care of
+myself!" and effortlessly knocks the sword away, as well as you, who stumble
+against an apple barrel and set apples rolling all over the street. You're
+barely managing to stay upright!
+107988: Trying desperately to keep your purchase on the apples, you fail to
+notice till it's too late that someone's axe has peeled and cored you quite
+similarly to an apple!
+108104: The more you squirm, the more tightly the net wraps around you.
+108148: You gave your sword away, remember? But THEY didn't.
+108190: As you thrash ineffectually in the net, someone inserts a sword through
+the mesh. You cry out, but the end is clean and quick.
+108282: As you thrash ineffectually in the net, someone inserts a sword through
+the mesh. You cry out, but the end is clean and quick.
+108376: They didn't expect that. As the net rises, the rebels holding onto it
+are yanked off their feet and fall over backwards. You snatch someone's sword
+and cut yourself free of the net, but a grim man rises hastily from the street,
+also with a sword, and faces you.
+108558: You do nothing that persuades the grim man not to run you through, so
+I'm afraid that's what happens.
+108636: You leap onto the hurtling cart, tipping it over and halting its
+progress, but the other side comes up like a seesaw and sends you flying
+straight toward a brick wall!
+108750: ... And running into the brick wall is exactly like running into a
+brick wall. Head first.
+108940: Beating your retreat, you look back on Jepos's dying clash with the
+hemming rebel force ... and it strikes you maybe you ought'nt have let this
+happen. You've introduced this character only to kill her off, without stopping
+to consider how important she could have been to the story--or to you. I guess
+you're not the novelist you think you are. Maybe you never were.
+
+You kneel and
+shut your eyes, not caring if you wake up in the hotel room or in the land
+you've so callously ruined. There's no point in going on now.
+109306: As you stand at the edges of the battle making up your sluggish mind, a
+large rock sails out of the melee toward you and settles the issue once and for
+all.
+109558: Beating your retreat, you look back on Jepos's dying clash with the
+hemming rebel force ... and it strikes you maybe you ought'nt have let this
+happen. You've introduced this character only to kill her off, without stopping
+to consider how important she could have been to the story--or to you. I guess
+you're not the novelist you think you are. Maybe you never were.
+
+You kneel and
+shut your eyes, not caring if you wake up in the hotel room or in the land
+you've so callously ruined. There's no point in going on now.
+109926: As you stand at the edges of the battle making up your sluggish mind, a
+large rock sails out of the melee toward you and settles the issue once and for
+all.
+110166: Beating your retreat, you look back on Jepos's dying clash with the
+hemming rebel force ... and it strikes you maybe you ought'nt have let this
+happen. You've introduced this character only to kill her off, without stopping
+to consider how important she could have been to the story--or to you. I guess
+you're not the novelist you think you are. Maybe you never were.
+
+You kneel and
+shut your eyes, not caring if you wake up in the hotel room or in the land
+you've so callously ruined. There's no point in going on now.
+110534: As you stand at the edges of the battle making up your sluggish mind, a
+large rock sails out of the melee toward you and settles the issue once and for
+all.
+110644: Sword rings on sword! It's sweaty, heavy-breathing stuff, this lunging
+in the spuming dust. Your foe has been fighting longer than you, so he's soon
+winded and less and less able to defend against your jabs and downstrokes.
+110802: With a practiced shove of your sword, you finish off your foe ... and
+suddenly wonder if that was what you really had in mind for this episode.
+Perhaps the grim man would've been willing to talk. Perhaps you could've
+explained yourself, learned something about the rebels ... too late, by your
+own doing. I guess you're not the novelist you think you are. Maybe you never
+were.
+
+You kneel and shut your eyes, not caring if you wake up in the hotel
+room or in the land you've so callously ruined. There's no point in going on
+now.
+111178: You do nothing that persuades the grim man not to run you through, so
+I'm afraid that's what happens.
+111256: You pause to salute your foe, and tell him "We have things to talk
+about." He doesn't alter his stance a bit: "Speak quickly."
+111350: With a practiced shove of your sword, you finish off your foe ... and
+suddenly wonder if that was what you really had in mind for this episode.
+Perhaps the grim man would've been willing to talk. Perhaps you could've
+explained yourself, learned something about the rebels ... too late, by your
+own doing. I guess you're not the novelist you think you are. Maybe you never
+were.
+
+You kneel and shut your eyes, not caring if you wake up in the hotel
+room or in the land you've so callously ruined. There's no point in going on
+now.
+111726: You do nothing that persuades the grim man not to run you through, so
+I'm afraid that's what happens.
+111804: Twisting in the air, you fall ... directly on Jepos! The rebels around
+you prepare to hack her up.
+111876: You lug yourself to your feet--and find yourself once again in the path
+of the gleaming mace! This time it does its job.
+111960: No good. You and Jepos are nicely pureed by sharp descending swords.
+112012: Your impetus gives you a brief tactical advantage, but in no time
+you're utterly ringed by a thicket of swords!
+112090: No good. The swords bear in on you and slice you into tiny bits.
+112140: The two of you speak in panting whispers. You get the impression that
+these rebels are in the dark about why they're fighting or what they hope to
+achieve, but they're cowed by their officers and downright panicked by the
+Crystal Warriors. Your own thoughts about the loyalist movement, and the
+Rebellion itself, are pretty vague as yet, so you have a hard time explaining
+yourself to the grim man. Perhaps Jepos knows something?
+112440: The two of you don't know each other well enough that when you let your
+guard down, he won't run you through. In case that sentence was a tad complex,
+he runs you through.
+112560: You do nothing that persuades the grim man not to run you through, so
+I'm afraid that's what happens.
+112636: You snatch up a dead man's sword and fight. Swinging and heaving
+interminably by yourself, you're soon at your last available ounce of
+endurance.
+112740: The ounce is gone. That means so are you.
+112770: No good. The swords bear in on you and slice you into tiny bits.
+112820: Jepos makes her way to your side, but there's a noise: horses. Your
+enemies pause to look about them, and so do you. Four Crystal Warriors are
+clopping toward you down a main street! Everyone's stunned, since these
+creatures NEVER concern themselves with guerilla squabbles like this, but the
+big thing is, if they're involved, you and Jepos don't have a chance in hell of
+living through this.
+113104: You ditch your weapon. Jepos's sword is small enough to hide.
+113148: You blend into the newly-still crowds and fade away, stopping only when
+you find a back alley tucked away from sight.
+113232: This is the city square, with its gruesome exhibit.
+113268: Sickened to your soul, it hardly helps.
+
+Jepos touches your shoulder:
+"There's nothing we can do for them. But we can save the rest of us, and maybe
+more, if we expose Kamendro. Let's take that little doorway someplace
+quiet."
+
+You walk in a hunted shamble, saying nothing, and Jepos only comes out
+of her silence once, to mutter the words "He'll have to die." It seems to take
+hours to get there.
+113558: Jepos touches your shoulder: "There's nothing we can do for them. But
+we can save the rest of us, and maybe more, if we expose Kamendro. Let's take
+that little doorway someplace quiet."
+
+You walk in a hunted shamble, saying
+nothing, and Jepos only comes out of her silence once, to mutter the words
+"He'll have to die." It seems to take hours to get there.
+113820: Inhabited by shadows and tumbled bricks, this blind alley provides a
+momentary hiding-place from that grim business in the streets. You can still be
+seen from the alley's opening, but toward the rear wall is a niche where that
+might not be possible.
+113992: You and Jepos step out from the niche. The Crystal Warrior swivels to
+face you, lifts a faceted arm and points ... something ... toward you,
+something that sends unbearable hunger and thirst throughout your body. You can
+actually feel your tissues wither on your bones, and your bones make a clatter
+as they fall.
+114216: You and Jepos step out from the niche.
+114244: The unmistakable sound of a human voice brings Kamendro and the Warrior
+to the niche. Kamendro grins a vile grin, but the Crystal Warrior raises a
+faceted arm and points ... something ... toward you, something that sends
+unbearable hunger and thirst throughout your body. You can actually feel your
+tissues wither on your bones, and your bones make a clatter as they fall.
+114508: The necklace strikes the far wall with a muted clatter. Kamendro and
+the Crystal Warrior both flinch and swivel around, but see nothing in the
+alley, then flee hurriedly into the streets. The Warrior lets something fall
+behind him in his haste.
+114678: The loud noise brings Kamendro and the Warrior to the niche. Kamendro
+grins a vile grin, but the Crystal Warrior raises a faceted arm and points ...
+something ... toward you, something that sends unbearable hunger and thirst
+throughout your body. You can actually feel your tissues wither on your bones,
+and your bones make a clatter as they fall.
+114926: You hear a sound at the mouth of the alley and turn. One of the Crystal
+Warriors stands before you, still, immense, inhuman. He raises a faceted arm
+and points ... something ... toward you, something that sends unbearable hunger
+and thirst throughout your body. You can actually feel your tissues wither on
+your bones, and your bones make a clatter as they fall.
+115186: You detect something, a rustle or shift in the air. Moving your eye
+around the edge of the niche, you see two men have entered the alley and stand
+talking. One is Kamendro, leader of the loyalist movement, and the other is a
+Crystal Warrior!
+115360: Better stay hidden, you two.
+115382: Once the noises of chaos subside, you and Jepos creep out of the alley
+and make your way into the streets again, bearing for the resistance
+headquarters ...
+
+But there's an eerie light and silence in the city square,
+though you can see it's filled with people. Jepos folds her garment over her
+sword and the two of you move to the border of the crowd.
+
+You can't take it in
+at once. Over the vast spell of only several seconds you realize the line of
+stakes with disembowelled, but still living, men & women nailed to them is the
+Crystal Warriors' punishment for today's riot, and that these scarcely-human
+effigies of torment are your fellow loyalists, many of them your friends.
+Automatically you clap your hands to your knees and lower your head toward the
+pavement.
+115924: You and Jepos duck into the corner niche and now are nicely concealed
+from anyone peering into the alley.
+115996: Kamendro and one of the Crystal Warriors stand here talking.
+116040: He's tall, with a long face and baggy eyes. He came from nowhere, and
+no one quite understands how he was acclaimed as the leader of the Resistance.
+Remember?
+116152: The Warrior speaks, with a voice like the bowels of night: "Why summon
+Us here? We carry with Us the door by which We usually visit you."
+
+Kamendro
+answers, "This couldn't wait. One of your soldiers contacted me just now and
+told me he'd seen him--here, in the city."
+116350: The Warrior stiffens visibly. "He is here?"
+
+"Fighting with my own
+folk. That'd put him in a position to find out about me, don't you think?"
+116460: The Warrior makes a wave of dismissal. "Not unless he gains access to
+your quarters. The proof is there. Your loyalists would never believe such a
+thing without proof."
+
+"I'll have him slain on sight once I locate him,"
+Kamendro says. "But how do I recognize him? These rabble are all the same."
+116678: The Warrior nods, his blank eyes casting light: "He bears the necklace.
+It was gone from the House Of Kyub, and so were Our noble prey. Once it comes
+to Us, the Princess will be in Our power at last."
+
+"You'll have it," Kamendro
+promises. "I'll pry it myself from his dead hand."
+116892: They've stopped talking. Kamendro is peering out of the alley,
+preparing to slip away unobserved.
+116964: With smooth haste the conspirators flee into the streets and are gone.
+117012: Identical to all the others, his facets are like floating planes of
+glow in the alley's broken darkness.
+117084: It's squishy, pulsing, hard to hold onto because your hands keep going
+through it. Magical objects are really very irritating.
+117176: You don't need to drop it to enter it, but someone else ought to hold
+it if you want to avoid mathematical irregularities.
+117260: Your partner Jepos stands beside you, holding the pocket doorway.
+117308: Jepos takes the pocket doorway and holds it before you. You see only
+darkness within. "I'll wait beneath the window," she says. "Find this proof and
+drop it down to me."
+117432: "We need to find a quieter place to use that," Jepos says.
+117476: You don't need to drop it to enter it, but someone else ought to hold
+it if you want to avoid mathematical irregularities.
+117560: You step through the dark doorway into a lighted room. Turning behind
+you, you see no opening.
+117628: I wouldn't try that here. It's too public.
+117660: Just a recess in the bricks where ill-designed buildings fail to make a
+good corner.
+117720: You and Jepos duck into the corner niche and now are nicely concealed
+from anyone peering into the alley.
+117792: This sector of the city, near your hidden barracks, is removed from the
+tumult. In the distance the building where Kamendro has his quarters can be
+seen, as well as the laborers and loiterers who shield the front door. A lamp
+lights a third-floor window there.
+117976: This is where you need to be.
+118000: A dirty mirror, in odd contrast to its gaudy surroundings, is propped
+here on the floor.
+118064: The mirror is a rough square of blackened glass.
+118100: Taken. Behind the mirror is a small piece of parchment inscribed in--is
+that dried blood?
+118164: Your hands meet once more, and within the now-familiar swoon that
+signals a shift of world, you hear Jepos tell you, "To recognize evil is to
+recognize it in oneself: but recognizing it in yourself, you banish it." Then
+the shift is complete.
+118336: You know a bit more now about the man you see there ...
+118376: Loosely-grouped lines of guards masquerading as passersby surround the
+command building. You and Jepos are too insignificant to get in that way, and
+you don't know the current passwords anyhow.
+118512: The building is nicely anonymous, the lit window too high up to reach.
+118564: This room is less Spartan than you'd have imagined before you learned
+about Kamendro's connections: fine tapestries cover all the walls and ample
+carpets the floors. A door to the south is unlocked, but probably guarded on
+the other side.
+118732: Let's just spoil everything, why don't we?
+118764: You doubt there's anything of interest stashed behind or under the
+room's fixtures, but you check anyhow, and hey! You're right.
+118856: Kamendro, his boots off but otherwise still clothed, stretches asleep
+on a canopied poster bed.
+118924: He's sound asleep, but I wouldn't make a lot of noise.
+118964: You skewer him neatly through, wipe the sword on a fancy wall hanging,
+and the deed is done. He never felt it.
+119042: You skewer him neatly through, wipe the sword on a fancy wall hanging,
+and the deed is done. He never felt it.
+
+Then the swoon you've almost become
+used to shakes you into another place.
+119178: You skewer him neatly through, wipe the sword on a fancy wall hanging,
+and the deed is done. He never felt it.
+
+You notice a blue line of rock running
+along the floor and quietly fluorescing. You touch it and it flashes. Then ...
+119348: You aren't carrying anything that'd help you do that.
+119388: You think better of it. He knows who you are, and will hardly be
+inclined to engage in chitchat.
+119456: You're here to do one thing to Kamendro, nothing else.
+119496: Kamendro, his boots off but otherwise clothed, stretches dead on a
+canopied poster bed pooling with blood.
+119572: He looks about the same as he did before you killed him, bar the gaping
+chest wound.
+119632: A brass lamp hangs from a chain next to an open window.
+119744: There's not enough light outside to see anything through the window,
+but you trust Jepos is awaiting you below.
+119824: There's not enough light outside to see anything through the window,
+but you trust Jepos is awaiting you below.
+119904: "I, Kamendro, pledge my fate, and the fate of my followers, to the
+success of the Rebellion."
+119974: You let the parchment tumble downwards. After a moment you hear a clear
+voice beneath: "To recognize evil is to recognize it in oneself: but
+recognizing it in yourself, you banish it."
+
+Then the swoon you've almost
+become used to shakes you into another place.
+120162: You let the parchment tumble downwards. After a moment you hear a clear
+voice beneath: "To recognize evil is to recognize it in oneself: but
+recognizing it in yourself, you banish it."
+
+You notice a blue line of rock
+running along the floor and quietly fluorescing. You touch it and it flashes.
+Then ...
+120384: You let the parchment tumble downwards. After a moment you hear a clear
+voice beneath: "To recognize evil is to recognize it in oneself: but
+recognizing it in yourself, you banish it."
+120514: You destroy the only evidence that could've convinced the loyalists of
+Kamendro's treason ... and suddenly wonder if that was wise. If they'd
+believed, perhaps there would've been more popular opposition to the Rebellion,
+perhaps the rebel armies might've come over to the loyalist side and weakened
+the Crystal Warriors beyond repair ... you see that now, but now you'll never
+know. I guess you're not the novelist you think you are. Maybe you never
+were.
+
+You kneel and shut your eyes, not caring if you wake up in the hotel
+room or in the land you've so callously ruined. There's no point in going on
+now.
+120948: Let's just spoil everything, why don't we?
+120980: Not a thing you want to encounter more directly.
+121016: Not a thing you want to encounter more directly.
+121052: It's late afternoon and no lights are on, so this carpeted corner of a
+house in the suburbs is dim, so dim you can scarcely make out the quaint
+telephone table positioned between the kitchen door to the north and the dining
+room door to the east.
+121220: The phone rings twice, the answering machine switches on. A woman's
+voice, rather tinny: "Hi. You've reached the home of Betty and Myron, but we
+can't come to the phone at the moment. Please leave your name and number and
+we'll call you back."
+121398: A man's voice, clearer but somehow sad: "Hi honey, it's me. I guess I
+can't get you to believe I'm working late anymore. Just wanted to see if you'd
+talked to that lawyer yet. ... I guess you aren't there. Actually I do have to
+be here late, so if you get home in the next couple hours, call. The traffic
+getting here was agony, they've got workers all over this part of town, in the
+street, on the sidewalk, everywhere. It wouldn't be so bad sitting there in the
+monoxide if those street dancers who used to perform out in front of that hotel
+were still around. ... I don't wanna hang up, but I better get finished. ... I
+miss you, Betty. I wish things could've worked out."
+121890: You hear the tape rewinding and see the message light blinking on and
+off.
+121944: As each time before, your senses tremble and the universe lurches like
+a cut in a film clip.
+122012: The message light is blinking on and off.
+122044: It contains the expected telephone, phone book and answering machine.
+122092: You can't seem to do anything about it, one way or the other. Nor are
+you quite that desperate for information.
+122172: It's the sort of yeasty concoction they drink in England and similar
+barbarous climes. You're amazed it's been chilled.
+122260: The very thought makes you shudder, and you've been ill enough today.
+122310: Splinters of sturdy German glass penetrate several of your vital
+organs!
+
+It's been that kind of day.
+122420: It's a pint bottle--conservative for you, you're a fifth
+fan--manufactured by Mr. James Beam, a gent who believes the customer is always
+tight.
+122540: You stand abstractedly (and unsteadily) at the sink long enough to let
+the bottle overflow, and only pull back when you feel cold water spilling over
+your hands.
+122688: Filled once more with the hard stuff.
+122730: Don't waste my time!
+122812: The liquid spills all over the floor. Neatness is evidently not one of
+your virtues.
+122884: Splinters of brittle Kentucky glass penetrate several of your vital
+organs!
+
+It's been that kind of day.
+122960: This is what's nearly done you in tonight.
+122990: Hic. Now we can sing a song, but now we need to lie down, the voice
+rises better, and what shall we sing? And who shall we sing it to?
+
+You yawn.
+Then you sleep. Then you wake up past your deadline, imagining you really
+might've finished your book if you'd kept awake. Nah. To hell with this writer
+shit anyway. You're a drunk, is all there is to it. Have a nice rest of your
+life.
+123280: The liquid spills all over the floor. Neatness is evidently not one of
+your virtues.
+123352: Filled with rye whiskey, as per your instructions.
+123392: You're fucking drunk, you sot.
+123448: You're too drunk to be able to manage that.
+123480: You're too drunk to be able to manage that.
+123512: You're too drunk to be able to manage that.
+123544: You're sort of here, but sort of not, if you can relate to that. Use
+your imagination, fantasist.
+123616: You can't seem to do anything about it, one way or the other.
+123660: Dear me: you don't seem able to move from this spot.
+123700: You can't seem to do anything about it, one way or the other.
+123888: There's nothing you want to accomplish with its help at the moment.
+123936: They're yours. Other than the bottle of mouthwash, they provide no
+startling insights.
+124000: They're yours. They provide no startling insights.
+124060: You don't need to pack.
+124084: You're too drunk to discern much, but it looks full of mouthwash.
+124132: You're too drunk to discern much, but it looks like a plastic bottle.
+124220: You stand abstractedly (and unsteadily) at the sink long enough to let
+the bottle overflow, and only pull back when you feel cold water spilling over
+your hands.
+124380: Filled once more with the tingly stuff.
+124422: Don't waste my time!
+124452: Down the sink. The sewers are sure to smell much better now.
+124508: The liquid spills all over the floor. Neatness is evidently not one of
+your virtues.
+124584: Water is flowing from the tap.
+124608: Water.
+124620: Water.
+124652: The liquid spills all over the floor. Neatness is evidently not one of
+your virtues.
+124724: Filled with water, as per your instructions.
+124760: Water.
+124792: The liquid spills all over the floor. Neatness is evidently not one of
+your virtues.
+124864: Filled with water, as per your instructions.
+124900: It's green, I'm afraid.
+124920: Gaaaah! You ain't sposed to drink mouthwash! Do I have to tell you you
+choked till you dropped?
+125004: The liquid spills all over the floor. Neatness is evidently not one of
+your virtues.
+125076: Filled with mouthwash, as per your instructions.
+125112: You don't wanna carry that around!
+125140: You threw that away, and it's bloody well thrown away!
+125252: Don't panic.
+125264: I SAID I wasn't gonna describe it.
+125292: You stuff the towel into the basket.
+125320: Good thinking, but you'd never find it again.
+125356: Water is flowing from the tap.
+125380: Well, it's, uh, a sink.
+125400: Water starts flowing from the tap.
+125512: It's difficult to credit that someone who can imagine such elaborate
+fantasy worlds could have such minimal fashion sense.
+125596: You ain't goin' nowhere. You don't need to pack.
+125636: After squinting at it for a good twenty minutes, you see it says
+"Coffee Filters."
+125696: It's already open. All you need to do is pull the filters out of the
+perforated hole.
+125756: It's a new coffee filter.
+125776: You're so impaired that when you attempt this, you wind up irrevocably
+shredding all the filters but one.
+125850: They aren't anywhere near the same size, but you stuff the filter in
+the basket adequately enough to leave room for a bit of actual coffee.
+125952: You ain't goin' nowhere. You don't need to pack.
+126010: What it is is a hallway full of locked doors except for yours, which is
+open but you knew that, a glass door onto a balcony to the west and an elevator
+with call button to the north.
+126154: What it is is a hallway full of locked doors except for yours, a glass
+door onto a balcony to the west and an elevator with call button to the north.
+126256: The characters in your novels might intrude into other people's rooms,
+but believe it or not, you wouldn't.
+126332: I guess "glass door" just didn't do it for you. How about "sliding
+glass door?" How about "GO WEST?"
+126412: I guess "glass door" just didn't do it for you. How about "sliding
+glass door?" How about "GO WEST?"
+126492: This is NOT some cheesy Keanu Reeves movie ... it's a cheesy Bob Reeves
+text adventure!
+126560: This is NOT some cheesy Keanu Reeves movie ... it's a cheesy Bob Reeves
+text adventure!
+126628: Not exactly ostentatious or exactly seedy (oh, give up and call it
+"functional"), the lobby is silent at this time of day. You'd rather skirt any
+contact with the front desk, which could involve a murder charge, the way
+you've been treated: so the operative exits are north (to the elevator) and
+south (to the street).
+126856: Better not let Ralph see you walking away with that towel.
+126900: You're still not willing to actually walk past Ralph.
+126940: Relevance, relevance!
+126956: Ralph the doorman stands here with an air of not-so-faint disdain for
+you and all your kind and all their works.
+127036: Ralph the doorman stands here with an air of edgy impatience; he seems
+prepared to ignore you completely for the moment.
+127122: Ralph the doorman (just barely) stands here half-asleep. He's obviously
+worked that beer you slipped him earlier into this coffeebreak.
+127222: Ralph the doorman (just barely) stands here half-asleep. He's obviously
+worked that beer you slipped him earlier into this coffeebreak.
+127324: Ralph is the kind of functionary whose goal in life is to rail against
+the forces that've landed him his goal in life. That's you.
+127416: Ralph wouldn't dream of saying anything requiring a reply.
+127460: Ralph glances at his watch, takes out a bottle of pills, and you see
+his lips moving as he counts them, concentrating with might and main.
+127556: "God, you've read those?" Ralph blurts out, then stiffens and mutters:
+"Juvenile escapism."
+127628: "This is indeed the hotel lobby, sir," Ralph breathes, eyes raised to
+the ceiling.
+127688: "That is indeed the street entrance, sir," Ralph breathes, eyes raised
+to the ceiling.
+127752: "Didn't those go out of existence in 1988 when Activision took over
+Infocom? I wouldn't know anything about it."
+127836: "Sorry, I'm just a non-player character."
+127872: "As long as he stays across the street, I've got no objection."
+127920: "It's not hotel policy for doormen to discuss payments due."
+127964: Ralph's quick smirk is a study in contempt.
+127996: "I am indeed the doorman, sir," Ralph breathes, eyes raised to the
+ceiling.
+128052: Ralph apparently finds that topic beneath his notice.
+128092: Ralph apparently finds that information beneath his notice.
+128136: I'm well aware the word "intimidate" contains the word "intimate," but
+spelling aside, are you truly anxious to get that close to the Prince of
+Prozac?
+128244: Ralph stares down at the bottle, then up at you. Nothing is said, but
+the suggestion of tears forming in his eyeducts is communication enough. He
+moves to hold the door for you.
+128368: "We're not allowed to accept gifts from guests, sir," Ralph tells you,
+and you hear him add under his breath, "especially THOSE."
+128468: Beside him is a pathetic potted plant.
+128568: Shaded by the drooping waxy leaves of the plant is some sailor's duffel
+bag, carefully folded. You shudder to think what anyone, even a sailor,
+might've been trying to smuggle into this hotel, let alone out.
+128716: Drooping waxy leaves, as I believe I already told you.
+128828: You unfold the duffel bag, beholding ... a capacious emptiness.
+128874: You had a feeling this would happen. As you touch the duffel bag, the
+navy blue of its humdrum stitching threads itself into your eyes and into the
+air of the world, which becomes a seamless expanding fabric of blue weave whose
+warp and woof continue to swell and swell until you topple through the holes in
+the cloth and
+129152: The softly-bending road leads northeast toward the market town. The
+dust of the road is laid from the outfarmers who tramped it before the dawn.
+Now the sun is past noon but kindly on the shapely countryside, and the air
+hints of salt.
+129316: There's gotta be an ocean around here someplace!
+129352: It'd be a treat to amble gorgeously around, but you suspect things are
+brewing in the market ... and anything brewing tends to get your attention, you
+know.
+129464: More of a plaza at this point in its course.
+129496: Plain, flat, an easy walk from here.
+129524: An ancient but thriving oak deposits its shadow on the thoroughfare
+here. The sun's not hot today, but the relief from light is welcome. You could
+do with a moment's sitting.
+129648: There's gotta be an ocean around here someplace!
+129684: You rest yourself in the shade of the oak. Above your head you hear
+flurries of whispering, like assorted human voices of mingled moods telling
+endless woven stories.
+129800: Been there, done that.
+129820: It'd be a treat to amble gorgeously around, but you suspect things are
+brewing in the market ... and anything brewing tends to get your attention, you
+know.
+129932: It rears above you protectively, bestowing a rich shade.
+129972: It rears above you protectively, bestowing a rich shade.
+130012: You assumed the whispering came from breeze in the leaves, but now see
+it issues from the leaves of a book draped over a low branch.
+130104: You rest yourself in the shade of the oak. Above your head you hear
+flurries of whispering, like assorted human voices of mingled moods telling
+endless woven stories.
+130220: You can't get much of a look at it from down here.
+130256: It's a thick volume bound in rich blue cloth, but without title on
+cover or binding. It has no visible clasp or lock, but you can't seem to open
+it, pry as you may.
+130372: As soon as you pick it up, the book snaps shut.
+130408: It just won't open. It just won't.
+130436: The book says, "Open me when reading is your duty: not before."
+130484: The book is written in a language you don't know.
+130520: The book isn't whispering any longer.
+130548: "Well! You gathered I could speak, did you? Quicker than some!"
+130600: "We aren't here for chitchat, you and I."
+130632: The book says, "Open me when reading is your duty, not before."
+130680: "Well! You gathered I could speak, did you? Quicker than some!"
+130732: "We aren't here for chitchat, you and I."
+130764: A fair appears to be in progress, as indicated by the merry red and
+green banners flapping over the guildhall to the north. Downhill to the east is
+a sparkling seacoast thronged with market stalls, strolling families in gay
+colors and buoyantly darting boats. A booth in front of the guildhall announces
+SPEAKING CONTEST--SIGN UP HERE and is manned by a relaxed-looking official.
+Spectators are lined up before the hall.
+131072: Dark has fallen and the crowds dispersed like daytime sparrows. The
+ocean gleams stilly in the moon, the banners too are drooped and still.
+131168: You allow the crone to take your arm, and discover she's capable of a
+robust pace. Actually, you don't have a long way to guide her.
+131264: You curtly shake your head and turn away ... and something tells you
+that's not really the best thing you could've done. You've spurned an unknown
+character who might well have been important to the plot, and this close to the
+end of your story, that's not a thing you can particularly afford to do. I
+guess you're not the novelist you think you are. Maybe you never were.
+
+You
+kneel and shut your eyes, not caring if you wake up in the hotel room or in the
+land you've so callously ruined. There's no point in going on now.
+131632: "Will you be wanting to sign up for the Peace Speaking or the War
+Speaking, sir?" the official asks.
+131706: "You're just in time. There's only one slot left. Please proceed
+inside, sir."
+
+You enter the guildhall and are ushered to a seat in front.
+131814: "You're just in time. There's only one slot left. Please proceed
+inside, sir."
+
+You enter the guildhall and are ushered to a seat in front.
+131924: As charming as the coastal market looks, the "speaking contest" sounds
+entirely more interesting.
+131992: You make your way downhill toward the sea ... and something tells you
+that's not really the best thing you could've done. You've spurned an unknown
+character who might well have been important to the plot, and this close to the
+end of your story, that's not a thing you can particularly afford to do. I
+guess you're not the novelist you think you are. Maybe you never were.
+
+You
+kneel and shut your eyes, not caring if you wake up in the hotel room or in the
+land you've so callously ruined. There's no point in going on now.
+132360: Unless you're in the contest, it costs money to get in. You have no
+money. QED.
+132420: For better or worse, the contest is over and done with.
+132460: Now you've walked all this way, you may as well check it out.
+132504: You stride away from town along the country road ... and something
+tells you that's not really the best thing you could've done. You've spurned an
+unknown character who might well have been important to the plot, and this
+close to the end of your story, that's not a thing you can particularly afford
+to do. I guess you're not the novelist you think you are. Maybe you never
+were.
+
+You kneel and shut your eyes, not caring if you wake up in the hotel
+room or in the land you've so callously ruined. There's no point in going on
+now.
+132880: The sea is calm, broad and blue beneath the noon.
+132916: Except where the moonlight picks it out glancingly, the sea is an
+unseen hugeness at this hour.
+132984: Yes, I'm afraid your world has only one moon. Your imagination does
+tend toward laziness at the edges.
+133060: They're too far off to see much.
+133084: A rounded wooden building painted a fresh sky blue.
+133120: You can't get a look at most of them and don't want to draw attention
+to yourself by swanning around.
+133192: Townspeople and farmers alike, they're waiting festively to watch the
+speaking contest, chatting among themselves.
+133272: They almost notice you, but you can't seem to draw their focus.
+133320: They almost notice you, but you can't seem to draw their focus.
+133368: The colors of the Royal House, if your memory serves you.
+133412: It's a booth. Yes indeedy.
+133436: For better or worse, it's over and done with.
+133472: If you thought the contest official would be at all remarkable to look
+at, think again.
+133532: "You're just in time. There's only one slot left. Please proceed
+inside, sir."
+
+You enter the guildhall and are ushered to a seat in front.
+133638: "You're just in time. There's only one slot left. Please proceed
+inside, sir."
+
+You enter the guildhall and are ushered to a seat in front.
+133748: "Did I say something that required an answer, sir?"
+133788: An old crone stands here, squinting about through the dusk.
+133832: The crone is holding out a brass lantern.
+133864: She seems a woman who's lived a working life, but not an unhappy one.
+She's not pathetically stooped, and the wrinkles in her face are more from
+thought and laughter than care or age. When her eyes stray toward you they get
+a tricky glint you can't interpret.
+134044: The crone tugs at your sleeve. "That son of mine! Haled off with one of
+these town hussies, I'll warrant, or asleep in his cups. May I prevail on you
+to help me home, traveler?"
+134174: You allow the crone to take your arm, and discover she's capable of a
+robust pace. Actually, you don't have a long way to guide her.
+134272: You allow the crone to take your arm, and discover she's capable of a
+robust pace. Actually, you don't have a long way to guide her.
+134368: You curtly shake your head and turn away ... and something tells you
+that's not really the best thing you could've done. You've spurned an unknown
+character who might well have been important to the plot, and this close to the
+end of your story, that's not a thing you can particularly afford to do. I
+guess you're not the novelist you think you are. Maybe you never were.
+
+You
+kneel and shut your eyes, not caring if you wake up in the hotel room or in the
+land you've so callously ruined. There's no point in going on now.
+134736: Your answer makes her frown quizzically.
+134764: "Now that the bold young lady's in charge, we can keep our hopes high."
+134816: "The people are deserting them, aren't they? I doubt they're long for
+the world."
+134876: "We've been free of the war here thus far."
+134908: The crone smiles an odd smile. Thinking about it, you realize its
+oddness came from the fact that it seemed, well, young.
+134996: "So that's the question on your mind, love?" She chuckles quietly.
+135048: "See me home, dear. Such things are above us plain bodies."
+135092: "The brave heart--blessings on her trials!"
+135128: The crone smiles an odd smile. Thinking about it, you realize its
+oddness came from the fact that it seemed, well, young.
+135216: "Ah, the wayward soul, his torments now can't be harder than his
+forfeiting himself to those creatures."
+135292: The crone gives no response. It's as if you'd said nothing at all.
+135340: "The folk will realize soon enough how many we are, how few they are."
+135392: "To help you find your way," she says with a sweet grin.
+135436: "In my youth, a white house stood in a clearing ... ah, mayhap I've
+said too much."
+135500: "A grand old codger, by all accounts."
+135532: "Someone we both know seems to be helping that toward its end."
+135580: The crone frowns quizzically and says nothing.
+135612: "You need not tell me, dearie. I've heard it all."
+135652: I'd pity you if you weren't acting like a jerk.
+135688: "You'll do me enough if you walk me home, young one."
+135728: She bows daintily and a bit ironically.
+135792: The crone's dwelling lies to leeward of the market, on an empty stretch
+of side-highway. It's low and dark, and sports a recent-looking straw roof. The
+guildhall area lies somewhere to the east.
+135930: "Hold a moment!" says the crone, swings open the door and briefly ducks
+inside. She emerges again holding an uneasily-modern-looking brass lantern. "To
+help you see your way," she says with a giggle.
+136076: You drop her off without a moment's pause and start right back for town
+... and something tells you that's not really the best thing you could've done.
+You've been cavalier with a character who might well have been important to the
+plot, and this close to the end of your story, that's not a thing you can
+particularly afford to do. I guess you're not the novelist you think you are.
+Maybe you never were.
+
+You kneel and shut your eyes, not caring if you wake up
+in the hotel room or in the land you've so callously ruined. There's no point
+in going on now.
+136468: The interior of the guildhall is a circular platform encircled by
+curving rows of seats. As a contestant, you have a seat in the front row. The
+judges are in the back, so not distinct from where you sit glancing over your
+shoulder, but one of them is the mayor, who doesn't look all that
+self-important, as these types go. The exit to outdoors is south.
+136714: The contest is beginning; a woman frets about her teenage daughter in
+blank verse.
+136776: The contest is beginning; a woman frets about her enlisted son in blank
+verse.
+136834: A little old man does an elegy for King Seqwar.
+137018: A sunburned woman performs an endless piece about the varieties of
+plants in her garden.
+137082: A sunburned woman performs an endless piece about the niceties of drill
+practice.
+137142: A boy lays out the reasons why his favorite band of minstrels is the
+best band of minstrels.
+137208: A boy lays out the reasons why his favorite platoon is the best
+platoon.
+137260: A pretty child addresses a poem to her doll, but holds the doll in
+front of her face while she does it and can barely be heard.
+137348: A pretty child addresses a poem to her dead father's locket, but holds
+the locket in front of her face while she does it and can barely be heard.
+137450: A tall man recites a hymn to the joys of fishing.
+137488: A tall man recites a hymn to the joys of killing.
+137524: A giggling girl pokes fun at her grandfather for being so old.
+137568: A giggling girl pokes fun at her grandfather for being past army age.
+137618: A young man presents a heavily symbolic poem about a chair that can't
+be moved.
+137676: A young man presents a heavily symbolic poem about a sword that can't
+be sharpened.
+137736: A roundish lady classifies the different types of rain.
+137776: A roundish lady classifies the different types of cannonball.
+137820: Tringle stands up, walks to the center of the pavilion and raises his
+arms solemnly over his head. There's an amused, expectant stir in the crowd.
+Tringle lowers his arms, and in a voice like silk, says the line
+
+"This is
+where the cats all meet to regret their mice."
+
+He takes a bow, and as he sits
+he mutters, "Eight seconds. I like to see how long it takes 'em to clap after
+one of those."
+138102: Tringle stands up, walks to the center of the pavilion and raises his
+arms solemnly over his head. There's an amused, expectant stir in the crowd.
+Tringle lowers his arms, and in a voice like iron, says the line
+
+"This is
+where the cats all meet to catch their mice."
+
+He takes a bow, and as he sits
+he mutters, "Eight seconds. I like to see how long it takes 'em to clap after
+one of those."
+138386: A bookish little fellow says a poem about how much he enjoyed being a
+soldier and is instantly disqualified. Tringle pats you on the shoulder:
+"You're next." You'd have to be number thirteen. You rise from your chair.
+138544: A bookish little fellow says a poem about how much he enjoys watching
+girls and is instantly disqualified. Tringle pats you on the shoulder: "You're
+next." You'd have to be number thirteen. You rise from your chair.
+138698: Nothing you can think of seems to please the judges. (You do see the
+mayor regard you sadly, though you can't think why.) The youngest contestant
+gets the prize, and you're left suspecting there was something else you
+should've been paying attention to, something you should've explored better,
+something you could've found to help you win, or at least put on a decent show.
+The speaking contest was obviously important to this part of the story, and
+you've blown it. I guess you're not the novelist you think you are. Maybe you
+never were.
+
+You kneel and shut your eyes, not caring if you wake up in the
+hotel room or in the land you've so callously ruined. There's no point in going
+on now.
+139188: Nothing you can think of seems to please the judges. (You do see the
+mayor regard you sadly, though you can't think why.) The youngest contestant
+gets the prize, and you're left suspecting there was something else you
+should've been paying attention to, something you should've explored better,
+something you could've found to help you win, or at least put on a decent show.
+The speaking contest was obviously important to this part of the story, and
+you've blown it. I guess you're not the novelist you think you are. Maybe you
+never were.
+
+You kneel and shut your eyes, not caring if you wake up in the
+hotel room or in the land you've so callously ruined. There's no point in going
+on now.
+139676: Words seem to issue from the blue book and enter your mouth, and you
+speak them:
+
+"I am looking in your light
+ to find the flowers of your night
+
+and have them darkily unclose
+ what light and dark had lain in those.
+
+ I am
+seeking to believe
+ the flower of night can still retrieve
+ the windless ages
+off your brow
+ and call you here, and make you now."
+
+You seat yourself to
+uncertain applause, blushing, not really comprehending the suggestive but
+uncomfortably archaic poem. The mayor beckons you forward: "The stranger wins!
+Take this emblem of our esteem." He holds out to you an uneasily-modern-looking
+brass lantern.
+140118: Words seem to issue from the blue book and enter your mouth, and you
+speak them:
+
+"Then we shall set them ready, and shall find them
+ the tools of
+choice to drop the dead behind them.
+ Their faces will not be for looking down
+
+but in the gaze of all who seize the crown.
+
+ And in their tread across the
+fields of clamor
+ they cannot speak unless it be to stammer
+ that in their hour
+of choice the red arose
+ before their eyes that solely Freedom knows."
+
+You
+seat yourself to uncertain applause, blushing, not really comprehending the
+poem. "Bit of a dangling relative in that last line," Tringle sighs as you sit
+down.
+
+Disappointingly, but understandably, you lose the contest to the girl
+with the locket, and find yourself back outside the guildhall alone.
+140660: People are performing. Don't be rude.
+140688: You stand up before the contest has been judged, shove your way through
+the spectators and return to the fair ... and something tells you that's not
+really the best thing you could've done. You have a feeling the speaking
+contest was crucial, your role in it crucial, but you're embarrassed to go
+back. I guess you're not the novelist you think you are. Maybe you never
+were.
+
+You kneel and shut your eyes, not caring if you wake up in the hotel
+room or in the land you've so callously ruined. There's no point in going on
+now.
+141060: Beside you sits a lively chap who introduces himself as Tringle. "I'm a
+tinker hereabouts, but I do fancy a good speaking-contest."
+141156: He's a compact, fidgety man with a sly grin and wide-open eyes.
+141204: Tringle nods abruptly and politely, with a confused smile.
+141248: "Anything specific you'd like to know about?"
+141284: Tringle smiles. "A salubrious and cultured place, sir." He repeats
+"salubrious" to himself in an enchanted whisper.
+141368: Tringle shudders. "Not a place any of us want to be now, sir."
+141416: "I can't wait to hear what everyone has in store," Tringle says,
+rubbing his hands.
+141480: "Once Commander Jepos revealed the conspiracy, the army defected and
+the capital was won. After that it was mopping-up, no more."
+141576: "Commander Jepos has published the conspiracy to the rebel army; I
+expect them to turn on their masters."
+141652: "It wasn't long for the world once the people found out Kamendro was in
+league with the Warriors, and the reappearance of the Princess at the right
+moment turned the tide."
+141776: "They aren't long for the world now, is my feeling."
+141816: "This town is too distant from the capital to be much involved in
+events."
+141868: "You mean the True Queen. Someone helped her escape an entire rebel
+force in the mountains, they say."
+141944: "She'll appear on the scene again, you can bank on it, and those rebel
+fools will remember their true mistress."
+142024: "Pans? You've come to the right place--visit my wagon after the show
+and you'll have your pick!"
+142096: Tringle pales slightly and lowers his voice: "I deal in many items, but
+those ... those I reckon you should keep."
+142180: "You found it! It got some ale spilt on it--through no fault of mine, I
+promise you--and I left it on a tree to dry, for whoever came and found a use
+for it: I never could."
+142308: "Thirteenth contestant. Ever a lucky number!" He chuckles.
+142352: "After Kamendro's fall they acclaimed her as Commander. It was the
+right and proper choice, I deem."
+142428: "After Kamendro's fall they acclaimed her as Commander. It'll be the
+right and proper choice, I predict."
+142508: "I'm a wanderer. I know something of what takes place in the urban
+provinces, and folk make it worth my while to tarry and share the news."
+142608: "The filth. He's gone, and his paymasters take him."
+142648: "They were far from invincible, as it turned out, when confronted with
+a righteous mob."
+142712: "They seem invincible now, but let the folk rise up, they'll be a
+bogeyman for kids' bedtimes."
+142784: "Never met the man, I'm sorry to say."
+142816: Tringle shrugs sheepishly: "I'm only a tinker, after all."
+142860: Tringle nods abruptly and politely, with a confused smile.
+142904: I'd suggest you join a circus, except no one would pay to see you.
+142952: "I'm always out for rare goods, but yours are over-rare for the likes
+of me."
+143008: "You found it! It got some ale spilt on it--through no fault of mine, I
+promise you--and I left it on a tree to dry, for whoever came and found a use
+for it: I never could."
+143136: "I'm always out for rare goods, but yours are over-rare for the likes
+of me."
+143192: Tringle pumps your hand vigorously.
+143220: "We can gossip in whispers, my friend, but I'd best not be bustling
+about."
+143276: The only one you can make out is the mayor.
+143308: The mayor is holding out a brass lantern.
+143340: The mayor is simply adorned with his chain of office and a
+carefully-trimmed beard starting to grey. He seems to pay serious heed to the
+performances, but periodically his eyes stray toward you and get a questioning
+glint you can't interpret.
+143508: People are performing. Don't be rude.
+143536: No sooner do you take the lantern than a blazing light engulfs you and
+the mayor. You're without footing for an instant, hung in fathomless void, and
+panic stabs through you--but this sort of thing isn't exactly new today, so you
+determine to wait it out.
+143714: You stand again in the Balmy Room at the House Of Kyub. Kyub himself
+stands before you, and you recognize the mayor in his gaze. Beside him is
+Sephyr.
+
+"Behold, our author!" cries Kyub. "The three challenges for both an
+author and a character--to choose freely and wisely; to know the nature of
+evil; and to understand the value of peace even within the necessity of
+war--have all been met. You are a true Maker, and we welcome you into our
+Society. The lantern will enable you to see the final key to finishing your
+task of telling our story."
+
+"We too have told a story," adds Sephyr. "For we
+are Makers, even as you made us, and our story is of a man who found it in him
+to write a book--a mere adventure, some would say." She gestures to your
+belongings. A green aura begins to glow around the necklace, a red aura around
+the mirror, a blue one around the book. The auras meet, and flash with a single
+pulse. You see the three items for a moment more, but changed, and no longer in
+this place. You see yourself typing on a keyboard, staring at a monitor,
+causing hard copy to rise from a slot--and recognize the laptop and printer in
+your hotel room.
+
+"The book is done," Sephyr's voice says. "Now go and write
+it." But you're already far away, dropping, curled up, smashed together ...
+actually, now you get your bearings, squatting in a box.
+144692: No sooner do you take the lantern than a blazing light engulfs you and
+the crone. You're without footing for an instant, hung in fathomless void, and
+panic stabs through you--but this sort of thing isn't exactly new today, so you
+determine to wait it out.
+144870: You stand again in the Balmy Room at the House Of Kyub. Kyub himself
+stands before you, and you recognize in his gaze the mayor from the speaking
+contest. Beside him is Sephyr, and you recognize in her gaze the old
+crone.
+
+"Behold, our author!" cries Kyub. "The three challenges for both an
+author and a character--to choose freely and wisely; to know the nature of
+evil; and to understand the value of peace even within the necessity of
+war--have all been met. You are a true Maker, and we welcome you into our
+Society. The lantern will enable you to see the final key to finishing your
+task of telling our story."
+
+"We too have told a story," adds Sephyr. "For we
+are Makers, even as you made us, and our story is of a man who found it in him
+to write a book--a mere adventure, some would say." She gestures to your
+belongings. A green aura begins to glow around the necklace, a red aura around
+the mirror, a blue one around the book. The auras meet, and flash with a single
+pulse. You see the three items for a moment more, but changed, and no longer in
+this place. You see yourself typing on a keyboard, staring at a monitor,
+causing hard copy to rise from a slot--and recognize the laptop and printer in
+your hotel room.
+
+"The book is done," Sephyr's voice says. "Now go and write
+it." But you're already far away, dropping, curled up, smashed together ...
+actually, now you get your bearings, squatting in a box.
+145896: It's a battery-powered brass lantern. You can't conceive how it wound
+up in a fantasy story.
+145964: It's a battery-powered brass lantern. You can't conceive how it wound
+up in a fantasy story, or how you can still have it with you.
+146060: There's gratitude, in fact, that you share this carton stood on a
+concrete wall with only a score of oblivious cockroaches. The scene you see
+outside the box is sufficient to empty your stomach for days. Beneath the
+freeway you hear clunking by above, someone has staked out an area of
+inconceivable filth. Toxic grease and human waste cling to every surface of
+what amounts to a barricade of junk, as well as to the shapeless individual who
+sprawls asleep in its midst.
+146382: Right about when you can't stand being here another second, you aren't.
+146440: They seem right at home.
+146460: Its thrumming echoes don't appear to keep the sleeper up at night.
+146508: Could it be wiped up with any tool known to man?
+146572: his size is someone who'd rather not know where the box wound up. It
+must not've been here very long, because it's the only thing that doesn't cry
+out for a good rubdown.
+146752: God it's noisy! You don't wanna stick around here for long.
+Construction crews have torn up everything around the hotel entrance except the
+street to the south, but the traffic's a constant blaring snoring
+monoxide-spewing river, and there's no traffic signal, cop or (needless to say)
+helpful doorman in sight.
+146972: God it's noisy! You don't wanna stick around here for long.
+Construction crews have torn up everything around the hotel entrance except the
+street to the south, where the traffic does seem a bit more placid.
+147116: You do an inane little tapdance-ballet-softshoe-shuffle-moshpit flail
+there on the corner, flapping your arms like an outraged cockatoo and singing
+"Are You Lonesome Tonight?" at the top of your whiskey-cured voice. The
+construction workers whistle (and heave a few rocks), but some faces in the
+vehicles passing by regard you with friendship, and the traffic slows, if not
+to a halt, at least to a speed you could take your chances with.
+147424: Not to worry--the traffic seems more complacent since you made a
+spectacle of yourself.
+147488: Are you daft? You'd last perhaps a nanosecond.
+147524: Whatever they're building, it looks about as safe as your average
+origami crane folded by a three-year-old, and not as sturdy.
+147616: It leads to the hotel. Damn, we ain't got nothin' like that back home!
+147668: They enjoy being gawkers but not gawkees, and hurl remarks at you too
+crude for even this author to repeat, and that's saying something.
+147764: Take it from me: these aren't dudes you wanna fuck with at ALL.
+147812: Watching the infinite frothing procession of vehicles is genuinely
+brain-chilling, so you cut it out.
+147884: You won't talk me into doing that again, I'll tell you that for free.
+147936: You sprint through the minimally slower traffic, to find the opposite
+corner occupied by a scabrous, loathsome specimen surrounded by a barricade of
+junk. He gabbles to himself in a language only occasionally reminiscent of your
+own, and doesn't stir a muscle to move his accumulated valuables out of your
+way. Your way, incidentally, is west; you can recross the street to the north.
+148204: You're on the corner across from your hotel. Gillian's building lies to
+the west, and you can recross the street to the north.
+148296: The junk seems impenetrable, immovable, and unpleasant to touch.
+148344: It's an assemblage of things that look like the sides of shopping carts
+or link fences, cardboard scraps, rusted pipes, shoes with holes as big as
+their soles, small animal skins (you don't want to examine those too closely)
+and bottles of nameless dark liquid, with toilet tissue, none too fresh (if you
+get me), looped around and intertwined with the whole. You can't make out where
+it begins or ends, or how the bum gets it here every day, or whether it is for
+sale, for show, or for private mystical consolation.
+148704: It's an assemblage of things that look like the sides of shopping carts
+or link fences, cardboard scraps, rusted pipes, shoes with holes as big as
+their soles, small animal skins (you don't want to examine those too closely)
+and bottles of nameless dark liquid, with toilet tissue, none too fresh (if you
+get me), looped around and intertwined with the whole. You can't make out where
+it begins or ends, or whether it is for sale, for show, or for private mystical
+consolation.
+149036: A loathsome bum squats here, blocking the sidewalk with a barricade of
+junk.
+149090: A loathsome bum squats here, surrounded by a barricade of junk
+penetrable only to the west.
+149156: All your senses recoil from the man, whose outer covering may be
+clothing, skin or dirt, it's impossible to tell. Whatever it is, it's peeling
+off and flaking to the sidewalk as you watch. The few teeth he has are black
+and jagged, his squinting eyes run with rheum, he's wearing what looks like a
+tv-dinner tray on his head--but for all that, he appears physically healthy,
+indeed bullishly strong.
+149436: The sleeper is merely a shape, or the lack of one, in the encroaching
+squalor.
+149492: The words you can understand are ones you employ in real life but not
+in your books.
+149552: You've never, ever, smelt anything like it, and hope you never, ever,
+do again.
+149612: Speaking to the bum is, quite clearly, not an option.
+149652: The bum tilts backward proudly and surveys his kingdom with something
+possibly meant to be a smile.
+149720: For a second he looks you right in the eye. Then whatever was looking
+at you wanders away, though the eyes haven't moved.
+149808: The bum shakes his head and waggles his finger, but not at you.
+149852: The bum coughs violently into his hand, then sniffs the hand, then
+licks it.
+149908: "RANS!" he roars in a thunderous voice.
+149940: The bum selects a flask of something impossibly vile from under his
+haunches and takes a swig.
+150004: He points to himself and nods. But then he points to you. Then to a
+soggy matchbook.
+150064: The bum stops breathing for a moment and his eyes stare wildly around.
+He looks at your hands, then seems to shrug, and reverts to his mumbling.
+150164: This evokes no discernible response.
+150192: I hesitate to point this out, but such behavior could gravely
+compromise your ability to breathe, walk upright and/or unaided, and respect
+yourself in the morning.
+150308: Slowly the bum rises to whatever he uses for feet, slowly he stretches
+forth what's plausibly a hand, slowly and infinitely gently he takes from you
+the towel. Then he does something even more out of character: he ceremoniously
+bows--almost curtsies. Though he hasn't touched anything, there's suddenly an
+opening in the western wall of junk.
+150548: The bum clearly has everything he desires and more. So there.
+150592: This is the anonymous office building that's been the bane of your
+existence for what feels like most of your adult life. It looks uncomfortably
+solid, for something that's been associated with so much liquid. You can enter
+to the north, or retreat to the east.
+150812: This is the walnut-paneled anteroom to your editor's office. Before her
+door (to the west) a vast and blocklike desk is stationed, behind which Judy
+sits, Cerberus to this Hades of the writer's soul. You can leave the way you
+came in, to the south.
+150992: You wouldn't dream of entering without Judy's permission, and have
+nothing to submit in any case.
+151064: You don't have any work to show the editor!
+151096: You wouldn't dream of entering without Judy's permission.
+151140: Judy is staring off into space.
+151162: Now you've done it. Judy has been known to read these magazines till
+well past closing time--which will also, I beg to point out, be well past your
+deadline. Despite all the work you've done, I guess this last chore was too
+much.
+151328: Judy's brow achieves an ultimate wrinkle. She ushers you out of the
+office and goes on her lunch break. Judy's lunch breaks have been known to last
+longer than the shaping times when the destinies of nations are decided ... or
+that's your frivolous way of seeing it. Anyway, it'll be long past your
+deadline when she gets back. Despite all the work you've done, I guess this
+last chore was too much.
+151612: Judy's eyes blink exactly once; her brow wrinkles faintly.
+151656: Judy's eyes blink exactly once; her brow wrinkles faintly.
+151700: Judy's eyes blink exactly once; her brow wrinkles faintly.
+151744: Judy's eyes blink exactly once; her brow wrinkles faintly.
+151788: Judy's eyes blink exactly once; her brow wrinkles faintly.
+151832: Judy's entire body trembles, as if a message from God is descending on
+her. With a superhuman effort she exerts herself to nod in the vague direction
+of Gillian's door.
+151952: Judy's desk is a thing you simply don't want to confront, in any way,
+shape or form.
+152012: You've always found this a place you like to be.
+
+Gillian looks up as
+you enter: "Oh hi. I've been reading this weird little Chinese story about a
+philosopher who wakes up from a dream and can't figure out if he's still
+dreaming or not. Care for a drink?"
+152232: Here there are only peace, the stars, and you.
+152268: Excuse me?
+152276: One of them, bizarrely enough, flashes green.
+152720: everything has altered. You shake your head, draw a breath. You seem to
+be none the worse, but as soon as you get it together enough to peer around
+you, your guts knot and a splintering headache pokes into your brain.
+
+This is
+RANS. The world you created. The world that doesn't exist anyplace but on
+bookshelves and in your own twisted fantasies. A world you don't even seem to
+be interested in anymore.
+
+It has to be. That right there (right THERE) is the
+House Of Kyub, so ridiculously unique it couldn't be mistaken for any other
+place, but neither can it be THIS place. What the holy fuck is going on?
+
+You
+thought you were scared before ...
+153208: Examining the green star no longer makes anything happen.
+153248: You stand on a flagged and trodden north-to-southwest pathway whence
+you can see the strange roofless house of mossy green stone in a dell below.
+153348: You recall from the little you know of Kyub--the little you've written
+about him!--that he could control the weather from within his House ... but the
+sky overhead appears ordinary at the moment.
+153488: The sky overhead appears ordinary at the moment.
+153524: The sky overhead is wildly confused and you can't make sense of it. It
+hurts your head to try.
+153592: The sky overhead is wildly confused and you can't make sense of it,
+except there's a corner of sunlight over the northeasterly region of the house.
+153696: Other directions than north and southwest seem a little chancy to you.
+153744: The sky overhead appears ordinary at the moment.
+153780: The sky overhead is wildly confused and you can't make sense of it. It
+hurts your head to try.
+153848: The sky overhead is wildly confused and you can't make sense of it,
+except there's a corner of sunlight over the northeasterly region of the House.
+153950: This tasteful welcoming-chamber to the House Of Kyub is panelled in
+quiet oak and lined with cupboards, perhaps for the storage of coats, boots and
+whatnot. Doorways lead south, east, west, northeast and northwest. No one seems
+to be around.
+154124: Do you somehow feel lighter than a minute ago?
+154160: Some kind of force prevents you. Whatever it is, it feels warm on your
+face.
+154216: Some kind of force prevents you. Whatever it is, it feels warm on your
+face.
+154272: Some kind of force prevents you. Whatever it is, it feels warm on your
+face.
+154328: It has a string that permits it to be attached to someone's head.
+154376: I refuse to stand here and watch you eat somebody's nose!
+154416: It's more suitable for the sort of guys who melt at the least
+provocation. That ain't you, is it?
+154488: The carrot nose is now mounted on the fixture.
+154520: It's like a little compass arrow with flat top and bottom.
+154564: It has to be lying down before you can do that.
+154600: You spin it at random and hear a thunderclap from somewhere nearby.
+154648: The lodestone is now lying down in the fixture.
+154684: It has to be lying down before you can do that.
+154718: northeast.
+
+Revisiting the balmy room, you notice the caskets are
+nowhere to be seen, and you smile: even if the rebels attack the House now,
+they'll assume their quarry has fled somewhere else
+154856: southeast.
+
+Walking out to the clifftop view, you see the army's ford
+has been crumbled by the storm and the river swollen to floodspate. They can't
+get across it now, and have all the signs of retreating this region for the
+moment
+155586: This tasteful welcoming-chamber to the House Of Kyub is panelled in
+quiet oak and lined with cupboards, perhaps for the storage of coats, boots and
+whatnot. Doorways lead south, east, northeast and north. No one seems to be
+around.
+155754: Do you somehow feel lighter than a minute ago?
+155792: Some kind of force prevents you. Whatever it is, it feels warm on your
+face.
+155848: It's a long, lightweight stocking.
+155952: The nylon sock is now spread over the fixture.
+155984: It takes a moment to yank the clingy fabric apart ...
+156024: It's green plastic, with a little paper umbrella at the top.
+156068: The swizzle stick is now balanced in the fixture.
+156104: A heavy-looking sandbag. What else can I say?
+156140: The sandbag is now shored up against the fixture.
+156176: This is not your house. Don't get sand all over it.
+156216: You'd say this was the drabbest, most uninteresting room you'd ever
+seen, if lots of the other rooms in this House weren't exactly like it. It's
+empty except for some kind of molded fixture on the wall, the same color as the
+wall. Indistinct openings lead in several directions.
+156552: The cold invades your limbs, your bloodstream, your bones. You stop
+moving. You stop breathing. Shortly after that, your heart stops too.
+156652: You get a few paces and then turn back. It's just too deep.
+156696: You get a few paces and then turn back. It's just too deep.
+156740: Odd. Even your feet aren't the merest bit wet.
+156776: Odd. You're not frostbitten anywhere.
+156806: Odd. You're not the merest bit wet.
+156836: Instead, a gust blows you against the opposite wall!
+156874: Instead, a gust blows you the opposite way!
+156908: Some kind of force prevents you. Whatever it is, it feels warm on your
+face.
+156964: Instead, a gust blows you the opposite way!
+156996: A gust blows you up against what seems to be a doorway, but some kind
+of heat prevents your entrance.
+157066: It looks as though you could put things in it, but it's tough to say
+how many things or how large. Its size and shape seem to alter and blur as you
+watch. The fixture is flickering in a ghostly way, like a connection might be
+failing.
+157232: It looks as though you could put things in it, but it's tough to say
+how many things or how large. Its size and shape seem to alter and blur as you
+watch.
+157340: You'd say this was the drabbest, most uninteresting room you'd ever
+seen, if lots of the other rooms in this House weren't exactly like it. It's
+empty except for some kind of molded fixture on the wall, the same color as the
+wall. Indistinct openings lead in several directions.
+157676: The cold invades your limbs, your bloodstream, your bones. You stop
+moving. You stop breathing. Shortly after that, your heart stops too.
+157776: You get a few paces and then turn back. It's just too deep.
+157820: You get a few paces and then turn back. It's just too deep.
+157864: Odd. Even your feet aren't the merest bit wet.
+157900: Odd. You're not frostbitten anywhere.
+157930: Odd. You're not the merest bit wet.
+157960: Instead, a gust blows you against the opposite wall!
+157998: Some kind of force prevents you. Whatever it is, it feels warm on your
+face.
+158056: Instead, a gust blows you the opposite way!
+158088: A gust blows you up against what seems to be a doorway, but some kind
+of heat prevents your entrance.
+158158: Some kind of force prevents you. Whatever it is, it feels warm on your
+face.
+158216: Instead, a gust blows you the opposite way!
+158248: Instead, a gust blows you the opposite way!
+158280: A gust blows you up against what seems to be a doorway, but some kind
+of heat prevents your entrance.
+158350: It looks as though you could put things in it, but it's tough to say
+how many things or how large. Its size and shape seem to alter and blur as you
+watch. The fixture is flickering in a ghostly way, like a connection might be
+failing.
+158516: It looks as though you could put things in it, but it's tough to say
+how many things or how large. Its size and shape seem to alter and blur as you
+watch.
+158624: You'd say this was the drabbest, most uninteresting room you'd ever
+seen, if lots of the other rooms in this House weren't exactly like it. It's
+empty except for some kind of molded fixture on the wall, the same color as the
+wall. Indistinct openings lead in several directions.
+158960: The cold invades your limbs, your bloodstream, your bones. You stop
+moving. You stop breathing. Shortly after that, your heart stops too.
+159060: You get a few paces and then turn back. It's just too deep.
+159104: You get a few paces and then turn back. It's just too deep.
+159148: Odd. Even your feet aren't the merest bit wet.
+159184: Odd. You're not frostbitten anywhere.
+159214: Odd. You're not the merest bit wet.
+159244: Instead, a gust blows you against the opposite wall!
+159282: Instead, a gust blows you the opposite way!
+159316: Some kind of force prevents you. Whatever it is, it feels warm on your
+face.
+159370: Instead, a gust blows you the opposite way!
+159404: Instead, a gust blows you the opposite way!
+159436: A gust blows you up against what seems to be a doorway, but some kind
+of heat prevents your entrance.
+159508: Some kind of force prevents you. Whatever it is, it feels warm on your
+face.
+159562: Instead, a gust blows you the opposite way!
+159596: A gust blows you up against what seems to be a doorway, but some kind
+of heat prevents your entrance.
+159666: It looks as though you could put things in it, but it's tough to say
+how many things or how large. Its size and shape seem to alter and blur as you
+watch. The fixture is flickering in a ghostly way, like a connection might be
+failing.
+159832: It looks as though you could put things in it, but it's tough to say
+how many things or how large. Its size and shape seem to alter and blur as you
+watch.
+159940: You'd say this was the drabbest, most uninteresting room you'd ever
+seen, if lots of the other rooms in this House weren't exactly like it. It's
+empty except for some kind of molded fixture on the wall, the same color as the
+wall. Indistinct openings lead in several directions.
+160276: The cold invades your limbs, your bloodstream, your bones. You stop
+moving. You stop breathing. Shortly after that, your heart stops too.
+160376: You get a few paces and then turn back. It's just too deep.
+160420: You get a few paces and then turn back. It's just too deep.
+160464: Odd. Even your feet aren't the merest bit wet.
+160500: Odd. You're not frostbitten anywhere.
+160530: Odd. You're not the merest bit wet.
+160560: Instead, a gust blows you against the opposite wall!
+160598: Instead, a gust blows you the opposite way!
+160632: Some kind of force prevents you. Whatever it is, it feels warm on your
+face.
+160686: Instead, a gust blows you the opposite way!
+160720: A gust blows you up against what seems to be a doorway, but some kind
+of heat prevents your entrance.
+160790: Instead, a gust blows you the opposite way!
+160824: It looks as though you could put things in it, but it's tough to say
+how many things or how large. Its size and shape seem to alter and blur as you
+watch. The fixture is flickering in a ghostly way, like a connection might be
+failing.
+160988: It looks as though you could put things in it, but it's tough to say
+how many things or how large. Its size and shape seem to alter and blur as you
+watch.
+161096: You'd say this was the drabbest, most uninteresting room you'd ever
+seen, if lots of the other rooms in this House weren't exactly like it. It's
+empty except for some kind of molded fixture on the wall, the same color as the
+wall. Indistinct openings lead in several directions.
+161432: The cold invades your limbs, your bloodstream, your bones. You stop
+moving. You stop breathing. Shortly after that, your heart stops too.
+161532: You get a few paces and then turn back. It's just too deep.
+161576: You get a few paces and then turn back. It's just too deep.
+161620: Odd. Even your feet aren't the merest bit wet.
+161656: Odd. You're not frostbitten anywhere.
+161686: Odd. You're not the merest bit wet.
+161716: Instead, a gust blows you against the opposite wall!
+161756: Some kind of force prevents you. Whatever it is, it feels warm on your
+face.
+161810: Instead, a gust blows you the opposite way!
+161844: A gust blows you up against what seems to be a doorway, but some kind
+of heat prevents your entrance.
+161914: Instead, a gust blows you the opposite way!
+161948: Some kind of force prevents you. Whatever it is, it feels warm on your
+face.
+162002: Instead, a gust blows you the opposite way!
+162036: A gust blows you up against what seems to be a doorway, but some kind
+of heat prevents your entrance.
+162106: It looks as though you could put things in it, but it's tough to say
+how many things or how large. Its size and shape seem to alter and blur as you
+watch. Beneath the fixture a stylized sun with rays has been carved into the
+wall. The fixture is flickering in a ghostly way, like a connection might be
+failing.
+162324: It looks as though you could put things in it, but it's tough to say
+how many things or how large. Its size and shape seem to alter and blur as you
+watch. Beneath the fixture a stylized sun with rays has been carved into the
+wall.
+162496: The air is so brittle in this white-and-crystal desolation, the puffs
+of your outbreaths settle downward with sparkling weight. Your shoes crunch
+ice, then have trouble unsticking.
+162636: Cold piercing rain and ground-heaving thunderbolts surround you, chill
+you, deafen you. Directions of escape are hard to make out through the dark and
+pelting sheets.
+162764: You're nearly knocked off your feet by the furious gusts of wind that
+vie for mastery here. There are exits, but they spin past chaotically as you
+swivel and duck to keep your balance.
+162900: A lush sun streams down on this delightful region of warm sand, mild
+breeze and serenely fluttering shade. You may exit, if you don't know what's
+good for you, to the west, north and south.
+163036: You can't seem to deal with it directly, though it seems real enough.
+163086: Two caskets of what look like dark glass rest here.
+163128: Behind the glass you see a squat red-bearded man, asleep. You're pretty
+sure this is Kyub himself. The casket bears an inscription.
+163222: Behind the glass you see a squat red-bearded man, asleep. You're pretty
+sure this is Kyub himself. The casket bears an inscription.
+163320: The inscription on the larger casket reads:
+
+"We believe you are
+someone to whom the fate of this world matters. We shall remain in this state
+as long as the caskets are closed. They can be sent to a protected place if the
+lightning is turned toward them, or they will open tomorrow if you choose to
+protect this place yourself. We await your decision."
+163566: You release Kyub from his chosen hiding place ... but something tells
+you that's not really the best thing you could've done. You hadn't explored the
+possibilities of the caskets or how they would've fit into the story, and here
+you've awakened a character who committed himself to this sleep for a purpose.
+I guess you're not the novelist you think you are. Maybe you never were.
+
+Kyub
+opens his blond-lashed eyes and stares at you sadly. You kneel and shut your
+own eyes, not caring if you wake up in the hotel room or in the land you've so
+callously ruined. There's no point in going on now.
+163988: Behind the glass you see a delicate but forthright-seeming woman,
+asleep. You're pretty sure this is Princess Sephyr herself. The casket bears an
+inscription.
+164102: Behind the glass you see a delicate but forthright-seeming woman,
+asleep. You're pretty sure this is Princess Sephyr herself. The casket bears an
+inscription.
+164218: The inscription on the smaller casket reads:
+
+"To act is to know where
+it leads.
+ To act is to be a center.
+ Act not, you remain a bundle of
+addictions."
+
+(Whoo, that's a wee bit close to home, no?)
+164368: You release Sephyr from her chosen hiding place ... but something tells
+you that's not really the best thing you could've done. You hadn't explored the
+possibilities of the caskets or how they would've fit into the story, and here
+you've awakened a character who committed herself to this sleep for a purpose.
+I guess you're not the novelist you think you are. Maybe you never
+were.
+
+Sephyr opens her dark-fringed eyes and stares at you sadly. You kneel
+and shut your own eyes, not caring if you wake up in the hotel room or in the
+land you've so callously ruined. There's no point in going on now.
+164800: Dark still waters spread to the horizons and it's hard for you to get
+far from the door you came in by.
+164888: Something seems to be trying to happen here, but you can't tell what.
+164940: The path makes a sharp curve such that the way back is northwest, and
+falls off steeply toward the south. Narrow and winding, with heartstopping
+plummets to each side, this road was obviously made to limit access to the
+House and defend it in wartime ... but no defenders seem to be around (if you
+don't count yourself).
+165164: You wouldn't dream of going nearer the cliffs. Heights are hardly your
+thing.
+165220: Here the path enters jumbled rocks to the north and bends westward back
+up toward the House. The cliffs above you, yellow and soft, are sprinkled with
+small bright flowers. You have an expansive, but nicely hidden, view of the
+southern plain below.
+165396: You wouldn't dream of going nearer the cliffs. Heights are hardly your
+thing.
+165452: The vast plains are still, but it's the stillness before a storm.
+165500: There's activity on the plains. The outriders of what's all too
+obviously an army are advancing in lines that seem long even from where you
+stand. The lines are also numerous enough to net the plain.
+165640: Smoke spirals up from the campfires of an army spread over the plain.
+165688: It's a big one, but they're still too far away to tell much.
+165732: It's the invading rebel force, and they've got a great selective
+service program: the plain is literally thronged with armored men (maybe a few
+women, you haven't given thought to that yet). Overkill to be sure, but they've
+come for the princess. You see them erecting a ford over the river below.
+165944: It's the invading rebel force, and they've got a great selective
+service program: the plain is literally thronged with armored men (maybe a few
+women, you haven't given thought to that yet). Overkill to be sure, but they've
+come for the princess. You see a line of attackers crossing the makeshift ford.
+They'll be here in minutes.
+166180: Armored soldiers begin pouring toward you and past you. You're laid
+hold of in short order, frogmarched to an anonymous sergeant and interrogated.
+Your claim to be the creator of the world doesn't recommend you too well, and
+the sergeant shortly loses patience and orders you put up against a wall.
+166388: They're very pretty.
+166404: The flowers don't have an odor to speak of.
+166436: Is this quite the time to be weaving garlands?
+166468: Red and blue lines of rock run through the ground at your feet and
+meander over the rim of the cliff.
+166540: Red and blue lines of rock run through the ground at your feet and
+meander over the rim of the cliff. The red lines are quietly fluorescing.
+166636: Red and blue lines of rock run through the ground at your feet and
+meander over the rim of the cliff. Both colors are quietly fluorescing.
+166732: Green and red lines run in veinlike patterns through the cobbles of the
+plaza. Both colors are quietly fluorescing.
+166812: The lines flash with a red that blinds you! Then it dies from your
+vision.
+166864: The lines flash with a red that blinds you! Then it dies from your
+vision.
+166916: Blue and green lines of rock lace through the cobbles at your feet. The
+green lines are quietly fluorescing.
+166992: Blue and green lines of rock lace through the cobbles at your feet.
+Both colors are quietly fluorescing.
+167064: Green and red lines run in veinlike patterns through the cobbles of the
+plaza. Both colors are quietly fluorescing.
+167144: The lines flash with a green that blinds you! Then it dies from your
+vision.
+167200: Red and blue lines of rock run through the ground at your feet and
+meander over the rim of the cliff.
+167272: Red and blue lines of rock run through the ground at your feet and
+meander over the rim of the cliff. The red lines are quietly fluorescing.
+167368: Red and blue lines of rock run through the ground at your feet and
+meander over the rim of the cliff. Both colors are quietly fluorescing.
+167464: Blue and green lines of rock lace through the cobbles at your feet. The
+green lines are quietly fluorescing.
+167540: Blue and green lines of rock lace through the cobbles at your feet.
+Both colors are quietly fluorescing.
+167612: The lines flash with a blue that blinds you! Then it dies from your
+vision.
+167668: The path from the south hairpins in a confusion of jagged boulders and
+continues to the southeast at an alarming incline. Once you started on that
+slope you'd be hard put to it to stop before the bottom.
+167808: You wouldn't dream of going nearer the cliffs. Heights are hardly your
+thing.
+167864: The way forward stops abruptly at a foaming river of white water,
+unthinkable to cross. Might as well trudge back up that scree-path.
+167960: You slide to the bottom, as you'd expected, to find the mountain river
+forded by a pontoon bridge and soldiers guarding either bank. You're laid hold
+of in short order, frogmarched to an anonymous sergeant and interrogated. Your
+claim to be the creator of the world doesn't recommend you too well, and the
+sergeant shortly loses patience and orders you put up against a wall.
+168220: The river is in spate. The only safe thing is to start back up.
+168268: Its configurations change like clouds in time-elapse.
+168308: You don't even wanna get NEAR the water.
+168416: and one marked L. You figure it out.
+168444: Suddenly you spot the doorman, Ralph. Ralph is someone you'd rather not
+deal with at the moment. Remember why?
+168526: Now look, I told you about Ralph the doorman and the whole psychology
+of the thing ... I'm not gonna let you do it. Get used to it.
+168626: First you gave him a measly tip and he sneered at you. The next time
+you gave him a lavish tip and he sneered at you. The third time you ignored him
+and he ostentatiously refused to hold the door for you. You had to open it
+yourself, with Ralph standing by unoccupied, and some other patrons snickered.
+In your current pounded state, such humiliation would be unbearable and fuck up
+any value you might derive from the fresh air.
+168926: Well, then you don't need me to tell you why you aren't crazy about
+facing Ralph at the moment.
+169004: Hic. It's a lit-tle bit, a lee-tle beet ... al-co-mo-haul-lick ... but
+now we can sing a song, but now we need to lie down, the voice rises better,
+and what shall we sing? And who shall we sing it to?
+
+You yawn. Then you sleep.
+Then you wake up past your deadline, imagining you really might've finished
+your book if you'd kept awake. Nah. To hell with this writer shit anyway.
+You're a drunk, is all there is to it. Have a nice rest of your life.
+169332: It is almost, but not quite, entirely unlike coffee.
+169376: This coffee is barely coffee, more like water. But barely water. It
+tastes like the memory of coffee. Memory, so seductive, so productive of light,
+lifting thoughts.
+
+You yawn. Then you sleep. Then you wake up past your
+deadline, imagining you really might've finished your book if you'd kept awake.
+Nah. To hell with this writer shit anyway. You're a drunk, is all there is to
+it. Have a nice rest of your life.
+169680: Gaaaah! You ain't sposed to drink mouthwash! Do I have to tell you you
+choked till you dropped?
+169752: It's the recently-used filter full of coffee dregs.
+169792: You don't have anything to carry those in!
+169824: Filled with fresh coffee grounds, as per your instructions.
+169868: Wait! Wait! Stop! There's something wrong!
+169904: What a mess!
+169914: You reduce the towel to an object better not described. The mess is
+about as cleaned-up as can be expected.
+170012: The towel is itself an unholy mess after what you've done to it, so
+your attempt fails.
+170076: Your guilt over the mess gives you a slight heartburn and curbs your
+ability to think for a spell. You sit staring at the walls. Then you sleep.
+Then you wake up past your deadline, imagining you really might've finished
+your book if you'd kept awake. Nah. To hell with this writer shit anyway.
+You're a drunk, is all there is to it. Have a nice rest of your life.
+170336: Carelessly strewn on the path is a glittering necklace.
+170376: The necklace is composed of curious cubical stones. They sometimes
+catch, sometimes deflect the light.
+170448: Your fist no sooner closes on the necklace than there is a change, a
+shift you don't so much feel with your whole body as with the whole world
+AROUND your body. You shiver and look up. You're not where you expected to be.
+170608: All tendencies to bitch about the room you and your whiskey got stuck
+in evaporate as you glance around this miserable place. Barely space for a bed
+(this one, however, tidily made) and a bedside table on which are spread a
+couple sheets of hotel writing paper, this room's blandness and bareness are
+enough to define the adjectives "blandness" and "bareness" in any decent
+dictionary. There's a door to the southeast, and you can't wait to throw it
+open and get the hell out of here.
+170944: There's a shiver down the length and along the breadth of your
+surroundings. You blink. Once your eyes are open again, you wish they weren't.
+The last thing you're ready for is to be back here, but here, it appears, you
+are.
+171108: It bears the hated name of your hotel, and a few scrawled lines of
+correspondance.
+171166: "Dear mother,
+     "I know it's been awhile since my last. You know how
+it is. The medication seems to help, but I still get times where I don't want
+to interact with anyone, I mean say a single word, for fear that word will be
+one that loses me my job. A job where I didn't have to deal with people day in
+and day out wouldn't be so much at risk when I get like this, or one where the
+people weren't these asinine tourists. Rich transients are pretty much like any
+transients--no responsibility to this place or to us whose home it is, and only
+talk to you when they want something. Just once I guess I ought to check into a
+room, stay half an hour, maybe drink one of those ridiculous beers, and see if
+I can even begin to figure out"
+
+--and there the letter cuts off.
+171712: Cleanliness is next to obsessive-compulsive disorder, you know.
+171760: You can't get rid of that in such a fashion.
+171792: You can't get rid of that in such a fashion.
+171824: There's nothing to place a call on.
+171852: There's nothing to place a call on.
+171880: You don't remember anything special about that.
+171916: You can't talk her into extending the deadline, you've given it your
+best shot.
+171972: There's nothing the hotel can do for you at the moment.
+172012: It's an emergency all right, but not one THEY can fix.
+172056: He lived far away from the capital in a mountain hideout. He'd been a
+retainer to the royal family, now retired for several years, so he hasn't
+figured in--though mentioned in--the previous volumes of the fantasy. He had
+nothing to do with the Rebellion, but when the Princess Sephyr needed to quit
+the capital in a hurry, he offered his magical House as a refuge. That's how
+things stood at the end of the last book.
+172352: Haidro, leagues away to the south and west. That's where the fighting
+is heaviest.
+172412: You've been there, and know its maze of streets and how intense events
+are there.
+172472: You killed off King Seqwar in the last installment, and Sephyr is the
+eldest heir to the throne, since males or females can inherit. You suspect that
+one of her numerous cousins has something to do with the Rebellion--that it is
+in effect a palace coup spilled over into a civil war--but you haven't worked
+that out yet.
+172696: You're at your best when you remember specific things or people.
+172744: It started a month ago, spearheaded by a vicious elite fighting force
+that came out of nowhere, the Crystal Warriors. You haven't decided who they
+are or what they mean or, for that matter, who's behind the rebellion. There is
+some resistance to it among the citizenry, particularly in the capital.
+172956: The Princess Sephyr. You've based her on the most alluring and
+unattainable women you know. She seems destined to be an able and beloved
+ruler, but you've hinted at other facets of her too--that she belongs to the
+secret Society of Makers, for instance.
+173136: You once let fall the information, at second- or third-hand, that the
+House has no roof because its rooms have their own weather. That's all you
+know.
+173244: The people call them that because they're never seen without their
+faceted reflective body armor. Their faces, in particular, are never seen. Only
+one or two of them accompany a rebel army, but no more are needed: they're
+superb strategists and tactitians, as well as, reportedly, horrific torturers.
+173456: The people call them that because they're never seen without their
+faceted reflective body armor. Their faces, in particular, are never seen. Only
+one or two of them accompany a rebel army, but no more are needed: they're
+superb strategists and tactitians, as well as horrific torturers--as you've
+seen.
+173672: You prefer to let them be a permanent enigma.
+173704: You might learn more about them later on.
+173736: From your time with them, you know they're goodhearted people fighting
+to protect a family they love, and pretty much in the dark about larger issues.
+173840: Even without your help, you intuit they'll be triumphant.
+173884: They were triumphant, with your help.
+173912: It's barely more than a phrase you've concocted and jotted down. What
+does it mean; what WILL it mean? You've got no clue.
+174004: You think you're beginning to understand them, a little: but you'll
+probably learn more later on.
+174076: You're starting to think they control everything that happens here ...
+the question is, do they control you?
+174156: Since all the books in the series thus far revolved around his ascent
+to power and exploits once he got there, you became completely sick of him. You
+experienced a twinge, but also vast relief, when you had him die at the close
+of the last book.
+174324: You don't remember anything special about that.
+174360: He came from nowhere, and no one quite understands how he was acclaimed
+as leader of the Resistance.
+174432: A traitor to the loyalist cause, and a pawn of the Crystal Warriors.
+174484: You don't remember anything special about that.
+174520: More than a fighting partner, now that you think about it, and more
+than a character in your story (or any other).
+174684: You don't remember anything special about that.
+174720: In rustic areas the citizens attend poetry readings for entertainment.
+This was somewhat unbelievable to you in soberer moments, so you've given them
+the name "speaking contests."
+174848: Sea travel isn't much practiced in the kingdom. Anyway, you haven't
+introduced any other continents.
+174920: Bluglo, a seacoast market town you've mentioned once as the source of a
+popular blue dye.
+174984: You don't remember anything special about that.
+175020: You don't remember anything special about that.
+175056: You don't remember anything special about that.
+175092: You don't remember anything special about that.
+175128: You have SOME kinda hangup all right.
+175160: You need to be at your laptop to do that.
+175192: You record your recent experiences, passing them off tolerably enough
+as fiction.
+175248: You roll back your sleeves, flex your fingers and devote yourself to
+the dirty deed. The hands--your own or someone else's?--sail over the keys,
+your being is a focused stupor, and at the end of it you have the thing you
+have. You have your book.
+175424: You've never been able to repair your fortunes by that method.
+175480: You're hardly more presentable now, but you probably knew that.
+175528: I wouldn't if I were you. I'm not you, but I wouldn't anyway.
+175576: If you've ever written anything about, say, Kyub, you can REMEMBER
+KYUB.
+175640: That's as safe as it's gonna get.
+175668: You need to work on the present, not the past.
+175768: Now look, there's no call to be doing anything like that!
+175812: Excuse me ... do you mind my asking ... WHAT are you talking about?
+175866: WO! This is hard to do. You step back a step.
+175904: WO! This is hard to do. You totter forward, grimacing and swaying.
+175956: There's no point in doing that here and now, is there?
+175996: Whee! Round an' round an' round an' round! Do that again!
+176040: Ask away! I'd have thought you had better things to worry about.
+176088: Your intentions are nice, but you seem only to be able to solve
+problems using existing items.
+176156: You duck safely out of the way of the ... why is it you were ducking,
+again?
+176212: Faster than you can blink, you blink your eyes. Hey, wait a minute!
+176264: That's as safe as it's gonna get.
+176292: Everyone applauds your astonishing ability to stay upright.
+176336: Did I miss you being hired as Jim Carrey's stand-in?
+176376: Go ahead, greet everything you see. It's a terrific place, your brain!
+176428: How many things do you believe are at your beck and call?
+176468: I can recommend several good psychiatrists.
+176500: The polite thing to do if you're so horny is jerk off, jerkoff.
+176548: Whoa, horsie! You might get to giddyap some other day.
+176588: That's a thought, but maybe you don't want to identify yourself as the
+killer.
+176644: You're choking, all right. Can't you think of anything else?
+176692: Hey, put this hamburger down! I don't want no malt! I wanna DANCE!
+176748: It's cool to be a volunteer ... if there's anything to volunteer for.
+176846: nt-fiction, the members of which had to show me how to do almost
+everything in the beginning, and not much less as I went along. Any
+shortcomings that remain in this game are despite their best efforts.
+
+Nick
+Dallett, who had projects of his own to deal with, enthusiastically helped
+beta-test the prologue, as did my wife Lee, who if she had her way would rather
+not play interactive fiction at all. The first player to complete the game
+(that I know of) was George Pappas, who helped me identify a horrid bug.
+
+I
+have a special debt to Graham Nelson, original programmer of the Inform
+authoring language, whose endlessly instructive and endlessly frustrating
+Designer's Manual is a book everyone should be forced to read, if just for the
+epigraphs at the start of each chapter.
+
+Andrew Plotkin's game "So Far" taught
+me that fantasy stories can be completely impressionistic and still make sense.
+177740: Your eyes attempt to focus. 
+
+You're having one of those still moments
+that come toward the bottom of the whiskey bottle.  Everything is as bleak as
+it can get.  Lovely, for someone like you.  For a fantasy writer your fans rely
+on to put them in a wondrous alternate place.  Right now you'd rather be in any
+other place than
+

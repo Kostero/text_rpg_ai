@@ -1,0 +1,649 @@
+14149: Nothing to do!
+14184: o. You have won
+14267: It is now pitch dark in here!
+14294: I beg your pardon?
+14358: Sorry, that can't be corrected.
+14387: Think nothing of it.
+14440: As good-looking as ever.
+14472: You can hardly repeat that.
+14497: You can't begin with a comma.
+14611: I didn't understand that number.
+14640: You can't see any such thing.
+14676: You aren't holding that!
+14718: I'm not sure what "
+14770: That's not a verb I recognise.
+14809: You can't see "
+14917: Nothing to do!
+14934: There are none at all available!
+15844: Please answer yes or no.
+15870: Are you sure you want to quit?
+15915: Failed.
+15935: Restore failed.
+15952: Ok.
+15970: Save failed.
+15985: Ok.
+16029: Transcripting is already on.
+16095: Transcripting is already off.
+16153: Score notification on.
+16174: Score notification off.
+16197: You have visited:
+16225: Objects you have handled:
+16250: None.
+16634: You are carrying nothing.
+16683: Taken.
+16694: You are always self-possessed.
+17227: Dropped.
+17337: Removed.
+17476: You lack the dexterity.
+17557: Done.
+17823: Done.
+18034: Wrahn seem interested.
+18615: You can't go that way.
+19175: But it's dark.
+19192: You find nothing of interest.
+19228: But it's dark.
+19319: You find nothing of interest.
+20447: . Not bad.
+20465: That was a rhetorical question.
+20519: That seems unnecessary.
+20542: Keep your mind on the game.
+20567: What a good idea.
+20586: You smell nothing unexpected.
+20613: You hear nothing unexpected.
+20638: You taste nothing unexpected.
+20673: Keep your hands to yourself!
+20698: You feel nothing unexpected.
+20723: If you think that'll help.
+20832: Oh, don't apologise.
+20862: Quite.
+20931: You achieve nothing by this.
+21019: You wave, feeling foolish.
+21169: You are unable to.
+21188: Nothing obvious happens.
+21238: That's not a direction.
+21261: Not that way you can't.
+21293: Keep your hands to yourself.
+21318: You achieve nothing by this.
+21351: Futile.
+21380: You talk to yourself a while.
+21407: This provokes no reaction.
+21435: There is no reply.
+21454: Nothing is on sale.
+21473: Your singing is abominable.
+21507: Time passes.
+44676: Zuni food.
+44693: Zuni victim.
+44712: Zuni prey.
+44729: Zuni headache.
+44750: Zuni nightmare.
+44771: Zuni hunter.
+44786: Zuni Slayer.
+45814: That isn't tied to anything.
+45867: That's already locked.
+45897: Locked.
+45910: That's already unlocked.
+45932: Unlocked.
+45946: That can't be loaded.
+46197: But the lighter isn't even lit!
+46414: You extinguish the lighter.
+47138: Elmo yawns at you lazily.
+47215: You can't reach Elmo!
+47768: The Zuni Doll chases after you!
+47924: Not with those teeth you're not!
+48402: It can be of no use to you now.
+52128: An Interactive Horror Story
+Copyright (c) 1997 by Jesse Burneko.
+(Type
+"about" for more information)
+52364: Score:
+52372: Moves:
+52380: Time:
+52388: You can't go that way.
+52632: [Your interpreter does not provide "undo". Sorry!]
+52720: Please give one of the answers above.
+52748: [You can't "undo" what hasn't been done!]
+52784: [Can't "undo" twice in succession. Sorry!]
+52824: "Oops" can only correct a single word.
+52852: It is pitch dark, and you can't see a thing.
+52884: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+52944: You seem to want to talk to someone, but I can't see whom.
+52988: To talk to someone, try "someone, hello" or some such.
+53028: I didn't understand that sentence.
+53088: You seem to have said too little!
+53112: You can't use multiple objects with that verb.
+53148: You can only use multiple objects once on a line.
+53184: You excepted something not included anyway!
+53216: You can only do that to something animate.
+53248: That's not something you need to refer to in the course of this game.
+53296: I didn't understand the way that finished.
+53328: Sorry, you can only have one item here. Which exactly?
+53480: Are you sure you want to restart?
+53504: The game file has verified as intact.
+53532: The game file did not verify as intact, and may be corrupt.
+53576: Attempt to begin transcript failed.
+53604: Attempt to end transcript failed.
+53628: You're carrying too many things already.
+53660: You can't put something on top of itself.
+53692: You can't put something inside itself.
+53748: You can only get into something freestanding.
+53780: But you aren't in anything at the moment.
+53812: You'll have to say which compass direction to go in.
+53852: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+53948: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+54032: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+54120: Darkness, noun. An absence of light to see by.
+54208: This dangerous act would achieve little.
+54236: Nothing practical results from your prayer.
+54268: The dreadful truth is, this is not a dream.
+54300: Digging would achieve nothing here.
+54328: You jump on the spot, fruitlessly.
+54356: You would achieve nothing by this.
+54380: There's nothing suitable to drink here.
+54408: But there's no water here to carry.
+54436: Real adventurers do not use such language.
+54468: Violence isn't the answer to this one.
+54496: There's not enough water to swim in.
+54524: There's nothing sensible to swing here.
+54552: That would be less than courteous.
+54576: Is that the best you can think of?
+54600: You lack the nerve when it comes to the crucial moment.
+54640: I don't think much is to be achieved by that.
+54672: You aren't feeling especially drowsy.
+54758: When you saw the ugly little doll in the shop window you knew you had to
+have it. It would make a great addition to your collection of mysterious items
+and artifacts.
+
+The doll stood only about a foot tall and seemed to be made of
+a tough leathery material. Its head was small and misshapen, and its long,
+razor-sharp teeth could be seen protruding from its mouth. It wore a little
+gold talisman around its neck and wielded a cute little six inch sword. The
+sign read "Genuine African Zuni Doll. Only $19.99"
+
+After bringing it home and
+taking it out of the box you read the little information sheet that came with
+it.
+55208: "African Zuni Doll"
+55224: "It is said that the Zuni Doll is inhabited by the spirit of an African
+Tribesman who died while committing a cowardly act. In order to let the
+deceased regain his lost honor, the tribe's witch doctor imprisoned the man's
+spirit in a doll and a talisman that he created especially for that purpose.
+The spirit remains trapped until it atones for the cowardice the tribesman
+committed and proves its bravery. To accomplish this, the Zuni Doll must
+complete a near impossible task: hunt and kill, 25 human.
+
+"Fortunately, the
+Zuni Doll is harmless as long as it continues to wear the gold talisman. The
+magic in the talisman keeps the Zuni Doll from coming to life and carrying out
+its mission of blood."
+
+Now, you are lying in bed thinking of the little doll
+when you feel a slight pressure near your feet. Looking down you see your cat,
+Elmo, crawling towards you. You reach down and give Elmo a good scratch behind
+the ears. That is when you notice something small and golden drop from his
+mouth.
+55960: That doesn't make a very good range weapon.
+55992: I don't think you can spray that at anything.
+56024: You can't lock the door while it's open.
+56612: , and DOWN to D. IN and OUT will also work in certain places.
+
+There are
+many different kinds of sentences used in "The Zuni Doll". Here are some
+examples:
+>WALK TO THE NORTH
+>WEST
+>NE
+>DOWN
+>TAKE THE BIRDCAGE
+>OPEN THE
+PANEL
+>LIE DOWN IN THE PINK SOFA
+>EXAMINE THE SHINY COIN
+>PUT THE RUSTY KEY IN
+THE CARDBOARD BOX
+>SHOW MY BOW TIE TO THE BOUNCER
+>HIT THE CRAWLING CRAB WITH
+THE GIANT NUTCRACKER
+
+You can use multiple objects with certain verbs if you
+separate them by the word AND or by a comma. Some examples:
+>TAKE THE BOX AND
+THE FROG
+>DROP THE JAR OF PEANUT BUTTER, THE SPOON, AND THE LEMMING FOOD
+>PUT
+THE EGG AND THE PENCIL IN THE CABINET
+
+You can include several inputs on one
+line if you sparate them by the word THEN or by a period. Each input will be
+handled in order, as though you had typed them individually at separate
+prompts. For example, you could type all of the following at once, before
+pressing the RETURN (or ENTER) key:
+>TURN ON THE LIGHT. TAKE THE BOOK THEN READ
+ABOUT THE JESTER IN THE BOOK.
+If the STORY doesn't understand one of the
+sentences on your input line, or if an unusual event occurs, it will ignore the
+rest of your input line.
+
+The words IT and ALL can be very useful. For
+example:
+>EXAMINE THE APPLE. TAKE IT. EAT IT.
+>CLOSE THE HEAVY METAL DOOR. LOCK
+IT.
+>TAKE ALL
+The word ALL refers to every visible object except those inside
+something else. If there were an apple on the ground an an orange inside a
+cabinet, TAKE ALL would take the apple but not the orange.
+58006: (The following has been taken from the Masterpieces Of Infocom
+manual)
+
+BRIEF - This command fully describes a location only the first time
+you enter it. On subsequent visits, only the nmae of the location and any
+objects present will be described. The game will begin in BRIEF mode, and
+remain in BRIEF mode unless you use the VERBOSE or SUPERBRIEF
+commands.
+
+SUPERBRIEF - This displays only the name of a place you have
+entered, even if you have never been there before. In this mode, not even
+objects are described. Of course, you can always get a full description of your
+location and items there by typing LOOK. In SUPERBRIEF mode, the blank line
+between turns will be eliminated. This mode is meant for players who are
+already familiar with the geography.
+
+VERBOSE - This gives a complete
+description of each location, and the objects in it, every time you enter a
+location, even if you've been there before.
+
+INVENTORY - This will give you a
+list of what you are carying and wearing. You can abbreviate INVENTORY to
+I.
+
+LOOK - This will give you a full description of your location. You can
+abbreviate LOOK to L.
+
+QUIT - This lets you stop. If you want to save your
+position before quitting, you must use the SAVE command.
+
+RESTORE - This
+restores a previously saved position.
+
+RESTART - This stops the story and
+starts it over from the beginning.
+
+SAVE - This saves a "snapshot" of your
+current position. You can return to a saved position in the future using the
+RESTORE command.
+
+SCRIPT - This command tells your interpreter to begin making
+a transcript of the story. A transript may aid your memory, but is not
+necessary.
+
+SCORE - This command will show your current score and ranking which
+is based on the score.
+
+UNSCRIPT - This tells your interpreter to stop making a
+transcript.
+
+VERSION - Shows you the release number and the serial number of
+your copy of the story.
+
+WAIT - Causes time in the story to pass. Since nothing
+happens until you type a sentence and press RETURN (or ENTER), you could leave
+your computer, take a nap, then return to the story to find that nothing has
+changed. You can use WAIT to make time pass in the story without doing
+anything. For example, if you meet a wzard, you might WAIT to see if he will
+say anything; if you were about aboard a flying carpet, you might WAIT to see
+where it goes.
+60296: edu
+
+Thank you for playing The Zuni Doll. I hope you enjoy it.
+60550: mint-fiction often baffle him anyway.
+
+He views Interactive Fiction as a
+way to combine his two passions in life, Computer Science and Creative
+Writing.
+
+He currently resides at Lafayette College in Easton, PA where he is
+working on a Bachlor of Science degree in Computer Science. He is also working
+on an artificial intelligence project to model human emotions in autonomous
+agents for use in interactive fiction.
+
+The Zuni Doll is his first work of
+interactive fiction released to the public.
+61092: And of course,
+
+Marina Kiriyeva who, despite her great dislike of text
+adventures, has always listened to my ramblings and faithfully betatested this
+and other works of interactive fiction by me.
+61232: It is your warm blue bathrobe that you always wear around the apartment.
+61284: You can't take off the bathrobe while the bathrobe tie is securing it.
+61336: You're vulnerable enough as it is!
+61364: You don't smoke but that's no reason not to carry around a lighter.
+Besides, you like zipo lighters.
+61436: The Zuni Doll is already on fire.
+61464: As you try to set the Zuni Doll on fire it strikes out at your hand
+scoring a hit in the center of your palm. You jerk back your hand droping the
+lighter in the process. Luckily the lighter goes out.
+61604: That might be a good idea. On the other hand it just might help the Zuni
+Doll escape faster.
+61672: I would really like to know how you would go about doing that.
+61716: You extinguish the lighter for safety.
+61744: You flick the lighter on and it burns with a bright yellow flame.
+61848: It's a long thick strip of material used to keep your bathrobe closed.
+61900: You can't do that if the bathrobe tie is tied around the bathrobe.
+61948: You dangle the little bell from the bathrobe tie and ring it a few
+times. Almost instantly Elmo dashes out from under the sofa. He drops the
+little Talisman at our feet and pounces on the tie yanking it from your hands.
+Elmo then proudly carries it away.
+62124: A little paw darts out from under the sofa and bats at the dangling
+bathrobe tie for a few seconds before losing interest.
+62236: You tie the bathrobe tie around your waist and secure your bathrobe
+shut.
+62288: The bathrobe tie is too thick to tie around those things.
+62328: You tie one end of the bathrobe tie to the ceremonial bell.
+62372: The bathrobe isn't even tied to that right now.
+62408: Not while it's tied around your waist.
+62436: This room is small but serves its purpose well. The floor is carpeted
+with a soft green rug and the walls are mostly bare except for a painting
+depicting a lush pastoral scene. A window set in one wall gives a beautiful
+view of the city. The main living room is to the east and your bathroom is to
+the south.
+62768: You have no idea who the artist is but you have always found this
+painting very calming. That is why you have hung it over your bed.
+62860: Up against one wall and taking up most of the room is your bed.
+62904: It is a simple single bed just large enough to fit yourself.
+62946: As you step off the bed you feel a sharp pain in your foot. Reflexively,
+you jerk your leg up. Before you can fully obtain your balance you feel a
+similar pain in your other foot. You pin wheel your arms trying to maintain
+balance. Reaching out for anything to regain stability your arms knock over the
+bedside lamp causing it to shatter across the floor.
+63196: In your fall you lose your grip on the Talisman which goes skidding
+across the floor. An instant later you see Elmo dashing after it. He picks it
+up in his mouth and runs from the room.
+63328: Out of the corner of your eye you see Elmo dashing from the room --
+something golden glittering in his mouth.
+63408: As you hit the ground you roll over to see what caused so much pain in
+your feet. Crawling out from under the bed you see the malicious face of the
+Zuni Doll. Its eyes glow red with the hate of the evil spirit trapped within
+it. Before you can react the thing leaps at you emitting a blood curdling
+tribal scream. You reach up to defend yourself as the Zuni Doll begins to slash
+at your face with its little sword.
+63696: A small golden Talisman lies in your lap where Elmo deposited it.
+63744: The small golden Talisman when fastened would be hard put to serve you
+as a ring. It is composed of a gold chain attached to a carved golden cylinder.
+The symbols etched into the cylinder are meaningless to you.
+63892: And bring that thing back to life? No way!
+63924: A clean white sheet is draped over the top of the bed.
+63964: It is an ordinary white bed sheet. Normally, it keeps you warm at night.
+64016: The sheet is currently keeping the Zuni Doll occupied. However, you can
+guess that it won't be long before the Zuni Doll slices its way out!
+64116: No way are you letting that thing free!
+64144: Elmo is cureled up on the bed resting peacefully.
+64180: Elmo is your pet cat. He is a gray and black tiger striped short hair
+with bright blue eyes. Elmo is on the small side for a male cat of six years.
+64284: You wouldn't dream of hurting Elmo!
+64340: You give Elmo a good snuggle. He purrs.
+64372: Contrary to popular belief, Elmo is not asleep.
+64408: Beside the bed is a small wooden table.
+64436: The small wooden table is plain and simple. It bares only those features
+it needs in order to serve its purpose.
+64516: The lamp is mostly made of glass. Its body is decorated with literally
+hundreds of tiny glass figures. You think that it tells a story but the scenes
+are so randomly dispersed and tiny you have never been able to tell what the
+story may be.
+64680: Tiny glass shards are scattered about all over the floor.
+64720: The tiny glass shards are what remain of your beautiful bedside lamp.
+They sparkle and glitter in the light and, if it weren't for the fact that they
+now make the area quite dangerous to walk through, they would make a nice
+decoration.
+64884: If you went that way barefooted as you are, you would cut your feet to
+shreds on all the tiny glass shards.
+64960: You don't want to cut your hands to ribbons.
+64992: A stiff looking Zuni Doll is lying on the floor here.
+65032: The Zuni doll is here attacking you fiercely!
+65064: The Zuni doll is struggling to free itself from the sheet.
+65108: The Zuni Doll is running around here on fire.
+65144: The Zuni Doll is standing nearby preparing to kill you.
+65184: The Zuni Doll is about one foot in height and is made of a tough
+leathery material. Its head is misshapen and its long, razor-sharp teeth can be
+seen protruding from its mouth. Its hair is long and black and it wears an
+African ceremonial headdress
+65356: You continue to struggle with the Zuni Doll but find yourself loosing
+stamina. Suddenly the Zuni Doll gives a sudden and quick slash. You feel a pain
+in your throat and liquid oozing down your neck. You being to feel dizzy and
+slowly the room beings to fade...
+65540: The Zuni Doll slashes madly at you! You fend it off with your hands but
+you're not sure how long you can keep it up.
+65624: The Zuni Doll slashes madly at you! You are amazed at the things
+persistence. It seems to be single minded in its endeavor to rob you of your
+life!
+65730: The Zuni Doll slashes madly at you! You can't believe this things
+stamina. It shows no sign of tiring and no sign of giving up.
+65824: The Zuni Doll having fully recovered from your attack throws itself at
+you. It tears into your leg with its little sword bringing you to your knees.
+It then resumes its crazed slashing frenzy!
+65960: The Zuni Doll is quickly recovering from your attack.
+66000: The Zuni Doll is slashing madly in an attempt to free itself from the
+sheet.
+66056: The Zuni Doll suddenly leaps at you and plants his tiny sword right into
+your left eye. Clasping your hands to your face you don't see what the Zuni
+Doll does next but the pain intensifies greatly before fading away...
+66210: The Zuni Doll leaps up onto the kitchen counter and glares at you.
+66260: The Zuni Doll leaps from the counter top at you but you swiftly dodge to
+the side. The Zuni Doll flies a short distance through the air before landing
+inside the open freezer.
+66384: The Zuni Doll leaps from the counter top at you but you swiftly dodge to
+the side. The Zuni Doll flies a short distance through the air before it
+colides with the freezer. It then lands, unharmed, on the floor.
+66534: The Zuni Doll crawls out of the open freezer.
+66570: The Zuni Doll having made its decision throws itself at you. It tears
+into your leg with its little sword bringing you to your knees. It then begins
+its crazed slashing frenzy!
+66696: The Zuni Doll is beginning to escape from the freezer.
+66736: The Zuni Doll is clearly contemplating the best way to kill you.
+66784: As you attempt to flee from the room, the Zuni Doll lunges at you and
+delivers a striking wound to your thigh! Your legs fall out from under you and
+the Zuni Doll continues its relentless attack.
+66920: You struggle with the Zuni Doll but you can't free yourself long enough
+to do that.
+66980: You struggle with the Zuni Doll but you can't free yourself long enough
+to do that.
+67040: The Zuni Doll is definitely a kill first ask questions later kind of
+individual.
+67096: Do you actually expect to NEGOTIATE with the Zuni Doll?
+67144: If the Zuni Doll is asleep you'd hate to see what it's like when it's
+awake!
+67200: The Zuni Doll slashes wildly at you! Finally you manage to get a grip on
+the thing. You are amazed at how strong the thing is. You give it a hardy shove
+and toss it nearly across the room.
+67332: You lunge at the tiny Zuni Doll. The thing is just too swift for you and
+dodges out of the way. You go sprawling across the floor but quickly spring to
+your feet and turn to face the menacing Doll.
+67472: You throw the sheet over the Zuni Doll. Beneath it you can see the Zuni
+Doll struggling to get free. You assume you don't have much time before the
+thing slices its way free.
+67596: You launch the French knife at the Zuni Doll and score a direct hit
+square in the Zuni Doll's chest. It goes flying backwards a few feet and then
+lies still.
+
+Suddenly, it sits up and pulls the knife out of its chest. It
+looks at the large French knife, then at its own small sword and then back at
+the French knife before throwing away the small sword. It then advances on you
+with its new found superior weapon.
+67888: at the Zuni Doll. Unfortunately, the Zuni Doll is just too swift and
+dodges out of the way!
+67956: Through the open door you see the Zuni Doll finally free itself from the
+sheet. It begins advancing upon the open door.
+68042: The Zuni Doll comes racing in through the open door and delivers a
+vicious blow to your ankle. You stumble and before you can react the Zuni Doll
+drives its little blade repeatedly into your throat...
+68186: Through the open door you can see the Zuni advancing on the door with
+frightening speed!
+68250: The Zuni Doll throws the bathroom door open and lunges at you. It plants
+its tiny blade square into your chest and then slides down your body ripping a
+long bloody chasm in your torso...
+68384: You hear the Zuni Doll collide with the closed bathroom door. For a
+moment you hear nothing and then you see the handle on the bathroom door slowly
+beginning to turn.
+68500: The Zuni Doll begins slashing wildly at the at the bathroom door. The
+door should hold up for a while but who knows for how long.
+68592: The Zuni Doll continues to hack away at the door. Little bulges are
+beginning to form on this side of the door.
+68672: The Zuni Doll shows no sign of tiring. It continues to hack away at the
+door. Splinters are starting to fly away from the wood.
+68764: Certainly the door will give soon. A tiny hole has already formed
+through which the point of the Zuni Doll's sword can be seen.
+68856: The cracking and crunching is becoming unbearable! The hole is quite a
+bit larger now. You can hear the horrible little cry of the Zuni Doll as it
+relentlessly hacks its way through.
+68984: You don't think the door will hold much longer and the Zuni Doll shows
+no sign of giving up. A sizable hole has already formed through which you can
+see the Zuni Doll's slashing little arm.
+69118: The door finally gives way and the Zuni Doll bursts into the room. It
+looks at you evilly.
+69186: You can hear the Zuni Doll banging around inside the freezer looking for
+a way to escape.
+69252: The tiny blade is no longer than six inches long and half an inch wide
+but it is razor sharp.
+69316: What is left of the shredded sheet is piled on the floor.
+69356: This is what is left of your white sheet. It has been completely
+shredded into tiny pieces.
+69420: It is just the door that joins the bathroom with your bedroom.
+69464: The bathroom door is open.
+69484: The bathroom door is closed.
+69504: The Zuni Doll comes racing in through the open door!
+69544: The hole is about 1 foot in diameter and is irregular in shape. Sharp
+and jagged splinters stick out all around it along the sides.
+69636: The bathroom is painted that soothing institutional green color and the
+floor is covered with cream white tiles. Other than that it is furnished with
+all the usual fixings.
+69756: As you attempt to flee the Zuni Doll plunges its sword into your back
+and a numbing sensation spreads through your lower body. Everything goes dark
+as you hit the floor...
+69876: No way are you going back out there with that thing!
+69912: You hastily turn on the sink and splash water all over your face.
+Nothing however has changed so you turn the sink off.
+69996: Hanging on the wall over the sink you see a mirrored medicine cabinet.
+70044: In the mirror on the cabinet you see your own terrorfied reflection.
+70092: At one point in your life you used this stuff religiously. However, this
+bottle is probably very near empty if it has anything at all.
+70188: Nothing happens. It appears the canister has gone empty.
+70228: This bottle of hairspray has always been slightly defective. You've
+always had to use both hands in order to get the bottle to spray. As a result
+you can't spray
+70344: A jettison of flame engulfs the Zuni Doll as the flammable hairspray
+passes through the lighter flame. The Zuni Doll emits a shrieking cry and runs
+flaming from the room!
+70464: As the flammable spray passes through the flame of the lighter a great
+fireball bathes your head. You suppose that this is better than letting the
+Zuni Doll get you...
+70584: As the flammable spray passes through the lighter flame is bursts into a
+ball of fire. Your bathrobe quickly catches on fire turning you into a human
+marshmellow...
+70700: A great tongue of fire erupts from the canister as the flammable liquid
+passes through the flame of the lighter. Within seconds
+70788: You bathe your head in a stream of hairspray. You figure, if you're
+going to die at least die in style.
+70864: . While making it perhaps a bit stiffer, nothing else seems to happen.
+70972: You really should use this stuff more often.
+71060: Tossed into the corner are a pair of warm slippers.
+71096: These are the slippers you usually wear around the house in the winter
+to keep your feet warm.
+71160: With your feet protected by the slippers you carefully cross over into
+the living room.
+71222: As you walk into the room you see that the Zuni Doll has managed to stop
+itself from burning. It doesn't look entirely pleased with you.
+71324: This large room serves as the main area to your apartment. The walls are
+bare and painted an unobtrusive shade of white. The floor is covered from wall
+to wall with a light beige carpet. To the west lies your bedroom, to the east
+is a small kitchen area and the front door is to the north
+71524: You're not going in the bedroom with your feet unprotected. All that
+broken glass will rip your feet to shreds.
+71604: The front door is closed.
+71624: The front door leads out to the hallway of the apartment building. You
+take a close look and notice that the knob on the dead bolt has been roughly
+cut off. There is no way you will get this door open.
+71764: You scramble to the door and reach for the dead bolt. As you do, you see
+that the knob has been sawn off. No way will you unlock the door now.
+71864: In the center of the room is a long wooden coffee table.
+71904: This coffee table acts as the main horizontal surface in this room. Who
+knows how many things have graced its surface?
+71988: Along side the coffee table is your comfy plush sofa.
+72028: Many fond hours of napping, reading and eating have been spent lounging
+on this sofa.
+72088: Beneath the couch you see two glowing objects that you immediately
+recognize as Elmo's eyes. Nearby is another object that occasionly catches the
+light and glints of gold
+72208: It took three people to put this couch where it is now. No way are you
+going to move it by yourself.
+72280: Under the current circumstances if you were to lie down you might never
+get up again.
+72368: Up against one wall is a simple writing desk.
+72400: This is the simple writing desk that you use primarily for filling out
+paperwork and paying bills. Right now it is cluttered with so much junk that
+you figure there isn't any more room left on top of it for anything else. And
+it doesn't do much better as a container as it only contains one central
+drawer.
+72612: Having broken the lock open before, you doubt you will be able to get it
+to lock again.
+72672: You begin to fiddle with the lock on the desk drawer but you suddenly
+feel a sharp pain in your back and you fall to the ground. You roll over and
+see the Zuni Doll leaping towards you. It begins its merciless slashing.
+72900: You stick the small sword in the lock and give it a hard twist. You hear
+a springy snap sound in response.
+72976: You recognize this key as the one that opens your collectibles cabinet.
+73028: This is one of those thick heavy-duty rubber bands that are often
+wrapped around large bundles.
+73124: The rubber band is already attached to the divining rod.
+73224: You unattach the rubber band from the divining rod.
+73260: Tucked into one corner of the room is your colectibles cabinet.
+73304: This small wooden cabinet is where you began putting your collection of
+mysterious items and artifacts.
+73376: You found this silver ceremonial bell in a curio shop about three weeks
+ago. Supposedly, it is used to chase away evil spirits.
+73464: The little sliver bell makes a resounding ringing tone but nothing else
+seems to happen.
+73524: You ring the little bell and note some sounds coming from under the
+sofa.
+73644: You attach the golden Talisman loosely to the rubber band.
+73688: The Talisman is already loaded into the divining rod.
+73728: That wouldn't make good ammunition.
+73756: The divining rod isn't loaded with anything.
+73788: You take careful aim with the divining rod and pull back the rubber
+band. Just as the Zuni Doll leaps, you let go! The Talisman flies through the
+air and catches the Zuni Doll square in the throat. The little golden chain
+wraps around the Zuni Doll's neck and fastens together with a soft tinkle. The
+Zuni Doll stiffens almost immediately and falls lifeless to the ground.
+74052: This small area serves as a kitchen area. The walls are done in a nice
+teak coloring and the floor is covered in smooth yellow linoleum. Considering
+that you either eat out, or order in most of the time, you rarely ever see this
+room. The living room lies to the west.
+74240: Dominating the center of the room is a long shiny toped counter.
+74284: On top of this counter is where you prepare your food, if ever.
+74328: This is a classic French knife used in preparing food. Since it is
+rarely used it is still quite sharp.
+74400: As you pick up the French knife you notice that things have become oddly
+quiet in the living room.
+74468: Set into one wall behind the counter is a small freezer unit.
+74512: You cleaned out the freezer a few days ago. So, you know for a fact that
+it's empty.
+74572: Embedded in one end of the counter is a small electric disposal unit.
+74620: The disposal unit is used for quickly disposing of unwanted food items.
+Simply deposit said items into it and turn it on.
+74704: You flip the switch on the disposal unit and it grinds away. Within
+seconds the Zuni Doll is ground up and sucked away. When the last of it is gone
+you flip the disposal off. You walk slowly through your living room and pass
+into your bedroom being careful to avoid the glass shards.
+
+Collapsing into bed
+you see Elmo sleeping peacefully on the edge. You pick him up and hold him in
+your arms. You lie down and stare at the ceiling for a few moments before you
+pass into sleep. You're last thoughts are that you should give up the
+mysterious items and artifact collection. It's just not worth it.
+75120: You flip the switch on the disposal and its contents are quickly
+destroyed. You turn the disposal back off once it is empty.
+75208: You run the disposal for a few seconds but since it is empty you quickly
+turn if off again.
+

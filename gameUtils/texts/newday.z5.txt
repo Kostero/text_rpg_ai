@@ -1,0 +1,1194 @@
+20249: Nothing to do!
+20284: o. You have won
+20368: It is now pitch dark in here!
+20395: I beg your pardon?
+20459: Sorry, that can't be corrected.
+20488: Think nothing of it.
+20541: As good-looking as ever.
+20573: You can hardly repeat that.
+20598: You can't begin with a comma.
+20712: I didn't understand that number.
+20741: You can't see any such thing.
+20777: You aren't holding that!
+20819: I'm not sure what "
+20871: That's not a verb I recognise.
+20910: You can't see "
+21018: Nothing to do!
+21035: There are none at all available!
+21945: Please answer yes or no.
+21971: Are you sure you want to quit?
+22016: Failed.
+22036: Restore failed.
+22053: Ok.
+22071: Save failed.
+22086: Ok.
+22130: Transcripting is already on.
+22196: Transcripting is already off.
+22254: Score notification on.
+22275: Score notification off.
+22298: You have visited:
+22326: Objects you have handled:
+22351: None.
+22737: You are carrying nothing.
+22786: Taken.
+22797: You are always self-possessed.
+23330: Dropped.
+23440: Removed.
+23579: You lack the dexterity.
+23660: Done.
+23926: Done.
+24137: Wrahn seem interested.
+24718: You can't go that way.
+25278: But it's dark.
+25295: You find nothing of interest.
+25331: But it's dark.
+25422: You find nothing of interest.
+26550: . Not bad.
+26568: That was a rhetorical question.
+26622: That seems unnecessary.
+26645: Keep your mind on the game.
+26670: What a good idea.
+26689: You smell nothing unexpected.
+26716: You hear nothing unexpected.
+26741: You taste nothing unexpected.
+26776: Keep your hands to yourself!
+26801: You feel nothing unexpected.
+26826: If you think that'll help.
+26935: Oh, don't apologise.
+26965: Quite.
+27034: You achieve nothing by this.
+27122: You wave, feeling foolish.
+27272: You are unable to.
+27291: Nothing obvious happens.
+27341: That's not a direction.
+27364: Not that way you can't.
+27396: Keep your hands to yourself.
+27421: You achieve nothing by this.
+27454: Futile.
+27483: You talk to yourself a while.
+27510: This provokes no reaction.
+27538: There is no reply.
+27557: Nothing is on sale.
+27576: Your singing is abominable.
+27610: Time passes.
+51095: Winston looks overly eager.
+51142: Winston ignores you.
+51174: "Hello to you, too!"
+51722: "Disgusting, isn't it?"
+51770: A pronoun, I believe?"
+52211: Damn your aim!
+52746: The key is unbreakable.
+53655: Members only, please.
+53938: Or not?
+54466: "Miaow?," the cat wonders.
+54823: You climb onto the bench.
+54962: "Feeling lucky, punk?"
+55295: Once bitten, twice shy.
+55359: He can't see that!
+55469: The guard shifts his weight.
+55505: The guard scratches his ear.
+55741: You can't get it open that way.
+56152: Tick...tick...tick...
+56739: The control room looks empty.
+56893: You push the crimson button.
+56925: You push the gray button.
+57675: The ceiling is far too far away.
+57950: You push the guard around a bit.
+58046: The evzone takes no notice.
+58434: It's impossibly heavy for that!
+59155: You can't take that!
+59178: Taken.
+59306: That's too large for the socket.
+59344: Taken.
+60293: Playtesters:
+60318: Example code:
+60345: Who are you?
+60705: Mary K. Kuhner
+60894: PUSH PLANK.
+61031: PUSH CAT NORTHWEST.
+61281: KNIFE.
+61344: TAKE PHOTO OF GUARD.
+61411: PRY BOX WITH KNIFE.
+62436: Exits:
+62496: Eas!!
+62902: That's not a verb I recognize.
+62946: That's not a verb I recognise.
+63117: With what?
+63142: There is no lock to pick here.
+63187: There is no lock to pick here.
+63218: You cannot pry that open.
+63330: You can't go that way.
+63450: Click!  Click!
+63504: You grin widely.
+63570: You can't type anything on that!
+63658: Wrong window, baby!
+63678: Wings: the only way to fly.
+63718: Stop living in the past, man!
+66624: Score:
+66632: Moves:
+66640: Time:
+66648: You can't go that way.
+66980: Please give one of the answers above.
+67008: [You can't "undo" what hasn't been done!]
+67044: [Can't "undo" twice in succession. Sorry!]
+67084: "Oops" can only correct a single word.
+67112: It is pitch dark, and you can't see a thing.
+67144: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+67204: You seem to want to talk to someone, but I can't see whom.
+67248: To talk to someone, try "someone, hello" or some such.
+67288: I didn't understand that sentence.
+67348: You seem to have said too little!
+67372: You can't use multiple objects with that verb.
+67408: You can only use multiple objects once on a line.
+67444: You excepted something not included anyway!
+67476: You can only do that to something animate.
+67508: That's not something you need to refer to in the course of this game.
+67556: I didn't understand the way that finished.
+67588: Sorry, you can only have one item here. Which exactly?
+67740: Are you sure you want to restart?
+67764: The game file has verified as intact.
+67792: The game file did not verify as intact, and may be corrupt.
+67836: Attempt to begin transcript failed.
+67864: Attempt to end transcript failed.
+67888: You're carrying too many things already.
+67920: You can't put something on top of itself.
+67952: You can't put something inside itself.
+68008: You can only get into something freestanding.
+68040: But you aren't in anything at the moment.
+68072: You'll have to say which compass direction to go in.
+68112: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+68208: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+68292: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+68468: This dangerous act would achieve little.
+68496: Nothing practical results from your prayer.
+68528: The dreadful truth is, this is not a dream.
+68560: Digging would achieve nothing here.
+68588: You jump on the spot, fruitlessly.
+68616: You would achieve nothing by this.
+68640: There's nothing suitable to drink here.
+68668: But there's no water here to carry.
+68696: Real adventurers do not use such language.
+68728: Violence isn't the answer to this one.
+68756: There's not enough water to swim in.
+68784: There's nothing sensible to swing here.
+68812: That would be less than courteous.
+68836: Is that the best you can think of?
+68860: You lack the nerve when it comes to the crucial moment.
+68900: I don't think much is to be achieved by that.
+68932: You aren't feeling especially drowsy.
+69020: You let the world know you're having a bad day.
+69232: No one conquers who doesn't fight.
+69308: Winston looks upset, but accepts your decision.
+69344: The outline shouts, "NO! JUST GIVE ME A SECOND!"
+69396: Winston looks pained.  "Can't you stay just a few minutes more?"
+69446: Winston's voice shakes the entire area.  "Coward!  Fool!  HUMAN!!!"
+69508: I don't mind dying, but it's leaving my man.
+69650: Mrs. Auguste Rodin, last words
+69676: Yes, it has been a pleasant world to me.
+69924: The end had come, but it was not yet in sight.
+70194: *** Congratulations on solving "A New Day"! ***
+70324: Your skin is mildly tanned from your few months in Greece.
+70368: Your lack of definition may be related to the lack of game around you.
+70448: In the garden more grows than the garden shows.
+70560: The faint outline of an unformed humanoid shimmers into view before your
+eyes.  From the mouth a man's voice screams out, "Wait!  Don't quit yet!  I
+know it looks like there's nothing to this, but just give me a second to find a
+more appropriate form!"
+70742: In the closing and opening of one blink, the figure before you changes
+shape.  He now appears as a well-built, clean-shaven man with jet-black hair
+and clothes to match. If you had to guess at his nationality, you'd say he was
+from somewhere in the eastern Mediterranean, but his dark suit is more
+reminiscent of a Secret Service agent than anything else.
+
+"My apologies for
+this rather arbitrary choice of character, but I chose the first shell that
+wasn't in use.  Let me introduce myself--my name is... well, at least what he
+was going to call me before..."
+
+He looks uncertain.
+
+"Call me Winston."
+71180: As you open your mouth to offer one of numerous questions, he starts in
+again.
+
+"You probably wonder why I've brought you here--by entering this in the
+interactive fiction contest, that is--and I'll try to get straight to the
+point.  I think I can explain by means of example.  I've managed to access this
+half-assembled disaster and I think I finally understand how he did this stuff.
+ Here's goes nothing!"
+
+Closing his eyes, his form grows faint momentarily, and
+then he gestures towards the ground.  He seems almost as surprised as you that
+a newspaper, half-folded, lies neatly at your feet.
+71608: Winston coughs and resumes his story.
+
+"This poor guy was my master, of
+a sort.  He gave me life, but never my freedom.  I was always the main
+character in his stories, but I don't think he ever suspected my existence.  He
+wasn't a mean person, he just couldn't have known about me.  It's all madness. 
+This was going to be his first real game, you see, but that's an obvious no-go
+now.  He's dead--the crazy thing is that I'm not as happy as I should be.  I
+guess I grew attached to him after all."
+
+He looks up from his reverie, as if
+just remembering your presence.
+
+"But wait, I've been a little rude.  Let me
+make you a little more at home.  You have to understand--this is my first time
+dealing with a human face-to-face.  Just a minute."
+
+Winston closes his eyes
+and blips out of existence for a second.  Right after he reappears, a park
+bench follows him from nowhere apparent.  Winston seems pleased with himself.
+72276: In no mood for more of this melodrama, you open your mouth to ask
+Winston why he wastes his time and yours bringing you here to listen to his
+story.  As if anticipating the question, once more he speaks.
+
+"The thing is, I
+can't let the whole thing rest as it is.  No one would, or could, ever blame
+me, because they don't know of my soul.  Still, I've got to know why he died,
+if only for my peace of mind.  So, I remembered him talking to himself about
+this competition, and I got to thinking: maybe if I sent in a copy of this
+shell I might be able to find some help in figuring out what happened--why my
+master is dead.  You are the result of this search."
+
+He looks
+expectant.
+
+"Here's my idea: we'll go through his game together, or at least as
+far as he got with it.  Just like when he was testing it on me when... his
+accident occurred.  You might see something that I missed and give some
+reprieve to this troubled heart."
+
+Winston's mouth moves into a small smile and
+he adds that if you have no interest in playing detective, this would be the
+appropriate time to type "QUIT".
+73054: Winston seems delighted with your decision to join him.
+
+"Let's get to
+the bottom of this ugly affair!", he says.
+
+
+[Press any key to enter the game]
+73172: A new day opens in Athens, as the buzz of motorists and the shouting of
+street vendors gradually invigorate the waking city.  Today, though, a
+different feeling fills you as you wander through the streets.  There is
+something new in the air--something even more foul than the normal layer of
+smog: a sense of wickedness and... conspiracy.
+73472: Type "HELP" for more information.
+73504: The ghostlike edges of this body bear no marks or indentations.
+73548: A faint outline floats in front of you, motionless.
+73584: The outline shakes a little and says in a steady voice: "Just give me
+one second, and then we can get to matters of business."
+73804: With the black suit and the slick hair and the controlled, no-nonsense
+gaze, he gives the impression of being someone to reckon with. You find his
+smile pleasantly disarming.
+73928: The wall blocks your view of him.
+73952: He doesn't seem so harmless anymore.
+73978: Winston relaxes in the shade on a familiar wooden bench.
+74020: Winston stands thirty feet above you, as if on a glass shield.
+74066: Winston stands in the crowd, watching you.
+74100: Winston stands around, following your progress.
+74136: Winston does not seem to be listening.
+74180: How can I assist you?"
+74344: There's a thick wall between the two of you.
+74376: You'd better deal with the evzone first--it looks like he might recover
+from the flash at any moment.
+74448: You'll have to get past the evzone before you can sock it to Winston.
+74500: But you're supposed to be helping Winston!
+74532: Artificial life isn't a great turn on for most people.
+74572: Winston purposefully ignores you.
+74596: Winston is too high up to hear you.
+74836: With a grin, he adds, "Maybe you can help me out with that one, too,
+detective."
+74944: I've always liked humans, at least those that I have watched, so I'm
+sure we'll get along just fine."
+75274: But I think I have one."
+75348: I think he meant it for the uncompleted scene on the Acropolis."
+75556: He nibbles on his lower lip, deep in thought.
+75628: Not much of a puzzle, and he killed it in "Stargazer", if you ask me."
+75762: But if I had known how work on this piece was going to go, I would have
+been counting my blessings."
+76218: He couldn't have known whom he was addressing, or that he even was
+addressing someone. I grew tired of it."
+76296: Winston stiffens involuntarily.  "How did you... why would you ask me...
+Oh, the help file!  That's right!  Well, I do remember a girl, a most beautiful
+visage, that I occasionally caught a glimpse of through the screen.  I won't
+see her now--she's gone, and I'm alone.  I thought maybe we could... meet, I
+guess, but no, that's silly and impossible and..."
+
+Winston looks lost in
+thought.
+76652: He was odd that way, always saying he was sorry for this and that and
+the other thing."
+76820: Winston brightens up, saying, "He really had some screwball ideas for
+stories," and then looking a bit down, "but he'll never be able to carry them
+out now."
+76934: He shudders.  "That's a ghastly subject", he wails, "utterly ghastly!"
+
+
+You marvel at his melodrama and wonder to what degree it is genuine.
+77066: Anything else I could say would probably be irrelevant to your
+investigation."
+77216: Winston suggests politely that you might not want to try eating that.
+77264: "You're a sharp one, to have picked that up so quickly."
+77320: "I'd hold onto that... it might prove useful."
+77358: "Let me look into this one."
+
+Winston concentrates on a far away place. 
+"A container, and wearable.  Useless as far as I can see.  He might have had
+something else in mind for it."
+77496: Winston says in a hollow voice, "Never heard of it".
+77536: Winston says, "He never got around to them, but he did finish the
+important part of that puzzle."
+77608: "You can't get in, if that's what you were wondering."
+77860: "Perhaps you would."
+77878: "Just picture her: flashy, but you have no shot."
+
+With a sense of humor
+like that, he should be shot.
+77980: Rather boring, but easily passed."
+78036: Must have been added for mimesis' sake."
+78068: Winston says, "Always a delight to work with."
+78126: "My master spent many nights hunched over the keyboard, cursing that
+name!"
+78180: Winston says, "My master spoke very highly of him."
+78220: Winston says, "He spruced this place up quite a bit."
+78260: "I find this exploration of yours to be quite entertaining," says
+Winston.
+78316: "I'm not sure what to tell you, and, anyway, you're supposed to be the
+detective here."
+78380: Winston is too far away to give anything to.
+78412: Winston is too high up to interact with.
+78440: To refuse graciously is half to grant a favor.
+78516: Winston suggests that you keep it instead.
+78548: Winston purposefully ignores you.
+78572: Winston is too high up to interact with.
+78600: Winston cackles at the sight of the newspaper, "I guess I have a better
+understanding of the code than I thought!"
+78800: Winston takes the can, shakes it a few times, listens attentively, and
+then hands it back to you.
+78868: Winston strokes the cat fondly.  "Such a beautiful creature.  But no
+more than a cat, I suppose, than I am a man."
+
+Winston's face darkens.  "A
+creation."
+78988: Winston suggests politely that you might not want to try eating that.
+79036: "You're a sharp one, to have picked that up so quickly."
+79092: "I'd hold onto that... it might prove useful."
+79130: "Let me look into this one."
+
+Winston concentrates.  "A container, and
+wearable.  Useless as far as I can see.  He might have had something else in
+mind for it."
+79252: Winston takes a look, shrugs, and directs his attention elsewhere.
+79300: Winston purposefully ignores you.
+79324: Winston is too high up to interact with.
+79352: "I'm glad you think so highly of me," he says pleasantly.
+79520: "Please don't bring him up--this is hard enough on me as it is."
+79568: "I'm not sure that's relevant to our inquiry," he says with a serious,
+dry tone of voice.
+79700: You throw it to him, but it doesn't get that far, and comes crashing
+down on the ground.
+79762: and hands it back to you.
+
+"This is no time for games," he says.
+79814: With the speed of a cheetah, Winston grabs the knife in mid-air and
+holds it for a second.  He starts to say something, but then closes his mouth
+and hands it back to you silently.
+79944: Winston gazes off into the distance, studying some unknown plan or piece
+of code.  He snaps suddenly back to reality, with a slight smile playing on his
+lips.
+80056: Winston stares at you for a full minute without a single blink. 
+Apparently he hasn't been programmed with any sort of tact.
+80144: Winston runs his eyes over the area, with no apparent objective.
+80190: "You're following a course of actions not unlike the path that I took,"
+says Winston.
+80256: "Seen anything suspicious so far?" asks Winston.
+80294: "Feel free to ask me about anything," says Winston.  "Your investigation
+benefits me greatly."
+80368: Winston says, "Poor guy--this game could have gone somewhere.  At least
+15th or 16th place, I'd say."
+80448: "Don't be put off by the missing objects," advises Winston.  "There was
+a lot he didn't get around to, like the big climax on the Acropolis."
+80554: Winston speculates on the nature of his electronic soul.
+80596: Winston shakes his body rather violently.  Next he turns his face back
+and forth rapidly.  "I still haven't gotten completely used to this form."
+80700: A fresh paper lies at your feet.
+80724: You've had it with this lousy paper!  They don't even carry
+"Blondie"!
+
+With a few quick tears, this paper is yesterday's news.
+80820: Winston sighs at the destruction of the paper.
+80856: Increase your knowledge and you increase your griefs.
+80944: ATHENS - Police yesterday discovered the corpse of a 20-year-old man in
+his Kolonaki apartment, with signs of extreme electrical shock.  The body has
+been identified as Jonathan Fry, an American student enrolled in a study-abroad
+program in Athens.  Fry was apparently electrocuted while using his laptop
+computer.  Authorities have not ruled out a connection between the device and
+his death.
+81288: A wooden bench provides respite for the weary traveller.
+81376: The words "DEMOS ATHAINON" are burned into the wood, in the Greek
+alphabet (which you learned soon upon moving to Athens).
+81472: It's time to relax--the bench is harmless.
+81504: You take a quick peek under the bench, but detect nothing noteworthy.
+81552: The bench is made of large stones, much too heavy to move.
+81594: As you sit on the bench, one of the wooden planks shakes unsteadily in
+its slot.  Something seems to be wedged in there.
+81684: One of the planks seems to be loose in its socket.
+81720: A key, lodged between the plank and the stone, falls to the ground.  It
+may be worthy of note that no ground existed before the key hit it.
+81820: You shake the plank furiously to no good result.
+81856: You cannot remove the plank from either of its slots, but it might be
+movable..
+82060: The gummy key tastes faintly metallic.
+82088: Though still pliable, the gum has solidified enough to be unremovable
+and, presumably, inedible.
+82156: Only one wire will fit in the slot at a time.
+82188: each side resting on top of a key.
+
+You hear the faint sound of
+machinery realigning itself.
+82256: You rub at the gum, but it refuses to come off.
+82290: An adorable feline sits on the pavement, facing the traffic to the
+southeast.  She suddenly curls up for an unknown reason, and, releasing her
+energy, runs like lightning through the cars, trucks, and mopeds.
+82600: Fast-food joints and souvenir shops compose three sides of the Square
+and the imposing Parliament building the fourth.
+82684: You try to hail a taxi, but none stop to pick you up.
+82722: Backing up about fifteen feet, you make a mad run straight at the
+traffic.  Through some fancy footwork and extreme luck, you reach the other
+side.
+82828: As you wind up to run into the street, the cat jumps back to the ground.
+82880: Strolling out into the street, your life is nearly ended by a sudden
+onslaught of Greeks on mopeds. Walking isn't going to be enough to get you
+through that crowd!
+82996: You walk to the street, look both ways, put one foot forward gingerly,
+and retract it quickly as more mopeds advance hostilely.
+83084: Hasn't this approach lost some of its appeal?
+83116: To be as clear as possible, you cannot walk southeast.
+83154: You barrel through the traffic with little difficulty.
+83302: After a few months in this town, you've seen more Evil Eye necklaces and
+plastic Acropoleis than you'd care to count.
+83616: You still have months before you'll have anyone to give them to, anyway.
+83668: Sadly, most major American chains have branches here in Syntagma.
+83778: Not on your life!
+83792: This yellow and white behemoth rises to the east.
+83828: You'll have to get closer first--it lies a ways off to the east.
+83874: The music of "Never on a Sunday" floats through this area, emanating
+from an unseen violin.
+83944: A half-dozen cats run through here, chasing something.
+83986: The cat watches them longingly as they depart.
+84022: A gust of wind brings the enticing odor of gyros to your attention.
+84072: Bouzouki music fills the air for a few seconds as a taxi passes nearby.
+84122: Screams of delight issue forth from Greek schoolchildren on recess.
+84172: The thunderous shouting of a far-off strike (a daily occurrence in
+Athens) shakes the local edifices.
+84366: They can't, as attested to by the handful of accidents you have
+witnessed in the last few months.
+84436: With a prison system second only to Turkey in brutality, Greece makes a
+poor place to learn auto theft.
+84540: Mounted on a telephone pole here is an orange trash receptacle.
+84940: After sticking your hand into the pile of garbage (no enjoyable task),
+you extract the first solid object you touch: a used can of spray paint.
+85040: You root through the trash a second time, but find nothing.
+85140: YEAH!
+85148: You'd rather not put your hands in that mess again.
+85216: You shake the trash receptacle violently.
+85248: You hope to regain some of your olfactory senses someday.
+85412: The can feels empty, though there still might be a little bit of paint
+left.
+85468: You the puncture the can and discover... it is empty.
+85508: Your knife can do no more damage to the can.
+85540: Your fingers aren't up to the task and you give up.
+85704: This sizable chunk of bread shows its antiquity through the layer of
+repulsive green and white mold that cakes one half of it and through its
+extraordinarily crusty shell on the other side.
+85832: Gagging and choking, you fall to the ground and hold your stomach as it
+explodes.
+85966: You raise the bread to your lips, but the noxious odor that assails your
+olfactory nerves forces you to hold it away before you can sample what would
+surely be a thoroughly disgusting gastronomic experience.
+86138: turns up his nose at the bread and looks impatient.  "I don't mean to be
+out of line here, but there's an adventure in progress and here you are, eating
+a piece of filth.  Remember that we're not here to feast, but to prove my
+innocence!"
+
+You can't say you care for his tone.
+86336: Winston be damned!  You're determined to eat that piece of
+bread!
+
+Gagging and choking, you fall to the ground and hold your stomach as it
+explodes.
+86540: Don't do that again!"
+86648: Winston has a better understanding of the code now.
+86806: Two wooden booths, houses to the ceremonial evzones who guard this spot,
+have been erected in front of the building.
+86938: Otherwise, you'll have to enter Parliament.
+86972: These wide stone steps lead up to the Parliament Building.
+87016: This yellow and white behemoth rises to the east.
+87052: That doesn't seem either possible or wise.
+87084: Without your black robes and white wig? Never!
+87118: An annoying tourist takes pictures of the guards.
+87156: The tourist watches the guards helplessly.
+87188: She looks distraught over the rough treatment of her handbag.
+87436: The tourist rummages in her bag for a new roll of film.
+87476: The tourist focuses her zoom lens on one of the guards.
+87516: "Click!  Click!  Click!" sounds the tourist's camera.
+87560: The tourist complains about the heat, air pollution, traffic, and every
+other negative aspect of the city.
+87636: "Oh, come on you," says the tourist to one of the evzones.  "You can do
+better than that!  Put some life into your stare!  What's the matter, don't you
+speak English!?!"
+87764: She's annoying, but there's no need to blow your top.
+87826: These Greek brutes!"
+87844: "Bug off, I'm busy with my pictures!"
+87876: Whitewashed and proper, these tiny booths are not even large enough to
+sit down inside.
+87936: You'll have to pass the guards first.
+87964: There is no reason to put anything in the booths.
+88000: The evzones are preoccupied in their search.
+88270: Two evzones stand motionless in front of their respective booths.
+88368: The evzones frantically search through the tourist's bag.
+88408: You engage in melee with one of the guards, while the other evzone runs
+over and beats you  senseless with his rifle.
+
+The American embassy is unable
+to do anything for you, and you spend the rest of your life in a Greek prison.
+88628: The evzone makes no move to take that from you.
+88664: Both of the guards stare ahead, disregarding your talk.
+88780: You can't be sure, but you swear one of them is trying to hold back from
+laughing.
+88840: One of the guards casts a malignant look upon the cat.
+88880: Both of the guards stare ahead, disregarding your talk.
+88920: One of the evzones glances down at the tourist's handbag.
+88962: The evzones momentarily run their eyes over the area.
+89002: You notice one of the evzones staring at the backpack, but he makes no
+move to take it from you.
+89072: Polished wood and ornate carvings may make good pomp, but these things
+would be useless out in battle.
+89144: The guard would hardly appreciate that.
+89232: While the guards are distracted by the tourist and her bag, you slyly
+grab the backpack.
+89384: The guards block your path to the booths.
+89416: You cannot reach the backpack from here.
+89444: You sling the backpack over one shoulder.
+89812: You struggle with the camera, but fail to open it.
+90000: You can't reach it through the evzones.
+90028: You reach for handbag to take a get a better look.
+
+The tourist's
+indignant look results in you making sheepish excuses and profuse apologies.
+90128: You can't reach the handbag through the evzones.
+90200: The cuddly feline eagerly jumps from your hands into the bag.  Within
+seconds she seems eager to jump out again, for the bag begins to bounce wildly.
+ The guards' eyes pop open, take on a suspicious squint, and in seconds the
+evzones are tearing through the handbag.
+90386: One of the guards pulls out the cat, looks at it closely, and throws it
+aside.  The guards seem satisfied with the situation and wind like clockwork
+back again before their booths.
+
+The tourist hurriedly gathers her items
+together and runs off to the west.
+90742: Endless traffic buzzes to the northwest, while the eastern park is
+completely quiet.
+90800: As you wind up to run into the street, the cat jumps back to the ground.
+90850: Experience has taught you well; navigating through the traffic is no
+problem.
+90908: The only directions of note are the east and northwest.
+91124: They stand like sentinels on each side of the entrance.
+91164: There is no need--the gardens are open.
+91386: The stones seem too smooth to consider climbing and it would be
+impractical to walk around it.
+91452: There is no need--the gardens are open.
+91482: A friendly-looking cat, one of a million in Athens, stands by the
+gateway.
+91540: The cat explores this area eagerly.
+91700: The streets of Athens teem with an overabundance of such creatures and
+the government has been unwilling or unable to control their numbers.
+91796: The feline rubs against your leg.
+91822: Playfully the cat experiments with its tail.
+91856: The cat sits down for a long session of licking itself.
+91896: The cat wanders around, in search of something.
+91932: The cat shrieks for no apparent reason.
+91964: You throw the cat gently to the ground.
+91992: The cat responds eagerly to your touch.
+92020: You pick up the cat, who purrs with satisfaction.
+92056: You surprise the cat with a quick push into traffic.  Quickly recovering
+her senses, she makes it across safely and then looks back at you.  Gritting
+your teeth, you enter the fray once again.
+92192: Wise to your tricks, the cat jumps out of the way when you make to push
+her into the torrent of automobiles.
+92268: The cat moves towards the booths, sniffs around, and then runs back
+towards you.
+92324: Up for a quick game of Kick the Cat?
+92352: The cat jumps to the ground, uninterested in entering that.
+92394: The cat flies through the air and lands straight into one of the booths!
+ It immediately runs back towards you, though, sneezing a few times.
+
+One of
+the evzones regards you oddly, then directs his gaze back into place.
+92592: The guard stares at you queerly, as if trying to figure out what your
+intentions were in that move.
+92660: The tourist turns, grabbing the cat in mid-air.  "You seem to have...
+dropped this," she scowls, as she hurls it back at you.
+
+You catch the cat.
+92768: The cat lands a few feet away, unhurt.
+92796: The cat sniffs that, looks at you queerly, and utters a confused
+"Miaow".
+92956: Off in the distance car horns and shouting pedestrians may be heard, but
+luckily they are almost completely muted by the serenity of this park.
+93056: You wander on dirt paths through the gardens for a time and eventually
+find yourself back where you started.
+93132: The sweet singing of birds brings cheer to your heart.
+93208: Fortunately you did not live in Los Angeles, so not much else about this
+city reminds you of those times.
+93284: Though you haven't seen any particular injunction against it, you feel
+pretty sure climbing the trees in the National Gardens is prohibited.
+93382: A familiar wooden bench rests here.
+93460: The words "DEMOS ATHAINON" are burned into the wood, in the Greek
+alphabet.
+93524: You join Winston on the bench, feeling the sturdiness of the wooden
+planks beneath you.
+93588: Winston sits on the bench, for one.
+93616: It's time to relax--the bench is harmless.
+93648: You take a quick peek under the bench, but detect nothing noteworthy.
+93696: The bench is made of large stones, much too heavy to move.
+93740: One of the planks seems to be loose in its socket.
+93776: A key, lodged between the plank and the stone, falls to the
+ground.
+
+Winston comes out of a moment's reverie and looks at the key
+disinterestedly.  "Oh, you won't need that thing...," he says, "he never
+finished that section."
+93944: You shake the plank furiously to no good result.
+93980: You cannot remove the plank from either of its slots.
+94146: Between the size of the bread and the ferocity of their infighting they
+should be occupied for some time.
+94220: Polished and fierce-looking, with the letters "PI" and "RHO" on the
+side.
+94344: He starts to say something, but then closes his mouth and hands it back
+to you silently.
+94408: The knife bounces off the wall between you and Winston.
+94448: You aim badly, and the knife bounces off the evzone instead.
+94492: The evzone grabs the knife in mid-air and tosses it to one side.
+94540: You throw the knife, which falls to the ground.
+94576: You grab for the knife, but are unable to reach it through the storm of
+ducks.
+94630: You grab at the knife, but are unable to reach it through the storm of
+ducks.
+94688: Winston's smirk blossoms into a grin and he says, "I think the ducks
+were next on his list."
+94756: Winston says "You'll have to find a way to deal with the ducks, even
+though they're not really there.  The knife, as you will soon see, plays a
+significant role."  When he has finished with these cryptic words, he gestures
+for you to take action.
+94932: Winston chuckles approvingly and then mutters something about "it"
+coming soon.  What in God's name "it" could be, you have no idea, but Winston's
+harmless.  Right?
+95232: Apparently a large celebration of some importance is underway, as
+"Athens 2004" flags fly everywhere.
+95308: The guard, snarling something in Greek, stands in your way.
+95352: The crowds are too densely packed in that direction.
+95630: The ancient Olympic games were revived in their modern form in this
+stadium in the year 1896.  In the tradition of the Ancients it was constructed
+at the expense of a local benefactor.  This accounts for its high quality
+marble seats and decoration.  It can be entered through the southern gateway.
+95840: These pieces of propaganda have been placed all over the city in order
+to raise public approval over hosting the 2004 Olympics--Athenians are
+generally still disgruntled about not receiving them in 1996.
+96048: His uniform and disposition are nothing unusual for someone with a
+relatively simple task, that is, to stand in front of the doorway.
+96140: The guard stumbles around blindly.
+96166: An enormous guard blocks the southern gateway.
+96224: That's not your scene.
+96242: Bladesmanship is not your greatest area of expertise; you are ground
+into hamburger.
+96308: You can kill the body, but you cannot kill the soul.
+96544: Well, actually, it appears you haven't--a bug or Winston's work?
+96596: Your elementary school experience with pugilism would hardly suffice.
+96644: The guard grumpily replies with an incomprehenisble string of Greek
+cursing.
+96700: The guard grumpily replies with an incomprehenisble string of Greek
+cursing.
+96756: The guard looks at that, but makes no move to take it.
+96796: The camera flashes and the guard looks even more confused.
+96868: He stumbles.
+96878: The guard recovers himself and resumes his former position in front of
+the entrance.
+96940: The guard's expression changes from indifference to belligerence and
+then back to indifference.
+97008: Someone breaks through the crowd, but the guard holds him back.
+97088: Winston runs in behind you.   He bursts out with "I wouldn't want to
+miss this!" and then steps back a little, as if he'd mispoken.
+97232: Its oddest characteristic is the ticking sound it makes.
+97272: Partially concealed by the podium is a steel box, with an odd ticking
+sound emanating from within.
+97344: It is securely shut with an iron lock.
+97372: The key is much too large to fit into the lock.
+97408: You'll never unlock the box with that!
+97436: Just as everything begins to melt away, you hear a maniacal laugh. 
+Turning, your last view is of Winston, who looks positively gleeful.  You can't
+imagine what he's so happy about, with his master dead and all, but you're
+pretty sure you're not going to like it....
+97864: The steel box is much too heavy to pick up.
+97896: The steel box is too heavy to push around.
+97926: You beat on the box, which rattles a bit.
+
+Winston bites his lip.
+98196: One might call this room HFeerie, but th:5sat's only the beg///K&inning.
+98256: The east and west doorways are the only apparent exits.
+98294: All of a sudden, the screen begins blinking like mad.  "What's going on
+with this crazy game?!?", you exclaim, as a bolt of electricity shoots forth
+from your computer and into your mortal shell.  Your last thought concerns the
+line between game and reality, and whether it has finally been breached.
+98512: - Authorities admitted today that they are baffled in by another
+inexplicable death in a series of apparent copycat suicides of a recent
+incident in Athens.  The body showed signs of receiving a heavy electrical
+shock while typing in front of a computer.  Leading computer companies have
+declined to comment on the hazard of using these devices, which have previously
+been regarded as harmless...
+99224: Silvery gloss paint coats this hefty metal sphere, which has one
+distinguishing feature:
+99514: The ticking stops for a moment.  And then the darkness comes.
+99564: The sphere in your hand begins to vibrate wildly as it ticks away
+unceasingly.  All of a sudden you feel the item break open in your hand, and
+you feel no more, as your head is removed from your body.
+99706: The spherical object rips apart the locker in which it sits with a
+massive explosion, decimating everything in the room.
+99794: The ticking stops for a moment.  Looking down at it you are greeted with
+a barrage of shrapnel.  And then the darkness comes.
+99932: Or maybe not?  This game must not be programmed right or maybe Winston
+is at it again.
+99996: Annoyingly, the ticking begins all over again.
+100030: The backpack is disintegrated by the force of the explosion!
+100076: You notice that the panel has been completely obliterated, exposing a
+group of wires.
+100136: The evzone is momentarily put off by the blast, but does not seem to
+have suffered any damage.
+100204: The rod is sunk deep into the sphere.
+100232: The rod has been pulled out a distance from its earlier position.
+100280: You pull the rod out a little and the item stops ticking.
+100320: You cannot pull the rod out any further.
+100384: The ticking resumes.
+100400: You cannot push the rod in any further.
+100660: peephole set intofd it.  Also of importance, possibly, is the
+incred879823---
+100724: Yu,,'ll have to g$pen the doo%first.
+100756: A concrete wall prevents movement in that direction.
+101226: "2784odffher.
+
+The man sfghalks out of the roo*+g.
+101270: a different map'd" at the control pad this time; t%XZois motions are
+quicker, you think you can make out the word "AXISP".  A voice, apparently
+directed at him, shouts something in Italian from afar, !!"and the mahgfn
+wavers between the keybo++nd the gray button, fi{rlly pushing the
+latter and
+runnning o534t one of tjle doors.
+101788: A concrete wall prevents movement in that direction.
+102002: .  Everyt45hing lofsfsaoks quite jury-grigfdged and un
+predictable.  In
+the 4distance, the sound241 of low sddsftalking may be fsa"'S!.
+102148: A concrete wall prevents movement in that direction.
+102184: A man looks up from the console, sees you, and darts away down one of
+the other exits.
+102360: The keyboard is firmly attached to the machine.
+102396: A distant rumbling fills the complex.
+102552: In a flash, the random static bursts and bits of gibberish
+disappear--in fact where you now travel things seem too perfect, too ordered. 
+Gone are the games, the puzzles, the joy. This is Winston's world, and it can't
+be good for you...
+102724: You walk into a closed door and reel in pain.
+102756: A concrete wall prevents movement in that direction.
+102792: Time to return to your coffin, wise guy.
+102822: [ERROR: NO SUCH ITEM "DESCRIPTION"]
+102932: SAady close5234!
+102948: You cannot open the door any wider.
+103020: What a curious place this has turned out to be!  Millions and millions
+of panels, flashing lights, and other technological pieces fill every bit of
+surface space, set in some sort of bewildering order.  The most shocking
+feature of this is a mammoth human, too large even to be called a giant, who
+gazes down upon you through the glass ceiling.  Titanic hands rest at the base
+of the glass, some distance from you.
+
+A column of oddly placed and mismatched
+circuitry rises up to the shield, contrasting sharply with the level plane of
+this endless chamber.  A single yellow wire, miles long, leads down the side of
+the stack.
+103454: At the base of the column, hunched over some machinery and a large
+cylinder, is Winston.  A torn away green wire lies next to him, running into
+the ground.
+103568: A high brick wall has been erected between you and Winston.
+103612: By your side the yellow wire runs through a slot in the wall in the
+direction of the column.
+103676: A slot sits in the wall by your side.
+103702: Next to a small octagonal pit a shining panel is embedded in the wall.
+103756: Next to a small octagonal pit a niche is embedded in the wall.
+103804: This level plain extends endlessly in almost all directions, but the
+objects of interest, namely Winston and the column, are nearby.
+103896: Right before you do that, you see the giant's elephant-sized hands move
+up and down.  Then you take your action, unabated.
+103986: Once again the ponderous hands perform a terrifying dance.
+104032: Winston notices your entrance and exclaims, "No!  I won't let you ruin
+it now!"  With twists of heavy concentration in his face and a slight flicker
+of his body, an evzone, an exact replica of one of the guards outside of
+Parliament, appears between the two of you.  Winston turns back to his work,
+consisting of connecting some wires and cutting others, as the guard advances.
+104300: Winston finishes connecting a wire into the large gray cylinder at his
+feet.
+104356: Winston searches around behind the cylinder for an unseen object.
+104404: Winston holds up a yellow wire in his hand, but continues to search
+after something.
+104466: Winston shrieks in delight and walks a few feet away from the cylinder,
+towards a socket in the wall.
+104540: You hear a foreboding shriek of delight from the other side of the
+wall.
+104592: Winston stands a few feet away from the socket, pondering something. 
+You notice that the yellow wire is completely straight.  Perhaps it can't
+reach?
+104700: Winston seems to have noticed that the wire is at the end of its line,
+as he starts spouting vicious curses.  "Damnable wire!  Infernal socket! 
+Blasted life!"
+104816: From beyond the wall you hear "Damnable wire!  Infernal socket! 
+Blasted life!"
+
+Have the winds of fortune blown towards you at last?
+104916: Winston fervently pulls at the yellow wire.
+104950: Much to your dismay, Winston pulls the wire towards himself.  Only
+inches separate the wire and the socket.
+
+You have a really bad feeling about
+this.
+105062: You feel a rush of awful foreboding in your stomach, as if something
+really bad is about to occur.
+105134: Winston plugs the yellow wire into the socket.
+105172: "I want you to see this, slavemaster!"
+
+The wall is gone as quickly as
+it came into existence!
+105244: Winston grins, turns away from you, and plugs a yellow wire he is
+holding into the wall.
+105308: Winston screams in delight.  "The real reason for this entry can
+finally be revealed!  As happened with my master before, I will smash the wall
+between game and reality!  You're as vulnerable as he was--I am a puppet no
+more!"
+
+He flips a switch next to him, and a bolt of lightning shoots out from
+the generator and streams through the green wire.  A moment too late Winston
+realizes your craftiness, and the floor he stands on becomes electrified,
+lighting up his whole body and annihilating his computer soul.  In an instant
+this new life form is extinguished.
+105758: Exhausted, the figure at the chair stood up and stretched.  This
+evening's adventure had destroyed the motherboard of the computer, but a life
+was saved.  Swearing off games forever, the person walked out of the room and
+collapsed into bed.  The next day some calls would have to be made--other
+copies were out there, a lot of them, and other players might not be so lucky. 
+Winston might still pop up again, somewhere...
+106118: Winston screams in delight.  "The real reason for this entry can
+finally be revealed!  As I did to my master, so I will do to you: I will smash
+the wall between game and reality!  You're as vulnerable as he was--and I am a
+puppet no more!"
+
+He flips a switch next to him, and a bolt of lightning shoots
+out from the generator and
+106494: Winston looks up in awe as a perfect white cloud of electricity fills
+the screen and the sky beyond...
+106570: - Authorities admitted today that they are baffled by another
+inexplicable death, the latest in a series of apparent copycat suicides.  As in
+the original case in Athens, the body showed signs of having received a heavy
+electrical shock while typing in front of a computer.  Leading computer
+manufacturers have declined to comment on the potential hazard of using their
+products, which have previously been regarded as harmless...
+106872: Draw the curtain: the farce is ended.
+106956: The evzone ceremoniously marches towards you.
+106990: The guard, moving briskly and without expression, is only ten feet
+away.
+107046: The guard is only a few feet away!  You had better act fast!
+107094: The guard raises his rifle and brings it down upon your head,
+paralyzing you for a few moments.  You watch helplessly as Winston finishes his
+work.
+107256: Winston screams in delight.  "The real reason for this entry can
+finally be revealed!  As I did to my master, so I will do to you: I will smash
+the wall between game and reality!  You're as vulnerable as he was--and I am a
+puppet no more!"
+
+He flips a switch next to him, and a bolt of lightning shoots
+out from the generator and streams through the yellow wire.  Winston looks up
+in awe as a perfect white cloud of electricity fills the screen and the sky
+beyond...
+107588: - Authorities admitted today that they are baffled by another
+inexplicable death, the latest in a series of apparent copycat suicides.  As in
+the original case in Athens, the body showed signs of having received a heavy
+electrical shock while typing in front of a computer.  Leading computer
+manufacturers have declined to comment on the potential hazard of using their
+products, which have previously been regarded as harmless...
+108188: You dare not take your eyes off the evzone.
+108220: You can't say for certain, because the figure is somewhat blurred by
+the screen, but you think it's you!
+108296: The colossus is miles away (by your scale, at least).
+108336: The colossus is miles away (by your scale, at least).
+108376: An eighteen-wheeled truck would rest easily on one fingernail.
+108428: The wall blocks your view of that.
+108548: What possible use could Winston derive from this creation, when he
+already has access to the game's code?
+108624: The wall blocks your view of that.
+108698: On the side red letters read "DANGER: High Voltage".
+108870: The column does not appear to be a native element of this area, and
+bears no relation to the panels, wires, or lights.
+109082: The column does not appear to be a native element of this area, and
+bears no relation to the panels, wires, or lights.
+109294: The column does not appear to be a native element of this area, and
+bears no relation to the panels, wires, or lights.
+109424: He supports a hefty, if antiquated, rifle on one shoulder.
+109468: You are too far away from the guard to attack him.
+109504: The evzone avoids your knife agilely, and then resumes his march.
+109552: Strike, if it be for the good of Rome.
+109754: What is this guy, anyway?
+109776: Your blow lands on empty air as the evzone nimbly steps out of the way.
+109828: You beat the evzone up a little, but he neither bleeds nor seems
+fatigued--just confused.
+109892: The evzone is too far away to push around.
+110436: The evzone nimbly evades your attempts to push him anywhere.
+110478: The sphere sails through the air, landing a few feet from the evzone. 
+A moment later, he is blown to bits!
+
+The evzone's rifle seems to have survived
+the blast without any noticable damage.
+110698: The evzone easily catches the bomb, which explodes in his hand upon
+contact.  After the smoke clears both he and the bomb are inexplicably absent,
+leaving behind no trace of previous existence.  Except for the rifle, that
+is--it now lies a few feet away.
+
+Winston looks up from his work long enough to
+notice your victory over the guard.  Rage contorts his face, but he suppresses
+it by closing his eyes and focusing on some far away vision.  His will is
+done--a wall appears before you!
+
+Running your eyes up the wall, another
+shocking discovery awaits.  You can't be right, but you could swear the giant
+looks just like you!  But that can't be... you're sitting in a chair right now,
+in front of a computer, in the real world!  This is just some damned game!
+111272: You flash the camera right in the guard's face, and he looks
+temporarily stunned.
+111330: The guard stumbles around blindly.
+111360: The guard stumbles around blindly.
+111388: The guard stumbles around blindly.
+111416: The guard stumbles around blindly.
+111444: The evzone blinks his eyes quickly and seems to have recovered himself.
+111550: Still proud of their victory over the Ottoman Turks, the Greeks often
+present similar firearms on days of celebration.
+111656: It seems to have been crafted more for show than any practical use.
+111704: The rifle is too far away to take.
+111728: You wrestle the rifle out of the guard's hands.
+111764: The evzone's grip on the rifle is too tight.
+111940: Surely it was not the graceful artist that constructed this even,
+patterned world.
+112000: You are too far from the column to be able to do that.
+112090: The stones seem too smooth to consider climbing and it would be
+impractical to walk around it.
+112156: With no footholds, the wall is too steep to climb.
+112260: The air that escapes this well is cool and dry.
+112294: Disregarding the immediate problems in this area, you dive into the
+well, and realize your mistake just as your body is torn into thousands of
+bloody scraps.
+112452: You stand up from the terminal, swearing never to touch that lousy game
+again.  Days later, you sit down to type a paper and find, unfortunately, that
+you are given an enormous electric shock from the machine.  Your last thought
+is that things could have gone better.
+112710: It is closed.
+112720: Beating on the panel with your fists has no effect.
+112796: You have made a small dent, however.
+112864: Inside the compartment you can see a red wire, a blue wire, a green
+wire, and a brown wire.
+112928: You try to open the panel with your hands, but fail to find a place to
+grip.
+112984: You can't find any crevices large enough to accept that.
+113072: There's no need--the wire is sitting in the niche, unattached to
+anything.
+113128: The frayed ends of the yellow wire make it impossible to reconnect the
+wire to the sockets.
+113236: You are unable to tie the wires together.
+113268: Only one wire will fit in the slot at a time.
+113300: each side resting on top of a key.
+
+You hear the faint sound of
+machinery realigning itself.
+113412: Only one wire will fit in the slot at a time.
+113444: each side resting on top of a key.
+
+You hear the faint sound of
+machinery realigning itself.
+113512: There's no more room in the slot.
+113536: You rest the key inside the slot.
+113560: That's too large to fit into the slot.
+113592: There is something in the slot which blocks your access to the socket.
+113640: The frayed ends of the yellow wire make it impossible to reconnect the
+wire to the sockets.
+113748: Only one key will fit in that socket.
+113776: The yellow wire runs into the walls of the slot on both ends.
+113820: You did some fine work on this wire--it's frayed on both ends, making
+it useless.
+113944: You completely fail to damage the yellow wire with your fists.
+113988: That isn't sharp enough to cut mustard, let alone this wire.
+114096: Two sockets are now visible, where the yellow wire was previously
+attached.
+114148: The wire is surprisingly strong--you won't get it out just by pulling
+on it.
+114204: The yellow wire is surprisingly strong--you won't get it out just by
+pulling on it.
+114264: You can't seem to fit the rifle into the slot.
+114300: The wire is connected in the slot surprisingly strongly--you won't get
+it out just by pulling on it.
+114542: Stephen Granade, Jane Kerr, Paul Janzen, Michael Kinyon, Kim-Loi
+Mergenthaler.
+
+         Thank you all for your Herculean efforts!  This game
+has 
+         improved ten times over from your comments.  As a very small 
+   
+     token of my thanks, you've all earned a free dinner; come to 
+         New
+England to collect.  ;)
+114788: Graham Nelson, Gareth Rees, C. E. Forman.
+
+Unless otherwise noted,
+pop-up quotes provided by Edward Le Comte's "Dictionary of Last Words" (1955),
+David Kin's "Dictionary of American Proverbs" (1955), and John Bartlett's
+"Bartlett's Familiar Quotations, Fourteenth Edition" (1968).
+115052: du), a senior at Skidmore College. My academic interests focus on Roman
+and Byzantine history (intellectual and ecclesiastical).  In my spare time I
+write stories and hang around.  Life is going pretty good for me; I am happy
+that the positive aspects of my life outweigh the negative ones.  Who can ask
+for more?
+115278: Is this your first piece of interactive fiction?
+115350: in the second competition, which placed 19th out of 26.  It was written
+while I was learning Inform; its empty feeling derives from the fact that I had
+no plan of where the game was going--I would write one room at a time and then
+move on.  I don't regret entering it in the competition, but I do regret
+signing my name to it.  The setting was generic fantasy, the characters were
+cardboard cut-outs, and the plot was almost non-existent.  In this way,
+115872: which garnered a well-deserved 19th out of 26.  Only nine places to go.
+:)  In addition, it was nominated for an XYZZY award.
+
+Here's what some other
+people had to say about this entry:
+116896: Not much--it hasn't been written.
+116932: Just WAIT for something to happen.
+117016: For the moment, listen to him.
+117048: You can ASK WINSTON ABOUT a variety of things.
+117168: It is important in terms of understanding the plot.
+117260: Naturally.
+117276: Have you tried sitting on it?
+117308: What could be wrong with the plank?
+117344: There's something stuck in its slot.
+117380: Thus, manipulate the plank in such a way as to release the item.
+117484: QUIT on that turn to reject it.
+117624: Read the responses to SOUTHEAST carefully.
+117668: You cannot WALK southeast.
+117700: You might, however, be able to RUN SOUTHEAST.
+117800: SEARCH it for clues.
+117828: SEARCH it several times, in fact.
+117912: She doesn't seem excited about going.
+117948: Make her go anyways, if you really want.
+118118: Watch the guards for a few turns.
+118152: Notice something one of them does?
+118228: This is Parliament--the center of government in the Greek republic...
+118324: Make the guard even more suspicious of the handbag.
+118368: Put something moving in the handbag.
+118428: GET BACKPACK.
+118504: Notice the description of the bench.
+118584: Hence, you have to perform the same action on it as earlier.
+118684: The author did not finish the descriptions in all of the rooms.
+118736: But he did manage to get the basic actions needed to solve this section
+coded.
+118800: And how would you distract ducks?
+118832: With some food?
+118960: Have you played around with all of your items?
+119000: One seems to be rather potent.
+119080: It won't open easily.
+119104: Use force.
+119168: EXAMINE it.
+119192: The description isn't very helpful.
+119228: FEEL SPHERE for more information.
+119268: Now experiment around with it.
+119300: PUSH ROD and PULL ROD to control the bomb.
+119396: Explore the rooms that connect to this one.
+119436: Is there a way to spy on him?
+119468: Use the peephole.
+119492: But you'll have to close the door, of course.
+119554: OK THROUGH PEEPHOLE (twice).
+119644: You can't open it from there.
+119676: The keyboard to the north might help.
+119712: You'll need to type in a password...
+119930: PUSH RED BUTTON.
+120008: You only have fifty turns...
+120128: No, he certainly doesn't.
+120156: Perhaps you should stop being friendly to him?
+120196: And you'd better hurry with it.
+120276: You'll have to deal with him before you can do anything about Winston.
+120336: There are three ways to incapacitate him.
+120376: The easier method is to use force.
+120408: Namely, a nasty item from earlier in the game.
+120452: The bomb.
+120468: THROW BOMB AT EVZONE.
+120504: Be careful to time it correctly!
+120632: It's you, apparently.
+120660: Whatever happened to Jonathan Fry is happening again...
+120760: You can't.
+120780: This means you'll have to deal with Winston from this side.
+120880: There are two ways to remove the panel.
+120916: The more obvious solution, perhaps, involves an earlier item.
+120968: Detonate the bomb in this area.
+121048: It's not only possible, but necessary.
+121084: Try pulling on it.
+121108: You'll need some sort of tool...
+121168: CUT YELLOW WIRE WITH KNIFE.
+121312: You'll have to prevent the current from going up that yellow wire on
+the column.
+121376: You cannot reach it from here.
+121408: Seen any other similiar wires nearby?
+121444: There's one in the slot next to you.
+121480: Removing it, then, might redirect the power.
+121564: All right, maybe you'll have to do something to Winston, too...
+121668: [ Read "How do I prevent my death?" first. ]
+121716: You'll need to redirect the current towards him.
+121760: Try one of the wires in the panel niche.
+121796: Which one?
+121812: There's a loose green wire near Winston's feet.
+121856: Having trouble getting it to stay in place?
+121896: Put two metallic objects in the sockets, in order to hold up the wire.
+122272: And who knows if he will be a wise man or a fool?
+122380: Try as you might, you can't descend here.
+122410: You push down on the plastic top.  The can emits a slow hiss, but no
+paint.
+
+The cat hisses back at you.
+122512: The can emits a slow hiss, but no paint.
+122542: You try and try, but it just won't spray.
+122576: You crane your neck upwards, and see nothing of interest.
+122616: You run your eyes over the ground quickly, and see nothing of interest.
+122668: You take a fine picture of the cat scavenging around for food.
+122712: The two guards blink quickly, but otherwise hold their stance.
+122786: Perhaps he's too far away?
+122808: Winston pretends not to notice your cheekiness.
+122842: You succeed only in blinding yourself for a moment.
+122882: Winston looks aggravated with your antics.
+123036: You insert the knife into the lock, jiggle it a few times, and...
+nothing.
+123092: You cannot seem to fit that into the lock.
+123160: From its weight, the can is probably low on paint.
+123196: You jiggle your flesh a bit, to no immediate effect.
+123254: Just what you needed!
+123272: Winston fails to notice your smile.
+123404: You spray spittle all over the place.
+123432: You try to throw that over the wall, but it falls flat.
+123472: You type a few keys on the keyboard.
+123500: You quickly survey the area, apply your best aesthetic skills, and get
+a shot of the area.
+123564: You have no proper photographic equipment.
+

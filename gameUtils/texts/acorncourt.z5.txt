@@ -1,0 +1,219 @@
+12238: Nothing to do!
+12273: o. You have won
+12532: Please give one of the answers above.
+12563: It is now pitch dark in here!
+12590: I beg your pardon?
+12608: dxn[You can't "undo" what hasn't been done!]
+12650: ehn[Can't "undo" twice in succession. Sorry!]
+12722: Sorry, that can't be corrected.
+12751: Think nothing of it.
+12772: "Oops" can only correct a single word.
+12806: It is pitch dark, and you can't see a thing.
+12857: As good-looking as ever.
+12881: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+12944: You can hardly repeat that.
+12969: You can't begin with a comma.
+12997: You seem to want to talk to someone, but I can't see whom.
+13072: To talk to someone, try "someone, hello" or some such.
+13140: I didn't understand that sentence.
+13210: I didn't understand that number.
+13239: You can't see any such thing.
+13266: You seem to have said too little!
+13295: You aren't holding that!
+13319: You can't use multiple objects with that verb.
+13359: You can only use multiple objects once on a line.
+13399: I'm not sure what "
+13434: You excepted something not included anyway!
+13470: You can only do that to something animate.
+13505: That's not a verb I recognise.
+13535: That's not something you need to refer to in the course of this game.
+13589: You can't see "
+13632: I didn't understand the way that finished.
+13724: Nothing to do!
+13741: There are none at all available!
+13815: Sorry, you can only have one item here. Which exactly?
+14788: Please answer yes or no.
+14814: Are you sure you want to quit?
+14850: Are you sure you want to restart?
+14882: Failed.
+14902: Restore failed.
+14919: Ok.
+14937: Save failed.
+14952: Ok.
+14970: The game file has verified as intact.
+15002: The game file did not verify as intact, and may be corrupted (unless you
+are playing it with a very primitive interpreter which is unable properly to
+perform the test).
+15132: Transcripting is already on.
+15189: Transcripting is already off.
+15238: Score notification on.
+15259: Score notification off.
+15282: You have visited:
+15310: Objects you have handled:
+15335: None.
+15719: You are carrying nothing.
+15768: Taken.
+15779: You are always self-possessed.
+16161: You're carrying too many things already.
+16339: Dropped.
+16449: Removed.
+16538: You can't put something on top of itself.
+16615: You lack the dexterity.
+16696: Done.
+16895: You can't put something inside itself.
+16986: Done.
+17222: Wrahn seem interested.
+17441: You can only get into something freestanding.
+17678: But you aren't in anything at the moment.
+17792: You'll have to say which compass direction to go in.
+17894: You can't go that way.
+18080: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+18182: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+18270: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+18744: But it's dark.
+18761: You find nothing of interest.
+18797: But it's dark.
+18888: You find nothing of interest.
+20058: . Not bad.
+20076: That was a rhetorical question.
+20103: This dangerous act would achieve little.
+20137: Nothing practical results from your prayer.
+20173: The dreadful truth is, this is not a dream.
+20210: That seems unnecessary.
+20233: Keep your mind on the game.
+20258: What a good idea.
+20277: You smell nothing unexpected.
+20304: You hear nothing unexpected.
+20329: You taste nothing unexpected.
+20364: Keep your hands to yourself!
+20389: You feel nothing unexpected.
+20414: If you think that'll help.
+20440: Digging would achieve nothing here.
+20507: You jump on the spot, fruitlessly.
+20540: You would achieve nothing by this.
+20569: There's nothing suitable to drink here.
+20602: But there's no water here to carry.
+20633: Oh, don't apologise.
+20655: Real adventurers do not use such language.
+20690: Quite.
+20701: Violence isn't the answer to this one.
+20734: There's not enough water to swim in.
+20765: There's nothing sensible to swing here.
+20829: You achieve nothing by this.
+20917: You wave, feeling foolish.
+21067: You are unable to.
+21086: Nothing obvious happens.
+21109: That would be less than courteous.
+21147: Is that the best you can think of?
+21176: That's not a direction.
+21199: Not that way you can't.
+21231: Keep your hands to yourself.
+21256: You achieve nothing by this.
+21290: Futile.
+21302: You lack the nerve when it comes to the crucial moment.
+21354: You talk to yourself a while.
+21381: This provokes no reaction.
+21409: There is no reply.
+21428: Nothing is on sale.
+21447: Your singing is abominable.
+21473: I don't think much is to be achieved by that.
+21510: Time passes.
+21525: You aren't feeling especially drowsy.
+44351: You do your best to push the large machine about until it appears to be
+oriented correctly.
+44723: You are far to large to get inside the small pail!
+44791: Just look at it!
+44810: You can't close a tin bucket, silly!
+44863: The small pool of water flows out of the bucket and is absorbed by the
+thirsty, dry ground below.
+45001: You can't tie anything to it until it's raised.
+45047: You tie the bucket onto the end of the rope.
+45080: The bucket is already tied to the rope and crank assembly!
+45134: The ball bounces off the bucket causing a hollow gong sound.
+45216: The ball knocks the bucket over spilling it's contents.
+45365: The small pool of water flows out of the bucket and is absorbed by the
+thirsty, dry ground below.
+45459: Your attempts at climbing the tall, straight tree are laughable.  The
+acorns are far above your head and you are unable to reach them.
+45566: The small acorn is wedged into one of the bullet holes in the rusty tin
+bucket.
+45621: It is a shiny, new, green acorn with one or two scratch marks.
+45907: The ball sails through the now glassless window and disappears.
+45965: The window high above your head frames a large pane of soot blackened
+glass with red and yellow concentric circles painted on it.
+46054: The window is nothing more than a large dark hole in the stone of the
+building with a few jagged edges of glass shards around the frame.
+46263: A shower of shiny green acorns accompanies the ball down.
+46304: The ball bounces about the branches of the tree before falling back to
+the ground bellow.
+46500: The acorns are young and none of them have yet fallen from the tree.
+46549: It looks as if some of the acorns have been knocked free.
+47248: The ball bounces uselessly off the grey stone and lands on the ground.
+47311: The ball hits the wall surrounding the well and is bounced back into the
+court yard.
+47384: The ball wedges into the space between two bars of the gate and hangs
+there momentarily before popping out and falling to the ground below.
+47493: The ball bounces off the nest and back into the court yard.  A startled
+squirrel dashes away from the collection of well woven twigs and leaves only to
+tentatively return a minute or two later.
+47660: The ball hurtles into the old tennis court net.  Amazingly the net
+holds, though several strands do come loose and flutter to the ground, and the
+ball springs back at you, bounces off your chest, and falls to the ground.
+47822: The ball lands uselessly on the ground.
+47856: The ball machine's spring mechanism twangs noisily, and uselessly given
+nothing to throw, then pulls slowly back into place in preparation for another
+launch.
+47975: The machine is old and incrusted with dirt, but it looks as if it might
+still work.
+48042: Why would you want to get inside a ball machine even if you could fit?
+48174: There's no way to close the machine.
+48207: The old machine is too bulky to fit!
+48306: The launching spring begins to coil back into place.
+48353: The machine's noisy symphony winds to a halt.
+48588: You can't tie anything to it until it's raised.
+48632: You tie the bucket onto the end of the rope.
+48665: The bucket is already tied to the rope and crank assembly!
+48972: Just before you are able to reach down and grasp the pail's handle you
+think you catch sight of a small object drain out through the holes with the
+water!
+49374: GREAT.  THEY'VE DONE IT TO ME AGAIN.  You think to yourself. THEY'VE
+STUCK ME IN ANOTHER ONE OF THEIR SILLY SCENARIOS.  You glance about with a look
+of irritation on your face.  WELL, I'LL SHOW THEM.  I'LL MAKE SHORT WORK OF
+THEIR STUPID LITTLE PUZZLE...
+52036: An Interactive Text Adventure
+Copyright (c) 1997 by Todd S. Murchison.
+52252: Score:
+52260: Moves:
+52268: Time:
+52276: You can't go that way.
+52376: A good sized courtyard with an air of late British colonialism about it.
+ To the west, in the direction the sun is setting, is a high, grey stone wall
+with an ornate iron gate set into the rock.  The walls of a large stone mansion
+rise several stories into the chilly evening air to the east, north, and south.
+ In the east wall, two or three stories up, is a large window.  On top of the
+west wall, above and to the right of the gate, is a large squirrels nest made
+of sticks, twigs, and leaves.
+
+A carpeting of old brown leaves from past
+winters rustle about on the ground in the breeze and drift listlessly across a
+cracked, stained, pale green tennis court with a rotting net.  In one corner of
+the court yard an impressively large oak tree casts long shadows in the dimming
+light.  The acorns nestled among the tree's massive branches and vividly
+healthy leaves are new and green.  Near the tree is a quaint looking well of
+crumbling stone.
+53032: A rusty tin pail rests in the grass near the ball machine.
+53104: It's a rather disgusting tennis ball covered in mold and smelling of
+mildew.
+53232: A very small wooden key that seems to have been carved by hand, perhaps
+by a previous prisoner.
+53394: Upon closer inspection you find a small key hole in the border of the
+iron barrier.
+53452: The old net looks as if it would fall apart if touched.
+53492: It's just an old, green tennis court with discolored, cracked paving.
+53544: A typical squirrels nest which looks more like a large wad of random
+woodland debris than the carefully woven, sturdy structure that it is.
+

@@ -1,0 +1,1308 @@
+18184: Score:
+18198: Moves:
+18236: Time:
+18814: You can hardly repeat that.
+19077: You can't begin with a comma.
+20170: You can't see any such thing.
+20209: You aren't holding that!
+20302: That's not a verb I recognise.
+20339: You can't see "
+20453: Nothing to do!
+29498: At the moment, "it"
+29568: and "me" means
+30754: You wish you could.
+39067: Nothing to do!
+39082: o. You have died
+39180: It is now pitch dark in here!
+39207: I beg your pardon?
+39271: Sorry, that can't be corrected.
+39300: Think nothing of it.
+39366: Please answer yes or no.
+39386: Are you sure you want to quit?
+39422: Failed.
+39437: Restore failed.
+39450: Ok.
+39463: Save failed.
+39474: Ok.
+39506: Transcripting is already on.
+39555: Transcripting is already off.
+39578: End of transcript.
+39599: Score notification on.
+39620: Score notification off.
+39643: You have visited:
+39668: Objects you have handled:
+39689: None.
+39906: You are carrying nothing.
+39948: Taken.
+39959: You are always self-possessed.
+40077: You already have that.
+40162: That isn't available.
+40203: That's hardly portable.
+40226: That's fixed in place.
+40298: Already on the floor.
+40319: You haven't got that.
+40361: Dropped.
+40379: It is unfortunately closed.
+40404: But it isn't there now.
+40423: Removed.
+40523: You lack the dexterity.
+40600: Done.
+40650: That can't contain things.
+40675: Alas, it is closed.
+40768: Done.
+40809: That isn't in your possession.
+40832: First pick that up.
+41370: You can't go that way.
+41786: But it's dark.
+41799: You find nothing of interest.
+41831: But it's dark.
+41903: You find nothing of interest.
+41995: It's unlocked at the moment.
+42062: It's locked at the moment.
+42087: First you'll have to close it.
+42154: That's already on.
+42206: That's already off.
+42260: It seems to be locked.
+42281: It's already open.
+42386: It's already closed.
+42429: You're not wearing that.
+42476: You can't wear that!
+42497: You're not holding that!
+42520: You're already wearing that!
+42569: That's plainly inedible.
+42602: Not bad.
+42617: That was a rhetorical question.
+42671: That seems unnecessary.
+42694: Keep your mind on the game.
+42719: What a good idea.
+42738: You smell nothing unexpected.
+42765: You hear nothing unexpected.
+42790: You taste nothing unexpected.
+42822: Keep your hands to yourself!
+42847: If you think that'll help.
+42868: You feel nothing unexpected.
+42949: Oh, don't apologise.
+42979: Quite.
+43017: You can't usefully blow that.
+43044: You achieve nothing by this.
+43069: No, you can't set that.
+43101: You wave, feeling foolish.
+43131: But you aren't holding that.
+43195: It is fixed in place.
+43216: You are unable to.
+43240: Nothing obvious happens.
+43277: That's not a direction.
+43296: Not that way you can't.
+43324: Keep your hands to yourself.
+43345: You achieve nothing by this.
+43374: Futile.
+43395: You talk to yourself a while.
+43418: This provokes no reaction.
+43445: There is no reply.
+43464: Nothing is on sale.
+43483: Your singing is abominable.
+43517: Time passes.
+44266: Nothing but dust.
+44552: . You can also see
+44631: The shelves are empty.
+44920: You can't get any good foothold.
+44986: The key is still rusty.
+45026: Futile!
+45111: The door in the wall is closed.
+45222: The wall is too high to climb.
+45372: The cat is clawing at the wall.
+46024: Let the dead rest in peace.
+46086: Let the dead rest in peace.
+46206: He is too far away.
+46264: You are safer in the crowd.
+46661: Strong ropes prevent this.
+46815: You are clean enough already.
+46902: You have already done that.
+46945: You wish you could.
+47121: He looks too frail to be moved.
+47182: The man is still unconscious.
+47239: The man stirs in his sleep.
+47749: Charles ignores your comment.
+49480: Charles ignores your comment.
+49991: You can't see any such thing.
+50089: That would be a neat trick.
+50286: The odor is quite unpleasant.
+50371: A faint voice calls your name.
+50458: That would be suicidal.
+51109: . On the stove
+51290: . It contains
+51361: . On the rack
+51505: That would be very dangerous.
+51539: The gas stove is switched off.
+51739: The machine is already on.
+51777: The machine is already off.
+52119: Not with a monster closing in!
+52875: No more hints.
+52893: Congratulations!
+53086: Aaaarrrrgggghhhh!
+53102: Do it yourself.
+53122: That would be a neat trick.
+53254: There is no response.
+53275: Keep your hands to yourself!
+55720: An Interactive Homage to H.P. Lovecraft
+(c) 2002 Johan Berntsson
+
+Please
+type "help" for instructions and license information.
+55940: You can't go that way.
+56016: It is pitch dark, and you can't see a thing.
+56048: As good-looking as ever.
+56078: To repeat a command like "frog, jump", just say "again", not "frog,
+again".
+56140: You seem to want to talk to someone, but I can't see whom.
+56184: To talk to someone, try "someone, hello" or some such.
+56226: I didn't understand that sentence.
+56286: I didn't understand that number.
+56314: You seem to have said too little!
+56342: You can't use multiple objects with that verb.
+56378: You can only use multiple objects once on a line.
+56416: You excepted something not included anyway!
+56448: You can only do that to something animate.
+56480: That's not something you need to refer to in the course of this game.
+56530: I didn't understand the way that finished.
+56564: There are none at all available!
+56588: Sorry, you can only have one item here.  Which one exactly?
+56996: Please give one of the answers above.
+57024: [You can't "undo" what hasn't been done!]
+57060: [Can't "undo" twice in succession. Sorry!]
+57100: "Oops" can only correct a single word.
+57128: Are you sure you want to restart?
+57152: The game file has verified as intact.
+57180: The game file did not verify properly, and may be corrupted (or you may
+be running it on a very primitive interpreter which is unable properly to
+perform the test).
+57296: You're carrying too many things already.
+57364: You can't put something on top of itself.
+57396: You need to be holding it before you can put it into something else.
+57444: You'll need to take it off first.
+57468: You can't put something inside itself.
+57524: That's not something you can enter.
+57552: You can only get into something on the floor.
+57584: But you aren't in anything at the moment.
+57616: You'll have to say which compass direction to go in.
+57656: is now in its normal "brief" printing mode, which gives long
+descriptions of places never before visited and short descriptions otherwise.
+57752: is now in its "verbose" mode, which always gives long descriptions of
+locations (even if you've been there before).
+57836: is now in its "superbrief" mode, which always gives short descriptions
+of locations (even if you haven't been there before).
+57960: You can't see inside, since it is closed.
+57992: That doesn't seem to be something you can unlock.
+58028: That doesn't seem to fit the lock.
+58056: That doesn't seem to be something you can lock.
+58092: That doesn't seem to fit the lock.
+58120: That's not something you can switch.
+58148: That's not something you can switch.
+58176: That's not something you can open.
+58204: That's not something you can close.
+58232: This dangerous act would achieve little.
+58260: Nothing practical results from your prayer.
+58292: The dreadful truth is, this is not a dream.
+58324: Digging would achieve nothing here.
+58352: Cutting that up would achieve little.
+58380: You jump on the spot, fruitlessly.
+58408: You would achieve nothing by this.
+58432: There's nothing suitable to drink here.
+58460: But there's no water here to carry.
+58488: Real adventurers do not use such language.
+58520: Violence isn't the answer to this one.
+58548: There's not enough water to swim in.
+58576: There's nothing sensible to swing here.
+58604: No, you can't set that to anything.
+58632: That would be less than courteous.
+58656: Is that the best you can think of?
+58680: You lack the nerve when it comes to the crucial moment.
+58720: I don't think much is to be achieved by that.
+58752: You aren't feeling especially drowsy.
+58808: You plunge through limitless abysses of inexplicably coloured twilight
+and distorted sound, whose material and gravitational properties are beyond
+reason and understanding. The abysses are by no means vacant, being crowded
+with hazy objects, much like shadows, that are moving around in a haphazard
+manner.
+59020: You move, or rather you come to a new place. The concept of body and
+movement seems different here.
+59092: This new location is not much different from the one you came from. The
+shadows are still moving around at random through the abyss, reverberating with
+strange sounds and coloured light.
+59224: All around you lighting and coloured clouds appear and disappear
+randomly.
+59280: They are sometimes stationary, sometimes moving around. Their movement
+is not linear and they seem to suddenly dissolve from one place, only to appear
+from nothing in a new place, apparently at random. Although they sometimes are
+close to you they always appear hazy.
+59464: None of the shapes seem close enough.
+59492: Judging from the masonry the tower must be centuries old. It towers high
+above the nightmarish city below.
+59568: The city is huge, but appears deserted.
+59596: The sky is dotted with thousand of stars.
+59628: The city below you is ancient. Dark domes and steep roofs form a silent
+silhouette against the clear star-filled sky. You are standing on the roof of a
+tower, built of crumbling masonry, which seems to be centuries old. An iron
+railing of strange design circles the perimeter of the roof and a winding
+staircase leads down.
+59852: Terrified you may be, but not yet ready to commit suicide.
+59894: The winding staircase leads to a spacious chamber inside the tower.
+59992: The most spectacular thing about the railing is the small statues
+decorating it. The artist must have used his most morbid fantasies for
+inspiration when carving these monsters, yet they are realistic to minute
+detail.
+60144: The railing won't budge, but one of the statues breaks of in your hands.
+60196: In the stone the artist has carved a hideous monster. It is vaguely
+human-shaped, but the arms are too long, the skin is covered by scales, and the
+fangs are definitely out of place.
+60324: Dust and spider webs cover all surfaces in this room in a soft silver
+gleam, blurring the outlines of the furnishings into fantastic, dreamy forms.
+The walls are lined with bookshelves and a lone desk lies at one corner. Close
+to a staircase, which leads further up and down the tower, is a massive table
+made of black stone. A doorway leads to a smaller room to the south.
+60584: Just read the writing on the wall, if you want to pray.
+60624: You can enter a smaller room to the south, or use the stairs.
+60668: A stream of incomprehensible thoughts floods your brain, as if an alien
+presence was occupying your mind.  You are unsure whether to attribute it to
+fatigue or to insanity.
+60788: You find yourself examining your surroundings as if you were seeing them
+for the first time.
+60852: You attempt to concentrate on the matter at hand, debating with yourself
+how to proceed - but there is something eerie about the way you can hear your
+thoughts aloud - and the tone of one of the voices is peculiarly alien.
+61006: You must be on the brink of insanity, because you suddenly hear a voice
+in your head. It asks - it demands - it questions - incomprehensible but for
+one word: 'Mukhtar'
+61192: You browse through the library but can't find any books written in a
+language you can read, so you leave them alone.
+61272: The base of the stone table is covered with carvings, each showing
+different kinds of creatures, or maybe Gods, standing on stone tables. Humans,
+who seem to be reciting prayers or spells, are standing in front of the
+creatures.
+61432: You spot something behind the table. Pushing the cobwebs aside, you
+reveal some writing, crudely painted on the stone wall with black paint.
+61532: Some writing is written on the wall above the table.
+61570: It seems to be a poem, or chant. The language is unfamiliar and
+complicated, and you repeat the syllables with a low voice: Y'ai'ng'ngah
+h'ee-l'geb f'ai throdog.
+
+Even as you speak you sense something approaching.
+The light in the room darkens, and a mysterious green glow is emitted from some
+dust on the stone table. Its brightness intensifies to an unbearable level and
+you involuntarily step away. A shape appears on the previously empty table. As
+the flash fades away you recognise the shape as that of a man, lying still on
+the table.
+61952: Once again you read the syllables of the chant aloud... Y'ai'ng'ngah
+h'ee-l'geb f'ai throdog.
+
+The light in the room darkens, and a mysterious glow
+is emitted from the stone table. A bright spot of light engulfs
+62144: . Randomly the light covers the items on the table, faster and faster
+until there is an explosion and black smoke fills the room. As the smoke
+dissolves you see that the items on the table have been thrown down on the
+floor.
+62300: Once again you read the syllables of the chant aloud... Y'ai'ng'ngah
+h'ee-l'geb f'ai throdog.
+
+The green sand emits a faint glow which quickly
+assumes an unbearable brightness. When the light finally dissipates, the vial
+is gone. Nothing seems to have changed, yet you detect something alien in your
+mode of thinking.
+62528: Once again you read the syllables of the chant aloud... Y'ai'ng'ngah
+h'ee-l'geb f'ai throdog.
+
+The green sand emits a faint glow which quickly
+assumes an unbearable brightness. When the light finally dissipates, the vial
+is gone. But in its place is a creature, much like the ones you could see on
+the railing. This one is alive though, and the sights of its claws and fangs
+fill you with fear. The monster makes a quick attack on your throat and you
+choke with lungs filled with blood.
+62872: The writing reads: Y'ai'ng'ngah h'ee-l'geb f'ai throdog.
+62924: The stains and scratches are old and dusty.
+62960: The dust is everywhere.
+62980: It would take days to clean this place.
+63008: The desk is well used and the surface has many scratches and stains of
+ink.
+63060: The yellow paper doesn't appear to contain any prayer.
+63100: On the paper is a coded message and it is impossible to say even in
+which language the text is written.
+63172: You still can't read the message, but the images Mukhtar used to explain
+its meaning are easily recalled.
+63248: This is a minor storage chamber, connected to the study through a
+doorway in the northern wall. There are some shelves, mostly vacant, here.
+63348: You can only go north from here.
+63376: The vials do not have any distinguishing features, apart from their
+labels, which are written in an incomprehensible arabesque alphabet. They all
+contain a peculiar green powder.
+63500: No matter how hard you try, you can't break the glass.
+63540: There doesn't seem any way to open the vial and how the green powder
+once was inserted is an enigma.
+63612: When you compare the writing on the label with the name written in the
+Caelestae Horriblis, you discover a vial labelled Mukhtar!
+63704: Randomly you pick one of the vials from the shelf.
+63852: You put the vial back on the shelf.
+63880: Apart from it being labelled Mukhtar, it looks identical to the other
+vials and contains some green power.
+63956: Just as you descend the last steps of the staircase you notice that
+something is wedged between the door and the door frame!
+64040: Descending the staircase, you once again spot the object on top of the
+door.
+64096: You can't jump high enough to reach the object resting on top of the
+door.
+64148: This damp hall occupies the whole ground level of the tower. A staircase
+provides access to the higher levels, while a massive oak door, set in the
+southern wall, leads out.
+64268: The winding staircase leads to a spacious chamber inside the tower.
+64320: You can use the stairs, or exit through the door.
+64356: The steps are uncomfortably high, and seem to have been designed for
+someone much taller than you.
+64428: The object you could spot from the stairs is not visible from here. The
+door is taller than you and the object is resting on top of it.
+64528: The door is big and made of crude oak logs, which have darkened to
+almost black with time and wear. The lock and the iron handle look handcrafted
+and antique
+64636: .
+
+The object you could spot from the stairs is not visible from here.
+The door is taller than you and the object is resting on top of it
+64732: The door to the tower stands open.
+64756: You press the handle and try to open the door, but find that it won't
+budge.
+64812: The key is big, and quite rusty.
+64836: This area in front of an old tower offers a nightmarish view over a
+monstrous tangle of dark stone buildings. Most buildings are elliptical, built
+of irregular-sized basalt blocks of irregular size. None of them seem to have
+any doors or windows. There is a square further down to the southwest. The sole
+passage to the tower is through the door to the north.
+65084: You can enter the tower to the north, or walk southwest towards the city
+square.
+65140: The elliptical buildings appear to be of a totally unique nature and
+show signs of prodigious age and dilapidation. They are built of square-cut
+basalt masonry, and tapered slightly toward the tops. Nowhere can the least
+trace of windows or other apertures be found.
+65324: The buildings have no visible openings.
+65352: There is a large public square here, surrounded by the same strange
+elliptical buildings on all sides except to the east, where a high wall built
+of massive sandstone blocks stands. There is a road to the west leading deeper
+into the city. Against the sky you see a high tower to the northeast. The only
+trace of life comes from the south where a road leads to what appears to be a
+temple.
+65620: It sounds like someone is scratching on the other side of the wall.
+65668: The sound stops, as if someone was listening. Moments later, the
+scratching continues.
+65730: Entering the shadowy passage, you find yourself in a short corridor
+ending at drapery. Pushing it aside gives you entrance to a cavernous hall.
+65832: Fearing what you may find, you slowly and deliberately make your way
+back to the hall.
+65896: The wall is much too high to climb.
+65924: You have no wings.
+65940: The ground is solid.
+65956: The buildings have no entrances.
+65980: The wall is running in north-south direction and is more than twelve
+feet tall. The cat is obviously interested in a part of it, but there is
+nothing that makes this section stand out. But wait... isn't there a faint
+outline of a door, almost perfectly cut into the wall?
+66172: The wall is running in north-south direction. It is constructed of huge
+sandstone blocks and must be more than twelve feet high
+66260: . You can spot the outline of a door, cleverly crafted to mimic the
+surrounding stonework
+66322: A cat, probably the same you saw on the overhead bridge before, emerges
+from the shadows.
+
+The cat suddenly perks his ears and looks towards the wall.
+For a moment he only stands listening. Then his tail starts waving and he runs
+towards the wall.
+
+Alerted by the cat, you hear a faint sound, as if someone
+was scratching on the other side of the wall.
+66572: The cat is visibly agitated, and paces back and forth on the spot where
+the sound can be heard.
+66640: The agitated cat hisses threatingly.
+66666: The cat is creeping along a certain section of the wall.
+66708: The cat is trying to insert a paw between the sandstone blocks of the
+wall.
+66762: The cat looks pleadingly at you.
+66788: The cat runs back and forth in front of a section of the wall, sometimes
+gazing at you as begging you to help.
+66866: The cat scratches its paws against the sandstone blocks of the wall.
+66916: The door is cut out of sandstone, and crafted with great care to be
+almost impossible to make out from the rest of the wall, unless you know where
+to look.
+67022: You push the secret door open, revealing a dark passage leading east
+through the sandstone wall.
+
+The cat darts forward into the passage and
+disappears in the shadows.
+67140: An endless array of indistinguishably drab stone buildings lies at
+either side of the road. Though humbled by the sheer magnitude of the other
+buildings, a distinctive temple-like structure catches your eye at the south
+end of the road. Flickering light emanates from its high and narrow windows,
+casting uncertain shadows on the murals that adorn its wide doorway.
+67390: Ignoring Charles' protests you walk towards the temple.
+67564: You have no wings.
+67580: The ground is solid.
+67596: The buildings have no entrances.
+67620: Wandering through the deserted city you stumble upon something
+unexpected. A large crack yawns darkly into the side of one of the ponderous
+elliptical buildings to the north. You wonder what monumental forces could have
+effected this rupture. The road extends to the east and west.
+67814: Squeezing through the crack, you manage to enter the building.
+67864: You have no wings.
+67880: The ground is solid.
+67896: The buildings have no entrances.
+67920: The crack is just wide enough to squeeze through.
+67956: The road to the public square, way back east, forks into a north-south
+road here. To the west looms yet another of the stone buildings.
+68052: You have no wings.
+68068: The ground is solid.
+68084: The buildings have no entrances.
+68108: The ceaseless blandness of the surrounding architecture has a dimly
+sinister suggestiveness and you can't but help but wonder who the primal
+entities which rear, or reared, here are. The road leads north, deeper into the
+city.
+68264: Further exploration of the city yields nothing new and you soon return
+to the same spot.
+68324: You have no wings.
+68340: The ground is solid.
+68356: The buildings have no entrances.
+68380: This part of the town is radically different from the parts closer to
+the tower. The roads are narrower and the paving is irregular, sometimes stone
+slabs and sometimes cobblestones. The buildings are tall but less well kept
+than before. There are still no windows or doors, but there are a few overhead
+bridges from house to house. The road ends here and the only way out is to the
+north.
+68648: The ground is solid.
+68664: You have no wings.
+68680: The buildings have no entrances.
+68704: The paving consists of stone slabs and cobblestones. It is in bad
+repair.
+68756: A stone slab in the paving has been moved, revealing a dark entrance
+leading down.
+68816: The paving consists of stone slabs and cobblestones. One of the stone
+slabs seems to cover some cavity underground.
+68896: One of the stone slabs seems out of place. Kicking it emits a hollow
+sound, much like there was some cavity below it.
+68980: There is no need to cover the entrance again.
+69012: You push the stone slab aside, revealing a entrance to a staircase,
+leading down into darkness.
+69080: There is no need to cover the entrance again.
+69116: The bridges provide access between buildings on opposite sides of the
+street.
+69172: You wouldn't like to damage such a rare book.
+69204: Surely you can find something more suitable to throw at the cat?
+69248: The cat jumps aside to avoid the projectile, but moves a bit too far. It
+falls down, but like most cats it escapes unhurt. The cat runs off to the
+north.
+69392: and hits one of the stone slabs. There is a hollow sound, much like
+there was some cavity below the slab.
+69468: Even the nearest overhead bridge is way out of reach.
+69506: A cat is sitting on one of the overhead bridges.
+69544: The cat is almost completely white. Only a spot on its tail is black. It
+is sitting on an overhead bridge and looks frightened.
+69636: The cat is sitting on an overhead bridge, way out of reach.
+69680: The cat looks down at you.
+69720: The cat looks scared.
+69736: The carvings shows picturesque patterns and figures, but you have a
+feeling that they are not meant for decoration. Instead, they make you think of
+illustrations in works of physics and mathematics.
+69872: The building is of great size and decorated with extreme elaborateness,
+giving you a glimpse the nameless past. The walls are covered with mural
+carvings, whose interpretation escapes you. The smoothness of the sheer stone
+walls is interrupted by a crack that gapes into the southern wall. A doorway to
+the north leads deeper inside the building.
+70112: You can only go north or south.
+70136: This is an enormous vaulted chamber whose lofty stone groining rise
+indefinitely into the murky shadows overhead. The exposed stonework features
+mural carvings in curvilinear designs. Vast shelves of dark wood line the
+walls, but they are all empty. Although deserted, the place has the air and the
+feel of a big library. The main exit is to the south.
+70380: The exit is to the south.
+70404: The skeleton is dressed in the torn remains of a tweed jacket and cotton
+trousers.
+70460: A skeleton lies in a remote corner of the library.
+70552: . Its bony hand is clutching a note
+71044: Hidden in the cryptic language of the Caelestae Horriblis were the
+ingredients for this powder, and I gathered them in my hideout. I have searched
+for the exact shape of the mystic symbol, but this knowledge has been denied
+me. My time is running out, but I know that people from Earth are sometimes
+thrown into this dimension, and my last wish is that someone can continue where
+I failed and prepare the sacrifice.
+71332: The note doesn't contain any prayer.
+71380: On the floor close to the skeleton lies a leather-bound book.
+71444: A forbidden book of ancient lore, unfortunately written in Latin, which
+you can't read. One thing of interest is that the title, Caelestae Horriblis,
+and the author's name, Abtin Mukhtar, have been written both in Arabic and
+Latin letters.
+71616: You read some sentences aloud, but nothing happens.
+71652: The book is written in Latin, a language you are not familiar with.
+71700: The temple is an impressive and forbidding structure, adorned by
+mysterious mural paintings. Many people have gathered inside, and muffled
+sounds of praying can be heard even from the outside.
+71832: Through the opaque windows you can't see any details, but there are many
+people inside.
+71896: From inside the temple sounds of chants and prayers are heard, but the
+are too muffled to make out clearly.
+71972: He looks very scared.
+71988: You are too far away to see them clearly.
+72020: The murals decorating the main entrance to the temple are hard to
+interpret. Some humans are engaged in what appears to be a ritual. One is
+bringing a tray with something on it to a table and the others are standing a
+few paces behind, holding long knifes.
+72196: The huge statue on the stage is indeed grotesque and frightening. It is
+vaguely human-shaped, but the arms are too long, the skin is covered by scales,
+and the fangs are definitely out of place.
+72332: The stage is almost hidden from view by the many spectators.
+72376: A huge statue is standing at the back of the stage, towering over a
+stone table covered in blood. A few people are moving around, or standing in
+the shadows.
+72488: The table is made by a block of rough black stone. It is covered with
+blood.
+72544: The blood is all over the stage.
+72568: Even though the light is scarce, it is obvious that this people are
+unique. Their frog-like appearance is hard to ignore.
+72656: All around you is sound of chanting and prayers.
+72692: There is a strong smell of incense and blood in the air.
+72732: You hit him, but the man is a giant, and he hardly noticies your attack.
+72784: The crowd seems hostile, so it would be better not to draw attention to
+yourself.
+72840: The hooded figure on the stage is carrying a nasty-looking dagger.
+72888: The dagger is made of a shard of black stone. Its tip is covered with
+blood.
+72944: The temple is an immense building, whose vaulted ceiling towers high
+above. It is scantily lit, but a stage is set in its southern part. On the
+stage there is a huge statue, whose appearance is frightening even from this
+distance. In front of the statue is a roughly cube-shaped black stone table.
+There are lots of people in front of the stage, and the air is filled with
+sounds of chants and prayer. The main exit is to the north.
+73244: You try to join the chanting, but the words are almost impossible to
+pronounce.
+73300: The audience is now facing the hideous statue, and everyone is quitely
+praying.
+73356: After finishing their prayers, the people once again crowd in front of
+the stage.
+73414: There is some commotion as a man is led up to the stage by a few
+persons, who force him onto the stone table and ties him down.
+73504: A hooded, priestly figure carrying a dagger approaches the victim on the
+table. Without further ceremony he stabs the man in the chest. People around
+you start chanting terrible hymns in a foreign language.
+
+You notice suspicious
+glances from people close to you
+73688: . Charles whispers that it is better to leave before the crowd get too
+suspicious, and leaves the temple
+73760: The priest pulls out something, presumably the heart, from the victim.
+He starts chanting in haunting, triumphant tones that reverberate through the
+hall. The audience below joins him in a sinister ululation.
+
+A few paces away
+people start whispering.
+73938: The priest puts the heart in a bowl in front of the huge statue. The
+body is carried away by some assistants.
+
+A man starts moving towards you.
+74042: The man grabs you. One look is enough to convince him that you are an
+outsider. You are roughly pushed up on the stage, where assistants push you
+down on the stone table and tie you down.
+74176: You manage to slip out unnoticed.
+74204: Even here, people are eyeing you suspiciously. Pushing your way into the
+crowd near the stage would definitely draw unwelcome attention to you.
+74304: Levitation is not an option here.
+74328: Huge flagstones block that exit.
+74352: You push your way through the crowd a few paces.
+74388: From the stage you can see the northern part of the temple and the many
+spectators who observe all that takes place here. Dominating the stage is a
+huge statue, made of black stone. In front of the statue is a table. There is a
+smell of death in the air and the table, the statue, and the floor are covered
+in fresh blood.
+74610: A hooded figure, wielding a long, blood-encrusted dagger emerges from
+the shadows. He walks up towards you, raising the dagger over his head.
+74714: The hooded figure jerks the dagger down. As in slow motion you see the
+blade ripping through your clothes and into your flesh. At first you feel
+nothing, but simply see blood come running from the wound. Then comes a pain
+that fills every fibre of your body.
+74896: The priest reaches down the wound and picks up your heart. He holds it
+up to the crowd, and even as your tormented body wrangles in pain you can't
+help but wondering how you can still be conscious. As the priest turns to put
+your heart in the sacrifice bowl your last strength expires and you sink into
+merciful oblivion.
+75116: Before you fall unconscious you hear terrified shouting filling the dome
+as a bright light streaks through the air and the ground starts shaking. There
+is a presence of a mad force, of something beyond human logic and
+understanding. The tremors intensify and the statue on the stage is destroyed
+in a cataclysmic explosion. Mindless panic seizes the congregation, whose
+members shout, bellow and howl as the run wildly towards the exit. A deep
+rumbling sound covers the din of the inhuman shrieking, as the ceiling
+collapses on the  frenzied mob and you mercifully sense no more.
+
+You open your
+eyes once again. A woman is standing close to you. Your reactions seem quite
+slow, because it takes a few moments before you recognise her as your sister.
+She is wearing her nightdress and looks alarmed. It seems that you have finally
+waken up from your nightmare but something is wrong. As you look down you see
+what is making your sister upset. The white sheets are red with blood. At the
+sight of this your strength gives up and you fall unconscious once again.
+
+You
+wake up in a hospital. Your mother tells you of how your sister woke up in the
+middle of the night, hearing a horrible scream. She rushed to your room and
+found you in your bed, bleeding terribly from a stab wound in your stomach. The
+ambulance arrived at the last moment. The police could only make wild
+conjectures about a recent asylum escapee, but had still to find who and by
+what means he had gained entry.
+76136: Your nightmares never reappeared after this and you never told anyone.
+Maybe all was just a dream, and God knows the world would feel a better place
+to live if so, but it is hard to ignore what your mother later found under your
+bed. It was a statue whose can't might not easily be forgotten. It was exactly
+like the statue you found on the railing on top of the dark tower, in the city
+of your nightmares.
+76416: You nightmare never reappeared after this and you never told anyone.
+Some things are better left unsaid, and who knows of what stuff dreams really
+are made?
+76524: === THE END ===
+
+Congratulations, you have successfully read this story.
+Charles is still trapped in the nightmare, so you can't get a full score, but I
+hope you enjoyed the game anyhow. There is a way to save him as well, so give
+it another try.
+76716: === THE END ===
+
+Congratulations, you have successfully read this story.
+I hope you enjoyed it.
+76808: You are securely tied to the table by strong ropes. There seems to be no
+escape.
+76864: You try to feel your body, but get only the strangest feeling. Something
+is there, but no reaction, no nerve pulse, feels normal. As you look down on
+your body you see only a haze, like those of the shadows around you.
+77020: You have a curious symbol painted on your chest.
+77056: You are casually dressed, as usual.
+77084: In your current state of fear your mind and body refuse to cooperate.
+77132: A shout of surprise stops you in your tracks. Charles is standing in a
+remote corner, looking down at something. You move closer, and find a skeleton
+lying partly hidden in a niche.
+77260: You hear a shrieking, roaring confusion of sounds, past all analysis as
+to pitch, timbre or rhythm, but seemingly synchronous with the movement of the
+shadows.
+77372: "Suicide is painless" right? I think not.
+77404: You still can't wake up. Maybe this isn't a dream after all.
+77448: The black powder has etched itself deep into you skin, and you can't
+remove the symbol from your chest.
+77520: You don't know what a suitable symbol looks like.
+77556: There is no suitable paint around.
+77580: Like the man in the vision, you use the black powder to paint a symbol
+on your chest.
+77640: Suddenly there is a new element in your dream, one you have never
+experienced before. A sense of blinding fear threatens to overwhelm you as a
+shape appears close to you. There is nothing visually different about it, but
+you can't bear looking at it for very long.
+77826: The shadow disappears somewhere. A slave under someone else's will, you
+find yourself moving towards a place you have never seen before.
+77928: Out of nowhere another shadow materialises in front of you.
+77972: A cascade of red colour explodes below you.
+78004: One of the shadows seems to absorb another shadow.
+78040: Two of the shadows suddenly disappear.
+78068: A sound like wailing is heard for a few seconds, then it stops.
+78116: The unconscious man is young, tall, and white. You guess he could be of
+British descent. The most striking thing about him is his clothes, which looks
+at least eighty years out of fashion.
+78248: Smelling the body evokes a peculiar sensation, but there is no
+perceptible odour.
+78304: After several attempts, you manage to shake the man awake. He sits up on
+the table, still confused. In response to your many questions the man simply
+states that he can't remember and it seems that he is suffering from amnesia.
+78462: The young man seems to be waking up.
+78492: The man opens his eyes, and sits up on the table. In response to your
+many questions the man simply states that he can't remember and it seems like
+his is suffering from a memory loss.
+78620: He seems to be fairly young man. The most striking thing about him is
+his clothes, which looks at least eighty years out of fashion.
+78712: The man is too confused to pay attention to you.
+78746: The man gets up from the table and looks around, perplexed. 'I think
+I've been here before', he mutters.
+78826: The man asks who you are. You tell him about your dream, and how you
+ended up here.
+78888: From the other room you can hear the voice of the man on the table
+calling you back. You return to the study and he says:
+78974: The man falls silent for a while, and then he says:
+79018: some parts of my memory have come back now. I remember that my name is
+Charles Bristow and I studied archeology and history in New England. Something
+terrible happened but of that I can recall only small fragments.' He looks
+around the chamber and says with despair in his voice, 'My God, where am I?
+Will my nightmares never end?'
+79254: Charles falls into your arms, delighted to see you again. He says that
+when he heard thunderous noise, he felt that you were in danger, and decided to
+come looking for you. You wonder how he could know about the crowbar, and he
+replies that it was just one of those memory glimpses that he has been
+experiencing since he came here.
+79488: He is a tall and slender young man. The most striking thing about him is
+his clothes, which looks at least eighty years out of fashion.
+79584: You explain your idea for Charles and he lifts you up. After a few
+moments of nervous search your fingers touch cold metal. You jerk it out and
+Charles puts you down again. The fruit of your effort is an iron key.
+79780: Even the nearest overhead bridge is way out of reach.
+79820: Charles lifts you, but you still can't reach the top of the metal
+column.
+79872: Charles lifts you, but this time the wall is too high. You can't reach
+the coping.
+79932: Charles refuses to cooperate in this dangerous stunt.
+79972: When Charles understands what you want to do, he protests ' 'I don't
+believe you learned the secret of the symbol by accident. It was revealed to
+you, and you are the one who should use its power.
+80112: You brought him into this mess, so you'd better behave!
+80184: Charles doesn't appear to be interested.
+80216: What you cannot say in few words, probably isn't worth saying.
+80292: Charles takes the paper and studies it silently for a minute or two.
+Then he shakes his head and
+80596: 'I have never seen any city like this one before. Surely it was not
+built by humans?'
+80838: ah, this is a rare and famous book of occult knowledge, which few men
+have seen. It was written by the famous Persian poet Abtin Mukhtar, and is said
+to tell about daemons and djinn from distant heavens.'
+81150: the door is open. Why don't we just enter it?'
+81288: 'I've been studying medieval cults for years, and I remember I recently
+found some evidence suggesting that small cults survive to this very day. In a
+manuscript I learned about a group devoted to one of the monsters mentioned in
+the Caelestae Horriblis, and I made plans to gather more material on this
+subject. But after that my memory becomes very confused.'
+81570: it is said that a sacrifice has to be made to contact the Eternal Ones.
+The sacrifice has to be an animal on which a mystic symbol has been drawn with
+a holy powder.'
+81776: 'I find those steps hard to climb. The owner of this tower must be very
+tall.'
+81832: Charles shows you a black and white photograph of a cute girl. 'Her name
+is Miriam, and we plan to marry next spring. Now it looks like we have to
+cancel the wedding' he says with a sad smile.
+81970: my fiance's name is Miriam, and we plan to marry next spring. Now it
+looks like we have to cancel the wedding' Charles says with a sad smile.
+82074: ah, the evil Gods. They are described in the Caelestae Horriblis as
+crazy and very powerful. They were expelled by a long time ago by the Eternal
+Ones, but may return some day.'
+82290: please be more specific. Do you mean the evil Gods or the Eternal Ones?'
+82346: you brought me here. That's all I know.'
+82444: Charles shows you a black and white photograph of a cute girl. 'Her name
+is Miriam, and we plan to marry next spring. Now it looks like we have to
+cancel the wedding' he says with a sad smile.
+82652: Charles says that he hasn't brought any photographs.
+82850: strange carvings. It looks like a ritual of some sort, don't you think?'
+82906: look at the carvings, and the strange shape of that building! I know
+well what that temple is housing. It is a house of worship of the evil Gods.
+Don't go there if you value your life.'
+83076: Charles arrives, and looks around with a puzzled expression. He seems to
+hesitate briefly, and then says 'Look, I know that this must sound insane, but
+ever since I came here I keep getting the feeling that I have seen this place
+before, like in a dream or in a distant past that I have almost forgotten.'
+83292: Charles follows you.
+83308: Charles comes with you.
+83328: Charles comes walking behind you.
+83616: Charles looks at the city and shakes his head in disbelief.
+83658: Charles sighs deeply and says  'Will I ever see Miriam again?' to
+himself.
+83716: Charles says 'Oh God, I'm so tired of this. I only want to return home.'
+83892: Charles looks at the temple and says 'I think that the tower and the
+temple are more recent than the city itself. The style is quite different,
+don't you think?'
+84008: Charles points at a building and says 'It doesn't make sense. Who would
+build something without doors or windows. How did they use them?'
+84174: Charles tries to open the door and says 'It's locked. Do you know where
+the key is?'
+84240: Charles picks up a vial. 'I saw this before in a dream', he says and
+puts it back.
+84304: Charles looks nervously around.
+84328: Charles is lost in thoughts.
+84348: Charles is on the other side of the boulders.
+84380: Charles is on the other side of the boulders.
+84412: The man is dressed in a tweed jacket, and cotton trousers.
+84456: Charles is dressed in a tweed jacket, and cotton trousers.
+84498: Although nothing can be seen, you feel the presence of Mukhtar's mind
+here.
+84556: A mind without body cannot easily be pushed around.
+84592: No one is there to answer your question, but you have a strange feeling
+that something is sharing your brain, seeing with your eyes.
+84684: No one is there to answer your question. Charles suggests that the best
+way to communicate with Mukhtar would be to project mental images by looking at
+objects you want to ask about.
+84812: And what use would a bodiless mind have of that?
+84848: Mukhtar's body is not around, only his mind.
+84880: No one is here, but you have a strange feeling that someone is sharing
+your brain, seeing with your eyes.
+84956: You glimpse an alien world with two moons, where hideous creatures lurk
+in the shadows.
+85016: Although nothing can be seen, you can easily feel the presence of Abtin
+Mukhtar's mind here. His mental images interfere with yours.
+85112: You feel a sense of pride of a work well done, mixed with a feeling of
+deep fear.
+85168: In an instant you glimpse the statue, only that it is alive. In some
+dark cavern the monster is sitting among a pile of dismembered bodies, chewing
+on a piece of leg.
+85284: A deep feeling of frustration in projected into your brain. This soon
+gives away to a concentrated study of the papers. One sentence is revealed,
+then another. Before long, Mukhtar has decoded the message, and you are swept
+away in a powerful vision.
+85460: Once again you are swept away in a powerful vision.
+85528: This is a small chamber with rough walls, cut directly from rock. There
+is a fireplace set in the wall, and a doorway leading west.
+85620: The man seems to be at work. He puts a handful of yellow powder in a
+bowl.
+85674: The man puts some red powder in the bowl. He then put the bowl on the
+fire.
+85730: The contents in the bowl turn black. The man uses the black powder to
+paint a complex symbol, much like a epsilon character, onto his chest.
+
+The
+scene abruptly changes...
+85860: As good-looking as ever.
+85880: Like in a dream, your body doesn't seem to obey your mind.
+85924: An old man is sitting on a chair in front of the fireplace.
+85972: You are in a huge building, whose vaulted ceiling towers high above. It
+is scantily lit, but a stage is set in its southern part. On the stage there is
+a huge statue, whose appearance is frightening even from this distance. In
+front of the statue is a roughly cube-shaped black stone table. There are lots
+of people in front of the stage, and the air is filled with sounds of chants
+and prayer.
+86246: There is some commotion as a man is led up to the stage by a few
+persons, who force him onto the stone table and ties him down. The man is the
+same old man you saw in the dark rock chamber a few moments ago!
+86392: A hooded, priestly figure carrying a dagger approaches the victim on the
+table. People around you start chanting terrible hymns in a foreign language
+with increased fervour at every passing instant. The priest lifts a sacrificial
+dagger over the man's body - the congregation's hideous howling rises to a
+crescendo of inhuman ferocity - and then the dagger dives hungrily into the
+flesh.
+
+The huge statue explodes in a brilliant flash of light and violent
+tremors begin shaking the ground. Blinded by panic, the cultists begin a
+hopeless race to the exit - running, shrieking, cursing and shouting - but
+their fate has been sealed. Deep cracks root through the marble ceiling, which
+plummets on the writhing mob with a resounding crash.
+
+The next moment the
+vision is gone...
+86932: A stone slab has been moved, revealing a dark entrance leading down.
+86984: You could access the underground from the city through this entrance.
+87032: You are the top of an staircase, leading down into darkness. A few steps
+above is the opening, through which you can return to the city.
+87128: Charles looks down the stairs and says gravely 'Don't ask me how, but I
+just know that if I go down there I won't return alive. Go ahead if you have
+to, but I will stay here and wait for you.'
+87270: In the almost complete darkness, the stairs seem endless but you finally
+arrive to a corridor far below the city.
+87352: You can only follow the stairs up or down.
+87384: The staircase to the south opens into a wide corridor, reaching further
+north. One both side massive walls rise, culminating in massive vaults, on
+which carvings are just visible. The floor is strewn with fallen blocks, sand,
+and detritus of every kind.
+87562: Behind and above, a faint luminous blur tells of the distant world
+outside.
+87620: Not much, but much better than complete darkness.
+87660: They are just shapeless fragments of stone.
+87692: The stone is badly fragmented and the carvings almost gone.
+87736: This is a Cyclopean north-south corridor ten feet wide, paved with
+octagonal and square blocks, and solidly vaulted overhead. A side passage once
+led west, but it has collapsed. The northern side of the corridor is almost
+completely blocked by rocks and boulders, but a narrow tunnel has been dug
+through the debris.
+87956: This is a Cyclopean north-south corridor ten feet wide, paved with
+octagonal and square blocks, and solidly vaulted overhead. A side passage once
+led west, but it has collapsed.
+88080: The side passage has collapsed and is impossible to enter.
+88120: In the vaulted ceiling there is a square opening, whose sides are about
+ten feet. The room above is completely dark.
+88202: The round chamber is badly damaged, and the south wall has partly
+collapsed, spreading debris over the floor. The metal seals have been forcibly
+thrown open and the trapdoor yawns open. A strong stench emerges from within
+the dark opening.
+
+The eastern corridor, and the ceiling with its square
+opening, has escaped the worst of the destruction, but the entrance to the
+southern corridor is blocked by rocks and boulders.
+88496: The sound comes from the southern corridor.
+88528: You scream from the top of you lungs, and receive a faint reply. It is
+Charles, who has overcome his fear to search for you. He starts digging from
+his side, and after much hard work you have cleared a passage. However, even
+your combined effort isn't enough to move one heavy stone, which is protruding
+into the tunnel, and making it too narrow to crawl through.
+88784: The southern wall of the chamber has received a strong blow, forcing
+some of the masonry to collapse. The entrance to the corridor is now almost
+completely blocked by a mountain of rocks and boulders, making it impossible to
+pass through.
+88948: The square opening in the ceiling is far above you.
+88984: That would be suicidal.
+89004: The corridors lead east and south from here.
+89036: From the other side of the rocks, you hear a scraping sound.
+89080: Once again you hear someone calling your name.
+89114: There is that voice again, but now it is more distant.
+89156: Charles tugs at the stone, which won't move an inch.
+89196: Charles calls to you from the other side of the rocks. 'It is no use, we
+need a tool. Get the crowbar.' You protest that you haven't seen any crowbar,
+and Charles responds that he distinctively remember seeing a crowbar in a chest
+in an underground chamber, where he put some personal papers for safekeeping.
+He also says that the key is hidden under the stove.
+89452: The metal seals have been forcibly thrown open and the trapdoor yawns
+wildly open. A strong stinking odor is emerging from the dark opening.
+89548: The trapdoor has been thrown open and can't be closed again.
+89592: You would never be able to get it back.
+89620: The boulders come from the collapsed parts of the southern wall, and are
+almost completely covering the doorway leading to the southern corridor. The
+heap is thick at the base, but at the top there are some cracks between the big
+stones, and you see that the corridor behind is intact.
+89816: Through the cracks between the boulders offer a limited view of the
+corridor on the other side.
+89884: You manage to remove some smaller stones, making the beginning of a
+tunnel, but everywhere you try your progress is blocked by bigger stones, that
+you can't move by hand.
+90004: The stone is making the tunnel to narrow to crawl through.
+90044: With the crowbar you get enough momentum to finally force the heavy
+stone aside, opening enough space to crawl through.
+90128: The stone is too heavy to move by hand.
+90156: The tunnel through the boulders would would be big enough to crawl
+through, if it weren't for the massive stone protruding into it.
+90248: It is a tight crawl, but it should be possible to squeeze through.
+90296: The tunnel would be big enough to crawl through, if it weren't for the
+massive stone protruding into it.
+90368: On hands and knees, you crawl through the tunnel to the corridor.
+90416: On hands and knees, you crawl through the tunnel to the underground
+chamber.
+90520: You are in a round vaulted chamber, about fifty feet across. The black
+masonry suggests that this might be a room under one of the mysterious
+buildings in the city. The chamber is bare and undecorated. Two corridors lead
+from this room, one to the south and one to the east. Looking up also reveals a
+square opening in the ceiling.
+90752: The square opening in the ceiling is far above you.
+90788: The trapdoor is closed and sealed.
+90812: The corridors lead east and south from here.
+90844: In the floor just below the opening in the ceiling is a trapdoor. It is
+closed and carefully sealed down with metal bands.
+90932: Seeing the trapdoor suddenly gives you an unexpected feeling of fear,
+and suggestions of some special peril.
+91008: The trapdoor is carefully sealed with metal bands, which look strong.
+Its size corresponds to the opening in the ceiling above, and it is possible
+that it might lead to similar chamber below.
+91140: You are not able to damage the sturdy trapdoor or its seals.
+91184: The trapdoor is carefully sealed with metal bands, that cannot be
+opened.
+91236: This is a badly heaped east-west corridor. It is almost completely dark,
+but you can make out a chamber further east. In the north wall is the entrance
+to a caved-in corridor.
+91360: The corridor to the north has collapsed and is completely blocked by
+boulders and debris.
+91422: You struggle through the debris.
+91448: You walk towards the round chamber and glimpse something which makes you
+retreat to the corridor in panic.
+
+There is a
+91624: Nothing could make you face that nightmarish creature again.
+91666: You struggle through the debris.
+91696: The corridor is almost completely filled with shapeless fragments of
+stone, making moving around difficult.
+91772: It would take years to clear this passage by hand.
+91812: There is a wind here that was not present before. Not merely a cool,
+damp draught, but a violent, purposeful blast belching frigidly from that
+corridor leading to the round chamber with the trapdoor.
+91952: The wind is a violent blast belching from some abominable abyss.
+91996: From this distance you see but a shadow in the darkness ahead, but the
+brief glimpse you got will haunt you in the years to come.
+92084: You haven't seen the monster... yet!
+92112: The bottle hits its target, and the creature stumbles back in the
+darkness. An ear-splitting crash reverberates through the corridors, and for a
+moment you are blinded by an acrid and blinding green cloud. The rumbling
+slowly dies out, and from the underground chamber you hear a nasty, slopping
+sound like as of something soft being dragged along a hard surface. The sound
+becomes more and more distant, as the monster disappears in the abyss whence it
+came.
+92428: From here you can but observe the Thing, who is in the chamber further
+west.
+92482: This is a black chamber, directly cut in the rock. Crystals embedded in
+the walls reflect and magnify the available  light. There is an antique gas
+stove mounted in one of the walls, and a rack just above it. The sole exit
+leads west into a dark corridor.
+
+The chamber seems ancient, but the furniture
+feels more recent. Someone must have been using this chamber not so long ago.
+92748: The corridor is filled with debris, and you can't make your way through
+it carrying the unwieldy chair.
+92820: The contents in the kettle change to black. Then suddenly there is a
+small explosion whose sound echoes through the underground chambers.
+
+The sound
+dies away and for a moment everything is quiet. But then you can hear a brief,
+shrill, whistling sound. Moments later, loud banging is heard from the corridor
+to the west, culminating in a prolonged screeching sound, as though of metal
+being ripped apart.
+93102: There is a repetition of that frightful alien whistling you heard
+before.
+93204: Just as Charles said, you find a small brass key, pushed deep in under
+the stove. You would never have found it, if you didn't know where to look.
+93340: It is just a simple wooden chair.
+93388: . You can't see inside, since it is closed.
+93420: Kicking the chest may be a good way to vent your anger, but it won't
+unlock it.
+93476: The black and white photograph has faded with time, but you can still
+make out a young woman in a long dress, standing by the shore.
+93608: You can only put liquids in the glass bottle.
+93640: and a powerful reaction takes place. The liquid dissolves in a white
+cloud, but leaves a yellow stain.
+93712: When you open the bottle a small drop of its liquid contents happen to
+drop on your hand. Immediately you feel strong pain, and there is a red spot on
+your skin where the drop fell.
+93836: You'd better keep the liquid in a container.
+93868: The switch is set to on, and the gas is burning.
+93908: You find yourself in a immense hall, faintly illuminated by rays of
+light falling from an opening in the distant ceiling. The far corners are all
+shadows, and the purpose of the hall is hard to guess. A strange device is
+standing in the middle of the room.
+94084: The ceiling is way above your head.
+94110: Ignoring everything except the animal impulse of flight, you run madly,
+not stopping until you reach the city.
+94190: You make your way back to the city.
+94220: You pace around the hall but find no exits except for the passage in the
+west wall, through which you entered.
+94296: The sound is subtly vibrant, and unmistakably musical, but holds a
+quality of surpassing wilderness which makes it impact rather unsettling.
+94428: The device consists of a high metal column, crowned by a cluster of
+glass bulbs. It is obviously manufactured with great care, and the lever on its
+side suggests that it is a machine of some sort.
+94564: A sputtering is heard from the machine, growing to a whine, terminating
+in a drone. At the same time, the bulbs go on, increasing their luminosity
+until they assume a pale blue colour.
+94748: . The cloud quickly dissolves into thin vapours of smoke
+94788: Suddenly, from the farthermost shadows, a sound softly drifts towards
+you.
+94844: Close to the machine, a cloud of white vapours appears, quickly growing
+denser and taking a round shape, floating just above the floor. It keeps
+getting bigger.
+94958: The round cloud is hanging just above the floor and getting denser and
+bigger by the second.
+95024: As the cloud gets bigger and denser, it starts glowing from within.
+Then, in the centre of the cloud, appears a lively scene.
+
+It is night, and the
+only light comes from the stars and two braziers, which you can see from some
+distance. People are gathered around the braziers.
+95220: As the cloud gets bigger and denser, it starts glowing from within.
+Then, in the centre of the cloud, confused pictures appear before your eyes.
+Flashes of star filled skies, unrecognisable shapes both alive and otherwise,
+and blurred images of temple-like halls, soon give way to a view of a beautiful
+young lady standing on a busy market street.
+
+'Miriam!' Charles exclaims, 'that
+girl is Miriam, my fiance. And this is the main street in my home town.' He
+runs towards and
+95558: the glowing cloud.
+
+In the cloud you now see Charles running up to the
+girl. He takes her hand, to the dismay of the passersby, and talks excitedly
+with her.
+95674: Abruptly the scene with Charles and his fiance dissolves, and another
+picture can be seen in the glowing cloud. It is night, and the only light comes
+from the stars and two braziers, which you can see from some distance. People
+are gathered around the braziers.
+95858: Maybe the machine is affecting your senses, because the picture appears
+brighter and closer. You now see that there is a black monolith between the
+flaming braziers, and that the silent crowd of people appearing as barbarians,
+some clad only in hides of wild beasts, all have their eyes fixed on the top of
+the stone.
+
+Your attention is caught by some commotion at the base of the
+stone. A young boy, stark naked and bound hand and foot, is pushed upwards by
+two men. There something grabs the boy's head and starts pulling him. Quickly
+shifting your gaze, you stare at disbelief at the creature now squatted on the
+top of the monolith, which only moments ago was empty.
+
+It is a huge monstrous
+lizard-like thing, with four green, blinking eyes. The apparition's wide gap is
+opened, ready to devour the poor boy, when it suddenly becomes tense. It lifts
+its head, and the four eyes stare at you.
+96484: The monster drops the boy, who falls down into the nameless crowd again,
+and with seemingly unnatural speed jumps down from the monolith and towards
+you.
+96708: It is simply a tube of metal, about six feet wide and twenty feet tall.
+There surface is absolutely smooth, only slightly soiled by oxidation.
+96808: You can't get a good grip on the smooth surface.
+96844: The glass bulbs are fitted in an intricate pattern at the top of the
+metal column, way out of reach.
+96916: The huge lever is mounted at the base of the column.
+96952: The round cloud is hanging just above the floor and getting denser and
+bigger by the second.
+97016: The scene with Charles and his fiance abruptly dissolves before you have
+a chance to enter the cloud, and another picture can be seen. It is night, and
+the only light comes from the stars and two braziers, which you can see from
+some distance. People are gathered around the braziers.
+97212: You enter the cloud, and the next second you find yourself in...
+97260: The unpleasant touch of the vapours make you resist.
+97296: That is only a object in the scene you can see in the cloud. It is not
+real.
+97352: That is only a object in the scene you can see in the cloud. It is not
+real. At least, that is what you hope.
+97430: You are standing in a glen, deep inside a wild forest. It is night, and
+the only light comes from the stars and two braziers, which stand close to a
+black monolith. People are gathered around the braziers.
+97578: Your attention is caught by some commotion at the base of the stone. A
+young boy, stark naked and bound hand and foot, is pushed upwards by two men.
+There something grabs the boy's head and starts pulling him. Quickly shifting
+your gaze, you stare at disbelief at the creature now squatted on the top of
+the monolith, which only moments ago was empty.
+
+It is a huge monstrous
+lizard-like thing, with four green, blinking eyes. The apparitions wide gap is
+opened, ready to devour the poor boy, when it suddenly becomes tense. It lifts
+its head, and the four eyes stare at you.
+97984: The huge monstrous lizard-like thing, still holding the boy in its fang,
+stares at you with its four green, blinking eyes.
+98072: Before you have a chance to react, the monster drops the boy, and with
+seemingly unnatural speed jumps down from the monolith and towards you. The
+teeth that tear your poor body to pieces feel all to real.
+98216: What should I do in the dream?
+98240: Nothing really. Just enjoy the ride.
+98268: You will soon be transported to another place.
+98300: How can I get out of the tower?
+98324: Examine *everything*, especially in the study.
+98364: If you read the writing on the wall something will happen.
+98404: The man is unconscious. Try to wake him up.
+98436: Go down to the ground level a few times.
+98464: I'm sure you noticed something on top of the door. You can't reach it by
+yourself.
+98524: Ask Charles to carry you.
+98544: What are the vials good for?
+98564: Examine the stone table in the study.
+98592: See what happens when you put one of the vials on the table and read the
+writing aloud.
+98652: You can't just use any vial. Somehow you need to identify them.
+98700: Outside the tower you will find a book in a library.
+98736: Compare the vials with the book.
+98760: Then put the identified vial on the stone table.
+98796: How do I communicate with Mukhtar?
+98824: Try talking with him.
+98840: Didn't you hear what Charles said? Look at objects, and Mukhtar will
+comment on them.
+98904: Things to try are the Caelestae Horriblis, Mukhtar, and the writing.
+98956: Mukhtar has keen understanding of language and myths.
+98996: Look at the paper.
+99012: What should I do with the cat?
+99036: You can't reach it.
+99052: Make it come down.
+99068: Throw something at it.
+99084: Oops, seems like there is something underground. Move the stone slab.
+99136: What does the cat want?
+99156: The cat wants to draw your attention to the wall.
+99192: Examine the wall, and open the secret door.
+99224: How can I find a way out for Charles?
+99252: The cat can show you the way.
+99276: Try getting the cat back on the ground, then find out where it is trying
+to go.
+99332: How can I escape from the underground?
+99360: You could need some help.
+99380: Shout to get the attention of the rescue party.
+99416: That stone is too heavy to move by hand.
+99444: Wait for some good advice from Charles.
+99472: If you go back to the rock chamber, you will find that Charles isn't
+crazy after all.
+99532: Look under the stove, and use the brass key to open the wooden chest.
+99580: With the crowbar, it is easy to push the stone away.
+99620: What should I do in the underground chamber?
+99652: Look inside the chest.
+99668: If you don't know what to do, you should probably focus on the vials
+first.
+99724: Prepare the black powder like the old man in the vision did.
+99768: I'm afraid that the explosion got you some unwanted attention. Good
+luck!
+99820: How can I pass the monster at the trapdoor?
+99852: You need one of the objects in the rock chamber.
+99888: Did you really examine everything you found? Carefully?
+99928: If you opened the bottle, you must be able to guess what it contains.
+99976: Throw the bottle with acid at the monster.
+100008: What is this strange device?
+100028: Did you examine it, and its parts?
+100056: It is a machine. Pull the lever to turn it on, and keep it running.
+100104: Not too long, though.
+100120: What should I do in the temple?
+100144: You can go inside and take a look. Never mind what Charles thinks.
+100192: Don't stay too long, unless you have protected yourself.
+100232: You could learn something from the mistakes of the poor fellow in the
+library.
+100288: You still need one piece of information, which only a powerful vision
+will give you.
+100348: Have you solved the Mukhtar puzzle yet? If not, you shouldn't proceed.
+100400: Have you visited the underground yet? If not, you shouldn't proceed.
+100452: Use the black powder from the kettle to paint a protective symbol on
+yourself. Then go to the temple and let yourself be sacrificed.
+100544: Help, I'm stuck! What do I do now?
+100828: There is information provided on the following:
+101654: " for down, "SE" for southeast, and so on.
+
+Special commands include
+"SCORE," "SAVE," "RESTORE," "RESTART," and "QUIT." There's also "OOPS," used to
+replace a misspelled word; "UNDO," to take back your last move; and "VERBOSE"
+and "BRIEF," which control the repetition of room descriptions.
+101910: This game is based on the mood of the stories of H.P. Lovecraft, an
+American author of fantasy and horror often compared to E.A. Poe.
+
+Lovecraft's
+stories differ in quality, but some stories are among the best in its genre. My
+own top-three pick would be: "The Case of Charles Dexter Ward", "The Shadow Out
+of Time", and "The Rats in the Walls."
+
+Please send fan mail, opinions, and bug
+reports to
+102730: Since the mood and the style of writing owes so much to the writing of
+H.P. Lovecraft, his name must be first on my credit list.
+
+A special thank you
+to Christos Dimitrakakis, who has given me lots of valuable suggestions for
+improvements of the prose.
+
+I would also like to thank my beta-testers Joao
+Mendes, Fletcher Smyth, and Staffan Friberg, who have made numerous
+contributions to the game.
+
+In the IF-comp version Charles could mysteriously
+(re)appear if you did actions in an certain order. Thanks to Peter
+Polkinghorne, Stas Starkov, and neoreality for pointing this out.
+
+Finally I
+want to thank Jacqueline A. Lott for finding a small bug in release 1.
+103304: , is unmodified and no profit is involved. It may not be included in
+any for-profit software collections without the permission of the author.
+103402: These hints are currently available:
+103484: There is information provided on the following:
+103532: Congratulations!
+103566: Too easy? Too difficult? Interesting? A waste of time?
+
+I would very
+much like to receive comments. Please write to:
+103656: The inspiration to make a game of this kind came from playing Brendon
+Wyber's "Theatre." I wanted to make a horror game and since the best horror I
+know is the short stories by H.P. Lovecraft, it was only natural that I turned
+to them for inspiration.
+
+I've been using the "write the transcript
+first"-method. The merits of this method are that most of the text is already
+written when you start coding, the style is coherent, and you have to think
+like the player when you design the game. One danger is that you might end up
+with a sequential game, where you have to do everything in the same order as in
+your transcript. This aside, I think that the method is very useful.
+104132: There are two successful endings, but ending the game without sending
+Charles back to his own time won't give you a full score.
+
+The last text is
+slightly different depending on if you carry the statue from the tower while
+being sacrificed or not. You will find the statue on the iron railing.
+
+There
+are three ways of dying. The first is to putting an unidentified vial on the
+table in the tower and reading the chant, the second is to sacrifice yourself
+in the temple without the protective symbol painted on your chest, and the
+third is to linger in the Deserted Hall with the device turned on.
+104636: mrec file, which is usually distributed together with this game. If
+not, then check the IF archive, or e-mail me.
+104720: You can only recite written poems.
+104744: You prefer to keep neat and clean.
+104768: Don't destroy other people's property!
+104796: That would be a pointless thing to do.
+104824: You regret dropping out of Magic 101 at college.
+104866: Familiar as your dream may be, the shapes and the colours that surround
+you feel as scary as ever. For more than two months the beginning of your
+nightly nightmares have stayed the same. The old woman drags you up from your
+bed. Your struggles are in vain against the iron-hard grip of the bony hands as
+she pushes you out of the window. But instead of falling headlong towards the
+backyard below you find yourself in an alien world, trying desperately to wake
+up.
+
