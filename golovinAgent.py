@@ -51,6 +51,8 @@ print '\n' + filename,
 t = tp.TextPlayer(filename, directory)
 start_info = t.run()
 
+map = gameMap.GameMap()
+
 try:
     if start_info is None:
         print 'start_info is None'
@@ -66,6 +68,7 @@ try:
     noneCount = 0
     #print start_info
     desc = look()
+    map.add_to_path(desc)
     for i in range(steps):        
         if desc not in places:
             places[desc] = Place(desc)
@@ -104,11 +107,16 @@ try:
                 log('fight_command', command[1])
                 log('response', command_output)
         new_desc = look()
+        useless = False
         if new_desc == desc:
             if command[0] == Place.Move and not command_output.endswith(desc) and not desc.endswith(command_output):
                 places[desc].useless_move(command[1])
+                useless = True
             elif command[0] in [Place.Action, Place.Fight]:
                 places[desc].useless_command(command[1])
+                useless = True
+        if not useless:
+            map.add_to_path(new_desc, command[1] if command[0] == Place.Move else None)
         desc = new_desc
         tscore = t.get_score()
         if tscore is not None:
@@ -131,4 +139,5 @@ except Exception as e:
     print '\nexception:', e.__doc__, e.message
     t.quit()
 scores.write("{3} {0} (max {2}) / {1}\n".format(score, possible_score, max_score, filename))
-#print gameMap.ids.keys()
+map.update()
+map.print_all()

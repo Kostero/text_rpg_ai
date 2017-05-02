@@ -9,7 +9,7 @@ from collections import namedtuple, defaultdict
 from nltk_helper import get_nouns, get_similar_nouns, get_nouns_carefully
 
 class Place:
-    taken_limit = 7
+    taken_limit = 5
     noun_bonus = 500
     init_actions = 15
     move_action_ratio = 5
@@ -27,6 +27,7 @@ class Place:
     def __init__(self, text):
         self.text = text
         self.taken = 0
+        self.taken_all = False
         self.actions = 0
         self.commands = self.Command()
         self.fight_commands = self.Command()
@@ -34,7 +35,7 @@ class Place:
         self.inventory_nr = -1
         self.weights = defaultdict(lambda: 0.5, attention.compute_weights(text))
         self.nouns = sorted({n for n in get_nouns_carefully(text) if n not in commands.directions}, 
-                            key=lambda x: math.log(descriptions.frequency(x) + 2) / self.weights[x])
+                            key=lambda x: math.sqrt(descriptions.frequency(x) + 2) / self.weights[x])
         self.similar_nouns = get_similar_nouns(self.nouns)
         self.directions = commands.directions[:]
         for sim, _ in self.similar_nouns.iteritems():
@@ -58,11 +59,11 @@ class Place:
             for n in c.nouns:
                 if n in self.similar_nouns:
                     (k, sim) = self.similar_nouns[n]
-                    score *= self.noun_bonus * k * self.weights[n] / math.log(descriptions.frequency(n) + 2)
+                    score *= self.noun_bonus * k * self.weights[n] / math.sqrt(descriptions.frequency(n) + 2)
                     com = com.replace(n, sim)
                 elif n in inv_nouns:
                     (k, sim) = inv_nouns[n]
-                    score *= self.noun_bonus * k * self.weights[n] / math.log(descriptions.frequency(n) + 2)
+                    score *= self.noun_bonus * k * self.weights[n] / math.sqrt(descriptions.frequency(n) + 2)
                     com = com.replace(n, sim)
                 elif allow_unknown:
                     score /= self.unknown_penalty
@@ -111,6 +112,9 @@ class Place:
         if self.taken < min(len(self.nouns), max(self.taken_limit, moves / self.move_take_ratio)):
             self.taken += 1
             return (self.Take, self.nouns[self.taken-1])
+        if not self.taken_all:
+            self.taken_all = True
+            return (self.Take, 'all')
         if self.actions - self.init_actions > moves / self.move_action_ratio:
             return self.random_move()
         choice = self._get_command(self.commands, inv_nouns)
