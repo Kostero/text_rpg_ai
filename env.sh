@@ -11,3 +11,4 @@ git clone https://github.com/emilmont/pyStatParser.git
 cd pyStatParser
 python setup.py install --user
 cd ..
+git clone https://github.com/JasperSnoek/spearmint.git

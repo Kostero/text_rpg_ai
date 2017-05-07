@@ -8,3 +8,7 @@ wget>=3.2
 mechanize>=0.2.5
 tensorflow==1.1.0
 pyrsistent>=0.12.1
+numpy>=1.12
+scipy>=0.19
+protobuf>=3.3
+weave>=0.16
