@@ -18,17 +18,21 @@ from Queue import Queue, Empty
 class TextPlayer:
 
 	# Initializes the class, sets variables
-	def __init__(self, game_filename):
+	def __init__(self, game_filename, game_directory):
 		signal(SIGPIPE, SIG_DFL)
 		self.game_loaded_properly = True
 
 		# Verify that specified game file exists, else limit functionality
-		if game_filename == None or not os.path.exists('textplayer/games/' + game_filename):
+		print(game_directory, "---", game_filename)
+		gamePath = game_directory + game_filename
+		print(gamePath, os.path.exists(gamePath))
+		if game_filename == None or not os.path.exists(game_directory + game_filename):
 			self.game_loaded_properly = False
 			print "Unrecognized game file or bad path"
 			return
 
 		self.game_filename = game_filename
+		self.game_directory = game_directory
 		self.game_log = game_filename + '_log.txt'
 		self.debug = False
 
@@ -37,7 +41,8 @@ class TextPlayer:
 		if self.game_loaded_properly == True:
 
 			# Start the game process with both 'standard in' and 'standard out' pipes
-			self.game_process = Popen(['./textplayer/frotz/dfrotz', 'textplayer/games/' + self.game_filename], stdin=PIPE, stdout=PIPE, bufsize=1)
+			curpath = os.path.dirname(__file__)
+			self.game_process = Popen([curpath+'/frotz/dfrotz', self.game_directory + self.game_filename], stdin=PIPE, stdout=PIPE, bufsize=1)
 
 			# Create Queue object
 			self.output_queue = Queue()
@@ -97,7 +102,7 @@ class TextPlayer:
 				score_words = matchObj.group().split(' ')
 				return int(score_words[0]), int(score_words[len(score_words)-1])
 		return None
-			
+
 
 	# Remove score and move information from output
 	def clean_command_output(self, text):
@@ -115,7 +120,7 @@ class TextPlayer:
 
 		# While there is still output in the queue
 		while (output_continues):
-			try: 
+			try:
 				line = self.output_queue.get(timeout=.001)
 			except Empty:
 				output_continues = False
@@ -135,4 +140,3 @@ class TextPlayer:
 			self.game_process.stdin.write('y\n')
 		if self.game_process.stdin != None:
 			self.game_process.stdin.write('n\n')
-

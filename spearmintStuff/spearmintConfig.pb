@@ -1,6 +1,6 @@
 
 language: PYTHON
-name:     "golovinAgent"
+name:     "golovinAgentRunner"
 
 variable {
  name: "FIGHT_MODE"

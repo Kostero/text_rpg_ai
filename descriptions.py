@@ -1,4 +1,7 @@
 from collections import Counter
+import os
+
+path = os.path.dirname(__file__)
 
 def _process(p):
     for token in p.split():
@@ -17,7 +20,7 @@ def add(place):
 def frequency(word):
     return _frequency[word]
 
-_file = open('data/descriptions.txt', 'a+')
+_file = open(path+'/data/descriptions.txt', 'a+')
 places = set(map(str.strip, _file.readlines()))
 _frequency = Counter()
 

@@ -1,7 +1,10 @@
 import nltk
 import word2vec
+import os
 
-w2v = word2vec.load('word2vec/data/vec.bin')
+path = os.path.dirname(__file__)
+
+w2v = word2vec.load(path+'/word2vec/data/vec.bin')
 
 def get_similar_nouns(nouns):
     result = { n: (1, n) for n in nouns }

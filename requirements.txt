@@ -6,7 +6,7 @@ nltk>=3.2
 word2vec>=0.9.1
 wget>=3.2
 mechanize>=0.2.5
-tensorflow==1.1.0
+tensorflow==0.12.1
 pyrsistent>=0.12.1
 numpy>=1.12
 scipy>=0.19

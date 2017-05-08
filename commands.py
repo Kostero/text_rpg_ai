@@ -3,6 +3,9 @@ import descriptions
 import word2vec
 from nltk_helper import get_nouns
 from collections import *
+import os
+
+path = os.path.dirname(__file__)
 
 Command = namedtuple('Command', ['text', 'nouns', 'freq'])
 
@@ -21,8 +24,8 @@ def load_commands(filename):
                 print 'failed to parse', l
     return result
 
-commands = load_commands('commands/preprocessedCommands.txt')
-fight_commands = load_commands('commands/preprocessedFightCommands.txt')
+commands = load_commands(path+'/commands/preprocessedCommands.txt')
+fight_commands = load_commands(path+'/commands/preprocessedFightCommands.txt')
 
 directions = ['east', 'west', 'south', 'north', 'southeast', 'northwest', 'northeast', 'southwest', 'up', 'down']
 last_move = 0

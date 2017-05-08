@@ -1,6 +1,7 @@
 import numpy as np
 import tensorflow as tf
 import nltk
+import os
 
 def weight_variable(shape):
     initial = tf.truncated_normal(shape, stddev=1.0/np.sqrt(sum(shape)))
@@ -26,19 +27,21 @@ class AttentionFFLM(object):
         self.b_ph = bias_variable([1, embed_size])
 
         self.h = activation( tf.matmul(tf.reshape(self.get_them, [-1, embed_size]), self.W_ph) + self.b_ph )
-        self.h_ = tf.reshape( tf.reshape(self.h, tf.stack([-1, self.cut*embed_size])), tf.shape(self.h))
+        self.h_ = tf.reshape( tf.reshape(self.h, tf.pack([-1, self.cut*embed_size])), tf.shape(self.h))
 
         self.W_ha = weight_variable([embed_size, 1])
         self.b_ha =bias_variable([1])
 
-        self.att_logits = tf.reshape( tf.tanh(tf.matmul(self.h_, self.W_ha) + self.b_ha), tf.stack([-1, self.cut]) )
+        self.att_logits = tf.reshape( tf.tanh(tf.matmul(self.h_, self.W_ha) + self.b_ha), tf.pack([-1, self.cut]) )
         self.alpha = tf.reshape(tf.nn.softmax(self.att_logits), [1,-1])
 
 
 word2number = dict()
 number2word = dict()
 
-with open("data/attention_model/words.txt", 'rb') as f:
+path = os.path.dirname(__file__)
+
+with open(path+"/data/attention_model/words.txt", 'rb') as f:
         number = 0
         for line in f:
             word = line.strip()
@@ -70,5 +73,3 @@ def compute_weights(sentence):
     except:
         return zip(words, [1 for _ in words])
     return zip(words, alpha * len(alpha))
-
-
