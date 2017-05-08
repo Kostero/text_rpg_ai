@@ -23,9 +23,7 @@ class TextPlayer:
 		self.game_loaded_properly = True
 
 		# Verify that specified game file exists, else limit functionality
-		print(game_directory, "---", game_filename)
 		gamePath = game_directory + game_filename
-		print(gamePath, os.path.exists(gamePath))
 		if game_filename == None or not os.path.exists(game_directory + game_filename):
 			self.game_loaded_properly = False
 			print "Unrecognized game file or bad path"

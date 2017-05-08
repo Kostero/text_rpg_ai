@@ -100,7 +100,7 @@ def run(params, filename, directory):
                     command_output = t.execute_command(c)
                     log('inventory_command', c)
                     log('response', command_output)
-            elif params["FIGHT_MODE"] and command[0] == Place.Fight:
+            elif params["FIGHT_MODE"]=="on" and command[0] == Place.Fight:
                 for j in range(6):
                     #print command[1]
                     command_output = t.execute_command(command[1])
@@ -146,7 +146,7 @@ def run(params, filename, directory):
     return score
 
 def __main__():
-    params = {}
+    params = {"FIGHT_MODE" = "on"}
     filename = 'zork1.z5' if len(sys.argv) < 2 else sys.argv[1]
     directory = path + '/textplayer/games/' if len(sys.argv) < 3 else sys.argv[2]
     return run(params, filename, directory)
