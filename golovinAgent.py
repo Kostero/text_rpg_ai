@@ -31,7 +31,7 @@ def open_log(filename):
     global log_file
     i = 0
     while True:
-        newpath = path + '/logs/' + os.path.splitext(filename)[0] + '_' + str(i) + '.log'
+        newpath = path + 'logs/' + os.path.splitext(filename)[0] + '_' + str(i) + '.log'
         if not os.path.exists(newpath):
             break
         i += 1
@@ -43,17 +43,22 @@ def log(header, text):
 
 
 def run(params, filename, directory):
+    global path
+    path = os.path.dirname(__file__)
+    if path != "":
+        path += "/"
     scores = open(path+'scores', 'a')
     score = 0
     max_score = 0
     possible_score = 0
     print '\n' + filename,
+    global t
     t = tp.TextPlayer(filename, directory)
     start_info = t.run()
 
     map = gameMap.GameMap()
 
-    try:
+    if True:
         if start_info is None:
             print 'start_info is None'
             t.quit()
@@ -133,11 +138,11 @@ def run(params, filename, directory):
             print '\r{0}: {1}%, score: {2} / {3}'.format(filename, (i+1) * 100 / steps, score, possible_score),
 
         t.quit()
-    except KeyboardInterrupt:
-        exit(0)
-    except Exception as e:
-        print '\nexception:', e.__doc__, e.message
-        t.quit()
+    #except KeyboardInterrupt:
+    #    exit(0)
+    #except Exception as e:
+    #    print '\nexception:', e.__doc__, e.message
+    #    t.quit()
     scores.write("{3} {0} (max {2}) / {1}\n".format(score, possible_score, max_score, filename))
     map.update()
     map.print_all()
@@ -150,8 +155,6 @@ def main():
         "SOURCES": "all",
         "EXPLORING": "random",
     }
-    global path
-    path = os.path.dirname(__file__)
     filename = 'zork1.z5' if len(sys.argv) < 2 else sys.argv[1]
     directory = path + 'textplayer/games/' if len(sys.argv) < 3 else sys.argv[2]
     return run(params, filename, directory)
