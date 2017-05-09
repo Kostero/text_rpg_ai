@@ -3,7 +3,7 @@ import random
 import descriptions
 import sys
 import os
-import commands
+import mycommands
 from functools import partial
 from inventory import Inventory
 from place import Place
@@ -51,14 +51,14 @@ def run(params, filename, directory):
     score = 0
     max_score = 0
     possible_score = 0
-    print '\n' + filename,
+    #print '\n' + filename,
     global t
     t = tp.TextPlayer(filename, directory)
     start_info = t.run()
 
     map = gameMap.GameMap()
 
-    if True:
+    try:
         if start_info is None:
             print 'start_info is None'
             t.quit()
@@ -71,7 +71,7 @@ def run(params, filename, directory):
         open_log(filename)
         steps = 2000
         noneCount = 0
-        print start_info
+        #print start_info
         desc = look()
         map.add_to_path(desc)
         for i in range(steps):
@@ -79,19 +79,19 @@ def run(params, filename, directory):
                 places[desc] = Place(desc)
             command = places[desc].get_command(inv.content, moves, inv.nr)
             if command[0] == Place.Take:
-                command_text = commands.get_take_command(command[1])
+                command_text = mycommands.get_take_command(command[1])
             elif command[0] == Place.Move:
                 moves += 1
                 if command[1] == Place.RunAway:
-                    command_text = commands.get_back_command()
-                else: command_text = commands.get_move_command(command[1])
+                    command_text = mycommands.get_back_command()
+                else: command_text = mycommands.get_move_command(command[1])
             else:
                 command_text = command[1]
             command_output = t.execute_command(command_text)
-            print desc
-            print inv.text
-            print command_text
-            print command_output
+            #print desc
+            #print inv.text
+            #print command_text
+            #print command_output
             log('description', desc)
             log('inventory', inv.text)
             log('command', command_text)
@@ -138,15 +138,17 @@ def run(params, filename, directory):
             print '\r{0}: {1}%, score: {2} / {3}'.format(filename, (i+1) * 100 / steps, score, possible_score),
 
         t.quit()
-    #except KeyboardInterrupt:
-    #    exit(0)
-    #except Exception as e:
-    #    print '\nexception:', e.__doc__, e.message
-    #    t.quit()
+    except KeyboardInterrupt:
+        exit(0)
+    except Exception as e:
+        print '\nexception:', e.__doc__, e.message
+        t.quit()
+        #print(score)
+        return score
     scores.write("{3} {0} (max {2}) / {1}\n".format(score, possible_score, max_score, filename))
     map.update()
     map.print_all()
-    print(score)
+    #print(score)
     return score
 
 def main():

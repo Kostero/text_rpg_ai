@@ -1,10 +1,10 @@
 import descriptions
-import commands
 import random
 import nltk
 import numpy as np
 import attention
 import math
+import mycommands
 from collections import namedtuple, defaultdict
 from nltk_helper import get_nouns, get_similar_nouns, get_nouns_carefully
 
@@ -34,15 +34,15 @@ class Place:
         self.useless_commands = set()
         self.inventory_nr = -1
         self.weights = defaultdict(lambda: 0.5, attention.compute_weights(text))
-        self.nouns = sorted({n for n in get_nouns_carefully(text) if n not in commands.directions},
+        self.nouns = sorted({n for n in get_nouns_carefully(text) if n not in mycommands.directions},
                             key=lambda x: math.sqrt(descriptions.frequency(x) + 2) / self.weights[x])
         self.similar_nouns = get_similar_nouns(self.nouns)
-        self.directions = commands.directions[:]
+        self.directions = mycommands.directions[:]
         for sim, _ in self.similar_nouns.iteritems():
-            if sim in commands.commands:
-                self.commands.items += commands.commands[sim]
-            if sim in commands.fight_commands:
-                self.fight_commands.items += commands.fight_commands[sim]
+            if sim in mycommands.commands:
+                self.commands.items += mycommands.commands[sim]
+            if sim in mycommands.fight_commands:
+                self.fight_commands.items += mycommands.fight_commands[sim]
 
     def dangerous(self):
         return ' grue' in self.text
@@ -124,7 +124,7 @@ class Place:
         return (self.Action, choice)
 
     def random_move(self):
-        return (self.Move, random.choice(commands.directions if len(self.directions) == 0 else self.directions))
+        return (self.Move, random.choice(mycommands.directions if len(self.directions) == 0 else self.directions))
 
     def useless_move(self, direction):
         try:

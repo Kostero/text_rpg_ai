@@ -1,6 +1,6 @@
 from nltk_helper import get_nouns, get_nouns_carefully, get_similar_nouns
 import nltk
-import commands
+import mycommands
 import random
 import numpy as np
 
@@ -19,9 +19,9 @@ class Inventory:
         self.update()
 
     def get_commands(self, word, k, rep):
-        if word not in commands.commands:
+        if word not in mycommands.commands:
             return []
-        com = commands.commands[word]
+        com = mycommands.commands[word]
         result = []
         for text, nouns, freq in com:
             for w in text.split():
@@ -37,7 +37,7 @@ class Inventory:
                             (lk, w) = self.content[n]
                             text = text.replace(n, w)
                             score *= (lk ** 2) * self.noun_bonus
-                        else: 
+                        else:
                             score /= self.unknown_penalty
                 if score > 0:
                     result.append((score, text))
