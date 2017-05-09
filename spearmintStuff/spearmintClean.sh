@@ -1,0 +1,1 @@
+../spearmint/spearmint/bin/cleanup ../

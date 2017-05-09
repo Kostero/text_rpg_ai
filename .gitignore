@@ -13,5 +13,5 @@ scores
 tags
 gamelist*
 spearmint/
-spearmintStuff/jobs/*
-spearmintStuff/output/*
+jobs/
+output/
