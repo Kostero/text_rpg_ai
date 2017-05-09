@@ -3,7 +3,7 @@ import commands
 import random
 import nltk
 import numpy as np
-#import attention
+import attention
 import math
 from collections import namedtuple, defaultdict
 from nltk_helper import get_nouns, get_similar_nouns, get_nouns_carefully
@@ -33,7 +33,7 @@ class Place:
         self.fight_commands = self.Command()
         self.useless_commands = set()
         self.inventory_nr = -1
-        self.weights = defaultdict(lambda: 0.5) # attention.compute_weights(text))
+        self.weights = defaultdict(lambda: 0.5, attention.compute_weights(text))
         self.nouns = sorted({n for n in get_nouns_carefully(text) if n not in commands.directions},
                             key=lambda x: math.sqrt(descriptions.frequency(x) + 2) / self.weights[x])
         self.similar_nouns = get_similar_nouns(self.nouns)
