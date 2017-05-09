@@ -4,7 +4,6 @@ import os
 
 path = os.path.dirname(__file__)
 
-print(path+'/word2vec/data/vec.bin')
 w2v = word2vec.load(path+'/word2vec/data/vec.bin')
 
 def get_similar_nouns(nouns):

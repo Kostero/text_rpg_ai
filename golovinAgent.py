@@ -146,7 +146,11 @@ def run(params, filename, directory):
     return score
 
 def __main__():
-    params = {"FIGHT_MODE" = "on"}
+    params = {
+        "FIGHT_MODE": "on"
+        "SOURCES": "all",
+        "EXPLORING": "random",
+    }
     filename = 'zork1.z5' if len(sys.argv) < 2 else sys.argv[1]
     directory = path + '/textplayer/games/' if len(sys.argv) < 3 else sys.argv[2]
     return run(params, filename, directory)
