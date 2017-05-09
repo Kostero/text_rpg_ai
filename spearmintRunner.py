@@ -9,5 +9,5 @@ path = os.path.dirname(__file__)
 
 def main(job_id, params):
     filename = 'zork1.z5'
-    directory = path + '/../textplayer/games/'
+    directory = path + '/textplayer/games/'
     return golovinAgent.run(params, filename, directory)
