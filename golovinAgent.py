@@ -84,10 +84,10 @@ def run(params, filename, directory):
             else:
                 command_text = command[1]
             command_output = t.execute_command(command_text)
-            #print desc
-            #print inv.text
-            #print command_text
-            #print command_output
+            print desc
+            print inv.text
+            print command_text
+            print command_output
             log('description', desc)
             log('inventory', inv.text)
             log('command', command_text)
@@ -147,7 +147,7 @@ def run(params, filename, directory):
 
 def __main__():
     params = {
-        "FIGHT_MODE": "on"
+        "FIGHT_MODE": "on",
         "SOURCES": "all",
         "EXPLORING": "random",
     }
