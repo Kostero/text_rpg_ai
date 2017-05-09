@@ -9,7 +9,6 @@ from inventory import Inventory
 from place import Place
 import gameMap
 
-path = os.path.dirname(__file__)
 
 def look():
     desc = t.execute_command('look')
@@ -28,7 +27,7 @@ def look():
     descriptions.add(desc)
     return desc
 
-def open_log():
+def open_log(filename):
     global log_file
     i = 0
     while True:
@@ -44,7 +43,7 @@ def log(header, text):
 
 
 def run(params, filename, directory):
-    scores = open(path+'/scores', 'a')
+    scores = open(path+'scores', 'a')
     score = 0
     max_score = 0
     possible_score = 0
@@ -64,10 +63,10 @@ def run(params, filename, directory):
         places = {}
         inv = Inventory(partial(t.execute_command, 'inventory'))
         moves = 0
-        open_log()
+        open_log(filename)
         steps = 2000
         noneCount = 0
-        #print start_info
+        print start_info
         desc = look()
         map.add_to_path(desc)
         for i in range(steps):
@@ -145,12 +144,17 @@ def run(params, filename, directory):
     print(score)
     return score
 
-def __main__():
+def main():
     params = {
         "FIGHT_MODE": "on",
         "SOURCES": "all",
         "EXPLORING": "random",
     }
+    global path
+    path = os.path.dirname(__file__)
     filename = 'zork1.z5' if len(sys.argv) < 2 else sys.argv[1]
-    directory = path + '/textplayer/games/' if len(sys.argv) < 3 else sys.argv[2]
+    directory = path + 'textplayer/games/' if len(sys.argv) < 3 else sys.argv[2]
     return run(params, filename, directory)
+
+if __name__ == "__main__":
+    main()
