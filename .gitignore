@@ -12,6 +12,5 @@ questions
 scores
 tags
 gamelist*
-spearmint/
-jobs/
-output/
+Spearmint/
+mongo/

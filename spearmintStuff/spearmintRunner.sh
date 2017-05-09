@@ -1,1 +1,2 @@
-./spearmint/spearmint/bin/spearmint ./spearmintConfig.pb --driver=local --method=GPEIOptChooser --method-args=noiseless=1
+mongod --fork --dbpath mongo/db --logpath mongo/log
+python Spearmint/spearmint/main.py .

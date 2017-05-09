@@ -1,0 +1,24 @@
+
+{
+    "language"        : "PYTHON",
+    "main-file"       : "spearmintRunner.py",
+    "experiment-name" : "golovin",
+    "likelihood"      : "GAUSSIAN",
+    "variables" : {
+        "FIGHT_MODE" : {
+            "type" : "ENUM",
+            "size" : 1,
+            "options": ["on", "off"]
+        },
+        "EXPLORING" : {
+            "type" : "ENUM",
+            "size" : 1,
+            "options": ["random", "heuristic"]
+        },
+        "SOURCES": {
+            "type" : "ENUM",
+            "size" : 1,
+            "options": ["walktroughs", "tutorials", "all"]
+        }
+    }
+}

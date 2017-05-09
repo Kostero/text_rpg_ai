@@ -156,7 +156,7 @@ def main():
         "EXPLORING": "random",
     }
     filename = 'zork1.z5' if len(sys.argv) < 2 else sys.argv[1]
-    directory = os.path.dirname(__file__) + 'textplayer/games/' if len(sys.argv) < 3 else sys.argv[2]
+    directory = path + 'textplayer/games/' if len(sys.argv) < 3 else sys.argv[2]
     return run(params, filename, directory)
 
 if __name__ == "__main__":
