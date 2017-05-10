@@ -16,7 +16,9 @@ class Place:
     move_action_ratio = 5
     move_take_ratio = 50
     unknown_penalty = 100.0
-    Take, Move, Action, RunAway, Fight = range(5)
+    fight_mode = True
+    game_map_mode = False
+    Take, Move, Action, RunAway, Explore, Fight = range(5)
 
     class Command:
         def __init__(self):
@@ -105,9 +107,10 @@ class Place:
             self.useless_commands.clear()
             self.update_commands(self.commands, inv_nouns)
             self.update_commands(self.fight_commands, inv_nouns, allow_unknown=False)
-        fight = self._get_command(self.fight_commands, inv_nouns, allow_unknown=False)
-        if fight is not None:
-            return (self.Fight, fight)
+        if self.fight_mode:
+            fight = self._get_command(self.fight_commands, inv_nouns, allow_unknown=False)
+            if fight is not None:
+                return (self.Fight, fight)
         if self.dangerous():
             return (self.Move, self.RunAway)
         if self.taken < min(len(self.nouns), max(self.taken_limit, moves / self.move_take_ratio)):
@@ -117,14 +120,22 @@ class Place:
             self.taken_all = True
             return (self.Take, 'all')
         if self.actions - self.init_actions > moves / self.move_action_ratio:
-            return self.random_move()
+            return self.make_move()
         choice = self._get_command(self.commands, inv_nouns)
         if choice is None:
-            return self.random_move()
+            return self.make_move()
         self.actions += 1
         return (self.Action, choice)
 
-    def random_move(self):
+    def make_move(self):
+        if self.game_map_mode:
+            if len(self.directions) == 0:
+                return (self.Move, self.Explore)
+            index = random.randrange(len(self.directions))
+            result = self.directions[index]
+            del self.directions[index]
+            return (self.Move, result)
+
         return (self.Move, random.choice(mycommands.directions if len(self.directions) == 0 else self.directions))
 
     def useless_move(self, direction):
