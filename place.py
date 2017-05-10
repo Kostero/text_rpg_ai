@@ -6,18 +6,19 @@ import numpy as np
 import attention
 import math
 import mycommands
-from collections import namedtuple, defaultdict
+from collections import namedtuple, defaultdict, Counter
 from nltk_helper import get_nouns, get_similar_nouns, get_nouns_carefully
 
 class Place:
-    taken_limit = 5
+    taken_limit = 7
     noun_bonus = 2000
     init_actions = 15
-    move_action_ratio = 5
+    move_action_ratio = 7
     move_take_ratio = 50
     unknown_penalty = 500.0
     fight_mode = True
     game_map_mode = False
+    dangerous_count = 5
     Take, Move, Action, RunAway, Explore, Fight = range(6)
 
     class Command:
@@ -35,6 +36,7 @@ class Place:
         self.commands = self.Command()
         self.fight_commands = self.Command()
         self.useless_commands = set()
+        self.dangerous_commands = set()
         self.inventory_nr = -1
         self.weights = defaultdict(lambda: 0.5, attention.compute_weights(text))
         self.nouns = sorted({n for n in get_nouns_carefully(text) if n not in mycommands.directions},
@@ -46,6 +48,13 @@ class Place:
                 self.commands.items += mycommands.commands[sim]
             if sim in mycommands.fight_commands:
                 self.fight_commands.items += mycommands.fight_commands[sim]
+        self.dangerous_counter = [Counter() for i in range(self.dangerous_count)]
+
+    def reset(self):
+        self.taken = 0
+        self.taken_all = False
+        self.actions = 0
+        self.inventory_nr = -1
 
     def dangerous(self):
         return ' grue' in self.text
@@ -73,7 +82,7 @@ class Place:
                 else:
                     score = 0
                     break
-            if com in self.useless_commands:
+            if com in self.useless_commands or com in self.dangerous_commands:
                 score = 0
             rep.append(com)
             p[i] = score
@@ -98,7 +107,7 @@ class Place:
                 continue
             opt = commands.options[-1]
             del commands.options[-1]
-            if opt not in self.useless_commands:
+            if opt not in self.useless_commands and opt not in self.dangerous_commands:
                 return opt
 
     def get_command(self, inv_nouns, moves, inv_nr):
@@ -146,3 +155,16 @@ class Place:
 
     def useless_command(self, command):
         self.useless_commands.add(command)
+
+    def dangerous_command(self, command):
+        #print 'Dangerous command!!!', command
+        #print 'in: ', self.text
+        self.dangerous_commands.add(command)
+        if command.startswith('go '):
+            self.useless_move(command[3:])
+
+    def possibly_dangerous_command(self, command, nr):
+        if nr < self.dangerous_count:
+            self.dangerous_counter[nr][command] += 1
+            if self.dangerous_counter[nr][command] > nr:
+                self.dangerous_command(command)

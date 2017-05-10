@@ -26,8 +26,8 @@ class GameMap:
         self.group.append(-1)
     
     def break_path(self):
-        if self.path != []:
-            self.path[-1] = (self.path[-1][0], None)
+        if self.moves != []:
+            self.moves[-1] = None
 
     def update(self):
         n = len(self.path)

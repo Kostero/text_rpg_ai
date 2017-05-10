@@ -30,7 +30,6 @@ def run(params, filename, directory, steps = 2000, quiet = False):
     max_score = 0
     possible_score = 0
 
-    global t
     t = tp.TextPlayer(filename, directory)
     start_info = t.run()
 
@@ -56,10 +55,7 @@ def run(params, filename, directory, steps = 2000, quiet = False):
         
         tscore = t.get_score()
         if tscore is not None:
-            (new_score, possible_score) = tscore
-            if new_score < score:
-                agent.handle_death()
-            score = new_score
+            (score, possible_score) = tscore
             max_score = max(max_score, score)
             if not quiet:
                 print("Score:", score, "Possible score:", possible_score)
@@ -79,7 +75,8 @@ def run(params, filename, directory, steps = 2000, quiet = False):
 
     scores.write("{3} {0} (max {2}) / {1}\n".format(score, possible_score, max_score, filename))
     if quiet:
-        print
+        print '\r{0}: finished, score: {1} / {3}, max score: {2} / {3}'.format(filename,
+            score, max_score, possible_score)
     else:
         print 'final score:', score
         print 'max score:', max_score

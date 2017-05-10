@@ -28,6 +28,8 @@ class GolovinAgent:
 
         self.desc = self.look()
         self.map.add_to_path(self.desc)
+
+        self.commands_history = []
         
     def look(self):
         desc = self.t.execute_command('look')
@@ -47,7 +49,7 @@ class GolovinAgent:
         return desc
 
     #returns tuple (action, actionType, response, number of additional commands (such as look, inventory))
-    def makeAction(self):
+    def _makeAction(self):
         if self.commands_queue != []:
             command, commandType = self.commands_queue[-1]
             del self.commands_queue[-1]
@@ -96,5 +98,36 @@ class GolovinAgent:
         self.desc = new_desc
         return (command_text, 'command', response, additional_commands)
 
+    #returns tuple (action, actionType, response, number of additional commands (such as look, inventory))
+    def makeAction(self):
+        death_texts = ['you have died', 'you are dead', 'would you like to restart',
+             'please give one of the answers above']
+        current_place = self.desc
+        action = self._makeAction()
+        self.commands_history.append((action[0], current_place))
+        response = action[2].lower()
+        for text in death_texts:
+            if text in response or text in self.desc:
+                self.handle_death()
+                break
+        return action
+
     def handle_death(self):
+        #print 'Golovin is dead :(\t restaring...'
+        #print 'Last place:', self.commands_history[-1][1]
+        #print 'Last command:', self.commands_history[-1][0]
         self.map.break_path()
+        self.t.execute_command('restart')
+        self.inv.update()
+        for i, (command, place) in enumerate(reversed(self.commands_history)):
+            if i >= Place.dangerous_count:
+                break
+            if place in self.places:
+                self.places[place].possibly_dangerous_command(command, i)
+        self.commands_history = []
+        self.desc = self.look()
+        self.map.add_to_path(self.desc)
+
+        for place in self.places.itervalues():
+            place.reset()
+        Place.move_action_ratio += 1
