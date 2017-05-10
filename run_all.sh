@@ -1,4 +1,4 @@
 for file in `cat $1`
 do
-	python golovinAgent.py $file gamesDownloader/games/
+	python golovinRunner.py $file --path=gamesDownloader/games/ --quiet --steps=$2
 done

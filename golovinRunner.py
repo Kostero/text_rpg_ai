@@ -1,0 +1,121 @@
+from golovinAgent import GolovinAgent
+import textplayer.textPlayer as tp
+import logger
+import random
+import sys
+import os
+
+path = os.path.dirname(__file__)
+if path != "":
+    path += "/"
+
+def parse_args():
+    files = []
+    args = {}
+    for arg in sys.argv[1:]:
+        if arg.startswith('--'):
+            s = arg[2:].split('=')
+            if len(s) == 1:
+                s.append('true')
+            args[s[0]] = s[1]
+        else:
+            files.append(arg)
+    return files, args
+
+def run(params, filename, directory, steps = 2000, quiet = False):
+    if not directory.endswith('/'):
+        directory += '/'
+    scores = open(path+'scores', 'a')
+    score = 0
+    max_score = 0
+    possible_score = 0
+
+    global t
+    t = tp.TextPlayer(filename, directory)
+    start_info = t.run()
+
+    agent = GolovinAgent(t, start_info, params)
+
+    if start_info is None:
+        print 'start_info is None'
+        t.quit()
+        exit(0)
+    logger.open_log(path, filename)
+    noneCount = 0
+    for i in range(steps):
+        command, command_type, response, additional = agent.makeAction()
+        if not quiet:
+            print agent.desc
+            print agent.inv.text
+            print command
+            print response
+        logger.log('description', agent.desc)
+        logger.log('inventory', agent.inv.text)
+        logger.log(command_type, command)
+        logger.log('response', response)
+        
+        tscore = t.get_score()
+        if tscore is not None:
+            (new_score, possible_score) = tscore
+            if new_score < score:
+                agent.handle_death()
+            score = new_score
+            max_score = max(max_score, score)
+            if not quiet:
+                print("Score:", score, "Possible score:", possible_score)
+            logger.log('score', str(score) + ' ' + str(possible_score))
+            noneCount = 0
+        else:
+            noneCount += 1
+            if noneCount > 10:
+                break
+
+        if quiet:
+            print '\r{0}: {1}%, score: {2} / {3}'.format(filename, (i+1) * 100 / steps, score, possible_score),
+
+    agent.map.update()
+    agent.map.print_all()
+
+    t.quit()
+    #except KeyboardInterrupt:
+    #    exit(0)
+    #except Exception as e:
+    #    print '\nexception:', e.__doc__, e.message
+    #    t.quit()
+
+    scores.write("{3} {0} (max {2}) / {1}\n".format(score, possible_score, max_score, filename))
+    if quiet:
+        print
+    else:
+        print 'final score:', score
+        print 'max score:', max_score
+
+    return score
+
+def main():
+    params = {
+        "FIGHT_MODE": "on",
+        "SOURCES": "all",
+        "EXPLORING": "random",
+    }
+    default_args = {
+        "path": "textplayer/games/",
+        "quiet": "false",
+        "steps": "2000"
+    }
+    files, args = parse_args()
+    default_args.update(args)
+    if len(files) != 1:
+        print 'Usage: python golovinRunner.py [filename] [options]'
+        print 'Options:'
+        print '\t --path=[path to games folder]\t <- sets the path to folder with game file (textplayer/games/ by default)'
+        print '\t --quiet\t <- prevents the agent from writing all the stuff'
+        print '\t --steps=[number of steps]\t <- sets the number of steps (2000 by default)'
+        sys.exit(0)
+    filename = files[0]
+    directory = path + default_args['path']
+    return run(params, filename, directory, steps=int(default_args['steps']), 
+                                    quiet=(default_args['quiet'] == 'true'))
+
+if __name__ == "__main__":
+    main()

@@ -1,4 +1,4 @@
 for game in `ls textplayer/games`
 do
-  python golovinAgent.py $game
+  python golovinRunner.py $game
 done

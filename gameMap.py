@@ -24,6 +24,10 @@ class GameMap:
         self.path.append(self.get_id(desc))
         self.moves.append(direction)
         self.group.append(-1)
+    
+    def break_path(self):
+        if self.path != []:
+            self.path[-1] = (self.path[-1][0], None)
 
     def update(self):
         n = len(self.path)
@@ -31,13 +35,18 @@ class GameMap:
         group = pvector(range(n))
         edges = freeze({ i: { m: i + 1 } if m is not None else {} for i, m in enumerate(self.moves[1:])})
         edges = edges.set(n - 1, pmap())
+        edges_all = [{} for i in range(len(self.descriptions))]
+        for k, v in edges.iteritems():
+            edges_all[self.path[k]].update(v)
+        consistent = set(range(len(self.descriptions)))
+        for k, v in edges.iteritems():
+            if self.path[k] not in consistent:
+                continue
+            for label, u in v.iteritems():
+                if edges_all[self.path[k]][label] != u:
+                    consistent.remove(self.path[k])
+                    break
         items = freeze({ i: [i] for i in range(n) })
-        pairs = []
-        for i, p1 in enumerate(self.path):
-            for j, p2 in enumerate(self.path[i+1:]):
-                if p1 == p2:
-                    pairs.append((i, i+1+j))
-        random.shuffle(pairs)
 
         def merge(a, b):
             if e_group[a] == e_group[b]:
@@ -63,8 +72,20 @@ class GameMap:
                     return False
             return True
 
-        limit = 2000000
-        for a, b in pairs[:limit]:
+        consistent_pairs = []
+        inconsistent_pairs = []
+        for i, a in enumerate(self.path):
+            for j, b in enumerate(self.path[i+1:]):
+                if a == b:
+                    if a in consistent:
+                        consistent_pairs.append((i, i + j + 1))
+                    else:
+                        inconsistent_pairs.append((i, i + j + 1))
+        random.shuffle(consistent_pairs)
+        random.shuffle(inconsistent_pairs)
+        for a, b in consistent_pairs + inconsistent_pairs:
+            if group[a] == group[b]:
+                continue
             e_group = group.evolver()
             e_edges = edges.evolver()
             e_items = items.evolver()
@@ -84,7 +105,7 @@ class GameMap:
         print 'Edges:'
         for a, l in self.edges.iteritems():
             print a, '->', { k: self.group[v] for k, v in l.iteritems() }
-        
+    
 
 if __name__ == '__main__':
     mp = GameMap()

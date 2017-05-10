@@ -1,0 +1,13 @@
+Best result: nan
+Job-id: -1
+Parameters: 
+name: "FIGHT_MODE"
+str_val: "on"
+str_val: "off"
+name: "EXPLORING"
+str_val: "heuristic"
+str_val: "random"
+name: "SOURCES"
+str_val: "walktroughs"
+str_val: "walktroughs"
+str_val: "walktroughs"
