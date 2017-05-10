@@ -23,55 +23,61 @@ def parse_args():
     return files, args
 
 def run(params, filename, directory, steps = 2000, quiet = False):
-    if not directory.endswith('/'):
-        directory += '/'
-    scores = open(path+'scores', 'a')
-    score = 0
-    max_score = 0
-    possible_score = 0
+    try:
+        if not directory.endswith('/'):
+            directory += '/'
+        scores = open(path+'scores', 'a')
+        score = 0
+        max_score = 0
+        possible_score = 0
 
-    t = tp.TextPlayer(filename, directory)
-    start_info = t.run()
+        t = tp.TextPlayer(filename, directory)
+        start_info = t.run()
 
-    agent = GolovinAgent(t, start_info, params)
+        agent = GolovinAgent(t, start_info, params)
 
-    if start_info is None:
-        print 'start_info is None'
-        t.quit()
-        exit(0)
-    logger.open_log(path, filename)
-    noneCount = 0
-    for i in range(steps):
-        command, command_type, response, additional = agent.makeAction()
-        if not quiet:
-            print agent.desc
-            print agent.inv.text
-            print command
-            print response
-        logger.log('description', agent.desc)
-        logger.log('inventory', agent.inv.text)
-        logger.log(command_type, command)
-        logger.log('response', response)
-        
-        tscore = t.get_score()
-        if tscore is not None:
-            (score, possible_score) = tscore
-            max_score = max(max_score, score)
+        if start_info is None:
+            print 'start_info is None'
+            t.quit()
+            exit(0)
+        logger.open_log(path, filename)
+        noneCount = 0
+        for i in range(steps):
+            command, command_type, response, additional = agent.makeAction()
             if not quiet:
-                print("Score:", score, "Possible score:", possible_score)
-            logger.log('score', str(score) + ' ' + str(possible_score))
-            noneCount = 0
-        else:
-            noneCount += 1
-            if noneCount > 10:
-                break
+                print agent.desc
+                print agent.inv.text
+                print command
+                print response
+            logger.log('description', agent.desc)
+            logger.log('inventory', agent.inv.text)
+            logger.log(command_type, command)
+            logger.log('response', response)
+            
+            tscore = t.get_score()
+            if tscore is not None:
+                (score, possible_score) = tscore
+                max_score = max(max_score, score)
+                if not quiet:
+                    print("Score:", score, "Possible score:", possible_score)
+                logger.log('score', str(score) + ' ' + str(possible_score))
+                noneCount = 0
+            else:
+                noneCount += 1
+                if noneCount > 10:
+                    break
 
-        if quiet:
-            print '\r{0}: {1}%, score: {2} / {3}'.format(filename, (i+1) * 100 / steps, score, possible_score),
+            if quiet:
+                print '\r{0}: {1}%, score: {2} / {3}'.format(filename, (i+1) * 100 / steps, score, possible_score),
 
-    if not quiet:
-        agent.map.update()
-        agent.map.print_all()
+        if not quiet:
+            agent.map.update()
+            agent.map.print_all()
+
+        t.quit()
+
+    except IOError:
+        pass
 
     scores.write("{3} {0} (max {2}) / {1}\n".format(score, possible_score, max_score, filename))
     if quiet:
@@ -80,13 +86,6 @@ def run(params, filename, directory, steps = 2000, quiet = False):
     else:
         print 'final score:', score
         print 'max score:', max_score
-
-    t.quit()
-    #except KeyboardInterrupt:
-    #    exit(0)
-    #except Exception as e:
-    #    print '\nexception:', e.__doc__, e.message
-    #    t.quit()
 
     return score
 

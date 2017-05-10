@@ -13,17 +13,27 @@ def evaluate(path):
     t.run()
     n = len(path)
     score = 0
+    first = 0
     for i, value in enumerate(path):
+        try:
             t.execute_command(value)
             got_score = t.get_score()
             if got_score is None:
                 break
-            score, possible_score = got_score
+            new_score, possible_score = got_score
+            if new_score != score:
+                first = i
+                score = new_score
             print '\r{0}: {1}%, score: {2} / {3}'.format(filename, (i+1) * 100 / n, score, possible_score),
-    t.quit()
-    return score
+        except IOError:
+            break
+    try:
+        t.quit()
+    except:
+        pass
+    return score, i
 
-score = evaluate(path)
+score = evaluate(path)[0]
 fails = 5
 initial_n = len(path)
 i = 128
@@ -34,13 +44,17 @@ while i > 0:
     while current_fails < fails:
         dropped = { random.randrange(len(path)) for _ in range(i) }
         new_path = [ x for (j, x) in enumerate(path) if j not in dropped ]
-        new_score = evaluate(new_path)
-        if new_score >= score:
-            print '\nreduced path length from', initial_n, 'to', len(new_path)
-            path = new_path
-            current_fails = 0
-        else:
-            current_fails += 1
+        try:
+            new_score, pos = evaluate(new_path)
+            new_path = new_path[:pos+1]
+            if new_score >= score:
+                print '\nreduced path length from', initial_n, 'to', len(new_path)
+                path = new_path
+                current_fails = 0
+            else:
+                current_fails += 1
+        except IOError:
+            print '\nPipe error'
     i /= 2
     fails += 1
 
