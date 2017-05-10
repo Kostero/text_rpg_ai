@@ -20,10 +20,6 @@ class TextPlayer:
 	# Initializes the class, sets variables
 	def __init__(self, game_filename, game_directory):
 		signal(SIGPIPE, SIG_DFL)
-<<<<<<< HEAD
-=======
-		#print(game_filename, game_directory)
->>>>>>> 4572a2218bb160d2acf959e82d10e35646428506
 		self.game_loaded_properly = True
 
 		# Verify that specified game file exists, else limit functionality
