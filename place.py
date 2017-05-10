@@ -18,7 +18,7 @@ class Place:
     unknown_penalty = 100.0
     fight_mode = True
     game_map_mode = False
-    Take, Move, Action, RunAway, Explore, Fight = range(5)
+    Take, Move, Action, RunAway, Explore, Fight = range(6)
 
     class Command:
         def __init__(self):
