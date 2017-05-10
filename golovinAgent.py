@@ -42,7 +42,7 @@ def log(header, text):
     log_file.write(text.replace('\\', '_') + '\n')
 
 
-def run(params, filename, directory):
+def run(params, filename, directory, job_id = None):
     global path
     path = os.path.dirname(__file__)
     if path != "":
@@ -52,13 +52,12 @@ def run(params, filename, directory):
     max_score = 0
     possible_score = 0
     #print '\n' + filename,
-    global t
-    t = tp.TextPlayer(filename, directory)
-    start_info = t.run()
-
-    map = gameMap.GameMap()
-
     try:
+        global t
+        t = tp.TextPlayer(filename, directory)
+        start_info = t.run()
+
+        map = gameMap.GameMap()
         if start_info is None:
             print 'start_info is None'
             t.quit()
@@ -134,20 +133,23 @@ def run(params, filename, directory):
                 noneCount += 1
                 if noneCount > 10:
                     break
-
-            print '\r{0}: {1}%, score: {2} / {3}'.format(filename, (i+1) * 100 / steps, score, possible_score),
+            if job_id is None:
+                print '\r{0}: {1}%, score: {2} / {3}'.format(filename, (i+1) * 100 / steps, score, possible_score),
 
         t.quit()
     except KeyboardInterrupt:
         exit(0)
     except Exception as e:
         print '\nexception:', e.__doc__, e.message
-        t.quit()
+        try:
+            t.quit()
+        except:
+            pass
         #print(score)
         return score
     scores.write("{3} {0} (max {2}) / {1}\n".format(score, possible_score, max_score, filename))
-    map.update()
-    map.print_all()
+    #map.update()
+    #map.print_all()
     #print(score)
     return score
 
@@ -158,7 +160,7 @@ def main():
         "EXPLORING": "random",
     }
     filename = 'zork1.z5' if len(sys.argv) < 2 else sys.argv[1]
-    directory = path + 'textplayer/games/' if len(sys.argv) < 3 else sys.argv[2]
+    directory = os.path.dirname(__file__) + 'textplayer/games/' if len(sys.argv) < 3 else sys.argv[2]
     return run(params, filename, directory)
 
 if __name__ == "__main__":
