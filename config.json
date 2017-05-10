@@ -13,12 +13,12 @@
         "EXPLORING" : {
             "type" : "ENUM",
             "size" : 1,
-            "options": ["random", "heuristic"]
+            "options": ["random"]
         },
         "SOURCES": {
             "type" : "ENUM",
             "size" : 1,
-            "options": ["walktroughs", "tutorials", "all"]
+            "options": ["all"]
         }
     }
 }

@@ -27,6 +27,7 @@ def load_commands(filename):
 commands = load_commands(path+'/commands/preprocessedCommands.txt')
 fight_commands = load_commands(path+'/commands/preprocessedFightCommands.txt')
 
+global directions
 directions = ['east', 'west', 'south', 'north', 'southeast', 'northwest', 'northeast', 'southwest', 'up', 'down']
 last_move = 0
 

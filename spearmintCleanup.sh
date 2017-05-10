@@ -1,0 +1,1 @@
+Spearmint/spearmint/cleanup.sh

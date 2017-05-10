@@ -5,6 +5,7 @@ import nltk
 import numpy as np
 import attention
 import math
+import mycommands
 from collections import namedtuple, defaultdict
 from nltk_helper import get_nouns, get_similar_nouns, get_nouns_carefully
 
