@@ -7,6 +7,10 @@ from functools import partial
 from inventory import Inventory
 from place import Place
 
+if __name__ == '__main__':
+    print 'To run the agent, use golovinRunner.py instead'
+    sys.exit(0)
+
 class GolovinAgent:
 
     def __init__(self, text_player, start_info, params):
