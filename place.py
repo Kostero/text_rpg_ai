@@ -11,11 +11,11 @@ from nltk_helper import get_nouns, get_similar_nouns, get_nouns_carefully
 
 class Place:
     taken_limit = 5
-    noun_bonus = 500
+    noun_bonus = 2000
     init_actions = 15
     move_action_ratio = 5
     move_take_ratio = 50
-    unknown_penalty = 100.0
+    unknown_penalty = 500.0
     fight_mode = True
     game_map_mode = False
     Take, Move, Action, RunAway, Explore, Fight = range(6)

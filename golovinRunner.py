@@ -73,15 +73,9 @@ def run(params, filename, directory, steps = 2000, quiet = False):
         if quiet:
             print '\r{0}: {1}%, score: {2} / {3}'.format(filename, (i+1) * 100 / steps, score, possible_score),
 
-    agent.map.update()
-    agent.map.print_all()
-
-    t.quit()
-    #except KeyboardInterrupt:
-    #    exit(0)
-    #except Exception as e:
-    #    print '\nexception:', e.__doc__, e.message
-    #    t.quit()
+    if not quiet:
+        agent.map.update()
+        agent.map.print_all()
 
     scores.write("{3} {0} (max {2}) / {1}\n".format(score, possible_score, max_score, filename))
     if quiet:
@@ -89,6 +83,13 @@ def run(params, filename, directory, steps = 2000, quiet = False):
     else:
         print 'final score:', score
         print 'max score:', max_score
+
+    t.quit()
+    #except KeyboardInterrupt:
+    #    exit(0)
+    #except Exception as e:
+    #    print '\nexception:', e.__doc__, e.message
+    #    t.quit()
 
     return score
 

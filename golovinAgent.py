@@ -95,3 +95,6 @@ class GolovinAgent:
             self.map.add_to_path(new_desc, command_text if command[0] == Place.Move else None)
         self.desc = new_desc
         return (command_text, 'command', response, additional_commands)
+
+    def handle_death(self):
+        self.map.break_path()
