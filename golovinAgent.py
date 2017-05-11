@@ -23,6 +23,8 @@ class GolovinAgent:
         self.params = params
         self.commands_queue = []
 
+        self.path = []
+
         text_player.execute_command('verbose')
         text_player.execute_command('verbose')
 
@@ -50,6 +52,19 @@ class GolovinAgent:
         descriptions.add(desc)
         return desc
 
+    def follow_path(self):
+        action = self.path[0][1]
+        actionType = 'command'
+        response = self.t.execute_command(action)
+        new_desc = self.look()
+        if self.map.get_id(new_desc) != self.path[1][0]:
+            self.path = []
+        if new_desc != self.desc or response.endswith(self.desc) or self.desc.endswith(response):
+            self.map.add_to_path(new_desc)
+        self.desc = new_desc
+        del self.path[0]
+        return action, actionType, response, 1
+
     #returns tuple (action, actionType, response, number of additional commands (such as look, inventory))
     def _makeAction(self):
         if self.commands_queue != []:
@@ -57,6 +72,9 @@ class GolovinAgent:
             del self.commands_queue[-1]
             response = self.t.execute_command(command)
             return (command, commandType, response, 0)
+
+        if len(self.path) > 1:
+            return self.follow_path()
 
         if self.desc not in self.places:
             self.places[self.desc] = Place(self.desc)
@@ -68,9 +86,14 @@ class GolovinAgent:
             self.moves += 1
             if command[1] == Place.RunAway:
                 command_text = mycommands.get_back_command()
+            elif command[1] == Place.Explore:
+                self.map.update()
+                self.path = self.map.find_path()
+                return self.follow_path()
             else: command_text = mycommands.get_move_command(command[1])
         else:
             command_text = command[1]
+            self.map.action()
 
         additional_commands = 0
 
@@ -119,6 +142,7 @@ class GolovinAgent:
         #print 'Last place:', self.commands_history[-1][1]
         #print 'Last command:', self.commands_history[-1][0]
         self.map.break_path()
+        self.map.clear_actions()
         self.t.execute_command('restart')
         self.inv.update()
         for i, (command, place) in enumerate(reversed(self.commands_history)):
