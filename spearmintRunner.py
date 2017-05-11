@@ -9,7 +9,7 @@ path = os.path.dirname(__file__)
 
 def main(job_id, params):
     directory = 'textplayer/games/'
-    games = open("textplayer/max_scores.txt")
+    games = open("textplayer/max_scores_selected.txt")
     scores = []
     for _ in range(10):
         line = games.readline()
