@@ -16,5 +16,6 @@ git clone https://github.com/HIPS/Spearmint.git
 pip install -e Spearmint/
 mkdir mongo
 cd mongo
-mkdir db logs
+mkdir db
 cd ..
+mkdir logs
