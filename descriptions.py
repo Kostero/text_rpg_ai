@@ -2,6 +2,8 @@ from collections import Counter
 import os
 
 path = os.path.dirname(__file__)
+if path == '':
+    path = '.'
 
 def _process(p):
     for token in p.split():

@@ -87,13 +87,19 @@ def run(params, filename, directory, steps = 2000, quiet = False):
         print 'final score:', score
         print 'max score:', max_score
 
-    return score
+    return (score + max_score) / 2.0
 
 def main():
     params = {
         "FIGHT_MODE": "on",
         "SOURCES": "all",
         "EXPLORING": "random",
+        "PLACE_TAKEN_LIMIT": 7,
+        "PLACE_NOUN_BONUS": 2000.0,
+        "PLACE_INIT_ACTIONS": 15,
+        "PLACE_MOVE_ACTION_RATIO": 7,
+        "PLACE_UNKNOWN_PENALTY": 500.0,
+        "PLACE_FREQUENCY_EXPONENT": 0.7
     }
     default_args = {
         "path": "textplayer/games/",

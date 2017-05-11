@@ -30,6 +30,8 @@ class GolovinAgent:
         self.map.add_to_path(self.desc)
 
         self.commands_history = []
+
+        Place.update_params(params)
         
     def look(self):
         desc = self.t.execute_command('look')
