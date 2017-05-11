@@ -3,6 +3,8 @@ import word2vec
 import os
 
 path = os.path.dirname(__file__)
+if path == '':
+    path = '.'
 
 w2v = word2vec.load(path+'/word2vec/data/vec.bin')
 

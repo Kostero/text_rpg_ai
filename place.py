@@ -16,10 +16,21 @@ class Place:
     move_action_ratio = 7
     move_take_ratio = 50
     unknown_penalty = 500.0
+    frequency_exponent = 0.7
     fight_mode = True
     game_map_mode = False
     dangerous_count = 5
     Take, Move, Action, RunAway, Explore, Fight = range(6)
+
+    @staticmethod
+    def update_params(params):
+        Place.taken_limit = params['PLACE_TAKEN_LIMIT']
+        Place.noun_bonus = params['PLACE_NOUN_BONUS']
+        Place.init_actions = params['PLACE_INIT_ACTIONS']
+        Place.move_action_ratio = params['PLACE_MOVE_ACTION_RATIO']
+        Place.unknown_penalty = params['PLACE_UNKNOWN_PENALTY']
+        Place.frequency_exponent = params['PLACE_FREQUENCY_EXPONENT']
+        Place.fight_mode = params['FIGHT_MODE'] == "on"
 
     class Command:
         def __init__(self):
@@ -40,7 +51,7 @@ class Place:
         self.inventory_nr = -1
         self.weights = defaultdict(lambda: 0.5, attention.compute_weights(text))
         self.nouns = sorted({n for n in get_nouns_carefully(text) if n not in mycommands.directions},
-                            key=lambda x: math.sqrt(descriptions.frequency(x) + 2) / self.weights[x])
+                            key=lambda x: math.pow(descriptions.frequency(x) + 1, self.frequency_exponent) / self.weights[x])
         self.similar_nouns = get_similar_nouns(self.nouns)
         self.directions = mycommands.directions[:]
         for sim, _ in self.similar_nouns.iteritems():
@@ -71,11 +82,13 @@ class Place:
             for n in c.nouns:
                 if n in self.similar_nouns:
                     (k, sim) = self.similar_nouns[n]
-                    score *= self.noun_bonus * k * self.weights[n] / math.sqrt(descriptions.frequency(n) + 2)
+                    score *= self.noun_bonus * k * self.weights[n] / math.pow(descriptions.frequency(n) + 1,
+                                                                            self.frequency_exponent)
                     com = com.replace(n, sim)
                 elif n in inv_nouns:
                     (k, sim) = inv_nouns[n]
-                    score *= self.noun_bonus * k * self.weights[n] / math.sqrt(descriptions.frequency(n) + 2)
+                    score *= self.noun_bonus * k * self.weights[n] / math.pow(descriptions.frequency(n) + 1,
+                                                                            self.frequency_exponent)
                     com = com.replace(n, sim)
                 elif allow_unknown:
                     score /= self.unknown_penalty

@@ -6,7 +6,7 @@ import numpy as np
 
 class Inventory:
     noun_bonus = 5
-    commands_limit = 15
+    commands_limit = 10
     unknown_penalty = 100.0
     blacklist = {'drop', 'leave', 'throw', 'off'}
 

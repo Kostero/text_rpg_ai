@@ -12,6 +12,7 @@ cd pyStatParser
 python setup.py install --user
 cd ..
 git clone https://github.com/HIPS/Spearmint.git
+pip install -e Spearmint/
 mkdir mongo
 cd mongo
 mkdir db logs

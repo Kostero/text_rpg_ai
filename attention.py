@@ -40,6 +40,8 @@ word2number = dict()
 number2word = dict()
 
 path = os.path.dirname(__file__)
+if path == '':
+    path = '.'
 
 with open(path+"/data/attention_model/words.txt", 'rb') as f:
         number = 0

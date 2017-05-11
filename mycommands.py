@@ -6,6 +6,8 @@ from collections import *
 import os
 
 path = os.path.dirname(__file__)
+if path == '':
+    path = '.'
 
 Command = namedtuple('Command', ['text', 'nouns', 'freq'])
 

@@ -19,6 +19,42 @@
             "type" : "ENUM",
             "size" : 1,
             "options": ["all"]
+        },
+        "PLACE_TAKEN_LIMIT": {
+            "type" : "INT",
+            "size" : 1,
+            "min" : 1,
+            "max" : 15
+        },
+        "PLACE_NOUN_BONUS": {
+            "type" : "FLOAT",
+            "size" : 1,
+            "min" : 10,
+            "max" : 5000 
+        },
+        "PLACE_INIT_ACTIONS": {
+            "type" : "INT",
+            "size" : 1,
+            "min" : 3,
+            "max" : 15
+        },
+        "PLACE_MOVE_ACTION_RATIO": {
+            "type": "INT",
+            "size": 1,
+            "min": 1,
+            "max": 20
+        },
+        "PLACE_UNKNOWN_PENALTY": {
+            "type": "FLOAT",
+            "size": 1,
+            "min": 10,
+            "max": 3000
+        },
+        "PLACE_FREQUENCY_EXPONENT": {
+            "type": "FLOAT",
+            "size": 1,
+            "min": 0,
+            "max": 1
         }
     }
 }
