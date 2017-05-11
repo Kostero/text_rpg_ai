@@ -3,6 +3,7 @@ import logger
 import random
 import sys
 import os
+import numpy as np
 
 path = os.path.dirname(__file__)
 if path != "":
@@ -23,6 +24,10 @@ def parse_args():
 
 def run(params, filename, directory, steps = 2000, quiet = False):
     try:
+        for k, v in params.items():
+            if type(v) == np.ndarray:
+                params[k] = v[0]
+
         if not directory.endswith('/'):
             directory += '/'
 
