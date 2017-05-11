@@ -1,5 +1,7 @@
 import random
 from pyrsistent import pvector, pmap, thaw, freeze
+from Queue import Queue
+from collections import defaultdict
 
 class GameMap:
     def __init__(self):
@@ -7,8 +9,10 @@ class GameMap:
         self.ids = {}
         self.path = []
         self.moves = []
+        self.path_actions = []
         self.group = []
         self.edges = {}
+        self.actions = defaultdict(int)
 
     def get_id(self, desc):
         statements = desc.split('.')
@@ -24,6 +28,13 @@ class GameMap:
         self.path.append(self.get_id(desc))
         self.moves.append(direction)
         self.group.append(-1)
+        self.path_actions.append(0)
+
+    def action(self):
+        self.path_actions[-1] += 1
+
+    def clear_actions(self):
+        self.path_actions = [0 for _ in self.path_actions]
     
     def break_path(self):
         if self.moves != []:
@@ -93,8 +104,39 @@ class GameMap:
                 group = e_group.persistent()
                 edges = e_edges.persistent()
                 items = e_items.persistent()
-        self.group = thaw(group)
-        self.edges = thaw(edges)
+        group = thaw(group)
+        edges = thaw(edges)
+        actions = defaultdict(int)
+        for g, a in zip(group, self.path_actions):
+            actions[g] += a
+        for e in edges.itervalues():
+            for l, v in e.items():
+                e[l] = group[v]
+        self.group = group
+        self.edges = edges
+        self.actions = actions
+    
+    def find_path(self):
+        start = self.group[self.path[-1]]
+        prev = { start: None }
+        dist = { start: 0 }
+        q = Queue()
+        q.put_nowait(start)
+        while not q.empty():
+            v = q.get_nowait()
+            for l, u in self.edges[v].iteritems():
+                if u not in prev:
+                    prev[u] = (v, l)
+                    dist[u] = dist[v] + 1
+                    q.put_nowait(u)
+        dist[start] = 1e10
+        best, _ = min(dist.items(), key=lambda (k, v): v + self.actions[k])
+        path = [(best, None)]
+        while prev[best] != None:
+            path.append(prev[best])
+            best = prev[best][0]
+        path.reverse()
+        return path
 
     def print_all(self):
         print
@@ -109,11 +151,30 @@ class GameMap:
 
 if __name__ == '__main__':
     mp = GameMap()
-    mp.add_to_path('a')
-    mp.add_to_path('b', 'x')
-    mp.add_to_path('c', 'x')
-    mp.add_to_path('a', 'x')
-    mp.add_to_path('b', 'x')
-    mp.add_to_path('b', 'x')
+    mp.add_to_path('1')
+    mp.add_to_path('3', 'a')
+    mp.add_to_path('4', 'd')
+    mp.add_to_path('5', 'e')
+    mp.action()
+    mp.action()
+    mp.action()
+    mp.action()
+    mp.add_to_path('4', 'f')
+    mp.add_to_path('6', 'g')
+    mp.action()
+    mp.action()
+    mp.action()
+    mp.action()
+    mp.add_to_path('3', 'h')
+    mp.add_to_path('2', 'b')
+    mp.add_to_path('4', 'c')
+    mp.action()
+    mp.action()
+    mp.action()
+    mp.action()
+    mp.action()
     mp.update()
-    mp.print_all()
+    print mp.edges
+    print mp.group
+    print mp.actions
+    print mp.find_path()
