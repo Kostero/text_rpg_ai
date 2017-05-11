@@ -4,6 +4,14 @@
     "main-file"       : "spearmintRunner.py",
     "experiment-name" : "golovin",
     "likelihood"      : "GAUSSIAN",
+    "polling-time"    : 1,
+    "resources" : {
+        "my-machine" : {
+            "scheduler"         : "local",
+            "max-concurrent"    : 4,
+            "max-finished-jobs" : 1000
+        }
+    },
     "variables" : {
         "FIGHT_MODE" : {
             "type" : "ENUM",
