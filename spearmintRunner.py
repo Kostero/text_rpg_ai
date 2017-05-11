@@ -24,6 +24,6 @@ def main(job_id, params):
         scores.append(score / float(max_score))
     games.close()
     positive = sum([1 for score in scores if score > 0])
-    return positive * 0.2 + sum(scores)
+    return -(positive * 0.2 + sum(scores))
 
 #print(main(None, {"FIGHT_MODE": "on"}))
