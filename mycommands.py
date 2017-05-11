@@ -30,9 +30,9 @@ import json
 with open('params.json') as jsonfile:
     params = json.load(jsonfile)
 
-
-commands = load_commands(path+'/commands/preprocessedCommands.txt')
-fight_commands = load_commands(path+'/commands/preprocessedFightCommands.txt')
+mode = params["SOURCES"]
+commands = load_commands(path+'/commands/preprocessedCommands_'+mode+'.txt')
+fight_commands = load_commands(path+'/commands/preprocessedFightCommands_'+mode+'.txt')
 
 global directions
 directions = ['east', 'west', 'south', 'north', 'southeast', 'northwest', 'northeast', 'southwest', 'up', 'down']
