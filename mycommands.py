@@ -24,6 +24,11 @@ def load_commands(filename):
                 print 'failed to parse', l
     return result
 
+import json
+with open('params.json') as jsonfile:
+    params = json.load(jsonfile)
+
+
 commands = load_commands(path+'/commands/preprocessedCommands.txt')
 fight_commands = load_commands(path+'/commands/preprocessedFightCommands.txt')
 
