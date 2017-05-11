@@ -1,4 +1,5 @@
 for game in `ls texts`
 do
-  python textsParser.py $game >> parsedCommands.txt
+  echo $game
+  python textsParser.py texts/$game >> parsedCommands.txt
 done
