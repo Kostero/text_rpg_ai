@@ -11,9 +11,9 @@ def main(job_id, params):
     directory = 'textplayer/games/'
     games = open("textplayer/max_scores.txt")
     scores = []
-    for _ in range(2):
+    for _ in range(10):
         line = games.readline()
-        filename = line.strip().split(" ")[0]
+        [filename, max_score] = line.strip().split(" ")
         score = -0
         try:
             score = golovinRunner.run(params, filename, directory, 2000, True)
@@ -21,9 +21,10 @@ def main(job_id, params):
             print "exception:", e.message
         #except None:
         #    pass
+        if score > 0:
+            score += 0.2
         scores.append(score / float(max_score))
     games.close()
-    positive = sum([1 for score in scores if score > 0])
-    return -(positive * 0.2 + sum(scores))
+    return 1.2 + -(mean(scores))
 
-print(main(None, {"FIGHT_MODE": "on", "SOURCES": "all"}))
+#print(main(None, {"FIGHT_MODE": "on", "SOURCES": "all"}))
