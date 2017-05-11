@@ -11,7 +11,7 @@ def main(job_id, params):
     directory = 'textplayer/games/'
     games = open("textplayer/max_scores_selected.txt")
     scores = []
-    for _ in range(10):
+    for _ in range(20):
         line = games.readline()
         [filename, max_score] = line.strip().split(" ")
         score = -0
