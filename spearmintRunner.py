@@ -19,8 +19,9 @@ def main(job_id, params):
             score = golovinRunner.run(params, filename, directory, 2000, True)
         except Exception as e:
             print "exception:", e.message
-        scores.append(score)
-        print filename, score
+        #except None:
+        #    pass
+        scores.append(score / float(max_score))
     games.close()
     positive = sum([1 for score in scores if score > 0])
     return positive * sum(scores)

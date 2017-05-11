@@ -16,3 +16,4 @@ Spearmint/
 mongo/
 jobs/
 output/
+params.json
