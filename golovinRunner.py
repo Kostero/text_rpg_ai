@@ -1,4 +1,3 @@
-from golovinAgent import GolovinAgent
 import textplayer.textPlayer as tp
 import logger
 import random
@@ -26,6 +25,11 @@ def run(params, filename, directory, steps = 2000, quiet = False):
     try:
         if not directory.endswith('/'):
             directory += '/'
+
+        import json
+        with open('params.json', 'w') as out:
+            json.dump(params, out)
+
         scores = open(path+'scores', 'a')
         score = 0
         max_score = 0
@@ -33,6 +37,8 @@ def run(params, filename, directory, steps = 2000, quiet = False):
 
         t = tp.TextPlayer(filename, directory)
         start_info = t.run()
+
+        from golovinAgent import GolovinAgent
 
         agent = GolovinAgent(t, start_info, params)
 
@@ -53,7 +59,7 @@ def run(params, filename, directory, steps = 2000, quiet = False):
             logger.log('inventory', agent.inv.text)
             logger.log(command_type, command)
             logger.log('response', response)
-            
+
             tscore = t.get_score()
             if tscore is not None:
                 (score, possible_score) = tscore
@@ -117,7 +123,7 @@ def main():
         sys.exit(0)
     filename = files[0]
     directory = path + default_args['path']
-    return run(params, filename, directory, steps=int(default_args['steps']), 
+    return run(params, filename, directory, steps=int(default_args['steps']),
                                     quiet=(default_args['quiet'] == 'true'))
 
 if __name__ == "__main__":
