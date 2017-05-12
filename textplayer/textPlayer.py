@@ -89,7 +89,7 @@ class TextPlayer:
 		if self.game_loaded_properly == True:
 			self.game_process.stdin.write(command + '\n')
 			output = self.get_command_output()
-			score_pattern = '[0-9]+ [\(total ]*[points ]*[out ]*of [a maximum of ]*[a possible ]*[0-9]+'
+			score_pattern = '[\-0-9]+ [\(total ]*[points ]*[out ]*of [a maximum of ]*[a possible ]*[0-9]+'
 			matchObj = re.search(score_pattern, output, re.M|re.I)
 			if matchObj != None:
 			    score_words = matchObj.group().split(' ')
@@ -101,7 +101,7 @@ class TextPlayer:
 		if self.game_loaded_properly == True:
 			self.game_process.stdin.write('score\n')
 			command_output = self.get_command_output()
-			score_pattern = '[0-9]+ [\(total ]*[points ]*[out ]*of [a maximum of ]*[a possible ]*[0-9]+'
+			score_pattern = '[\-0-9]+ [\(total ]*[points ]*[out ]*of [a maximum of ]*[a possible ]*[0-9]+'
 			matchObj = re.search(score_pattern, command_output, re.M|re.I)
 			if matchObj != None:
 				score_words = matchObj.group().split(' ')
