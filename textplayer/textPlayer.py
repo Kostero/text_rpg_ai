@@ -33,6 +33,7 @@ class TextPlayer:
 		self.game_directory = game_directory
 		self.game_log = game_filename + '_log.txt'
 		self.debug = False
+		self.lastScore = None
 
 	# Runs the game
 	def run(self):
@@ -87,18 +88,28 @@ class TextPlayer:
 	def execute_command(self, command):
 		if self.game_loaded_properly == True:
 			self.game_process.stdin.write(command + '\n')
-			return self.clean_command_output(self.get_command_output())
+			output = self.get_command_output()
+			score_pattern = '[\-0-9]+ [\(total ]*[points ]*[out ]*of [a maximum of ]*[a possible ]*[0-9]+'
+			matchObj = re.search(score_pattern, output, re.M|re.I)
+			if matchObj != None:
+			    score_words = matchObj.group().split(' ')
+			    self.lastScore = (int(score_words[0]), int(score_words[len(score_words)-1]))
+			return self.clean_command_output(output)
 
 	# Returns the current score in a game
 	def get_score(self):
 		if self.game_loaded_properly == True:
 			self.game_process.stdin.write('score\n')
 			command_output = self.get_command_output()
-			score_pattern = '[0-9]+ [\(total ]*[points ]*[out ]*of [a maximum of ]*[a possible ]*[0-9]+'
+			score_pattern = '[\-0-9]+ [\(total ]*[points ]*[out ]*of [a maximum of ]*[a possible ]*[0-9]+'
 			matchObj = re.search(score_pattern, command_output, re.M|re.I)
 			if matchObj != None:
 				score_words = matchObj.group().split(' ')
 				return int(score_words[0]), int(score_words[len(score_words)-1])
+			if matchObj == None and self.lastScore != None:
+				x = self.lastScore
+				self.lastScore = None
+				return x
 		return None
 
 

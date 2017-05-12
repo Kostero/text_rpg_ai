@@ -45,8 +45,11 @@ with open(gameText, "r") as f:
     for line in f.readlines():
         splitted = line.strip().split(" ")
         #print(splitted)
-        if '0' <= splitted[0][0] <= '9' and splitted[0][-1] == ':':
-            line = " ".join(splitted[1:])
+        try:
+            if '0' <= splitted[0][0] <= '9' and splitted[0][-1] == ':':
+                line = " ".join(splitted[1:])
+        except:
+            pass
         tokenized =  tokenizer.tokenize(line.strip())
         for token in tokenized:
             try:

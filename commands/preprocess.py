@@ -13,43 +13,48 @@ def save(commands, filename, min_freq=1):
 
 fight_actions = {'attack', 'kill', 'fight', 'shoot', 'punch'}
 
-files = []
-files += ['plover/downloadedCommands.txt']
-files += ['solutionarchive/downloadedCommands.txt']
-files += ["gameBoomers/result/verbs"+x for x in
-          list("QWERTYUIOPASDFGHJKLZXCVBNM")+["Number"]]
 
-output = 'preprocessedCommands.txt'
-output_fight = 'preprocessedFightCommands.txt'
+for mode in ["walkthroughs", "tutorials", "games", "all"]:
+    files = []
+    if mode in ["walkthroughs", "all"]:
+        files += ['plover/downloadedCommands.txt']
+        files += ['solutionarchive/downloadedCommands.txt']
+    if mode in ["tutorials", "all"]:
+        files += ["gameBoomers/result/verbs"+x for x in
+                  list("QWERTYUIOPASDFGHJKLZXCVBNM")+["Number"]]
+    if mode in ["games", "all"]:
+        files += ["textsParser/parsedCommands.txt"]
+    output = 'preprocessedCommands_'+mode+'.txt'
+    output_fight = 'preprocessedFightCommands_'+mode+'.txt'
 
 
-lines = []
-for file in files:
-    try:
-        with open(file, 'r') as f:
-            lines += f.readlines()
-    except:
-        print file, "missing"
+    lines = []
+    for file in files:
+        try:
+            with open(file, 'r') as f:
+                lines += f.readlines()
+        except:
+            print file, "missing"
 
-lines = map(str.lower, lines)
-lines = map(lambda x: x.replace('#', ''), lines)
-lines = map(str.split, lines)
-lines = filter(lambda x: len(x) > 1 and len(x) < 8, lines)
-print "commands:", len(lines)
-for l in lines:
-    for i, w in enumerate(l):
-        if w == 'x':
-            l[i] = 'examine'
+    lines = map(str.lower, lines)
+    lines = map(lambda x: x.replace('#', ''), lines)
+    lines = map(str.split, lines)
+    lines = filter(lambda x: len(x) > 1 and len(x) < 8, lines)
+    print "commands:", len(lines)
+    for l in lines:
+        for i, w in enumerate(l):
+            if w == 'x':
+                l[i] = 'examine'
 
-commands = Counter()
-fight_commands = Counter()
+    commands = Counter()
+    fight_commands = Counter()
 
-for l in lines:
-    commands[tuple(l)] += 1
-    if any(map(fight_actions.__contains__, l)):
-        fight_commands[tuple(l)] += 1
+    for l in lines:
+        commands[tuple(l)] += 1
+        if any(map(fight_actions.__contains__, l)):
+            fight_commands[tuple(l)] += 1
 
-print commands.most_common(20)
-print fight_commands.most_common(20)
-save(commands, output)
-save(fight_commands, output_fight, min_freq=4)
+    print commands.most_common(20)
+    print fight_commands.most_common(20)
+    save(commands, output)
+    save(fight_commands, output_fight, min_freq=4)
