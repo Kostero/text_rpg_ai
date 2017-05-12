@@ -11,6 +11,7 @@ def main(job_id, params):
     directory = 'textplayer/games/'
     games = open("textplayer/max_scores_selected.txt", 'r')
     scores = []
+    print params
     for line in games.readlines():
         words = line.split()
         print line

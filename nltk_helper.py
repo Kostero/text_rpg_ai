@@ -14,8 +14,9 @@ def get_similar_nouns(nouns):
         try:
             sim = w2v.cosine(n)
             for i, k in zip(*sim):
-                w = w2v.vocab[i]
-                if 'NN' in nltk.pos_tag([w]):
+                w = w2v.vocab[i].split('_')
+                if any('NN' in x[1] for x in nltk.pos_tag(w)):
+                    w = ' '.join(w)
                     if w in result:
                         result[w] = max(result[w], (k, n))
                     else: result[w] = (k, n)
