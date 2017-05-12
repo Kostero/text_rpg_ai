@@ -45,8 +45,6 @@ kill wizard#wizard#4
 kill it#4
 shoot lock#lock#8
 kill wolf#wolf#8
-shoot rope#rope#4
-shoot door#door#9
 kill man with sword#sword#man#5
 kill troll#troll#19
 kill goblin#goblin#15
@@ -66,7 +64,6 @@ kill eric#4
 shoot lion#lion#4
 kill serpent#serpent#9
 shoot bird#bird#9
-kill the#6
 shoot viroid#viroid#23
 shoot man#man#21
 kill mummy#mummy#5
