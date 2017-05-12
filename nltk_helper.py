@@ -8,14 +8,14 @@ if path == '':
 
 w2v = word2vec.load(path+'/word2vec/data/vec.bin')
 
-def get_similar_nouns(nouns):
+def get_similar_nouns(nouns, number=5):
     result = { n: (1, n) for n in nouns }
     for n in nouns:
         try:
-            sim = w2v.cosine(n)
+            sim = w2v.cosine(n, n=number)
             for i, k in zip(*sim):
                 w = w2v.vocab[i]
-                if 'NN' in nltk.pos_tag([w]):
+                if 'NN' in nltk.pos_tag([w])[0][1]:
                     if w in result:
                         result[w] = max(result[w], (k, n))
                     else: result[w] = (k, n)

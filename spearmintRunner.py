@@ -11,10 +11,13 @@ def main(job_id, params):
     directory = 'textplayer/games/'
     games = open("textplayer/max_scores_selected.txt")
     scores = []
-    for _ in range(20):
-        line = games.readline()
-        [filename, max_score] = line.strip().split(" ")
-        score = -0
+    print params
+    for line in games.readlines():
+        words = line.split()
+        print line
+        if len(words) != 2: continue
+        filename, max_score = words
+        score = 0
         try:
             score = golovinRunner.run(params, filename, directory, 2000, True)
         except Exception as e:
