@@ -31,6 +31,8 @@ with open('params.json') as jsonfile:
     params = json.load(jsonfile)
 
 mode = params["SOURCES"]
+if type(mode) == list:
+    mode = mode[0]
 commands = load_commands(path+'/commands/preprocessedCommands_'+mode+'.txt')
 fight_commands = load_commands(path+'/commands/preprocessedFightCommands_'+mode+'.txt')
 

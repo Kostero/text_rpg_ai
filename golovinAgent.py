@@ -108,7 +108,7 @@ class GolovinAgent:
             additional_commands += 1
             self.commands_queue += zip(inv_commands, ['inventory_command'] * len(inv_commands))
         elif command[0] == Place.Fight:
-            self.commands_queue += [(command[1], 'fight_command')] * 6
+            self.commands_queue += [(command[1], 'fight_command')] * 4
             self.places[self.desc].useless_command(command[1])
             return (command_text, 'fight_command', response, 0)
         new_desc = self.look()

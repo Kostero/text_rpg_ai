@@ -125,7 +125,8 @@ def main():
         "PLACE_INIT_ACTIONS": 3,
         "PLACE_MOVE_ACTION_RATIO": 20,
         "PLACE_UNKNOWN_PENALTY": 500,
-        "PLACE_FREQUENCY_EXPONENT": 1.0
+        "PLACE_FREQUENCY_EXPONENT": 1.0,
+        "PLACE_SIMILAR_NOUNS_NUMBER": 5
     }
     default_args = {
         "path": "textplayer/games/",

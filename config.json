@@ -63,6 +63,12 @@
             "size": 1,
             "min": 0,
             "max": 1
+        },
+        "PLACE_SIMILAR_NOUNS_NUMBER": {
+            "type": "INT",
+            "size": 1,
+            "min": 0,
+            "max": 10
         }
     }
 }
