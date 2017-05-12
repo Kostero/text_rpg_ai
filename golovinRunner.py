@@ -23,6 +23,7 @@ def parse_args():
     return files, args
 
 def run(params, filename, directory, steps = 2000, quiet = False):
+
     try:
         for k, v in params.items():
             if type(v) == np.ndarray:
@@ -68,9 +69,12 @@ def run(params, filename, directory, steps = 2000, quiet = False):
             tscore = t.get_score()
             if tscore is not None:
                 (score, possible_score) = tscore
+                if score > max_score:
+                    agent.save_path()
                 max_score = max(max_score, score)
                 if not quiet:
                     print("Score:", score, "Possible score:", possible_score)
+
                 logger.log('score', str(score) + ' ' + str(possible_score))
                 noneCount = 0
             else:
@@ -85,9 +89,19 @@ def run(params, filename, directory, steps = 2000, quiet = False):
             agent.map.update()
             agent.map.print_all()
 
+        if score != max_score:
+            agent.run_best_path()
+            tscore = t.get_score()
+            if tscore is not None:
+                (score, possible_score) = tscore
+                max_score = max(max_score, score)
+                if not quiet:
+                    print("Score:", score, "Possible score:", possible_score)
+
         t.quit()
 
     except IOError:
+        print "IOError"
         pass
 
     scores.write("{3} {0} (max {2}) / {1}\n".format(score, possible_score, max_score, filename))
@@ -100,17 +114,18 @@ def run(params, filename, directory, steps = 2000, quiet = False):
 
     return (score + max_score) / 2.0
 
+
 def main():
     params = {
         "FIGHT_MODE": "on",
         "SOURCES": "all",
         "EXPLORING": "random",
-        "PLACE_TAKEN_LIMIT": 7,
+        "PLACE_TAKEN_LIMIT": 1,
         "PLACE_NOUN_BONUS": 2000.0,
-        "PLACE_INIT_ACTIONS": 15,
-        "PLACE_MOVE_ACTION_RATIO": 7,
-        "PLACE_UNKNOWN_PENALTY": 500.0,
-        "PLACE_FREQUENCY_EXPONENT": 0.7
+        "PLACE_INIT_ACTIONS": 3,
+        "PLACE_MOVE_ACTION_RATIO": 20,
+        "PLACE_UNKNOWN_PENALTY": 500,
+        "PLACE_FREQUENCY_EXPONENT": 1.0
     }
     default_args = {
         "path": "textplayer/games/",

@@ -6,6 +6,7 @@ import os
 from functools import partial
 from inventory import Inventory
 from place import Place
+from time import sleep
 
 if __name__ == '__main__':
     print 'To run the agent, use golovinRunner.py instead'
@@ -32,9 +33,10 @@ class GolovinAgent:
         self.map.add_to_path(self.desc)
 
         self.commands_history = []
+        self.best_path = []
 
         Place.update_params(params)
-        
+
     def look(self):
         desc = self.t.execute_command('look')
         dot = desc.find('.')
@@ -56,6 +58,7 @@ class GolovinAgent:
         action = self.path[0][1]
         actionType = 'command'
         response = self.t.execute_command(action)
+        #sleep(1)
         new_desc = self.look()
         if self.map.get_id(new_desc) != self.path[1][0]:
             self.path = []
@@ -71,6 +74,7 @@ class GolovinAgent:
             command, commandType = self.commands_queue[-1]
             del self.commands_queue[-1]
             response = self.t.execute_command(command)
+            #sleep(1)
             return (command, commandType, response, 0)
 
         if len(self.path) > 1:
@@ -98,6 +102,7 @@ class GolovinAgent:
         additional_commands = 0
 
         response = self.t.execute_command(command_text)
+        #sleep(1)
         if command[0] == Place.Take:
             inv_commands = self.inv.update()
             additional_commands += 1
@@ -126,7 +131,8 @@ class GolovinAgent:
     #returns tuple (action, actionType, response, number of additional commands (such as look, inventory))
     def makeAction(self):
         death_texts = ['you have died', 'you are dead', 'would you like to restart',
-             'please give one of the answers above']
+             'please give one of the answers above',
+             'think you can do better?']
         current_place = self.desc
         action = self._makeAction()
         self.commands_history.append((action[0], current_place))
@@ -136,6 +142,15 @@ class GolovinAgent:
                 self.handle_death()
                 break
         return action
+
+    def save_path(self):
+        self.best_path = self.commands_history
+
+    def run_best_path(self):
+        self.t.execute_command("restart")
+        self.t.execute_command("Y")
+        for command in self.best_path:
+            self.t.execute_command(command[0])
 
     def handle_death(self):
         #print 'Golovin is dead :(\t restaring...'
