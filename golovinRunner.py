@@ -119,14 +119,14 @@ def main():
     params = {
         "FIGHT_MODE": "on",
         "SOURCES": "all",
-        "EXPLORING": "random",
+        "EXPLORING": "map",
         "PLACE_TAKEN_LIMIT": 1,
         "PLACE_NOUN_BONUS": 2000.0,
         "PLACE_INIT_ACTIONS": 3,
         "PLACE_MOVE_ACTION_RATIO": 20,
         "PLACE_UNKNOWN_PENALTY": 500,
         "PLACE_FREQUENCY_EXPONENT": 1.0,
-        "PLACE_SIMILAR_NOUNS_NUMBER": 5
+        "PLACE_SIMILAR_NOUNS_NUMBER": 6
     }
     default_args = {
         "path": "textplayer/games/",

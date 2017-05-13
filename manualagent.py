@@ -53,8 +53,9 @@ while True:
         positive = classifier.is_response_positive(command_output)
         print 'Positive' if positive else 'Negative'
     
-    if t.get_score() is not None:
-        (score, possible_score) = t.get_score()
+    new_score = t.get_score()
+    if new_score is not None:
+        (score, possible_score) = new_score
         print("Score:", score, "Possible score:", possible_score)
     #else:
     #    break

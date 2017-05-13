@@ -28,6 +28,6 @@ def main(job_id, params):
             score += 0.2
         scores.append(score / float(max_score))
     games.close()
-    return 1.2 + -(1.0*sum(scores)/len(scores))
+    return -(1.0*sum(scores))
 
 #print(main(None, {"FIGHT_MODE": "on", "SOURCES": "all"}))

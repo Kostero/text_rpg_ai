@@ -117,7 +117,7 @@ class GameMap:
         self.actions = actions
     
     def find_path(self):
-        start = self.group[self.path[-1]]
+        start = self.group[-1]
         prev = { start: None }
         dist = { start: 0 }
         q = Queue()
@@ -130,13 +130,16 @@ class GameMap:
                     dist[u] = dist[v] + 1
                     q.put_nowait(u)
         dist[start] = 1e10
-        best, _ = min(dist.items(), key=lambda (k, v): v + self.actions[k])
+        best, _ = min(dist.items(), key=lambda (k, v): 2 * v + self.actions[k])
         path = [(best, None)]
         while prev[best] != None:
             path.append(prev[best])
             best = prev[best][0]
         path.reverse()
         return path
+
+    def matches_path(self, text, nr):
+        return self.get_id(text) == self.path[nr]
 
     def print_all(self):
         print

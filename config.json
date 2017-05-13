@@ -21,7 +21,7 @@
         "EXPLORING" : {
             "type" : "ENUM",
             "size" : 1,
-            "options": ["random"]
+            "options": ["random", "map"]
         },
         "SOURCES": {
             "type" : "ENUM",

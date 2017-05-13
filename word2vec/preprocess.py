@@ -29,8 +29,15 @@ if sys.argv[1] == sys.argv[2]:
     print 'in and out should be different paths'
     exit(0)
 
+failed = 0
 with open(sys.argv[1], 'r') as f_in, open(sys.argv[2], 'w') as f_out:
     while True:
         line = f_in.readline()
         if line == '': break
-        f_out.write(preprocess(line) + '\n')
+        try:
+            f_out.write(preprocess(line) + '\n')
+        except:
+            failed += 1
+            pass
+if failed > 0:
+    print 'failed with', failed, 'lines'

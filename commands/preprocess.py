@@ -22,7 +22,7 @@ for mode in ["walkthroughs", "tutorials", "games", "all"]:
     if mode in ["tutorials", "all"]:
         files += ["gameBoomers/result/verbs"+x for x in
                   list("QWERTYUIOPASDFGHJKLZXCVBNM")+["Number"]]
-    if mode in ["games", "all"]:
+    if mode in ["games"]:
         files += ["textsParser/parsedCommands.txt"]
     output = 'preprocessedCommands_'+mode+'.txt'
     output_fight = 'preprocessedFightCommands_'+mode+'.txt'
@@ -39,7 +39,7 @@ for mode in ["walkthroughs", "tutorials", "games", "all"]:
     lines = map(str.lower, lines)
     lines = map(lambda x: x.replace('#', ''), lines)
     lines = map(str.split, lines)
-    lines = filter(lambda x: len(x) > 1 and len(x) < 8, lines)
+    lines = filter(lambda x: len(x) > 1 and len(x) < 6, lines)
     print "commands:", len(lines)
     for l in lines:
         for i, w in enumerate(l):

@@ -58,14 +58,20 @@ class GolovinAgent:
         action = self.path[0][1]
         actionType = 'command'
         response = self.t.execute_command(action)
-        #sleep(1)
         new_desc = self.look()
-        if self.map.get_id(new_desc) != self.path[1][0]:
+        #print self.desc
+        #print action
+        #print new_desc
+        #print response
+        self.moves += 1
+        if not self.map.matches_path(new_desc, self.path[1][0]):
+            #print 'following failed'
             self.path = []
+        else:
+            del self.path[0]
         if new_desc != self.desc or response.endswith(self.desc) or self.desc.endswith(response):
-            self.map.add_to_path(new_desc)
+            self.map.add_to_path(new_desc, action)
         self.desc = new_desc
-        del self.path[0]
         return action, actionType, response, 1
 
     #returns tuple (action, actionType, response, number of additional commands (such as look, inventory))
@@ -93,7 +99,12 @@ class GolovinAgent:
             elif command[1] == Place.Explore:
                 self.map.update()
                 self.path = self.map.find_path()
-                return self.follow_path()
+                if len(self.path) > 1:
+                    #print 'following path:', self.path
+                    #self.map.print_all()
+                    return self.follow_path()
+                else:
+                    command_text = mycommands.get_move_command()
             else: command_text = mycommands.get_move_command(command[1])
         else:
             command_text = command[1]
@@ -132,15 +143,20 @@ class GolovinAgent:
     def makeAction(self):
         death_texts = ['you have died', 'you are dead', 'would you like to restart',
              'please give one of the answers above',
-             'think you can do better?']
+             'think you can do better']
         current_place = self.desc
         action = self._makeAction()
         self.commands_history.append((action[0], current_place))
         response = action[2].lower()
+        death = False
         for text in death_texts:
             if text in response or text in self.desc:
-                self.handle_death()
+                death = True
                 break
+        if response.strip() == '' and self.desc.strip() == '':
+            death = True
+        if death:
+            self.handle_death()
         return action
 
     def save_path(self):
@@ -153,9 +169,6 @@ class GolovinAgent:
             self.t.execute_command(command[0])
 
     def handle_death(self):
-        #print 'Golovin is dead :(\t restaring...'
-        #print 'Last place:', self.commands_history[-1][1]
-        #print 'Last command:', self.commands_history[-1][0]
         self.map.break_path()
         self.map.clear_actions()
         self.t.execute_command('restart')

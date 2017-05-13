@@ -17,7 +17,7 @@ class Place:
     move_take_ratio = 50
     unknown_penalty = 500.0
     frequency_exponent = 0.7
-    similar_nouns_number = 5
+    similar_nouns_number = 6
     fight_mode = True
     game_map_mode = False
     dangerous_count = 5
@@ -33,6 +33,7 @@ class Place:
         Place.frequency_exponent = params['PLACE_FREQUENCY_EXPONENT']
         Place.similar_nouns_number = params['PLACE_SIMILAR_NOUNS_NUMBER']
         Place.fight_mode = 'on' in params['FIGHT_MODE']
+        Place.game_map_mode = 'map' in params['EXPLORING']
 
     class Command:
         def __init__(self):
