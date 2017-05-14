@@ -73,7 +73,7 @@ class Place:
         self.inventory_nr = -1
 
     def dangerous(self):
-        return ' grue' in self.text or len(self.dangerous_commands) > 4
+        return ' grue' in self.text or len(self.dangerous_commands) > 8
 
     def update_commands(self, commands, inv_nouns, allow_unknown=True):
         p = np.zeros(len(commands.items))
