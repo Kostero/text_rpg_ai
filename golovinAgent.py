@@ -190,6 +190,7 @@ class GolovinAgent:
         self.desc = self.look()
         self.map.add_to_path(self.desc)
 
+        self.moves = 0
         for place in self.places.itervalues():
             place.reset()
-        Place.move_action_ratio += 1
+        Place.move_action_ratio *= 0.8
