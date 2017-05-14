@@ -90,6 +90,7 @@ class GolovinAgent:
             self.places[self.desc] = Place(self.desc)
 
         command = self.places[self.desc].get_command(self.inv.content, self.moves, self.inv.nr)
+        self.map.update_score(self.places[self.desc].score())
         if command[0] == Place.Take:
             command_text = mycommands.get_take_command(command[1])
         elif command[0] == Place.Move:
@@ -103,11 +104,11 @@ class GolovinAgent:
                     Place.game_map_mode = False
                 self.path = self.map.find_path()
                 if len(self.path) > 1:
-                    #print 'following path:', self.path
+                    #print 'following path:', self.path, 'to', self.map.get_description(self.path[-1][0])[:20]
                     #self.map.print_all()
                     return self.follow_path()
                 else:
-                    command_text = mycommands.get_move_command()
+                    return self._makeAction()
             else: command_text = mycommands.get_move_command(command[1])
         else:
             command_text = command[1]

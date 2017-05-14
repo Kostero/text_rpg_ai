@@ -3,6 +3,7 @@ from pyrsistent import pvector, pmap, thaw, freeze
 from Queue import Queue
 from collections import defaultdict
 import mycommands
+import math
 
 class GameMap:
     def __init__(self):
@@ -11,9 +12,11 @@ class GameMap:
         self.path = []
         self.moves = []
         self.path_actions = []
+        self.path_scores = []
         self.group = []
         self.edges = {}
         self.actions = defaultdict(int)
+        self.scores = defaultdict(float)
         self.updates_history = []
 
     def get_id(self, desc):
@@ -30,11 +33,15 @@ class GameMap:
         self.path.append(self.get_id(desc))
         self.moves.append(direction)
         self.path_actions.append(0)
+        self.path_scores.append(None)
 
     def action(self):
         self.path_actions[-1] += 1
         if len(self.group) == len(self.path_actions):
             self.actions[self.group[-1]] += self.path_actions[-1]
+
+    def update_score(self, score):
+        self.path_scores[-1] = score
 
     def clear_actions(self):
         self.path_actions = [0 for _ in self.path_actions]
@@ -47,7 +54,7 @@ class GameMap:
         if self.moves != []:
             self.moves[-1] = None
 
-    def add_tail(self, edges, group, actions):
+    def add_tail(self, edges, group, actions, scores):
         for i in range(len(group), len(self.path)):
             if i == 0:
                 group.append(0)
@@ -68,17 +75,19 @@ class GameMap:
                 group.append(random.choice(list(groups)))
                 if self.moves[i] is not None:
                     edges[last][self.moves[i]] = group[-1]
-                    if back not in edges[group[-1]]:
-                        edges[group[-1]][back] = last
+                    #if back not in edges[group[-1]]:
+                    #    edges[group[-1]][back] = last
             elif self.path[edges[last][self.moves[i]]] == self.path[i]:
                 group.append(group[edges[last][self.moves[i]]])
             else:
                 return False
             actions[group[-1]] += self.path_actions[i]
+            if self.path_scores[i] is not None:
+                scores[group[-1]] = self.path_scores[i]
         return True
 
     def update_tail(self):
-        if not self.add_tail(self.edges, self.group, self.actions):
+        if not self.add_tail(self.edges, self.group, self.actions, self.scores):
             self.update()
 
     def update(self):
@@ -149,18 +158,22 @@ class GameMap:
         group = thaw(group)
         edges = thaw(edges)
         actions = defaultdict(int)
-        for g, a in zip(group, self.path_actions):
+        scores = defaultdict(float)
+        for g, a, s in zip(group, self.path_actions, self.path_scores):
             actions[g] += a
+            if s is not None:
+                scores[g] = s
         for u, e in edges.iteritems():
             for l, v in e.items():
                 v = group[v]
                 e[l] = v
-                bl = mycommands.get_opposite_command(l)
-                if bl is not None and bl not in edges[v]:
-                    edges[v][bl] = u
+                #bl = mycommands.get_opposite_command(l)
+                #if bl is not None and bl not in edges[v]:
+                #    edges[v][bl] = u
         self.group = group
         self.edges = edges
         self.actions = actions
+        self.scores = scores
         self.updates_history.append(len(self.edges))
     
     def find_path(self):
@@ -176,8 +189,8 @@ class GameMap:
                     prev[u] = (v, l)
                     dist[u] = dist[v] + 1
                     q.put_nowait(u)
-        dist[start] = 1e10
-        best, _ = min(dist.items(), key=lambda (k, v): 2 * v + self.actions[k])
+        best, _ = min(dist.items(), key=lambda (k, v):
+            random.uniform(0.5, 1) * (2 * v + self.actions[k]) / math.pow(self.scores[k] + 1, 0.7))
         path = [(best, None)]
         while prev[best] != None:
             path.append(prev[best])
@@ -195,10 +208,14 @@ class GameMap:
             if i == j:
                 print '{0}: {1}'.format(i, list(self.descriptions[self.path[i]])[0])
                 print self.actions[i], 'actions'
+                print 'score:', self.scores[i]
         print 'Edges:'
         for a, l in self.edges.iteritems():
             print a, '->', { k: self.group[v] for k, v in l.iteritems() }
     
+    def get_description(self, id):
+        return list(self.descriptions[self.path[id]])[0]
+
 
 if __name__ == '__main__':
     mp = GameMap()

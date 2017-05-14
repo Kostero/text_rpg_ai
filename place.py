@@ -75,9 +75,6 @@ class Place:
     def dangerous(self):
         return ' grue' in self.text
 
-    def random_choice(self, rep, p, k):
-        return list(np.random.choice(rep, size=k, p=p))
-
     def update_commands(self, commands, inv_nouns, allow_unknown=True):
         p = np.zeros(len(commands.items))
         rep = []
@@ -107,9 +104,8 @@ class Place:
         options = None
         s = p.sum()
         if s > 0.0000001:
-            p /= s
             try:
-                options = self.random_choice(rep, p, 50)
+                options = list(np.random.choice(rep, size=50, p=p / p.sum()))
             except:
                 pass
         commands.p = p
@@ -117,7 +113,7 @@ class Place:
         commands.options = options
 
     def _get_command(self, commands, inv_nouns, allow_unknown=True):
-        for i in range(5):
+        for i in range(20):
             if commands.options == None:
                 return
             if commands.options == []:
@@ -192,3 +188,6 @@ class Place:
             self.dangerous_counter[nr][command] += 1
             if self.dangerous_counter[nr][command] > nr:
                 self.dangerous_command(command)
+
+    def score(self):
+        return np.sum(self.commands.p)

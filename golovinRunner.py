@@ -92,6 +92,9 @@ def run(params, filename, directory, steps = 2000, quiet = False):
             for _ in range(5):
                 agent.map.update()
                 print 'number of places:', len(agent.map.edges)
+            for k, v in agent.places.items():
+                print k
+                print 'score:', v.score()
 
         if score != max_score:
             agent.run_best_path()

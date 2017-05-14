@@ -14,6 +14,7 @@ def evaluate(path):
     n = len(path)
     score = 0
     first = 0
+    i = 0
     for i, value in enumerate(path):
         try:
             t.execute_command(value)
