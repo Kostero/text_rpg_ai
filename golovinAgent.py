@@ -193,4 +193,4 @@ class GolovinAgent:
         self.moves = 0
         for place in self.places.itervalues():
             place.reset()
-        Place.move_action_ratio += 1
+        Place.move_action_ratio *= 0.8
