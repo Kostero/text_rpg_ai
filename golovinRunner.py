@@ -57,6 +57,7 @@ def run(params, filename, directory, steps = 2000, quiet = False):
         for i in range(steps):
             command, command_type, response, additional = agent.makeAction()
             if not quiet:
+                print 'map size:', len(agent.map.edges)
                 print agent.desc
                 print agent.inv.text
                 print command
@@ -88,6 +89,9 @@ def run(params, filename, directory, steps = 2000, quiet = False):
         if not quiet:
             agent.map.update()
             agent.map.print_all()
+            for _ in range(5):
+                agent.map.update()
+                print 'number of places:', len(agent.map.edges)
 
         if score != max_score:
             agent.run_best_path()

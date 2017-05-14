@@ -39,7 +39,8 @@ commands = load_commands(path+'/commands/preprocessedCommands_'+mode+'.txt')
 fight_commands = load_commands(path+'/commands/preprocessedFightCommands_'+mode+'.txt')
 
 global directions
-directions = ['east', 'west', 'south', 'north', 'southeast', 'northwest', 'northeast', 'southwest', 'up', 'down']
+directions = ['east', 'west', 'south', 'north', 'southeast', 'northwest', 'northeast', 'southwest', 'up', 'down', 'left', 'right', 'get off', 'get on', 'straight', 'back']
+primary_directions = 10
 last_move = 0
 
 def get_take_command(obj):

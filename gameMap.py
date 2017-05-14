@@ -13,6 +13,7 @@ class GameMap:
         self.group = []
         self.edges = {}
         self.actions = defaultdict(int)
+        self.updates_history = []
 
     def get_id(self, desc):
         statements = desc.split('.')
@@ -27,18 +28,50 @@ class GameMap:
     def add_to_path(self, desc, direction=None):
         self.path.append(self.get_id(desc))
         self.moves.append(direction)
-        self.group.append(-1)
         self.path_actions.append(0)
 
     def action(self):
         self.path_actions[-1] += 1
+        if len(self.group) == len(self.path_actions):
+            self.actions[self.group[-1]] += self.path_actions[-1]
 
     def clear_actions(self):
         self.path_actions = [0 for _ in self.path_actions]
+        self.actions.clear()
     
+    def useless(self):
+        return len(self.updates_history) >= 5 and min(self.updates_history[-5:]) > 60
+
     def break_path(self):
         if self.moves != []:
             self.moves[-1] = None
+
+    def add_tail(self, edges, group, actions):
+        for i in range(len(group), len(self.path)):
+            if i == 0:
+                group.append(0)
+                edges[0] = {}
+                actions[0] = self.path_actions[0]
+                continue
+            last = group[-1]
+            if self.moves[i] is None or self.moves[i] not in edges[last]:
+                groups = { group[j] for j, x in enumerate(self.path[:i]) if x == self.path[i] }
+                if len(groups) == 0:
+                    groups.add(i)
+                    edges[i] = {}
+                group.append(random.choice(list(groups)))
+                if self.moves[i] is not None:
+                    edges[last][self.moves[i]] = group[-1]
+            elif self.path[edges[last][self.moves[i]]] == self.path[i]:
+                group.append(group[edges[last][self.moves[i]]])
+            else:
+                return False
+            actions[group[-1]] += self.path_actions[i]
+        return True
+
+    def update_tail(self):
+        if not self.add_tail(self.edges, self.group, self.actions):
+            self.update()
 
     def update(self):
         n = len(self.path)
@@ -92,8 +125,9 @@ class GameMap:
                         consistent_pairs.append((i, i + j + 1))
                     else:
                         inconsistent_pairs.append((i, i + j + 1))
-        random.shuffle(consistent_pairs)
-        random.shuffle(inconsistent_pairs)
+        keyfunc = lambda (a, b): (b) * random.expovariate(2)
+        consistent_pairs.sort(key=keyfunc)
+        inconsistent_pairs.sort(key=keyfunc)
         for a, b in consistent_pairs + inconsistent_pairs:
             if group[a] == group[b]:
                 continue
@@ -115,6 +149,7 @@ class GameMap:
         self.group = group
         self.edges = edges
         self.actions = actions
+        self.updates_history.append(len(self.edges))
     
     def find_path(self):
         start = self.group[-1]
@@ -147,6 +182,7 @@ class GameMap:
         for i, j in enumerate(self.group):
             if i == j:
                 print '{0}: {1}'.format(i, list(self.descriptions[self.path[i]])[0])
+                print self.actions[i], 'actions'
         print 'Edges:'
         for a, l in self.edges.iteritems():
             print a, '->', { k: self.group[v] for k, v in l.iteritems() }

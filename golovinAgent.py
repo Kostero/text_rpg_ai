@@ -97,7 +97,10 @@ class GolovinAgent:
             if command[1] == Place.RunAway:
                 command_text = mycommands.get_back_command()
             elif command[1] == Place.Explore:
-                self.map.update()
+                self.map.update_tail()
+                if self.map.useless():
+                    print 'switching game map mode off'
+                    Place.game_map_mode = False
                 self.path = self.map.find_path()
                 if len(self.path) > 1:
                     #print 'following path:', self.path
@@ -135,7 +138,8 @@ class GolovinAgent:
                 if command[0] == Place.Action:
                     self.places[self.desc].useless_command(command[1])
         if not useless:
-            self.map.add_to_path(new_desc, command_text if command[0] == Place.Move else None)
+            self.map.add_to_path(new_desc, command_text if command[0] == Place.Move and
+                'it is pitch black' not in new_desc.lower() else None)
         self.desc = new_desc
         return (command_text, 'command', response, additional_commands)
 
@@ -153,8 +157,6 @@ class GolovinAgent:
             if text in response or text in self.desc:
                 death = True
                 break
-        if response.strip() == '' and self.desc.strip() == '':
-            death = True
         if death:
             self.handle_death()
         return action

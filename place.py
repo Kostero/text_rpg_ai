@@ -56,7 +56,9 @@ class Place:
         self.nouns = sorted({n for n in get_nouns_carefully(text) if n not in mycommands.directions},
                             key=lambda x: math.pow(descriptions.frequency(x) + 1, self.frequency_exponent) / self.weights[x])
         self.similar_nouns = get_similar_nouns(self.nouns, number=self.similar_nouns_number)
-        self.directions = mycommands.directions[:]
+        self.directions = mycommands.directions[:mycommands.primary_directions]
+        self.untried_directions = mycommands.directions[:mycommands.primary_directions]
+        self.secondary_directions_used = False
         for sim, _ in self.similar_nouns.iteritems():
             if sim in mycommands.commands:
                 self.commands.items += mycommands.commands[sim]
@@ -153,19 +155,25 @@ class Place:
         return (self.Action, choice)
 
     def make_move(self):
-        if self.game_map_mode:
-            if len(self.directions) == 0:
-                return (self.Move, self.Explore)
-            index = random.randrange(len(self.directions))
-            result = self.directions[index]
-            del self.directions[index]
-            return (self.Move, result)
+        if len(self.directions) == 0 and not self.secondary_directions_used:
+            self.secondary_directions_used = True
+            self.directions = mycommands.directions[mycommands.primary_directions:]
+            self.untried_directions = mycommands.directions[mycommands.primary_directions:]
 
+        if self.game_map_mode:
+            if len(self.untried_directions) == 0:
+                return (self.Move, self.Explore)
+            index = random.randrange(len(self.untried_directions))
+            result = self.untried_directions[index]
+            del self.untried_directions[index]
+            return (self.Move, result)
+            
         return (self.Move, random.choice(mycommands.directions if len(self.directions) == 0 else self.directions))
 
     def useless_move(self, direction):
         try:
             del self.directions[self.directions.index(direction)]
+            del self.untried_directions[self.untried_directions.index(direction)]
         except:
             pass
 
