@@ -148,6 +148,9 @@ def main():
         sys.exit(0)
     filename = files[0]
     directory = path + default_args['path']
+    for k, v in default_args.iteritems():
+        if k in params:
+            params[k] = v
     return run(params, filename, directory, steps=int(default_args['steps']),
                                     quiet=(default_args['quiet'] == 'true'))
 

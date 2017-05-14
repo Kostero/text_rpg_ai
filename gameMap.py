@@ -2,6 +2,7 @@ import random
 from pyrsistent import pvector, pmap, thaw, freeze
 from Queue import Queue
 from collections import defaultdict
+import mycommands
 
 class GameMap:
     def __init__(self):
@@ -56,12 +57,19 @@ class GameMap:
             last = group[-1]
             if self.moves[i] is None or self.moves[i] not in edges[last]:
                 groups = { group[j] for j, x in enumerate(self.path[:i]) if x == self.path[i] }
+                back = mycommands.get_opposite_command(self.moves[i])
+                if back is not None:
+                    groups_filtered = filter(lambda x: back in edges[x] and edges[x][back] == last, groups)
+                    if len(groups_filtered) != 0:
+                        groups = groups_filtered
                 if len(groups) == 0:
                     groups.add(i)
                     edges[i] = {}
                 group.append(random.choice(list(groups)))
                 if self.moves[i] is not None:
                     edges[last][self.moves[i]] = group[-1]
+                    if back not in edges[group[-1]]:
+                        edges[group[-1]][back] = last
             elif self.path[edges[last][self.moves[i]]] == self.path[i]:
                 group.append(group[edges[last][self.moves[i]]])
             else:
@@ -143,9 +151,13 @@ class GameMap:
         actions = defaultdict(int)
         for g, a in zip(group, self.path_actions):
             actions[g] += a
-        for e in edges.itervalues():
+        for u, e in edges.iteritems():
             for l, v in e.items():
-                e[l] = group[v]
+                v = group[v]
+                e[l] = v
+                bl = mycommands.get_opposite_command(l)
+                if bl is not None and bl not in edges[v]:
+                    edges[v][bl] = u
         self.group = group
         self.edges = edges
         self.actions = actions

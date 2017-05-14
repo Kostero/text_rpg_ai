@@ -58,6 +58,20 @@ def get_move_command(direction=None):
         direction = "go "+direction
     return direction
 
+def get_opposite_command(command):
+    if command is None:
+        return None
+    if command.startswith('go '):
+        command = command[3:]
+    try:
+        i = directions.index(command)
+        result = directions[i^1]
+        if not result.startswith('get'):
+            result = 'go ' + result
+        return result
+    except:
+        return
+
 def get_back_command():
     global last_move
     last_move ^= 1
