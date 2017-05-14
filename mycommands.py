@@ -48,7 +48,7 @@ def get_take_command(obj):
 
 def get_move_command(direction=None):
     if direction is None:
-        direction = random.choice(directions)
+        direction = random.choice(directions[:primary_directions])
     global last_move
     try:
         last_move = directions.index(direction)

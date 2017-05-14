@@ -75,7 +75,7 @@ class GolovinAgent:
         return action, actionType, response, 1
 
     #returns tuple (action, actionType, response, number of additional commands (such as look, inventory))
-    def _makeAction(self):
+    def _makeAction(self, recursion=0):
         if self.commands_queue != []:
             command, commandType = self.commands_queue[-1]
             del self.commands_queue[-1]
@@ -107,8 +107,10 @@ class GolovinAgent:
                     #print 'following path:', self.path, 'to', self.map.get_description(self.path[-1][0])[:20]
                     #self.map.print_all()
                     return self.follow_path()
+                elif recursion < 20:
+                    return self._makeAction(recursion + 1)
                 else:
-                    return self._makeAction()
+                    command_text = mycommands.get_move_command()
             else: command_text = mycommands.get_move_command(command[1])
         else:
             command_text = command[1]

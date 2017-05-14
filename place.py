@@ -196,4 +196,4 @@ class Place:
         return False
 
     def score(self):
-        return np.sum(self.commands.p)
+        return np.sum(self.commands.p) + len(self.untried_directions) * 10000
