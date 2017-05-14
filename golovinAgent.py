@@ -179,8 +179,11 @@ class GolovinAgent:
         for i, (command, place) in enumerate(reversed(self.commands_history)):
             if i >= Place.dangerous_count:
                 break
-            if place in self.places:
-                self.places[place].possibly_dangerous_command(command, i)
+            if place in self.places and self.places[place].possibly_dangerous_command(command, i):
+                if command.startswith('go '):
+                    self.map.dangerous_command(place, command)
+                if self.places[place].dangerous():
+                    self.map.dangerous_place(place)
         self.commands_history = []
         self.desc = self.look()
         self.map.add_to_path(self.desc)

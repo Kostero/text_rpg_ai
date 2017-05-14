@@ -73,7 +73,7 @@ class Place:
         self.inventory_nr = -1
 
     def dangerous(self):
-        return ' grue' in self.text
+        return ' grue' in self.text or len(self.dangerous_commands) > 4
 
     def update_commands(self, commands, inv_nouns, allow_unknown=True):
         p = np.zeros(len(commands.items))
@@ -182,12 +182,18 @@ class Place:
         self.dangerous_commands.add(command)
         if command.startswith('go '):
             self.useless_move(command[3:])
+        if command.startswith('get '):
+            obj = command[4:]
+            if obj in self.nouns:
+                self.nouns.remove(obj)
 
     def possibly_dangerous_command(self, command, nr):
         if nr < self.dangerous_count:
             self.dangerous_counter[nr][command] += 1
             if self.dangerous_counter[nr][command] > nr:
                 self.dangerous_command(command)
+                return True
+        return False
 
     def score(self):
         return np.sum(self.commands.p)

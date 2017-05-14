@@ -18,6 +18,8 @@ class GameMap:
         self.actions = defaultdict(int)
         self.scores = defaultdict(float)
         self.updates_history = []
+        self.dangerous_commands = defaultdict(set)
+        self.dangerous_places = set()
 
     def get_id(self, desc):
         statements = desc.split('.')
@@ -185,12 +187,13 @@ class GameMap:
         while not q.empty():
             v = q.get_nowait()
             for l, u in self.edges[v].iteritems():
-                if u not in prev:
+                if l not in self.dangerous_commands[self.path[v]] and \
+                     u not in self.dangerous_places and u not in prev:
                     prev[u] = (v, l)
                     dist[u] = dist[v] + 1
                     q.put_nowait(u)
         best, _ = min(dist.items(), key=lambda (k, v):
-            random.uniform(0.5, 1) * (2 * v + self.actions[k]) / math.pow(self.scores[k] + 1, 0.7))
+            random.uniform(0.5, 1) * (2 * v + self.actions[k]) / (self.scores[k] + 1))
         path = [(best, None)]
         while prev[best] != None:
             path.append(prev[best])
@@ -215,6 +218,12 @@ class GameMap:
     
     def get_description(self, id):
         return list(self.descriptions[self.path[id]])[0]
+
+    def dangerous_command(self, place, command):
+        self.dangerous_commands[self.get_id(place)].add(command)
+
+    def dangerous_place(self, place):
+        self.dangerous_places.add(place)
 
 
 if __name__ == '__main__':
