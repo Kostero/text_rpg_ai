@@ -31,7 +31,7 @@ with open('params.json') as jsonfile:
     params = json.load(jsonfile)
 
 
-mode = params["SOURCES"]
+mode = os.environ["SOURCES"] if os.environ.has_key("SOURCES") else params["SOURCES"]
 if type(mode) == list:
     mode = mode[0]
 

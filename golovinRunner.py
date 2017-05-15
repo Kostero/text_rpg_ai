@@ -126,9 +126,9 @@ def run(params, filename, directory, steps = 2000, quiet = False):
 def main():
     params = {
         # spearmint says
-        "FIGHT_MODE": "on",
-        "SOURCES": "all",
-        "EXPLORING": "map",
+        "FIGHT_MODE": os.environ['FIGHT_MODE'] if os.environ.has_key("FIGHT_MODE") else "on",
+        "SOURCES": os.environ["SOURCES"] if os.environ.has_key("SOURCES") else "all",
+        "EXPLORING": os.environ["EXPLORING"] if os.environ.has_key("EXPLORING") else "map",
         "PLACE_TAKEN_LIMIT": 6,
         "PLACE_NOUN_BONUS": 3230.47485352,
         "PLACE_INIT_ACTIONS": 15,
