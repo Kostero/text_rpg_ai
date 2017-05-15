@@ -36,8 +36,8 @@ if type(mode) == list:
 commands = defaultdict(list)
 fight_commands = defaultdict(list)
 for mod in mode.split("_"):
-    load_commands(commands, path+'/commands/preprocessedCommands_'+mode+'.txt')
-    load_commands(fight_commands, path+'/commands/preprocessedFightCommands_'+mode+'.txt')
+    load_commands(commands, path+'/commands/preprocessedCommands_'+mod+'.txt')
+    load_commands(fight_commands, path+'/commands/preprocessedFightCommands_'+mod+'.txt')
 
 global directions
 directions = ['east', 'west', 'south', 'north', 'southeast', 'northwest', 'northeast', 'southwest', 'up', 'down', 'left', 'right', 'get off', 'get on', 'straight', 'back']
