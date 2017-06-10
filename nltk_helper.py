@@ -17,9 +17,9 @@ if type(mode) == list:
 w2v = None
 if mode == "books":
     w2v = word2vec.load(path+'/word2vec/data/vec.bin')
-else if mode == "wiki":
-    w2v = word2vec.load(path+'/word2vec/data/wikipedia.bin')
-else if mode == "gn":
+elif mode == "wiki":
+    w2v = word2vec.load(path+'/word2vec/data/wiki.bin')
+elif mode == "gn":
     w2v = word2vec.load(path+'/word2vec/data/googlenews.bin')
 else:
     print("invalid mode for W2V")

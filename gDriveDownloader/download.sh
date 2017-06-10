@@ -3,7 +3,7 @@
 gunzip GoogleNews-vectors-negative300.bin.gz
 mv GoogleNews-vectors-negative300.bin ../word2vec/data/googlenews.bin
 unzip scholar_required_files.zip
-mv postagged_wikipedia_for_word2vec.bin ../word2vec/wikipedia.bin
+mv postagged_wikipedia_for_word2vec.bin ../word2vec/wiki.bin
 rm post* scholar_required_files.zip 
 
 
