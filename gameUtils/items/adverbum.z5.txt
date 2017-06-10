@@ -1,0 +1,66 @@
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ AA cell
+ CompassDirection
+ Dumpster
+ Georgie
+ abecedarian book
+ above
+ adventurer
+ antenna
+ below
+ bits of plaster
+ button
+ c 
+ comfortable couch
+ compass
+ copybook
+ difficult difficult difficult door
+ double doorway
+ downy daybed
+ dust casing
+ earthen ewer
+ eastward
+ evil effigy
+ fence
+ glasses
+ igpay
+ inside
+ insulation
+ lovely loveseat
+ manual
+ nifty nappy
+ northeastward
+ northward
+ northwestward
+ outside
+ pig
+ pile of feed
+ scan
+ shelves
+ shirt
+ sign
+ signifying puppy
+ sizable sofa
+ soft sofabed
+ southeastward
+ southern door
+ southward
+ southwestward
+ stainless steel stapler
+ stairway
+ studs
+ stylus
+ toga
+ toy dinosaur
+ verbosifier
+ wainscot
+ wallpaper
+ wee writ
+ weird widget
+ westward
+ wooden weapon
+

@@ -1,0 +1,285 @@
+
+Story file is games/mysterious04.z6
+
+    **** Parse tables ****
+
+  Verb entries = 48
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "go"
+    [00 00 00 00 00 00 00 02] "go"
+
+252. 1 entry, verb = "inve"
+    [00 00 00 00 00 00 00 03] "inve"
+
+251. 1 entry, verb = "quit"
+    [00 00 00 00 00 00 00 04] "quit"
+
+250. 1 entry, verb = "save"
+    [00 00 00 00 00 00 00 05] "save"
+
+249. 1 entry, verb = "exam", synonyms = "insp", "look", "sear"
+    [00 00 00 00 00 00 00 06] "exam"
+
+248. 1 entry, verb = "turn"
+    [00 00 00 00 00 00 00 07] "turn"
+
+247. 1 entry, verb = "acqu", synonyms = "get", "take"
+    [00 00 00 00 00 00 00 08] "acqu"
+
+246. 1 entry, verb = "atta", synonyms = "dest", "kill"
+    [00 00 00 00 00 00 00 09] "atta"
+
+245. 1 entry, verb = "poli", synonyms = "rub"
+    [00 00 00 00 00 00 00 0a] "poli"
+
+244. 1 entry, verb = "disc", synonyms = "drop", "leav"
+    [00 00 00 00 00 00 00 0b] "disc"
+
+243. 1 entry, verb = "grab", synonyms = "hold"
+    [00 00 00 00 00 00 00 0c] "grab"
+
+242. 1 entry, verb = "chop", synonyms = "cut", "slic"
+    [00 00 00 00 00 00 00 0d] "chop"
+
+241. 1 entry, verb = "burn", synonyms = "igni", "ligh"
+    [00 00 00 00 00 00 00 0e] "burn"
+
+240. 1 entry, verb = "exti", synonyms = "unli"
+    [00 00 00 00 00 00 00 0f] "exti"
+
+239. 1 entry, verb = "wear"
+    [00 00 00 00 00 00 00 10] "wear"
+
+238. 1 entry, verb = "remo"
+    [00 00 00 00 00 00 00 11] "remo"
+
+237. 1 entry, verb = "devo", synonyms = "eat", "nibb", "tast"
+    [00 00 00 00 00 00 00 12] "devo"
+
+236. 1 entry, verb = "open"
+    [00 00 00 00 00 00 00 13] "open"
+
+235. 1 entry, verb = "unlo"
+    [00 00 00 00 00 00 00 14] "unlo"
+
+234. 1 entry, verb = "fire", synonyms = "shoo"
+    [00 00 00 00 00 00 00 15] "fire"
+
+233. 1 entry, verb = "pray"
+    [00 00 00 00 00 00 00 16] "pray"
+
+232. 1 entry, verb = "ask", synonyms = "say", "talk"
+    [00 00 00 00 00 00 00 17] "ask"
+
+231. 1 entry, verb = "tie", synonyms = "wrap"
+    [00 00 00 00 00 00 00 18] "tie"
+
+230. 1 entry, verb = "feed"
+    [00 00 00 00 00 00 00 19] "feed"
+
+229. 1 entry, verb = "give", synonyms = "offe"
+    [00 00 00 00 00 00 00 1a] "give"
+
+228. 1 entry, verb = "jump", synonyms = "leap"
+    [00 00 00 00 00 00 00 1b] "jump"
+
+227. 1 entry, verb = "wait"
+    [00 00 00 00 00 00 00 1c] "wait"
+
+226. 1 entry, verb = "play"
+    [00 00 00 00 00 00 00 1d] "play"
+
+225. 1 entry, verb = "read"
+    [00 00 00 00 00 00 00 1e] "read"
+
+224. 1 entry, verb = "move"
+    [00 00 00 00 00 00 00 1f] "move"
+
+223. 1 entry, verb = "swim"
+    [00 00 00 00 00 00 00 20] "swim"
+
+222. 1 entry, verb = "row"
+    [00 00 00 00 00 00 00 21] "row"
+
+221. 1 entry, verb = "dig"
+    [00 00 00 00 00 00 00 22] "dig"
+
+220. 1 entry, verb = "fill"
+    [00 00 00 00 00 00 00 23] "fill"
+
+219. 1 entry, verb = "brea", synonyms = "ruin", "smas"
+    [00 00 00 00 00 00 00 24] "brea"
+
+218. 1 entry, verb = "puff", synonyms = "smok"
+    [00 00 00 00 00 00 00 25] "puff"
+
+217. 1 entry, verb = "pull", synonyms = "tug"
+    [00 00 00 00 00 00 00 26] "pull"
+
+216. 1 entry, verb = "clim"
+    [00 00 00 00 00 00 00 27] "clim"
+
+215. 1 entry, verb = "chuc", synonyms = "slin", "thro"
+    [00 00 00 00 00 00 00 28] "chuc"
+
+214. 1 entry, verb = "fuck", synonyms = "piss"
+    [00 00 00 00 00 00 00 29] "fuck"
+
+213. 1 entry, verb = "help"
+    [00 00 00 00 00 00 00 2a] "help"
+
+212. 1 entry, verb = "pres", synonyms = "push"
+    [00 00 00 00 00 00 00 2b] "pres"
+
+211. 1 entry, verb = "unbo"
+    [00 00 00 00 00 00 00 2c] "unbo"
+
+210. 1 entry, verb = "to"
+    [00 00 00 00 00 00 00 2d] "to"
+
+209. 1 entry, verb = "make"
+    [00 00 00 00 00 00 00 2e] "make"
+
+208. 1 entry, verb = "fly"
+    [00 00 00 00 00 00 00 2f] "fly"
+
+    **** Verb action routines ****
+
+  Action table entries = 48
+
+action# action-routine "verb..."
+
+  0.  4028  "script"
+  1.  404c  "noscript"
+  2.  4084  "go"
+  3.  43ec  "inve"
+  4.  4404  "quit"
+  5.  4424  "save"
+  6.  443c  "exam"
+  7.  48b0  "turn"
+  8.  498c  "acqu"
+  9.  49c4  "atta"
+ 10.  4a3c  "poli"
+ 11.  4aa8  "disc"
+ 12.  4b6c  "grab"
+ 13.  4ba0  "chop"
+ 14.  4d14  "burn"
+ 15.  4e44  "exti"
+ 16.  4e80  "wear"
+ 17.  4ef8  "remo"
+ 18.  4f70  "devo"
+ 19.  5018  "open"
+ 20.  503c  "unlo"
+ 21.  5080  "fire"
+ 22.  518c  "pray"
+ 23.  51d4  "ask"
+ 24.  5208  "tie"
+ 25.  523c  "feed"
+ 26.  52c0  "give"
+ 27.  534c  "jump"
+ 28.  540c  "wait"
+ 29.  5430  "play"
+ 30.  548c  "read"
+ 31.  54a0  "move"
+ 32.  54b4  "swim"
+ 33.  54d0  "row"
+ 34.  551c  "dig"
+ 35.  55e4  "fill"
+ 36.  5638  "brea"
+ 37.  5684  "puff"
+ 38.  572c  "pull"
+ 39.  57e0  "clim"
+ 40.  57fc  "chuc"
+ 41.  5810  "fuck"
+ 42.  5830  "help"
+ 43.  58b4  "pres"
+ 44.  591c  "unbo"
+ 45.  5958  "to"
+ 46.  5a48  "make"
+ 47.  5b78  "fly"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.  2c00  
+    **** Prepositions ****
+
+  Table entries = 814
+
+  9. "dgo"
+ 25. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                  o            
+        a                     s                      e                     k   
+                 a                 d                c         p                
+                         s                     i                 i             
+H         r                 k   h           j                               k  
+                  a                 o   t           n         g                
+q   w           p         j                 s   x           r         k        
+        u                t         r                 w   d           v        
+z                 y   o           x         b                      n          
+z                       z         l                                           t
+                    j                      c                       y           
+          l                                             q                     
+d                                              o                     c         
+                                     o                                         
+    o                      b                     r                      h      
+                                        n                      z               
+      m                                              p                         
+                y                     r                      k                 
+                           p                      f                      y     
+                k                                              r               
+      e                      y                      o                          
+                  s                      e                     t               
+   J                                                                           
+                                                                          G    
+                                  '                   Ai                   B   
+                 Bp                   Cb                   Cr                 
+Dg                   Dw                    Eg                   Ev             
+    Fb                  G                   Gq                   Hd            
+      Hw                   Ig                    Iz                   Jm       
+           K                     Kt                   Lb                   Lu  
+                Mg                   Mz                  Nr                  Oh
+                  Pa                   Pt                  Q                 
+Qp                  Rc                  Rx                 Si                 
+Sx                  Tm                  Ty                  Ue                 
+Uw                  Vj                  Vy                  Wl                 
+Wx                  Xl                  Y                  Yt                 
+Zd                  Zw                   #                                     
+                                                                               
+                       R                                  #                  ` 
+               
+                   
+m                  0                  0o                  1d                 
+1u                  2e                  2w                  3i                 
+4                    4q                  5a                  5t                
+ 6j                  7a                  8                   8k                
+ 9                    9k klGva           kk  c  sm   x"
+165. "                                                                         
+                                                         
+KdKeKgKiKkKlKmKnMaKqKrKsKtKuKvKwKxKyKzL L   l   l  
+lLLaLbLcLdLeLfLgLhLiLjLkLlLmLnLoLpLqK   k   k   k   k   k   k   k   k   k   k  
+k   k   k   k   mbMdMfMgMhMiMjMkMlMmMnMoMpMqMrMsMtMuMvMwMxMyMzN N   n   n  
+nNNaNbNcNdNeNfNgNhNiNjNkNlNmNnNoNpNqNrNsNt     k  c    m               k  s   
+m             k        m     a        k        m     c        k        m     e 
+      k        m     g        k        m     i        k        m     k        k
+C    m     m        k S    m     o        k 0    m     q        k '    m     s 
+      k ac    m     u        k as    m     w        k bc    m     y        k bs
+   m               k cc    m               k cs    m               k dc    m   
+           k ds    m               k ec    m               k es    m           
+   k fc    m               k fs    m               k gc    m               k gs
+   m               k hc    m               k hs    m               k ic    m   
+           k is    m               k jc    m               k js    m           
+   k kc   j    "

@@ -1,0 +1,142 @@
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (bread1)
+ (bread2)
+ (bread3)
+ (bread4)
+ (bread5)
+ (darkness object)
+ (fish1)
+ (fish2)
+ (self object)
+ (tblood)
+ (tbread)
+ (tferrets)
+ (tfish)
+ (tfood)
+ (tguidance)
+ (tpeace)
+ (tsem)
+ (tsick)
+ (twater)
+ (twind)
+ (twine)
+ (tworldpeace)
+ Bread
+ CompassDirection
+ Easter egg
+ Fish
+ Food
+ Further along the Shore of Galilee
+ GameObject
+ Jacob
+ Mark's cup
+ NPC
+ Peter
+s fishing boat
+ Room
+ Tablet
+ Yonah's cup
+ baking tray
+ beard
+ book of scripture
+ bottom shelf
+ bread
+ brick houses
+ building
+ business card
+ bustling people
+ chariot
+ clover
+ compass
+ counters
+ crowd at the field
+ cup
+ damp cloth
+ deaf and dumb man
+ desert
+ disciples
+ dock
+ dock leaf
+ door
+ ears
+ east
+ end of street
+ ferret
+ field
+ fingers
+ fishing net
+ flat-bread dough
+ food stall
+ fresh fruit and vegetables
+ great oak door
+ ground
+ handbags
+ handful of clover
+ handful of olives
+ heavy stone tablet
+ high altar
+ inside
+ intersection
+ jug of wine
+ juicy melon
+ knife
+ lake
+ lefthand house
+ leper
+ long, oak pew
+ man with a nettle sting
+ market
+ metal pail
+ mound
+ musical instrument
+ nettle sting
+ north
+ northeast
+ northwest
+ oil lamp
+ oil lamps
+ ornate wooden chest
+ outside
+ oven
+ people in prayer
+ plump chicken
+ portal
+ pot of geraniums
+ righthand house
+ roof
+ sandals
+ scraps
+ shekel
+ silver coin
+ small bag
+ small bag of flour
+ something
+ south
+ southeast
+ southwest
+ sun
+ sweeping hedgerow
+ synagogue
+ table
+ tongue
+ top shelf
+ topics
+ unconscious leper
+ unconscious man
+ up above
+ valley
+ wall
+ wall-hangings
+ wandering sheep
+ water
+ west
+ white robe
+ wild flowers
+ wind
+ windowsill
+ wine
+ woman
+

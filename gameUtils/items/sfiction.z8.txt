@@ -1,0 +1,328 @@
+ (AlarmHandler)
+ (Daemon Handler)
+ (Graph Handler)
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (LiftDaemon)
+ (Limbo)
+ (NPCDaemon)
+ (PlayerHandler)
+ (Score Handler)
+ (alarm_repair_daemon)
+ (alarm_wire_bank)
+ (alarm_wire_east)
+ (alarm_wire_west)
+ (auction_daemon)
+ (bank_tree)
+ (battlements_tree)
+ (cage daemon)
+ (darkness object)
+ (diamond_daemon)
+ (egg_daemon)
+ (endgame_nag_daemon)
+ (force_comment_daemon)
+ (hay_daemon)
+ (machine_contents)
+ (magic_shop_tree)
+ (meat_stall_tree)
+ (null_object)
+ (potion base)
+ (rhetorical_question_daemon)
+ (riddle1)
+ (riddle2)
+ (riddle3)
+ (riddle4)
+ (scratch_object)
+ (self object)
+ (staircase_wit)
+ (ticker_daemon)
+ (topic_account)
+ (topic_balloon)
+ (topic_billy_goatsmith)
+ (topic_cage)
+ (topic_cedar_box)
+ (topic_circle)
+ (topic_cockroaches)
+ (topic_faery_coin)
+ (topic_hedgehog)
+ (topic_insurance)
+ (topic_king)
+ (topic_meat)
+ (topic_mel)
+ (topic_midas)
+ (topic_money)
+ (topic_pepper)
+ (topic_queen)
+ (topic_repellent)
+ (topic_salt)
+ (topic_sandie)
+ (topic_treasurer)
+ (topic_trinkets)
+ (topic_wand)
+ (topic_wd)
+ (topic_wizard)
+ (vase timer)
+ (wires_category)
+ (wizard)
+ AdviceTopic
+ AlarmWire
+ Bucket
+ CompassDirection
+ ConditionallyNamedObject
+ DaemonObject
+ EndgameNPC
+ Excitement pan
+ Exploding Cockroaches
+ FakeContainer
+ FakeObject
+ FishingBait
+ FishingBait_1
+ FishingBait_2
+ ForgedNote
+ ForgedNote_1
+ ForgedNote_2
+ ForgedNote_3
+ HorizonObject
+ Liquid
+ MeatPan
+ Mel
+ Merchant
+ Merchant_1
+ Merchant_2
+ Merchant_3
+ Merchant_4
+ Merchant_5
+ Merchant_6
+ Merchant_7
+ Merchant_8
+ Merchant_9
+ MetaContainer
+ Midas potion
+ NPC
+ PhraseObject
+ Portal
+ Potion
+ PotionFailure
+ PotionFailure_5
+ RiddleNote
+ Room
+ Sack
+ Sandie
+ SceneryObject
+ SpellComponent
+ Stairs
+ StockSocket
+ StockSocket_7
+ StockWire
+ StockWire_7
+ TimerObject
+ Treasure
+ Un-Hat
+ W.D.
+ WatchmanTunic
+ WatchmanTunic_1
+ WatchmanTunic_2
+ WatchmanTunic_3
+ WharfFish
+ WharfFish_1
+ WharfFish_2
+ WharfFish_3
+ XContainer
+ XSupporter
+ animals
+ apron
+ auction block
+ auctioneer
+ b   qgkag
+ bank
+ bank teller
+ barn
+ barrel
+ basket
+ bay
+ bed
+ beef pan
+ beggar
+ blue button
+ bottle of clear fluid
+ bronze bell
+ bubbling green potion
+ bubbling violet potion
+ cage
+ cargo ships
+ castle
+ cedar box
+ certificate
+ chalk circle
+ chimney
+ chipped cup
+ clear potion
+ cloud
+ coarse blanket
+ coffer
+ compass
+ corn
+ cots
+ cottage
+ counterfeit banknote
+ daffodil blood
+ diamond ring
+ dock
+ dog-eared pamphlet
+ door
+ dye
+ dye_1
+ dye_2
+ dye_3
+ dye_4
+ eObject
+ east
+ egg
+ elf lights
+ evidence box
+ faery coin
+ farming tools
+ farmland
+ feathers
+ fireplace
+ fishing boats
+ fishing rod
+ florin
+ forms
+ fountain
+ giant wooden doors
+ gold chandelier
+ green button
+ grey fedora
+ ground
+ guards
+ hedgehog
+ help
+ hole in the wall
+ inkpad
+ inscription
+ inside
+ insurance check
+ insurance policy
+ iridescent potion
+ iron key
+ ivory runestone
+ jars
+ king
+ kk   o   ps
+ lamps
+ large black button
+ large crack
+ large yellow button
+ leather pouch
+ leather-bound book
+ lever
+ long desk
+ loose brick
+ magic lift
+ magic shop
+ magic wand
+ magical bag of holding
+ meats stall
+ mechanical moustache
+ metal device
+ metal tray
+ mirror
+ mortar
+ murky black potion
+ narrow slot
+ north
+ northeast
+ northwest
+ ordinary man
+ outside
+ overalls
+ padlock
+ paint
+ panel
+ pen
+ pepper
+ phoenix kidney
+ pile of assorted trinkets
+ pile of hay
+ pile of logs
+ pile of paperwork
+ pile of treasure
+ plaque
+ pork pan
+ pot
+ red balloon
+ red button
+ refined starmetal
+ reward chit
+ robes
+ sack of bearer bonds
+ salt
+ salt_1
+ salt_2
+ salt_3
+ sapphire whiskey
+ scarecrow
+ scarf
+ scrap of paper
+ series of rings
+ shelf
+ shelves
+ sigil
+ sign
+ signature
+ small hatch
+ solid-looking door
+ south
+ southeast
+ southwest
+ sovereign bond
+ sparkly silver potion
+ spell book
+ spiral staircase
+ stalls
+ stamp
+ statue
+ statue's left elbow
+ statue's right elbow
+ stock certificate
+ stock ticker
+ stool
+ strange coin
+ suit
+ sweet-smelling blue potion
+ table
+ tape
+ tapestry
+ tent
+ the mind of a desperate wizard
+ thick liquid
+ thick oak door
+ tired guardsman
+ torn bit of wool
+ torn page
+ trapdoor
+ treasure house
+ treasurer
+ tree
+ unicorn
+ unicorn fur
+ up above
+ various shops
+ various stocks
+ vase
+ vegetables
+ vellum page
+ wanted poster
+ wastebasket
+ watchtower
+ west
+ window
+ wizard ash
+ workbench
+ workman
+ you
+ young guardsman
+

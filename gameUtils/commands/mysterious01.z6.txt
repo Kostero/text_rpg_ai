@@ -1,0 +1,225 @@
+
+Story file is games/mysterious01.z6
+
+    **** Parse tables ****
+
+  Verb entries = 42
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "go"
+    [00 00 00 00 00 00 00 02] "go"
+
+252. 1 entry, verb = "swim"
+    [00 00 00 00 00 00 00 03] "swim"
+
+251. 1 entry, verb = "sque"
+    [00 00 00 00 00 00 00 04] "sque"
+
+250. 1 entry, verb = "burn"
+    [00 00 00 00 00 00 00 05] "burn"
+
+249. 1 entry, verb = "pour"
+    [00 00 00 00 00 00 00 06] "pour"
+
+248. 1 entry, verb = "quit"
+    [00 00 00 00 00 00 00 07] "quit"
+
+247. 1 entry, verb = "blow"
+    [00 00 00 00 00 00 00 08] "blow"
+
+246. 1 entry, verb = "sail"
+    [00 00 00 00 00 00 00 09] "sail"
+
+245. 1 entry, verb = "feed"
+    [00 00 00 00 00 00 00 0a] "feed"
+
+244. 1 entry, verb = "get", synonyms = "pick", "take"
+    [00 00 00 00 00 00 00 0b] "get"
+
+243. 1 entry, verb = "help"
+    [00 00 00 00 00 00 00 0c] "help"
+
+242. 1 entry, verb = "inve"
+    [00 00 00 00 00 00 00 0d] "inve"
+
+241. 1 entry, verb = "exam", synonyms = "look", "sear"
+    [00 00 00 00 00 00 00 0e] "exam"
+
+240. 1 entry, verb = "drop", synonyms = "give", "leav", "put"
+    [00 00 00 00 00 00 00 0f] "drop"
+
+239. 1 entry, verb = "chuc", synonyms = "hurl", "slin", "thro"
+    [00 00 00 00 00 00 00 10] "chuc"
+
+238. 1 entry, verb = "igni", synonyms = "ligh"
+    [00 00 00 00 00 00 00 11] "igni"
+
+237. 1 entry, verb = "dous", synonyms = "exti", "unli"
+    [00 00 00 00 00 00 00 12] "dous"
+
+236. 1 entry, verb = "open"
+    [00 00 00 00 00 00 00 13] "open"
+
+235. 1 entry, verb = "say"
+    [00 00 00 00 00 00 00 14] "say"
+
+234. 1 entry, verb = "read"
+    [00 00 00 00 00 00 00 15] "read"
+
+233. 1 entry, verb = "jump", synonyms = "leap"
+    [00 00 00 00 00 00 00 16] "jump"
+
+232. 1 entry, verb = "chop", synonyms = "cut"
+    [00 00 00 00 00 00 00 17] "chop"
+
+231. 1 entry, verb = "asce", synonyms = "clim"
+    [00 00 00 00 00 00 00 18] "asce"
+
+230. 1 entry, verb = "move", synonyms = "shif"
+    [00 00 00 00 00 00 00 19] "move"
+
+229. 1 entry, verb = "shak", synonyms = "wave"
+    [00 00 00 00 00 00 00 1a] "shak"
+
+228. 1 entry, verb = "atta", synonyms = "dest", "exte", "kill"
+    [00 00 00 00 00 00 00 1b] "atta"
+
+227. 1 entry, verb = "don", synonyms = "wear"
+    [00 00 00 00 00 00 00 1c] "don"
+
+226. 1 entry, verb = "doff", synonyms = "remo"
+    [00 00 00 00 00 00 00 1d] "doff"
+
+225. 1 entry, verb = "hold"
+    [00 00 00 00 00 00 00 1e] "hold"
+
+224. 1 entry, verb = "scor"
+    [00 00 00 00 00 00 00 1f] "scor"
+
+223. 1 entry, verb = "poli", synonyms = "rub", "shin"
+    [00 00 00 00 00 00 00 20] "poli"
+
+222. 1 entry, verb = "eat"
+    [00 00 00 00 00 00 00 21] "eat"
+
+221. 1 entry, verb = "unlo"
+    [00 00 00 00 00 00 00 22] "unlo"
+
+220. 1 entry, verb = "ball", synonyms = "bast", "boll", "fuck", "shit", "swea"
+    [00 00 00 00 00 00 00 23] "ball"
+
+219. 1 entry, verb = "spri"
+    [00 00 00 00 00 00 00 24] "spri"
+
+218. 1 entry, verb = "brea", synonyms = "hamm", "hit", "smas"
+    [00 00 00 00 00 00 00 25] "brea"
+
+217. 1 entry, verb = "save", synonyms = "stor"
+    [00 00 00 00 00 00 00 26] "save"
+
+216. 1 entry, verb = "mop"
+    [00 00 00 00 00 00 00 27] "mop"
+
+215. 1 entry, verb = "soak"
+    [00 00 00 00 00 00 00 28] "soak"
+
+214. 1 entry, verb = "fill", synonyms = "refi", "repl"
+    [00 00 00 00 00 00 00 29] "fill"
+
+    **** Verb action routines ****
+
+  Action table entries = 42
+
+action# action-routine "verb..."
+
+  0.  34a8  "script"
+  1.  34cc  "noscript"
+  2.  3538  "go"
+  3.  3740  "swim"
+  4.  37c4  "sque"
+  5.  38b8  "burn"
+  6.  38dc  "pour"
+  7.  38f0  "quit"
+  8.  3910  "blow"
+  9.  39b8  "sail"
+ 10.  3a20  "feed"
+ 11.  3abc  "get"
+ 12.  3c18  "help"
+ 13.  3ec0  "inve"
+ 14.  3ed8  "exam"
+ 15.  40f0  "drop"
+ 16.  4234  "chuc"
+ 17.  43ac  "igni"
+ 18.  4490  "dous"
+ 19.  4500  "open"
+ 20.  462c  "say"
+ 21.  46c4  "read"
+ 22.  48b0  "jump"
+ 23.  48d4  "chop"
+ 24.  495c  "asce"
+ 25.  4a24  "move"
+ 26.  4a40  "shak"
+ 27.  4af8  "atta"
+ 28.  4bb4  "don"
+ 29.  4c40  "doff"
+ 30.  4cb4  "hold"
+ 31.  4ce8  "scor"
+ 32.  4d14  "poli"
+ 33.  4e6c  "eat"
+ 34.  4e90  "unlo"
+ 35.  4fd0  "ball"
+ 36.  4ff8  "spri"
+ 37.  508c  "brea"
+ 38.  50d8  "save"
+ 39.  50f0  "mop"
+ 40.  5104  "soak"
+ 41.  5148  "fill"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.  2080  
+    **** Prepositions ****
+
+  Table entries = 814
+
+  9. " k kk   k fm   k lm"
+ 24. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+     w                     g                     y                     k       
+                                 b   c           a  c      y           a       
+ l                                            w                     m          
+                           6   s           h         f                 k   x   
+       j         n                     c                     y                 
+   o                     b                     u                 r   k         
+ q                            t   v           s         i                      
+                 w   u           v  x      h           v                       
+        p                      c           z                                 m 
+                     c                      t                     k            
+         d                      w                      j                       
+                      k                                              m         
+                                 t                      d                     
+w                      h                                              y        
+             l                                             s                   
+  f                      z                      m                     a        
+            q                     f                     u                     d
+                                          r                     j              
+                           q                    c                     t        
+            i                                            r                    
+c                     u                     i                                  
+        r                     d                     w                     g    
+                                       p                     d                 
+   t                     d                     v                     j klGva   
+       kk  c  sm   x"

@@ -1,0 +1,169 @@
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ Bucket
+ COMPUCOM
+ Can I get back into the spacecraft once I'm outside?
+ CompassDirection
+ Connector
+ Furniture
+ Gas
+ Gas_1
+ Gas_2
+ Gas_3
+ Guard
+ Hintobj
+ How do I get across the mountains?
+ How do I get by the guard at the sacred grounds?
+ How do I get out of the cryotube?
+ How do I get out of the main cabin of the spacecraft?
+ How do I use the escape pod?
+ How do I use the radio to get off this planet?
+ How do I work the radio-transmitter?
+ IDENTITY - Hint System
+ Is there anything special about the Vegetation outside the spacecraft?
+ Jumper
+ Menu
+ NPC
+ Once I have the radio working, what frequency do I use to transmit?
+ Option
+ Prop
+ Room
+ Silver Pitcher
+ SwitchOption
+ What do I do about the toxic gas?
+ What do I do at the village?
+ What do I do with the dead man on the cliff?
+ What do I do with the journal?
+ What do I do with the mountain yak?
+ What do I do with the village boy?
+ What do I do with the village elder?
+ What do I do with the village woman?
+ What's the deal with the fire and smoke?
+ What's with all the stuff in the emergency supply cabinet?
+ Wire
+ backing
+ bandages
+ big village hut
+ blue berries
+ burnt out radio interface board
+ bushes
+ cliff edge
+ compass
+ crack
+ cracked cryotubes
+ cryotube
+ cryotube window
+ dead man
+ dial
+ east
+ electrical wires
+ emergency lights
+ empty cryotube
+ engine
+ escape pod
+ escape pod Hatch
+ escape pod Seat
+ escape pod control panel
+ escape pod handle
+ escape pod hatch
+ escape pod sign
+ fire and smoke
+ fire extinguisher
+ first aid kit
+ front viewshield
+ fuse
+ fuse label
+ fuselage
+ gas
+ grass
+ ground
+ guidance system
+ hatch tag
+ inside
+ journal
+ jumper J114
+ jumper J115
+ jumper J116
+ jumper J121
+ jumper J235
+ jumper J236
+ jumper J238
+ jumper J239
+ jumper J242
+ jumper J243
+ jumper J244
+ jumper J251
+ jumper J252
+ laser
+ lock
+ lower hatch
+ main bulkhead door
+ main instrument control panel
+ man in cryotube
+ medium village hut
+ mountain yak
+ mountains
+ new interface board
+ north
+ northeast
+ northwest
+ ocean
+ opening
+ outside
+ paint
+ panel
+ parchment
+ path
+ pod chair
+ radio wiring
+ radio-transmitter
+ receptacle
+ red berries
+ rocks
+ roof
+ rubble
+ sensor panel
+ shovel
+ small village hut
+ smoke
+ south
+ southeast
+ southwest
+ spacecraft
+ spacecraft Engine
+ spaceship
+ sparse furnishings
+ specimen jar
+ splinter
+ straps
+ sun
+ supply closet
+ torches
+ trees
+ tweezers
+ up above
+ upper hatch
+ valley
+ village boy
+ village elder
+ village seal
+ village woman
+ walls
+ water
+ west
+ wire A1
+ wire A2
+ wire A3
+ wire A4
+ wire A5
+ wire A6
+ wire A7
+ wire A8
+ wire A9
+ woman in cryotube
+ yak's Foot
+

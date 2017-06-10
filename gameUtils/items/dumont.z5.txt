@@ -1,0 +1,800 @@
+ 
+ (34)
+ (382)
+ (383)
+ (384)
+ (385)
+ (386)
+ (388)
+ (389)
+ (390)
+ (391)
+ (392)
+ (394)
+ (395)
+ (396)
+ (397)
+ (398)
+ (399)
+ (400)
+ (402)
+ (403)
+ (404)
+ (405)
+ (406)
+ (407)
+ (408)
+ (410)
+ (411)
+ (412)
+ (413)
+ (414)
+ (415)
+ (416)
+ (418)
+ (419)
+ (420)
+ (421)
+ (424)
+ (425)
+ (426)
+ (427)
+ (428)
+ (430)
+ (431)
+ (432)
+ (434)
+ (435)
+ (436)
+ (437)
+ (438)
+ (439)
+ (440)
+ (441)
+ (442)
+ (444)
+ (445)
+ (446)
+ (447)
+ (448)
+ (450)
+ (451)
+ (452)
+ (453)
+ (455)
+ (456)
+ (457)
+ (459)
+ (460)
+ (461)
+ (462)
+ (464)
+ (465)
+ (466)
+ (467)
+ (468)
+ (470)
+ (471)
+ (472)
+ (473)
+ (474)
+ (475)
+ (476)
+ (477)
+ (481)
+ (482)
+ (484)
+ (485)
+ (486)
+ (487)
+ (488)
+ (489)
+ (491)
+ (492)
+ (493)
+ (494)
+ (495)
+ (496)
+ (497)
+ (498)
+ (500)
+ (501)
+ (502)
+ (503)
+ (505)
+ (507)
+ (510)
+ (511)
+ (512)
+ (513)
+ (515)
+ (517)
+ (518)
+ (520)
+ (521)
+ (522)
+ (523)
+ (526)
+ (527)
+ (528)
+ (530)
+ (532)
+ (533)
+ (534)
+ (535)
+ (536)
+ (538)
+ (539)
+ (540)
+ (541)
+ (542)
+ (545)
+ (546)
+ (547)
+ (548)
+ (550)
+ (551)
+ (553)
+ (554)
+ (555)
+ (556)
+ (559)
+ (560)
+ (561)
+ (563)
+ (565)
+ (566)
+ (567)
+ (568)
+ (570)
+ (572)
+ (573)
+ (574)
+ (575)
+ (578)
+ (579)
+ (581)
+ (583)
+ (584)
+ (585)
+ (586)
+ (587)
+ (588)
+ (589)
+ (590)
+ (591)
+ (592)
+ (593)
+ (595)
+ (596)
+ (597)
+ (598)
+ (599)
+ (600)
+ (601)
+ (603)
+ (604)
+ (605)
+ (606)
+ (609)
+ (610)
+ (612)
+ (613)
+ (614)
+ (616)
+ (617)
+ (618)
+ (619)
+ (621)
+ (622)
+ (623)
+ (624)
+ (625)
+ (626)
+ (627)
+ (628)
+ (630)
+ (631)
+ (632)
+ (633)
+ (634)
+ (635)
+ (637)
+ (638)
+ (639)
+ (640)
+ (642)
+ (643)
+ (644)
+ (645)
+ (646)
+ (648)
+ (649)
+ (650)
+ (651)
+ (652)
+ (653)
+ (654)
+ (655)
+ (656)
+ (657)
+ (658)
+ (659)
+ (660)
+ (661)
+ (662)
+ (663)
+ (664)
+ (666)
+ (667)
+ (668)
+ (669)
+ (670)
+ (671)
+ (672)
+ (673)
+ (674)
+ (676)
+ (677)
+ (678)
+ (681)
+ (682)
+ (683)
+ (684)
+ (685)
+ (686)
+ (687)
+ (689)
+ (690)
+ (691)
+ (692)
+ (693)
+ (694)
+ (696)
+ (697)
+ (699)
+ (700)
+ (701)
+ (702)
+ (703)
+ (704)
+ (705)
+ (706)
+ (708)
+ (709)
+ (710)
+ (711)
+ (712)
+ (713)
+ (714)
+ (715)
+ (716)
+ (717)
+ (718)
+ (720)
+ (722)
+ (723)
+ (725)
+ (726)
+ (727)
+ (730)
+ (731)
+ (732)
+ (734)
+ (735)
+ (736)
+ (737)
+ (738)
+ (739)
+ (740)
+ (742)
+ (743)
+ (744)
+ (745)
+ (746)
+ (747)
+ (749)
+ (750)
+ (751)
+ (752)
+ (754)
+ (755)
+ (756)
+ (757)
+ (758)
+ (759)
+ (762)
+ (763)
+ (764)
+ (766)
+ (767)
+ (768)
+ (769)
+ (770)
+ (771)
+ (772)
+ (774)
+ (775)
+ (776)
+ (777)
+ (778)
+ (779)
+ (781)
+ (782)
+ (783)
+ (784)
+ (785)
+ (786)
+ (788)
+ (789)
+ (790)
+ (791)
+ (794)
+ (795)
+ (796)
+ (797)
+ (799)
+ (800)
+ (801)
+ (803)
+ (804)
+ (805)
+ (806)
+ (808)
+ (809)
+ (810)
+ (811)
+ (812)
+ (813)
+ (814)
+ (815)
+ (816)
+ (817)
+ (818)
+ (819)
+ (820)
+ (822)
+ (823)
+ (824)
+ (825)
+ (826)
+ (827)
+ (829)
+ (830)
+ (832)
+ (833)
+ (834)
+ (835)
+ (836)
+ (838)
+ (839)
+ (840)
+ (841)
+ (842)
+ (845)
+ (846)
+ (847)
+ (849)
+ (850)
+ (851)
+ (852)
+ (853)
+ (854)
+ (855)
+ (857)
+ (858)
+ (859)
+ (860)
+ (861)
+ (862)
+ (863)
+ (865)
+ (866)
+ (867)
+ (868)
+ (869)
+ (871)
+ (874)
+ (875)
+ (876)
+ (877)
+ (878)
+ (879)
+ (880)
+ (882)
+ (883)
+ (884)
+ (885)
+ (886)
+ (887)
+ (888)
+ (890)
+ (891)
+ (892)
+ (893)
+ (894)
+ (895)
+ (896)
+ (897)
+ (898)
+ (899)
+ (900)
+ (901)
+ (902)
+ (903)
+ (905)
+ (906)
+ (907)
+ (908)
+ (911)
+ (912)
+ (913)
+ (914)
+ (915)
+ (916)
+ (917)
+ (918)
+ (919)
+ (921)
+ (922)
+ (923)
+ (925)
+ (926)
+ (927)
+ (928)
+ (929)
+ (931)
+ (932)
+ (933)
+ (934)
+ (935)
+ (936)
+ (937)
+ (938)
+ (939)
+ (940)
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (meditation_item)
+ (self object)
+ (sprinkler_system)
+ (temp_obj)
+ And what about the big red button?
+ As a last resort...
+ Barker
+ Barker rejects the milk!
+ Black Shell
+ Bumper Car
+ Chaos Cohen
+ CompassDirection
+ Damn! I lose!
+ Did you know...
+ Do I need the glowing rock?
+ Dolly
+ Dumont cut-out
+ Eeeagh! I've been locked out of the bedroom!
+ Eeeagh! Mutant atomic giga-rats from hell!
+ Elements? What elements?
+ Everything's melting!
+ Exam Room
+ General Questions
+ Geordi keeps tying me to the reactor core!
+ HUH?
+ Have you tried...
+ Help! I'm lost in the fog!
+ Hint
+ HintTopic
+ How all the points are scored
+ How do I clean the jeans?
+ How do I empty the steel chamber?
+ How do I get Siskel and Ebert to stop talking?
+ How do I get rid of the Piranhas in the tank?
+ How do I get that key?
+ How do I get the generator running?
+ How do I get the handbook?
+ How do I open the window?
+ How do I play Ring Toss?
+ How do I play the Milky Way quiz?
+ How do I win the kite race? I'm confused!
+ Hydra
+ I already took all the rides!
+ I can't concentrate on anything!
+ I can't get the key out of the pond!
+ I keep dying!
+ I want that float robe!
+ I'm getting all sleepy!
+ It's dark and I can't see anything!
+ John Boothe
+ Key
+ Keys? What keys?
+ Keyslot
+ Kite racing? What's that?
+ Kon Karni
+ LCD pad
+ Lorenzo doesn't talk much, does he?
+ Menu
+ Metaphysics
+ Nothing is real here!
+ Now what do I do with this bear?
+ Now what do I do with this thing?
+ Nuclear
+ Okay, but I still don't have the key!
+ Okay, how do I answer those koans?
+ Option
+ Parti stops me from taking the club!
+ Person
+ Philosophy
+ Power plants? What power plants?
+ Queryable objects
+ Race_Course
+ Roller Coaster
+ S.A.M. Center
+ S.A.M. East
+ S.A.M. NE
+ S.A.M. NW
+ S.A.M. North
+ S.A.M. SE
+ S.A.M. SW
+ S.A.M. South
+ S.A.M. West
+ Science Art Museum
+ Some silly verbs...
+ Some special verbs...
+ SubMenu
+ SwitchOption
+ Teddy Bear
+ That strange man won't let me backstage!
+ The Apartment and Lab
+ The Endgame
+ The Fair
+ The Observatory and Planetarium
+ The Point of View Theater
+ The Pond
+ The Pyramid and Racing Course
+ The School of Thought
+ The bouncer won't let me enter the bedroom!
+ The knife-thrower keeps killing me!
+ There's a few controls here! What do they do?
+ Things to ask Parti about you might not have thought of...
+ This pyramid is confusing me!
+ This strange cat won't let me backstage!
+ Ty Kett
+ Ty Kett won't let me into the theater!
+ Waaah! Barker won't give me the key!
+ What about all those rides?
+ What about that pillowcase?
+ What about that soap dish and bubble wand?
+ What about these jeans?
+ What about this round slab of glass?
+ What about those wires?
+ What am I doing here?
+ What do I do about the reactor leak?
+ What do I do here?
+ What do I do with the duck?
+ What do I do with the range?
+ What do I do with this membership card?
+ What do these buttons do?
+ What is a koan, anyway?
+ What is the Brain Police?
+ What is there to do here?
+ What is this shell?
+ What should I select as a prize?
+ What's in the steel chamber?
+ What's missing in that projector?
+ What's the password for the terminal?
+ What's this about an exam?
+ What's this flyer Gravity is holding?
+ What's with this pinata?
+ What?
+ When you've finished the game...
+ Where all the elements for shutdown are
+ Where all the keys are
+ Where am I?
+ Where do I sit to watch the show?
+ Whip
+ Who is Chaos Cohen?
+ Who is Dr. Gravity?
+ Who is Lorenzo "Buck" Way?
+ Who is Professor Parti?
+ Who is Professor Uranium?
+ Why isn't there anybody here?
+ Yay! I win!
+ Zen
+ arcade machines
+ b   jldbl
+ banner
+ bath
+ bathtub
+ bed
+ bedroom door
+ belt
+ big tree
+ black button
+ black ladder
+ blanket
+ blue grass
+ blue key
+ bubble wand
+ bulletin board
+ bunch of bedding
+ bunch of cubes
+ bunch of glass
+ bunch of pipes
+ cabinets
+ casting couch
+ cattails
+ catwalk
+ ceiling
+ center portion
+ chain
+ chair
+ chalkboard
+ chamber
+ circular slot
+ claw feet
+ clock
+ coffee table
+ compass
+ control board
+ corral
+ corrals
+ couch
+ crystal pedestal
+ crystal plaque
+ curtain
+ desk
+ dial
+ diamond slot
+ dining chair
+ dining table
+ diploma
+ directory
+ dog cut-out
+ doll
+ dome
+ door key
+ doorway
+ drain
+ drawers
+ dresser
+ duck
+ duckling
+ dummy pocket
+ east wall
+ fabric
+ faucet
+ fence
+ fire escape
+ float robe
+ floor
+ flyer
+ fridge
+ front door
+ game
+ generator
+ glass jar
+ glass slab
+ glowing rock
+ gold plaque
+ golf
+ golf ball
+ golf club
+ grass
+ green key
+ group of students
+ handbook
+ handle
+ hole
+ hook
+ imzvmyou    ga
+ inside
+ kite
+ ladder
+ lamp
+ large cat
+ large exhibit
+ laser
+ lawn
+ light exhibit
+ lighthouse
+ little bridge
+ long table
+ love note
+ lower seats
+ magazine
+ makeup brush
+ massive stairs
+ mdc
+ membership card
+ mirror
+ missing component
+ mist
+ mug
+ music
+ nap
+ nests
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ painting
+ pair of glasses
+ pair of hands
+ pair of jeans
+ pair of wires
+ pattern
+ pedestal
+ petting zoo
+ pile of feathers
+ pinata
+ pipe
+ plaque
+ plush seats
+ pond
+ projector
+ pussywillows
+ pyramid
+ pyramid pedestal
+ quantity of milk
+ quantity of water
+ quiz
+ rack
+ range
+ rectangular slot
+ red key
+ ribbon
+ ring
+ rock exhibit
+ rubber tee
+ seat
+ separator
+ set of shakers
+ shards of glass
+ shelf
+ short bio
+ sign
+ silver plaque
+ sky
+ small book
+ small exhibit
+ small plaque
+ small sign
+ smells
+ soap dish
+ south wall
+ southeast wall
+ southwest wall
+ souvenir pillow
+ square slot
+ stage door
+ star
+ steel door
+ swinging doors
+ tachyon
+ tatami mat
+ terminal
+ test
+ theater
+ ticket
+ ticket window
+ triangular slot
+ vacuum exhibit
+ vanity table
+ vase
+ viewscreen
+ violet key
+ wall
+ water
+ water wheel
+ west wall
+ wheel
+ white button
+ white ladder
+ wig
+ windmill
+ window
+ yellow key
+ your body
+

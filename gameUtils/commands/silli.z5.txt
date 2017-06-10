@@ -1,0 +1,922 @@
+
+Story file is games/silli.z5
+
+    **** Parse tables ****
+
+  Verb entries = 109
+
+255. 1 entry, verb =  no-verb
+    [00 0c]                   "no-verb"
+
+254. 2 entries, verb =  no-verb
+    [00 0d]                   "no-verb"
+    [0f 00]                   "no-verb N   :     spf"
+
+253. 1 entry, verb =  no-verb
+    [00 01]                   "no-verb"
+
+252. 1 entry, verb =  no-verb
+    [00 03]                   "no-verb"
+
+251. 1 entry, verb =  no-verb
+    [00 02]                   "no-verb"
+
+250. 1 entry, verb =  no-verb
+    [00 05]                   "no-verb"
+
+249. 1 entry, verb =  no-verb
+    [00 04]                   "no-verb"
+
+248. 3 entries, verb =  no-verb
+    [00 06]                   "no-verb"
+    [0f 00]                   "no-verb N   :     spf"
+    [07 42]                   "no-verb ycq"
+
+247. 1 entry, verb =  no-verb
+    [00 07]                   "no-verb"
+
+246. 1 entry, verb =  no-verb
+    [00 1e]                   "no-verb"
+
+245. 1 entry, verb =  no-verb
+    [00 1d]                   "no-verb"
+
+244. 1 entry, verb =  no-verb
+    [00 1c]                   "no-verb"
+
+243. 1 entry, verb =  no-verb
+    [00 00]                   "no-verb"
+
+242. 2 entries, verb =  no-verb
+    [00 08]                   "no-verb"
+    [42 24 9b 0f]             "no-verb ycq OBJ"
+
+241. 1 entry, verb =  no-verb
+    [00 5e]                   "no-verb"
+
+240. 1 entry, verb =  no-verb
+    [00 0a]                   "no-verb"
+
+239. 1 entry, verb =  no-verb
+    [00 0b]                   "no-verb"
+
+238. 5 entries, verb = "carry", synonyms = "hold", "take"
+    [00 0f]                   "carry"
+    [01 00]                   "carry   bgko"
+    [02 0f]                   "carry ycq"
+    [00 29]                   "carry"
+    [42 24 89 04]             "carry ycq OBJ"
+
+237. 5 entries, verb = "get"
+    [00 19]                   "get"
+    [62 24 d1 72]             "get ycq OBJ"
+    [24 89]                   "get es    h k ss   w    j"
+    [52 29 b4 0f]             "get u can't wear  OBJ"
+    [00 0f]                   "get"
+
+236. 2 entries, verb = "pick"
+    [00 0f]                   "pick"
+    [42 29 b4 01]             "pick ycq OBJ"
+
+235. 3 entries, verb = "stand"
+    [00 19]                   "stand"
+    [0f 00]                   "stand N   :     spf"
+    [19 42]                   "stand ycq"
+
+234. 3 entries, verb = "remove"
+    [00 29]                   "remove"
+    [01 00]                   "remove   bgko"
+    [01 0f]                   "remove   bgko"
+
+233. 1 entry, verb = "disrobe", synonyms = "doff", "shed"
+    [00 29]                   "disrobe"
+
+232. 1 entry, verb = "don", synonyms = "wear"
+    [00 2a]                   "don"
+
+231. 5 entries, verb = "put"
+    [00 13]                   "put"
+    [01 00]                   "put   bgko"
+    [04 62]                   "put ycq"
+    [22 eb]                   "put ycq"
+    [72 23 06 52]             "put ekilk   xk      ycq OBJ"
+
+230. 1 entry, verb = "insert"
+    [00 13]                   "insert"
+
+229. 4 entries, verb = "empty"
+    [00 5f]                   "empty"
+    [01 00]                   "empty   bgko"
+    [00 0f]                   "empty"
+    [00 5f]                   "empty"
+
+228. 1 entry, verb = "transfer"
+    [00 5d]                   "transfer"
+
+227. 4 entries, verb = "discard", synonyms = "drop", "throw"
+    [00 10]                   "discard"
+    [01 00]                   "discard   bgko"
+    [03 0f]                   "discard ycq"
+    [00 13]                   "discard"
+
+226. 3 entries, verb = "feed", synonyms = "give", "offer", "pay"
+    [00 15]                   "feed"
+    [01 00]                   "feed   bgko"
+    [01 42]                   "feed   bgko"
+
+225. 2 entries, verb = "display", synonyms = "present", "show"
+    [04 16]                   "display ycq"
+    [01 00]                   "display   bgko"
+
+224. 4 entries, verb = "go", synonyms = "run", "walk"
+    [00 1a]                   "go"
+    [0f 00]                   "go N   :     spf"
+    [1b 83]                   "go   qpk                     flmgg  Odei"
+    [2a 1e]                   "go  Hill"
+
+223. 4 entries, verb = "leave"
+    [00 1a]                   "leave"
+    [0f 00]                   "leave N   :     spf"
+    [1b 83]                   "leave   qpk                     flmgg  Odei"
+    [2a 1e]                   "leave  Hill"
+
+222. 3 entries, verb = "i", synonyms = "inv", "inventory"
+    [00 0e]                   "i"
+    [0f 00]                   "i N   :     spf"
+    [60 42 28 31]             "i ycq OBJ"
+
+221. 5 entries, verb = "l", synonyms = "look"
+    [00 1f]                   "l"
+    [0f 00]                   "l N   :     spf"
+    [20 42]                   "l ycq"
+    [1f 0d]                   "l ycq"
+    [01 00]                   "l   bgko"
+
+220. 2 entries, verb = "consult"
+    [00 59]                   "consult"
+    [01 00]                   "consult   bgko"
+
+219. 2 entries, verb = "open", synonyms = "uncover", "undo", "unwrap"
+    [00 27]                   "open"
+    [01 00]                   "open   bgko"
+
+218. 3 entries, verb = "close", synonyms = "cover", "shut"
+    [00 28]                   "close"
+    [01 00]                   "close   bgko"
+    [00 0f]                   "close"
+
+217. 2 entries, verb = "cross", synonyms = "enter"
+    [00 62]                   "cross"
+    [0f 00]                   "cross N   :     spf"
+
+216. 2 entries, verb = "lie", synonyms = "sit"
+    [00 17]                   "lie"
+    [42 24 9b 42]             "lie ycq OBJ"
+
+215. 1 entry, verb = "in", synonyms = "inside"
+    [00 62]                   "in"
+
+214. 1 entry, verb = "exit", synonyms = "out", "outside"
+    [00 19]                   "exit"
+
+213. 1 entry, verb = "check", synonyms = "describe", "examine", "watch", "x"
+    [00 20]                   "check"
+
+212. 3 entries, verb =  no-verb
+    [00 20]                   "no-verb"
+    [01 00]                   "no-verb   bgko"
+    [00 0f]                   "no-verb"
+
+211. 1 entry, verb = "y", synonyms = "yes"
+    [00 2c]                   "y"
+
+210. 1 entry, verb = "no"
+    [00 2d]                   "no"
+
+209. 1 entry, verb = "sorry"
+    [00 3f]                   "sorry"
+
+208. 2 entries, verb = "damn", synonyms = "fuck", "shit", "sod"
+    [00 40]                   "damn"
+    [0f 00]                   "damn N   :     spf"
+
+207. 2 entries, verb = "bother", synonyms = "curses", "darn", "drat"
+    [00 41]                   "bother"
+    [0f 00]                   "bother N   :     spf"
+
+206. 1 entry, verb = "search"
+    [00 22]                   "search"
+
+205. 2 entries, verb = "wave"
+    [00 49]                   "wave"
+    [0f 00]                   "wave N   :     spf"
+
+204. 2 entries, verb = "adjust", synonyms = "set"
+    [00 47]                   "adjust"
+    [01 00]                   "adjust   bgko"
+
+203. 1 entry, verb = "drag", synonyms = "pull"
+    [00 4b]                   "drag"
+
+202. 3 entries, verb = "clear", synonyms = "move", "press", "push", "shift"
+    [00 4c]                   "clear"
+    [01 00]                   "clear   bgko"
+    [00 0f]                   "clear"
+
+201. 5 entries, verb = "rotate", synonyms = "screw", "turn", "twist", "unscrew"
+    [00 4d]                   "rotate"
+    [01 00]                   "rotate   bgko"
+    [00 0f]                   "rotate"
+    [00 25]                   "rotate"
+    [01 00]                   "rotate   bgko"
+
+200. 5 entries, verb = "switch"
+    [00 25]                   "switch"
+    [01 00]                   "switch   bgko"
+    [00 0f]                   "switch"
+    [00 25]                   "switch"
+    [01 00]                   "switch   bgko"
+
+199. 1 entry, verb = "lock"
+    [00 24]                   "lock"
+
+198. 1 entry, verb = "unlock"
+    [00 23]                   "unlock"
+
+197. 1 entry, verb = "attack", synonyms = "break", "crack", "destroy", "fight",
+                                          "hit", "kill", "murder", "punch",
+                                          "smash", "thump", "torture", "wreck"
+    [00 42]                   "attack"
+
+196. 1 entry, verb = "wait", synonyms = "z"
+    [00 57]                   "wait"
+
+195. 1 entry, verb = "answer", synonyms = "say", "shout", "speak"
+    [00 52]                   "answer"
+
+194. 1 entry, verb = "tell"
+    [00 51]                   "tell"
+
+193. 2 entries, verb = "ask"
+    [00 53]                   "ask"
+    [01 00]                   "ask   bgko"
+
+192. 1 entry, verb = "eat"
+    [00 2b]                   "eat"
+
+191. 1 entry, verb = "nap", synonyms = "sleep"
+    [00 58]                   "nap"
+
+190. 2 entries, verb = "peel"
+    [00 0f]                   "peel"
+    [01 00]                   "peel   bgko"
+
+189. 1 entry, verb = "sing"
+    [00 55]                   "sing"
+
+188. 2 entries, verb = "climb", synonyms = "scale"
+    [00 56]                   "climb"
+    [01 00]                   "climb   bgko"
+
+187. 1 entry, verb = "buy", synonyms = "purchase"
+    [00 54]                   "buy"
+
+186. 1 entry, verb = "squash", synonyms = "squeeze"
+    [00 4f]                   "squash"
+
+185. 1 entry, verb = "dive", synonyms = "swim"
+    [00 43]                   "dive"
+
+184. 2 entries, verb = "swing"
+    [00 44]                   "swing"
+    [01 00]                   "swing   bgko"
+
+183. 1 entry, verb = "blow"
+    [00 45]                   "blow"
+
+182. 1 entry, verb = "pray"
+    [00 2f]                   "pray"
+
+181. 5 entries, verb = "awake", synonyms = "awaken", "wake"
+    [00 30]                   "awake"
+    [0f 00]                   "awake N   :     spf"
+    [30 42]                   "awake ekilk   xk      ycq"
+    [29 b4]                   "awake ycq"
+    [0f 00]                   "awake N   :     spf"
+
+180. 1 entry, verb = "embrace", synonyms = "hug", "kiss"
+    [00 32]                   "embrace"
+
+179. 1 entry, verb = "think"
+    [00 33]                   "think"
+
+178. 2 entries, verb = "smell", synonyms = "sniff"
+    [00 34]                   "smell"
+    [0f 00]                   "smell N   :     spf"
+
+177. 3 entries, verb = "hear", synonyms = "listen"
+    [00 35]                   "hear"
+    [0f 00]                   "hear N   :     spf"
+    [35 01]                   "hear g   "
+
+176. 1 entry, verb = "taste"
+    [00 36]                   "taste"
+
+175. 1 entry, verb = "feel", synonyms = "fondle", "grope", "touch"
+    [00 37]                   "feel"
+
+174. 1 entry, verb = "clean", synonyms = "dust", "polish", "rub", "scrub",
+                                         "shine", "sweep", "wipe"
+    [00 46]                   "clean"
+
+173. 2 entries, verb = "attach", synonyms = "fasten", "fix", "tie"
+    [00 3c]                   "attach"
+    [01 00]                   "attach   bgko"
+
+172. 2 entries, verb = "burn", synonyms = "light"
+    [00 2e]                   "burn"
+    [01 00]                   "burn   bgko"
+
+171. 1 entry, verb = "drink", synonyms = "sip", "swallow"
+    [00 3d]                   "drink"
+
+170. 1 entry, verb = "fill"
+    [00 3e]                   "fill"
+
+169. 1 entry, verb = "chop", synonyms = "cut", "prune", "slice"
+    [00 39]                   "chop"
+
+168. 2 entries, verb = "hop", synonyms = "jump", "skip"
+    [00 3a]                   "hop"
+    [0f 00]                   "hop N   :     spf"
+
+167. 2 entries, verb = "dig"
+    [00 38]                   "dig"
+    [01 00]                   "dig   bgko"
+
+166. 4 entries, verb = "read"
+    [00 64]                   "read"
+    [42 21 56 0f]             "read ycq OBJ"
+    [00 20]                   "read"
+    [01 00]                   "read   bgko"
+
+165. 4 entries, verb = "trace"
+    [00 65]                   "trace"
+    [0f 00]                   "trace N   :     spf"
+    [65 01 00 08]             "trace ycq OBJ"
+    [0f 00]                   "trace N   :     spf"
+
+164. 3 entries, verb = "actions"
+    [00 65]                   "actions"
+    [0f 00]                   "actions N   :     spf"
+    [65 42 24 9b]             "actions ycq OBJ"
+
+163. 3 entries, verb = "routines"
+    [00 65]                   "routines"
+    [0f 00]                   "routines N   :     spf"
+    [65 42 24 9b]             "routines ycq OBJ"
+
+162. 3 entries, verb = "timers"
+    [00 65]                   "timers"
+    [0f 00]                   "timers N   :     spf"
+    [65 42 24 9b]             "timers ycq OBJ"
+
+161. 3 entries, verb = "changes"
+    [00 65]                   "changes"
+    [0f 00]                   "changes N   :     spf"
+    [65 42 24 9b]             "changes ycq OBJ"
+
+160. 3 entries, verb = "recording"
+    [00 65]                   "recording"
+    [0f 00]                   "recording N   :     spf"
+    [65 42 24 9b]             "recording ycq OBJ"
+
+159. 1 entry, verb = "replay"
+    [00 65]                   "replay"
+
+158. 1 entry, verb = "random"
+    [00 65]                   "random"
+
+157. 1 entry, verb = "purloin"
+    [00 65]                   "purloin"
+
+156. 1 entry, verb = "abstract"
+    [00 65]                   "abstract"
+
+155. 2 entries, verb = "tree"
+    [00 65]                   "tree"
+    [0f 00]                   "tree N   :     spf"
+
+154. 1 entry, verb = "goto"
+    [00 65]                   "goto"
+
+153. 1 entry, verb = "gonear"
+    [00 65]                   "gonear"
+
+152. 2 entries, verb = "scope"
+    [00 65]                   "scope"
+    [0f 00]                   "scope N   :     spf"
+
+151. 1 entry, verb = "showverb"
+    [00 65]                   "showverb"
+
+150. 2 entries, verb = "showobj"
+    [00 65]                   "showobj"
+    [0f 00]                   "showobj N   :     spf"
+
+149. 1 entry, verb = "ignore"
+    [00 63]                   "ignore"
+
+148. 1 entry, verb = "plover", synonyms = "plugh", "xyzzy", "yoho"
+    [00 66]                   "plover"
+
+147. 1 entry, verb = "drongify"
+    [00 67]                   "drongify"
+
+    **** Verb action routines ****
+
+  Action table entries = 236
+
+action# pre-action-routine action-routine "verb..."
+
+  0.  ac14  3c70  "no-verb N   :     spf"
+                  "no-verb N   :     spf"
+                  "no-verb"
+                  "carry   bgko"
+                  "stand N   :     spf"
+                  "remove   bgko"
+                  "put   bgko"
+                  "empty   bgko"
+                  "discard   bgko"
+                  "feed   bgko"
+                  "display   bgko"
+                  "go N   :     spf"
+                  "leave N   :     spf"
+                  "i N   :     spf"
+                  "l N   :     spf"
+                  "l   bgko"
+                  "consult   bgko"
+                  "open   bgko"
+                  "close   bgko"
+                  "cross N   :     spf"
+                  "no-verb   bgko"
+                  "damn N   :     spf"
+                  "bother N   :     spf"
+                  "wave N   :     spf"
+                  "adjust   bgko"
+                  "clear   bgko"
+                  "rotate   bgko"
+                  "rotate   bgko"
+                  "switch   bgko"
+                  "switch   bgko"
+                  "ask   bgko"
+                  "peel   bgko"
+                  "climb   bgko"
+                  "swing   bgko"
+                  "awake N   :     spf"
+                  "awake N   :     spf"
+                  "smell N   :     spf"
+                  "hear N   :     spf"
+                  "attach   bgko"
+                  "burn   bgko"
+                  "hop N   :     spf"
+                  "dig   bgko"
+                  "read   bgko"
+                  "trace N   :     spf"
+                  "trace N   :     spf"
+                  "actions N   :     spf"
+                  "routines N   :     spf"
+                  "timers N   :     spf"
+                  "changes N   :     spf"
+                  "recording N   :     spf"
+                  "tree N   :     spf"
+                  "scope N   :     spf"
+                  "showobj N   :     spf"
+  1. 25294  d090  "no-verb"
+                  "hear g   "
+                  "trace ycq OBJ"
+  2. 20000   890  "no-verb"
+  3.    78  1890  "no-verb"
+  4. 3a868  3090  "no-verb"
+  5.  1650  4890  "no-verb"
+  6. 29504  7890  "no-verb"
+  7. 31400  9090  "no-verb"
+  8.  7bb8  c890  "no-verb"
+  9.  a594 10090  
+ 10. 25294 10c80  "no-verb"
+ 11. 30fd0  7c80  "no-verb"
+ 12.    7c  8490  "no-verb"
+ 13. 15d30 20490  "no-verb"
+                  "l ycq"
+ 14. 29650 26490  "i"
+ 15. 29504 2e094  "carry"
+                  "carry ycq"
+                  "get"
+                  "pick"
+                  "remove   bgko"
+                  "empty"
+                  "discard ycq"
+                  "close"
+                  "no-verb"
+                  "clear"
+                  "rotate"
+                  "switch"
+                  "peel"
+ 16. 2b000 1d894  "discard"
+ 17.  7d64 26094  
+ 18.  5294 20494  
+ 19. 25294 2c094  "put"
+                  "insert"
+                  "discard"
+ 20. 20000 3b498  
+ 21.    7c  e498  "feed"
+ 22. 16598 1c498  "display ycq"
+ 23. 24e50 20098  "lie"
+ 24. 29600 23c98  
+ 25.     0 32098  "get"
+                  "stand"
+                  "exit"
+ 26.  7d78 33898  "go"
+                  "leave"
+ 27.  5294 3a498  
+ 28. 25294 3b49c  "no-verb"
+ 29. 106ec 2bc9c  "no-verb"
+ 30.    80 2cc9c  "no-verb"
+                  "go  Hill"
+                  "leave  Hill"
+ 31. 35d7c 2dc9c  "l"
+ 32. 31650 350a0  "check"
+                  "no-verb"
+                  "read"
+ 33. 29504  88a0  "read ycq OBJ"
+ 34. 3b800  dca0  "search"
+ 35.  8538  f0a0  "put ekilk   xk      ycq OBJ"
+                  "unlock"
+ 36. 1174c 18ca0  "no-verb ycq OBJ"
+                  "carry ycq OBJ"
+                  "get ycq OBJ"
+                  "lie ycq OBJ"
+                  "lock"
+ 37. 2c294 1dca0  "rotate"
+                  "switch"
+                  "switch"
+ 38. 20000 23ca0  
+ 39.    84 278a0  "open"
+ 40. 29934 2b4a0  "close"
+ 41. 22b80 320a0  "carry"
+                  "get u can't wear  OBJ"
+                  "pick ycq OBJ"
+                  "remove"
+                  "disrobe"
+ 42. 29504 35ca0  "don"
+ 43. 28400 38ca0  "eat"
+ 44.  86a8 3d8a4  "y"
+ 45.  8814  20a4  "no"
+ 46. 25294  28a4  "burn"
+ 47. 10754  30a4  "pray"
+ 48.    84  3ca4  "awake"
+ 49. 2d150  48a4  
+ 50. 29650  54a4  "embrace"
+ 51. 29504 3aca4  "think"
+ 52. 2a400  74a4  "smell"
+ 53.  88a8  80a4  "hear"
+ 54.  6994  8ca4  "taste"
+ 55. 25294  98a4  "feel"
+ 56. 106b8 1aca4  "dig"
+ 57.    88  a4a4  "chop"
+ 58.  a868  b0a4  "hop"
+ 59. 39650  bca4  
+ 60. 29504  c8a4  "attach"
+ 61. 32800  d4a4  "drink"
+ 62.  88b8  e0a4  "fill"
+ 63. 12394  eca4  "sorry"
+ 64. 25294  f8a4  "damn"
+ 65. 106f0 104a4  "bother"
+ 66.    88 110a4  "no-verb ycq"
+                  "stand ycq"
+                  "feed   bgko"
+                  "i ycq OBJ"
+                  "l ycq"
+                  "attack"
+                  "awake ekilk   xk      ycq"
+                  "actions ycq OBJ"
+                  "routines ycq OBJ"
+                  "timers ycq OBJ"
+                  "changes ycq OBJ"
+                  "recording ycq OBJ"
+ 67.  d184 388a4  "dive"
+ 68. 11650 11ca4  "swing"
+ 69. 29504 128a4  "blow"
+ 70. 36800 134a4  "clean"
+ 71.  8a48 140a4  "adjust"
+ 72. 12314 14ca4  
+ 73. 33294 158a4  "wave"
+ 74. 20000 164a4  
+ 75.    88 1dca4  "drag"
+ 76. 2495c 1f8a4  "clear"
+ 77. 166a8 234a4  "rotate"
+ 78. 39600 270a4  
+ 79.     0 2c0a4  "squash"
+ 80.  8a4c 30ca4  
+ 81. 18d44 32ca4  "tell"
+ 82. 39294 3f0a4  "answer"
+ 83. 10770 3d8a8  "ask"
+ 84.    88  10a4  "buy"
+ 85. 255e0 170a4  "sing"
+ 86. 29650 17ca4  "climb"
+ 87. 29600 188a4  "wait"
+ 88.     0 2aca4  "nap"
+ 89.  8a6c 194a4  "consult"
+ 90.  ab94 1a0a8  
+ 91. 25294  2498  
+ 92. 10768 1f498  
+ 93.    88 23098  "transfer"
+ 94. 39888  ac80  "no-verb"
+ 95.  1650  8c98  "empty"
+                  "empty"
+ 96. 29504  dc90  
+ 97. 31400 2d490  
+ 98.  8bd0 2c898  "put ycq"
+                  "cross"
+                  "in"
+ 99. 18c14 3acac  "ignore"
+100. 25294 158ac  "read"
+101. 10764 140ac  "trace"
+                  "actions"
+                  "routines"
+                  "timers"
+                  "changes"
+                  "recording"
+                  "replay"
+                  "random"
+                  "purloin"
+                  "abstract"
+                  "tree"
+                  "goto"
+                  "gonear"
+                  "scope"
+                  "showverb"
+                  "showobj"
+102.    8c 148ac  "plover"
+103. 15d84 170ac  "drongify"
+104. 16250 17800  
+105. 29504     c  
+106. 33c00  b8b0  
+107.  8d64  8824  
+108.  5294   568  
+109. 25294  5914  
+110. 106a4  5294  
+111.    90 25294  
+112. 29450 20000  
+113. 29650    58  
+114. 29600 19450  
+115.     0 29650  
+116.  9348 29600  
+117. 13294     0  
+118. 25294  6294  
+119. 10740  5294  
+120.    90 25294  
+121. 35d30 20000  
+122. 29650    60  
+123. 29504 3d1ac  
+124. 33c00  9650  
+125.  9560 29420  
+126.  8bb8     0  
+127. 27514  63e0  
+128. 10754 19b98  
+129.    94 28c94  
+130. 16198 10670  
+131. 3d3e0    64  "go   qpk                     flmgg  Odei"
+                  "leave   qpk                     flmgg  Odei"
+132. 29504  64e8  
+133. 31400 24f80  
+134.  9728 29504  
+135.  5294 29000  
+136. 25294  64bc  
+137. 10ff4 1ac64  "get es    h k ss   w    j"
+138.    94 25294  
+139. 33050 10730  
+140. 29650    64  
+141. 29504 218e8  
+142. 29c00 19650  
+143.  9760 29600  
+144.  835c     0  
+145. 29294  6618  
+146. 1078c  e9e0  
+147.    94 39294  
+148. 36158  2000  
+149.  9be0    68  
+150. 29504  9930  
+151. 38400 29650  
+152.  9760 29600  
+153. 17a1c     0  
+154. 2a294  68c4  
+155. 107a4  5294  
+156.    94 25294  
+157. 36ca0 20000  
+158. 29650    68  
+159. 29504 1398c  
+160. 2e400  6ee8  
+161.  9a2c  c600  
+162.  b294     0  
+163. 25294  6968  
+164. 107a4 1874c  
+165.    98 2c294  
+166. 24c50 20000  
+167. 29650    68  
+168. 29504 19450  
+169. 3a000 29650  
+170.  9a50 29600  
+171. 17294     0  
+172. 25294  69a4  
+173. 20000  5294  
+174.    98 25294  
+175. 27130 20000  
+176. 29650    68  
+177. 29620 1d194  
+178.     0 2ab70  
+179.  9b98 29600  
+180.  c294     0  "awake ycq"
+181. 25294  69e0  
+182. 1072c 1c55c  
+183.    98 25294  
+184. 39990 1070c  
+185. 29650    68  
+186. 29504 29450  
+187. 33c00 29650  
+188.  9bb8 29600  
+189. 13814     0  
+190. 25294  6c40  
+191. 106ac  5294  
+192.    98 25294  
+193. 3d134 10704  
+194. 23abc    6c  
+195. 31504  9450  
+196. 24c00 29650  
+197.  9bd0 29420  
+198. 15294     0  
+199. 25294  6ce4  
+200. 1078c  6434  
+201.    9c 25294  
+202. 16190 106b4  
+203. 29650    6c  
+204. 29504  e464  
+205. 2b800  4250  
+206.  a294 29504  
+207.  5294 31400  
+208. 25294  6e18  
+209. 20000 10514  
+210.    a0 25294  
+211. 320d0 106d4  
+212. 29650    6c  
+213. 29600 21904  
+214.     0 14e50  
+215.  a360 29504  
+216. 19294 2d400  
+217. 25294  78d0  
+218. 20000 1c294  
+219.    a0 25294  
+220. 36450 106dc  
+221. 29650    78  
+222. 29504 264d0  
+223. 30000 29650  
+224.  a730 29600  
+225.  dc94     0  
+226. 25294  7a64  
+227. 20000  d55c  
+228.    a4 25294  
+229. 330dc 1073c  
+230.  aaa8    78  
+231. 19600 27450  
+232.     0 29650  
+233.  a8a8 29600  
+234. 1b364     0  
+235. 34b94  7a74  "put ycq"
+
+    **** Prepositions ****
+
+  Table entries = 32768
+
+ 42. "      .q          ek      hligll   "
+148. "auz c    Ec"
+  0. "   p dvg  ", synonyms = "about", "against", "at", "down", "emu", "for",
+                              "from", "into", "of", "off", "on", "onto",
+                              "over", "tall", "through", "to", "top", "under",
+                              "up", "wide", "with"
+ 71. "      .q          ek      hligll   "
+168. "ca    "
+180. "ycq"
+ 85. "      .q          ek      hligll   "
+148. "fc   at"
+229. "ycq"
+ 90. "      .q          ek      hligll   "
+148. "   adc "
+  0. "     dvg  ", synonyms = "about", "against", "at", "down", "emu", "for",
+                              "from", "into", "of", "off", "on", "onto",
+                              "over", "tall", "through", "to", "top", "under",
+                              "up", "wide", "with"
+121. "      .q          ek      hligll   "
+148. "zsd"
+217. "ycq"
+  8. "     qpk                     flmgg  Odei"
+230. "ebrkl  "
+  0. " isnej", synonyms = "about", "against", "at", "down", "emu", "for",
+                          "from", "into", "of", "off", "on", "onto", "over",
+                          "tall", "through", "to", "top", "under", "up",
+                          "wide", "with"
+106. "     qpk                     flmgg  Odei"
+148. "   f    qlj"
+  0. "   p dvg  ", synonyms = "about", "against", "at", "down", "emu", "for",
+                              "from", "into", "of", "off", "on", "onto",
+                              "over", "tall", "through", "to", "top", "under",
+                              "up", "wide", "with"
+106. "     qpk                     flmgg  Odei"
+181. "bsnw  "
+  0. "ntualy, the hole building is trashed. The city council decides to put a
+new building in its place and knocked it down before you caN get out.",
+synonyms = "about", "against", "at", "down", "emu", "for", "from", "into",
+           "of", "off", "on", "onto", "over", "tall", "through", "to", "top",
+           "under", "up", "wide", "with"
+166. "     qpk                     flmgg  Odei"
+168. "yed"
+213. "ycq"
+168. "     qpk                     flmgg  Odei"
+148. "ni"
+  0. "   p dvg  ", synonyms = "about", "against", "at", "down", "emu", "for",
+                              "from", "into", "of", "off", "on", "onto",
+                              "over", "tall", "through", "to", "top", "under",
+                              "up", "wide", "with"
+174. "     qpk                     flmgg  Odei"
+148. "ms   atfspec "
+214. "ycq", synonyms = "out"
+216. "   .q          ek      hligll   "
+148. "   k   0c"
+173. "ycq"
+ 74. "  qpk                     flmgg  Odei"
+148. "ukodgo"
+226. "ycq"
+ 74. "  qpk                     flmgg  Odei"
+148. "rst you'll have to close "
+175. "ycq"
+203. "  qpk                     flmgg  Odei"
+204. "mk   0c"
+  0. "   p dvg  ", synonyms = "about", "against", "at", "down", "emu", "for",
+                              "from", "into", "of", "off", "on", "onto",
+                              "over", "tall", "through", "to", "top", "under",
+                              "up", "wide", "with"
+204. "  qpk                     flmgg  Odei"
+148. "   kror"
+197. "ycq"
+209. "  qpk                     flmgg  Odei"
+148. "rst you'll have to close "
+170. "ycq"
+219. "  qpk                     flmgg  Odei"
+148. "    h   "
+  0. "   p dvg  ", synonyms = "about", "against", "at", "down", "emu", "for",
+                              "from", "into", "of", "off", "on", "onto",
+                              "over", "tall", "through", "to", "top", "under",
+                              "up", "wide", "with"
+221. "  qpk                     flmgg  Odei"
+148. "   adc "
+173. "ycq"
+ 52. ".q          ek      hligll   "
+148. "kke       e G    kgj"
+  0. "   p dvg  ", synonyms = "about", "against", "at", "down", "emu", "for",
+                              "from", "into", "of", "off", "on", "onto",
+                              "over", "tall", "through", "to", "top", "under",
+                              "up", "wide", "with"
+147. ".q          ek      hligll   "
+148. "dgo"
+175. "ycq"
+151. ".q          ek      hligll   "
+148. "   adc "
+  0. "     dvg  ", synonyms = "about", "against", "at", "down", "emu", "for",
+                              "from", "into", "of", "off", "on", "onto",
+                              "over", "tall", "through", "to", "top", "under",
+                              "up", "wide", "with"
+154. ".q          ek      hligll   "
+148. "    "
+  0. "   p dvg  ", synonyms = "about", "against", "at", "down", "emu", "for",
+                              "from", "into", "of", "off", "on", "onto",
+                              "over", "tall", "through", "to", "top", "under",
+                              "up", "wide", "with"
+154. ".q          ek      hligll   "
+170. "Qy   jbsmrk"
+  0. "ledx    c     ", synonyms = "about", "against", "at", "down", "emu",
+                                  "for", "from", "into", "of", "off", "on",
+                                  "onto", "over", "tall", "through", "to",
+                                  "top", "under", "up", "wide", "with"
+244. ".q          ek      hligll   "
+148. "el"
+  0. "     dvg  ", synonyms = "about", "against", "at", "down", "emu", "for",
+                              "from", "into", "of", "off", "on", "onto",
+                              "over", "tall", "through", "to", "top", "under",
+                              "up", "wide", "with"
+ 72. "pk                     flmgg  Odei"
+148. "zs"
+208. "ycq"
+ 81. "pk                     flmgg  Odei"
+148. "rst you'll have to close "
+254. "g   "
+ 81. "pk                     flmgg  Odei"
+210. "u can't wear "

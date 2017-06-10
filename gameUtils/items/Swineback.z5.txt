@@ -1,0 +1,132 @@
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ (tasks)
+ ATask
+ About this game
+ Can I make the ballista do something more effective?
+ CompassDirection
+ Credits
+ Distant
+ Feedback and Bugs
+ Fixture
+ Goal
+ Hint
+ HintGoal
+ Hints
+ How can I climb up into the fissure?
+ How can I get past the patrols?
+ How can I get past the prickly bush?
+ How do I get into the hut?
+ How do I work the ballista?
+ Inside the hut
+ License
+ Menu
+ Now what do I do?
+ Option
+ Outside a hut
+ Path
+ Room
+ Seeno extension
+ Special Commands
+ SwitchOption
+ Tent
+ What do I do now?
+ abandoned equipment
+ abandoned tents
+ agricultural equipment
+ amber liquid
+ b   elv   vdvjc   lb
+ ballista
+ black powder
+ bottle
+ command tent
+ compass
+ corners
+ corpse
+ dagger
+ dead rat
+ dusty path
+ east
+ enemy camp
+ fissure
+ grain sack
+ grains of powder
+ ground
+ handle
+ hillside
+ hole
+ hut door
+ inside
+ kbekt5   
+ kingdom
+ kiss
+ kjd    oe
+ large canvas bag
+ latest intelligence report
+ leather breastplate
+ lever
+ liquid
+ long dusty path south
+ moon
+ narrow lane
+ north
+ north wall
+ northeast
+ northwest
+ note
+ outside
+ papers
+ patch of ground
+ path
+ path south
+ pavilion
+ picket
+ pile of wooden shafts
+ point for opening the strongbox
+ points for opening the hut door
+ points for poisoning the Phartipu's water supply
+ points for removing the bush
+ points for setting fire to some enemy tents
+ pool
+ prickly bush
+ remains of the bush
+ ridge
+ river
+ rocks
+ roof of the cave
+ round hole
+ royal banner
+ sky
+ small brass key
+ small brass lamp
+ small hut
+ sound of running water
+ south
+ southeast
+ southwest
+ spring
+ stars
+ steep path
+ steep path north
+ stream
+ strongbox
+ sun
+ supply tent
+ surrounding fields
+ sword
+ table
+ tent
+ up above
+ valley
+ walls
+ water
+ waterfall
+ west
+ western horizon
+ wood
+ wooden shaft
+

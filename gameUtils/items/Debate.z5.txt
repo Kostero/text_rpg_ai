@@ -1,0 +1,29 @@
+ 
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (Value_Property_Holder)
+ (darkness object)
+ CompassDirection
+ K0_kind
+ K10_player_s_holdall
+ K11_device
+ K1_room
+ K24_animal
+ K25_man
+ K26_woman
+ K27_player_character
+ K2_thing
+ K30_vehicle
+ K3_direction
+ K4_door
+ K5_container
+ K6_supporter
+ K7_backdrop
+ K8_person
+ K96_bottle
+ K9_region
+ compass
+ smfb   
+

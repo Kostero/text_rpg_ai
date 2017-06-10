@@ -1,0 +1,153 @@
+ 'basement' button
+ 'first' button
+ 'second' button
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ AutomaticDoor
+ Battery_
+ Battery__1
+ Battery__2
+ Battery__3
+ Battery__4
+ Battery__5
+ Bomb_
+ Bomb__1
+ Bomb__2
+ Bomb__3
+ Bomb__4
+ Bomb__5
+ CCTV images
+ Cable_
+ Cable__1
+ Cable__2
+ Cable__3
+ Cable__4
+ Cable__5
+ CompassDirection
+ Crowbar_
+ Crowbar__1
+ Crowbar__2
+ Crowbar__3
+ Crowbar__4
+ Crowbar__5
+ Deutsch lab
+ DeutschKey_
+ DeutschKey__1
+ DeutschKey__2
+ DeutschKey__3
+ DeutschKey__4
+ DeutschKey__5
+ EquipmentKey_
+ EquipmentKey__1
+ EquipmentKey__2
+ EquipmentKey__3
+ EquipmentKey__4
+ EquipmentKey__5
+ FakeDoor
+ Flashlight_
+ Flashlight__1
+ Flashlight__2
+ Flashlight__3
+ Flashlight__4
+ Flashlight__5
+ FormerSelf_
+ FormerSelf__1
+ FormerSelf__2
+ FormerSelf__3
+ FormerSelf__4
+ FormerSelf__5
+ Foyer
+ Furniture
+ ID card slot
+ IDCard_
+ IDCard__1
+ IDCard__2
+ IDCard__3
+ IDCard__4
+ IDCard__5
+ Inside the prototype
+ ManualDoor
+ Notes_
+ Notes__1
+ Notes__2
+ Notes__3
+ Notes__4
+ Notes__5
+ PluralSight
+ Prop
+ Room
+ Sight
+ alarm button
+ automatic door
+ balcony door
+ ceiling
+ chair
+ city
+ cladding
+ compass
+ complex
+ conference table
+ control panel
+ corridor
+ darkness
+ door to Dr Brown's office
+ door to Professor Butterfield's office
+ door to the Bostrom Lab
+ door to the Deutsch lab
+ door to the Pooley Lab
+ door to the Saunders Lab
+ door to the Wallace Lab
+ door to the conference room
+ door to the equipment room
+ doors
+ east
+ flashlight beam
+ floor
+ fluorescent lights
+ foyer
+ green exit button
+ ground
+ grounds
+ guard
+ inside
+ inside surface
+ light switch
+ lights
+ magnetic stripe
+ main doors
+ mess
+ night
+ north
+ northeast
+ northwest
+ outside
+ papers
+ photograph
+ prototype
+ railing
+ room
+ screen savers
+ security desk
+ shadows
+ shelves
+ silver button
+ skeleton key (fake item to neaten code)
+ small glass window
+ south
+ southeast
+ southwest
+ stairs
+ stars
+ text books
+ trees
+ up above
+ upstairs landing
+ walls
+ west
+ window into the conference room
+ your bench
+

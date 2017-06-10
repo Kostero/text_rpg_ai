@@ -1,0 +1,41 @@
+    g   aa0
+  empty.
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ (shiftercache)
+ ?
+ Acknowledgements
+ CompassDirection
+ Hint
+ HintTopic
+ Menu
+ Option
+ SwitchOption
+ What stuff might I have missed?
+ Who are you?
+ adventurer
+ b   tdl   lcx   
+ bloody axe
+ brass lantern
+ ceiling
+ compass
+ cyclops
+ east wall
+ floor
+ inside
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ separator
+ south wall
+ southeast wall
+ southwest wall
+ sword
+ thief
+ west wall
+ you
+

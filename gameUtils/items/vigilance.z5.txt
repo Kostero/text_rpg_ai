@@ -1,0 +1,247 @@
+ 'Internal Vigilance'
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (SmartCantGo)
+ (darkness object)
+ (icarus)
+ (self object)
+ (single_pill1)
+ (single_pill10)
+ (single_pill2)
+ (single_pill3)
+ (single_pill4)
+ (single_pill5)
+ (single_pill6)
+ (single_pill7)
+ (single_pill8)
+ (single_pill9)
+ (teacup1)
+ (teacup2)
+ (teacup3)
+ A hallway
+ A hallway in the apartment bulding
+ A meeting room
+ Act I:   Interrogation
+ Act II:  Flight
+ Act III: Investigation
+ Act IV:  Conclusion
+ Allyson's corpse
+ Andrew
+ Andrew's corpse
+ At an elevator door
+ At the elevator door
+ At the mother's apartment
+ At the sister's house
+ At the warehouse
+ Changes in Version 2.0
+ Closer to the ground
+ CompassDirection
+ Conflict
+ Contacting the Author
+ Conversation
+ Enter button
+ Examining things
+ Furniture
+ General advice
+ Higher up in the air
+ How do I get out of the cell?
+ How do I make the prisoner talk?
+ How do I read the file?
+ I can't enter the building!
+ I can't find the file!
+ I can't get into the apartment proper!
+ I can't open the door
+ I have the bomb. What now?
+ In a cell
+ In front of the entrance doors.
+ In the air
+ In the basement
+ In the suburbs
+ Inside the elevator
+ Inside the warehouse
+ Living room
+ Menu
+ Normal_door
+ Ok, i've completed the game. What the hell happened at the mother's apartment?
+ On the ground
+ Option
+ Outside an apartment building
+ Outside an old warehouse
+ Outside the apartment building
+ Room
+ Supervisor Williams
+ SwitchOption
+ The Overseer
+ The living room
+ What am I supposed to do?
+ What can I do about the men in the meeting room?
+ What can I do inside the warehouse?
+ What do I do with the information I got from the prisoner?
+ What should I do at The Tower.
+ What to do in the apartment?
+ What to do in the bedroom?
+ What to do in the kitchen?
+ What to do in the living room?
+ Williams corpse
+ allyson's gun
+ apartment building
+ badge
+ bars
+ bed
+ bedroom door
+ blanket
+ blood
+ bomb
+ bookmark
+ books
+ bookshelf
+ briefcase
+ building
+ buildings
+ button
+ cameras
+ car
+ card reader
+ carpet
+ ceiling
+ chair
+ chair buttons
+ clock
+ clouds
+ compass
+ computer
+ computers
+ corpse
+ cot
+ couch
+ crime novel
+ cup
+ cup of tea
+ cups and glasses
+ curtains
+ desk
+ desk drawer
+ door
+ door bell
+ east
+ eighth button
+ elevator button
+ elevator door
+ elevators
+ fifth button
+ file
+ first button
+ first cabinet
+ floor
+ fourth button
+ front door
+ glass doors
+ glass of pills
+ ground
+ guards
+ guide
+ gun
+ handles
+ house
+ inside
+ key
+ keypad
+ keypad_button
+ kitchen door
+ knife
+ lamp
+ lamps
+ landscape
+ led
+ left chair
+ letter
+ lightbulb
+ magnetic card
+ mail
+ man
+ name
+ ninth button
+ north
+ northeast
+ northwest
+ notebook
+ office
+ office chair
+ office door
+ outside
+ pair of sunglasses
+ pair of wings
+ papers
+ people
+ phone
+ photos
+ picture
+ picture of a dragon
+ pieces of glass
+ pill
+ pill_1
+ pill_10
+ pill_11
+ pill_2
+ pill_3
+ pill_4
+ pill_5
+ pill_6
+ pill_7
+ pill_8
+ pill_9
+ plants
+ plaque
+ pots and pans
+ right chair
+ screen
+ screens
+ second button
+ second cabinet
+ security camera
+ seventh button
+ sign
+ sink
+ sixth button
+ some water
+ south
+ south door
+ southeast
+ southwest
+ speaker
+ stairs
+ statue
+ street
+ suit
+ sun
+ supervisor's desk
+ table
+ tap
+ teacups
+ teacups_1
+ teacups_2
+ teacups_3
+ teacups_4
+ teapot
+ television
+ the keys to the car
+ third button
+ tie
+ tracer
+ tray
+ trees
+ up above
+ walls
+ warehouse
+ watch
+ wax
+ west
+ wheels
+ window
+ windows
+ wooden doors
+ your chair
+ zero button
+

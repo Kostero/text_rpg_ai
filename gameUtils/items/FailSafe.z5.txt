@@ -1,0 +1,54 @@
+  bifjz e   s
+  off..."
+ (Bridge)
+ (Inform Library)
+ (Inform Parser)
+ (Level2)
+ (LibraryMessages)
+ (TheDemon)
+ (darkness object)
+ (self object)
+ CompassDirection
+ Diagnose button
+ Reset button
+ b   dhx   
+ blackened component
+ bodies
+ bulkheads
+ button
+ ceiling
+ compass
+ computer
+ connectors
+ console
+ debris
+ doorway
+ east wall
+ floor
+ gas
+ hatchway
+ hole
+ inside
+ knife
+ ladder
+ laser control
+ man
+ metal chute
+ north wall
+ northeast wall
+ northwest wall
+ numeric keypad
+ outside
+ panel
+ piping
+ porthole
+ recess
+ south wall
+ southeast wall
+ southwest wall
+ store room door
+ walkway
+ walls
+ west wall
+ wires
+

@@ -1,0 +1,39 @@
+ 
+  ga
+ (I7_property_numberspace_forcer)
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (Value_Property_Holder)
+ (darkness object)
+ CompassDirection
+ K0_kind
+ K106_chair
+ K107_books
+ K108_photograph
+ K109_gate
+ K10_player_s_holdall
+ K110_blueprint
+ K111_walker
+ K112_screamer
+ K113_guy
+ K114_girl
+ K115_sheet
+ K116_cot
+ K11_device
+ K1_room
+ K24_animal
+ K25_man
+ K26_woman
+ K29_vehicle
+ K2_thing
+ K3_direction
+ K4_door
+ K5_container
+ K6_supporter
+ K7_backdrop
+ K8_person
+ K9_region
+ compass
+

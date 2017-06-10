@@ -1,0 +1,411 @@
+ 
+ (Inform Library)
+ (Inform Parser)
+ (Isamuel2_10)
+ (Library Extensions)
+ (LibraryMessages)
+ (PendingQuote)
+ (SeenQuote)
+ (SmartCantGo)
+ (Tbelltower)
+ (Tcalefactory)
+ (Tcecilia)
+ (Tcellar)
+ (Tchurch)
+ (Tconstantin)
+ (Tdevil)
+ (Tdormitory)
+ (Tdrogo)
+ (Tfood)
+ (Tgate)
+ (Tgod)
+ (Therself)
+ (Thimself)
+ (Tignatius)
+ (Tinfirmary)
+ (Tlocutory)
+ (Tlucca)
+ (Tmatteo)
+ (Tmonastery)
+ (Topics)
+ (Tplague)
+ (Tprayer)
+ (Trovato)
+ (Tsaint_cuthbert)
+ (Tsaint_drausinus)
+ (Tsaint_francis)
+ (Tsaint_medard)
+ (Tsaint_roch)
+ (Tsin)
+ (Tsleep)
+ (Tsnow)
+ (Tyourself)
+ (avalanche_quote)
+ (baruch6_21)
+ (before_bed_quote)
+ (cecilia1)
+ (cecilia_cellar_quote)
+ (cecilia_coming_quote)
+ (cecilia_here_quote)
+ (cellar)
+ (cellar_bodies)
+ (cellar_figure)
+ (cross_pushed_quote1)
+ (cross_talking_quote1)
+ (cross_talking_quote2)
+ (cross_talking_quote3)
+ (cross_talking_quote4)
+ (darkness object)
+ (dig_flagstone_quote)
+ (ecclesiastes10_13)
+ (evil_pray_quote)
+ (exodus28_34)
+ (ezekial22_27)
+ (fire_shadow)
+ (gate_bodies)
+ (genesis15_12)
+ (genesis4_10)
+ (iisamuel14_25)
+ (in_cellar_quote)
+ (isaiah1_15)
+ (isaiah1_6)
+ (isaiah44_16)
+ (isaiah51_17)
+ (jeremiah13_23)
+ (job27_9)
+ (kill_cecilia_quote)
+ (kill_constantin_quote)
+ (kill_matteo_quote)
+ (kiss_cecilia_quote)
+ (label)
+ (leviticus26_29)
+ (lucca_blood_quote)
+ (lucca_dead)
+ (lucca_dead_quote1)
+ (lucca_dead_quote2)
+ (lucca_dead_quote3)
+ (masturbate_quote)
+ (matteo_cross_quote)
+ (matteo_push_quote1)
+ (matteo_push_quote2)
+ (matteo_push_quote3)
+ (matthew10_16)
+ (matthew13_46)
+ (matthew26_15)
+ (menu_style)
+ (misc_shadow)
+ (nehemiah1_3)
+ (no_push_matteo_quote)
+ (open_hatch_quote)
+ (plague_shadow)
+ (proverbs27_20)
+ (proverbs6_10)
+ (psalms106_18)
+ (psalms33_17)
+ (psalms45_8)
+ (psalms55_6)
+ (psalms96_6)
+ (push_matteo_quote)
+ (self object)
+ (sin_shadow)
+ (sleepwith_cecilia_quote)
+ (sup_bar)
+ (temp_obj)
+ (time_shadow)
+ (toggle)
+ (tower_body_quote)
+ (whois_shadow)
+ (your_bedroom)
+ A horror of great darkness fell upon him...
+ A horse, a horse, my kingdom for a horse...
+ A lot.
+ A new day, and new problems.
+ Abbreviations
+ About the Game
+ After Lucca is jailed, you really don't have to do anything but go to bed.
+ All you have left to do is discard your useless body.
+ And discipline.
+ And get her food.
+ And return from whence you came.
+ And the cemetery seems awfully undisturbed.
+ As I lay me down to sleep...
+ Be careful.
+ Brother
+ Brother Constantin
+ Brother Drogo
+ Brother Matteo
+ But there's nothing you can do about that now.
+ By putting wax in his ears.
+ Cecilia's back
+ Cecilia's eyes
+ Cecilia_class
+ Cellars are always dangerous, aren't they?
+ Church (in the pews)
+ Church (on the chancel)
+ Communications
+ CompassDirection
+ Constantin
+ Constantin is pretty out of it now.
+ Constantin's eyes
+ Disclaimer
+ Don't you wish you had just hit her instead?
+ Drogo
+ Drogo's eyes
+ Evil
+ Explore, talk to people.
+ For starters, he's insane.
+ Game and Author
+ General
+ General Info about the Game and Author
+ General Tips
+ General Tips and New Verbs
+ Get a general feel for Saint Cuthbert's.
+ Get the blanket from your room, light the fire, and get the food from the
+kitchen cupboard.
+ Getting Started
+ Ghost
+ Go back to bed.
+ Go dig it up.
+ Go see Lucca to get the ball rolling.
+ Good
+ Have fun, for starters.
+ He might have something to say.
+ Hint
+ HintTopic
+ Hints
+ His key shouldn't be too hard to get.
+ How do I get into the cellar?
+ How do I wake the girl?
+ How lazy are you?  If you're really impatient you could try hitting her.
+ I lie among ravenous beasts...
+ If You Haven't Played Interactive Fiction Before
+ If they can eat both of you, they will.
+ If you can avoid waking him.
+ If you're reading this, you were quite naughty.
+ Ignatius
+ Ignatius's eye
+ In writing (search him).
+ Introduction
+ Inwards?
+ It'd be prudent to talk to people: snoop around a little.
+ January 12th
+ January 13th
+ January 14th
+ January 15th
+ January 16th
+ Let there be light...
+ Like a Saint or an Angel.
+ Like a desk.
+ Like the stables.
+ Look around.
+ Look in the river.
+ Lucca
+ Lucca has escaped.
+ Lucca's eyes
+ Lucca's paper
+ Matteo
+ Matteo's eyes
+ Matteo's note
+ Maybe somewhere high.
+ Menu
+ Middle
+ NPC
+ New Verbs
+ Not much.
+ Now you have access to something you've probably forgotten about by now.
+ Option
+ Or drop him down the stairs.
+ Or not. Look at the hole in the calefactory door.
+ Or you can pray.
+ Or you could just get his tools from where he left them.
+ Or, if you're chicken, you can make sure he doesn't hear you.
+ Or, you can always pray for protection.
+ Or, you might just be crazy.
+ Others you can't.
+ Otherwise you'll have to make her warm.
+ Outside_Room
+ Physically or spiritually.
+ Poor Lucca.
+ Put the candle on the stairs, or pray, or just attack him.
+ Quotation
+ Room
+ Saint
+ Saint Cuthbert's is a dangerous place.
+ She needs food.
+ She's not in the best shape, is she?
+ Simple_Door
+ Some amusing things to do
+ Some pre-bed precautions might be necessary.
+ Someone's coming, you better hide.
+ Something isn't right: an investigation might be in order.
+ Sometimes, you can do something.
+ Standard Verbs
+ Starting Instructions
+ Strangers in the night...
+ Stuck Instructions
+ SwitchOption
+ Take her to the gate, and ride.
+ Thank Yous
+ That locutory looks nice and warm. Well, warmer than anywhere else.
+ The church is a good place to find one of them, but which one?
+ The infirmary is pretty empty. The plague works fast, but would it work that
+fast?
+ The locutory is a good place to find the other.
+ The stone in Matteo's room.
+ The tracks you've been following end here, and not very pleasantly by the
+looks of it.
+ The wolves are hungry.
+ Then return to the entrance hall.
+ Then talk to her.
+ Then you can get the drop on him.
+ There are some clues to gather.
+ There's other ways to play the game. If you're not sick of it yet, after this
+go back and try to be less evil.
+ Things are very different by the light of day.
+ This game contains some violence and graphic images (well, as much as any
+all-text game can). If this makes you uncomfortable, please stop playing now. 
+
+Oh, and despite the subject matter and oodles of bible quotes, Vespers really
+isn't a religious game: at least not in the sense of trying to convert anyone. 
+
+On that note: I'm not Christian and wasn't raised Christian, so my
+representation might be a little off as far as theological matters are
+concerned. I hope I don't offend anyone. 
+
+Anyway, hope you enjoy it.
+ Topic
+ Wait for Cecilia to finished her rant.
+ Well, now you should have the prybar.
+ What am I trying to do?
+ What can I do in the infirmary and cemetery?
+ What could that be?
+ What do I do at the river?
+ What do I do now?
+ What is this ">" thing?
+ What's wrong with Drogo?
+ Where is up to you, someplaces are better than others.
+ Where you go is up to you.
+ With something heavy.
+ You are not exactly God's favorite person right now. You need an intermediary.
+ You can always kill him, then he'll never wake up.
+ You can beat her into submission.
+ You can feed them something, but they're greedy.
+ You don't, at least not until Terce.
+ You need to find somewhere safe before you feed them.
+ You need to make her more comfortable.
+ You'll have enough trouble with him later.
+ You're almost there.
+ Your door doesn't lock, but perhaps you can reinforce it somehow.
+ alms box
+ arch
+ avalanche
+ b   hhu5
+ bar
+ bed
+ bedding
+ bedroom door
+ beds
+ bell
+ bodies
+ briars
+ broken glass
+ brothers
+ buckets
+ calefactory door
+ candle
+ candles
+ cask
+ cat
+ ceiling
+ chairs
+ church
+ coin
+ compass
+ cowl
+ cross
+ crosses
+ cupboard
+ cut
+ cutlery rack
+ dead horse
+ dead plants
+ desk
+ door to the locutory
+ dove
+ east
+ father
+ father's body
+ figure
+ fire
+ fireplace
+ fissure
+ flagstone
+ font
+ food
+ footprints
+ footsteps
+ frock
+ garden
+ gate
+ ground
+ handful of snow
+ hare
+ hatch
+ hatch lock
+ hay
+ hills
+ hole
+ holy water
+ horse
+ infirmary door
+ inside
+ journal
+ keys
+ knife
+ ladder
+ lamb
+ ldnlu
+ lectern
+ lock
+ lump
+ machete
+ marks
+ north
+ northeast
+ northwest
+ outside
+ outside door
+ papers
+ pews
+ pool of blood
+ prybar
+ rail
+ river
+ rocks
+ scratch
+ scuffling
+ separator
+ sky
+ snow
+ south
+ southeast
+ southwest
+ stables
+ stairs
+ stall
+ tables
+ tinderbox
+ tombstones
+ tools
+ tower
+ up above
+ view
+ vines
+ vomit
+ west
+ window
+ wolves
+ writing
+ young woman
+ yourself
+

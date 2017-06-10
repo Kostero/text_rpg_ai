@@ -1,0 +1,711 @@
+ (Arsenal)
+ (Establish_Compass)
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (adv)
+ (ae_goodbye)
+ (ae_hallway)
+ (ae_hell)
+ (ae_helltrolls)
+ (ae_hereforever)
+ (ae_houses)
+ (ae_invisible)
+ (ae_iterations)
+ (ae_morecoming)
+ (ae_nametag)
+ (ae_normalmale)
+ (ae_nq)
+ (ae_others)
+ (ae_returnhint)
+ (ae_roleplay)
+ (ae_twoofus)
+ (ae_unknownname)
+ (ae_unmarked)
+ (ae_whatifwin)
+ (ae_whoami)
+ (ae_whoareyou)
+ (ae_whynonames)
+ (ae_yourname)
+ (air_routines)
+ (beach_routines)
+ (belt)
+ (bridge_routines)
+ (cat_hellocat)
+ (cat_meow)
+ (cat_name)
+ (cocktails)
+ (cottage_engine)
+ (darkness object)
+ (darthome)
+ (dazli ampule)
+ (drag_cheating)
+ (drag_crimes)
+ (drag_despoilers)
+ (drag_dream)
+ (drag_female)
+ (drag_hell)
+ (drag_impossible)
+ (drag_lastone)
+ (drag_name)
+ (drag_nightmare)
+ (drag_niraya)
+ (drag_nokey)
+ (drag_ntrolls)
+ (drag_others)
+ (drag_prep)
+ (drag_revenge)
+ (drag_trust)
+ (drag_twomore)
+ (drag_uncorrupted)
+ (drag_villagers)
+ (drag_whycome)
+ (drag_whyleave)
+ (fishing_door)
+ (freeze)
+ (game_99)
+ (gr_shed)
+ (grillers_q)
+ (h_cothint)
+ (h_drhint)
+ (h_dwhint)
+ (h_fishint)
+ (h_jshint)
+ (h_knhint)
+ (h_labhint)
+ (h_machint)
+ (h_maghint)
+ (h_rochint)
+ (h_tavernhint)
+ (h_trhint)
+ (h_wshophint)
+ (hdr_invalid)
+ (hdr_likeit)
+ (hdr_philstone)
+ (hdr_philstone2)
+ (hdr_weapons)
+ (hdw_invalid)
+ (hdw_mines)
+ (hdw_solvable)
+ (heavy_dart)
+ (hjs_changed)
+ (hjs_version)
+ (hjs_wondering)
+ (hmac_color)
+ (hmac_colordir)
+ (hmac_fuel)
+ (hmac_fuel2)
+ (hmac_mix)
+ (hroc_anyway)
+ (hroc_nonest)
+ (hroc_otherplaces)
+ (hroc_string)
+ (htav_drunk)
+ (htav_fight)
+ (htr_bridge)
+ (htr_invalid)
+ (htr_payorkill)
+ (hws_bigpic)
+ (hws_magic)
+ (jeweler_routines)
+ (lab_routines)
+ (lonk_1920s)
+ (lonk_chummy)
+ (lonk_lovingly)
+ (lonk_potato)
+ (lonk_waves)
+ (new_adv)
+ (nhall_engine)
+ (no_rock)
+ (ocean_engine)
+ (outside_engine)
+ (outside_fishing)
+ (outsiden_engine)
+ (pamoda_engine)
+ (pamoda_player)
+ (philstone)
+ (pier_engine)
+ (pier_routines)
+ (portal_engine)
+ (self object)
+ (shade)
+ (shoreline_routines)
+ (sorc_admithouse)
+ (sorc_advice)
+ (sorc_aftertrolls)
+ (sorc_ashley)
+ (sorc_autistic)
+ (sorc_autochthonous)
+ (sorc_avatar)
+ (sorc_beachhouse)
+ (sorc_beenthere)
+ (sorc_before20s)
+ (sorc_betterworld)
+ (sorc_catcantalk)
+ (sorc_catmeaning)
+ (sorc_catsname)
+ (sorc_cavesmazes)
+ (sorc_contaminated)
+ (sorc_contaminatednow)
+ (sorc_donna)
+ (sorc_dontfail)
+ (sorc_dragons)
+ (sorc_endlessly)
+ (sorc_evil)
+ (sorc_feedcatlater)
+ (sorc_firstage)
+ (sorc_firstsecond)
+ (sorc_frozentime)
+ (sorc_genocide)
+ (sorc_gettoit)
+ (sorc_goodbye)
+ (sorc_happyothers)
+ (sorc_hints)
+ (sorc_hitthespot)
+ (sorc_howkilldragon)
+ (sorc_howpossible)
+ (sorc_hypothetical)
+ (sorc_impossible)
+ (sorc_impotent)
+ (sorc_incomp)
+ (sorc_ingredients)
+ (sorc_interlife)
+ (sorc_iterations)
+ (sorc_killalltrolls)
+ (sorc_killtroll)
+ (sorc_loveinterest)
+ (sorc_mary)
+ (sorc_matterstome)
+ (sorc_meoranyone)
+ (sorc_metaphysics)
+ (sorc_myname)
+ (sorc_nameagain)
+ (sorc_oldmanme)
+ (sorc_onside)
+ (sorc_origins)
+ (sorc_philstone)
+ (sorc_questforid)
+ (sorc_refuse)
+ (sorc_rocsetc)
+ (sorc_shapersgone)
+ (sorc_shapersimmune)
+ (sorc_shaperstrolls)
+ (sorc_stripey)
+ (sorc_subjective)
+ (sorc_thirdage)
+ (sorc_thoseqs)
+ (sorc_treasures)
+ (sorc_wastetime)
+ (sorc_weakness)
+ (sorc_whattosee)
+ (sorc_whichbest)
+ (sorc_whoareyou)
+ (sorc_whoendless)
+ (sorc_whonameless)
+ (sorc_whosus)
+ (sorc_whowarden)
+ (sorc_whydonti)
+ (sorc_whykilldragon)
+ (sorc_whynotyou)
+ (sorc_whythose)
+ (sorc_yourjob)
+ (sorc_yourname)
+ (south_engine)
+ (southend_routines)
+ (square_engine)
+ (square_routines)
+ (ss_atnew)
+ (ss_bilepower)
+ (ss_destroy)
+ (ss_endup)
+ (ss_newmagic)
+ (ss_newplate)
+ (ss_noplate)
+ (ss_options)
+ (ss_repair)
+ (ss_return)
+ (ss_suicide)
+ (ss_trolls)
+ (ss_trollsme)
+ (ss_wait)
+ (ss_warden)
+ (steak)
+ (tavern_engine)
+ (tavern_routines)
+ (thanks)
+ (treetop_routines)
+ (troll_again)
+ (troll_chap)
+ (troll_dogooder)
+ (troll_perplexed)
+ (troll_recoup)
+ (troll_rep)
+ (troll_sophistry)
+ (troll_whoseadv)
+ (troll_why)
+ (troll_whystay)
+ (undersea_engine)
+ (w_hello)
+ (w_place)
+ (w_spine)
+ (ward_avatar)
+ (ward_barrier)
+ (ward_cloak)
+ (ward_doing)
+ (ward_doscepter)
+ (ward_eddie)
+ (ward_goodbye)
+ (ward_hints)
+ (ward_jailer)
+ (ward_known)
+ (ward_philstone)
+ (ward_primitive)
+ (ward_prophet)
+ (ward_quest)
+ (ward_rock)
+ (ward_scepter)
+ (ward_teenager)
+ (ward_whoareyou)
+ (ward_won)
+ (weapon_door)
+ (westend_routines)
+ Ampule
+ Betamax player
+ Burger Time
+ Character
+ CompassDirection
+ Conjoined Mario Bros.
+ Double
+ Gold
+ Gold_1
+ Gold_10
+ Gold_11
+ Gold_12
+ Gold_13
+ Gold_14
+ Gold_15
+ Gold_16
+ Gold_17
+ Gold_18
+ Gold_19
+ Gold_2
+ Gold_20
+ Gold_21
+ Gold_22
+ Gold_23
+ Gold_24
+ Gold_25
+ Gold_26
+ Gold_27
+ Gold_28
+ Gold_29
+ Gold_3
+ Gold_30
+ Gold_31
+ Gold_32
+ Gold_33
+ Gold_34
+ Gold_35
+ Gold_36
+ Gold_37
+ Gold_38
+ Gold_39
+ Gold_4
+ Gold_40
+ Gold_41
+ Gold_42
+ Gold_43
+ Gold_44
+ Gold_45
+ Gold_46
+ Gold_47
+ Gold_48
+ Gold_49
+ Gold_5
+ Gold_50
+ Gold_51
+ Gold_52
+ Gold_53
+ Gold_54
+ Gold_55
+ Gold_56
+ Gold_57
+ Gold_58
+ Gold_59
+ Gold_6
+ Gold_60
+ Gold_61
+ Gold_7
+ Gold_8
+ Gold_9
+ Human Centipede
+ I_Room
+ Item
+ L_Room
+ Light_Dart
+ Light_Dart_4
+ Lonk the troll
+ Quip
+ Room
+ Space Invaders Martin Amis Edition
+ TV room
+ Tavern_Dart
+ Tavern_Dart_1
+ Tavern_Dart_2
+ Tavern_Dart_3
+ Tavern_Dart_4
+ Warden
+ White Russian
+ Worthless
+ Worthless_1
+ Worthless_10
+ Worthless_11
+ Worthless_12
+ Worthless_13
+ Worthless_14
+ Worthless_15
+ Worthless_16
+ Worthless_17
+ Worthless_18
+ Worthless_19
+ Worthless_2
+ Worthless_20
+ Worthless_21
+ Worthless_22
+ Worthless_23
+ Worthless_24
+ Worthless_25
+ Worthless_26
+ Worthless_27
+ Worthless_28
+ Worthless_29
+ Worthless_3
+ Worthless_30
+ Worthless_31
+ Worthless_32
+ Worthless_33
+ Worthless_34
+ Worthless_35
+ Worthless_36
+ Worthless_37
+ Worthless_38
+ Worthless_39
+ Worthless_4
+ Worthless_40
+ Worthless_41
+ Worthless_42
+ Worthless_43
+ Worthless_44
+ Worthless_45
+ Worthless_46
+ Worthless_47
+ Worthless_48
+ Worthless_49
+ Worthless_5
+ Worthless_50
+ Worthless_51
+ Worthless_52
+ Worthless_53
+ Worthless_54
+ Worthless_55
+ Worthless_56
+ Worthless_57
+ Worthless_58
+ Worthless_59
+ Worthless_6
+ Worthless_60
+ Worthless_61
+ Worthless_7
+ Worthless_8
+ Worthless_9
+ ampule of bubbly fluid
+ ampule of cloudy fluid
+ ampule of rainbow fluid
+ apple pie
+ archway
+ aroma of banana bread
+ art
+ b   jzibz
+ baba ghanoush
+ back room
+ baked ziti
+ banana bread
+ bar
+ barrier
+ bartender
+ bathroom
+ bathroom door
+ bathtub
+ bathwater
+ bay window
+ beach
+ bed
+ bedding
+ bedroom
+ bedroom door
+ beer
+ belts with scabbards
+ bile
+ black bean enchiladas
+ bookcases
+ books
+ bouncers
+ bridge
+ brimstone
+ button
+ campfire
+ can of beer
+ candles
+ carpet
+ cat
+ cave
+ ceiling
+ ceiling fan
+ chair
+ chart
+ chasm
+ chips
+ chocolate silk pie
+ chunk of adamant
+ cloak
+ cocktail expert
+ coin slot
+ compass
+ conventional oven
+ cooked mackerel
+ cottage
+ cottage expert
+ couches
+ counter
+ curtains
+ customer
+ dart
+ dartboard
+ dining room
+ diseni
+ dishwasher
+ dispenser
+ distant shore
+ dollar bill
+ door
+ doors
+ doubles' White Russians
+ doubles' beer
+ dragon
+ dragon expert
+ dragon's skull
+ dragon's treasure
+ dragonstaff
+ drain
+ dresser
+ drink
+ dwarves expert
+ east
+ eel
+ empty can of beer
+ expensive drink
+ fence
+ fish nugget
+ fish stick
+ fisherman
+ fishing pole
+ flagpole
+ floor
+ floors
+ fold-out tables
+ food tables
+ forest
+ foyer
+ fried mackerel
+ fried marlin
+ front door
+ fuel gauge
+ fuel tank
+ ful medames
+ funnel
+ furniture
+ gamers
+ gap
+ gate
+ giant roc
+ giant rocs
+ glass
+ glass of beer
+ glass of ice water
+ gold belt
+ gold fish
+ grass
+ grill
+ grillers
+ ground
+ gv
+ hallway
+ hat
+ here
+ herring
+ hot wings
+ hummus
+ inside
+ instructions
+ iron belt
+ jewelry shop
+ jewelry shop expert
+ key
+ kitchen
+ knight expert
+ labyrinth
+ labyrinth expert
+ lamp
+ lamps
+ large ampule of clear fluid
+ large ampule of glowing fluid
+ leaflet
+ leather marlin
+ library
+ long piece of gold
+ long piece of iron
+ machine
+ machine expert
+ mackerel
+ magic expert
+ magically created marlin
+ mailbox
+ man in the striped cloak
+ medicine cabinet
+ metal fish
+ microbrews
+ microwave oven
+ minotaur
+ mirror
+ mug o' grog
+ napkin
+ newspaper
+ niraya
+ north
+ northeast
+ northwest
+ note
+ nozzles
+ old man
+ other shields
+ other swords
+ outside
+ pail
+ pan
+ paper cloak
+ parquet
+ path
+ patio
+ pecan pie
+ pennant
+ people
+ pepperoni pizza
+ peso argentino
+ pesto linguine
+ pier
+ pillows
+ pita chips
+ pizza margherita
+ plate
+ plush toy mackerel
+ plush toy marlin
+ pool table
+ portal
+ post
+ prize shield
+ prize sword
+ prop sword
+ rags
+ railing
+ recycling bin
+ refrigerator
+ regular green trees
+ remains
+ ribbon of paper
+ roc's nest expert
+ rock
+ rocks
+ ropes
+ round table
+ rowboat
+ runner carpet
+ safe
+ sand
+ scarf
+ scenery
+ scepter
+ schools of marlin
+ scrap of gold
+ scrap of leather
+ scrap of metal
+ scrap of paper
+ scrap of wood
+ scrap of wool
+ screen door
+ sea
+ seagulls
+ shag carpet
+ shed
+ shed door
+ shield
+ shop owner
+ shoreline
+ shoreline expert
+ sign
+ sink
+ sorceress
+ south
+ southeast
+ southwest
+ spellbook
+ spork
+ stain
+ staircase
+ stolen sword
+ stone walls
+ stopper
+ street
+ strips of stone
+ stylish saffron-colored cloak
+ sword
+ swordfish
+ table
+ tables
+ tandoori chicken
+ tavern
+ tavern expert
+ television
+ the Warden's focusing plate
+ three-meat lasagna
+ toilet
+ token
+ tokens
+ tome
+ towel
+ towel rack
+ tree
+ troll
+ troll expert
+ trolls
+ uncooked mackerel
+ up above
+ video cassette
+ video games
+ view
+ village
+ voice
+ wallet
+ walls
+ wand
+ water
+ weapon shop
+ weapon shop expert
+ west
+ wild mushroom pizza
+ window
+ wooden belt
+ wooden mackerel
+ wooden marlin
+ your alter ego
+

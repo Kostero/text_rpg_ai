@@ -1,0 +1,176 @@
+
+Story file is games/SPIDERMN.Z5
+
+    **** Parse tables ****
+
+  Verb entries = 37
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "clim", synonyms = "craw", "ente", "go", "run", "star",
+                                        "walk"
+    [00 00 00 00 00 00 00 02] "clim"
+
+252. 1 entry, verb = "turn", synonyms = "twis"
+    [00 00 00 00 00 00 00 03] "turn"
+
+251. 1 entry, verb = "get", synonyms = "grab", "hold", "pick", "take"
+    [00 00 00 00 00 00 00 04] "get"
+
+250. 1 entry, verb = "drop", synonyms = "give", "leav", "put", "rele", "thro",
+                                        "toss"
+    [00 00 00 00 00 00 00 05] "drop"
+
+249. 1 entry, verb = "forc", synonyms = "open", "pull", "remo", "rip", "unfo"
+    [00 00 00 00 00 00 00 06] "forc"
+
+248. 1 entry, verb = "scan"
+    [00 00 00 00 00 00 00 07] "scan"
+
+247. 1 entry, verb = "cast", synonyms = "shoo", "spra"
+    [00 00 00 00 00 00 00 08] "cast"
+
+246. 1 entry, verb = "keyi", synonyms = "type"
+    [00 00 00 00 00 00 00 09] "keyi"
+
+245. 1 entry, verb = "i", synonyms = "inve"
+    [00 00 00 00 00 00 00 0a] "i"
+
+244. 1 entry, verb = "desc", synonyms = "exam", "l", "look", "read", "see"
+    [00 00 00 00 00 00 00 0b] "desc"
+
+243. 1 entry, verb = "quit"
+    [00 00 00 00 00 00 00 0c] "quit"
+
+242. 1 entry, verb = "crea", synonyms = "make", "mix", "prep"
+    [00 00 00 00 00 00 00 0d] "crea"
+
+241. 1 entry, verb = "clos", synonyms = "shut"
+    [00 00 00 00 00 00 00 0e] "clos"
+
+240. 1 entry, verb = "pres", synonyms = "push"
+    [00 00 00 00 00 00 00 0f] "pres"
+
+239. 1 entry, verb = "at", synonyms = "to", "towa"
+    [00 00 00 00 00 00 00 10] "at"
+
+238. 1 entry, verb = "dodg", synonyms = "duck", "jump", "leap"
+    [00 00 00 00 00 00 00 11] "dodg"
+
+237. 1 entry, verb = "die"
+    [00 00 00 00 00 00 00 12] "die"
+
+236. 1 entry, verb = "free", synonyms = "resc", "save"
+    [00 00 00 00 00 00 00 13] "free"
+
+235. 1 entry, verb = "stop"
+    [00 00 00 00 00 00 00 14] "stop"
+
+234. 1 entry, verb = "help"
+    [00 00 00 00 00 00 00 15] "help"
+
+233. 1 entry, verb = "feel", synonyms = "grop", "touc"
+    [00 00 00 00 00 00 00 16] "feel"
+
+232. 1 entry, verb = "wait"
+    [00 00 00 00 00 00 00 17] "wait"
+
+231. 1 entry, verb = "belt", synonyms = "figh", "hit", "kick", "punc", "slug"
+    [00 00 00 00 00 00 00 18] "belt"
+
+230. 1 entry, verb = "ask", synonyms = "say", "scre", "spea", "talk", "tell",
+                                       "whis", "yell"
+    [00 00 00 00 00 00 00 19] "ask"
+
+229. 1 entry, verb = "scor"
+    [00 00 00 00 00 00 00 1a] "scor"
+
+228. 1 entry, verb = "awak", synonyms = "wake"
+    [00 00 00 00 00 00 00 1b] "awak"
+
+227. 1 entry, verb = "adju", synonyms = "chan", "move", "rese", "set"
+    [00 00 00 00 00 00 00 1c] "adju"
+
+226. 1 entry, verb = "rais", synonyms = "up"
+    [00 00 00 00 00 00 00 1d] "rais"
+
+225. 1 entry, verb = "down", synonyms = "lowe"
+    [00 00 00 00 00 00 00 1e] "down"
+
+224. 1 entry, verb = "use", synonyms = "with"
+    [00 00 00 00 00 00 00 1f] "use"
+
+223. 1 entry, verb = "brea", synonyms = "dest", "smas"
+    [00 00 00 00 00 00 00 20] "brea"
+
+222. 1 entry, verb = "catc", synonyms = "foll"
+    [00 00 00 00 00 00 00 21] "catc"
+
+221. 1 entry, verb = "empt", synonyms = "spil"
+    [00 00 00 00 00 00 00 22] "empt"
+
+220. 1 entry, verb = "drin", synonyms = "eat"
+    [00 00 00 00 00 00 00 23] "drin"
+
+219. 1 entry, verb = "danc", synonyms = "list", "shak", "sing", "smel"
+    [00 00 00 00 00 00 00 24] "danc"
+
+    **** Verb action routines ****
+
+  Action table entries = 37
+
+action# action-routine "verb..."
+
+  0.  3744  "script"
+  1.  3768  "noscript"
+  2.  3928  "clim"
+  3.  3c3c  "turn"
+  4.  3cb0  "get"
+  5.  3e6c  "drop"
+  6.  3eec  "forc"
+  7.  4088  "scan"
+  8.  4284  "cast"
+  9.  4300  "keyi"
+ 10.  43c4  "i"
+ 11.  43e0  "desc"
+ 12.  4ba8  "quit"
+ 13.  4bbc  "crea"
+ 14.  4de0  "clos"
+ 15.  4e08  "pres"
+ 16.  4eec  "at"
+ 17.  50bc  "dodg"
+ 18.  5154  "die"
+ 19.  5170  "free"
+ 20.  5194  "stop"
+ 21.  51ac  "help"
+ 22.  51e4  "feel"
+ 23.  533c  "wait"
+ 24.  5354  "belt"
+ 25.  54d0  "ask"
+ 26.  56dc  "scor"
+ 27.  5820  "awak"
+ 28.  5844  "adju"
+ 29.  588c  "rais"
+ 30.  58d0  "down"
+ 31.  5914  "use"
+ 32.  5944  "brea"
+ 33.  5970  "catc"
+ 34.  59a0  "empt"
+ 35.  5a44  "drin"
+ 36.  5ad8  "danc"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.     0  
+    **** Prepositions ****
+
+  Table entries = 0
+

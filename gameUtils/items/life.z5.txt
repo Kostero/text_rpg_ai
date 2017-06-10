@@ -1,0 +1,27 @@
+    g   !wqle   s
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ CompassDirection
+ Game of Life board
+ Liveroom
+ Thing
+ b   dav   
+ ceiling
+ compass
+ east wall
+ floor
+ ic chmCutting 
+ inside
+ leaflet
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ south wall
+ southeast wall
+ southwest wall
+ west wall
+

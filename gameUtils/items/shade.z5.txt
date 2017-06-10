@@ -1,0 +1,117 @@
+     ul
+ (Inform Library)
+ (Inform Parser)
+ (bathroomsand)
+ (bathsink)
+ (bathsinksand)
+ (bathsinkwater)
+ (darkness object)
+ (fakebathroom)
+ (fakebathsink)
+ (fakebook)
+ (fakecloset)
+ (fakecomputer)
+ (fakecounter)
+ (fakecrate)
+ (fakecupboard)
+ (fakefridge)
+ (fakefrontdoor)
+ (fakefuton)
+ (fakeglass)
+ (fakejacket)
+ (fakekitchen)
+ (fakekitchensink)
+ (fakelamp)
+ (fakelivingroom)
+ (fakeluggage)
+ (fakemirror)
+ (fakepapers)
+ (fakeplant)
+ (fakeshower)
+ (fakeshowerhead)
+ (fakestereo)
+ (fakestove)
+ (faketickets)
+ (faketodo)
+ (faketoilet)
+ (fakevacuum)
+ (fakewindow)
+ (fakewindowshade)
+ (firstgoal)
+ (goalhandler)
+ (kitchensand)
+ (kitchensink)
+ (kitchensinksand)
+ (kitchensinkwater)
+ (livingsand)
+ (self object)
+ (showerheadwater)
+ (showersand)
+ CompassDirection
+ Fake
+ FloorSand
+ GeneralWater
+ SandQuantity
+ Sink
+ SinkSand
+ SinkWater
+ Zone
+ apartment
+ bathroom nook
+ box of crackers
+ boxful of sand
+ cardboard crate
+ ceiling
+ closet
+ compass
+ computer
+ counter
+ cupboard
+ desk
+ east wall
+ floor
+ front door
+ futon
+ glass
+ glassful of sand
+ glassful of water
+ home
+ inside
+ jar of peanut butter
+ jarful of sand
+ kitchen nook
+ lamp
+ lib_messages
+ living room
+ luggage
+ mirror
+ north wall
+ northeast wall
+ northwest wall
+ old jacket
+ outside
+ papers
+ plane tickets
+ plant
+ refrigerator
+ sand
+ shade
+ shower
+ showerhead
+ sky
+ sounds
+ south wall
+ southeast wall
+ southwest wall
+ stereo
+ stove
+ sun
+ tiny figure
+ to-do list
+ toilet
+ travel book
+ vacuum cleaner
+ west wall
+ window
+ windowshade
+

@@ -1,0 +1,2866 @@
+
+Story file is games/mystad07.z6
+
+    **** Parse tables ****
+
+  Verb entries = 40
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "ente", synonyms = "go"
+    [00 00 00 00 00 00 00 02] "ente"
+
+252. 1 entry, verb = "inve"
+    [00 00 00 00 00 00 00 03] "inve"
+
+251. 1 entry, verb = "quit"
+    [00 00 00 00 00 00 00 04] "quit"
+
+250. 1 entry, verb = "scor"
+    [00 00 00 00 00 00 00 05] "scor"
+
+249. 1 entry, verb = "help"
+    [00 00 00 00 00 00 00 06] "help"
+
+248. 1 entry, verb = "wait"
+    [00 00 00 00 00 00 00 07] "wait"
+
+247. 1 entry, verb = "save"
+    [00 00 00 00 00 00 00 08] "save"
+
+246. 1 entry, verb = "awb"
+    [00 00 00 00 00 00 00 09] "awb"
+
+245. 1 entry, verb = "get", synonyms = "grab", "take"
+    [00 00 00 00 00 00 00 0a] "get"
+
+244. 1 entry, verb = "dig"
+    [00 00 00 00 00 00 00 0b] "dig"
+
+243. 1 entry, verb = "exam", synonyms = "insp", "sear"
+    [00 00 00 00 00 00 00 0c] "exam"
+
+242. 1 entry, verb = "read"
+    [00 00 00 00 00 00 00 0d] "read"
+
+241. 1 entry, verb = "drop", synonyms = "dump", "leav"
+    [00 00 00 00 00 00 00 0e] "drop"
+
+240. 1 entry, verb = "at"
+    [00 00 00 00 00 00 00 0f] "at"
+
+239. 1 entry, verb = "to"
+    [00 00 00 00 00 00 00 10] "to"
+
+238. 1 entry, verb = "ligh"
+    [00 00 00 00 00 00 00 11] "ligh"
+
+237. 1 entry, verb = "unli"
+    [00 00 00 00 00 00 00 12] "unli"
+
+236. 1 entry, verb = "say"
+    [00 00 00 00 00 00 00 13] "say"
+
+235. 1 entry, verb = "atta", synonyms = "kill"
+    [00 00 00 00 00 00 00 14] "atta"
+
+234. 1 entry, verb = "open", synonyms = "unlo"
+    [00 00 00 00 00 00 00 15] "open"
+
+233. 1 entry, verb = "clos", synonyms = "lock"
+    [00 00 00 00 00 00 00 16] "clos"
+
+232. 1 entry, verb = "chop", synonyms = "cut"
+    [00 00 00 00 00 00 00 17] "chop"
+
+231. 1 entry, verb = "empt", synonyms = "pour"
+    [00 00 00 00 00 00 00 18] "empt"
+
+230. 1 entry, verb = "eat"
+    [00 00 00 00 00 00 00 19] "eat"
+
+229. 1 entry, verb = "buil", synonyms = "make"
+    [00 00 00 00 00 00 00 1a] "buil"
+
+228. 1 entry, verb = "fix", synonyms = "repa"
+    [00 00 00 00 00 00 00 1b] "fix"
+
+227. 1 entry, verb = "use", synonyms = "with"
+    [00 00 00 00 00 00 00 1c] "use"
+
+226. 1 entry, verb = "pray"
+    [00 00 00 00 00 00 00 1d] "pray"
+
+225. 1 entry, verb = "fill"
+    [00 00 00 00 00 00 00 1e] "fill"
+
+224. 1 entry, verb = "fuck", synonyms = "piss"
+    [00 00 00 00 00 00 00 1f] "fuck"
+
+223. 1 entry, verb = "rape"
+    [00 00 00 00 00 00 00 20] "rape"
+
+222. 1 entry, verb = "pres", synonyms = "push"
+    [00 00 00 00 00 00 00 21] "pres"
+
+221. 1 entry, verb = "move"
+    [00 00 00 00 00 00 00 22] "move"
+
+220. 1 entry, verb = "tie"
+    [00 00 00 00 00 00 00 23] "tie"
+
+219. 1 entry, verb = "clim"
+    [00 00 00 00 00 00 00 24] "clim"
+
+218. 1 entry, verb = "remo"
+    [00 00 00 00 00 00 00 25] "remo"
+
+217. 1 entry, verb = "look"
+    [00 00 00 00 00 00 00 26] "look"
+
+216. 1 entry, verb = "wear"
+    [00 00 00 00 00 00 00 27] "wear"
+
+    **** Verb action routines ****
+
+  Action table entries = 40
+
+action# action-routine "verb..."
+
+  0.  3db4  "script"
+  1.  3dd8  "noscript"
+  2.  c68c  "ente"
+  3.  c798  "inve"
+  4.  c7b0  "quit"
+  5.  c7d0  "scor"
+  6.  c7f0  "help"
+  7.  c81c  "wait"
+  8.  c8ec  "save"
+  9.  c90c  "awb"
+ 10.  c920  "get"
+ 11.  ca14  "dig"
+ 12.  ca30  "exam"
+ 13.  d13c  "read"
+ 14.  d1bc  "drop"
+ 15.  d254  "at"
+ 16.  d268  "to"
+ 17.  d2c0  "ligh"
+ 18.  d324  "unli"
+ 19.  d358  "say"
+ 20.  d37c  "atta"
+ 21.  d490  "open"
+ 22.  d548  "clos"
+ 23.  d56c  "chop"
+ 24.  d580  "empt"
+ 25.  d5c0  "eat"
+ 26.  d5d4  "buil"
+ 27.  d5e8  "fix"
+ 28.  d62c  "use"
+ 29.  d790  "pray"
+ 30.  d7e8  "fill"
+ 31.  d82c  "fuck"
+ 32.  d854  "rape"
+ 33.  d880  "pres"
+ 34.  db5c  "move"
+ 35.  dbb4  "tie"
+ 36.  dbf0  "clim"
+ 37.  dc3c  "remo"
+ 38.  dc50  "look"
+ 39.  dc80  "wear"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.  2900  
+    **** Prepositions ****
+
+  Table entries = 814
+
+  9. "dg "
+ 26. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+         m                                            o                     a  
+                  s                 b   y           a         j                
+d                c  e      q           c         e                 g   w       
+   f         k                     w                 j   q           i        
+b                 l   p           k         a                 n   m           m
+        a                 p   m           o                            r   p   
+       q         d                 t   z           s         p                
+v   b           u         x                 x   f           w                  
+         z   q         "
+165. "yda"
+128. "kgr"
+ 26.  no-preposition
+165. "l   kgr"
+128. "kgr"
+ 27.  no-preposition
+165. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                              jda"
+ 65. "kgr"
+ 27. "nting the Z-machine.
+
+"
+165. "yda"
+ 65. "kgr"
+ 27. "   o c   b ctk  :z       pb "
+165. "kgr"
+ 65. "kgr"
+ 30. "vbhabhl"
+165. "                                                                         
+                                            jda"
+128. "kgr"
+ 30.  no-preposition
+165. "     s    czs     "
+128. "kgr"
+ 30.  no-preposition
+165. "qa"
+128. "kgr"
+ 30.  no-preposition
+165. "amh"
+128. "kgr"
+ 31.  no-preposition
+165. "      v"
+ 65. "kgr"
+ 31. " G    kjz mjgk"
+165. "va"
+128. "kgr"
+ 32.  no-preposition
+165. "   hEigkm"
+128. "kgr"
+ 32.  no-preposition
+165. "ftkjdc"
+128. "kgr"
+ 32.  no-preposition
+165. "appened! "
+128. "kgr"
+ 33.  no-preposition
+165. "   dlgf    "
+128. "kgr"
+ 33.  no-preposition
+165. "ui   zz"
+ 65. "kgr"
+ 34. " ebgl"
+165. "cG"
+ 65. "kgr"
+ 34. "Nothing happens "
+165. "kmj"
+ 65. "kgr"
+ 34. "      c   xlkk      kk   a      "
+165. "   nyko"
+128. "kgr"
+ 34.  no-preposition
+165. " m   k "
+128. "kgr"
+ 34.  no-preposition
+165. "jfabdjavewfabewpabewpabevabedarephlcn"
+128. "kgr"
+ 35.  no-preposition
+165. "kgr"
+ 65. "kgr"
+ 36. " ebgl"
+165. "e1"
+128. "kgr"
+ 36.  no-preposition
+165. "   t"
+128. "kgr"
+ 36.  no-preposition
+165. "zue"
+128. "kgr"
+ 36.  no-preposition
+165. "   g"
+128. "kgr"
+ 36.  no-preposition
+165. ")z"
+128. "kgr"
+ 36.  no-preposition
+165. "sc I    "
+128. "kgr"
+ 37.  no-preposition
+165. "ewzkgj"
+128. "kgr"
+ 37.  no-preposition
+165. "n it! "
+ 65. "kgr"
+ 37. "vffcktjtafib"
+165. " gp hmAren't you the strange one ! "
+128. "kgr"
+ 38.  no-preposition
+165. "zxu"
+128. "kgr"
+ 38.  no-preposition
+165. "    "
+128. "kgr"
+ 38.  no-preposition
+165. "glu"
+128. "kgr"
+ 38.  no-preposition
+165. "ilbnib"
+ 65. "kgr"
+ 39. "breviate any word by typing its first "
+165. "g   lgfjwnkgr"
+ 65. "kgr"
+ 40. "breviate any word by typing its first "
+165. "trange one ! "
+128. "kgr"
+ 40.  no-preposition
+165. "ka    "
+ 65. "kgr"
+ 40. "ahpkG  fkk   mbgnf"
+165. "hhnrhjvfhcktilbnib"
+128. "kgr"
+ 42.  no-preposition
+165. "iu"
+128. "kgr"
+ 42.  no-preposition
+165. ")z"
+128. "kgr"
+ 42.  no-preposition
+165. "kdxkgr"
+ 65. "kgr"
+ 42. "gs "
+165. "kgr"
+ 65. "kgr"
+ 43. "bewpabewpabcvhtcphlcvhvczabedardhipcnhlcn"
+165. "    "
+ 65. "kgr"
+ 45. "afadjvavdjabifftijnfabjvcr"
+165. " gnsk sc I    "
+ 65. "kgr"
+ 45. "      llgg"
+165. "A soft voice whispers - "
+ 65. "kgr"
+ 46. "a   ** Programming error: "
+165. "kgr"
+128. "kgr"
+ 47.  no-preposition
+165. "ui"
+ 65. "kgr"
+ 48. "    "
+165. "E   gg"
+128. "kgr"
+ 49.  no-preposition
+165. "kgr"
+ 65. "kgr"
+ 50. "jjtrbfjvdfcktjux"
+165. "                                                                         
+                                      jda"
+128. "kgr"
+ 50.  no-preposition
+165. ")z"
+ 65. "kgr"
+ 50. "bewpabewpabcvhtcphlcvhvczabedardhipcnhlcn"
+165. "ro **]"
+ 65. "kgr"
+ 50. "jjtrbfjvdfcktjux"
+165. "tt2Zip, version "
+128. "kgr"
+ 51.  no-preposition
+165. "   r"
+128. "kgr"
+ 53.  no-preposition
+165. "lgfjrpkgr"
+ 65. "kgr"
+ 58. "dfircnhlcn"
+165. "aov"
+128. "kgr"
+ 58.  no-preposition
+165. "kzzji"
+ 65. "kgr"
+ 58. "afadjvavdjabifftijnfabjvcr"
+165. "bq"
+ 65. "kgr"
+ 58. "ewpabcvhtddhtczabedardnijcnhlcn"
+165. "hhnrhjvfhcktilbnib"
+128. "kgr"
+ 59.  no-preposition
+165. "lgfqsbkgr"
+128. "kgr"
+ 59.  no-preposition
+165. "lgf    "
+128. "kgr"
+ 65.  no-preposition
+165. "   a"
+128. "kgr"
+ 65.  no-preposition
+165. " gnsk sc I    "
+ 65. "kgr"
+ 68. "   o c   b ctk  :z       pb "
+165. " h  ieqlj"
+128. "kgr"
+ 69.  no-preposition
+165. "lgfhtxkgr"
+128. "kgr"
+ 69.  no-preposition
+165. "bu"
+ 65. "kgr"
+ 69. "breviate any word by typing its first "
+165. "    "
+ 65. "kgr"
+ 69. "Q"
+165. "    "
+128. "kgr"
+ 70.  no-preposition
+165. "vsykgr"
+ 65. "kgr"
+ 70. "      c   xlkk      kk   a      "
+165. ")z"
+ 65. "kgr"
+ 72. "   uhde"
+165. "rP gnns kc        "
+ 65. "kgr"
+ 74. " G    kjz mjgk"
+165. "lgfzx   gr"
+ 65. "kgr"
+ 78. "l   b u"
+165. ")z"
+128. "kgr"
+ 78.  no-preposition
+238. "lgfyzokgr"
+ 67. "0"
+ 82. "rdbivcnhlcn"
+165. "kgr"
+ 65. "kgr"
+ 85. " c   r atijsi"
+165. " the strange one ! "
+ 65. "kgr"
+ 86. "    "
+165. "                                                                         
+        jda"
+128. "kgr"
+ 86.  no-preposition
+165. "ly"
+ 65. "kgr"
+ 86. "gs "
+165. "   ggnu"
+ 65. "kgr"
+ 86. "u)"
+165. "atijsn"
+ 65. "kgr"
+ 87. "lgg"
+165. "kwikgr"
+ 65. "kgr"
+ 91. "lgg"
+165. "kgr"
+ 65. "kgr"
+ 92. "avewfabewpabewpabcvibcnibczabedardbivcnhlcn"
+165. " and maul me! "
+ 65. "kgr"
+ 93. "lgg"
+165. "   "
+ 65. "kgr"
+ 93. "enture again? "
+165. "kzzwi   s"
+128. "kgr"
+ 93.  no-preposition
+165. "   "
+ 65. "kgr"
+ 93. "pmz0"
+165. "   dlgfkcakgr"
+ 65. "kgr"
+ 94. "a   ** Programming error: "
+165. "vsykgr"
+128. "kgr"
+ 94.  no-preposition
+165. "lgfy4kgr"
+128. "kgr"
+ 95.  no-preposition
+165. "   r"
+128. "kgr"
+ 96.  no-preposition
+165. "appened! "
+ 65. "kgr"
+ 96. "vabedardhipcnhlcn"
+165. "lgg"
+ 65. "kgr"
+ 97. "btijt"
+165. "    l  m   2  Room 39"
+128. "kgr"
+ 97.  no-preposition
+165. "        k        m     a        k        m     c        k        m     e 
+      k        m     g        k        m     i        k        m     k        k
+C    m     m        k S    m     o        k 0    m     q        k '    m     s 
+      k ac    m     u        k as    m     w        k bc    m     y        k bs
+   m               k cc    m               k cs    m               k dc    m   
+           k ds    m               k ec    m               k es    m           
+   k fc    m               k fs    m               k gc    m               k gs
+   m               k hc    m               k hs    m               k ic    m   
+           k is     0 a  uk sc             m s"
+ 65. "kgr"
+ 97. "vabedarczixcnhlcn"
+165. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                     o                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+   b   dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz                   
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                    jda"
+128. "kgr"
+ 97.  no-preposition
+185. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+          o                                                                    
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                        b   dgctgcvgcxgczgd   d
+  nntfrxf     P p  zz   p pzzezzz                                              
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+         jda"
+ 67. "kgr"
+ 97. "n"
+165. "   r"
+ 65. "kgr"
+ 97. "afadjvavdjabifftijnfabjvcr"
+165. ")z"
+128. "kgr"
+ 97.  no-preposition
+165. ")z"
+128. "kgr"
+ 97.  no-preposition
+165. "Ni"
+128. "kgr"
+ 97.  no-preposition
+165. "lgfNv"
+128. "kgr"
+ 97.  no-preposition
+165. "    0"
+128. "kgr"
+ 97.  no-preposition
+165. "E* Store "
+128. "kgr"
+ 98.  no-preposition
+165. "10"
+128. "kgr"
+ 98.  no-preposition
+165. "                                                                         
+                                                  jda"
+128. "kgr"
+ 98.  no-preposition
+165. "zqlkgr"
+128. "kgr"
+ 98.  no-preposition
+165. "zsm"
+128. "kgr"
+ 99.  no-preposition
+165. "                jda"
+128. "kgr"
+ 99.  no-preposition
+165. "b"
+128. "kgr"
+ 99.  no-preposition
+165. "aijykt"
+128. "kgr"
+ 99.  no-preposition
+165. "zxu"
+128. "kgr"
+100.  no-preposition
+165. "rP gnns kc        "
+ 65. "kgr"
+101. "jjtrbfjvdfcktjux"
+165. " gp hmHow? "
+ 65. "kgr"
+102. "    "
+165. ")z"
+ 65. "kgr"
+102. "on can only be used by the legal owner of the original adventure; it must
+not be given away or distributed on the Net.
+
+"
+165. "nbt"
+128. "kgr"
+103.  no-preposition
+165. "fi   zz"
+128. "kgr"
+106.  no-preposition
+165. "U"
+ 65. "kgr"
+106. "mfj k        gko"
+165. ")z"
+ 65. "kgr"
+106. " c   r atijsi"
+238. "lgfrcakgr"
+ 67. "0"
+106. "rdbivcnhlcn"
+165. "zwe"
+128. "kgr"
+107.  no-preposition
+165. "     room 9"
+ 65. "kgr"
+112. "   khf"
+165. "   u"
+ 65. "kgr"
+113. "lcn"
+165. "   r"
+ 65. "kgr"
+113. "       "
+165. "zzy"
+128. "kgr"
+113.  no-preposition
+165. "   "
+128. "kgr"
+113.  no-preposition
+165. " i   su"
+128. "kgr"
+113.  no-preposition
+165. "0"
+ 65. "kgr"
+  0. "   khf"
+224.  no-preposition
+  2. ")z"
+  0. "ivcnhlcn"
+  1. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c   s                                                        
+                                                                               
+                                                                              
+cgk "
+  1. "         icgqc "
+  1. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+       b   dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                        jda"
+ 48. "lgg"
+ 33. " ?lgfpc8gr"
+ 23. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                              b   dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p
+pzzezzz                                                                        
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                               jda"
+  0. " ka                 "
+ 85. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+    b   dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz                  
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                     jda"
+  0. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                          a   c   ladlatlbdlbtlcdlcniwv:vpt    
+0    "
+ 48. "bardfivcn"
+  0. "lgf"
+ 37. "c  c  c  c  c   s                                                        
+                                                                               
+                                                                              
+cgk "
+ 33. "dtkvs   k mc  kckka mc   u G    s   "
+ 13. "                                                                         
+                                                                               
+        m                                            o                     a   
+                 s                 b   y           a         j                
+d                c  e      q           c         e                 g   w       
+   f         k                     w                 j   q           i        
+b                 l   p           k         a                 n   m           m
+        a                 p   m           o                            r   p   
+       q         d                 t   z           s         p                
+v   b           u         x                 x   f           w                  
+         z   q         "
+ 85. "                                                                         
+                                                                               
+                                                                     m         
+                                  o                     a                     s
+                b   y           a         j                 d                c 
+e      q           c         e                 g   w           f         k     
+               w                 j   q           i         b                 l 
+ p           k         a                 n   m           m         a           
+     p   m           o                            r   p           q         d  
+              t   z           s         p                 v   b           u    
+    x                 x   f           w                            z   q       
+ "
+  0. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                           b   dgctgcvgcxgczgd   d   nntfrxf   
+ P p  zz   p pzzezzz                                                           
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                           
+jda"
+  0. "   e"
+ 41. "lgfja kgr"
+ 33. "dtkvs   k mc  kckka mc   u G    s   "
+149. "                                                                         
+                                                                               
+        m                                            o                     a   
+                 s                 b   y           a         j                
+d                c  e      q           c         e                 g   w       
+   f         k                     w                 j   q           i        
+b                 l   p           k         a                 n   m           m
+        a                 p   m           o                            r   p   
+       q         d                 t   z           s         p                
+v   b           u         x                 x   f           w                  
+         z   q         "
+255. "               m                                            o            
+        a                     s                 b   y           a         j    
+            d                c  e      q           c         e                
+g   w           f         k                     w                 j   q        
+  i         b                 l   p           k         a                 n   m
+          m         a                 p   m           o                        
+   r   p           q         d                 t   z           s         p     
+           v   b           u         x                 x   f           w       
+                    z   q         "
+ 41. "dn.c   mz   ms   os"
+ 33. "dtkvs   k mc  kckka mc   u G    s   "
+224. "                                                                         
+                                                                               
+        m                                            o                     a   
+                 s                 b   y           a         j                
+d                c  e      q           c         e                 g   w       
+   f         k                     w                 j   q           i        
+b                 l   p           k         a                 n   m           m
+        a                 p   m           o                            r   p   
+       q         d                 t   z           s         p                
+v   b           u         x                 x   f           w                  
+         z   q         "
+119. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                         o                                                     
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                       b  
+dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz                          
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                             jda"
+  0. "  cskr"
+  0. "9x k i   "
+ 72. "c   s                                                                    
+                                                                               
+                                                                   cgk "
+  0. " aask   atgk "
+  5. "wgjkgr"
+  1. " aask   atgk "
+ 43. "lk   ees v"
+192. "k pth dee"
+237. "bu"
+255. "znzlgfgsmkgr"
+  3. "uv,uh"
+143. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                  b   dgctgcvgcxgczgd   d   nntfrxf     P p  zz
+  p pzzezzz                                                                    
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                   jda"
+243. "gdsyc"
+253. "znzlgfgsmkgr"
+  1. "d   y   vmr"
+  0. "  e      q           c         e                 g   w           f       
+ k                     w                 j   q           i         b           
+     l   p           k         a                 n   m           m         a   
+             p   m           o                            r   p           q    
+    d                 t   z           s         p                 v   b        
+  u         x                 x   f           w                            z  
+q         "
+ 79. ". "
+  0. "fc  c e    ce6zdnh    gdlg   glq    p iqui"
+ 20. " gnqs sc I    "
+191. ")z"
+  7. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                              b
+  dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz                        
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                               jda"
+ 10. "tabdlavdpabdlarddabddarctardditcnhlcn"
+  0. " aask   atgk "
+  8. "wgjkgr"
+ 28. "w  kc        "
+  0. "hyikgr"
+  0. "qxckgr"
+  0. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c   s                                                    
+                                                                               
+                                                                               
+   cgk "
+ 45. "      dhk                   dmk                   dr                   
+dw                   dz                    d8 "
+ 66. "dc "
+203. "dc "
+ 32. " "
+160. "oq"
+249. "hcsue"
+ 35. "zsa"
+  0. "  e      q           c         e                 g   w           f       
+ k                     w                 j   q           i         b           
+     l   p           k         a                 n   m           m         a   
+             p   m           o                            r   p           q    
+    d                 t   z           s         p                 v   b        
+  u         x                 x   f           w                            z  
+q         "
+ 79. ". "
+  0. "fc  c e    ce6zdnh    gdlg   glq    p iqui"
+ 20. " gnqs sc I    "
+191. ")z"
+  7. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                              b
+  dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz                        
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                               jda"
+ 10. "tabdlavdpabdlarddabddarctardditcnhlcn"
+  0. " aask   atgk "
+  8. "wgjkgr"
+ 28. "w  kc        "
+  0. "hyikgr"
+  1. "qxckgr"
+  0. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c   s                 
+                                                                               
+                                                                               
+                                      cgk "
+233.  no-preposition
+ 66. "tkxr   ltf"
+203. "dc "
+ 32. " "
+160. "oq"
+249. "hcsue"
+  0. "d   y   vmr"
+  0. "om 29"
+ 10. "kcakgr"
+  0. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c   s                                                    
+                                                                               
+                                                                               
+   cgk "
+ 98. "  e      q           c         e                 g   w           f       
+ k                     w                 j   q           i         b           
+     l   p           k         a                 n   m           m         a   
+             p   m           o                            r   p           q    
+    d                 t   z           s         p                 v   b        
+  u         x                 x   f           w                            z  
+q         "
+ 72. "                                                                         
+                                                                               
+                                                                         m     
+                                      o                     a                  
+  s                 b   y           a         j                 d              
+ c  e      q           c         e                 g   w           f         k 
+                   w                 j   q           i         b               
+ l   p           k         a                 n   m           m         a       
+         p   m           o                            r   p           q        
+d                 t   z           s         p                 v   b           u
+        x                 x   f           w                            z   q   
+     "
+  1. "gy   zz"
+240. " q"
+  1. "Tqeagdd"
+ 46. "bu   b"
+249. "    G    kkra   gkn"
+ 95. "zc                bce    "
+ 49. "    "
+  3. "D    h"
+ 49. "                                                                         
+      cgk "
+ 56. "      c lm"
+  1. "Tqeagdd"
+ 59. "bu   b"
+249. "e light will run out in "
+ 95. "zc                bce    "
+ 49. "t will run out in "
+127. "krzqadkzzqy   o"
+237. "c   s                                                                    
+                                                                               
+                                                                   cgk "
+255. "znzlgfgsmkgr"
+  1. "ps  k sk      iwp"
+255. "kjz   dqdj"
+ 72. ")z"
+160. "   z"
+ 45. "wgjkgr"
+255. "kjz   dqdj"
+ 72. "lgfqagkgr"
+107. "   z"
+ 33. "wgjkgr"
+255. "kjz   dqdj"
+ 72. "ve   f"
+112. "   z"
+ 21. "wgjkgr"
+255. "kjz   dqdj"
+ 72. "omnlgfnxakgr"
+140. "   z"
+  9. "wgjkgr"
+255. "kjz   dqdj"
+ 67. "zws"
+254. "kgr"
+  0. "jjtrbfjvdfcktjux"
+ 27. "     dds "
+ 87. "  tkbzzs "
+  0. "     c  c e    ce6zdnh    gdlg   glq    p iqui"
+255. "lk   ees v"
+  1. "lgfheskrzaqd"
+127. "h "
+255. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                             b  
+dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz                          
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                             jda"
+ 63. " t"
+127. "vsxgsvunltkxr   ltf"
+ 47. "        s         p                 v   b           u         x          
+      x   f           w                            z   q         "
+  1. "    igj"
+  0. "d   y   vmr"
+  5. "Gk"
+ 48. "Eagkn"
+187. "zw"
+  0. "ka   zz"
+  1. "   a                     s                 b   y           a         j   
+             d                c  e      q           c         e                
+g   w           f         k                     w                 j   q        
+  i         b                 l   p           k         a                 n   m
+          m         a                 p   m           o                        
+   r   p           q         d                 t   z           s         p     
+           v   b           u         x                 x   f           w       
+                    z   q         "
+ 65. "tkxr   ltf"
+194. "   ewlavdfardpabdlardtabdlavdpabdlarddabddarctardditcnhlcn"
+ 66. "qe   m"
+  1. "gsvunltkxr   ltf"
+  0. "   o                     a                     s                 b   y   
+       a         j                 d                c  e      q           c    
+    e                 g   w           f         k                     w        
+        j   q           i         b                 l   p           k         a
+                n   m           m         a                 p   m           o  
+                         r   p           q         d                 t   z     
+     s         p                 v   b           u         x                 x 
+ f           w                            z   q         "
+  1.  no-preposition
+  2. "d   y   vmr"
+ 23. "qu   l"
+231. "dg "
+127. "ok   ilc "
+ 20. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                     m         
+                                  o                     a                     s
+                b   y           a         j                 d                c 
+e      q           c         e                 g   w           f         k     
+               w                 j   q           i         b                 l 
+ p           k         a                 n   m           m         a           
+     p   m           o                            r   p           q         d  
+              t   z           s         p                 v   b           u    
+    x                 x   f           w                            z   q       
+ "
+184. "mpm"
+ 35. "zsa"
+ 75. "qe   m"
+ 48. "v   "
+ 23. "   "
+ 85. "qe   m"
+ 60. "om 52"
+191. "r   ltf"
+  0. "tabdlavdpabdlarddabddarctardditcnhlcn"
+229. " k kgj"
+ 16. "lgfaqp"
+255. "gtl   "
+255. ")z"
+ 63. "om 52"
+191. "r   ltf"
+ 22. "abevabedardbivcnhlcn"
+167. "w   lgfhq   gr"
+ 93. "qe   m"
+150. "qe   m"
+181. "qe   m"
+197. "qe   m"
+194. "Ey"
+ 69. "m   lgfoqykgr"
+ 64. "zww"
+ 99. ")z"
+  4. "gdkgdmhk kmo   vnk               0 0      v             k        flngg   
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c   s                            
+                                                                               
+                                                                               
+                           cgk "
+ 17. "kahkgr"
+178. "                      j                      f                      r    
+                 e                     u                     h                 
+   a                      t                      g                      y      
+               o                     a                      z                  
+   m                                           v                      i        
+                                     p                      d                  
+   w                      k                                              r     
+                e                     v                      l                 
+                         k                      a         "
+244. " k S    m     o        k 0    m     q        k '    m     s        k ac  
+ m     u        k as    m     w        k bc    m     y        k bs    m        
+      k cc    m               k cs    m               k dc    m               k
+ds    m               k ec    m               k es    m               k fc    m
+              k fs    m               k gc    m               k gs    m        
+      k hc    m               k hs    m               k ic    m               k
+is     0 a  uk sc             m s"
+127. "lgf   v"
+176. "c   s                                                                    
+                                                                               
+                                                                   cgk "
+  0.  no-preposition
+127. "         dck                    dhk                   dmk                
+  dr                    dw                   dz                    d8 "
+ 17. "           r   p           q         d                 t   z           s 
+       p                 v   b           u         x                 x   f     
+     w                            z   q         "
+ 70. "m               k  s    m             k        m     a        k        m 
+   c        k        m     e        k        m     g        k        m     i   
+    k        m     k        k C    m     m        k S    m     o        k 0   
+m     q        k '    m     s        k ac    m     u        k as    m     w    
+   k bc    m     y        k bs    m               k cc    m               k cs 
+  m               k dc    m               k ds    m               k ec    m    
+          k es    m               k fc    m               k fs    m            
+  k gc    m               k gs    m               k hc    m               k hs 
+  m               k ic    m               k is     0 a  uk sc             m s"
+241. "I can see "
+141. "slckgr"
+141. "  cnsz"
+230. "jsy"
+141. "   t"
+141. "nk   c lk"
+178. "ykp"
+156. " k a     m     t        k ak    m     v        k b     m     x        k
+bk    m     z        k c     m               k ck    m               k d     m 
+             k dk    m               k e     m               k ek    m         
+     k f     m               k fk    m               k g     m               k
+gk    m               k h     m               k hk    m               k i     m
+              k ik    m          gcp  s          e  a   Aca ma                 
+       ae zzz"
+ 20. "   w"
+149. "qdj"
+ 97. "holkgr"
+234. "kgr"
+ 19. "kgr"
+134. "                   e                     u                     h         
+           a                      t                      g                     
+y                      o                     a                      z          
+           m                                           v                      i
+                                             p                      d          
+           w                      k                                            
+ r                      e                     v                      l         
+                                 k                      a         "
+ 40. "n     f   kddwc  klwhuyeg  bms     ekw  LIT lamp"
+194. "Ey"
+246. "e,c "
+  1. "ea   zz"
+246. "bu"
+  1. "ea   zz"
+121. "/   n"
+  1. "ipv"
+177. "zug"
+  8.  no-preposition
+ 48. "lgg"
+  4. "rUkgr"
+ 79. "      dck                    dhk                   dmk                  
+dr                    dw                   dz                    d8 "
+ 72. "                      z   q         "
+188. "zzz"
+255. "uawdc "
+144. "ud"
+252. "                             cgk "
+  3. "uv,uh"
+143. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                  b   dgctgcvgcxgczgd   d   nntfrxf     P p  zz
+  p pzzezzz                                                                    
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                   jda"
+143. "ot"
+243. "               dw                   dz                    d8 "
+ 28. "   w"
+  2. "   s"
+ 63. "lgfa   "
+178. "unltkxr   ltf"
+ 52. "bf"
+ 32. "ne   d"
+ 52. "                                                                         
+                                                          bed"
+ 36. "n   lgfuiykgr"
+ 56. "kgr"
+148. "      t                      j                      f                    
+ r                      e                     u                     h          
+          a                      t                      g                     
+y                      o                     a                      z          
+           m                                           v                      i
+                                             p                      d          
+           w                      k                                            
+ r                      e                     v                      l         
+                                 k                      a         "
+136. "w   lgfymdkgr"
+  6. "  dz                    d8 "
+ 69. ")z"
+227. " q"
+ 48. "ucwpt"
+  1. "   "
+169. "c  c  c  c   s                                                           
+                                                                               
+                                                                            cgk
+"
+  1. "                                                                         
+                                     c                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                      a   c   ladlatlbdlbtlcdlcniwv:vpt     0  
+ "
+ 39. "                                                                         
+                                                                               
+                                                                               
+                                                         m                     
+                      o                     a                     s            
+    b   y           a         j                 d                c  e      q   
+       c         e                 g   w           f         k                 
+   w                 j   q           i         b                 l   p         
+ k         a                 n   m           m         a                 p   m 
+         o                            r   p           q         d              
+  t   z           s         p                 v   b           u         x      
+          x   f           w                            z   q         "
+ 25. "       "
+160. "                                                                         
+                                                                               
+                                                                         m     
+                                      o                     a                  
+  s                 b   y           a         j                 d              
+ c  e      q           c         e                 g   w           f         k 
+                   w                 j   q           i         b               
+ l   p           k         a                 n   m           m         a       
+         p   m           o                            r   p           q        
+d                 t   z           s         p                 v   b           u
+        x                 x   f           w                            z   q   
+     "
+127.  no-preposition
+ 48. "fpz w     "
+  4. ")z"
+  0. "   c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c   s                   
+                                                                               
+                                                                               
+                                    cgk "
+109. "                                                                         
+                                                                               
+                                                                         m     
+                                      o                     a                  
+  s                 b   y           a         j                 d              
+ c  e      q           c         e                 g   w           f         k 
+                   w                 j   q           i         b               
+ l   p           k         a                 n   m           m         a       
+         p   m           o                            r   p           q        
+d                 t   z           s         p                 v   b           u
+        x                 x   f           w                            z   q   
+     "
+ 48. "fpz w     "
+  5. ")z"
+ 43. "                                                                         
+                                                                               
+                                                                               
+                                                         m                     
+                      o                     a                     s            
+    b   y           a         j                 d                c  e      q   
+       c         e                 g   w           f         k                 
+   w                 j   q           i         b                 l   p         
+ k         a                 n   m           m         a                 p   m 
+         o                            r   p           q         d              
+  t   z           s         p                 v   b           u         x      
+          x   f           w                            z   q         "
+ 24. " ka                 "
+ 13. "    xs   kprta"
+ 66. "   x                 x   f           w                            z   q  
+      "
+  0. "           x   f           w                            z   q         "
+  3. "gy"
+ 66. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                             m                                            o    
+                a                     s                 b   y           a      
+  j                 d                c  e      q           c         e         
+       g   w           f         k                     w                 j   q 
+         i         b                 l   p           k         a               
+ n   m           m         a                 p   m           o                 
+          r   p           q         d                 t   z           s        
+p                 v   b           u         x                 x   f           w
+                           z   q         "
+210. "           x   f           w                            z   q         "
+ 95. "0s"
+ 28. "     fz"
+  0. "            bce    "
+127. "d"
+  0. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                 m             
+                              o                     a                     s    
+            b   y           a         j                 d                c  e  
+   q           c         e                 g   w           f         k         
+           w                 j   q           i         b                 l   p 
+         k         a                 n   m           m         a               
+ p   m           o                            r   p           q         d      
+          t   z           s         p                 v   b           u        
+x                 x   f           w                            z   q         "
+ 47. "kk  k  smx   "
+  3. "vnntfrxf     P p  zz   p pzzezzz                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+              jda"
+  7. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c   s                                                                   
+                                                                               
+                                                                    cgk "
+243. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                         m                                     
+      o                     a                     s                 b   y      
+    a         j                 d                c  e      q           c       
+ e                 g   w           f         k                     w           
+     j   q           i         b                 l   p           k         a   
+             n   m           m         a                 p   m           o     
+                      r   p           q         d                 t   z        
+  s         p                 v   b           u         x                 x   f
+          w                            z   q         "
+ 28. "   w"
+  3. ")z"
+ 66. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                             m                                            o    
+                a                     s                 b   y           a      
+  j                 d                c  e      q           c         e         
+       g   w           f         k                     w                 j   q 
+         i         b                 l   p           k         a               
+ n   m           m         a                 p   m           o                 
+          r   p           q         d                 t   z           s        
+p                 v   b           u         x                 x   f           w
+                           z   q         "
+210. "           x   f           w                            z   q         "
+ 95. "0s"
+ 28. "     fz"
+  0. "            bce    "
+127. "   g    ms l     mx   "
+  0. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                 m             
+                              o                     a                     s    
+            b   y           a         j                 d                c  e  
+   q           c         e                 g   w           f         k         
+           w                 j   q           i         b                 l   p 
+         k         a                 n   m           m         a               
+ p   m           o                            r   p           q         d      
+          t   z           s         p                 v   b           u        
+x                 x   f           w                            z   q         "
+ 47. "kk  k  smx   "
+  3. "      b   dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz          
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                             jda"
+ 47. "                                                                         
+                                                                               
+                                                                               
+                                                                     m         
+                                  o                     a                     s
+                b   y           a         j                 d                c 
+e      q           c         e                 g   w           f         k     
+               w                 j   q           i         b                 l 
+ p           k         a                 n   m           m         a           
+     p   m           o                            r   p           q         d  
+              t   z           s         p                 v   b           u    
+    x                 x   f           w                            z   q       
+ "
+  0. "            icgqc "
+ 37. "zzz"
+ 66. " q"
+140. "2   s"
+143. "avewfabewpabewpabevabedardbivcnhlcn"
+140. "                      r   p           q         d                 t   z  
+        s         p                 v   b           u         x                
+x   f           w                            z   q         "
+224. "tcnhlcn"
+119. "  g c                          i c                          k c         
+C             m c          S             o c          0             q c        
+ '             s c          ac             u c          as             w c     
+    bc             y c          bs                c          cc               
+c          cs                c          dc                c         
+ds3c5lbstbdlb"
+  2. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+          a   c   ladlatlbdlbtlcdlcniwv:vpt     0    "
+ 48. "fpz w     "
+  6. "lgfpc8gr"
+  0. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c   s                               
+                                                                               
+                                                                               
+                        cgk "
+160. "                                                                         
+                                                                               
+                                                                         m     
+                                      o                     a                  
+  s                 b   y           a         j                 d              
+ c  e      q           c         e                 g   w           f         k 
+                   w                 j   q           i         b               
+ l   p           k         a                 n   m           m         a       
+         p   m           o                            r   p           q        
+d                 t   z           s         p                 v   b           u
+        x                 x   f           w                            z   q   
+     "
+143. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                         m                                     
+      o                     a                     s                 b   y      
+    a         j                 d                c  e      q           c       
+ e                 g   w           f         k                     w           
+     j   q           i         b                 l   p           k         a   
+             n   m           m         a                 p   m           o     
+                      r   p           q         d                 t   z        
+  s         p                 v   b           u         x                 x   f
+          w                            z   q         "
+140. "                      r   p           q         d                 t   z  
+        s         p                 v   b           u         x                
+x   f           w                            z   q         "
+224. "pta"
+111. "  g c                          i c                          k c         
+C             m c          S             o c          0             q c        
+ '             s c          ac             u c          as             w c     
+    bc             y c          bs                c          cc               
+c          cs                c          dc                c         
+ds3c5lbstbdlb"
+  0. "           c         e                 g   w           f         k       
+             w                 j   q           i         b                 l  
+p           k         a                 n   m           m         a            
+    p   m           o                            r   p           q         d   
+             t   z           s         p                 v   b           u     
+   x                 x   f           w                            z   q        
+"
+  2. "zve"
+  6. "                  Mp                  Nb                  Nr             
+    Ob                  Or                  Pe                  Pu             
+    Qg klGva           kk  c  sm   x"
+ 13. "  j   q           i         b                 l   p           k         a
+                n   m           m         a                 p   m           o  
+                         r   p           q         d                 t   z     
+     s         p                 v   b           u         x                 x 
+ f           w                            z   q         "
+140. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                              b   dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p
+pzzezzz                                                                        
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                               jda"
+224. "    flngg    c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c   s        
+                                                                               
+                                                                               
+                                               cgk "
+119. "  g c                          i c                          k c         
+C             m c          S             o c          0             q c        
+ '             s c          ac             u c          as             w c     
+    bc             y c          bs                c          cc               
+c          cs                c          dc                c         
+ds3c5lbstbdlb"
+ 26. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+       a   c   ladlatlbdlbtlcdlcniwv:vpt     0    "
+208. "h   lgf oh"
+ 48. "fpz w     "
+  6. "zsu"
+  0. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c   s                               
+                                                                               
+                                                                               
+                        cgk "
+160. "h   lgfso   gr"
+160. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c   s                                                                      
+                                                                               
+                                                                 cgk "
+178. "               Nr                  Ob                  Or                
+ Pe                  Pu                  Qg klGva           kk  c  sm   x"
+ 38. "   okdc"
+ 25. "w   lgfxudkgr"
+ 83. "mk                   dr                    dw                   dz       
+            d8 "
+166. "uu   "
+128. ")z"
+  4. "xa"
+ 23. " i   e"
+  5. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                   a   c   ladlatlbdlbtlcdlcniwv:vpt     0    "
+140. "mk      qdpotk"
+217. "gcuuf"
+ 68. "dzq"
+217. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                       b  
+dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz                          
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                             jda"
+ 21. "    jlzs   kl"
+195. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                 b  
+dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz                          
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                             jda"
+  0. "my"
+195. "qi"
+110. "44"
+200. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c   s                                      
+                                                                               
+                                                                               
+                 cgk "
+  0. "zte"
+ 79. ")z"
+ 46. "hcuueo"
+  0. "   t"
+254. "ce"
+  0. "         a                 p   m           o                            r
+  p           q         d                 t   z           s         p          
+      v   b           u         x                 x   f           w            
+               z   q         "
+ 79. "     l    "
+110. "rdbivcnhlcn"
+  0. "n   lgf   x"
+128. "fu   "
+ 23. ")z"
+ 23. "jk"
+  0. "   p"
+ 19. "i   "
+138. "                                                                         
+                                                                               
+                                b   dgctgcvgcxgczgd   d   nntfrxf     P p  zz  
+p pzzezzz                                                                      
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                 jda"
+ 17. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c   s                                                           
+                                                                               
+                                                                            cgk
+"
+141. "'   zy"
+ 17. "                                                                         
+                bed"
+152. "zum"
+ 19. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c   s                                                                    
+                                                                               
+                                                                   cgk "
+  4. "kgr"
+ 19. "sq   zz"
+  5. "                                                                         
+                                                                               
+                                                                               
+    jda"
+ 48. "dd"
+131. "    "
+  0. "  Gauntlets"
+ 23. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                           b  
+dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz                          
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                             jda"
+178. "      c                                                                  
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+             a   c   ladlatlbdlbtlcdlcniwv:vpt     0    "
+ 40. "                                                                     
+XmgxmoxnXnoxoXogxooxowx   x"
+141. "n     f   kdch  "
+ 58. "lgfn   kgr"
+250. "  Owq)cjsr"
+107. " y"
+ 96. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+       b   dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                        jda"
+ 23. "objectloop"
+ 58. "pq   zz"
+150. "lorkgr"
+ 39. "gvhkgr"
+  2. " ka                 "
+ 53. "                                          H                   X          
+        7                   )                  An                  B          
+"
+  3. "n"
+ 48. "lgg"
+  7. "rUkgr"
+ 43. "                                                                         
+                                                                               
+                                                                               
+                                                         m                     
+                      o                     a                     s            
+    b   y           a         j                 d                c  e      q   
+       c         e                 g   w           f         k                 
+   w                 j   q           i         b                 l   p         
+ k         a                 n   m           m         a                 p   m 
+         o                            r   p           q         d              
+  t   z           s         p                 v   b           u         x      
+          x   f           w                            z   q         "
+  0. "       "
+224. "              x   f           w                            z   q        
+"
+111. "  g c                          i c                          k c         
+C             m c          S             o c          0             q c        
+ '             s c          ac             u c          as             w c     
+    bc             y c          bs                c          cc               
+c          cs                c          dc                c         
+ds3c5lbstbdlb"
+  5. "       l                      b                     t                    
+ j                      f                      r                      e        
+            u                     h                     a                     
+t                      g                      y                      o         
+           a                      z                      m                     
+                     v                      i                                  
+           p                      d                      w                     
+k                                              r                      e        
+            v                      l                                          
+k                      a         "
+ 48. "jbb"
+ 37. "zv "
+160. "kchys          k       h    "
+175. "t"
+254. "            v                      l                                     
+     k                      a         "
+ 79. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                              
+a   c   ladlatlbdlbtlcdlcniwv:vpt     0    "
+ 72. "                      z   q         "
+143. "   j"
+140. "               dw                   dz                    d8 "
+176. "nhlcn"
+ 63. "      f       fyk "
+  2. "unltkxr   ltf"
+200.  no-preposition
+  0. " k i   "
+211. "                   l                      b                     t        
+             j                      f                      r                   
+  e                     u                     h                     a          
+           t                      g                      y                     
+o                     a                      z                      m          
+                                v                      i                       
+                      p                      d                      w          
+           k                                              r                    
+ e                     v                      l                                
+          k                      a         "
+ 95. "bewpabewpabdlhpdpabedarczixcnhlcn"
+ 29. "     fz"
+255. "    xs   kprta"
+232. "    lk rm    l  ru   hb  Room 53"
+140. "slckgr"
+207. "e    ce6zdnh    gdlg   glq    p iqui"
+ 72. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                    b  
+dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz                          
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                             jda"
+160.  no-preposition
+212. "c  c  c  c  c  c  c  c  c  c   s                                         
+                                                                               
+                                                                               
+              cgk "
+ 72. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                    b  
+dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz                          
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                             jda"
+  2. "      q           c         e                 g   w           f         k
+                    w                 j   q           i         b              
+  l   p           k         a                 n   m           m         a      
+          p   m           o                            r   p           q       
+ d                 t   z           s         p                 v   b          
+u         x                 x   f           w                            z   q 
+       "
+200.  no-preposition
+  0. " k i   "
+208. "                   l                      b                     t        
+             j                      f                      r                   
+  e                     u                     h                     a          
+           t                      g                      y                     
+o                     a                      z                      m          
+                                v                      i                       
+                      p                      d                      w          
+           k                                              r                    
+ e                     v                      l                                
+          k                      a         "
+ 95. "bewpabewpabdlhpdpabedarczixcnhlcn"
+ 29. "     fz"
+255. "    xs   kprta"
+140. "    lk rm    l  ru   hb  Room 53"
+207. "e    ce6zdnh    gdlg   glq    p iqui"
+ 72. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                    b  
+dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz                          
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                             jda"
+254. " dh        xs   kprta"
+  3. "gu   a"
+  1. "                             o                     a                    
+s                 b   y           a         j                 d               
+c  e      q           c         e                 g   w           f         k  
+                  w                 j   q           i         b                
+l   p           k         a                 n   m           m         a        
+        p   m           o                            r   p           q        
+d                 t   z           s         p                 v   b           u
+        x                 x   f           w                            z   q   
+     "
+176. "py"
+  2. "    xs   kprta"
+198.  no-preposition
+ 83. "  e      q           c         e                 g   w           f       
+ k                     w                 j   q           i         b           
+     l   p           k         a                 n   m           m         a   
+             p   m           o                            r   p           q    
+    d                 t   z           s         p                 v   b        
+  u         x                 x   f           w                            z  
+q         "
+ 21. "kgj"
+191. ")z"
+ 82. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+              b   dgctgcvgcxgczgd   d   nntfrxf     P p  zz   p pzzezzz        
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                               jda"
+140.  no-preposition
+226. "e    ce6zdnh    gdlg   glq    p iqui"

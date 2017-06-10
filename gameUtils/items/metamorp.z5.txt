@@ -1,0 +1,192 @@
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (Supervisor)
+ (darkness object)
+ (self object)
+ Changeable
+ Changeable_1
+ Changeable_10
+ Changeable_11
+ Changeable_12
+ Changeable_13
+ Changeable_14
+ Changeable_15
+ Changeable_16
+ Changeable_17
+ Changeable_18
+ Changeable_19
+ Changeable_2
+ Changeable_20
+ Changeable_21
+ Changeable_22
+ Changeable_23
+ Changeable_24
+ Changeable_25
+ Changeable_26
+ Changeable_27
+ Changeable_28
+ Changeable_29
+ Changeable_3
+ Changeable_30
+ Changeable_31
+ Changeable_32
+ Changeable_33
+ Changeable_34
+ Changeable_35
+ Changeable_36
+ Changeable_37
+ Changeable_38
+ Changeable_39
+ Changeable_4
+ Changeable_40
+ Changeable_41
+ Changeable_42
+ Changeable_43
+ Changeable_44
+ Changeable_45
+ Changeable_46
+ Changeable_47
+ Changeable_48
+ Changeable_49
+ Changeable_5
+ Changeable_50
+ Changeable_51
+ Changeable_6
+ Changeable_7
+ Changeable_8
+ Changeable_9
+ CompassDirection
+ Key
+ London
+ London theater
+ Maria
+ Mirage
+ Moorish archway
+ New World
+ Notre Dame
+ Onulet
+ Optical
+ Paris
+ Pope
+ Rome
+ Room
+ ancient bell
+ ancient mirror
+ baker's wife
+ ball of yarn
+ bird's body
+ bird's frame
+ birds
+ branch of bells
+ brown dress
+ butterfly
+ button
+ cardinals
+ ceiling
+ celestial clockwork
+ church
+ clockwork bird
+ compass
+ concave mirror
+ contraption
+ crystals
+ dancers' costumes
+ dancers' faces
+ dark hole
+ delicate key
+ dial
+ diviner
+ dungeons
+ east wall
+ elephant
+ enormous crank
+ filigreed cages
+ floor
+ footholds
+ furnace
+ geometric patterns
+ glass frogs
+ glass leaves
+ glass trees
+ gondola
+ gondolier
+ grating
+ hinges
+ inside
+ keyhole
+ koi
+ ladder
+ ladies
+ lake surface
+ landing
+ large paving stone
+ lever
+ light hole
+ lilies
+ magnifying glass
+ master
+ master's house
+ mill
+ mirrors
+ moon
+ mouse
+ native village
+ needle
+ niche
+ north wall
+ northeast wall
+ northwest wall
+ ocean
+ old house
+ outside
+ oven
+ pair of human dancers
+ passage
+ peddlers
+ pedestal
+ perfect cube
+ perfect dodecahedron
+ perfect icosahedron
+ perfect octahedron
+ perfect tetrahedron
+ pirate ships
+ placard
+ placards
+ pole
+ priest
+ pulley
+ queen
+ ring
+ robe
+ rock
+ round apple
+ ruins
+ rumbling noise
+ silvered door
+ slippers
+ south wall
+ southeast wall
+ southwest wall
+ stars
+ statue of a woman
+ statue of a young man
+ statue's face
+ statue's head
+ statue's mantle
+ steam-operated staircase
+ sturdy key
+ tiny images
+ tower stairs
+ trade ships
+ tube
+ vellum scroll
+ village
+ walls
+ water
+ west wall
+ windows
+ workbox
+ wrecks
+ xk 
+

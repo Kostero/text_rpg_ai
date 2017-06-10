@@ -1,0 +1,34 @@
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (QDefault)
+ (darkness object)
+ (in_holding)
+ (self object)
+ CompassDirection
+ Your life
+ b   tbu   
+ ceiling
+ compass
+ east wall
+ exam
+ floor
+ friends
+ inside
+ kjtas wdh
+ man
+ north wall
+ northeast wall
+ northwest wall
+ other people
+ outside
+ shadow
+ south wall
+ southeast wall
+ southwest wall
+ tiredness
+ unrealistic
+ west wall
+ work
+ yd 
+

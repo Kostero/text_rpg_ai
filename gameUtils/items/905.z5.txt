@@ -1,0 +1,70 @@
+  pm)
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (darkness object)
+ (intruder)
+ (self object)
+ Bowman's door
+ Bowman's office
+ CompassDirection
+ ID card
+ Living room
+ Loungent Technologies
+ Loungent Technologies parking lot
+ Pop-Tart
+ back door
+ bathroom
+ bed
+ bedroom
+ bedroom door
+ bk  dcr   
+ car
+ clean clothing
+ compass
+ corpse
+ counter
+ cubicle
+ desk
+ dirty laundry
+ door
+ dresser
+ driver's license
+ driveway
+ east
+ end table
+ form
+ front door
+ furniture
+ gold watch
+ ground
+ house
+ inside
+ keys
+ kitchenette
+ living room
+ north
+ northeast
+ northwest
+ note
+ outside
+ parking lot
+ pen
+ reception area
+ shower
+ sink
+ slot
+ soiled clothing
+ south
+ southeast
+ southwest
+ telephone
+ toaster
+ toilet
+ trunk
+ txmPutting things on 
+ up above
+ wallet
+ west
+

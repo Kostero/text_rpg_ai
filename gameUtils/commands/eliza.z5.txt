@@ -1,0 +1,123 @@
+
+Story file is games/eliza.z5
+
+    **** Parse tables ****
+
+  Verb entries = 22
+
+255. 2 entries, verb = "can"
+    [00 01 42 08 a8 0f]       "can you"
+    [00 02 42 07 f4 0f]       "can i"
+
+254. 2 entries, verb = "you"
+    [00 03 42 07 88 0f]       "you are"
+    [00 04 0f]                "you"
+
+253. 1 entry, verb = "you're"
+    [00 03 0f]                "you're"
+
+252. 5 entries, verb = "i"
+    [00 05 42 07 b5 0f]       "i don't"
+    [00 06 42 07 c7 0f]       "i feel"
+    [00 07 42 07 9a 0f]       "i can't"
+    [00 08 42 07 7f 0f]       "i am"
+    [00 09 42 08 57 0f]       "i want"
+
+251. 3 entries, verb = "why"
+    [00 0a 42 07 b5 42 08 a8 0f] "why don't you"
+    [00 0b 42 07 9a 42 07 f4 0f] "why can't i"
+    [00 0c 0f]                "why"
+
+250. 1 entry, verb = "are"
+    [00 0d 42 08 a8 0f]       "are you"
+
+249. 1 entry, verb = "i'm"
+    [00 08 0f]                "i'm"
+
+248. 1 entry, verb = "how", synonyms = "what", "when", "where", "who"
+    [00 0c 0f]                "how"
+
+247. 1 entry, verb = "name"
+    [00 0e 0f]                "name"
+
+246. 1 entry, verb = "cause"
+    [00 0f 0f]                "cause"
+
+245. 1 entry, verb = "sorry"
+    [00 10 0f]                "sorry"
+
+244. 1 entry, verb = "dream"
+    [00 11 0f]                "dream"
+
+243. 1 entry, verb = "hello", synonyms = "hi"
+    [00 12 0f]                "hello"
+
+242. 1 entry, verb = "maybe"
+    [00 13 0f]                "maybe"
+
+241. 1 entry, verb = "no"
+    [00 14 0f]                "no"
+
+240. 1 entry, verb = "your"
+    [00 15 0f]                "your"
+
+239. 1 entry, verb = "always"
+    [00 16 0f]                "always"
+
+238. 1 entry, verb = "think"
+    [00 17 0f]                "think"
+
+237. 1 entry, verb = "alike"
+    [00 18 0f]                "alike"
+
+236. 1 entry, verb = "yes"
+    [00 19 0f]                "yes"
+
+235. 1 entry, verb = "friend"
+    [00 1a 0f]                "friend"
+
+234. 1 entry, verb = "computer"
+    [00 1b 0f]                "computer"
+
+    **** Verb action routines ****
+
+  Action table entries = 28
+
+action# action-routine "verb..."
+
+  0.  14b8  
+  1.   c30  "can you"
+  2.   c68  "can i"
+  3.   c94  "you are"
+            "you're"
+  4.   e84  "you"
+  5.   cdc  "i don't"
+  6.   d2c  "i feel"
+  7.   dfc  "i can't"
+  8.   e3c  "i am"
+            "i'm"
+  9.   ed0  "i want"
+ 10.   d58  "why don't you"
+ 11.   d94  "why can't i"
+ 12.   f24  "why"
+            "how"
+ 13.   dc0  "are you"
+ 14.   fd0  "name"
+ 15.  1008  "cause"
+ 16.  1054  "sorry"
+ 17.  10c0  "dream"
+ 18.  1108  "hello"
+ 19.  1110  "maybe"
+ 20.  11a0  "no"
+ 21.  120c  "your"
+ 22.  1238  "always"
+ 23.  1290  "think"
+ 24.  12d8  "alike"
+ 25.  135c  "yes"
+ 26.  13a0  "friend"
+ 27.  1428  "computer"
+
+    **** Prepositions ****
+
+  Table entries = 0
+

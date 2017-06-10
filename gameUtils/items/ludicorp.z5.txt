@@ -1,0 +1,264 @@
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ Blunt Knife
+ Board Marker
+ Bunch of Keys
+ Button
+ Car
+ Card Dispenser
+ Card Dispenser Button
+ Card Punching Machine
+ Cartridge Slot
+ ChocolateBar
+ ChocolateBar_1
+ ChocolateBar_10
+ ChocolateBar_11
+ ChocolateBar_12
+ ChocolateBar_13
+ ChocolateBar_14
+ ChocolateBar_15
+ ChocolateBar_16
+ ChocolateBar_17
+ ChocolateBar_18
+ ChocolateBar_19
+ ChocolateBar_2
+ ChocolateBar_20
+ ChocolateBar_21
+ ChocolateBar_22
+ ChocolateBar_23
+ ChocolateBar_24
+ ChocolateBar_25
+ ChocolateBar_26
+ ChocolateBar_27
+ ChocolateBar_28
+ ChocolateBar_29
+ ChocolateBar_3
+ ChocolateBar_30
+ ChocolateBar_31
+ ChocolateBar_32
+ ChocolateBar_33
+ ChocolateBar_34
+ ChocolateBar_35
+ ChocolateBar_36
+ ChocolateBar_37
+ ChocolateBar_38
+ ChocolateBar_39
+ ChocolateBar_4
+ ChocolateBar_40
+ ChocolateBar_41
+ ChocolateBar_42
+ ChocolateBar_43
+ ChocolateBar_44
+ ChocolateBar_45
+ ChocolateBar_46
+ ChocolateBar_47
+ ChocolateBar_48
+ ChocolateBar_49
+ ChocolateBar_5
+ ChocolateBar_50
+ ChocolateBar_51
+ ChocolateBar_6
+ ChocolateBar_7
+ ChocolateBar_8
+ ChocolateBar_9
+ Clingfilm Patch
+ Coffee
+ Coffee Cup
+ Coffee_1
+ Coffee_10
+ Coffee_11
+ Coffee_2
+ Coffee_3
+ Coffee_4
+ Coffee_5
+ Coffee_6
+ Coffee_7
+ Coffee_8
+ Coffee_9
+ Coil of wire
+ CompassDirection
+ Control Panel
+ Cubicles
+ Diesel Generator
+ Dragon Statue
+ Firearm
+ Footprints
+ Fuse
+ Garden (East Side)
+ Garden (North Side)
+ Garden (South Side)
+ Giant Robot
+ Gun
+ Knife
+ Large Duct
+ Leaky Pipe
+ LiquidContainer
+ LiquidSource
+ Long Key
+ Long Ladder
+ Maintanence Stairwell (Bottom)
+ Maintanence Stairwell (Top)
+ Metal Grill
+ Office Building
+ Paper Tray
+ Paper Tree Leaves
+ Pen
+ Plant Pots
+ Printer
+ Printer Button
+ Printer Light
+ PunchCard
+ PunchCard_1
+ PunchCard_10
+ PunchCard_100
+ PunchCard_101
+ PunchCard_11
+ PunchCard_12
+ PunchCard_13
+ PunchCard_14
+ PunchCard_15
+ PunchCard_16
+ PunchCard_17
+ PunchCard_18
+ PunchCard_19
+ PunchCard_2
+ PunchCard_20
+ PunchCard_21
+ PunchCard_22
+ PunchCard_23
+ PunchCard_24
+ PunchCard_25
+ PunchCard_26
+ PunchCard_27
+ PunchCard_28
+ PunchCard_29
+ PunchCard_3
+ PunchCard_30
+ PunchCard_31
+ PunchCard_32
+ PunchCard_33
+ PunchCard_34
+ PunchCard_35
+ PunchCard_36
+ PunchCard_37
+ PunchCard_38
+ PunchCard_39
+ PunchCard_4
+ PunchCard_40
+ PunchCard_41
+ PunchCard_42
+ PunchCard_43
+ PunchCard_44
+ PunchCard_45
+ PunchCard_46
+ PunchCard_47
+ PunchCard_48
+ PunchCard_49
+ PunchCard_5
+ PunchCard_50
+ PunchCard_51
+ PunchCard_52
+ PunchCard_53
+ PunchCard_54
+ PunchCard_55
+ PunchCard_56
+ PunchCard_57
+ PunchCard_58
+ PunchCard_59
+ PunchCard_6
+ PunchCard_60
+ PunchCard_61
+ PunchCard_62
+ PunchCard_63
+ PunchCard_64
+ PunchCard_65
+ PunchCard_66
+ PunchCard_67
+ PunchCard_68
+ PunchCard_69
+ PunchCard_7
+ PunchCard_70
+ PunchCard_71
+ PunchCard_72
+ PunchCard_73
+ PunchCard_74
+ PunchCard_75
+ PunchCard_76
+ PunchCard_77
+ PunchCard_78
+ PunchCard_79
+ PunchCard_8
+ PunchCard_80
+ PunchCard_81
+ PunchCard_82
+ PunchCard_83
+ PunchCard_84
+ PunchCard_85
+ PunchCard_86
+ PunchCard_87
+ PunchCard_88
+ PunchCard_89
+ PunchCard_9
+ PunchCard_90
+ PunchCard_91
+ PunchCard_92
+ PunchCard_93
+ PunchCard_94
+ PunchCard_95
+ PunchCard_96
+ PunchCard_97
+ PunchCard_98
+ PunchCard_99
+ Robot's Plaque
+ Roof (East)
+ Roof (North)
+ Roof (South)
+ Roof (West)
+ Room
+ Scenic
+ Security Cupboard
+ Security Pass
+ Sheet of Paper
+ Sheet of Paper (Printed)
+ Stairwell (First Floor)
+ Stairwell (Ground Floor)
+ Stairwell (Roof)
+ Stairwell (Second Floor)
+ Toner Cartridge
+ Top Of Ladder
+ Vault Door
+ Vault Keypad
+ Waste Disposal Machine
+ Water
+ Water_1
+ Water_10
+ Water_11
+ Water_2
+ Water_3
+ Water_4
+ Water_5
+ Water_6
+ Water_7
+ Water_8
+ Water_9
+ White Board
+ Wild Plants
+ Wooden Table
+ anmwk 
+ ceiling
+ compass
+ east wall
+ floor
+ inside
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ south wall
+ southeast wall
+ southwest wall
+ west wall
+

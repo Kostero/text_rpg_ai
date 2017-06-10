@@ -1,0 +1,308 @@
+  g
+ (Alfalfa_Grave)
+ (Blanc_Grave)
+ (Bugsy_Tomb)
+ (Cathedral_Plaque)
+ (Clark_Tomb)
+ (CommonKnowledge)
+ (Davies_Grave)
+ (Demille_Grave)
+ (Fairbanks_Grave)
+ (FixLeak)
+ (Fleming_Tomb)
+ (Having_Lunch)
+ (Huston_Grave)
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (Lorre_Tomb)
+ (Muni_Grave)
+ (NurseScript_t)
+ (Power_Grave)
+ (Schlesinger_Tomb)
+ (Talmadge_Tomb)
+ (Valentino_Tomb)
+ (Webb_Tomb)
+ (WeightMonitor)
+ (accident)
+ (bb_memo)
+ (busted)
+ (con_memo)
+ (darkness object)
+ (dofilm)
+ (initstage)
+ (mailboy)
+ (npc_temp_npc)
+ (npc_visible_room)
+ (ramp_memo)
+ (self object)
+ (sniffer)
+ (tw_waiting)
+ Bench_Class
+ Cecil B. Demille
+ Cemetery_Room
+ CompassDirection
+ Crypt_Class
+ Crypt_Room
+ Door_Class
+ Flood Control Dam Number 3
+ Grave_Class
+ Jan de Flathead
+ Key
+ KnowledgeTopic
+ MBench_Class
+ McNabb
+ Memo
+ Molex socket
+ Mrs. Heyminflamin
+ Ms. Padderwacker
+ NPC
+ NPC Engine
+ NPC_Engine
+ NPC_Room
+ Outside
+ Outside I.M. Sowritch's Office
+ Plaque_Class
+ Room
+ Script
+ StatNPC
+ Street
+ Track
+ Zork_Room
+ air compressor
+ air nozzle
+ appointment
+ appointment slip
+ aquarium
+ aquarium pump
+ b   pv \
+ back door
+ bags
+ battery pack
+ bench
+ black button
+ black script
+ black switch
+ blue button
+ blue script
+ bookshelves
+ brass plaque
+ bridge
+ brightly colored parrot
+ bulb housing
+ buoy
+ button
+ cable
+ cage
+ camera
+ ceiling
+ cemetery
+ chair
+ chicken suit
+ chimney
+ cinder block
+ claws
+ clear key
+ compass
+ control cable
+ control console
+ copyroom door
+ cot
+ crew
+ cubbyhole
+ dam door
+ deadbolt
+ decorations
+ desk
+ desk drawer
+ dial
+ display monitor
+ display screen
+ dolly
+ door to Sowritch's Office
+ drain pipe
+ drool
+ drool_1
+ drool_2
+ drool_3
+ drool_4
+ drool_5
+ drool_6
+ drool_7
+ dummy_door
+ east
+ east door
+ electric receptacle
+ emergency exit hatch
+ enter key
+ equipment
+ exercise bike
+ featureless wall
+ first dial
+ fish
+ flashlight
+ flexible ducting
+ floor
+ foot pedal
+ gates
+ gauge
+ glass doors
+ grate
+ grating
+ grave
+ green script
+ green slime
+ grue puppet
+ gym door
+ handlebars
+ herself
+ hidden compartment
+ high wall
+ identification badge
+ industrial oven
+ inflated boat
+ inlet pipe
+ inside
+ intake vent
+ interior stage door
+ junction box
+ junction box's lock
+ keypad
+ kitchen table
+ knapsack
+ ladder
+ lake
+ large desk
+ large light
+ large red button
+ large unit
+ leather chair
+ ledge
+ lettering
+ lever
+ lights
+ limbo
+ location
+ lunch sack
+ man
+ manhole
+ match
+ matchbook
+ metal ladder
+ metal platform
+ moldy pulp
+ nameplate
+ needle valve
+ newspaper
+ north
+ northeast
+ northwest
+ note
+ nurse
+ office door
+ ornamental hedge
+ outflow vent
+ outside
+ pair of tiny wires
+ pamphlet
+ paperwork
+ pedals
+ peephole
+ pen
+ photograph
+ photograph_1
+ photograph_2
+ photograph_3
+ photograph_4
+ photograph_5
+ photograph_6
+ photograph_7
+ pile of ashes
+ pile of mangles bodies
+ pile of plastic
+ pink script
+ pipe wrench
+ pipes
+ pirate ship
+ platform
+ pneumatic tubes
+ poster
+ power cord
+ power house door
+ power indicator
+ power switch
+ prop box
+ prop cheese
+ purple script
+ ramp
+ reception desk
+ recharger unit
+ red script
+ rehearsal hall door
+ release form
+ roof
+ rooftop door
+ roses
+ rug
+ rungs
+ sandbag
+ sandwich
+ screwdriver
+ scripts
+ second dial
+ secret door
+ section of track
+ security guard
+ shed door
+ sign
+ skate wheels
+ skeleton key
+ slot
+ small fountain
+ small mirror
+ small placard
+ small water tank
+ smoke
+ smudges
+ sounds
+ south
+ southeast
+ southwest
+ special effects squib
+ spigot
+ sprinkler head
+ stack of various scripts
+ stage door
+ stairs
+ strange contraption
+ theatre door
+ third dial
+ time
+ trapdoor
+ treadmill
+ treasure chest
+ trophy case
+ tube
+ ukulele
+ unmarked door
+ wardrobe
+ water
+ water tank
+ water tower
+ west
+ west door
+ wheeled device
+ wheeled valve
+ white button
+ window
+ woman
+ wooden cabinet
+ wooden door
+ wooden pole
+ workbench
+ writing
+ yellow script
+ your    fI'm osqcan am
+ your name
+ yourself
+

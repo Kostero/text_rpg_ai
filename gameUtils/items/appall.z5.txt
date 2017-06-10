@@ -1,0 +1,29 @@
+    j
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ .
+ CompassDirection
+ Room
+ Room #-1001
+ Room #-2001
+ Room #-3001
+ STBLibraryMessages
+ b   dH   
+ ceiling
+ compass
+ east wall
+ floor
+ inside
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ room
+ south wall
+ southeast wall
+ southwest wall
+ west wall
+

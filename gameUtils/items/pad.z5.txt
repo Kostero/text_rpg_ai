@@ -1,0 +1,32 @@
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ Baylor School Paddle
+ BendMaster 5000
+ CompassDirection
+ Werkshoppe
+ b   dau   
+ ceiling
+ compass
+ east wall
+ floor
+ inside
+ kid
+ m 
+ m   
+ milquetoast
+ north wall
+ northeast wall
+ northwest wall
+ old man
+ outside
+ receptionist
+ rules sign
+ south wall
+ southeast wall
+ southwest wall
+ west wall
+ young man
+

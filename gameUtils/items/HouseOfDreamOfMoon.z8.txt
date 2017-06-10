@@ -1,0 +1,37 @@
+ 
+    u
+ (I7_property_numberspace_forcer)
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (Value_Property_Holder)
+ (darkness object)
+ CompassDirection
+ K0_kind
+ K102_closet
+ K103_window
+ K104_fluid_container
+ K108_liquid_source
+ K10_player_s_holdall
+ K11_device
+ K1_room
+ K24_animal
+ K25_man
+ K261_detangler_kind
+ K26_woman
+ K282_scroll
+ K29_vehicle
+ K2_thing
+ K3_direction
+ K4_door
+ K5_container
+ K6_supporter
+ K7_backdrop
+ K8_person
+ K98_passkey
+ K99_keychain
+ K9_region
+ b   igoagohir 
+ compass
+

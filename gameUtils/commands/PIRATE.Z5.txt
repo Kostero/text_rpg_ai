@@ -1,0 +1,169 @@
+
+Story file is games/PIRATE.Z5
+
+    **** Parse tables ****
+
+  Verb entries = 36
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "cli", synonyms = "ent", "fol", "go", "pac", "run", "wal"
+    [00 00 00 00 00 00 00 02] "cli"
+
+252. 1 entry, verb = "say"
+    [00 00 00 00 00 00 00 03] "say"
+
+251. 1 entry, verb = "sai"
+    [00 00 00 00 00 00 00 04] "sai"
+
+250. 1 entry, verb = "cat", synonyms = "get", "pic", "pul", "rem", "tak", "wea"
+    [00 00 00 00 00 00 00 05] "cat"
+
+249. 1 entry, verb = "fly"
+    [00 00 00 00 00 00 00 06] "fly"
+
+248. 1 entry, verb = "dro", synonyms = "giv", "lea", "rel", "thr"
+    [00 00 00 00 00 00 00 07] "dro"
+
+247. 1 entry, verb = "dri", synonyms = "eat"
+    [00 00 00 00 00 00 00 08] "dri"
+
+246. 1 entry, verb = "inv"
+    [00 00 00 00 00 00 00 09] "inv"
+
+245. 1 entry, verb = "exa", synonyms = "loo", "wat"
+    [00 00 00 00 00 00 00 0a] "exa"
+
+244. 1 entry, verb = "rea"
+    [00 00 00 00 00 00 00 0b] "rea"
+
+243. 1 entry, verb = "lis"
+    [00 00 00 00 00 00 00 0c] "lis"
+
+242. 1 entry, verb = "sco"
+    [00 00 00 00 00 00 00 0d] "sco"
+
+241. 1 entry, verb = "sav"
+    [00 00 00 00 00 00 00 0e] "sav"
+
+240. 1 entry, verb = "att", synonyms = "kil"
+    [00 00 00 00 00 00 00 0f] "att"
+
+239. 1 entry, verb = "lig"
+    [00 00 00 00 00 00 00 10] "lig"
+
+238. 1 entry, verb = "ope", synonyms = "sha"
+    [00 00 00 00 00 00 00 11] "ope"
+
+237. 1 entry, verb = "unl"
+    [00 00 00 00 00 00 00 12] "unl"
+
+236. 1 entry, verb = "hel"
+    [00 00 00 00 00 00 00 13] "hel"
+
+235. 1 entry, verb = "swi"
+    [00 00 00 00 00 00 00 14] "swi"
+
+234. 1 entry, verb = "qui"
+    [00 00 00 00 00 00 00 15] "qui"
+
+233. 1 entry, verb = "bui", synonyms = "mak"
+    [00 00 00 00 00 00 00 16] "bui"
+
+232. 1 entry, verb = "wak"
+    [00 00 00 00 00 00 00 17] "wak"
+
+231. 1 entry, verb = "set"
+    [00 00 00 00 00 00 00 18] "set"
+
+230. 1 entry, verb = "cas"
+    [00 00 00 00 00 00 00 19] "cas"
+
+229. 1 entry, verb = "dig"
+    [00 00 00 00 00 00 00 1a] "dig"
+
+228. 1 entry, verb = "bur"
+    [00 00 00 00 00 00 00 1b] "bur"
+
+227. 1 entry, verb = "fin"
+    [00 00 00 00 00 00 00 1c] "fin"
+
+226. 1 entry, verb = "jum"
+    [00 00 00 00 00 00 00 1d] "jum"
+
+225. 1 entry, verb = "emp"
+    [00 00 00 00 00 00 00 1e] "emp"
+
+224. 1 entry, verb = "wei"
+    [00 00 00 00 00 00 00 1f] "wei"
+
+223. 1 entry, verb = "bre", synonyms = "sma"
+    [00 00 00 00 00 00 00 20] "bre"
+
+222. 1 entry, verb = "wai"
+    [00 00 00 00 00 00 00 21] "wai"
+
+221. 1 entry, verb = "fee"
+    [00 00 00 00 00 00 00 22] "fee"
+
+220. 1 entry, verb = "clo", synonyms = "shu"
+    [00 00 00 00 00 00 00 23] "clo"
+
+    **** Verb action routines ****
+
+  Action table entries = 36
+
+action# action-routine "verb..."
+
+  0.  3240  "script"
+  1.  3264  "noscript"
+  2.  32f8  "cli"
+  3.  36b8  "say"
+  4.  37a8  "sai"
+  5.  37fc  "cat"
+  6.  3b9c  "fly"
+  7.  3bbc  "dro"
+  8.  3bfc  "dri"
+  9.  3ce8  "inv"
+ 10.  3cfc  "exa"
+ 11.  41b8  "rea"
+ 12.  44b0  "lis"
+ 13.  44d0  "sco"
+ 14.  44e4  "sav"
+ 15.  4500  "att"
+ 16.  4550  "lig"
+ 17.  45a4  "ope"
+ 18.  4874  "unl"
+ 19.  4990  "hel"
+ 20.  4ac0  "swi"
+ 21.  4ad0  "qui"
+ 22.  4ae4  "bui"
+ 23.  4ba4  "wak"
+ 24.  4c10  "set"
+ 25.  4e6c  "cas"
+ 26.  4ea0  "dig"
+ 27.  4fa8  "bur"
+ 28.  4fc8  "fin"
+ 29.  5000  "jum"
+ 30.  5044  "emp"
+ 31.  50c0  "wei"
+ 32.  5100  "bre"
+ 33.  5138  "wai"
+ 34.  518c  "fee"
+ 35.  51cc  "clo"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.     0  
+    **** Prepositions ****
+
+  Table entries = 0
+

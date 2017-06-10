@@ -1,0 +1,29 @@
+ 
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (ValuePropertyHolder_39)
+ (darkness object)
+ (property_numberspace_forcer)
+ 8j  qkmlSj
+ K0_kind
+ K10_man
+ K11_woman
+ K12_animal
+ K13_device
+ K14_vehicle
+ K15_player_s_holdall
+ K16_xstate
+ K1_room
+ K2_thing
+ K3_direction
+ K4_door
+ K5_container
+ K6_supporter
+ K7_backdrop
+ K8_person
+ K9_region
+ VPH_Class
+ b   emm   meavk
+ compass
+

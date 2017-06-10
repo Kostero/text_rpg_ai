@@ -1,0 +1,112 @@
+ 
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ (temp_obj)
+ 1st Black Rook
+ 1st White Rook
+ 2nd Black Rook
+ 2nd White Rook
+ About Creative Commons
+ Above the "Board"
+ Ammo Clip
+ Ammunition Locker
+ Benches
+ Blanket
+ Bunk
+ ChPiece
+ ChSquare
+ Chair
+ Chess Pouch
+ Chute
+ ClimbStuff
+ ClothesChest
+ Coin Sack
+ Cold Food
+ Comfy Couch
+ CompassDirection
+ Creative Commons' License (long)
+ Creative Commons' License (short)
+ CubeRm
+ DG Ware's License
+ Directions You Can Travel
+ Dummy Rook
+ ExitRm
+ Extenda-Ladder
+ Gates
+ Gold Coins
+ GunSafe
+ HandleGrip
+ Hands
+ Help & Info Menu
+ Huge Cube
+ Huge Gun
+ Jets
+ Lift Button
+ Mechanic's Tools
+ Menu
+ Microwave Oven
+ NPC
+ NPC Interaction
+ Nasty Knife
+ Note
+ Object/NPC Actions
+ Office Desk
+ Option
+ Pinball Machine
+ Pucky Pot
+ Radar Equipment
+ Rope-Hook Combo
+ Serving Counter
+ ShapeTop
+ Shower Stall
+ Sickening Odor
+ Sink
+ Snack Counter
+ Sno-Cat
+ Special Commands
+ Spikes
+ Storage Shelf
+ Stuck On The Platform?
+ SwitchOption
+ Tables
+ Ticket Counter
+ Toilet
+ Toilet Tank
+ Tool Chest
+ UFO
+ Upright Piano
+ Urinal
+ Useless Voice Actions
+ Vehicle Lift
+ Vending Coins
+ Vending Machine
+ Warm Clothing
+ Warning Sign
+ Wash Basin
+ Water
+ Water Bottle
+ Whistle
+ Workbench
+ b   v)   
+ compass
+ east
+ floor
+ ground
+ inside
+ north
+ northeast
+ northwest
+ outside
+ separator
+ south
+ southeast
+ southwest
+ up above
+ vehicle
+ west
+ zzz
+

@@ -1,0 +1,134 @@
+ (Achieved Tasks)
+ (BedResponder)
+ (Compass)
+ (DarkAnnouncer)
+ (Floating Home)
+ (Inform Library)
+ (Inform Parser)
+ (Map)
+ (Message Gizmo)
+ (OM__SysObj)
+ (Scenery Imp)
+ (Scope Gizmo)
+ (St_Pancras_Church)
+ (Storage)
+ (UnknownRoom)
+ (finding_items)
+ (thedark)
+ (visiting_places)
+ Actors
+ Basement yard
+ Bob Cratchit, dying
+ Bob's corpse
+ Bob's punch
+ Christmas card
+ Christmas delicacies
+ Christmas tree
+ DistantActors
+ DistantObjects
+ Ebenezer Scrooge
+ Euston Arch
+ Gizmos
+ Inside an opium den
+ King's Cross Station
+ MessageCogs
+ Rooms
+ Sacks
+ ScopeCogs
+ Shoe
+ The Cratchits' back parlour
+ Toy
+ WindowObjects
+ armchair
+ astrakhan coat
+ bed
+ bedroom door
+ blank
+ bowl of punch
+ canary
+ candle
+ cane
+ ceiling
+ chaise longue
+ coat
+ cobbles
+ cold mist
+ cowl
+ crutch
+ curtains
+ decorations
+ door
+ door key
+ door knocker
+ doorman
+ doorway
+ down
+ east
+ filthy mattress
+ finger
+ fireplace
+ floor
+ food
+ frosty window
+ ghost of Christmas Present
+ ghost of Christmas future
+ ghost of Christmas past
+ gilded brass cage
+ glass bottle
+ ground
+ hat
+ holly wreath
+ house
+ in
+ left shoe
+ letter
+ magazine
+ man
+ man in an asktrakhan coat
+ mother
+ mugs
+ night sky
+ north
+ northeast
+ northwest
+ older man
+ opium pipe
+ opium smoke
+ out
+ package
+ papers
+ parlour
+ people passing by
+ right shoe
+ river Thames
+ rug
+ scrap of newspaper
+ sixpence
+ sky
+ sleeping addicts
+ south
+ southeast
+ southwest
+ staff
+ stained shirt
+ stairs
+ sunlight
+ swordstick
+ table
+ tiny bottle
+ toy hammer
+ train
+ up
+ walls
+ west
+ window
+ wooden box
+ wooden peg
+ wooden saw
+ your corpse
+ your mother's shoes
+ your punch
+ yourself in the parlour
+ yourself, dying
+ youth
+

@@ -1,0 +1,25 @@
+  BC i  
+ (Inform Library 6/3)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ CompassDirection
+ Your Bedroom...maybe...
+ b   dM   
+ ceiling
+ compass
+ east wall
+ floor
+ hieve little.
+ inside
+ night maks
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ south wall
+ southeast wall
+ southwest wall
+ west wall
+

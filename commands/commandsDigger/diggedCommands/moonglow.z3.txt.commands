@@ -1,0 +1,47 @@
+move alien
+l east
+get north
+enter window
+move
+invent
+drop pencil
+move orb
+enter orb
+examin west
+drop gloves
+l pencil
+go
+quit
+get window
+move compass
+examin stairs
+make
+move east
+take
+get yourself
+get sunglasses
+draw
+drop floor
+get
+examin window
+push
+wear
+examin
+examin yourself
+get compass
+l north
+move floor
+look
+enter compass
+i
+drop
+l
+examin sunglasses
+enter door
+enter east
+drop orb
+enter
+l south
+x
+drop compass
+l west

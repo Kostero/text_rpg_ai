@@ -1,0 +1,126 @@
+ 
+     
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ Bed
+ Behind Door #1
+ Behind Door #2
+ Behind Door #3
+ C_Door
+ Chair
+ Clothes
+ CompassDirection
+ Desk
+ Don't Look Down
+ DumbObj
+ DumbPer
+ GSDoor
+ GSRoom
+ Item
+ Item_1
+ Item_10
+ Item_11
+ Item_12
+ Item_13
+ Item_14
+ Item_15
+ Item_16
+ Item_17
+ Item_18
+ Item_19
+ Item_2
+ Item_20
+ Item_21
+ Item_22
+ Item_23
+ Item_24
+ Item_25
+ Item_26
+ Item_27
+ Item_28
+ Item_29
+ Item_3
+ Item_30
+ Item_31
+ Item_32
+ Item_33
+ Item_34
+ Item_35
+ Item_36
+ Item_37
+ Item_38
+ Item_39
+ Item_4
+ Item_40
+ Item_41
+ Item_42
+ Item_43
+ Item_44
+ Item_45
+ Item_46
+ Item_47
+ Item_48
+ Item_49
+ Item_5
+ Item_50
+ Item_51
+ Item_6
+ Item_7
+ Item_8
+ Item_9
+ Legs
+ LitRoom
+ My_Door
+ Outside
+ Pants
+ Person
+ Shoes
+ Sign
+ Toilet
+ UWear
+ Vending
+ advertisement
+ b   ely   ye    
+ benches
+ cab driver
+ cart
+ carving
+ ceiling
+ chair
+ children
+ coin slot
+ compass
+ desk
+ east wall
+ floor
+ garbage
+ garbage can
+ guard
+ host
+ hostess
+ inside
+ joggers
+ north wall
+ northeast wall
+ northwest wall
+ orange tree
+ outside
+ qc 
+ quarter
+ salesman
+ south wall
+ southeast wall
+ southwest wall
+ store sign
+ students
+ teacher
+ teller
+ toilet
+ track
+ trees
+ west wall
+ window
+

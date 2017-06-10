@@ -1,0 +1,459 @@
+ (Adventurers)
+ (Akey)
+ (Antiquater)
+ (Asharpkey)
+ (BehindCabinet)
+ (BehindDryer)
+ (BehindWasher)
+ (BehindWitchShelves)
+ (Bend1)
+ (Bkey)
+ (BridgeDoor)
+ (Card1)
+ (Card10)
+ (Card11)
+ (Card12)
+ (Card2)
+ (Card3)
+ (Card4)
+ (Card5)
+ (Card6)
+ (Card7)
+ (Card8)
+ (Card9)
+ (Cell1)
+ (Cell1Door)
+ (Cell2)
+ (Cell2Door)
+ (Cell3)
+ (Cell3Door)
+ (Cell4)
+ (Cell4Door)
+ (Cell5)
+ (Cell5Door)
+ (Cell6)
+ (Cell6Door)
+ (CellarStairs)
+ (Ckey)
+ (ConservatoryDoor)
+ (CrystalView)
+ (Csharpkey)
+ (DeadEnd1)
+ (DeadEnd10)
+ (DeadEnd2)
+ (DeadEnd3)
+ (DeadEnd4)
+ (DeadEnd5)
+ (DeadEnd6)
+ (DeadEnd7)
+ (DeadEnd8)
+ (DeadEnd9)
+ (DirObject)
+ (Disambig_Sample_Object)
+ (Dkey)
+ (Dsharpkey)
+ (DungeonBottomDoor)
+ (DungeonTopDoor)
+ (ETunnel)
+ (EastDoor)
+ (EastLobbyDoor)
+ (Ekey)
+ (Fkey)
+ (Fsharpkey)
+ (Gazenga)
+ (Gkey)
+ (Gsharpkey)
+ (Inform Library)
+ (Inform Parser)
+ (JFF)
+ (JSN)
+ (LevelOut)
+ (LibraryMessages)
+ (Maze1)
+ (Maze2)
+ (Maze3)
+ (Maze4)
+ (Maze5)
+ (Maze6)
+ (Maze7)
+ (Maze8)
+ (MeditationDoor)
+ (NECorner)
+ (NTunnel)
+ (NorthChasm)
+ (NorthLobbyDoor)
+ (PentagramDoor)
+ (SouthChasm)
+ (SouthLobbyDoor)
+ (Station1Pit)
+ (Station5Pit)
+ (StorageDoor)
+ (StudyDoor)
+ (Thiddick)
+ (TreasureList)
+ (Tunnel1)
+ (Tunnel2)
+ (UnderCabinet)
+ (UnderCylinder)
+ (UnderDesk)
+ (UnderDryer)
+ (UnderHole)
+ (UnderScale)
+ (UnderSeats)
+ (UnderSemi)
+ (UnderWasher)
+ (WardrobeDoor)
+ (darkness object)
+ (demon)
+ (firestone)
+ (firstnote)
+ (instafreeze)
+ (knife)
+ (minutehand)
+ (monorail)
+ (myhand)
+ (new self object)
+ (numberbutton)
+ (q1)
+ (q2)
+ (q3)
+ (q4)
+ (q5)
+ (rope)
+ (self object)
+ (stick1)
+ (stick2)
+ (stick3)
+ (stick4)
+ (stick5)
+ (stick6)
+ (tempplace)
+ (thatobj)
+ (thingy)
+ (unconsciousBartamus)
+ (unconsciousMargon)
+ (unconsciousNarchan)
+ (unconsciousRendrax)
+ -
+ Adventurer
+ BehindHider
+ Cell
+ CellDoor
+ Chinese vase
+ CompassDirection
+ DeadEnd
+ Glove
+ HiderPlace
+ MusicalNote
+ MyActor
+ MyBridge
+ MyDoor
+ MyObj
+ MyRoom
+ MyStair
+ Opening
+ Queryable objects
+ RiverRoom
+ ScalePlatform
+ ShoreRoom
+ Treasure
+ TwistyRoom
+ U-shaped pipe
+ UnderHider
+ UsefulBook
+ Waterproof
+ WaxBits
+ WaxBits_1
+ WaxBits_2
+ WaxBits_3
+ WaxBits_4
+ WaxBits_5
+ WaxBits_6
+ adventurer
+ antique harp
+ apple
+ apple seeds
+ apple tree
+ apple_1
+ apple_2
+ apple_3
+ apple_4
+ apple_5
+ apple_6
+ applecore
+ applecore_1
+ applecore_10
+ applecore_11
+ applecore_2
+ applecore_3
+ applecore_4
+ applecore_5
+ applecore_6
+ applecore_7
+ applecore_8
+ applecore_9
+ apples
+ appleseed
+ appleseed_1
+ appleseed_10
+ appleseed_11
+ appleseed_2
+ appleseed_3
+ appleseed_4
+ appleseed_5
+ appleseed_6
+ appleseed_7
+ appleseed_8
+ appleseed_9
+ argyle sock
+ artificial meat pellets
+ b   jymby
+ big waxy lump
+ bits of broken crystal
+ black bottle
+ black rod
+ black stand
+ bleach
+ blue button
+ blue lens
+ blue pool
+ boat
+ books
+ bookshelf
+ booth door
+ bottle of bleach
+ broken syringe
+ brown pants
+ burlap sack
+ cabinet
+ cacophonium
+ candle
+ candles
+ cap
+ cardclass
+ cassetite
+ cassetite_1
+ cassetite_10
+ cassetite_11
+ cassetite_2
+ cassetite_3
+ cassetite_4
+ cassetite_5
+ cassetite_6
+ cassetite_7
+ cassetite_8
+ cassetite_9
+ cauldron
+ cavity
+ ceiling
+ ceramic square
+ chain
+ chemicals
+ clearwater
+ clearwater_1
+ clearwater_2
+ clearwater_3
+ clearwater_4
+ clearwater_5
+ clock
+ clockwork salamander
+ closet
+ clothes dryer
+ coin box
+ coin slot
+ compartment
+ compass
+ control box
+ copper stand
+ corkscrew
+ covered bridge
+ crisscrossing pipes
+ crystal bridge
+ crystal deposit
+ crystal tube
+ cutter
+ cylinder
+ depression
+ desk
+ dial
+ diamonds
+ dictionary
+ digital readout
+ dirt
+ door
+ drawer
+ droa  
+ east wall
+ end of the rope
+ enter button
+ fake candle
+ fine print
+ floor
+ flowerpot
+ giant keyboard
+ ginger root
+ goblin hound
+ goblin hound chow
+ gold pedestal
+ golden locket
+ green crystal
+ high note
+ hinged stalagmite
+ hole
+ hose
+ hour hand
+ hypodermic needle
+ incensestick
+ inside
+ jewel-encrusted egg
+ jewellery box
+ keychain
+ label
+ lamp
+ lantern
+ lava river
+ leather book
+ leather boots
+ left eye socket
+ left platform
+ length of fiberoptic cable
+ letter opener
+ lobby doors
+ low note
+ magic cloak
+ magnet
+ main door to Ornomir's lair
+ metal box
+ mid-range note
+ minerals
+ mug
+ mural
+ musickey
+ nail
+ needle casing
+ needle point
+ niche
+ north wall
+ northeast wall
+ northern door
+ northwest wall
+ numbered button
+ obsidian sphere
+ old blue vest
+ on/off button
+ outside
+ pack
+ pad of sticky notes
+ padded chair
+ painting
+ pearl
+ peephole
+ pen
+ pink jar
+ pipes
+ pit
+ plaques
+ podium
+ potion of Sleeping Death
+ printing
+ purple shirt
+ quarter
+ rare stamps
+ really high note
+ really low note
+ red book
+ red button
+ red lens
+ red light
+ red pool
+ remote control
+ rickety bridge
+ right eye socket
+ right platform
+ river
+ riverwater
+ riverwater_1
+ riverwater_2
+ riverwater_3
+ riverwater_4
+ riverwater_5
+ robot
+ rope
+ rubber stopper
+ ruby cluster
+ sacrificial dagger
+ safe
+ salamander
+ sapling
+ scale
+ seats
+ shapeless chair
+ shards
+ shards_1
+ shards_2
+ shards_3
+ shards_4
+ shards_5
+ shards_6
+ shelf
+ shelves
+ shimmering curtain
+ significant
+ skeleton
+ small wheeled table
+ smallest pipe of the cacophonium
+ south wall
+ southeast wall
+ southwest wall
+ space behind the pipes
+ sprout
+ stairs
+ stalactite
+ stalagmite
+ stalagmites
+ statue
+ statue's hand
+ stickynote
+ stickynote_1
+ stickynote_10
+ stickynote_11
+ stickynote_12
+ stickynote_13
+ stickynote_14
+ stickynote_15
+ stickynote_16
+ stickynote_17
+ stickynote_18
+ stickynote_19
+ stickynote_2
+ stickynote_20
+ stickynote_21
+ stickynote_3
+ stickynote_4
+ stickynote_5
+ stickynote_6
+ stickynote_7
+ stickynote_8
+ stickynote_9
+ stiff parchment
+ stone skull
+ switch
+ sword
+ table
+ thick glove
+ thick gloves
+ tiles
+ torch
+ tunnel
+ unconsciousAdventurer
+ user's manual
+ wand holder
+ washing machine
+ water
+ weight
+ west wall
+ wick
+ wooden chair
+ yellow lens
+ yellow pool
+

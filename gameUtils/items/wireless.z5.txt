@@ -1,0 +1,119 @@
+ (131)
+ (CommonKnowledge)
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (ORKnowledgeTopicReserve)
+ (ORNPCControl)
+ (__ords)
+ (_npcconverseinit)
+ (_okntop_init)
+ (_ol)
+ (_olconverse)
+ (_onc_init)
+ (_onpcvrb_init)
+ (darkness object)
+ (deadend)
+ (e_player_t)
+ (editor_t)
+ (gummo_t)
+ (player_t)
+ (receptionist_t)
+ (self object)
+ (slider_t)
+ 5 1/2" diskette
+ Bedquilt caves
+ CompassDirection
+ Don't Panic badge
+ Feelies
+ Gummo
+ MyObject
+ MyRoom
+ ORDoor
+ ORDynaString
+ ORKnowledgeTopic
+ ORNPC
+ ORNPC_AskTellLearn
+ ORNPC_converse
+ ORNPC_doverb
+ ORNPC_interact
+ OROptionList
+ Our Humble Editor
+ Writer
+ a aspadistra
+ a copy of God's Rude Wireless
+ above
+ adventure games
+ adventureland
+ anathema
+ article
+ bell
+ below
+ chair
+ changing
+ cigar burns
+ coffee stains
+ coffee table
+ compass
+ desk
+ deskshell
+ e advent
+ e appointment
+ e companies
+ e hitchhikers
+ e level9
+ e magnetic
+ e micro
+ e natural
+ e origins
+ e research
+ e task
+ e ungames
+ e withheld
+ e woods
+ east
+ editor
+ furniture
+ game box
+ graphics
+ hello
+ hobbyists
+ infocom
+ ink stains
+ inside
+ list of sources
+ magazine
+ memo
+ microscopic space fleet
+ north
+ northeast
+ northwest
+ npc_c
+ office door
+ orddest
+ outside
+ p appointment
+ p games
+ p memo
+ painting
+ pair of peril-sensitive sunglasses (cardboard)
+ piece of lint
+ podium
+ r credentials
+ receptionist
+ sheet of computer printout
+ sign
+ small pill
+ south
+ southeast
+ southwest
+ symbols
+ tiny door
+ tiny man
+ tiny sign
+ west
+ white Order For Destruction
+ yellow Order For Destruction
+ z-machine
+

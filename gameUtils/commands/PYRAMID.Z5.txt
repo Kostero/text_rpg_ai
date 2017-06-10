@@ -1,0 +1,213 @@
+
+Story file is games/PYRAMID.Z5
+
+    **** Parse tables ****
+
+  Verb entries = 47
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "cli", synonyms = "ent", "go", "run", "wal"
+    [00 00 00 00 00 00 00 02] "cli"
+
+252. 1 entry, verb = "emp", synonyms = "pou", "spi"
+    [00 00 00 00 00 00 00 03] "emp"
+
+251. 1 entry, verb = "hel"
+    [00 00 00 00 00 00 00 04] "hel"
+
+250. 1 entry, verb = "get", synonyms = "tak"
+    [00 00 00 00 00 00 00 05] "get"
+
+249. 1 entry, verb = "rea"
+    [00 00 00 00 00 00 00 06] "rea"
+
+248. 1 entry, verb = "bre"
+    [00 00 00 00 00 00 00 07] "bre"
+
+247. 1 entry, verb = "ope", synonyms = "unl"
+    [00 00 00 00 00 00 00 08] "ope"
+
+246. 1 entry, verb = "sco"
+    [00 00 00 00 00 00 00 09] "sco"
+
+245. 1 entry, verb = "qui"
+    [00 00 00 00 00 00 00 0a] "qui"
+
+244. 1 entry, verb = "dro", synonyms = "lea", "put"
+    [00 00 00 00 00 00 00 0b] "dro"
+
+243. 1 entry, verb = "pet"
+    [00 00 00 00 00 00 00 0c] "pet"
+
+242. 1 entry, verb = "att", synonyms = "kil"
+    [00 00 00 00 00 00 00 0d] "att"
+
+241. 1 entry, verb = "sho"
+    [00 00 00 00 00 00 00 0e] "sho"
+
+240. 1 entry, verb = "yes"
+    [00 00 00 00 00 00 00 0f] "yes"
+
+239. 1 entry, verb = "bur"
+    [00 00 00 00 00 00 00 10] "bur"
+
+238. 1 entry, verb = "dig"
+    [00 00 00 00 00 00 00 11] "dig"
+
+237. 1 entry, verb = "fla", synonyms = "lig"
+    [00 00 00 00 00 00 00 12] "fla"
+
+236. 1 entry, verb = "loo", synonyms = "sea"
+    [00 00 00 00 00 00 00 13] "loo"
+
+235. 1 entry, verb = "pla"
+    [00 00 00 00 00 00 00 14] "pla"
+
+234. 1 entry, verb = "bal"
+    [00 00 00 00 00 00 00 15] "bal"
+
+233. 1 entry, verb = "rub"
+    [00 00 00 00 00 00 00 16] "rub"
+
+232. 1 entry, verb = "gra", synonyms = "pul"
+    [00 00 00 00 00 00 00 17] "gra"
+
+231. 1 entry, verb = "clo", synonyms = "shu"
+    [00 00 00 00 00 00 00 18] "clo"
+
+230. 1 entry, verb = "thr"
+    [00 00 00 00 00 00 00 19] "thr"
+
+229. 1 entry, verb = "saw"
+    [00 00 00 00 00 00 00 1a] "saw"
+
+228. 1 entry, verb = "wea"
+    [00 00 00 00 00 00 00 1b] "wea"
+
+227. 1 entry, verb = "glo"
+    [00 00 00 00 00 00 00 1c] "glo"
+
+226. 1 entry, verb = "dri"
+    [00 00 00 00 00 00 00 1d] "dri"
+
+225. 1 entry, verb = "sav"
+    [00 00 00 00 00 00 00 1e] "sav"
+
+224. 1 entry, verb = "inv"
+    [00 00 00 00 00 00 00 1f] "inv"
+
+223. 1 entry, verb = "dra"
+    [00 00 00 00 00 00 00 20] "dra"
+
+222. 1 entry, verb = "loa"
+    [00 00 00 00 00 00 00 21] "loa"
+
+221. 1 entry, verb = "smo"
+    [00 00 00 00 00 00 00 22] "smo"
+
+220. 1 entry, verb = "swi"
+    [00 00 00 00 00 00 00 23] "swi"
+
+219. 1 entry, verb = "jum"
+    [00 00 00 00 00 00 00 24] "jum"
+
+218. 1 entry, verb = "pus", synonyms = "sha", "sme", "wav"
+    [00 00 00 00 00 00 00 25] "pus"
+
+217. 1 entry, verb = "rem"
+    [00 00 00 00 00 00 00 26] "rem"
+
+216. 1 entry, verb = "eat"
+    [00 00 00 00 00 00 00 27] "eat"
+
+215. 1 entry, verb = "wet"
+    [00 00 00 00 00 00 00 28] "wet"
+
+214. 1 entry, verb = "ask", synonyms = "kic", "say", "scr", "tal", "tic", "yel"
+    [00 00 00 00 00 00 00 29] "ask"
+
+213. 1 entry, verb = "hug"
+    [00 00 00 00 00 00 00 2a] "hug"
+
+212. 1 entry, verb = "unc"
+    [00 00 00 00 00 00 00 2b] "unc"
+
+211. 1 entry, verb = "cle", synonyms = "was"
+    [00 00 00 00 00 00 00 2c] "cle"
+
+210. 1 entry, verb = "fee", synonyms = "gro", "tou"
+    [00 00 00 00 00 00 00 2d] "fee"
+
+209. 1 entry, verb = "hit", synonyms = "pun"
+    [00 00 00 00 00 00 00 2e] "hit"
+
+    **** Verb action routines ****
+
+  Action table entries = 47
+
+action# action-routine "verb..."
+
+  0.  3834  "script"
+  1.  3858  "noscript"
+  2.  38a4  "cli"
+  3.  3e64  "emp"
+  4.  3f44  "hel"
+  5.  3f90  "get"
+  6.  4564  "rea"
+  7.  471c  "bre"
+  8.  47c8  "ope"
+  9.  4ac0  "sco"
+ 10.  4ad4  "qui"
+ 11.  4ae8  "dro"
+ 12.  4af8  "pet"
+ 13.  4b08  "att"
+ 14.  4b70  "sho"
+ 15.  4d00  "yes"
+ 16.  4d24  "bur"
+ 17.  4d44  "dig"
+ 18.  4e8c  "fla"
+ 19.  4ec0  "loo"
+ 20.  5268  "pla"
+ 21.  5314  "bal"
+ 22.  5324  "rub"
+ 23.  534c  "gra"
+ 24.  54a0  "clo"
+ 25.  54dc  "thr"
+ 26.  5604  "saw"
+ 27.  570c  "wea"
+ 28.  5738  "glo"
+ 29.  5748  "dri"
+ 30.  57bc  "sav"
+ 31.  57d8  "inv"
+ 32.  57f0  "dra"
+ 33.  5800  "loa"
+ 34.  5844  "smo"
+ 35.  587c  "swi"
+ 36.  58cc  "jum"
+ 37.  5920  "pus"
+ 38.  594c  "rem"
+ 39.  5978  "eat"
+ 40.  59ac  "wet"
+ 41.  59c8  "ask"
+ 42.  5a28  "hug"
+ 43.  5a38  "unc"
+ 44.  5a6c  "cle"
+ 45.  5ae8  "fee"
+ 46.  5bb4  "hit"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.     0  
+    **** Prepositions ****
+
+  Table entries = 0
+

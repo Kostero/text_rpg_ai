@@ -1,0 +1,272 @@
+ (CavePlayer)
+ (CaveScenario)
+ (CollegePlayer)
+ (CollegeScenario)
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (MagicPlayer)
+ (MagicScenario)
+ (MainScenario)
+ (SciencePlayer)
+ (ScienceScenario)
+ (SpacePlayer)
+ (SpaceScenario)
+ (StandardPlayer)
+ (awkgrep_spell)
+ (bismol_spell)
+ (board)
+ (calendars)
+ (clipboard)
+ (conversation_engine)
+ (darkness object)
+ (disembarkv)
+ (eldspa_spell)
+ (fastenv)
+ (foobar_spell)
+ (formic_spell)
+ (fossils)
+ (funyun_spell)
+ (geordi_spell)
+ (memory)
+ (perlsed_spell)
+ (reconfigurev)
+ (scrutinizev)
+ (self object)
+ (undov)
+ 3rd Floor Balcony
+ 3rd floor balcony
+ Adam Kaplan
+ Bracelet of Citrus Resistance
+ Canadian quarter
+ Carelka quarter
+ Coffee
+ Coin
+ CompassDirection
+ Computer
+ Daniel Helfman
+ Darkroom
+ Do'papoc
+ Dr. Prugrave
+ Dr. Prugrave's moustache
+ Duran
+ Ernie
+ Ernie's rags
+ Ethernet hub
+ Frederick Lee
+ Geek
+ LED
+ Lalrry
+ Leonard Richardson
+ MagicDarkRoom
+ Mark Fasheh
+ Organ
+ ParserControlSwitch
+ Pokemon cards
+ R'''g'
+ Room
+ Sack of Infinite Capacity
+ Scenario
+ ShipRoom
+ Spell
+ SpellBook
+ Spellcaster
+ Stalagmite 13
+ Tim the demon
+ Tourists
+ Transferable
+ Treasure
+ Y-shaped junction
+ airlock hatch
+ apparatus
+ arcade games
+ archway
+ axe
+ bag of Eldritch Farm cookies
+ battery compartment
+ battery-powered car
+ black mold
+ blob of white goo
+ blue switch
+ book of lore
+ book on soil mechanics
+ bookshelves
+ bottle of cola
+ box of juice
+ brass lantern
+ bread crumb
+ button
+ cable
+ calcite waterfalls
+ candy bar
+ canister of vintage celluloid
+ canvas cot
+ carbohydrate molecule
+ carbon atom
+ carts
+ cash register
+ cashier
+ ceiling
+ charts of the geologic column
+ chasm
+ chisels
+ chocolate donut
+ cliff
+ coat
+ cobblestones
+ coffeemaker
+ coin tray
+ communication screen
+ compass
+ computer
+ computers
+ concession stand
+ copy of the Clamshell Book
+ cords
+ corn dog
+ couch
+ counter
+ cup of coffee
+ dancing frog
+ digital watch
+ directed graph
+ double door
+ dull lights
+ dust
+ east wall
+ elven tourists
+ fabulous prizes
+ fire
+ flip-flop sandals
+ floor
+ garden
+ gauges and dials
+ geeky drawings
+ glass slide
+ gold
+ granite figure
+ hammers
+ harvest moon
+ hat
+ hatch leading down
+ hatch leading upwards
+ horde of rats
+ identity bracelet
+ inaccurate globe
+ inside
+ jade idol
+ kuato
+ lab equipment
+ left coin slot
+ licorice rope
+ loud tourists
+ makeshift walls
+ manual of demonology
+ merry-go-round
+ metal box
+ metal rings
+ metal tray
+ microgravity bunks
+ miner's helmet
+ miscellaneous reading material
+ miscellaneous writing utensils
+ nametag
+ nondescript stalagmites
+ north wall
+ northeast wall
+ northwest wall
+ notebook
+ oaken door
+ oaken table
+ obnoxious parrot
+ old newspapers
+ operating table
+ orange switch
+ orcish tourists
+ other machines
+ outside
+ overhead lamps
+ pack
+ pair of handcuffs
+ palm trees
+ pieces of slate
+ pile of cups and bottles
+ plasma
+ plastic tray
+ plush frog
+ pocket
+ pop
+ posterboards
+ pricing signs
+ qsm_slot
+ quark
+ quarter shining machine
+ quartz crystals
+ radiating tomes
+ rare stamps
+ red carpet
+ red ribbon
+ refrigerated containers
+ rei
+ rekn0g_spell
+ rickety stairway
+ right coin slot
+ rocks
+ rollable whiteboard
+ rope bridge
+ rubber alien
+ rusty hook
+ rusty sign
+ sandwich quarter
+ sanitary facilities
+ school-issue spellbook
+ series of lights
+ shapeless blob of brown wax
+ sheepish goblin
+ shiny paperclip
+ shiny stone
+ shiny trophy
+ ship
+ shirt
+ sign
+ slight depression
+ small cameras
+ small crouton
+ small receptacle
+ snurks
+ south wall
+ southeast wall
+ southwest wall
+ speaker
+ spelling book
+ spinning electromagnets
+ strapping warrior
+ straw hat
+ stuffed parrot
+ swaying bridge
+ sword of a certain description
+ symbiotic tattoo
+ tables
+ tarnished quarter
+ thick rope
+ tie
+ toaster strudel
+ top hat
+ tour guide
+ troll
+ twisty little edges
+ verb guessing booth
+ wall panels
+ warlock's spellbook
+ waterfall
+ west wall
+ wet grass
+ wheel of fortune
+ white table
+ winding stairway
+ wire racks
+ wooden gate
+ wristwatch with compass
+ xorn
+
+

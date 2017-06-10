@@ -1,0 +1,42 @@
+ 
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (ValuePropertyHolder)
+ (darkness object)
+ (property_numberspace_forcer)
+ CompassDirection
+ K0_kind
+ K1_room
+ K23_man
+ K24_woman
+ K25_animal
+ K26_device
+ K27_vehicle
+ K28_player_s_holdall
+ K29_window
+ K2_thing
+ K30_passkey
+ K31_keychain
+ K32_weapon
+ K33_computerus
+ K34_keyboard
+ K35_screen
+ K36_mouse
+ K37_clock
+ K38_password
+ K39_handle
+ K3_direction
+ K40_keyhole
+ K43_dog
+ K44_rope
+ K4_door
+ K5_container
+ K6_supporter
+ K7_backdrop
+ K8_person
+ K9_region
+ b   rwybw
+ clt
+ compass
+

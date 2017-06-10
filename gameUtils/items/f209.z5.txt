@@ -1,0 +1,38 @@
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ CompassDirection
+ b   dbh   
+ can of cat food
+ can opener
+ car keys
+ cat food bowl
+ ceiling
+ compass
+ east wall
+ floor
+ front door
+ ft dc
+ gross cat food
+ ind nothing of interest.
+ inside
+ large suitcase
+ large, hateful cat
+ light switch
+ north wall
+ northeast wall
+ northwest wall
+ note from the author
+ outside
+ plastic flashlight
+ random stuff
+ shiny blue car
+ south wall
+ southeast wall
+ southwest wall
+ stairs
+ steel bar
+ west wall
+

@@ -1,0 +1,119 @@
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (VersionTag)
+ (darkness object)
+ (self object)
+ Changes
+ Commands - Basic
+ Commands - Special
+ CompassDirection
+ Credits
+ Graphics font
+ HintClass
+ HintMain
+ Hints
+ History
+ How all the points are scored
+ How do I cross the stream?
+ I'm inside the room I broke into!
+ I'm on a Street outside the Bar
+ Introduction
+ Menu
+ Notes
+ Notification
+ Option
+ Preferances
+ Room
+ Statusline
+ SwitchOption
+ SwitchOption Be Gone!
+ System Info
+ TV
+ Verbosity
+ Walkthrough
+ adventureboy magazine
+ apple
+ ashtray
+ bartender
+ bed
+ beer
+ big dude!
+ billboard
+ bottle of wine
+ bum
+ bushes
+ businessman
+ button
+ cabinet
+ candy
+ cards
+ ceiling
+ center.h
+ closet
+ compass
+ compass_rose.inf
+ curtain
+ dealer
+ desk
+ dirs.h
+ display rack
+ door to the west
+ east wall
+ elevator
+ floor
+ flowers
+ funky hooker
+ garbage
+ girl
+ graffiti
+ hammer
+ inflatable doll
+ inside
+ l  
+ me
+ menus.h
+ mirror
+ mushroom
+ newspaper
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ passcard
+ peep hole
+ pills
+ pitcher
+ plant
+ pocket knife
+ preacher
+ radio
+ remote control unit
+ rope
+ rubber
+ seeds
+ shot of whiskey
+ sign
+ sink
+ slot machines
+ smartcantgo.h
+ south wall
+ southeast wall
+ southwest wall
+ stool
+ table
+ taxi
+ telephone
+ the core of an apple
+ toilet
+ tree
+ version.h
+ voluptous blonde
+ waitress
+ wallet
+ washbasin
+ water
+ wedding ring
+ west wall
+ window
+

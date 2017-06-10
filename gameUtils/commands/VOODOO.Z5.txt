@@ -1,0 +1,173 @@
+
+Story file is games/VOODOO.Z5
+
+    **** Parse tables ****
+
+  Verb entries = 37
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "cli", synonyms = "ent", "go", "run", "wal"
+    [00 00 00 00 00 00 00 02] "cli"
+
+252. 1 entry, verb = "get", synonyms = "pic", "pul", "rem", "tak"
+    [00 00 00 00 00 00 00 03] "get"
+
+251. 1 entry, verb = "hel", synonyms = "res"
+    [00 00 00 00 00 00 00 04] "hel"
+
+250. 1 entry, verb = "dro", synonyms = "lea", "put", "thr"
+    [00 00 00 00 00 00 00 05] "dro"
+
+249. 1 entry, verb = "dig"
+    [00 00 00 00 00 00 00 06] "dig"
+
+248. 1 entry, verb = "on"
+    [00 00 00 00 00 00 00 07] "on"
+
+247. 1 entry, verb = "wav"
+    [00 00 00 00 00 00 00 08] "wav"
+
+246. 1 entry, verb = "cle", synonyms = "dus"
+    [00 00 00 00 00 00 00 09] "cle"
+
+245. 1 entry, verb = "pre", synonyms = "pus"
+    [00 00 00 00 00 00 00 0a] "pre"
+
+244. 1 entry, verb = "kic", synonyms = "mov", "sho"
+    [00 00 00 00 00 00 00 0b] "kic"
+
+243. 1 entry, verb = "bre", synonyms = "sma"
+    [00 00 00 00 00 00 00 0c] "bre"
+
+242. 1 entry, verb = "sav"
+    [00 00 00 00 00 00 00 0d] "sav"
+
+241. 1 entry, verb = "rea"
+    [00 00 00 00 00 00 00 0e] "rea"
+
+240. 1 entry, verb = "ope"
+    [00 00 00 00 00 00 00 0f] "ope"
+
+239. 1 entry, verb = "clo"
+    [00 00 00 00 00 00 00 10] "clo"
+
+238. 1 entry, verb = "dia", synonyms = "tur"
+    [00 00 00 00 00 00 00 11] "dia"
+
+237. 1 entry, verb = "exa", synonyms = "loo"
+    [00 00 00 00 00 00 00 12] "exa"
+
+236. 1 entry, verb = "inv"
+    [00 00 00 00 00 00 00 13] "inv"
+
+235. 1 entry, verb = "cir"
+    [00 00 00 00 00 00 00 14] "cir"
+
+234. 1 entry, verb = "qui"
+    [00 00 00 00 00 00 00 15] "qui"
+
+233. 1 entry, verb = "dri", synonyms = "eat"
+    [00 00 00 00 00 00 00 16] "dri"
+
+232. 1 entry, verb = "saw"
+    [00 00 00 00 00 00 00 17] "saw"
+
+231. 1 entry, verb = "mix"
+    [00 00 00 00 00 00 00 18] "mix"
+
+230. 1 entry, verb = "ham"
+    [00 00 00 00 00 00 00 19] "ham"
+
+229. 1 entry, verb = "shr"
+    [00 00 00 00 00 00 00 1a] "shr"
+
+228. 1 entry, verb = "hea", synonyms = "lis"
+    [00 00 00 00 00 00 00 1b] "hea"
+
+227. 1 entry, verb = "sta"
+    [00 00 00 00 00 00 00 1c] "sta"
+
+226. 1 entry, verb = "sha"
+    [00 00 00 00 00 00 00 1d] "sha"
+
+225. 1 entry, verb = "sli"
+    [00 00 00 00 00 00 00 1e] "sli"
+
+224. 1 entry, verb = "dan"
+    [00 00 00 00 00 00 00 1f] "dan"
+
+223. 1 entry, verb = "cry", synonyms = "say", "scr", "sum", "yel"
+    [00 00 00 00 00 00 00 20] "cry"
+
+222. 1 entry, verb = "cut"
+    [00 00 00 00 00 00 00 21] "cut"
+
+221. 1 entry, verb = "rub"
+    [00 00 00 00 00 00 00 22] "rub"
+
+220. 1 entry, verb = "smo"
+    [00 00 00 00 00 00 00 23] "smo"
+
+219. 1 entry, verb = "hug"
+    [00 00 00 00 00 00 00 24] "hug"
+
+    **** Verb action routines ****
+
+  Action table entries = 37
+
+action# action-routine "verb..."
+
+  0.  3188  "script"
+  1.  31ac  "noscript"
+  2.  320c  "cli"
+  3.  3580  "get"
+  4.  3ad8  "hel"
+  5.  3b48  "dro"
+  6.  3b78  "dig"
+  7.  3bf0  "on"
+  8.  3c6c  "wav"
+  9.  3dd8  "cle"
+ 10.  3e2c  "pre"
+ 11.  3ed0  "kic"
+ 12.  3f4c  "bre"
+ 13.  4040  "sav"
+ 14.  405c  "rea"
+ 15.  43a4  "ope"
+ 16.  451c  "clo"
+ 17.  4584  "dia"
+ 18.  46b0  "exa"
+ 19.  4ce0  "inv"
+ 20.  4cf4  "cir"
+ 21.  4d9c  "qui"
+ 22.  4db0  "dri"
+ 23.  4eac  "saw"
+ 24.  4f68  "mix"
+ 25.  4fa0  "ham"
+ 26.  4fb0  "shr"
+ 27.  4fc8  "hea"
+ 28.  517c  "sta"
+ 29.  518c  "sha"
+ 30.  51ac  "sli"
+ 31.  51d0  "dan"
+ 32.  51f4  "cry"
+ 33.  53fc  "cut"
+ 34.  54dc  "rub"
+ 35.  5584  "smo"
+ 36.  55ac  "hug"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.     0  
+    **** Prepositions ****
+
+  Table entries = 0
+

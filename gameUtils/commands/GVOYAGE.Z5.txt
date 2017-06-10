@@ -1,0 +1,182 @@
+
+Story file is games/GVOYAGE.Z5
+
+    **** Parse tables ****
+
+  Verb entries = 39
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "clim", synonyms = "ente", "exit", "go", "proc", "ride",
+                                        "run"
+    [00 00 00 00 00 00 00 02] "clim"
+
+252. 1 entry, verb = "save"
+    [00 00 00 00 00 00 00 03] "save"
+
+251. 1 entry, verb = "dig"
+    [00 00 00 00 00 00 00 04] "dig"
+
+250. 1 entry, verb = "carr", synonyms = "get", "grab", "hold", "stea", "take"
+    [00 00 00 00 00 00 00 05] "carr"
+
+249. 1 entry, verb = "fill"
+    [00 00 00 00 00 00 00 06] "fill"
+
+248. 1 entry, verb = "give"
+    [00 00 00 00 00 00 00 07] "give"
+
+247. 1 entry, verb = "drop", synonyms = "lowe", "put", "thro"
+    [00 00 00 00 00 00 00 08] "drop"
+
+246. 1 entry, verb = "exam", synonyms = "look", "see", "stud", "watc"
+    [00 00 00 00 00 00 00 09] "exam"
+
+245. 1 entry, verb = "navi", synonyms = "sail"
+    [00 00 00 00 00 00 00 0a] "navi"
+
+244. 1 entry, verb = "move", synonyms = "push", "shak", "shov"
+    [00 00 00 00 00 00 00 0b] "move"
+
+243. 1 entry, verb = "open", synonyms = "unlo"
+    [00 00 00 00 00 00 00 0c] "open"
+
+242. 1 entry, verb = "burn", synonyms = "igni", "ligh"
+    [00 00 00 00 00 00 00 0d] "burn"
+
+241. 1 entry, verb = "brea", synonyms = "dest", "smas"
+    [00 00 00 00 00 00 00 0e] "brea"
+
+240. 1 entry, verb = "atta", synonyms = "kill"
+    [00 00 00 00 00 00 00 0f] "atta"
+
+239. 1 entry, verb = "empt"
+    [00 00 00 00 00 00 00 10] "empt"
+
+238. 1 entry, verb = "pour", synonyms = "spil"
+    [00 00 00 00 00 00 00 11] "pour"
+
+237. 1 entry, verb = "unti"
+    [00 00 00 00 00 00 00 12] "unti"
+
+236. 1 entry, verb = "unli"
+    [00 00 00 00 00 00 00 13] "unli"
+
+235. 1 entry, verb = "read"
+    [00 00 00 00 00 00 00 14] "read"
+
+234. 1 entry, verb = "slee"
+    [00 00 00 00 00 00 00 15] "slee"
+
+233. 1 entry, verb = "wear"
+    [00 00 00 00 00 00 00 16] "wear"
+
+232. 1 entry, verb = "remo"
+    [00 00 00 00 00 00 00 17] "remo"
+
+231. 1 entry, verb = "drin"
+    [00 00 00 00 00 00 00 18] "drin"
+
+230. 1 entry, verb = "help"
+    [00 00 00 00 00 00 00 19] "help"
+
+229. 1 entry, verb = "holl", synonyms = "say", "scre", "yell"
+    [00 00 00 00 00 00 00 1a] "holl"
+
+228. 1 entry, verb = "quit"
+    [00 00 00 00 00 00 00 1b] "quit"
+
+227. 1 entry, verb = "inve"
+    [00 00 00 00 00 00 00 1c] "inve"
+
+226. 1 entry, verb = "jump"
+    [00 00 00 00 00 00 00 1d] "jump"
+
+225. 1 entry, verb = "pray"
+    [00 00 00 00 00 00 00 1e] "pray"
+
+224. 1 entry, verb = "tie"
+    [00 00 00 00 00 00 00 1f] "tie"
+
+223. 1 entry, verb = "to"
+    [00 00 00 00 00 00 00 20] "to"
+
+222. 1 entry, verb = "buy", synonyms = "purc"
+    [00 00 00 00 00 00 00 21] "buy"
+
+221. 1 entry, verb = "at", synonyms = "on"
+    [00 00 00 00 00 00 00 22] "at"
+
+220. 1 entry, verb = "in"
+    [00 00 00 00 00 00 00 23] "in"
+
+219. 1 entry, verb = "lift", synonyms = "rais", "weig"
+    [00 00 00 00 00 00 00 24] "lift"
+
+218. 1 entry, verb = "step", synonyms = "walk"
+    [00 00 00 00 00 00 00 25] "step"
+
+217. 1 entry, verb = "wait"
+    [00 00 00 00 00 00 00 26] "wait"
+
+    **** Verb action routines ****
+
+  Action table entries = 39
+
+action# action-routine "verb..."
+
+  0.  346c  "script"
+  1.  3490  "noscript"
+  2.  3504  "clim"
+  3.  3a34  "save"
+  4.  3a50  "dig"
+  5.  3b58  "carr"
+  6.  3f94  "fill"
+  7.  40b8  "give"
+  8.  43d8  "drop"
+  9.  45ac  "exam"
+ 10.  4ad0  "navi"
+ 11.  4e0c  "move"
+ 12.  4e9c  "open"
+ 13.  4f0c  "burn"
+ 14.  4f60  "brea"
+ 15.  4f78  "atta"
+ 16.  4fa4  "empt"
+ 17.  5010  "pour"
+ 18.  503c  "unti"
+ 19.  50a0  "unli"
+ 20.  50d8  "read"
+ 21.  5138  "slee"
+ 22.  5158  "wear"
+ 23.  51c8  "remo"
+ 24.  5210  "drin"
+ 25.  5298  "help"
+ 26.  52b0  "holl"
+ 27.  5324  "quit"
+ 28.  534c  "inve"
+ 29.  5360  "jump"
+ 30.  5388  "pray"
+ 31.  53dc  "tie"
+ 32.  540c  "to"
+ 33.  5450  "buy"
+ 34.  5550  "at"
+ 35.  55bc  "in"
+ 36.  56a8  "lift"
+ 37.  56e4  "step"
+ 38.  5728  "wait"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.     0  
+    **** Prepositions ****
+
+  Table entries = 0
+

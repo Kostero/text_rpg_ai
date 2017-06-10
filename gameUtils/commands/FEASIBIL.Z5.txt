@@ -1,0 +1,185 @@
+
+Story file is games/FEASIBIL.Z5
+
+    **** Parse tables ****
+
+  Verb entries = 40
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "ente", synonyms = "go"
+    [00 00 00 00 00 00 00 02] "ente"
+
+252. 1 entry, verb = "i", synonyms = "inve"
+    [00 00 00 00 00 00 00 03] "i"
+
+251. 1 entry, verb = "q", synonyms = "quit"
+    [00 00 00 00 00 00 00 04] "q"
+
+250. 1 entry, verb = "scor"
+    [00 00 00 00 00 00 00 05] "scor"
+
+249. 1 entry, verb = "help"
+    [00 00 00 00 00 00 00 06] "help"
+
+248. 1 entry, verb = "wait"
+    [00 00 00 00 00 00 00 07] "wait"
+
+247. 1 entry, verb = "save"
+    [00 00 00 00 00 00 00 08] "save"
+
+246. 1 entry, verb = "awb"
+    [00 00 00 00 00 00 00 09] "awb"
+
+245. 1 entry, verb = "get", synonyms = "grab", "t", "take"
+    [00 00 00 00 00 00 00 0a] "get"
+
+244. 1 entry, verb = "dig"
+    [00 00 00 00 00 00 00 0b] "dig"
+
+243. 1 entry, verb = "exam", synonyms = "insp", "sear"
+    [00 00 00 00 00 00 00 0c] "exam"
+
+242. 1 entry, verb = "read"
+    [00 00 00 00 00 00 00 0d] "read"
+
+241. 1 entry, verb = "drop", synonyms = "dump", "leav"
+    [00 00 00 00 00 00 00 0e] "drop"
+
+240. 1 entry, verb = "at"
+    [00 00 00 00 00 00 00 0f] "at"
+
+239. 1 entry, verb = "to"
+    [00 00 00 00 00 00 00 10] "to"
+
+238. 1 entry, verb = "ligh"
+    [00 00 00 00 00 00 00 11] "ligh"
+
+237. 1 entry, verb = "unli"
+    [00 00 00 00 00 00 00 12] "unli"
+
+236. 1 entry, verb = "say"
+    [00 00 00 00 00 00 00 13] "say"
+
+235. 1 entry, verb = "atta", synonyms = "kill"
+    [00 00 00 00 00 00 00 14] "atta"
+
+234. 1 entry, verb = "open", synonyms = "unlo"
+    [00 00 00 00 00 00 00 15] "open"
+
+233. 1 entry, verb = "clos", synonyms = "lock"
+    [00 00 00 00 00 00 00 16] "clos"
+
+232. 1 entry, verb = "chop", synonyms = "cut"
+    [00 00 00 00 00 00 00 17] "chop"
+
+231. 1 entry, verb = "empt", synonyms = "pour"
+    [00 00 00 00 00 00 00 18] "empt"
+
+230. 1 entry, verb = "eat"
+    [00 00 00 00 00 00 00 19] "eat"
+
+229. 1 entry, verb = "buil", synonyms = "make"
+    [00 00 00 00 00 00 00 1a] "buil"
+
+228. 1 entry, verb = "fix", synonyms = "repa"
+    [00 00 00 00 00 00 00 1b] "fix"
+
+227. 1 entry, verb = "use", synonyms = "with"
+    [00 00 00 00 00 00 00 1c] "use"
+
+226. 1 entry, verb = "pray"
+    [00 00 00 00 00 00 00 1d] "pray"
+
+225. 1 entry, verb = "fill"
+    [00 00 00 00 00 00 00 1e] "fill"
+
+224. 1 entry, verb = "fuck", synonyms = "piss"
+    [00 00 00 00 00 00 00 1f] "fuck"
+
+223. 1 entry, verb = "rape"
+    [00 00 00 00 00 00 00 20] "rape"
+
+222. 1 entry, verb = "pres", synonyms = "push"
+    [00 00 00 00 00 00 00 21] "pres"
+
+221. 1 entry, verb = "move"
+    [00 00 00 00 00 00 00 22] "move"
+
+220. 1 entry, verb = "tie"
+    [00 00 00 00 00 00 00 23] "tie"
+
+219. 1 entry, verb = "clim"
+    [00 00 00 00 00 00 00 24] "clim"
+
+218. 1 entry, verb = "remo"
+    [00 00 00 00 00 00 00 25] "remo"
+
+217. 1 entry, verb = "l", synonyms = "look"
+    [00 00 00 00 00 00 00 26] "l"
+
+216. 1 entry, verb = "wear"
+    [00 00 00 00 00 00 00 27] "wear"
+
+    **** Verb action routines ****
+
+  Action table entries = 40
+
+action# action-routine "verb..."
+
+  0.  35f4  "script"
+  1.  3618  "noscript"
+  2.  36c0  "ente"
+  3.  37d8  "i"
+  4.  37ec  "q"
+  5.  3808  "scor"
+  6.  3824  "help"
+  7.  384c  "wait"
+  8.  3918  "save"
+  9.  3934  "awb"
+ 10.  3944  "get"
+ 11.  3a44  "dig"
+ 12.  3a5c  "exam"
+ 13.  41b8  "read"
+ 14.  4238  "drop"
+ 15.  42cc  "at"
+ 16.  42dc  "to"
+ 17.  4330  "ligh"
+ 18.  4380  "unli"
+ 19.  43b0  "say"
+ 20.  43d0  "atta"
+ 21.  44e4  "open"
+ 22.  45a4  "clos"
+ 23.  45c4  "chop"
+ 24.  45d4  "empt"
+ 25.  460c  "eat"
+ 26.  461c  "buil"
+ 27.  462c  "fix"
+ 28.  466c  "use"
+ 29.  47ec  "pray"
+ 30.  4840  "fill"
+ 31.  4880  "fuck"
+ 32.  48a4  "rape"
+ 33.  48cc  "pres"
+ 34.  4c24  "move"
+ 35.  4c78  "tie"
+ 36.  4cb4  "clim"
+ 37.  4d00  "remo"
+ 38.  4d10  "l"
+ 39.  4d3c  "wear"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.     0  
+    **** Prepositions ****
+
+  Table entries = 0
+

@@ -1,0 +1,197 @@
+
+Story file is games/mysterious08.z6
+
+    **** Parse tables ****
+
+  Verb entries = 36
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "go", synonyms = "leav"
+    [00 00 00 00 00 00 00 02] "go"
+
+252. 1 entry, verb = "quit"
+    [00 00 00 00 00 00 00 03] "quit"
+
+251. 1 entry, verb = "save"
+    [00 00 00 00 00 00 00 04] "save"
+
+250. 1 entry, verb = "inve"
+    [00 00 00 00 00 00 00 05] "inve"
+
+249. 1 entry, verb = "scor"
+    [00 00 00 00 00 00 00 06] "scor"
+
+248. 1 entry, verb = "clue", synonyms = "help", "hint"
+    [00 00 00 00 00 00 00 07] "clue"
+
+247. 1 entry, verb = "get", synonyms = "take"
+    [00 00 00 00 00 00 00 08] "get"
+
+246. 1 entry, verb = "wait"
+    [00 00 00 00 00 00 00 09] "wait"
+
+245. 1 entry, verb = "don", synonyms = "wear"
+    [00 00 00 00 00 00 00 0a] "don"
+
+244. 1 entry, verb = "doff", synonyms = "remo"
+    [00 00 00 00 00 00 00 0b] "doff"
+
+243. 1 entry, verb = "clim"
+    [00 00 00 00 00 00 00 0c] "clim"
+
+242. 1 entry, verb = "drop", synonyms = "give", "put"
+    [00 00 00 00 00 00 00 0d] "drop"
+
+241. 1 entry, verb = "you"
+    [00 00 00 00 00 00 00 0e] "you"
+
+240. 1 entry, verb = "exam", synonyms = "fris", "look", "sear"
+    [00 00 00 00 00 00 00 0f] "exam"
+
+239. 1 entry, verb = "open", synonyms = "unlo"
+    [00 00 00 00 00 00 00 10] "open"
+
+238. 1 entry, verb = "atta", synonyms = "kill"
+    [00 00 00 00 00 00 00 11] "atta"
+
+237. 1 entry, verb = "brea", synonyms = "smas"
+    [00 00 00 00 00 00 00 12] "brea"
+
+236. 1 entry, verb = "drin", synonyms = "eat"
+    [00 00 00 00 00 00 00 13] "drin"
+
+235. 1 entry, verb = "wave"
+    [00 00 00 00 00 00 00 14] "wave"
+
+234. 1 entry, verb = "poli", synonyms = "rub"
+    [00 00 00 00 00 00 00 15] "poli"
+
+233. 1 entry, verb = "jump", synonyms = "leap"
+    [00 00 00 00 00 00 00 16] "jump"
+
+232. 1 entry, verb = "read"
+    [00 00 00 00 00 00 00 17] "read"
+
+231. 1 entry, verb = "fit", synonyms = "fix"
+    [00 00 00 00 00 00 00 18] "fit"
+
+230. 1 entry, verb = "say", synonyms = "spea"
+    [00 00 00 00 00 00 00 19] "say"
+
+229. 1 entry, verb = "peda", synonyms = "ride"
+    [00 00 00 00 00 00 00 1a] "peda"
+
+228. 1 entry, verb = "smok"
+    [00 00 00 00 00 00 00 1b] "smok"
+
+227. 1 entry, verb = "bast", synonyms = "boll", "cunt", "fuck", "piss", "shit"
+    [00 00 00 00 00 00 00 1c] "bast"
+
+226. 1 entry, verb = "foll"
+    [00 00 00 00 00 00 00 1d] "foll"
+
+225. 1 entry, verb = "feed"
+    [00 00 00 00 00 00 00 1e] "feed"
+
+224. 1 entry, verb = "move", synonyms = "push"
+    [00 00 00 00 00 00 00 1f] "move"
+
+223. 1 entry, verb = "pray"
+    [00 00 00 00 00 00 00 20] "pray"
+
+222. 1 entry, verb = "rape"
+    [00 00 00 00 00 00 00 21] "rape"
+
+221. 1 entry, verb = "dig"
+    [00 00 00 00 00 00 00 22] "dig"
+
+220. 1 entry, verb = "conc", synonyms = "cove", "hide", "wrap"
+    [00 00 00 00 00 00 00 23] "conc"
+
+    **** Verb action routines ****
+
+  Action table entries = 36
+
+action# action-routine "verb..."
+
+  0.  3710  "script"
+  1.  3734  "noscript"
+  2.  3838  "go"
+  3.  3f34  "quit"
+  4.  3f54  "save"
+  5.  3f6c  "inve"
+  6.  3f84  "scor"
+  7.  3f9c  "clue"
+  8.  3fc8  "get"
+  9.  452c  "wait"
+ 10.  4540  "don"
+ 11.  4604  "doff"
+ 12.  463c  "clim"
+ 13.  4674  "drop"
+ 14.  49f4  "you"
+ 15.  4a28  "exam"
+ 16.  4ce0  "open"
+ 17.  4d88  "atta"
+ 18.  4f98  "brea"
+ 19.  4fac  "drin"
+ 20.  500c  "wave"
+ 21.  5184  "poli"
+ 22.  51c8  "jump"
+ 23.  51e8  "read"
+ 24.  5268  "fit"
+ 25.  5340  "say"
+ 26.  54c4  "peda"
+ 27.  54d8  "smok"
+ 28.  54ec  "bast"
+ 29.  551c  "foll"
+ 30.  556c  "feed"
+ 31.  55f8  "move"
+ 32.  56b8  "pray"
+ 33.  56cc  "rape"
+ 34.  56e0  "dig"
+ 35.  5800  "conc"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.  22e8  
+    **** Prepositions ****
+
+  Table entries = 814
+
+  9. "bbzns           "
+ 24. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+ c                     s                     e                     w           
+         i                 b   o           a         e                 d   a   
+       c                                r                 g   k           f    
+    j                 i   z           h         m                 k   b        
+  j         u                 m   n           l  n                   l        
+d                 p              !         y                     m             
+   s                r         y                     j                 v        
+       u         p                     b                                       
+z   t           y         j                     f                      y       
+              l                                               m                
+      f                                             o                          
+                  u                      s                       f             
+        h                                              o                      i
+                      e                      s                      e          
+            x                      d                     r                    
+h                     d                                                        
+        x                      n                      d                        
+                    n                      h                      x            
+        z                     j                     f                          
+                 o                     k                     g                 
+   c                     s                     c         "

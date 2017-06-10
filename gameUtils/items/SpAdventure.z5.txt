@@ -1,0 +1,206 @@
+ "Y2" rock
+ (Alike_Maze_1)
+ (Alike_Maze_10)
+ (Alike_Maze_11)
+ (Alike_Maze_12)
+ (Alike_Maze_13)
+ (Alike_Maze_14)
+ (Alike_Maze_2)
+ (Alike_Maze_3)
+ (Alike_Maze_4)
+ (Alike_Maze_5)
+ (Alike_Maze_6)
+ (Alike_Maze_7)
+ (Alike_Maze_8)
+ (Alike_Maze_9)
+ (Dead_End_1)
+ (Dead_End_10)
+ (Dead_End_11)
+ (Dead_End_12)
+ (Dead_End_13)
+ (Dead_End_14)
+ (Dead_End_2)
+ (Dead_End_3)
+ (Dead_End_4)
+ (Dead_End_5)
+ (Dead_End_6)
+ (Dead_End_7)
+ (Dead_End_8)
+ (Dead_End_9)
+ (Different_Maze_1)
+ (Different_Maze_10)
+ (Different_Maze_11)
+ (Different_Maze_2)
+ (Different_Maze_3)
+ (Different_Maze_4)
+ (Different_Maze_5)
+ (Different_Maze_6)
+ (Different_Maze_7)
+ (Different_Maze_8)
+ (Different_Maze_9)
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (Pirate)
+ (cave_closer)
+ (darkness object)
+ (dokvim_spell)
+ (endgame_timer)
+ (frotz_spell)
+ (gnusto_spell)
+ (jindak_spell)
+ (lesoch_spell)
+ (malyon_spell)
+ (memory)
+ (plover_spell)
+ (plugh_spell)
+ (rezrov_spell)
+ (self object)
+ (xyzzy_spell)
+ (yomin_spell)
+ 2-inch slit
+ 20-foot depression
+ AboveGround
+ At "Y2"
+ CompassDirection
+ DeadEndRoom
+ DiffMazeRoom
+ FissureRoom
+ Immense N/S Passage
+ In Tall E/W Canyon
+ Low N/S Passage
+ MazeRoom
+ N/S Canyon
+ N/S and E/W Crossover
+ Persian rug
+ PitScenery
+ Scroll
+ Secret E/W Canyon Above Tight Canyon
+ Secret N/S Canyon
+ Sloping E/W Canyon
+ Spell
+ SpellBook
+ Treasure
+ active volcano
+ ancient oriental drawings
+ bars of silver
+ beanstalk
+ bedrock block
+ black rod with a rusty mark on the end
+ black rod with a rusty star on the end
+ bottled oil
+ bottled water
+ boulders
+ brass lantern
+ burly troll
+ carpet
+ caution sign
+ cobbles
+ collection of adventure game materials
+ compass
+ crack
+ crossover
+ crystal bridge
+ curtains
+ debris
+ deep gorge
+ delicate scroll
+ diamonds
+ dome
+ dragon
+ dragon's body
+ dust
+ dusty rocks
+ dwarvish axe
+ east
+ emerald the size of a plover's egg
+ enormous mirror
+ fissure
+ forest
+ fresh batteries
+ giant clam
+ glistening pearl
+ golden chain
+ ground
+ hill
+ hole above pit
+ huge pit
+ immense geyser
+ imperfect scroll
+ inside
+ jagged roof
+ jeweled trident
+ large cave bear
+ large gold nugget
+ leaves
+ limestone formations
+ little bird
+ marks in the dust
+ massive orange column
+ message in the dust
+ ming vase
+ mist
+ moss
+ nest of golden eggs
+ north
+ northeast
+ northwest
+ note
+ other side of hill
+ outside
+ pair of 1 foot diameter sewer pipes
+ pit
+ plant
+ platinum pyramid
+ pool of oil
+ precious jewelry
+ rare coins
+ rare spices
+ recent issues of "Spelunker Today"
+ rickety bridge
+ river of fire
+ road
+ rough stone steps
+ rusty door
+ sacred scroll
+ scrawled inscription
+ scrawled scroll
+ set of keys
+ shadowy figure
+ sign
+ slab
+ sleeping dwarves
+ small bottle
+ small pit
+ snake
+ some worthless shards of pottery
+ south
+ southeast
+ southwest
+ sparks of ash
+ spell book
+ spring
+ stalactite
+ steel grate
+ stone tablet
+ stream
+ streambed
+ suspended mirror
+ tasty food
+ thin rock slabs
+ threatening little dwarf
+ tiny slits
+ treasure chest
+ up above
+ velvet pillow
+ vending machine
+ waterfall
+ well house
+ west
+ wicker cage
+ wide stone staircase
+ window
+ worn-out batteries
+ wreckage of bridge
+

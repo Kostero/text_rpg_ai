@@ -22,7 +22,7 @@ for mode in ["walkthroughs", "tutorials", "games", "commands", "all"]:
     if mode in ["tutorials", "all"]:
         files += ["gameBoomers/result/verbs"+x for x in
                   list("QWERTYUIOPASDFGHJKLZXCVBNM")+["Number"]]
-    if mode in ["games", "all"]:
+    if mode in ["games"]:
         files += ["textsParser/parsedCommands.txt"]
     if mode in ["commands", "all"]:
         files += ["commandsDigger/diggedCommands.txt"]

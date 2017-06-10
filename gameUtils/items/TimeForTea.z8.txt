@@ -1,0 +1,33 @@
+ 
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (ValuePropertyHolder)
+ (darkness object)
+ (property_numberspace_forcer)
+ CompassDirection
+ K0_kind
+ K139_figurines
+ K148_pedestal
+ K1_room
+ K23_man
+ K24_woman
+ K25_animal
+ K26_device
+ K27_vehicle
+ K28_player_s_holdall
+ K29_outdoor
+ K2_thing
+ K3_direction
+ K4_door
+ K5_container
+ K61_coins
+ K68_cup_of_tea
+ K6_supporter
+ K70_biscuit
+ K74_pigeon
+ K7_backdrop
+ K8_person
+ K9_region
+ compass
+

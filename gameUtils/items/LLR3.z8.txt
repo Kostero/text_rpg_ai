@@ -1,0 +1,97 @@
+
+For this game you will have to manage with a strength of 14.
+
+A Little Like Rogue
+A W&W Scenario by ifnyou
+Release 1 / Serial number 070314 / Inform 7 build 4K41 (I6/v6.31 lib 6/11N) 
+
+East-west passage
+This passage runs east-west.
+
+> ???
+I didn't understand that sentence.
+
+> items
+ 
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (Value_Property_Holder)
+ (darkness object)
+ CompassDirection
+ K0_kind
+ K10_player_s_holdall
+ K115_strength_potion
+ K116_scroll
+ K11_device
+ K123_monster
+ K124_grid_bug
+ K125_jackal
+ K126_yeek
+ K127_goblin
+ K128_gnome
+ K129_centaur
+ K130_werespider
+ K131_wyvern
+ K132_half_orc
+ K133_harpy
+ K134_giant_bat
+ K135_basilisk
+ K136_purple_worm
+ K137_gargoyle
+ K138_cave_troll
+ K139_cave_spectre
+ K140_marsh_spectre
+ K141_skeletal_warrior
+ K142_green_hydra
+ K143_frost_giant
+ K144_elemental_demon
+ K145_unicorn
+ K147_weapon
+ K148_whip
+ K149_dagger
+ K150_poniard
+ K151_main_gauche
+ K152_quarterstaff
+ K153_battle_axe
+ K154_great_axe
+ K155_short_sword
+ K156_long_sword
+ K157_bastard_sword
+ K158_broad_sword
+ K159_spear
+ K160_lance
+ K161_glowing_dagger
+ K162_ancient_staff
+ K163_runic_broadsword
+ K164_pike
+ K165_onyx_axe
+ K166_armour
+ K167_padded_armour
+ K168_leather_jerkin
+ K169_ring_mail
+ K170_scale_mail
+ K171_chain_mail
+ K172_plate_armour
+ K173_elf_mail
+ K174_glowing_plate
+ K1_room
+ K24_animal
+ K25_man
+ K26_woman
+ K27_player_character
+ K2_thing
+ K30_vehicle
+ K348_trapdoor
+ K3_direction
+ K4_door
+ K5_container
+ K6_supporter
+ K7_backdrop
+ K8_person
+ K9_region
+ b   idaadahpz 
+ compass
+ hzm
+

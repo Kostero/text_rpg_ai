@@ -1,0 +1,313 @@
+ (60)
+ (61)
+ (62)
+ (63)
+ (64)
+ (65)
+ (66)
+ (67)
+ (68)
+ (HLAPlayer)
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (darkness object)
+ (fists)
+ (self object)
+ A shallow section of the pond, west of portico
+ A turn in the hallway (Western Portico)
+ A twisting tunnel, heading west
+ Abandoned cottage
+ Along a corridor (near the Master bedroom)
+ Armor
+ At the base of a Misty Mountain [200 feet]
+ At the end of Southern Valley
+ At the end of a small tunnel (heading north)
+ At the end of the Misty Mountains [400 feet]
+ Atop a small ravine
+ Atop a wooden bridge, facing west
+ Broken path
+ Bronze statue
+ By a large boulder
+ By a large rock (within the cavern)
+ By a large waterfall
+ By a magical pool of water (near a cascading waterfall)
+ By a mossy pond
+ By a shallow pond, near the foot bridge
+ By the base of a large fig tree
+ By the lake
+ By the old Oak Tree
+ By the olive tree
+ Castle moat (on the drawbridge)
+ Cave entrance
+ Chest-high in the pond, south of Shinden Villa
+ CompassDirection
+ Cyprus Valley, near a small pond
+ Dead end (blocked by fallen rocks)
+ Decaying forest
+ Dirt path (heading south)
+ Dirt path (south of rock formation)
+ Dirt path (west of forest)
+ Dying forest
+ Dying forest (by some tree stumps)
+ Dying forest (near some tree stumps)
+ Dying forest (western perimeter)
+ East of Villa, near a large birch forest
+ East of small lagoon
+ East-west passageway
+ Eastern coastline
+ Eastern junction (west of main passageway)
+ Eastern path (near a ravine)
+ End of forest (southern edge)
+ End of forest (western edge)
+ End of path (near the mansion)
+ End of the Misty Mountains, near a large ravine
+ End of tunnel (by a narrow fissure)
+ Entrance to town
+ Forest junction
+ Forest woodland
+ Forest woodland (middle forest)
+ Forest woodland (western perimeter)
+ Forest woodlands
+ Forest woodlands (eastern edge)
+ Forest woodlands (middle forest)
+ Forest woodlands (northern edge)
+ Forest woodlands (south of path)
+ Forest woodlands (southern edge)
+ Forest woodlands (western edge)
+ Grassy area, near the Eastern Portico
+ Grassy hillside
+ Grassy hillside (on the southern slope)
+ Grassy slope (sloping downward)
+ Guest bathroom
+ Guest chambers
+ HLAnoun
+ HLAroom
+ High Atop the forest
+ High atop an apple tree (standing on a tree branch).
+ In a dark tunnel (at a narrow turnoff)
+ In a dark tunnel (heading east)
+ In a dark tunnel (sloping down)
+ In a dark tunnel (sloping to the south)
+ In a dark tunnel (twisting east)
+ In a dark tunnel (upper level of cavern)
+ In a darkened dungeon
+ In a grassy meadow
+ In a grassy meadow, heading west
+ In a large, grassy valley
+ In a large, vast cavern (underground)
+ In a narrow passage (sloping down to the east)
+ In a secret tunnel (heading south)
+ In a secret tunnel (scaling upward)
+ In a twisting passageway (heading east)
+ In a twisting passageway (heading in four directions)
+ In an orchard of apple trees
+ In front of the mansion
+ In the living room
+ In the mansion
+ Inside a darkened dungeon
+ Inside a rare keep, deep within Misty Cave
+ Inside a small cell
+ Inside a small keep
+ Inside a small keep (lit by candles)
+ Inside a small room, separated by shoji
+ Inside a tall lighthouse (base of stairs)
+ Inside a tall lighthouse (staircase)
+ Inside the Shinden (Center Villa)
+ Inside the Shinden (heading east)
+ Inside the Southern Hall (Eastern Portico)
+ Inside the Southern Hall (Western Portico)
+ Intersection (near a junction)
+ Into the eagle's nest
+ Knee-high in the pond, south of Shinden Villa
+ Lawn (southern edge)
+ Main hallway (inside the castle)
+ Main hallway (within the mansion)
+ Middle corridor (south of living room)
+ Middle forest (east of bridge)
+ Middle woodlands
+ Misty Mountain East [200 feet]
+ Misty Mountains North [325 feet]
+ Misty Mountains West [229 feet]
+ Misty Mountains [100 feet]
+ Mystic Gorge, west of a grassy valley
+ NPC
+ Narrow opening (inaccessible)
+ Narrow passageway (heading north)
+ Narrow path (heading east to west)
+ Narrow tunnel
+ Narrow tunnel (south of fissure)
+ Near a dead end (northern caves)
+ Near a water source, by the bridge
+ Near the Portico, facing east
+ Northern cell (in the dungeon)
+ On a dusty path
+ On the branch of a large fig tree
+ On the lawn
+ On the lawn (eastern perimeter)
+ On the path
+ On the path (heading east to west)
+ On the path (heading east)
+ On the path (heading south)
+ On the path, heading north
+ On the western bridge, facing west of course
+ Outdoor patio (near a lawn and garden)
+ Overlooking a large ravine
+ Overlooking the Island, across the Ohi River
+ Portal
+ Purple mountains
+ Quest
+ Redwood forest
+ Redwood forest (heading east)
+ Sandy beach
+ Sandy beach (at the coast)
+ Sandy beach (eastern coastline)
+ Sandy beach (mid-line coast)
+ Sandy beach (middle coast)
+ Sandy beach (south of rock formation)
+ Sandy beach (southern edge)
+ Sandy beach (western edge)
+ Small bedroom
+ Small bedroom (south of corridor)
+ Small bridge (traversing a creek)
+ Small cathedral
+ Small clearing
+ Small clearing (east of forest)
+ Small clearing (middle forest)
+ Small crevice (narrow crack)
+ Small garden
+ Small garden (east of a stone fountain)
+ Small hillside
+ Small intersection
+ Small library (east of main hall)
+ Small room
+ Small throne room
+ Small toolshed
+ Small tunnel (heading south)
+ Small tunnel (west of main passageway)
+ South of a large hillside
+ South of the main villa, within the pond
+ Southern road
+ Southern slope
+ Spruce woodland (eastern perimeter)
+ Spruce woodland (southern perimeter)
+ Stone altar
+ Stone archway (with a corridor west)
+ Stone fountain (complete with statue)
+ Storage room
+ Subterranean passageway
+ Tiny fissure (or cleft)
+ Top of lighthouse
+ Tunnel junction (east of main tunnel)
+ Twisted passageway (heading east)
+ Twisted passageway (heading north)
+ Twisting passageway
+ Twisting tunnel, inside Misty Cavern
+ Upstairs hallway
+ Village path
+ Village store
+ Village tavern
+ Village well
+ Wading in a pond, near some buildings
+ Wading in the pond, south of Villa
+ Weapon
+ Well-lit path
+ Well-worn path (heading east to west)
+ Well-worn path (heading east)
+ Wide path (heading north)
+ Wide path (north of castle)
+ Wide tunnel (south of waterfall)
+ Winding road
+ Within a sacred keep (slightly darkened)
+ Within a small waterfall (splashing down from above)
+ Within the dying forest
+ Within the pantry (north of mansion)
+ Wooden bridge
+ anklet
+ apple
+ armor
+ axe
+ barbarian
+ battleaxe
+ bear
+ board
+ boomerang
+ bottle
+ broadsword
+ buckler
+ bum
+ butler
+ cleaver
+ clerk
+ cloak
+ compass
+ crab
+ dagger
+ demigorgon
+ dragon
+ eagle
+ east
+ eddie
+ elf
+ firewhip
+ flute
+ food
+ gauntlets
+ ghost
+ ghoul
+ goat
+ goblin
+ golem
+ ground
+ hellhound
+ helmet
+ hobbit
+ horn
+ inside
+ key
+ kingcrab
+ knight
+ kobold
+ kukai
+ lantern
+ lich
+ longsword
+ monk
+ north
+ northeast
+ northwest
+ oil
+ outside
+ paladin
+ portal
+ rations
+ ring
+ rope
+ scimitar
+ shield
+ shroud
+ skeleton
+ sorcerer
+ south
+ southeast
+ southwest
+ sword
+ thief
+ unicorn
+ up above
+ valkyrie
+ vampire
+ villager
+ wannabee
+ warrior
+ werewolf
+ west
+ wisp
+ wolf
+
+
+
+
+
+>quit

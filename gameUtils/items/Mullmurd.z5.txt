@@ -1,0 +1,559 @@
+     
+ "HISTORIES OF WAR"
+ (238)
+ (449)
+ (450)
+ (GeneralQ)
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (RocksRoom)
+ (beaker)
+ (cardbuttons)
+ (cards)
+ (cupdoor)
+ (d_obj)
+ (darkness object)
+ (dashboard)
+ (dead_man)
+ (friver)
+ (friver2)
+ (g)
+ (garden_door)
+ (kitchen_door)
+ (plank)
+ (rchopstick)
+ (self object)
+ (u_obj)
+ (window)
+ Bottle
+ BreakBottle
+ BrokenGlass
+ BrokenGlass_1
+ BrokenGlass_10
+ BrokenGlass_11
+ BrokenGlass_12
+ BrokenGlass_13
+ BrokenGlass_14
+ BrokenGlass_15
+ BrokenGlass_16
+ BrokenGlass_17
+ BrokenGlass_18
+ BrokenGlass_19
+ BrokenGlass_2
+ BrokenGlass_20
+ BrokenGlass_21
+ BrokenGlass_22
+ BrokenGlass_23
+ BrokenGlass_24
+ BrokenGlass_25
+ BrokenGlass_26
+ BrokenGlass_27
+ BrokenGlass_28
+ BrokenGlass_29
+ BrokenGlass_3
+ BrokenGlass_30
+ BrokenGlass_31
+ BrokenGlass_4
+ BrokenGlass_5
+ BrokenGlass_6
+ BrokenGlass_7
+ BrokenGlass_8
+ BrokenGlass_9
+ Chopstick
+ Coffee
+ CoffeePowder
+ CoffeePowder_1
+ CoffeePowder_2
+ CoffeePowder_3
+ CoffeePowder_4
+ CoffeePowder_5
+ Coffee_1
+ Coffee_2
+ Coffee_3
+ Coffee_4
+ Coffee_5
+ Coffee_6
+ Coffee_7
+ CompassDirection
+ DoorClass
+ FrozenRiver
+ Ice
+ IcePowder
+ IcePowder_1
+ IcePowder_10
+ IcePowder_11
+ IcePowder_12
+ IcePowder_13
+ IcePowder_14
+ IcePowder_15
+ IcePowder_16
+ IcePowder_17
+ IcePowder_18
+ IcePowder_19
+ IcePowder_2
+ IcePowder_20
+ IcePowder_21
+ IcePowder_22
+ IcePowder_23
+ IcePowder_24
+ IcePowder_25
+ IcePowder_26
+ IcePowder_27
+ IcePowder_28
+ IcePowder_29
+ IcePowder_3
+ IcePowder_30
+ IcePowder_31
+ IcePowder_4
+ IcePowder_5
+ IcePowder_6
+ IcePowder_7
+ IcePowder_8
+ IcePowder_9
+ Ice_1
+ Ice_10
+ Ice_11
+ Ice_12
+ Ice_13
+ Ice_14
+ Ice_15
+ Ice_16
+ Ice_17
+ Ice_18
+ Ice_19
+ Ice_2
+ Ice_20
+ Ice_21
+ Ice_22
+ Ice_23
+ Ice_24
+ Ice_25
+ Ice_26
+ Ice_27
+ Ice_28
+ Ice_29
+ Ice_3
+ Ice_30
+ Ice_31
+ Ice_4
+ Ice_5
+ Ice_6
+ Ice_7
+ Ice_8
+ Ice_9
+ KeyClass
+ Liquid
+ Mulldoon
+ Petrol
+ Petrol_2
+ Petrol_3
+ Petrol_4
+ Petrol_5
+ Place
+ Prize
+ Prize_1
+ Prize_10
+ Prize_11
+ Prize_12
+ Prize_13
+ Prize_14
+ Prize_15
+ Prize_16
+ Prize_17
+ Prize_18
+ Prize_19
+ Prize_2
+ Prize_20
+ Prize_21
+ Prize_22
+ Prize_23
+ Prize_24
+ Prize_25
+ Prize_26
+ Prize_27
+ Prize_28
+ Prize_29
+ Prize_3
+ Prize_30
+ Prize_31
+ Prize_32
+ Prize_33
+ Prize_34
+ Prize_35
+ Prize_36
+ Prize_37
+ Prize_38
+ Prize_39
+ Prize_4
+ Prize_40
+ Prize_41
+ Prize_5
+ Prize_6
+ Prize_7
+ Prize_8
+ Prize_9
+ PurplePotion
+ PurplePotion_1
+ PurplePotion_10
+ PurplePotion_11
+ PurplePotion_12
+ PurplePotion_13
+ PurplePotion_14
+ PurplePotion_15
+ PurplePotion_16
+ PurplePotion_17
+ PurplePotion_18
+ PurplePotion_19
+ PurplePotion_2
+ PurplePotion_20
+ PurplePotion_21
+ PurplePotion_22
+ PurplePotion_23
+ PurplePotion_24
+ PurplePotion_25
+ PurplePotion_26
+ PurplePotion_27
+ PurplePotion_28
+ PurplePotion_29
+ PurplePotion_3
+ PurplePotion_30
+ PurplePotion_31
+ PurplePotion_4
+ PurplePotion_5
+ PurplePotion_6
+ PurplePotion_7
+ PurplePotion_8
+ PurplePotion_9
+ Sawdust
+ Sawdust_1
+ Sawdust_10
+ Sawdust_11
+ Sawdust_12
+ Sawdust_13
+ Sawdust_14
+ Sawdust_15
+ Sawdust_16
+ Sawdust_17
+ Sawdust_18
+ Sawdust_19
+ Sawdust_2
+ Sawdust_20
+ Sawdust_21
+ Sawdust_22
+ Sawdust_23
+ Sawdust_24
+ Sawdust_25
+ Sawdust_26
+ Sawdust_27
+ Sawdust_28
+ Sawdust_29
+ Sawdust_3
+ Sawdust_30
+ Sawdust_31
+ Sawdust_4
+ Sawdust_5
+ Sawdust_6
+ Sawdust_7
+ Sawdust_8
+ Sawdust_9
+ Scratchcard
+ Scratchcard_1
+ Scratchcard_10
+ Scratchcard_11
+ Scratchcard_12
+ Scratchcard_13
+ Scratchcard_14
+ Scratchcard_15
+ Scratchcard_16
+ Scratchcard_17
+ Scratchcard_18
+ Scratchcard_19
+ Scratchcard_2
+ Scratchcard_20
+ Scratchcard_21
+ Scratchcard_22
+ Scratchcard_23
+ Scratchcard_24
+ Scratchcard_25
+ Scratchcard_26
+ Scratchcard_27
+ Scratchcard_28
+ Scratchcard_29
+ Scratchcard_3
+ Scratchcard_30
+ Scratchcard_31
+ Scratchcard_32
+ Scratchcard_33
+ Scratchcard_34
+ Scratchcard_35
+ Scratchcard_36
+ Scratchcard_37
+ Scratchcard_38
+ Scratchcard_39
+ Scratchcard_4
+ Scratchcard_40
+ Scratchcard_41
+ Scratchcard_42
+ Scratchcard_43
+ Scratchcard_44
+ Scratchcard_45
+ Scratchcard_46
+ Scratchcard_47
+ Scratchcard_48
+ Scratchcard_49
+ Scratchcard_5
+ Scratchcard_50
+ Scratchcard_51
+ Scratchcard_52
+ Scratchcard_53
+ Scratchcard_54
+ Scratchcard_55
+ Scratchcard_56
+ Scratchcard_57
+ Scratchcard_58
+ Scratchcard_59
+ Scratchcard_6
+ Scratchcard_60
+ Scratchcard_61
+ Scratchcard_62
+ Scratchcard_63
+ Scratchcard_64
+ Scratchcard_65
+ Scratchcard_66
+ Scratchcard_67
+ Scratchcard_68
+ Scratchcard_69
+ Scratchcard_7
+ Scratchcard_70
+ Scratchcard_71
+ Scratchcard_72
+ Scratchcard_73
+ Scratchcard_74
+ Scratchcard_75
+ Scratchcard_76
+ Scratchcard_77
+ Scratchcard_78
+ Scratchcard_79
+ Scratchcard_8
+ Scratchcard_80
+ Scratchcard_81
+ Scratchcard_9
+ Water
+ Water_1
+ Water_10
+ Water_11
+ Water_12
+ Water_13
+ Water_14
+ Water_15
+ Water_16
+ Water_17
+ Water_18
+ Water_19
+ Water_2
+ Water_20
+ Water_21
+ Water_22
+ Water_23
+ Water_24
+ Water_25
+ Water_26
+ Water_27
+ Water_28
+ Water_29
+ Water_3
+ Water_30
+ Water_31
+ Water_4
+ Water_5
+ Water_6
+ Water_7
+ Water_8
+ Water_9
+ angle-poise lamp
+ art
+ b   ,
+ b   yhdahdhhzc
+ bared wires
+ battery
+ bell-jars
+ bin
+ black sludgy lump
+ black tablet
+ blank white playing card
+ bodies
+ boiler
+ bookshelf
+ box-base
+ brass key
+ broken glass
+ bung
+ bushes
+ button
+ cannonball
+ car
+ car furniture
+ carvings
+ celery sculpture
+ chisel
+ chopstick
+ chute
+ compass
+ crate
+ crocodile clips
+ cross of light
+ cross-shaped hole
+ curtains
+ dispenser
+ door
+ east
+ figures
+ flue
+ footprints
+ fortune-teller
+ garden furniture
+ garden key
+ generator
+ glass doors
+ glass pendant
+ heat-vent
+ heavy oil-lantern
+ hole
+ hole in the ceiling
+ hut
+ ice
+ inch-long needle
+ insect tank
+ inside
+ inverted Christmas tree
+ keypad
+ lockpick
+ man
+ marble pillars
+ master key
+ metal banister rail
+ metal panel
+ metal stairs
+ mosaic
+ mug
+ museum
+ north
+ northeast
+ northwest
+ note
+ open_coffee
+ open_coffee_1
+ open_coffee_10
+ open_coffee_11
+ open_coffee_12
+ open_coffee_13
+ open_coffee_14
+ open_coffee_15
+ open_coffee_16
+ open_coffee_17
+ open_coffee_18
+ open_coffee_19
+ open_coffee_2
+ open_coffee_20
+ open_coffee_21
+ open_coffee_22
+ open_coffee_23
+ open_coffee_24
+ open_coffee_25
+ open_coffee_26
+ open_coffee_27
+ open_coffee_28
+ open_coffee_29
+ open_coffee_3
+ open_coffee_30
+ open_coffee_31
+ open_coffee_32
+ open_coffee_33
+ open_coffee_34
+ open_coffee_35
+ open_coffee_36
+ open_coffee_37
+ open_coffee_38
+ open_coffee_39
+ open_coffee_4
+ open_coffee_40
+ open_coffee_41
+ open_coffee_42
+ open_coffee_43
+ open_coffee_44
+ open_coffee_45
+ open_coffee_46
+ open_coffee_47
+ open_coffee_48
+ open_coffee_49
+ open_coffee_5
+ open_coffee_50
+ open_coffee_51
+ open_coffee_52
+ open_coffee_53
+ open_coffee_54
+ open_coffee_55
+ open_coffee_56
+ open_coffee_57
+ open_coffee_58
+ open_coffee_59
+ open_coffee_6
+ open_coffee_60
+ open_coffee_61
+ open_coffee_7
+ open_coffee_8
+ open_coffee_9
+ outside
+ oven
+ packing crate
+ pallet bed
+ petrol can
+ plaque
+ portrait of the General
+ purple vat
+ pyramid
+ reception desk
+ rock
+ rocks
+ round table
+ run-off pipe
+ sawdust
+ scaffold
+ scaffold board
+ seatbelt
+ security camera
+ shards of stone
+ shoes
+ shutter
+ silver foil brick
+ skylight
+ small egg
+ small needle-gun
+ south
+ southeast
+ southwest
+ sparker
+ split canister
+ stick
+ stone
+ stone crocuses
+ stone sculptures
+ straps
+ sundial
+ terminal
+ thick layer of moss
+ torch
+ trees
+ triangular gnomon
+ trough sculpture
+ tunnel
+ upper plank
+ vines
+ waxworks
+ west
+ wide metal vent
+ woman's hand
+ workbench
+ worktop
+

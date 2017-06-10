@@ -1,0 +1,653 @@
+   a(closewardrobe)
+ (100)
+ (101)
+ (102)
+ (103)
+ (104)
+ (105)
+ (106)
+ (107)
+ (108)
+ (109)
+ (110)
+ (111)
+ (112)
+ (113)
+ (114)
+ (115)
+ (116)
+ (117)
+ (118)
+ (119)
+ (120)
+ (121)
+ (122)
+ (123)
+ (124)
+ (125)
+ (127)
+ (128)
+ (129)
+ (130)
+ (131)
+ (132)
+ (133)
+ (134)
+ (135)
+ (136)
+ (137)
+ (138)
+ (139)
+ (140)
+ (141)
+ (142)
+ (143)
+ (144)
+ (145)
+ (146)
+ (147)
+ (148)
+ (149)
+ (150)
+ (151)
+ (152)
+ (156)
+ (157)
+ (158)
+ (159)
+ (160)
+ (161)
+ (162)
+ (163)
+ (164)
+ (165)
+ (166)
+ (167)
+ (168)
+ (169)
+ (170)
+ (171)
+ (172)
+ (173)
+ (174)
+ (175)
+ (176)
+ (177)
+ (178)
+ (179)
+ (180)
+ (181)
+ (182)
+ (183)
+ (184)
+ (185)
+ (186)
+ (187)
+ (188)
+ (189)
+ (190)
+ (191)
+ (192)
+ (193)
+ (194)
+ (196)
+ (197)
+ (199)
+ (200)
+ (201)
+ (202)
+ (203)
+ (204)
+ (205)
+ (206)
+ (207)
+ (208)
+ (209)
+ (210)
+ (211)
+ (212)
+ (213)
+ (214)
+ (215)
+ (216)
+ (217)
+ (218)
+ (219)
+ (220)
+ (221)
+ (222)
+ (223)
+ (224)
+ (225)
+ (226)
+ (227)
+ (228)
+ (229)
+ (230)
+ (231)
+ (232)
+ (233)
+ (234)
+ (235)
+ (236)
+ (237)
+ (238)
+ (239)
+ (240)
+ (241)
+ (242)
+ (243)
+ (244)
+ (245)
+ (246)
+ (247)
+ (248)
+ (249)
+ (250)
+ (251)
+ (252)
+ (253)
+ (254)
+ (255)
+ (256)
+ (257)
+ (258)
+ (259)
+ (260)
+ (261)
+ (262)
+ (263)
+ (264)
+ (265)
+ (266)
+ (267)
+ (268)
+ (269)
+ (270)
+ (271)
+ (272)
+ (273)
+ (274)
+ (275)
+ (276)
+ (277)
+ (278)
+ (279)
+ (280)
+ (281)
+ (282)
+ (283)
+ (41)
+ (42)
+ (43)
+ (44)
+ (45)
+ (46)
+ (47)
+ (48)
+ (49)
+ (50)
+ (51)
+ (52)
+ (53)
+ (54)
+ (55)
+ (56)
+ (57)
+ (58)
+ (59)
+ (60)
+ (61)
+ (62)
+ (63)
+ (64)
+ (65)
+ (66)
+ (67)
+ (68)
+ (69)
+ (70)
+ (71)
+ (72)
+ (73)
+ (74)
+ (75)
+ (76)
+ (77)
+ (78)
+ (79)
+ (80)
+ (81)
+ (82)
+ (83)
+ (84)
+ (85)
+ (86)
+ (87)
+ (88)
+ (89)
+ (90)
+ (91)
+ (92)
+ (93)
+ (94)
+ (95)
+ (96)
+ (97)
+ (98)
+ (99)
+ (Angela)
+ (AngelaComing)
+ (AngelaHidesPhoto)
+ (Anthony)
+ (AnthonyTellsAll)
+ (AnthonysEntrance)
+ (Car)
+ (ClosetKey)
+ (ComprehensionTree)
+ (DoingCrossword)
+ (EndGamePlayer)
+ (Garden)
+ (GardenRoom)
+ (GuestBedroom)
+ (Hallway)
+ (Inform Library)
+ (Inform Parser)
+ (Jacks_work)
+ (Kitchen)
+ (LibraryMessages)
+ (LivingRoom)
+ (Maid)
+ (MaidFallout)
+ (MaidsWork)
+ (MainGameDaemon)
+ (MainStreet)
+ (Matheston)
+ (OtherHallway)
+ (Pantry)
+ (Passage)
+ (PoliceEnter)
+ (Policeman)
+ (PolicemanFindsTheKnife)
+ (Porch)
+ (Shed)
+ (ShedDoor)
+ (Study)
+ (TheAnal)
+ (TopTreeObj)
+ (Upstairs)
+ (UselessGit)
+ (Wills_Work)
+ (anthonys_work)
+ (ants_work)
+ (back_door)
+ (bedroom)
+ (bottle)
+ (carkey)
+ (cast)
+ (cat)
+ (chairs)
+ (closecupboard)
+ (closefrontdoor)
+ (closeroll)
+ (closewardrobe)
+ (coin)
+ (corpse)
+ (criminals_q)
+ (cross_q)
+ (d_obj)
+ (darkness object)
+ (dog)
+ (drinking_q)
+ (dropwaterjug)
+ (east_hedge)
+ (east_wall)
+ (frontdoorkey)
+ (hall_dog)
+ (hidden_door_key)
+ (holiday_q)
+ (jack_question)
+ (job_generic)
+ (joe_q)
+ (lie_d)
+ (maids_Work)
+ (maidwage)
+ (self object)
+ (shed_cons)
+ (silverkey)
+ (sink)
+ (sinkoff)
+ (sprain_q)
+ (subknife)
+ (suitcasekey)
+ (tablets)
+ (tidylamp)
+ (tidyuptidyup)
+ (topofwardrobe)
+ (u_obj)
+ (water)
+ (waterjug)
+ (waterspill)
+ (west_hedge)
+ (west_wall)
+ (wifes_work)
+ (yuccaknife)
+ ADemon
+ Angela's clothes
+ Angela's passport
+ Angela's shoes
+ Anthony's hobbies
+ Anthony's shoes
+ BedClass
+ CO
+ CompassDirection
+ DogClass
+ Door_Class
+ Emilia's father
+ Emilia's shoes
+ Hat
+ HedgeC
+ Item
+ ItemQuery
+ Jack Draginam
+ Jack's hat
+ Jack's murder
+ Jack's shoes
+ JustVoice
+ Key_Class
+ Knife_Class
+ LatchObject
+ Mr. Draginam's murder
+ NewPlace
+ No. 15
+ PassingTask
+ Person
+ PersonQuery
+ Place
+ PostTask
+ Query
+ Shoes
+ SlipPaper
+ Task
+ TidyUp
+ Wall
+ Waterstain
+ Waterstain_1
+ Waterstain_10
+ Waterstain_11
+ Waterstain_12
+ Waterstain_13
+ Waterstain_14
+ Waterstain_15
+ Waterstain_16
+ Waterstain_17
+ Waterstain_18
+ Waterstain_19
+ Waterstain_2
+ Waterstain_20
+ Waterstain_21
+ Waterstain_22
+ Waterstain_23
+ Waterstain_24
+ Waterstain_25
+ Waterstain_26
+ Waterstain_27
+ Waterstain_28
+ Waterstain_29
+ Waterstain_3
+ Waterstain_30
+ Waterstain_31
+ Waterstain_32
+ Waterstain_33
+ Waterstain_34
+ Waterstain_35
+ Waterstain_36
+ Waterstain_37
+ Waterstain_38
+ Waterstain_39
+ Waterstain_4
+ Waterstain_40
+ Waterstain_41
+ Waterstain_42
+ Waterstain_43
+ Waterstain_44
+ Waterstain_45
+ Waterstain_46
+ Waterstain_47
+ Waterstain_48
+ Waterstain_49
+ Waterstain_5
+ Waterstain_50
+ Waterstain_51
+ Waterstain_6
+ Waterstain_7
+ Waterstain_8
+ Waterstain_9
+ Window_Class
+ WordQuery
+ WorkQuery
+ affair
+ answering the door to you
+ armchair
+ ash trees
+ assorted gardening tools
+ assorted toiletries
+ baby
+ back door of house
+ badge
+ badger
+ bathroom door
+ bay window
+ beaten-up shed
+ bed
+ bedroom door
+ bedroom window
+ beige trenchcoat
+ biscuit barrel
+ bk    zybz
+ black and white incriminating photograph
+ black box
+ black leather gloves
+ black shoes
+ blood in sink
+ blood test result
+ bolt
+ bonnet of the car
+ bookshelves
+ boulevard
+ brass numbers
+ breadknife
+ briefcase
+ broken plate
+ brown button
+ brown envelope
+ cap
+ carpet
+ channel knob
+ cheap white door
+ cheque book stub
+ chess board
+ chess pieces
+ chief
+ cigarette case
+ climbing roses
+ climbing-adjectives
+ clock
+ cloth
+ clothes rail
+ coathangers
+ compass
+ cookers
+ corpse
+ crossword
+ dead dog
+ dead petunia
+ deckchair
+ dents in the carpet
+ diamond window
+ dirty window
+ discovering the body
+ dog-roses
+ drawers
+ dresser
+ dresses and stuff
+ dustpan
+ east
+ empty whiskey bottle
+ events before murder
+ evidence
+ flat bulge
+ flex
+ flowerbed
+ foodstuffs
+ footprints
+ front door
+ front door keys
+ front gate
+ garden
+ gate
+ getting the dustpan from the pantry
+ getting the key to the cupboard
+ glass
+ glove compartment
+ going back to the kitchen
+ going upstairs
+ green paint flecks
+ green-shaded table lamp
+ guest bedroom door
+ handwritten note
+ hanging basket
+ hatstand
+ hook
+ house
+ inside
+ jar of face-cream
+ kitchen windows
+ lamppost
+ large bloodstain
+ large window
+ latch
+ lawn
+ lawnmower
+ letter from the Chief
+ light green sofa
+ living room door
+ local newspaper
+ locking the closet in the passage
+ long table
+ low chest
+ low wall
+ lying about closing the window
+ magazine
+ mahogany desk
+ man's voice
+ marks in the varnish
+ master bedroom door
+ medicine tube
+ mirror
+ mirrored cabinet
+ mopping up the spilt whiskey
+ murder scene
+ murder weapon
+ murderers-escape
+ neric)
+ nightstand
+ north
+ northeast
+ northwest
+ outside
+ paint
+ painted frames
+ paintings
+ papers
+ passport photo
+ pencil
+ petunias
+ picking up the hat-stand
+ pillow
+ pink suitcase
+ police report
+ police work
+ privet hedge
+ putting the dustpan where it goes
+ razors
+ receiver
+ red leather chair
+ red rose
+ red spot
+ roll-top desk
+ room
+ roses
+ roses-header
+ rubber tree
+ scrap of pink paper
+ scream
+ shards of broken glass
+ sheet of paper
+ shelves
+ shirts
+ shoe rack
+ short metal stake
+ signature
+ silver frame
+ single bed
+ small cabinet
+ small cupboard
+ small pot plant
+ south
+ southeast
+ southwest
+ specks of blood
+ splashes of blood
+ squad car
+ staircase
+ steel letter opener
+ stick
+ sticky stuff
+ strip of negatives
+ study door
+ sweeping up the broken glass
+ tall room lamp
+ tall teak wardrobe
+ tall thin wardrobe
+ tasteful photograph
+ telephone
+ television set
+ thin dark woman
+ thump
+ thump from the bedroom
+ tidying up this awful place
+ time
+ time of the murder
+ toiletry bag
+ trashy novel
+ upturned wheelbarrow
+ wad of money
+ wallpaper
+ watering the plants
+ wedding photo
+ west
+ whiskey stain
+ who was in the house
+ wicker chair
+ wide window overlooking the street
+ window
+ wine bottles
+ wine rack
+ wire-mesh swing door
+ woman's voice
+ wood panelled door
+ wooden block
+ worktop
+ worn brown carpet
+ worn sofa
+ wounds
+ wringing out the dishcloth
+ your scuffed black shoes
+ your wide-brimmed hat
+ yourself
+ yucca tree
+
+
+
+>quit

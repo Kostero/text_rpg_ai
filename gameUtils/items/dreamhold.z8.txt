@@ -1,0 +1,518 @@
+ (ArtPalette)
+ (CrawlDarkness)
+ (Darkness)
+ (EndRoomBlack)
+ (EndRoomBlue)
+ (EndRoomBrown)
+ (EndRoomGold)
+ (EndRoomGreen)
+ (EndRoomInitial)
+ (EndRoomRed)
+ (EndRoomWhite)
+ (FarShoreDarkness)
+ (GuideArtifScoreMessage)
+ (GuideBriefLookMessage)
+ (GuideContext)
+ (GuideDarknessMessage)
+ (GuideDisambiguationMessage)
+ (GuideGloveUsageMessage)
+ (GuideLockedDoorsMessage)
+ (GuideLockedWrongKeyMessage)
+ (GuideMaskScoreMessage)
+ (GuideOfferHintProxy)
+ (GuideOpeningTrunkMessage)
+ (GuideSearchStudyObject)
+ (GuideStatueThrowMessage)
+ (GuideTakingMessage)
+ (GuideTelescopeUsageMessage)
+ (GuideUnlimitedInventoryMessage)
+ (GuideVerboseMessage)
+ (GuideWalkedIntoDarkMessage)
+ (HTAbout)
+ (HTAgain)
+ (HTAsk)
+ (HTBare)
+ (HTBasics)
+ (HTCommands)
+ (HTEatDrink)
+ (HTEnter)
+ (HTExamine)
+ (HTExpert)
+ (HTGetDrop)
+ (HTGetIn)
+ (HTGive)
+ (HTHelp)
+ (HTHints)
+ (HTHit)
+ (HTInventory)
+ (HTLockUnlock)
+ (HTLook)
+ (HTLookIn)
+ (HTMovement)
+ (HTOpenClose)
+ (HTPushPull)
+ (HTPutThrow)
+ (HTQuit)
+ (HTRestart)
+ (HTSaveLoad)
+ (HTSay)
+ (HTScore)
+ (HTScript)
+ (HTSearch)
+ (HTShow)
+ (HTSpecial)
+ (HTStrategy)
+ (HTSystem)
+ (HTTakeOff)
+ (HTTalk)
+ (HTTalking)
+ (HTTell)
+ (HTTouchSmellListen)
+ (HTTutorial)
+ (HTUndo)
+ (HTUse)
+ (HTVerbose)
+ (HTWait)
+ (HTWearRemove)
+ (HintoBonfire)
+ (HintoBower)
+ (HintoCistern)
+ (HintoDarkness)
+ (HintoFinding)
+ (HintoLab)
+ (HintoOrrery)
+ (HintoOutsideDark)
+ (HintoPeak)
+ (HintoRiverMask)
+ (HintoSearching)
+ (HintoStatue)
+ (HintoTelescope)
+ (HintoUsing)
+ (Inform Library)
+ (Inform Parser)
+ (Landing1)
+ (Landing2)
+ (Landing3)
+ (PitDarkness)
+ (ReminisceDarkRoom)
+ (ReminisceGarden)
+ (ReminisceMemPalace)
+ (ReminisceOrreryMask)
+ (ReminisceSpireGone)
+ (ReminisceToLab)
+ (ShadowPathFar)
+ (ShadowPathNear)
+ (StairContext)
+ (StairHolder)
+ (StellariumCenter)
+ (StellariumEast)
+ (StellariumNorth)
+ (StellariumSouth)
+ (StellariumWest)
+ (Subterrane)
+ (arborwallfancy)
+ (arborwallplain)
+ (artdesertfloor)
+ (artemptyfloor)
+ (artemptyvoid)
+ (artpalettefloor)
+ (atelierpaint)
+ (atelierscenery)
+ (basementhallscenery)
+ (blackchart)
+ (blackmask)
+ (bluemask)
+ (bonfire)
+ (brownmask)
+ (catwalkfarmask)
+ (cavepit1ledge)
+ (cavepit1walls)
+ (cavepit2walls)
+ (cavepit3walls)
+ (cavewalls)
+ (cellceiling)
+ (cellfloor)
+ (cellscenery)
+ (cellwall)
+ (centralcaveceiling)
+ (cisternblackfloor)
+ (cisternladdermid)
+ (cisternladdertop)
+ (cisternsky)
+ (cisternstonefloor)
+ (cisternwall)
+ (confusingceiling)
+ (coolberries)
+ (coolbowerscenery)
+ (culvertroom)
+ (culvertwall)
+ (darkness object)
+ (distantscopemask)
+ (endcellceiling)
+ (endcellfloor)
+ (endcellwall)
+ (endhallceiling)
+ (endhallwall)
+ (endharpwall)
+ (endmirrorwall)
+ (endmosaic)
+ (endmosaicceiling)
+ (endshedwall)
+ (falsekey)
+ (flask)
+ (gardenfloor)
+ (gardenscenery)
+ (gardenskyday)
+ (gardenskydream)
+ (gardenskynight)
+ (gbalconybalcony)
+ (gbalfarmask)
+ (gcistfarmask)
+ (gcistfarmask2)
+ (goldmask)
+ (gpathcliff)
+ (greenmask)
+ (greychamberceiling)
+ (greychamberfloor)
+ (greychamberwall)
+ (gwarmbluff)
+ (hallceiling)
+ (hallfloor)
+ (hallscenery)
+ (hallwall)
+ (harpfloor)
+ (harpwall)
+ (labceiling)
+ (labfloor)
+ (labhallwalls)
+ (labwalls)
+ (lighthousedome)
+ (lighthousefloor)
+ (mirrorscenery)
+ (mirrorwall)
+ (mosaicceiling)
+ (onblueredglobe)
+ (onbluevioletglobe)
+ (ongreenblueglobe)
+ (ongreengreenglobe)
+ (ongreenredglobe)
+ (ongreentanglobe)
+ (ongreenvioletglobe)
+ (onsilverblueglobe)
+ (onsilvergreenglobe)
+ (onsilverredglobe)
+ (onsilvervioletglobe)
+ (orreryceiling)
+ (orreryfarmaskeasy)
+ (orreryfarmaskhard)
+ (orreryfarmaskhard2)
+ (orreryfloorceiling)
+ (redmask)
+ (self object)
+ (shedfloor)
+ (shedscenery)
+ (shedwall)
+ (sittingfloor)
+ (sittingscenery)
+ (sittingwall)
+ (skyconstaxe)
+ (skyconstcloak)
+ (skyconstcows)
+ (skyconstcrutch)
+ (skyconstgalley)
+ (skyconstgate)
+ (skyconstmoth)
+ (skyconstwall)
+ (spirespire)
+ (stairscenery)
+ (stairwall)
+ (stellariumdome)
+ (streamfarmask)
+ (studyceiling)
+ (studyfloor)
+ (studyscenery)
+ (studywall)
+ (subterranefloor)
+ (subterraneroof)
+ (warmberries)
+ (weight1)
+ (weight27)
+ (weight3)
+ (weight81)
+ (weight9)
+ (whiteletter)
+ (whitemask)
+ ArtRoom
+ Artifact
+ CatwalkClass
+ CeilingObject
+ CisternCatwalkClass
+ CisternGrating
+ CisternLadder
+ CisternRoom
+ CloneGlobeClass
+ CompassDirection
+ Constellation
+ DarknessRoom
+ DistantGlobeClass
+ DistantMaskClass
+ DreamMoon
+ EndRoomClass
+ FloorObject
+ GlobeClass
+ GumClass
+ GumHoleClass
+ HelpClass
+ KeyClass
+ MaskClass
+ MuralPart
+ MyCompassDirection
+ OutdoorClass
+ Reminisce
+ Residue
+ ScaleDiskClass
+ SceneryObject
+ ShadowPathClass
+ SittableClass
+ SkyConstellation
+ SmokeClass
+ StairLanding
+ StellariumRoom
+ UnlitRoom
+ WallObject
+ WeightClass
+ [BUG] cavepit
+ [BUG] goop
+ above
+ animals
+ apparatus of lenses
+ apple
+ archway
+ balcony
+ balustrade
+ below
+ big gum blob
+ big hole
+ black circle
+ black column
+ blue globe
+ blue moon
+ boulders
+ brass bird
+ brass cage
+ brass grating
+ brass stand
+ buckler
+ burnt harp
+ bush
+ cabinet
+ candles
+ catwalk
+ chair
+ chamber
+ circular diagram
+ cliff
+ cloudy indigo crystal
+ cluster of green needles
+ cluster of orange berries
+ cluster of white berries
+ clutter
+ compass
+ contents of the cabinet
+ copper key
+ copper wheel
+ cracks
+ dark vein
+ darkness
+ desert landscape painting
+ desk
+ direction east
+ direction north
+ direction northeast
+ direction northwest
+ direction south
+ direction southeast
+ direction southwest
+ direction west
+ dome
+ door
+ doorway
+ drain
+ dried plants
+ earthenware tub
+ easel
+ faint perfume
+ far shore
+ film of gauze
+ fireplace
+ flaky black ash
+ fog
+ frost
+ frozen pool
+ gap
+ garden
+ geometric stone form
+ glass barrier
+ glass catwalk
+ glass platform
+ glove
+ golden flowers
+ golden powder
+ granite wall
+ green globe
+ green moon
+ green syrup
+ grey glass sphere
+ grey leather belt
+ grey strip
+ ground
+ harp
+ harpstrings
+ heap of spheres
+ heavy brown gel
+ hollow
+ hook
+ immense book
+ indigo mass
+ ink
+ inside
+ instruments
+ iron door
+ iron key
+ iron lever
+ iron wheel
+ knotted string
+ ladder
+ lake
+ large glass slab
+ layer of fog
+ lead door
+ leaden jar
+ leather armchair
+ leaves
+ ledge
+ left disk
+ lib_messages
+ light
+ low platform
+ lump of resin
+ marble statue
+ measure of blue dust
+ medium hole
+ mirror
+ mirror frame
+ mist
+ moon
+ mosaic
+ moss
+ mountain
+ mountain landscape painting
+ mountains
+ mural
+ music
+ narrow gap
+ narrow opening
+ narrow rent
+ night cloak
+ obsidian dagger
+ ocean
+ openings
+ orrery
+ outcroppings
+ outside
+ painted belt
+ painted bracer
+ painted cloak
+ painted dagger
+ painted gauntlet
+ painted shield
+ painted sky
+ painted symbol
+ painted thread
+ pale brown tincture
+ palette
+ paths
+ pedestal
+ pillars
+ pit
+ plants
+ pool
+ potted plant
+ pull-chain
+ putrid smell
+ pyramid
+ quill pen
+ ravine
+ red globe
+ right disk
+ ringed tan moon
+ river noise
+ scale
+ sconce
+ sconces
+ scrap of gauze
+ scrap of paper
+ settee
+ shadow
+ sheet of ice
+ shelves
+ shrubs
+ silk case
+ silver basket
+ silver wheel
+ sky
+ small gum blob
+ small hole
+ smoke
+ spell
+ spout
+ stacks of books
+ stairs
+ stairway
+ stars
+ statuary
+ stock of blue dust
+ stock of resin
+ stone
+ stone columns
+ stone formations
+ stones
+ straw torch
+ sun
+ sweet scent
+ table
+ tall copper triangle
+ tan globe
+ tarnished bracelet
+ telescope
+ thread of smoke
+ tidy path
+ tiny fish
+ torn black shred
+ traces of frost
+ track
+ triangular silhouette
+ trunk
+ underground river
+ unearthly world
+ valley
+ vdsg   yklt    ul awntsfub awkwdc   mMh
+ violet crystal
+ violet globe
+ violet moon
+ vitreous black slag
+ voice
+ voices
+ waterfall
+ white dome
+ white door
+ white smoke
+ wicker chair
+ wide path
+ window
+ wisps of steam
+ withered apple
+ wooden basket
+ wooden door
+ yellow oil
+

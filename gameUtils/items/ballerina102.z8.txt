@@ -1,0 +1,504 @@
+ (AF_Door)
+ (Bookstore_Door)
+ (CS0)
+ (CS1)
+ (CS2)
+ (CS3)
+ (CS4)
+ (CS5)
+ (CS6)
+ (CS_Door)
+ (Exterior_Toy_Door)
+ (FB_Door)
+ (HF_Door)
+ (HHM1)
+ (HHM10)
+ (HHM2)
+ (HHM3)
+ (HHM4)
+ (HHM5)
+ (HHM6)
+ (HHM7)
+ (HHM8)
+ (HHM9)
+ (HP_Door)
+ (Inform Library)
+ (Inform Parser)
+ (Interior_Toy_Door)
+ (LG_Door)
+ (Lamp_Door)
+ (MM1)
+ (MM2)
+ (MM3)
+ (MM4)
+ (MM5)
+ (MM6)
+ (MM7)
+ (MM8)
+ (MM9)
+ (O_Door)
+ (PS_Door)
+ (PYT_Door)
+ (Rusty_Door)
+ (SB_Door)
+ (SG_Door)
+ (SS_Door)
+ (Scenery_Recess)
+ (Shoe_Door)
+ (Souv_Door)
+ (Stairwell_Door_Lower)
+ (Stairwell_Door_Main)
+ (Stairwell_Door_Roof)
+ (Stairwell_Door_Upper)
+ (TA_Door)
+ (darkness object)
+ (self object)
+ Antique Furniture sign
+ Balloon
+ Balls And Racquets sign
+ Belt Up sign
+ Beside the packing crate (near the edge of the roof)
+ Big Yummy Sandwiches sign
+ Boot Sector sign
+ Botanical Guide
+ CM_Button
+ Christmas tree
+ Colossal Adventure sign
+ Colossal Jaunto
+ CompassDirection
+ Credit_Slip
+ Doctor Agile's pill bottle
+ Elvis portrait
+ Exterior_Area
+ Fashion Boutique sign
+ Feathers And Fur sign
+ Flogg & Grabby's Stufftown
+ HHM_Room
+ Here's Looking At You sign
+ Holly Door
+ In The Pink sign
+ Inkwell Fine Print sign
+ L-shaped piece of metal
+ Light Fantastic sign
+ MM_Room
+ Match
+ Mistletoe Door
+ Monkey Palace
+ Movable_Obj
+ My Green Friends sign
+ Narrow Ledge (hanging from the rope)
+ O button
+ Oct_Button
+ On a high, sloping ledge
+ Palace of Play sign
+ Park Your Tot sign
+ PutUnderObj
+ Roof_Area
+ Room
+ Rudolph poster
+ Semi_Exterior
+ ShopDoor
+ ShopSign
+ Something Wicked sign
+ South End of the Storage Room (on the ladder)
+ StairwellDoor
+ Sugar Toes Ballerina
+ TRIP button
+ TV monitors, colored buttons, and rotary dial
+ Three Wise Men plate
+ Toy_Door
+ Tune Time sign
+ Victrola
+ X and O buttons
+ X button
+ You Shouldn't Have sign
+ Your Gorgeous Self sign
+ air pump
+ alarm
+ alarm clock
+ alphabet blocks
+ angel figure
+ angel wings
+ antique train exhibit
+ arch
+ area around your feet
+ arithmetic
+ ashes
+ awl
+ b   juwbu
+ bag of nails
+ bagpipes
+ balcony
+ ball
+ ballerina
+ balloons
+ bamboo
+ banana
+ bar code tag
+ barn
+ beach ball
+ beam
+ beige cube
+ belt
+ bicycle pump
+ big blue dinosaur
+ big cage
+ binder
+ binoculars
+ birdbath
+ black knob
+ black vinyl disc
+ blackboard
+ blinds
+ blue balloon
+ blue button
+ board
+ boarded-up doors and windows
+ book of matches
+ book-binding machine
+ books
+ boot
+ booth
+ bottles
+ bottles of lotion
+ branches
+ brass button
+ brass key
+ brindle-haired mastiff
+ brooms
+ bullet
+ burglar alarm
+ button
+ buttons
+ cable
+ cage
+ candy bars
+ car
+ car door
+ car key
+ cash register
+ cash register slot
+ china cabinet
+ cigar box
+ clear button
+ cliff
+ climbing spikes
+ climbing toy
+ clips
+ clock face
+ coathanger
+ coil of rope
+ commands
+ commode
+ compass
+ concrete monkeys
+ console
+ control box
+ control panel
+ conveyor belt
+ cookies
+ cot
+ counter
+ cow
+ crank
+ credit slip
+ crow
+ crystal goblet
+ curry comb
+ cuticle scissors
+ cylinder
+ dangling end of rope
+ data readout
+ dead elf
+ dinosaur
+ display
+ display case
+ dog
+ door
+ door glass
+ door of the box
+ doors
+ drain
+ driver's license
+ ducts
+ dust
+ east window
+ edge of the roof
+ elbow
+ electric train
+ electrical cable
+ elf
+ elf's clothing
+ emerald
+ enormous emerald
+ fallen beam
+ fat wax candle
+ faucet
+ filing cabinet
+ flagpole
+ flagpole and lanyard
+ flagpole lanyard
+ flap
+ flat tire
+ floor
+ floor under the beam
+ floor under the cow
+ floor, ceiling, and walls
+ foliage
+ furnace
+ furniture
+ garden
+ ghost
+ ginger snaps
+ glass bottle
+ glove
+ glove compartment
+ gloves
+ goblet
+ gold key
+ gold pendant
+ grate
+ gray box
+ gray metal box
+ green balloon
+ green button
+ green lever
+ green switch
+ guard
+ guard's desk
+ handle
+ hanging vine
+ hay
+ haystack
+ hearth
+ heavy winter coat
+ heavy-duty work gloves
+ hedge
+ helium tank
+ hole
+ hole in the floor
+ holster
+ homeless man
+ homeless man's clothing
+ hopper
+ hot floor
+ hs
+ huge vine
+ ice
+ ignition lock
+ illating Cavern
+ inlaid floor
+ inside
+ it twice
+ jack
+ jewelled cavern wall
+ jumbled marquee
+ junction box
+ jungle
+ keypad
+ keypads and displays
+ knives
+ lamps
+ large machine
+ large sheet of cardboard
+ late-model sedan
+ leather goods
+ length of cable
+ light pen
+ lights
+ little hole
+ little red barn
+ little silver key
+ little white pill
+ lm
+ locked doors
+ loose boards
+ loveseat
+ lump of anthracite coal
+ lump of coal
+ magazine
+ mannequins
+ mastiff
+ match
+ matches
+ mc .b
+ merchandise
+ metal door
+ milk
+ mirror
+ mirror maze
+ monitors
+ monkey palace
+ monkeys
+ more merchandise
+ movable tile
+ movement
+ music poster
+ nail
+ national geographic
+ needle
+ nest
+ nightingale
+ nightingale cage keyhole
+ nightstick
+ number button
+ number buttons
+ object handling
+ opal pendant
+ orange balloon
+ outside
+ overhead view
+ packing crate
+ paint and paintbrush
+ paint can
+ paintbrush
+ pair of angel wings
+ pamphlets
+ passkey
+ path
+ pavement
+ pedestal
+ people
+ pet shop
+ piano keys
+ piano pedals
+ piano roll
+ pigeonholes
+ pill bottle
+ planks
+ plant store maze
+ plate
+ platform
+ player piano
+ plywood
+ pockets
+ pole
+ posts
+ pouch
+ power connector
+ power lines
+ power terminal
+ print button
+ purple light
+ puzzles
+ raccoon
+ rags
+ railing
+ rain gutter
+ rats
+ rear-view mirror
+ receipt
+ red balloon
+ red button
+ red knob
+ red lever
+ red switch
+ reindeer
+ reindeer pennant
+ revolver
+ rhinestone nightingale
+ rolltop desk
+ roof
+ roof ladder
+ roofing tiles
+ rope
+ rubber ball
+ rusty door
+ rutabaga poster
+ salon chair
+ scenery
+ scissors
+ scrap of paper
+ scribbled note
+ secret code
+ security guard
+ shadows
+ sheet of cardboard
+ sheet of gray stone
+ sheet of paper
+ shelves
+ shopping bag
+ shopping center
+ shredded paper
+ sign
+ signatures
+ silhouette
+ sink
+ sky
+ sleighbells
+ sliding door
+ sliding vertical cage door
+ slogan
+ slot
+ snack bar console
+ snack display case
+ snow
+ snowdrifts
+ snowy slope
+ spectacles
+ stairs
+ stairwell
+ stall
+ steak
+ steel cable
+ steering wheel
+ stepladder
+ stockings
+ strategy
+ stream
+ string
+ sturdy wooden door
+ styrofoam heads
+ switches
+ tables and chairs
+ tall mirrors
+ teddy bear
+ thick pad
+ thorns
+ tile puzzle
+ tool pouch
+ top of the packing crate
+ tower
+ toy compass
+ toys
+ trash can
+ travel booth
+ travel poster
+ tray
+ trees
+ trellis
+ tricycle
+ trigger
+ trunk
+ tunnels
+ universal solvent
+ unspecified box
+ upper concourse
+ valve
+ venetian blind cord
+ venetian blinds
+ view to the east
+ view to the north
+ view to the northeast
+ view to the northwest
+ view to the south
+ view to the southeast
+ view to the southwest
+ view to the west
+ vinyl disc
+ wad of clay
+ walkthrough
+ walkway
+ wallet
+ water
+ white balloon
+ white cloth
+ white walls
+ window
+ windows
+ winter coat
+ wire cages
+ workbench
+ yellow balloon
+ yellow brick paving stones
+

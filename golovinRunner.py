@@ -127,7 +127,7 @@ def main():
     params = {
         # spearmint says
         "FIGHT_MODE": os.environ['FIGHT_MODE'] if os.environ.has_key("FIGHT_MODE") else "on",
-        "SOURCES": os.environ["SOURCES"] if os.environ.has_key("SOURCES") else "walkthroughs_tutorials_commands",
+        "SOURCES": os.environ["SOURCES"] if os.environ.has_key("SOURCES") else "all",
         "EXPLORING": os.environ["EXPLORING"] if os.environ.has_key("EXPLORING") else "map",
         "PLACE_TAKEN_LIMIT": 6,
         "PLACE_NOUN_BONUS": 3230.47485352,
