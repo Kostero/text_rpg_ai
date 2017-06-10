@@ -129,6 +129,7 @@ def main():
         "FIGHT_MODE": os.environ['FIGHT_MODE'] if os.environ.has_key("FIGHT_MODE") else "on",
         "SOURCES": os.environ["SOURCES"] if os.environ.has_key("SOURCES") else "all",
         "EXPLORING": os.environ["EXPLORING"] if os.environ.has_key("EXPLORING") else "map",
+        "W2V":  os.environ["W2V"] if os.environ.has_key("W2V") else "books",
         "PLACE_TAKEN_LIMIT": 6,
         "PLACE_NOUN_BONUS": 3230.47485352,
         "PLACE_INIT_ACTIONS": 15,
