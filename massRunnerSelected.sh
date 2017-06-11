@@ -5,3 +5,4 @@ do
     python golovinRunner.py $game --quiet --steps=$1 --EXPLORING=$2
   fi
 done
+tail -n 20 scores | python getResult.py
