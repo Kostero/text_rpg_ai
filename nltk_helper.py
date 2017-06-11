@@ -20,7 +20,7 @@ if mode == "books":
 elif mode == "wiki":
     w2v = word2vec.load(path+'/word2vec/data/wiki.bin')
 elif mode == "gn":
-    w2v = word2vec.load(path+'/word2vec/data/googlenews.bin')
+    w2v = word2vec.load(path+'/word2vec/data/googlenews.bin', encoding="ISO-8859-1")
 else:
     print("invalid mode for W2V")
     exit(1)
