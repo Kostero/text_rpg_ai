@@ -4,6 +4,7 @@ from Queue import Queue
 from collections import defaultdict
 import mycommands
 import math
+import cPickle
 
 class GameMap:
     def __init__(self):
@@ -92,7 +93,7 @@ class GameMap:
         if not self.add_tail(self.edges, self.group, self.actions, self.scores):
             self.update()
 
-    def update(self):
+    def update(self, randfunc=lambda: (random.random() + 1)):
         n = len(self.path)
         if n == 0: return
         group = pvector(range(n))
@@ -137,6 +138,10 @@ class GameMap:
 
         consistent_pairs = []
         inconsistent_pairs = []
+        path_length = [1] * n
+        for i in reversed(range(n-1)):
+            if self.moves[i+1] is not None:
+                path_length[i] += path_length[i+1]
         for i, a in enumerate(self.path):
             for j, b in enumerate(self.path[i+1:]):
                 if a == b:
@@ -144,7 +149,7 @@ class GameMap:
                         consistent_pairs.append((i, i + j + 1))
                     else:
                         inconsistent_pairs.append((i, i + j + 1))
-        keyfunc = lambda (a, b): (b) * random.expovariate(2)
+        keyfunc = lambda (a, b): -(path_length[a] + path_length[b]) * randfunc()
         consistent_pairs.sort(key=keyfunc)
         inconsistent_pairs.sort(key=keyfunc)
         for a, b in consistent_pairs + inconsistent_pairs:
@@ -225,6 +230,9 @@ class GameMap:
     def dangerous_place(self, place):
         self.dangerous_places.add(place)
 
+    def save(self):
+        out = open('gamemap.pkl', 'w')
+        cPickle.dump(self, out)
 
 if __name__ == '__main__':
     mp = GameMap()
