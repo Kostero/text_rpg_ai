@@ -1,0 +1,158 @@
+
+Story file is games/ADVSAMP.Z5
+
+    **** Parse tables ****
+
+  Verb entries = 33
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "cli", synonyms = "ent", "go", "run", "wal"
+    [00 00 00 00 00 00 00 02] "cli"
+
+252. 1 entry, verb = "jum"
+    [00 00 00 00 00 00 00 03] "jum"
+
+251. 1 entry, verb = "at"
+    [00 00 00 00 00 00 00 04] "at"
+
+250. 1 entry, verb = "cho", synonyms = "cut"
+    [00 00 00 00 00 00 00 05] "cho"
+
+249. 1 entry, verb = "cat", synonyms = "get", "pic", "tak"
+    [00 00 00 00 00 00 00 06] "cat"
+
+248. 1 entry, verb = "bur", synonyms = "ign", "lig"
+    [00 00 00 00 00 00 00 07] "bur"
+
+247. 1 entry, verb = "dro", synonyms = "giv", "lea", "pou", "rel", "spi"
+    [00 00 00 00 00 00 00 08] "dro"
+
+246. 1 entry, verb = "thr", synonyms = "tos"
+    [00 00 00 00 00 00 00 09] "thr"
+
+245. 1 entry, verb = "qui"
+    [00 00 00 00 00 00 00 0a] "qui"
+
+244. 1 entry, verb = "swi"
+    [00 00 00 00 00 00 00 0b] "swi"
+
+243. 1 entry, verb = "rub"
+    [00 00 00 00 00 00 00 0c] "rub"
+
+242. 1 entry, verb = "des", synonyms = "exa", "loo"
+    [00 00 00 00 00 00 00 0d] "des"
+
+241. 1 entry, verb = "sto"
+    [00 00 00 00 00 00 00 0e] "sto"
+
+240. 1 entry, verb = "sco"
+    [00 00 00 00 00 00 00 0f] "sco"
+
+239. 1 entry, verb = "inv"
+    [00 00 00 00 00 00 00 10] "inv"
+
+238. 1 entry, verb = "sav"
+    [00 00 00 00 00 00 00 11] "sav"
+
+237. 1 entry, verb = "wak"
+    [00 00 00 00 00 00 00 12] "wak"
+
+236. 1 entry, verb = "unl"
+    [00 00 00 00 00 00 00 13] "unl"
+
+235. 1 entry, verb = "rea"
+    [00 00 00 00 00 00 00 14] "rea"
+
+234. 1 entry, verb = "att", synonyms = "kil", "sla"
+    [00 00 00 00 00 00 00 15] "att"
+
+233. 1 entry, verb = "dri", synonyms = "eat"
+    [00 00 00 00 00 00 00 16] "dri"
+
+232. 1 entry, verb = "fin", synonyms = "loc"
+    [00 00 00 00 00 00 00 17] "fin"
+
+231. 1 entry, verb = "hel"
+    [00 00 00 00 00 00 00 18] "hel"
+
+230. 1 entry, verb = "cal", synonyms = "say", "spe"
+    [00 00 00 00 00 00 00 19] "cal"
+
+229. 1 entry, verb = "hol", synonyms = "scr", "yel"
+    [00 00 00 00 00 00 00 1a] "hol"
+
+228. 1 entry, verb = "fil"
+    [00 00 00 00 00 00 00 1b] "fil"
+
+227. 1 entry, verb = "cro"
+    [00 00 00 00 00 00 00 1c] "cro"
+
+226. 1 entry, verb = "dam"
+    [00 00 00 00 00 00 00 1d] "dam"
+
+225. 1 entry, verb = "bui", synonyms = "mak"
+    [00 00 00 00 00 00 00 1e] "bui"
+
+224. 1 entry, verb = "fee", synonyms = "fuc", "hit", "kic", "kis", "pok",
+                                       "tic", "tou", "wav"
+    [00 00 00 00 00 00 00 1f] "fee"
+
+223. 1 entry, verb = "ope"
+    [00 00 00 00 00 00 00 20] "ope"
+
+    **** Verb action routines ****
+
+  Action table entries = 33
+
+action# action-routine "verb..."
+
+  0.  31f4  "script"
+  1.  3218  "noscript"
+  2.  3298  "cli"
+  3.  3460  "jum"
+  4.  34dc  "at"
+  5.  3694  "cho"
+  6.  37a0  "cat"
+  7.  3b50  "bur"
+  8.  3c8c  "dro"
+  9.  3e60  "thr"
+ 10.  3f00  "qui"
+ 11.  3f18  "swi"
+ 12.  3fa4  "rub"
+ 13.  4150  "des"
+ 14.  421c  "sto"
+ 15.  4240  "sco"
+ 16.  4254  "inv"
+ 17.  4268  "sav"
+ 18.  4288  "wak"
+ 19.  42c4  "unl"
+ 20.  436c  "rea"
+ 21.  4490  "att"
+ 22.  4548  "dri"
+ 23.  463c  "fin"
+ 24.  46f0  "hel"
+ 25.  4c94  "cal"
+ 26.  4e44  "hol"
+ 27.  4f0c  "fil"
+ 28.  4f50  "cro"
+ 29.  4f8c  "dam"
+ 30.  4fd0  "bui"
+ 31.  5038  "fee"
+ 32.  5058  "ope"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.     0  
+    **** Prepositions ****
+
+  Table entries = 0
+

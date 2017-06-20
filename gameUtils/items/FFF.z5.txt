@@ -1,0 +1,108 @@
+ 
+  
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (check_win_or_loss)
+ (darkness object)
+ (self object)
+ (temp_obj)
+ 1. Take the duck across.
+ 2. Come back and take the fox (or grain) across.
+ 3. When you come back the second time, bring the duck back with you.
+ 4. Leave the duck, and bring the grain (or fox) across.
+ 5. Finally, come back and bring the duck across.
+ About the author
+ Acknowledgments
+ And you can only carry one of them at a time in the boat.
+ Can you block the hole with something?
+ Can't get any out that way.
+ Chris Conroy <cconroy42@yahoo.com>
+ Comments and criticism (constructive or otherwise) are always welcome.
+ CompassDirection
+ Did you read the invoice?
+ Do you have any way of bringing the duck with you, without holding it?
+ Have you examined the sack closely?
+ Have you tried opening the sack?
+ Have you tried walking on water?
+ Hint
+ HintTopic
+ How about the grain?
+ How do I solve the puzzle?
+ Is there somewhere you can put it to keep it from moving around?
+ Likewise, you can't leave the duck and the grain alone together.
+ Menu
+ No, that didn't work.
+ Not while holding the duck, though.
+ Oar
+ Once you've made a hole in the sack, you can't pick it up again.
+ Option
+ PUT FOX IN JUMPSUIT.
+ PUT INVOICE IN HOLE.
+ Perhaps you can close it off from the inside instead.
+ Physical restraint won't do it.
+ Room
+ Special thanks to:
+ Steve Kiefer, for beta testing
+ SwitchOption
+ TEAR SACK or MAKE HOLE IN SACK.
+ TIE ROPE TO DUCK, then TIE ROPE TO ME.
+ The boat is no longer an option.
+ The correct order is:
+ The duck
+ The duck won't stay on the other shore without a good reason.
+ The duck, again
+ The fox
+ The fox doesn't like the motion of the boat.
+ The grain
+ Then bring the pile of grain across along with the duck.
+ There are certain rules you must follow.
+ This is my first attempt at an IF game.
+ This space intentionally left blank.
+ Tie
+ Try swimming.
+ UNTIE ROPE FROM BOAT.
+ Unless, that is, you find some way to seal the hole.
+ What else would entice the duck to stay put?
+ You can't hold it while you row.
+ You can't leave the fox and the duck alone together.
+ You can, however, walk *through* the water (in a sense).
+ You didn't think it would be that easy, did you?
+ You don't have any tape or glue.
+ You need some way to keep it calm while you cross the river.
+ You'll need to find some other way across.
+ and SWIM.
+ and my wife Chelsea, for putting up with my frequent babbling about my
+progress on the game.
+ compass
+ delivery van
+ dock
+ duck
+ east
+ fox
+ ground
+ inside
+ invoice
+ jumpsuit
+ lane
+ north
+ northeast
+ northwest
+ outside
+ pile of grain
+ port oar
+ river
+ rope
+ rowboat
+ sack of grain
+ separator
+ sign
+ south
+ southeast
+ southwest
+ starboard oar
+ tree
+ up above
+ west
+

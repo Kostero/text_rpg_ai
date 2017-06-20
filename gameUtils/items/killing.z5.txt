@@ -1,0 +1,39 @@
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ CompassDirection
+ Machine room
+ Monsters' room
+ Proctor
+ The beach
+ b   d_   
+ bo   pn.
+ boat
+ bodies
+ ceiling
+ chair
+ compass
+ desk
+ detonator
+ east wall
+ equipment
+ floor
+ gun
+ inside
+ machines
+ monsters
+ north wall
+ northeast wall
+ northwest wall
+ notebook
+ outside
+ red button
+ s   ak
+ south wall
+ southeast wall
+ southwest wall
+ tables
+ west wall
+

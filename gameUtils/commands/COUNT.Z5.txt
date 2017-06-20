@@ -1,0 +1,189 @@
+
+Story file is games/COUNT.Z5
+
+    **** Parse tables ****
+
+  Verb entries = 41
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "ent", synonyms = "go", "run", "use", "wal"
+    [00 00 00 00 00 00 00 02] "ent"
+
+252. 1 entry, verb = "qui"
+    [00 00 00 00 00 00 00 03] "qui"
+
+251. 1 entry, verb = "unc"
+    [00 00 00 00 00 00 00 04] "unc"
+
+250. 1 entry, verb = "exa", synonyms = "loo"
+    [00 00 00 00 00 00 00 05] "exa"
+
+249. 1 entry, verb = "cat", synonyms = "get", "mov", "pic", "rem", "tak"
+    [00 00 00 00 00 00 00 06] "cat"
+
+248. 1 entry, verb = "exi", synonyms = "out"
+    [00 00 00 00 00 00 00 07] "exi"
+
+247. 1 entry, verb = "dro", synonyms = "lea", "low", "put"
+    [00 00 00 00 00 00 00 08] "dro"
+
+246. 1 entry, verb = "att", synonyms = "kil"
+    [00 00 00 00 00 00 00 09] "att"
+
+245. 1 entry, verb = "sav"
+    [00 00 00 00 00 00 00 0a] "sav"
+
+244. 1 entry, verb = "smo"
+    [00 00 00 00 00 00 00 0b] "smo"
+
+243. 1 entry, verb = "fin"
+    [00 00 00 00 00 00 00 0c] "fin"
+
+242. 1 entry, verb = "hel"
+    [00 00 00 00 00 00 00 0d] "hel"
+
+241. 1 entry, verb = "cli"
+    [00 00 00 00 00 00 00 0e] "cli"
+
+240. 1 entry, verb = "loc"
+    [00 00 00 00 00 00 00 0f] "loc"
+
+239. 1 entry, verb = "inv"
+    [00 00 00 00 00 00 00 10] "inv"
+
+238. 1 entry, verb = "tie"
+    [00 00 00 00 00 00 00 11] "tie"
+
+237. 1 entry, verb = "unt"
+    [00 00 00 00 00 00 00 12] "unt"
+
+236. 1 entry, verb = "fly"
+    [00 00 00 00 00 00 00 13] "fly"
+
+235. 1 entry, verb = "clo", synonyms = "shu"
+    [00 00 00 00 00 00 00 14] "clo"
+
+234. 1 entry, verb = "lif", synonyms = "ope", "rai"
+    [00 00 00 00 00 00 00 15] "lif"
+
+233. 1 entry, verb = "sle"
+    [00 00 00 00 00 00 00 16] "sle"
+
+232. 1 entry, verb = "rea"
+    [00 00 00 00 00 00 00 17] "rea"
+
+231. 1 entry, verb = "to"
+    [00 00 00 00 00 00 00 18] "to"
+
+230. 1 entry, verb = "ext", synonyms = "unl"
+    [00 00 00 00 00 00 00 19] "ext"
+
+229. 1 entry, verb = "bur", synonyms = "ign", "lig"
+    [00 00 00 00 00 00 00 1a] "bur"
+
+228. 1 entry, verb = "jum"
+    [00 00 00 00 00 00 00 1b] "jum"
+
+227. 1 entry, verb = "wai"
+    [00 00 00 00 00 00 00 1c] "wai"
+
+226. 1 entry, verb = "emp", synonyms = "spi"
+    [00 00 00 00 00 00 00 1d] "emp"
+
+225. 1 entry, verb = "bre", synonyms = "cut", "fil", "tri"
+    [00 00 00 00 00 00 00 1e] "bre"
+
+224. 1 entry, verb = "pul", synonyms = "rin"
+    [00 00 00 00 00 00 00 1f] "pul"
+
+223. 1 entry, verb = "dri", synonyms = "eat"
+    [00 00 00 00 00 00 00 20] "dri"
+
+222. 1 entry, verb = "flu"
+    [00 00 00 00 00 00 00 21] "flu"
+
+221. 1 entry, verb = "wit"
+    [00 00 00 00 00 00 00 22] "wit"
+
+220. 1 entry, verb = "bus", synonyms = "jam", "sma"
+    [00 00 00 00 00 00 00 23] "bus"
+
+219. 1 entry, verb = "say", synonyms = "yel"
+    [00 00 00 00 00 00 00 24] "say"
+
+218. 1 entry, verb = "mak"
+    [00 00 00 00 00 00 00 25] "mak"
+
+217. 1 entry, verb = "sco"
+    [00 00 00 00 00 00 00 26] "sco"
+
+216. 1 entry, verb = "sme", synonyms = "sni"
+    [00 00 00 00 00 00 00 27] "sme"
+
+215. 1 entry, verb = "fee", synonyms = "tou"
+    [00 00 00 00 00 00 00 28] "fee"
+
+    **** Verb action routines ****
+
+  Action table entries = 41
+
+action# action-routine "verb..."
+
+  0.  3320  "script"
+  1.  3344  "noscript"
+  2.  3400  "ent"
+  3.  3838  "qui"
+  4.  384c  "unc"
+  5.  3888  "exa"
+  6.  3fd4  "cat"
+  7.  41dc  "exi"
+  8.  4220  "dro"
+  9.  4338  "att"
+ 10.  4400  "sav"
+ 11.  443c  "smo"
+ 12.  44c0  "fin"
+ 13.  44fc  "hel"
+ 14.  45e8  "cli"
+ 15.  4700  "loc"
+ 16.  4744  "inv"
+ 17.  4758  "tie"
+ 18.  47bc  "unt"
+ 19.  4818  "fly"
+ 20.  4834  "clo"
+ 21.  48e8  "lif"
+ 22.  4b40  "sle"
+ 23.  4b58  "rea"
+ 24.  4e1c  "to"
+ 25.  4eec  "ext"
+ 26.  4f44  "bur"
+ 27.  511c  "jum"
+ 28.  5198  "wai"
+ 29.  51dc  "emp"
+ 30.  5240  "bre"
+ 31.  52b0  "pul"
+ 32.  5314  "dri"
+ 33.  5528  "flu"
+ 34.  5550  "wit"
+ 35.  5600  "bus"
+ 36.  5628  "say"
+ 37.  5644  "mak"
+ 38.  5664  "sco"
+ 39.  567c  "sme"
+ 40.  5694  "fee"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.     0  
+    **** Prepositions ****
+
+  Table entries = 0
+

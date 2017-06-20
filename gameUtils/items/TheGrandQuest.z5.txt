@@ -1,0 +1,34 @@
+ 
+ (I7_property_numberspace_forcer)
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (Value_Property_Holder)
+ (darkness object)
+ CompassDirection
+ K0_kind
+ K10_player_s_holdall
+ K11_device
+ K134_coin
+ K135_50_jin_coin
+ K136_20_jin_coin
+ K137_10_jin_coin
+ K139_1_jin_coin
+ K178_card
+ K1_room
+ K24_animal
+ K25_man
+ K26_woman
+ K29_vehicle
+ K2_thing
+ K3_direction
+ K4_door
+ K5_container
+ K6_supporter
+ K7_backdrop
+ K8_person
+ K99_table
+ K9_region
+ compass
+

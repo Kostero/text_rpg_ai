@@ -1,0 +1,42 @@
+ 
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (ValuePropertyHolder_39)
+ (darkness object)
+ (property_numberspace_forcer)
+ K0_kind
+ K10_man
+ K11_woman
+ K12_animal
+ K13_device
+ K14_vehicle
+ K15_player_s_holdall
+ K16_display
+ K17_photo_viewer
+ K18_camera
+ K19_chair
+ K1_room
+ K20_pudding
+ K21_bad_pudding
+ K22_space_thing
+ K23_ship
+ K24_ship_room
+ K25_space_station
+ K26_crew_member
+ K27_researcher
+ K28_warp_troll
+ K29_phrase_object
+ K2_thing
+ K3_direction
+ K4_door
+ K5_container
+ K6_supporter
+ K7_backdrop
+ K8_person
+ K9_region
+ VPH_Class
+ b   jmmbmmivcc
+ compass
+ xxf
+

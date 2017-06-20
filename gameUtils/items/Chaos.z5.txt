@@ -1,0 +1,71 @@
+ 
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ Bar Table
+ Baroness
+ Cauldron room
+ Clouds
+ Coffee
+ CompassDirection
+ Drill
+ Fifth Seat
+ First Seat
+ Fourth Seat
+ Hot Fudge Sundae
+ In the desert
+ Jukebox
+ Lantern (Lit)
+ Miniature Statue
+ Mug
+ Mushroom Swiss Omelet
+ Newt
+ Old Woman
+ Pictures
+ Recipe Book
+ Records
+ Saw
+ Second Seat
+ Shops
+ Silver Dollar
+ Sky
+ Snow
+ Space
+ Streetlight
+ Tenements
+ The inside of a coffee mug
+ Third Seat
+ Waitress
+ White Knight
+ Wooden Cabinet
+ Wooden Chest
+ Wooden Elephant
+ Wooden Flower
+ Wooden Jack-In-The-Box
+ Wooden Keanu Reeves
+ Wooden Merry-Go-Round
+ Wooden Mouse
+ Wooden Nightstand
+ Wooden Skyscraper
+ Wooden Spoon
+ Wooden Tree
+ b   dlw   
+ compass
+ east
+ ght
+ ground
+ inside
+ north
+ northeast
+ northwest
+ outside
+ south
+ southeast
+ southwest
+ up above
+ west
+ ydf
+

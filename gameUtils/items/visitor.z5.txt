@@ -1,0 +1,35 @@
+  on.
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ CompassDirection
+ Gladys Harding
+ Gladys's Bed
+ Gladys's Chair
+ Gladys's Cupboard
+ Gladys's Door
+ Gladys's Photos
+ Gladys's Window
+ Gladys's clothes
+ Gladys's face
+ Gladys's hands
+ Gladys's shoes
+ GladysBits
+ b   dbw   wcuf 
+ ceiling
+ compass
+ east wall
+ floor
+ hmtgsn
+ inside
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ south wall
+ southeast wall
+ southwest wall
+ west wall
+

@@ -1,0 +1,55 @@
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ CompassDirection
+ Frank
+ Graham
+ Nazis
+ Short Stuff
+ St. Etienne
+ Susanne
+ Tom
+ ammo clip
+ b   dlo   
+ bakery
+ barn
+ bed
+ bedside table
+ cardboard box
+ ceiling
+ church
+ compass
+ computer
+ corpse
+ east wall
+ floor
+ furniture
+ gkn
+ grenade
+ ground
+ gun
+ house
+ inside
+ iron gate
+ janellephant
+ letter
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ picture
+ plane
+ road
+ sign
+ sky
+ south wall
+ southeast wall
+ southwest wall
+ street
+ trees
+ well
+ west wall
+ yn
+

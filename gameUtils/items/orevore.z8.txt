@@ -1,0 +1,40 @@
+ 
+     
+ (I7_property_numberspace_forcer)
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (Value_Property_Holder)
+ (darkness object)
+ CompassDirection
+ K0_kind
+ K10_player_s_holdall
+ K11_device
+ K156_dissolver
+ K176_button
+ K177_room_button
+ K184_door_button
+ K187_video_button
+ K194_dial
+ K197_circular_button
+ K1_room
+ K205_event
+ K24_animal
+ K25_man
+ K26_woman
+ K29_vehicle
+ K2_thing
+ K311_noise
+ K3_direction
+ K4_door
+ K5_container
+ K6_supporter
+ K7_backdrop
+ K8_person
+ K9_region
+ b   qrcar
+ compass
+ mdev   
+ zqa
+

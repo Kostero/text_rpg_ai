@@ -1,0 +1,67 @@
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ About The Author
+ About The Story
+ Acknowledgments
+ Basic Commands
+ Communicating with Interactive Fiction
+ CompassDirection
+ Elmo
+ French knife
+ Menu
+ Option
+ SwitchOption
+ b   dmg   
+ bathrobe
+ bathrobe tie
+ bathroom door
+ bathtub
+ bed
+ canister of hairspray
+ ceiling
+ ceremonial bell
+ coffee table
+ collectibles cabinet
+ compass
+ counter
+ dental floss
+ desk
+ disposal unit
+ divining rod
+ east wall
+ em 
+ floor
+ freezer
+ front door
+ glass shards
+ hole in the door
+ inside
+ kjz msqlj
+ medicine cabinet
+ north wall
+ northeast wall
+ northwest wall
+ ornately decorated glass lamp
+ outside
+ pastoral painting
+ rubber band
+ sheet
+ shiny key
+ shredded sheet
+ sink
+ slippers
+ small sword
+ sofa
+ south wall
+ southeast wall
+ southwest wall
+ table
+ talisman
+ toilet
+ west wall
+ window
+ zipo lighter
+

@@ -1,0 +1,411 @@
+ "Bal du Moulin de la Galette"
+ "Bridge Street"
+ "Church Street South"
+ "Church Street, North"
+ "Dracula Prince of Darkness" Menu
+ "Henrietta street"
+ "Mona Lisa"
+ "Sandgate Street"
+ "Tate Hill"
+ "The Shepherds of Arcadia"
+ "Whitby Market Square"
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (darkness object)
+ (limbo)
+ (self object)
+ (t_goodbye)
+ (t_hello)
+ (t_no)
+ (t_yes)
+ A Sandy beach
+ A Winding path, deep in the forest
+ A hill top graveyard
+ A small path.
+ Abbey ruins
+ An open field
+ Arrow
+ Bluebeard's hammock
+ Bride of Frankenstein
+ Captain Bluebeard
+ Castle Dracula
+ Castle key
+ Charm
+ CompassDirection
+ Deck of "The Demeter"
+ Devil's key
+ Devil's vine
+ Dr. Hartnell's hammock
+ EFkakk b   lkqhc
+ Famine charm
+ Fish n Chip shop
+ Frankenstein's monster
+ Gas lights
+ Handrail
+ Hell charm
+ History of "Dracula Prince of Darkness"
+ InsideWindow
+ Isaac's hammock
+ Jetty
+ Key
+ Limping Pete's hammock
+ LockedDoor
+ Menu
+ My other IF games.
+ Option
+ Pestilence charm
+ Playing the game
+ Prop
+ Room
+ St. Mary's Church
+ Steep stone steps
+ SwitchOption
+ The Four Horsemen
+ The Pit and the Pendulum
+ The choir room
+ Tree of Life
+ War charm
+ Waste bin
+ Whitby abbey
+ White woman
+ altar
+ anchor
+ antique globe
+ archway
+ arrow
+ b   xsw'
+ bag
+ bannister
+ barrels
+ basket
+ bath
+ bats
+ beams
+ bed
+ beds
+ bell rope
+ bench
+ bible
+ bird's nest
+ blade
+ blanket
+ block of ice
+ blood
+ bloody mess
+ bloody parchment
+ board
+ bodies
+ body
+ body of a man
+ body of the priest
+ body parts
+ books
+ bottle of antidote
+ brass tap
+ brazier
+ bronze dial
+ bronze lectern
+ broom
+ buildings
+ bull
+ cable
+ candles
+ cannonballs
+ cannons
+ canvas sails
+ captain's log
+ carpet
+ carving
+ castle
+ castle walls
+ cat
+ cauldron
+ cave
+ ceiling
+ ceiling hatch
+ chain
+ chains
+ chair
+ chest
+ church
+ church organ
+ cigar
+ cigarette
+ clearing
+ clock
+ clock face
+ clock pendulum
+ clothes
+ clouds
+ cobble stones
+ cobwebs
+ coffin
+ cog
+ cogs
+ compass
+ conversational topics
+ cooking pot
+ cottage
+ counterweight
+ courtyards
+ crabs
+ crest
+ crocodile
+ crossbow
+ crow's nest
+ crystal door
+ cupboard
+ damp mould
+ dead body
+ dead body of the vampire
+ dead rat
+ desk
+ dfaehrsth.e
+ diffuser
+ dining table
+ dog
+ door
+ doors
+ drawbridge
+ dressing table
+ dust
+ earth
+ east
+ ebony door
+ electrical apparatus
+ equipment
+ evil-looking spider
+ faces
+ figurehead
+ fire
+ fittings
+ flagstones
+ flies
+ floor
+ floorboards
+ forest
+ forest path
+ fruit tree
+ fungus
+ furnace
+ furniture
+ fuse
+ fuse rack
+ gallery
+ gangplank
+ garden
+ garlic
+ gate
+ ghost
+ glass
+ glass bottle
+ glass key
+ glowing, hot, glass bottle
+ golden apple
+ graffiti
+ grandfather clock
+ grapes
+ grave stones
+ gravestone
+ graveyard
+ green coin
+ green copper key
+ green door
+ ground
+ guardrail
+ hall
+ hammocks
+ hand
+ handle
+ harbour
+ hatch
+ head
+ heavy black curtains
+ heavy iron door
+ hell hound
+ hole
+ human head
+ hunchback
+ image of the Grim Reaper
+ inscription
+ insects
+ inside
+ instruments
+ iron maiden
+ island
+ jetty
+ keyboards
+ kites
+ lantern
+ large bed
+ large forest pond
+ large iron door
+ lawn
+ lectern
+ ledge
+ letter
+ lever
+ licence
+ lifeless body of a young woman
+ lighthouses
+ lightning
+ little blue bottle
+ long wooden box
+ lost souls
+ lump of sugar
+ marble
+ massive iron doors
+ mast
+ mattress
+ meat saw
+ mice
+ mist
+ moon
+ mosquitoes
+ moss
+ mouldy skeleton
+ mud
+ musical note
+ north
+ northeast
+ northwest
+ notice
+ oak door
+ oak table
+ oil skins
+ old snow shovel
+ open window
+ outside
+ oven
+ owl
+ padlock
+ painting of a pirate ship
+ paintings
+ panels
+ passage
+ passageway
+ pendulum
+ pentagram
+ piece of cod in batter
+ pile of straw
+ pipe
+ pipes
+ pirate
+ pirate ship
+ pit
+ pocket
+ pond
+ pot
+ potions
+ priest
+ pulpit
+ rack
+ rat
+ rats
+ raven
+ rigging
+ river
+ roof
+ roots
+ rope
+ rubble
+ rusty iron key
+ sap
+ scratches
+ sea
+ sea chart
+ sea weed
+ seats
+ seed
+ sewer creature
+ shadow
+ shelves
+ ship
+ ship's wheel
+ ships timbers
+ ships wheel
+ sign
+ silver skull
+ silver worm
+ sink
+ skulls
+ slab
+ slime
+ small garden door
+ small wooden door
+ snails
+ snow
+ snowman
+ sorcerer
+ south
+ southeast
+ southwest
+ sparks
+ spider
+ spiders
+ spindle
+ spyglass
+ srorriM fo mooR
+ stained glass saints
+ stains
+ stake
+ stations of the cross
+ statue
+ statue of a deformed devil
+ statue of an angel
+ statue of four angels
+ steam
+ steps
+ stopper
+ storm
+ strange blue light
+ strange glowing water
+ straps
+ straw
+ sword
+ tabby cat
+ table
+ tap
+ tapestries
+ tapestry
+ the walls
+ thorn
+ thorns
+ tiles
+ tinderbox
+ tiny silver key
+ toad
+ toilet
+ torches
+ torture chamber
+ treasure chest
+ trees
+ undergrowth
+ uniform
+ up above
+ vapour
+ voice
+ vortex
+ wallpaper
+ wardrobe
+ wasps
+ water
+ waterfall
+ waxed wand
+ west
+ winch
+ window
+ windows
+ witch
+ wolf
+ wolves
+ woman
+ wooden benches
+ wooden coffin
+ woods
+ wounds
+ wrecked ship
+ writing
+

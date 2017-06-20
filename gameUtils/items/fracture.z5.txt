@@ -1,0 +1,119 @@
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ Changeable
+ Changeable_1
+ Changeable_10
+ Changeable_11
+ Changeable_12
+ Changeable_13
+ Changeable_14
+ Changeable_15
+ Changeable_16
+ Changeable_17
+ Changeable_18
+ Changeable_19
+ Changeable_2
+ Changeable_20
+ Changeable_21
+ Changeable_22
+ Changeable_23
+ Changeable_24
+ Changeable_25
+ Changeable_26
+ Changeable_27
+ Changeable_28
+ Changeable_29
+ Changeable_3
+ Changeable_30
+ Changeable_31
+ Changeable_32
+ Changeable_33
+ Changeable_34
+ Changeable_35
+ Changeable_36
+ Changeable_37
+ Changeable_38
+ Changeable_39
+ Changeable_4
+ Changeable_40
+ Changeable_41
+ Changeable_42
+ Changeable_43
+ Changeable_44
+ Changeable_45
+ Changeable_46
+ Changeable_47
+ Changeable_48
+ Changeable_49
+ Changeable_5
+ Changeable_50
+ Changeable_51
+ Changeable_6
+ Changeable_7
+ Changeable_8
+ Changeable_9
+ CompassDirection
+ Key
+ Mirage
+ Moorish archway
+ Optical
+ Room
+ animator
+ ball of yarn
+ brown dress
+ butterfly
+ button
+ ceiling
+ compass
+ contraption
+ crystals
+ delicate key
+ dial
+ east wall
+ elephant
+ filigree key
+ filigreed cages
+ floor
+ furnace
+ geometric patterns
+ glass leaves
+ glass trees
+ hinges
+ inside
+ jungle
+ keyhole
+ ladder
+ lake surface
+ landing
+ large paving stone
+ light hole
+ magnifying glass
+ mirrors
+ mouse
+ needle
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ passage
+ pulley
+ ring
+ rock
+ round apple
+ sealife
+ silvered door
+ slippers
+ south wall
+ southeast wall
+ southwest wall
+ tower stairs
+ tube
+ vellum scroll
+ walls
+ water
+ west wall
+ workbox
+

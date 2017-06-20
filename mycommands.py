@@ -11,8 +11,7 @@ if path == '':
 
 Command = namedtuple('Command', ['text', 'nouns', 'freq'])
 
-def load_commands(filename):
-    result = defaultdict(list)
+def load_commands(result, filename):
     with open(filename, 'r') as f:
         for l in f.readlines():
             try:
@@ -24,19 +23,21 @@ def load_commands(filename):
                     result[n].append(Command(text, nouns, freq))
             except:
                 print 'failed to parse', l
-    return result
 
 import json
 with open('params.json') as jsonfile:
     params = json.load(jsonfile)
 
 
-mode = params["SOURCES"]
+mode = os.environ["SOURCES"] if os.environ.has_key("SOURCES") else params["SOURCES"]
 if type(mode) == list:
     mode = mode[0]
 
-commands = load_commands(path+'/commands/preprocessedCommands_'+mode+'.txt')
-fight_commands = load_commands(path+'/commands/preprocessedFightCommands_'+mode+'.txt')
+commands = defaultdict(list)
+fight_commands = defaultdict(list)
+for mod in mode.split("_"):
+    load_commands(commands, path+'/commands/preprocessedCommands_'+mod+'.txt')
+    load_commands(fight_commands, path+'/commands/preprocessedFightCommands_'+mod+'.txt')
 
 global directions
 directions = ['east', 'west', 'south', 'north', 'southeast', 'northwest', 'northeast', 'southwest', 'up', 'down', 'left', 'right', 'get off', 'get on', 'straight', 'back']

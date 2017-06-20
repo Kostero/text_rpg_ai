@@ -1,0 +1,82 @@
+ "Dragons, A Not Even Slightly Fictitious or Imaginary Study"
+ "Official Strategy Guide"
+ "Paranormal Paranoia"
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ (the_countdown)
+ CompassDirection
+ MachineDoor
+ Mikey the Mouse telephone
+ b   dog   
+ baby dragon
+ banana
+ basket
+ bathtub
+ bed
+ bedroom door
+ bookshelf
+ car
+ card table
+ ceiling
+ clothes
+ coat rack
+ compass
+ counter
+ deep frier
+ drier
+ east wall
+ egg
+ faucet
+ floor
+ french fries
+ front door
+ fruit bowl
+ giant dragon
+ gkn
+ gorilla
+ gorilla's cage
+ ham
+ handle
+ hanging end of hose
+ hose roller
+ inside
+ interdimensional portal
+ kitchen door
+ knife
+ laundry basket
+ left door
+ length of hose
+ medicine cabinet
+ milk
+ mountain of socks
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ oven
+ pair of socks
+ plate
+ playpen
+ refrigerator
+ right door
+ satellite cable
+ sleeping pills
+ snake
+ sock
+ south wall
+ southeast wall
+ southwest wall
+ strange machine
+ television
+ tpz
+ umbrella
+ video camera
+ water
+ weights
+ west wall
+ your boss
+ your cage
+

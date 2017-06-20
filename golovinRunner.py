@@ -122,19 +122,23 @@ def run(params, filename, directory, steps = 2000, quiet = False):
     return (score + max_score) / 2.0
 
 
+
 def main():
     params = {
-        "FIGHT_MODE": "on",
-        "SOURCES": "all",
-        "EXPLORING": "map",
-        "PLACE_TAKEN_LIMIT": 1,
-        "PLACE_NOUN_BONUS": 2000.0,
-        "PLACE_INIT_ACTIONS": 3,
-        "PLACE_MOVE_ACTION_RATIO": 20,
-        "PLACE_UNKNOWN_PENALTY": 500,
-        "PLACE_FREQUENCY_EXPONENT": 1.0,
-        "PLACE_SIMILAR_NOUNS_NUMBER": 6
+        # spearmint says
+        "FIGHT_MODE": os.environ['FIGHT_MODE'] if os.environ.has_key("FIGHT_MODE") else "on",
+        "SOURCES": os.environ["SOURCES"] if os.environ.has_key("SOURCES") else "all",
+        "EXPLORING": os.environ["EXPLORING"] if os.environ.has_key("EXPLORING") else "map",
+        "W2V":  os.environ["W2V"] if os.environ.has_key("W2V") else "books",
+        "PLACE_TAKEN_LIMIT": 6,
+        "PLACE_NOUN_BONUS": 3230.47485352,
+        "PLACE_INIT_ACTIONS": 15,
+        "PLACE_MOVE_ACTION_RATIO": 1,
+        "PLACE_UNKNOWN_PENALTY": 68.0344727,
+        "PLACE_FREQUENCY_EXPONENT": 0.39831543,
+        "PLACE_SIMILAR_NOUNS_NUMBER": 10
     }
+
     default_args = {
         "path": "textplayer/games/",
         "quiet": "false",

@@ -1,0 +1,214 @@
+  K k    C
+  what x
+ 'Along The Kennebec' Room
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (questions1)
+ (self object)
+ (spaceCloset)
+ (temp_obj)
+ AR checker
+ Ancient monk
+ Aphrodite
+ Aphrodite's G-string
+ Character Sheet
+ Chizumi
+ Client
+ CompassDirection
+ Dungeon Master
+ Eastern Lady
+ Eiji
+ Furnace (East)
+ Furnace (North)
+ Furnace (South)
+ Gaho
+ Gregory
+ Haseo
+ HouseRoom
+ Katsu
+ Main Street (Central)
+ Main Street (East)
+ Main Street (West)
+ Null suit
+ Room
+ SAR checker
+ Screens
+ Soh
+ Superlignment(tm) lottery ticket
+ Temple of Chaos
+ The Bridge of the H. M. S. Snark
+ The Conscience of Nebusan Sedonkawa, Yakuza Leader
+ The Misplaced Shoppe
+ TimeOfDay
+ UjiFuji
+ Vidoru
+ Zyun
+ aSwitch
+ afternoon
+ air hole
+ alignment
+ angst
+ apprentice's quarters
+ armor class
+ b   ojeJefbd 
+ ball of fire
+ banks
+ bard
+ bard's cage
+ beautiful woman
+ beg
+ black door
+ bookshelves
+ bottle of 8-wraith ale
+ buttons
+ cage
+ cages
+ candles
+ caveRoom
+ ceiling
+ cells
+ cemetery
+ chaos
+ chasm
+ cheat
+ child
+ collection
+ compass
+ conservatory
+ convention badge
+ cot
+ curtain
+ databank dial
+ database
+ dawn
+ debris
+ demeInfo
+ desk
+ dice
+ dinosaur's cage
+ diploma
+ discolored stone
+ doctor's office
+ door
+ dungeon master
+ dust
+ east wall
+ eighth button
+ equipment
+ ethereal door
+ evening
+ fear
+ fifth button
+ first button
+ floor
+ food and water
+ fourth button
+ front window
+ gardens
+ gate
+ general store
+ gentleman
+ ghost
+ ghost's cage
+ glasses
+ graves
+ graveyard
+ gray door
+ hatch
+ help scheduler
+ hit points
+ hulking figure
+ hurtling console
+ id
+ indoorRoom
+ inn
+ inside
+ inside of the mausoleum
+ jObject
+ jail
+ junk
+ kg from s 
+ laboratory
+ large cell
+ letter
+ level
+ library
+ magnifying glass
+ man
+ manifestation
+ map
+ mausolea
+ mausoleum
+ megnax info
+ midnight
+ mist
+ moorings
+ morning
+ mother
+ mountain view
+ night
+ ninth button
+ noon
+ north wall
+ northeast wall
+ northwest wall
+ on-screen image
+ opacity crystal
+ ore
+ outdoorRoom
+ outside
+ package
+ pander
+ panel above
+ panel below
+ piano
+ piano player
+ platform
+ platinum harp
+ platinum ring
+ profession
+ proprietor
+ psych
+ river
+ roller coaster
+ saloon hostess
+ schedule
+ screenObject
+ second button
+ seventh button
+ sheriff
+ ship
+ sixth button
+ slab
+ south wall
+ southeast wall
+ southwest wall
+ spirit bow
+ studio
+ t-rex
+ tea room
+ temple
+ theater
+ third button
+ tone lever
+ townperson
+ tracks
+ train station
+ train tracks
+ trophy
+ unknown mausoleum
+ veil
+ viewport
+ wagon
+ wagonRoom
+ wanted posters
+ warehouse
+ west wall
+ which guy
+ white door
+ window
+ wraiths
+ zoo
+

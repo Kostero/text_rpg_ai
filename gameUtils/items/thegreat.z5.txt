@@ -1,0 +1,31 @@
+  e   s
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ CaveObject
+ CompassDirection
+ Principia Sensoria
+ b   ddc   
+ cave features
+ ceiling
+ compass
+ dark monolith
+ east wall
+ flashlight
+ floor
+ inside
+ mztaugyc
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ pointing machine
+ south wall
+ southeast wall
+ southwest wall
+ strange machine
+ token
+ west wall
+

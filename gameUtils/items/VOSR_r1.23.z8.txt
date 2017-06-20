@@ -1,0 +1,892 @@
+ 
+ (745)
+ (764)
+ (772)
+ (783)
+ (797)
+ (806)
+ (815)
+ (828)
+ (839)
+ (848)
+ (861)
+ (869)
+ (877)
+ (885)
+ (888)
+ (891)
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (darkness object)
+ (elsa_scrapbook_clippings)
+ (last_plot_106)
+ (plot_100)
+ (plot_101)
+ (plot_102)
+ (plot_103)
+ (plot_104)
+ (plot_105)
+ (plot_11)
+ (plot_13)
+ (plot_14)
+ (plot_15)
+ (plot_16)
+ (plot_17)
+ (plot_18)
+ (plot_19)
+ (plot_2)
+ (plot_20)
+ (plot_21)
+ (plot_22)
+ (plot_23)
+ (plot_24)
+ (plot_25)
+ (plot_26)
+ (plot_27)
+ (plot_28)
+ (plot_29)
+ (plot_30)
+ (plot_31)
+ (plot_32)
+ (plot_33)
+ (plot_34)
+ (plot_35)
+ (plot_36)
+ (plot_37)
+ (plot_38)
+ (plot_39)
+ (plot_40)
+ (plot_43)
+ (plot_44)
+ (plot_45)
+ (plot_46)
+ (plot_47)
+ (plot_48)
+ (plot_49)
+ (plot_5)
+ (plot_50)
+ (plot_51)
+ (plot_52)
+ (plot_53)
+ (plot_54)
+ (plot_55)
+ (plot_56)
+ (plot_57)
+ (plot_58)
+ (plot_6)
+ (plot_61)
+ (plot_62)
+ (plot_63)
+ (plot_64)
+ (plot_65)
+ (plot_66)
+ (plot_67)
+ (plot_68)
+ (plot_69)
+ (plot_7)
+ (plot_70)
+ (plot_71)
+ (plot_72)
+ (plot_73)
+ (plot_74)
+ (plot_75)
+ (plot_76)
+ (plot_77)
+ (plot_78)
+ (plot_79)
+ (plot_8)
+ (plot_80)
+ (plot_81)
+ (plot_82)
+ (plot_83)
+ (plot_84)
+ (plot_85)
+ (plot_86)
+ (plot_87)
+ (plot_88)
+ (plot_89)
+ (plot_9)
+ (plot_90)
+ (plot_91)
+ (plot_92)
+ (plot_93)
+ (plot_94)
+ (plot_95)
+ (plot_96)
+ (plot_97)
+ (plot_98)
+ (plot_99)
+ (plot_elsa_109)
+ (plot_hamilton_110)
+ (plot_henry_10)
+ (plot_marshal_41)
+ (plot_mcguire_42)
+ (plot_penniwit_106)
+ (self object)
+ (temp_obj)
+ (tombstone_MCumber_Dan_102)
+ (tombstone_Miner_Georgine_103)
+ (tombstone_amanda_barker_8)
+ (tombstone_andy_nightwatch_32)
+ (tombstone_arnet_justice_52)
+ (tombstone_arnett_harold_46)
+ (tombstone_atherton_lucius_55)
+ (tombstone_barret_pauline)
+ (tombstone_benjamin_fraser_20)
+ (tombstone_benjamin_painter_14)
+ (tombstone_bennett_henry_65)
+ (tombstone_bindle_nicholas_44)
+ (tombstone_bliss_charles_88)
+ (tombstone_blood_a_d_68)
+ (tombstone_bloyd_wendell_79)
+ (tombstone_bow_yee_98)
+ (tombstone_brown_sarah)
+ (tombstone_burke_robert_69)
+ (tombstone_burleson_john_75)
+ (tombstone_butch_weldy_25)
+ (tombstone_cabanis_flossie)
+ (tombstone_cassius_hueffer_6)
+ (tombstone_chase_henry_10)
+ (tombstone_chicken_ida_105)
+ (tombstone_church_john_82)
+ (tombstone_clapp_homer_56)
+ (tombstone_clark_nellie_61)
+ (tombstone_clute_aner_54)
+ (tombstone_constance_hatley_9)
+ (tombstone_cooper_griffy_66)
+ (tombstone_daisy__19)
+ (tombstone_doctor_meyers_23)
+ (tombstone_elsa_wertman_109)
+ (tombstone_emily_sparks_17)
+ (tombstone_fallas_attorney_78)
+ (tombstone_fluke_willard_53)
+ (tombstone_frank_drummer_28)
+ (tombstone_french_charlie)
+ (tombstone_goodpasture_jacob_45)
+ (tombstone_gray_george_64)
+ (tombstone_gustine_dorcas_43)
+ (tombstone_hainsfeather_barney_85)
+ (tombstone_hamilton_greene_110)
+ (tombstone_hare_drummer_29)
+ (tombstone_harry_goodhue_11)
+ (tombstone_herbert_marshall_63)
+ (tombstone_hill_doc_31)
+ (tombstone_hodd_putt_2)
+ (tombstone_holden_barry_77)
+ (tombstone_hookey_sam_58)
+ (tombstone_howard_jefferson)
+ (tombstone_indignation_jones_22)
+ (tombstone_iseman_siegfire_49)
+ (tombstone_jack_blind_74)
+ (tombstone_jack_mcguire_42)
+ (tombstone_jones_franklin_81)
+ (tombstone_judge_circuit_73)
+ (tombstone_keene_jonas_96)
+ (tombstone_kinsey_keene_13)
+ (tombstone_knapp_nancy_76)
+ (tombstone_knowlt_hoheimer_26)
+ (tombstone_lively_selah_94)
+ (tombstone_lydia_puckett_27)
+ (tombstone_marshal_41)
+ (tombstone_mcneely_mary_101)
+ (tombstone_mcneely_paul)
+ (tombstone_mcneely_washington_99)
+ (tombstone_miller_julia)
+ (tombstone_minerca_jones_21)
+ (tombstone_mrs_meyers_24)
+ (tombstone_mrs_painter_15)
+ (tombstone_nutter_isa_84)
+ (tombstone_peet_abner_92)
+ (tombstone_penniwit_106)
+ (tombstone_poet_petit_86)
+ (tombstone_poet_theodore)
+ (tombstone_reece_george_89)
+ (tombstone_reuben_painter_16)
+ (tombstone_rhodes_thomas_104)
+ (tombstone_robert_tanner_5)
+ (tombstone_ross_thomas_91)
+ (tombstone_sayre_johnnie)
+ (tombstone_schirding_albert_95)
+ (tombstone_serepta_mason_7)
+ (tombstone_sexsmith_dentist_67)
+ (tombstone_shaw_ace_50)
+ (tombstone_shelley_percy)
+ (tombstone_siever_conrad_30)
+ (tombstone_slack_margaret_47)
+ (tombstone_smith_louise_62)
+ (tombstone_sonia_russian_83)
+ (tombstone_spears_lois_51)
+ (tombstone_taylor_deacon_57)
+ (tombstone_todd_eugenia_97)
+ (tombstone_trainor_druggist_18)
+ (tombstone_trimble_george_48)
+ (tombstone_turner_francis_80)
+ (tombstone_wiley_lemuel_90)
+ (tombstone_william_and_emily_72)
+ (tombstone_williams_dora_70)
+ (tombstone_williams_mrs_71)
+ (tombstone_witt_zenas)
+ A gravesite
+ A seed was planted and resulted in a new, if short-lived, life.
+ A very useful object that can help you go far.
+ About this game
+ After killing this person, I was sent somewhere for fourteen years. During
+that time, what did I learn to do? You might want to bring something that
+demonstrates what I learned and what I stopped to the Town Marshal's grave.
+ Am I at Peace yet?
+ Am I at Peace?
+ Amos Sibley
+ At the Marshal's grave, drop the journal and the jug. Then, symbolically break
+Jack's habit with the Marshal's "loaded cane."
+ Birch trees
+ Can you put this somewhere helpful?
+ Cane
+ Carl Hamblin
+ Cem_Wall
+ Chase Henry
+ CompassDirection
+ Cooney Potter
+ Cooney denied himself happiness in life.
+ Credits and Acknowledgments
+ Crowbar
+ Do you think that something marking his spot would help?
+ Edge of Large Graveyard (Row 0)
+ Editor Whedon 
+ Elsa Wertman
+ Empty plot
+ Epitaph
+ Epitath
+ Even after the truth has been revealed, it needs to be shared with the world. 
+You will be sure to give me the credit for learning of and trying to share it,
+right?
+ Fiddler Jones
+ Fiddler Jones certainly seemed to enjoy his fiddle.
+ Fiddler Jones threw his broken fiddle into the traschcan at the store.
+ Fiddler Jones' fiddle may help Cooney Potter.
+ Fletcher McGee
+ For instructors
+ For new players
+ Ghost of Mrs. Sibley
+ Giving the fiddle to Cooney may bring him peace.
+ Greene House
+ Hamilton Greene
+ Hint
+ HintTopic
+ Hints...
+ How can the judge move such a heavy burden?
+ How can you help show the true relationship between Hamilton and his real
+mother?
+ How can you reveal Elsa's secret? There is more than one way to accomplish
+this.
+ How do you think you can move this heave stone?
+ How does Hamilton relate to Elsa Wertman? He doesn't have any issue to
+resolve.
+ How is knowing what is on this plaque helpful to you?
+ I believe there is a hatchet in the shed.
+ I didn't like her because she did not live what I believed to be a good life.
+ I had a secret in life, that same secret haunts me in death.
+ I have found that while keys don't work well in Spoon River locks there are
+lots of other things that will work.
+ I helped bury the secret of an ungrateful Carl Hamblin.
+ I know about Mrs. Sibley's secret.
+ I know many secrets.
+ I know that my wife is not at peace, maybe you can help her find peace.
+ I obviously did not like my wife.
+ I was "going peacefully home" until I killed whom? To solve my issue, you need
+to bring objects that show this person how my life changed.
+ I went so far as to have the truth engraved upon a plaque to adorn my
+gravestone, but even that has been hidden by the machinery that should have
+shared the truth.
+ I wish my baby were near me.
+ I wonder if there isn't something that would help Cooney find happiness in
+death.
+ I'm sure there is a shovel in the shed.
+ I've wondered, as I wandered this graveyard, what if someone destroyed the
+initials I carved on the tree in the grove? Would I finally find peace?
+ If Prohibition weren't on, where would you go to fill this up? Go there to
+find the jug.
+ In Jack's cell, moving some books will reveal this item.
+ In life I tried to live with dignity and truth; too bad the truth was hidden.
+ In my epitaph, I talk about a little habit I might have had. Before
+Prohibition came along, where would I have gone to further this habit?
+ Inside tool shed
+ Is the the family tree in Hamilton's home correct? What could be done to
+change it if it wasn't?
+ It certainly seems like the fiddle brought Fiddler Jones a lot of happiness.
+ It certainly seems that Fletcher McGee died while loathing his wife.
+ It certainly seems that Ollie McGee died while loathing her husband.
+ It sounds like Cooney Potter worked himself to death.
+ It's an embarrasing photograph taken when he was looking cross-eyed.
+ It's pretty plain. Maybe if you added something to it would help.
+ Jack Mcguire
+ Jack may have been heartbroken not to have his jug when put in prison. After
+fourteen years, though, he only wants to show the Town Marshal how he "broke
+the habit." Along with the cane, bring the journal from inside Jack's cell to
+the Marshal's grave.
+ Journal
+ Judge Somers
+ Jug
+ Just because she was avenged in death, doesn't mean that she is at peace.
+ Keys
+ Ledger
+ License and Copyright info
+ Locks
+ Locks and Keys
+ Look to Fletcher McGee to help me find peace.
+ Marble Stone
+ Match
+ Match_1
+ Match_2
+ Match_3
+ Matchbox
+ Matches inside can be used for giving light and burning things. Be careful -
+you only get two.
+ Maybe Fiddler Jones could share what he learned about happiness with others,
+like Cooney Potter, who have yet to find happiness.
+ Menu
+ Mrs. Sibley
+ My baby is in an unmarked grave.
+ NPC
+ Nail
+ Nail_1
+ Nail_10
+ Nail_100
+ Nail_101
+ Nail_102
+ Nail_103
+ Nail_104
+ Nail_105
+ Nail_106
+ Nail_107
+ Nail_108
+ Nail_109
+ Nail_11
+ Nail_110
+ Nail_111
+ Nail_112
+ Nail_113
+ Nail_114
+ Nail_115
+ Nail_116
+ Nail_117
+ Nail_118
+ Nail_119
+ Nail_12
+ Nail_120
+ Nail_121
+ Nail_122
+ Nail_123
+ Nail_124
+ Nail_125
+ Nail_126
+ Nail_127
+ Nail_128
+ Nail_129
+ Nail_13
+ Nail_130
+ Nail_131
+ Nail_132
+ Nail_133
+ Nail_134
+ Nail_135
+ Nail_136
+ Nail_137
+ Nail_138
+ Nail_139
+ Nail_14
+ Nail_140
+ Nail_141
+ Nail_142
+ Nail_143
+ Nail_144
+ Nail_145
+ Nail_146
+ Nail_147
+ Nail_148
+ Nail_149
+ Nail_15
+ Nail_150
+ Nail_151
+ Nail_152
+ Nail_153
+ Nail_154
+ Nail_155
+ Nail_156
+ Nail_157
+ Nail_158
+ Nail_159
+ Nail_16
+ Nail_160
+ Nail_161
+ Nail_162
+ Nail_163
+ Nail_164
+ Nail_165
+ Nail_166
+ Nail_167
+ Nail_168
+ Nail_169
+ Nail_17
+ Nail_170
+ Nail_171
+ Nail_172
+ Nail_173
+ Nail_174
+ Nail_175
+ Nail_176
+ Nail_177
+ Nail_178
+ Nail_179
+ Nail_18
+ Nail_180
+ Nail_181
+ Nail_182
+ Nail_183
+ Nail_184
+ Nail_185
+ Nail_186
+ Nail_187
+ Nail_188
+ Nail_189
+ Nail_19
+ Nail_190
+ Nail_191
+ Nail_192
+ Nail_193
+ Nail_194
+ Nail_195
+ Nail_196
+ Nail_197
+ Nail_198
+ Nail_199
+ Nail_2
+ Nail_20
+ Nail_200
+ Nail_201
+ Nail_202
+ Nail_203
+ Nail_204
+ Nail_205
+ Nail_206
+ Nail_207
+ Nail_208
+ Nail_209
+ Nail_21
+ Nail_210
+ Nail_211
+ Nail_212
+ Nail_213
+ Nail_214
+ Nail_215
+ Nail_216
+ Nail_217
+ Nail_218
+ Nail_219
+ Nail_22
+ Nail_220
+ Nail_221
+ Nail_222
+ Nail_223
+ Nail_224
+ Nail_225
+ Nail_226
+ Nail_227
+ Nail_228
+ Nail_229
+ Nail_23
+ Nail_230
+ Nail_231
+ Nail_232
+ Nail_233
+ Nail_234
+ Nail_235
+ Nail_236
+ Nail_237
+ Nail_238
+ Nail_239
+ Nail_24
+ Nail_240
+ Nail_241
+ Nail_242
+ Nail_243
+ Nail_244
+ Nail_245
+ Nail_246
+ Nail_247
+ Nail_248
+ Nail_249
+ Nail_25
+ Nail_250
+ Nail_251
+ Nail_252
+ Nail_253
+ Nail_254
+ Nail_255
+ Nail_256
+ Nail_257
+ Nail_258
+ Nail_259
+ Nail_26
+ Nail_260
+ Nail_261
+ Nail_262
+ Nail_263
+ Nail_264
+ Nail_265
+ Nail_266
+ Nail_267
+ Nail_268
+ Nail_269
+ Nail_27
+ Nail_270
+ Nail_271
+ Nail_272
+ Nail_273
+ Nail_274
+ Nail_275
+ Nail_276
+ Nail_277
+ Nail_278
+ Nail_279
+ Nail_28
+ Nail_280
+ Nail_281
+ Nail_282
+ Nail_283
+ Nail_284
+ Nail_285
+ Nail_286
+ Nail_287
+ Nail_288
+ Nail_289
+ Nail_29
+ Nail_290
+ Nail_291
+ Nail_292
+ Nail_293
+ Nail_294
+ Nail_295
+ Nail_296
+ Nail_297
+ Nail_298
+ Nail_299
+ Nail_3
+ Nail_30
+ Nail_300
+ Nail_301
+ Nail_31
+ Nail_32
+ Nail_33
+ Nail_34
+ Nail_35
+ Nail_36
+ Nail_37
+ Nail_38
+ Nail_39
+ Nail_4
+ Nail_40
+ Nail_41
+ Nail_42
+ Nail_43
+ Nail_44
+ Nail_45
+ Nail_46
+ Nail_47
+ Nail_48
+ Nail_49
+ Nail_5
+ Nail_50
+ Nail_51
+ Nail_52
+ Nail_53
+ Nail_54
+ Nail_55
+ Nail_56
+ Nail_57
+ Nail_58
+ Nail_59
+ Nail_6
+ Nail_60
+ Nail_61
+ Nail_62
+ Nail_63
+ Nail_64
+ Nail_65
+ Nail_66
+ Nail_67
+ Nail_68
+ Nail_69
+ Nail_7
+ Nail_70
+ Nail_71
+ Nail_72
+ Nail_73
+ Nail_74
+ Nail_75
+ Nail_76
+ Nail_77
+ Nail_78
+ Nail_79
+ Nail_8
+ Nail_80
+ Nail_81
+ Nail_82
+ Nail_83
+ Nail_84
+ Nail_85
+ Nail_86
+ Nail_87
+ Nail_88
+ Nail_89
+ Nail_9
+ Nail_90
+ Nail_91
+ Nail_92
+ Nail_93
+ Nail_94
+ Nail_95
+ Nail_96
+ Nail_97
+ Nail_98
+ Nail_99
+ Narrow Walkway (Row 1)
+ Narrow Walkway (Row 10)
+ Narrow Walkway (Row 2)
+ Narrow Walkway (Row 3)
+ Narrow Walkway (Row 4)
+ Narrow Walkway (Row 5)
+ Narrow Walkway (Row 6)
+ Narrow Walkway (Row 7)
+ Narrow Walkway (Row 8)
+ Narrow Walkway (Row 9)
+ Near a fountain
+ Old Glory
+ Ollie McGee
+ Option
+ Outside tool shed
+ Penniwit's epitaph mentions an embarrasing photo he took of Judge Sommers. How
+could you resolve this issue?
+ Penniwit, the Artist
+ Perhaps the machinery needs to be moved so that the truth can be revealed.
+ Photograph
+ Photograph of Judge Sommers
+ Photographs
+ Plaque
+ Plot
+ Prohibitionists gave something to the Town Marshal to enforce Prohibition. You
+might want to use this object to "break my habit" at the Town Marshal's grave.
+ Related Objects
+ River
+ Room
+ SRADoor
+ Scrapbook
+ Screwdriver
+ She was not faithful to our wedding vows.
+ Someone may try to stop you from exploring further. To pass you will need to
+answer a riddle. Pay attention to their hint.
+ Something hapened to Judge Sommers while he was alive that really bothered
+him.
+ Sometimes there are more puzzles than can be seen.
+ State flags
+ SwitchOption
+ The Town Marshal
+ The jug needs to be broken with the "loaded cane" at the Town Marshal's grave.
+ The keys are useful only when all issues are resolved.
+ The machinery of truth now rests in a landfill by the river.
+ The new life which I brought fourth does not have the dignity in death that I
+do.
+ The page number that needs to be read equals the amount of time Jack spent in
+jail. It is also the last and most important page.
+ The person who I was related to in life may hold the answer to peace in death.
+ The secrets that I know are buried close by the river, where empty cans and
+garbage are dumped.
+ There is a bobby pin in the store south of the graveyard, I think you could
+use that to PICK THE LOCK.
+ There is a bobby pin in the store south of the graveyard, I think you could
+use that to pick the lock.
+ There is a mound in the landfill by the river to the east.
+ These can be carried and placed at will. How can they help Elsa?
+ Things like bobby pins can be used to pick locks.
+ This can be used to carry heavy things that you can't carry.
+ This can be used to unscrew things that are fastened to something with screws.
+ This is something that is pretty heavy, but it is still movable.
+ This item is located near the Drunk Skunk Saloon. It reveals Jack's character
+flaws before he reformed.
+ To bad that Fiddler Jones' fiddle broke.
+ Tombstone
+ Too bad Cooney is a ghost and can't hold a physical object like a fiddle.
+Maybe you should try to lay the fiddle on his grave.
+ Unlike Cooney Potter, Fiddler Jones was unconcerned with things such as
+property.
+ Wall
+ Well, this is a game, and in games everyday things may become puzzles in their
+own right.
+ What brought happiness to Cooney's neighbors.
+ What does Elsa's home contain, and how does it relate to Thomas Greene? How
+might a family tree be "corrected", or true heritage restored? Photographs
+don't lie.
+ What does hamilton think of his parents? Do his parents deserve this praise?
+ What does the jug show about Jack McGuire? You need to show the Town Marshal
+that Jack "broke this habit."
+ What does this item tell you about Hamilton Greene? How did Elsa feel towards
+Hamilton?
+ What is on this plaque?
+ What would make me the happiest? What secret does she want everyone to know?
+ Wheelbarrow
+ When Fiddler Jones' went to the store to fix his fiddle. Unfortunately they
+were unable to get what he needed to fix his fiddle.
+ When I made the mark we were picnicing in the grove of trees which is just to
+the northeast of this cemetary.
+ When I was young and in love, I made a semi-permanent mark of our devotion to
+one another.
+ Where can the name of the judge be found?
+ Where would the Town Marshal have worked in Spoon River? Go there to find and
+look by the desk to find this object.
+ While Fiddler Jones appears to be at peace, I wonder if his spirit could help
+others find peace.
+ While I am certainly not at peace, at this time I don't think you can help me.
+ While I play a part in others' search for peace, I have no problem with my
+eternal rest.
+ While a key may not get you into the shed, I'm sure you can use something
+that's laying around to pick the lock.
+ While the truth is hidden from the light of day, how can I ever find peace,
+even in death?
+ Why do you think the judge is up set?
+ You may want to say "Push wheelbarrow East" to get it to go east with you.
+ You need to find and destroy the photo of Judge Sommers.
+ You should be able to find the equipment necessary to attach the plaque of
+truth in the shed.
+ You will need to read other epipaphs to find what is keeping Judge Sommers
+from rest because this issue is not mentioned on his epitaph.
+ a headstone
+ apple pie
+ bar
+ bed
+ boards covering the entrance
+ bobby pin
+ bottles of chemicals
+ bottom drawer
+ brass key
+ bridge
+ broken jug pieces
+ bronze plaque
+ bronze screws
+ cane
+ chair
+ chapel
+ cheese
+ cigars
+ coins
+ compass
+ cottage
+ counter
+ courtroom
+ crevice
+ crowbar
+ cupboard
+ desk
+ drawer
+ dresser
+ dust
+ east
+ east cell door
+ east wall
+ fiddle
+ flags
+ floor
+ floor mat
+ floorboards
+ freshly dug hole
+ garbage
+ gate door
+ ghost
+ ghostly newspaper
+ grass
+ ground
+ gun rack
+ headstone
+ hope chest
+ initials
+ inside
+ iron key
+ journal
+ judge's bench
+ jug
+ large ring
+ large wooden sign
+ ledger
+ marble tombstone
+ match
+ matchbox
+ mess
+ metal frame
+ middle drawer
+ mound of dirt
+ north
+ north cell door
+ northeast
+ northwest
+ outside
+ page
+ pews
+ photograph of a cross-eyed man
+ photograph of a farmer
+ photograph of a friendly man
+ photograph of a sad woman
+ photograph of a young man
+ photograph of an old woman
+ photographs
+ photography equipment
+ piano key
+ piano keys
+ pile of papers
+ plaque
+ printing press
+ prison log
+ rat
+ river
+ rope ladder
+ saloon chairs
+ saloon piano
+ saloon tables
+ scrapbook
+ screwdriver
+ separator
+ shelves
+ shotgun
+ shovel
+ silver key
+ small hatchet
+ small key
+ snowglobe
+ south
+ southeast
+ southwest
+ spit stains
+ spittoon
+ stack of books
+ stairs
+ statue
+ stove
+ swinging doors
+ table
+ tarnished plaque
+ tarnished screws
+ tiny wooden coffin
+ tomb
+ tomb marker
+ tool shed door
+ top drawer
+ trashcan
+ tree
+ trees
+ up above
+ wall
+ water
+ west
+ west cell door
+ wheelbarrow
+ work bench
+

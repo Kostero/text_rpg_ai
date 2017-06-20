@@ -1,0 +1,226 @@
+
+Story file is games/GHOSTWN.Z5
+
+    **** Parse tables ****
+
+  Verb entries = 50
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "clim", synonyms = "ente", "go", "moun", "ride", "run",
+                                        "walk"
+    [00 00 00 00 00 00 00 02] "clim"
+
+252. 1 entry, verb = "coll", synonyms = "get", "grab", "lift", "pick", "take"
+    [00 00 00 00 00 00 00 03] "coll"
+
+251. 1 entry, verb = "drop", synonyms = "leav", "put", "remo", "thro", "toss"
+    [00 00 00 00 00 00 00 04] "drop"
+
+250. 1 entry, verb = "chec", synonyms = "desc", "exam", "look"
+    [00 00 00 00 00 00 00 05] "chec"
+
+249. 1 entry, verb = "help"
+    [00 00 00 00 00 00 00 06] "help"
+
+248. 1 entry, verb = "save"
+    [00 00 00 00 00 00 00 07] "save"
+
+247. 1 entry, verb = "quit"
+    [00 00 00 00 00 00 00 08] "quit"
+
+246. 1 entry, verb = "scor"
+    [00 00 00 00 00 00 00 09] "scor"
+
+245. 1 entry, verb = "say", synonyms = "scre", "sing", "whis", "yell"
+    [00 00 00 00 00 00 00 0a] "say"
+
+244. 1 entry, verb = "dig", synonyms = "shov"
+    [00 00 00 00 00 00 00 0b] "dig"
+
+243. 1 entry, verb = "make", synonyms = "mix"
+    [00 00 00 00 00 00 00 0c] "make"
+
+242. 1 entry, verb = "eat", synonyms = "smel", "tast"
+    [00 00 00 00 00 00 00 0d] "eat"
+
+241. 1 entry, verb = "burn", synonyms = "igni", "ligh"
+    [00 00 00 00 00 00 00 0e] "burn"
+
+240. 1 entry, verb = "open", synonyms = "unlo"
+    [00 00 00 00 00 00 00 0f] "open"
+
+239. 1 entry, verb = "lock"
+    [00 00 00 00 00 00 00 10] "lock"
+
+238. 1 entry, verb = "clos", synonyms = "shut"
+    [00 00 00 00 00 00 00 11] "clos"
+
+237. 1 entry, verb = "load"
+    [00 00 00 00 00 00 00 12] "load"
+
+236. 1 entry, verb = "shoo"
+    [00 00 00 00 00 00 00 13] "shoo"
+
+235. 1 entry, verb = "use", synonyms = "with"
+    [00 00 00 00 00 00 00 14] "use"
+
+234. 1 entry, verb = "inve"
+    [00 00 00 00 00 00 00 15] "inve"
+
+233. 1 entry, verb = "beat", synonyms = "hit", "ring"
+    [00 00 00 00 00 00 00 16] "beat"
+
+232. 1 entry, verb = "play"
+    [00 00 00 00 00 00 00 17] "play"
+
+231. 1 entry, verb = "kill"
+    [00 00 00 00 00 00 00 18] "kill"
+
+230. 1 entry, verb = "appl", synonyms = "clap"
+    [00 00 00 00 00 00 00 19] "appl"
+
+229. 1 entry, verb = "read"
+    [00 00 00 00 00 00 00 1a] "read"
+
+228. 1 entry, verb = "exti", synonyms = "unli"
+    [00 00 00 00 00 00 00 1b] "exti"
+
+227. 1 entry, verb = "hear", synonyms = "list"
+    [00 00 00 00 00 00 00 1c] "hear"
+
+226. 1 entry, verb = "brea", synonyms = "bust", "smas"
+    [00 00 00 00 00 00 00 1d] "brea"
+
+225. 1 entry, verb = "jump", synonyms = "leap"
+    [00 00 00 00 00 00 00 1e] "jump"
+
+224. 1 entry, verb = "cut", synonyms = "slic"
+    [00 00 00 00 00 00 00 1f] "cut"
+
+223. 1 entry, verb = "shak", synonyms = "wave"
+    [00 00 00 00 00 00 00 20] "shak"
+
+222. 1 entry, verb = "tape"
+    [00 00 00 00 00 00 00 21] "tape"
+
+221. 1 entry, verb = "puto", synonyms = "wear"
+    [00 00 00 00 00 00 00 22] "puto"
+
+220. 1 entry, verb = "find", synonyms = "loca", "seek"
+    [00 00 00 00 00 00 00 23] "find"
+
+219. 1 entry, verb = "cros"
+    [00 00 00 00 00 00 00 24] "cros"
+
+218. 1 entry, verb = "slee"
+    [00 00 00 00 00 00 00 25] "slee"
+
+217. 1 entry, verb = "conn", synonyms = "repa", "spli"
+    [00 00 00 00 00 00 00 26] "conn"
+
+216. 1 entry, verb = "move", synonyms = "pres", "push", "tap"
+    [00 00 00 00 00 00 00 27] "move"
+
+215. 1 entry, verb = "pass"
+    [00 00 00 00 00 00 00 28] "pass"
+
+214. 1 entry, verb = "wait"
+    [00 00 00 00 00 00 00 29] "wait"
+
+213. 1 entry, verb = "clea"
+    [00 00 00 00 00 00 00 2a] "clea"
+
+212. 1 entry, verb = "cove"
+    [00 00 00 00 00 00 00 2b] "cove"
+
+211. 1 entry, verb = "empt", synonyms = "spil"
+    [00 00 00 00 00 00 00 2c] "empt"
+
+210. 1 entry, verb = "danc"
+    [00 00 00 00 00 00 00 2d] "danc"
+
+209. 1 entry, verb = "fill"
+    [00 00 00 00 00 00 00 2e] "fill"
+
+208. 1 entry, verb = "shoe"
+    [00 00 00 00 00 00 00 2f] "shoe"
+
+207. 1 entry, verb = "feel", synonyms = "kiss", "knoc", "touc"
+    [00 00 00 00 00 00 00 30] "feel"
+
+206. 1 entry, verb = "kick", synonyms = "spur"
+    [00 00 00 00 00 00 00 31] "kick"
+
+    **** Verb action routines ****
+
+  Action table entries = 50
+
+action# action-routine "verb..."
+
+  0.  3838  "script"
+  1.  385c  "noscript"
+  2.  3968  "clim"
+  3.  3e6c  "coll"
+  4.  4088  "drop"
+  5.  40a8  "chec"
+  6.  427c  "help"
+  7.  429c  "save"
+  8.  42c8  "quit"
+  9.  42e0  "scor"
+ 10.  42f4  "say"
+ 11.  43f8  "dig"
+ 12.  4564  "make"
+ 13.  45fc  "eat"
+ 14.  4698  "burn"
+ 15.  49cc  "open"
+ 16.  4b08  "lock"
+ 17.  4b18  "clos"
+ 18.  4b28  "load"
+ 19.  4b64  "shoo"
+ 20.  4bec  "use"
+ 21.  4d18  "inve"
+ 22.  4d2c  "beat"
+ 23.  4eb0  "play"
+ 24.  4f4c  "kill"
+ 25.  4fc0  "appl"
+ 26.  500c  "read"
+ 27.  5094  "exti"
+ 28.  50d0  "hear"
+ 29.  5114  "brea"
+ 30.  5188  "jump"
+ 31.  51dc  "cut"
+ 32.  51ec  "shak"
+ 33.  5260  "tape"
+ 34.  52d8  "puto"
+ 35.  5344  "find"
+ 36.  5364  "cros"
+ 37.  5384  "slee"
+ 38.  5410  "conn"
+ 39.  5454  "move"
+ 40.  5708  "pass"
+ 41.  5760  "wait"
+ 42.  5784  "clea"
+ 43.  579c  "cove"
+ 44.  57f4  "empt"
+ 45.  5858  "danc"
+ 46.  58c4  "fill"
+ 47.  5900  "shoe"
+ 48.  59c8  "feel"
+ 49.  5a58  "kick"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.     0  
+    **** Prepositions ****
+
+  Table entries = 0
+

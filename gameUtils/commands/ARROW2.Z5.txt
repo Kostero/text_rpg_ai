@@ -1,0 +1,217 @@
+
+Story file is games/ARROW2.Z5
+
+    **** Parse tables ****
+
+  Verb entries = 48
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "go"
+    [00 00 00 00 00 00 00 02] "go"
+
+252. 1 entry, verb = "i", synonyms = "inve"
+    [00 00 00 00 00 00 00 03] "i"
+
+251. 1 entry, verb = "q", synonyms = "quit"
+    [00 00 00 00 00 00 00 04] "q"
+
+250. 1 entry, verb = "save"
+    [00 00 00 00 00 00 00 05] "save"
+
+249. 1 entry, verb = "exam", synonyms = "insp", "l", "look", "sear"
+    [00 00 00 00 00 00 00 06] "exam"
+
+248. 1 entry, verb = "turn"
+    [00 00 00 00 00 00 00 07] "turn"
+
+247. 1 entry, verb = "acqu", synonyms = "get", "t", "take"
+    [00 00 00 00 00 00 00 08] "acqu"
+
+246. 1 entry, verb = "atta", synonyms = "dest", "kill"
+    [00 00 00 00 00 00 00 09] "atta"
+
+245. 1 entry, verb = "poli", synonyms = "rub"
+    [00 00 00 00 00 00 00 0a] "poli"
+
+244. 1 entry, verb = "disc", synonyms = "drop", "leav"
+    [00 00 00 00 00 00 00 0b] "disc"
+
+243. 1 entry, verb = "grab", synonyms = "hold"
+    [00 00 00 00 00 00 00 0c] "grab"
+
+242. 1 entry, verb = "chop", synonyms = "cut", "slic"
+    [00 00 00 00 00 00 00 0d] "chop"
+
+241. 1 entry, verb = "burn", synonyms = "igni", "ligh"
+    [00 00 00 00 00 00 00 0e] "burn"
+
+240. 1 entry, verb = "exti", synonyms = "unli"
+    [00 00 00 00 00 00 00 0f] "exti"
+
+239. 1 entry, verb = "wear"
+    [00 00 00 00 00 00 00 10] "wear"
+
+238. 1 entry, verb = "remo"
+    [00 00 00 00 00 00 00 11] "remo"
+
+237. 1 entry, verb = "devo", synonyms = "eat", "nibb", "tast"
+    [00 00 00 00 00 00 00 12] "devo"
+
+236. 1 entry, verb = "open"
+    [00 00 00 00 00 00 00 13] "open"
+
+235. 1 entry, verb = "unlo"
+    [00 00 00 00 00 00 00 14] "unlo"
+
+234. 1 entry, verb = "fire", synonyms = "shoo"
+    [00 00 00 00 00 00 00 15] "fire"
+
+233. 1 entry, verb = "pray"
+    [00 00 00 00 00 00 00 16] "pray"
+
+232. 1 entry, verb = "ask", synonyms = "say", "talk"
+    [00 00 00 00 00 00 00 17] "ask"
+
+231. 1 entry, verb = "tie", synonyms = "wrap"
+    [00 00 00 00 00 00 00 18] "tie"
+
+230. 1 entry, verb = "feed"
+    [00 00 00 00 00 00 00 19] "feed"
+
+229. 1 entry, verb = "give", synonyms = "offe"
+    [00 00 00 00 00 00 00 1a] "give"
+
+228. 1 entry, verb = "jump", synonyms = "leap"
+    [00 00 00 00 00 00 00 1b] "jump"
+
+227. 1 entry, verb = "wait"
+    [00 00 00 00 00 00 00 1c] "wait"
+
+226. 1 entry, verb = "play"
+    [00 00 00 00 00 00 00 1d] "play"
+
+225. 1 entry, verb = "read"
+    [00 00 00 00 00 00 00 1e] "read"
+
+224. 1 entry, verb = "move"
+    [00 00 00 00 00 00 00 1f] "move"
+
+223. 1 entry, verb = "swim"
+    [00 00 00 00 00 00 00 20] "swim"
+
+222. 1 entry, verb = "row"
+    [00 00 00 00 00 00 00 21] "row"
+
+221. 1 entry, verb = "dig"
+    [00 00 00 00 00 00 00 22] "dig"
+
+220. 1 entry, verb = "fill"
+    [00 00 00 00 00 00 00 23] "fill"
+
+219. 1 entry, verb = "brea", synonyms = "ruin", "smas"
+    [00 00 00 00 00 00 00 24] "brea"
+
+218. 1 entry, verb = "puff", synonyms = "smok"
+    [00 00 00 00 00 00 00 25] "puff"
+
+217. 1 entry, verb = "pull", synonyms = "tug"
+    [00 00 00 00 00 00 00 26] "pull"
+
+216. 1 entry, verb = "clim"
+    [00 00 00 00 00 00 00 27] "clim"
+
+215. 1 entry, verb = "chuc", synonyms = "slin", "thro"
+    [00 00 00 00 00 00 00 28] "chuc"
+
+214. 1 entry, verb = "fuck", synonyms = "piss"
+    [00 00 00 00 00 00 00 29] "fuck"
+
+213. 1 entry, verb = "help"
+    [00 00 00 00 00 00 00 2a] "help"
+
+212. 1 entry, verb = "pres", synonyms = "push"
+    [00 00 00 00 00 00 00 2b] "pres"
+
+211. 1 entry, verb = "unbo"
+    [00 00 00 00 00 00 00 2c] "unbo"
+
+210. 1 entry, verb = "to"
+    [00 00 00 00 00 00 00 2d] "to"
+
+209. 1 entry, verb = "make"
+    [00 00 00 00 00 00 00 2e] "make"
+
+208. 1 entry, verb = "fly"
+    [00 00 00 00 00 00 00 2f] "fly"
+
+    **** Verb action routines ****
+
+  Action table entries = 48
+
+action# action-routine "verb..."
+
+  0.  3a74  "script"
+  1.  3a98  "noscript"
+  2.  3ad0  "go"
+  3.  3e40  "i"
+  4.  3e54  "q"
+  5.  3e68  "save"
+  6.  3e7c  "exam"
+  7.  42c0  "turn"
+  8.  4364  "acqu"
+  9.  439c  "atta"
+ 10.  4410  "poli"
+ 11.  4478  "disc"
+ 12.  453c  "grab"
+ 13.  4568  "chop"
+ 14.  46b0  "burn"
+ 15.  47e4  "exti"
+ 16.  4820  "wear"
+ 17.  489c  "remo"
+ 18.  4918  "devo"
+ 19.  49b8  "open"
+ 20.  49d8  "unlo"
+ 21.  4a1c  "fire"
+ 22.  4b24  "pray"
+ 23.  4b64  "ask"
+ 24.  4b94  "tie"
+ 25.  4bc4  "feed"
+ 26.  4c44  "give"
+ 27.  4cc4  "jump"
+ 28.  4d88  "wait"
+ 29.  4da8  "play"
+ 30.  4e04  "read"
+ 31.  4e14  "move"
+ 32.  4e24  "swim"
+ 33.  4e3c  "row"
+ 34.  4e88  "dig"
+ 35.  4f50  "fill"
+ 36.  4fa0  "brea"
+ 37.  4fec  "puff"
+ 38.  5090  "pull"
+ 39.  513c  "clim"
+ 40.  5154  "chuc"
+ 41.  5164  "fuck"
+ 42.  5180  "help"
+ 43.  5200  "pres"
+ 44.  5264  "unbo"
+ 45.  529c  "to"
+ 46.  5384  "make"
+ 47.  5478  "fly"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.     0  
+    **** Prepositions ****
+
+  Table entries = 0
+

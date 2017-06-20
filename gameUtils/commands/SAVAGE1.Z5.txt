@@ -1,0 +1,165 @@
+
+Story file is games/SAVAGE1.Z5
+
+    **** Parse tables ****
+
+  Verb entries = 35
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "clim", synonyms = "craw", "ente", "go", "run", "walk"
+    [00 00 00 00 00 00 00 02] "clim"
+
+252. 1 entry, verb = "catc", synonyms = "get", "grab", "hold", "pick", "take"
+    [00 00 00 00 00 00 00 03] "catc"
+
+251. 1 entry, verb = "drop", synonyms = "give", "leav", "put", "rele"
+    [00 00 00 00 00 00 00 04] "drop"
+
+250. 1 entry, verb = "move", synonyms = "pres", "pull", "push", "turn"
+    [00 00 00 00 00 00 00 05] "move"
+
+249. 1 entry, verb = "desc", synonyms = "exam", "look", "read", "see"
+    [00 00 00 00 00 00 00 06] "desc"
+
+248. 1 entry, verb = "empt"
+    [00 00 00 00 00 00 00 07] "empt"
+
+247. 1 entry, verb = "cut"
+    [00 00 00 00 00 00 00 08] "cut"
+
+246. 1 entry, verb = "scor"
+    [00 00 00 00 00 00 00 09] "scor"
+
+245. 1 entry, verb = "save"
+    [00 00 00 00 00 00 00 0a] "save"
+
+244. 1 entry, verb = "quit"
+    [00 00 00 00 00 00 00 0b] "quit"
+
+243. 1 entry, verb = "help"
+    [00 00 00 00 00 00 00 0c] "help"
+
+242. 1 entry, verb = "inve"
+    [00 00 00 00 00 00 00 0d] "inve"
+
+241. 1 entry, verb = "fill"
+    [00 00 00 00 00 00 00 0e] "fill"
+
+240. 1 entry, verb = "swim"
+    [00 00 00 00 00 00 00 0f] "swim"
+
+239. 1 entry, verb = "spil"
+    [00 00 00 00 00 00 00 10] "spil"
+
+238. 1 entry, verb = "yes"
+    [00 00 00 00 00 00 00 11] "yes"
+
+237. 1 entry, verb = "buil", synonyms = "make"
+    [00 00 00 00 00 00 00 12] "buil"
+
+236. 1 entry, verb = "use", synonyms = "with"
+    [00 00 00 00 00 00 00 13] "use"
+
+235. 1 entry, verb = "feel", synonyms = "pet", "touc"
+    [00 00 00 00 00 00 00 14] "feel"
+
+234. 1 entry, verb = "wait"
+    [00 00 00 00 00 00 00 15] "wait"
+
+233. 1 entry, verb = "dig"
+    [00 00 00 00 00 00 00 16] "dig"
+
+232. 1 entry, verb = "dest", synonyms = "kill"
+    [00 00 00 00 00 00 00 17] "dest"
+
+231. 1 entry, verb = "jump"
+    [00 00 00 00 00 00 00 18] "jump"
+
+230. 1 entry, verb = "slee"
+    [00 00 00 00 00 00 00 19] "slee"
+
+229. 1 entry, verb = "brea", synonyms = "smas"
+    [00 00 00 00 00 00 00 1a] "brea"
+
+228. 1 entry, verb = "scre", synonyms = "yell"
+    [00 00 00 00 00 00 00 1b] "scre"
+
+227. 1 entry, verb = "drin", synonyms = "eat", "tast"
+    [00 00 00 00 00 00 00 1c] "drin"
+
+226. 1 entry, verb = "trea"
+    [00 00 00 00 00 00 00 1d] "trea"
+
+225. 1 entry, verb = "ask", synonyms = "say", "tell"
+    [00 00 00 00 00 00 00 1e] "ask"
+
+224. 1 entry, verb = "fix", synonyms = "repa"
+    [00 00 00 00 00 00 00 1f] "fix"
+
+223. 1 entry, verb = "yoho"
+    [00 00 00 00 00 00 00 20] "yoho"
+
+222. 1 entry, verb = "padd", synonyms = "sail"
+    [00 00 00 00 00 00 00 21] "padd"
+
+221. 1 entry, verb = "open"
+    [00 00 00 00 00 00 00 22] "open"
+
+    **** Verb action routines ****
+
+  Action table entries = 35
+
+action# action-routine "verb..."
+
+  0.  3168  "script"
+  1.  318c  "noscript"
+  2.  31e4  "clim"
+  3.  3680  "catc"
+  4.  3880  "drop"
+  5.  38b4  "move"
+  6.  3ac0  "desc"
+  7.  3fb8  "empt"
+  8.  413c  "cut"
+  9.  41f4  "scor"
+ 10.  4218  "save"
+ 11.  4270  "quit"
+ 12.  4284  "help"
+ 13.  42c0  "inve"
+ 14.  42d4  "fill"
+ 15.  432c  "swim"
+ 16.  44d8  "spil"
+ 17.  44f0  "yes"
+ 18.  4524  "buil"
+ 19.  45b4  "use"
+ 20.  47b0  "feel"
+ 21.  4850  "wait"
+ 22.  4890  "dig"
+ 23.  48ac  "dest"
+ 24.  48f8  "jump"
+ 25.  4938  "slee"
+ 26.  49cc  "brea"
+ 27.  49e8  "scre"
+ 28.  4a28  "drin"
+ 29.  4b14  "trea"
+ 30.  4b3c  "ask"
+ 31.  4bd4  "fix"
+ 32.  4c08  "yoho"
+ 33.  4c24  "padd"
+ 34.  4c7c  "open"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.     0  
+    **** Prepositions ****
+
+  Table entries = 0
+

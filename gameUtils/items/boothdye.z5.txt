@@ -1,0 +1,30 @@
+    all
+  reply.
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ CompassDirection
+ b   l   Ctak   kbmcm
+ bucket
+ ceiling
+ compass
+ dye
+ east wall
+ ep your hands to yourself!
+ floor
+ ground
+ inside
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ phone booth
+ sign
+ south wall
+ southeast wall
+ southwest wall
+ theast wall
+ west wall
+

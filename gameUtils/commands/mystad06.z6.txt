@@ -1,0 +1,2741 @@
+
+Story file is games/mystad06.z6
+
+    **** Parse tables ****
+
+  Verb entries = 48
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "ente", synonyms = "go", "proc", "run", "walk"
+    [00 00 00 00 00 00 00 02] "ente"
+
+252. 1 entry, verb = "help"
+    [00 00 00 00 00 00 00 03] "help"
+
+251. 1 entry, verb = "quit"
+    [00 00 00 00 00 00 00 04] "quit"
+
+250. 1 entry, verb = "save"
+    [00 00 00 00 00 00 00 05] "save"
+
+249. 1 entry, verb = "scor"
+    [00 00 00 00 00 00 00 06] "scor"
+
+248. 1 entry, verb = "get", synonyms = "grab", "hold", "obta", "pick", "seiz",
+                                       "snat", "take"
+    [00 00 00 00 00 00 00 07] "get"
+
+247. 1 entry, verb = "depo", synonyms = "drop", "leav", "put", "thro"
+    [00 00 00 00 00 00 00 08] "depo"
+
+246. 1 entry, verb = "inve"
+    [00 00 00 00 00 00 00 09] "inve"
+
+245. 1 entry, verb = "open"
+    [00 00 00 00 00 00 00 0a] "open"
+
+244. 1 entry, verb = "unlo"
+    [00 00 00 00 00 00 00 0b] "unlo"
+
+243. 1 entry, verb = "don", synonyms = "wear"
+    [00 00 00 00 00 00 00 0c] "don"
+
+242. 1 entry, verb = "doff", synonyms = "remo"
+    [00 00 00 00 00 00 00 0d] "doff"
+
+241. 1 entry, verb = "feed"
+    [00 00 00 00 00 00 00 0e] "feed"
+
+240. 1 entry, verb = "give", synonyms = "offe"
+    [00 00 00 00 00 00 00 0f] "give"
+
+239. 1 entry, verb = "read"
+    [00 00 00 00 00 00 00 10] "read"
+
+238. 1 entry, verb = "exam", synonyms = "insp", "look", "peru", "sear"
+    [00 00 00 00 00 00 00 11] "exam"
+
+237. 1 entry, verb = "hack", synonyms = "saw"
+    [00 00 00 00 00 00 00 12] "hack"
+
+236. 1 entry, verb = "cut", synonyms = "slic"
+    [00 00 00 00 00 00 00 13] "cut"
+
+235. 1 entry, verb = "driv", synonyms = "stee"
+    [00 00 00 00 00 00 00 14] "driv"
+
+234. 1 entry, verb = "star"
+    [00 00 00 00 00 00 00 15] "star"
+
+233. 1 entry, verb = "cran", synonyms = "turn"
+    [00 00 00 00 00 00 00 16] "cran"
+
+232. 1 entry, verb = "dig", synonyms = "shov"
+    [00 00 00 00 00 00 00 17] "dig"
+
+231. 1 entry, verb = "crac"
+    [00 00 00 00 00 00 00 18] "crac"
+
+230. 1 entry, verb = "asce", synonyms = "clim"
+    [00 00 00 00 00 00 00 19] "asce"
+
+229. 1 entry, verb = "fire"
+    [00 00 00 00 00 00 00 1a] "fire"
+
+228. 1 entry, verb = "fill", synonyms = "repl"
+    [00 00 00 00 00 00 00 1b] "fill"
+
+227. 1 entry, verb = "syph"
+    [00 00 00 00 00 00 00 1c] "syph"
+
+226. 1 entry, verb = "swin"
+    [00 00 00 00 00 00 00 1d] "swin"
+
+225. 1 entry, verb = "ask", synonyms = "rema", "say", "talk"
+    [00 00 00 00 00 00 00 1e] "ask"
+
+224. 1 entry, verb = "erec"
+    [00 00 00 00 00 00 00 1f] "erec"
+
+223. 1 entry, verb = "empt"
+    [00 00 00 00 00 00 00 20] "empt"
+
+222. 1 entry, verb = "shor"
+    [00 00 00 00 00 00 00 21] "shor"
+
+221. 1 entry, verb = "swim"
+    [00 00 00 00 00 00 00 22] "swim"
+
+220. 1 entry, verb = "jump"
+    [00 00 00 00 00 00 00 23] "jump"
+
+219. 1 entry, verb = "eat", synonyms = "nibb", "tast"
+    [00 00 00 00 00 00 00 24] "eat"
+
+218. 1 entry, verb = "make", synonyms = "manu"
+    [00 00 00 00 00 00 00 25] "make"
+
+217. 1 entry, verb = "atta", synonyms = "kill"
+    [00 00 00 00 00 00 00 26] "atta"
+
+216. 1 entry, verb = "brea", synonyms = "dest", "ruin", "smas"
+    [00 00 00 00 00 00 00 27] "brea"
+
+215. 1 entry, verb = "ligh"
+    [00 00 00 00 00 00 00 28] "ligh"
+
+214. 1 entry, verb = "exti", synonyms = "unli"
+    [00 00 00 00 00 00 00 29] "exti"
+
+213. 1 entry, verb = "pull", synonyms = "tug"
+    [00 00 00 00 00 00 00 2a] "pull"
+
+212. 1 entry, verb = "pres", synonyms = "push"
+    [00 00 00 00 00 00 00 2b] "pres"
+
+211. 1 entry, verb = "bast", synonyms = "boll", "bugg", "cunt", "fuck", "piss",
+                                        "shit"
+    [00 00 00 00 00 00 00 2c] "bast"
+
+210. 1 entry, verb = "move", synonyms = "shif"
+    [00 00 00 00 00 00 00 2d] "move"
+
+209. 1 entry, verb = "kick"
+    [00 00 00 00 00 00 00 2e] "kick"
+
+208. 1 entry, verb = "fix", synonyms = "mend", "repa"
+    [00 00 00 00 00 00 00 2f] "fix"
+
+    **** Verb action routines ****
+
+  Action table entries = 48
+
+action# action-routine "verb..."
+
+  0.  3ad4  "script"
+  1.  3af8  "noscript"
+  2.  9bb8  "ente"
+  3.  9e00  "help"
+  4.  9e18  "quit"
+  5.  9e30  "save"
+  6.  9e48  "scor"
+  7.  9e74  "get"
+  8.  9f88  "depo"
+  9.  a160  "inve"
+ 10.  a178  "open"
+ 11.  a2b4  "unlo"
+ 12.  a2f0  "don"
+ 13.  a364  "doff"
+ 14.  a3d8  "feed"
+ 15.  a424  "give"
+ 16.  a438  "read"
+ 17.  a53c  "exam"
+ 18.  a7fc  "hack"
+ 19.  a810  "cut"
+ 20.  a8fc  "driv"
+ 21.  aa08  "star"
+ 22.  ab5c  "cran"
+ 23.  ab70  "dig"
+ 24.  abcc  "crac"
+ 25.  ac70  "asce"
+ 26.  acc0  "fire"
+ 27.  acd4  "fill"
+ 28.  ad44  "syph"
+ 29.  ad8c  "swin"
+ 30.  ae04  "ask"
+ 31.  ae3c  "erec"
+ 32.  af30  "empt"
+ 33.  af44  "shor"
+ 34.  af9c  "swim"
+ 35.  aff4  "jump"
+ 36.  b16c  "eat"
+ 37.  b188  "make"
+ 38.  b19c  "atta"
+ 39.  b1b8  "brea"
+ 40.  b1dc  "ligh"
+ 41.  b254  "exti"
+ 42.  b2b0  "pull"
+ 43.  b394  "pres"
+ 44.  b40c  "bast"
+ 45.  b438  "move"
+ 46.  b4a4  "kick"
+ 47.  b54c  "fix"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.  2620  
+    **** Prepositions ****
+
+  Table entries = 814
+
+  9. "dwh"
+ 26. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                 k             
+                             m                                           q     
+           b   w           a         n                 d              0        
+q                 f                e         n                 h   z          
+g         n                                        k   j           j           
+                    n                 n   e           m  o                 M   
+     q                 q              P         s                 s            
+ R         r                                      \   p           u         c  
+              x   o           w         e                 z   s           y    
+    f                     z                      v                       f     
+                y                      o                      b                
+     x                      k                      y                      o    
+                                       r                                       
+      q                                            r                      c    
+                 y                      e                      x               
+      j                      z                      l                          
+                 k                                             r               
+      h                                             m                      c   
+                  u                      h                                     
+       n                      e                       x                      l 
+                    z                      j                     z             
+       m                                            p                     g    
+                x                     h                     z                  
+  q                     b                     y                     m          
+                                 o                     c                       
+                    l                                            t             
+       d                     u                     g                     u     
+               c                     s                     i                   
+                        r                                            m         
+           h                     a                     s                     k 
+                                         o                        klGva        
+  kk  c  sm   x"
+165. "rlbjrhaxrhahrhaprhabrjadrhclaxrhblrhbf"
+128. "   a"
+ 27.  no-preposition
+165. "eu"
+ 65. "   a"
+ 27. "evdxclabdzckn"
+165. "bnebvec   cfecnecved   dfednedvee   efeeneevef   ffefnefveg   gfegnegveh 
+ hfehnehvei   ifeineivej   jfejnejvek   kfeknekvel  
+lfelnelvemfenfeofeovepfepveqferfervesfesvetfetveufeuvevfevs m               k 
+k    m               k        m             k        m     b        k        m 
+   d        k        m     f        k        m     h        k        m     j   
+    k      M     l        k K    m     n        k      .     p        k 8    m 
+   r        k a     m     t        k ak    m     v        k b     m     x      
+ k bk    m     z        k c     m               k ck    m               k d    
+ C     mc               8n"
+ 65. "   a"
+ 27. "qvaprnbhrhclhp"
+165. "  vkjz eggkm"
+ 65. "   a"
+ 27. "h"
+165. "zs"
+128. "   a"
+ 28.  no-preposition
+165. "rhajrhajrhafhjipaf"
+128. "   a"
+ 28.  no-preposition
+165. "ajezrvfvclebfvclaf"
+ 65. "   a"
+ 30. "adrhckdjvbnbhrhcldl"
+165. "0"
+128. "   a"
+ 30.  no-preposition
+165. "   "
+ 65. "   a"
+ 30. "adrhckdjvbnbhrhcldl"
+165. "du   a"
+128. "   a"
+ 30.  no-preposition
+165. "rjanrjcldprhbdrhbzrhaprhbb"
+ 65. "   a"
+ 31. "hjixaf"
+165. " i"
+ 65. "   a"
+ 31. "adrhckdjvbnbhrhcldl"
+165. "      y"
+128. "   a"
+ 32.  no-preposition
+165. "lated to Inform by Scott2Zip, version "
+128. "   a"
+ 32.  no-preposition
+165. "abrjclarrraprlclcd"
+128. "   a"
+ 32.  no-preposition
+165. "adrhcjjvbrbhrhcldl"
+128. "   a"
+ 32.  no-preposition
+165. "azrhalrhcldj"
+128. "   a"
+ 32.  no-preposition
+165. "fhlabhnavjvcxbfrhalrhcldh"
+128. "   a"
+ 32.  no-preposition
+165. "rhajrhajrhafhjipaf"
+128. "   a"
+ 33.  no-preposition
+165. "'s already running! "
+128. "   a"
+ 33.  no-preposition
+165. "abhjcbahezahrhajrhalrhabhjiraf"
+128. "   a"
+ 34.  no-preposition
+165. "dik   t   bi  v k    "
+ 65. "   a"
+ 34. "evdxclabdzckn"
+165. "dcs cg    "
+128. "   a"
+ 34.  no-preposition
+165. "    "
+128. "   a"
+ 34.  no-preposition
+165. "         eo s   ogzwy"
+128. "   a"
+ 34.  no-preposition
+165. " 'kjzbmdqdj"
+128. "   a"
+ 34.  no-preposition
+165. "abcntrahdzckj"
+ 65. "   a"
+ 34. "rhchrhardpajrhatrhavrhavrhcbdtalcnbrrhab"
+165. "clcxspcfdvclaxdvckh"
+ 65. "   a"
+ 34. "bdsfbbrhalrjcldvrhahrrajrjadrnavrnbzrjab"
+165. "clafdrclbddvckf"
+128. "   a"
+ 34.  no-preposition
+165. "rhaprhabrjadrhclaxrhblrhbf"
+128. "   a"
+ 35.  no-preposition
+165. "ztq"
+ 65. "   a"
+ 35. "adrhckdjvbnbhrhcldl"
+165. "   "
+128. "   a"
+ 35.  no-preposition
+165. "ipv"
+ 65. "   a"
+ 37. "ahdlrhanrhanrhbd"
+165. "   v"
+ 65. "   a"
+ 37. "trnalrlbnrhanrhatrhclih"
+165. "jl   gr"
+ 65. "   a"
+ 37. "hjixaf"
+165. "rhadrnanrxahrhadrjahrhaptbafrlabrjclarrraprlclcd"
+ 65. "   a"
+ 38. "hclbxdzckdtbenajrhatsdab"
+165. "me"
+ 65. "   a"
+ 38. "rhahrhanrhbrrjbjrhanrhbh"
+165. "zwu"
+ 65. "   a"
+ 38. "anrhanrlan"
+165. "lgftmskgr"
+128. "   a"
+ 38.  no-preposition
+165. "0"
+128. "   a"
+ 38.  no-preposition
+165. "afrjavrhajdjrhalrhanrhbf"
+ 65. "   a"
+ 38. "shazrhatrjcldhrhbdrjahcvbfrhanrhbd"
+165. "bd"
+ 65. "   a"
+ 40. "trnalrlbnrhanrhatrhclih"
+165. "ajezrvfvclebfvclaf"
+128. "   a"
+ 40.  no-preposition
+165. "claxfdcldlfbclet"
+ 65. "   a"
+ 42. "v"
+165. " b js   rzik "
+128. "   a"
+ 42.  no-preposition
+165. "ia"
+ 65. "   a"
+ 42. "ef"
+165. "lgfozakgr"
+ 65. "   a"
+ 42. "rlanrhabslabtbabsvabstabsddzsredsd"
+165. "bdrhbzrhaprhbb"
+ 65. "   a"
+ 43. "shbbrpbdrjajrhazrnazrlatrjabrnajrhadrhahrhclen"
+165. "Uy"
+ 65. "   a"
+ 43. "bhsjabrlblrhadrhclblrharrhadrhalrjaxrhajdjrhalrhaprhbd"
+165. "    tm"
+ 65. "   a"
+ 45. "brnclan"
+165. "lgfgqckgr"
+ 65. "   a"
+ 45. "rhahrhalrhbnrhanddrhalrhanrhbf"
+165. "one letter.
+
+"
+128. "   a"
+ 45.  no-preposition
+165. "bbrjazrhbdhlathpbdtravcldh"
+ 65. "   a"
+ 45. "rhah"
+165. "rhajrhalrhabhjiraf"
+ 65. "   a"
+ 45. "rhckjexanbnrjbnrhanrhad"
+165. "abhjcdbphjhdbx"
+128. "   a"
+ 45.  no-preposition
+165. "haxrhazrhajrhbprncdrlblrjblrhcj"
+ 65. "   a"
+ 46. "bbrhavrhaprhbnrhckrrhclbr"
+165. "de"
+128. "   a"
+ 46.  no-preposition
+165. "bb"
+128. "   a"
+ 47.  no-preposition
+165. "g7kgr"
+ 65. "   a"
+ 47. "adrhckdjvbnbhrhcldl"
+165. ")z"
+128. "   a"
+ 48.  no-preposition
+165. "abhjcfbnfrspclbbsdgtckr"
+128. "   a"
+ 48.  no-preposition
+165. "abhjafrjclbbrtbnrpahsvclbhrhavrjbf"
+128. "   a"
+ 49.  no-preposition
+165. "ilhkgr"
+128. "   a"
+ 49.  no-preposition
+165. "ipv"
+ 65. "   a"
+ 49. "sdehsrdttrehefslehsv"
+165. "cdrnajrjabrhabrhckhrrahrjbfrjadrhadrhcb"
+ 65. "   a"
+ 50. "alrhanrhbf"
+165. "zxs"
+ 65. "   a"
+ 50. "rlanrhabslabtbabsvabstabsddzsredsd"
+165. "clgtdvabcntrahdzckj"
+ 65. "   a"
+ 52. "sdehsrdttrehefslehsv"
+165. "must not be given away or distributed on the Net.
+
+"
+193. "   a"
+ 52. "bfsjaxrhbbrjcldbrharrhadrhahdlrhalrhaprhbd"
+165. "adrhcfjvbtbjrhcldl"
+128. "   a"
+ 52.  no-preposition
+165. "claphjdzclex"
+128. "   a"
+ 52.  no-preposition
+165. "rncbrjavrhbtrjaprhahrhcbrlazrhaxrlch"
+128. "   a"
+ 53.  no-preposition
+165. "kgr"
+128. "   a"
+ 53.  no-preposition
+165. "znzlgfid   gr"
+ 65. "   a"
+ 54. "abrrabrnahshabsjabsjdzsnehsh"
+165. ")z"
+ 65. "   a"
+ 54. "sdehsrdttrehefslehsv"
+165. "lgft   gr"
+128. "   a"
+ 58.  no-preposition
+165. "kgr"
+ 65. "   a"
+ 58. "bhsjabrlblrhadrhclblrharrhadrhalrjaxrhajdjrhalrhaprhbd"
+165. "qa   zz"
+ 65. "   a"
+ 61. "axrhbfrhclbzrjajrhafrlav"
+165. "jl   gr"
+128. "   a"
+ 63.  no-preposition
+165. "me"
+ 65. "   a"
+ 65. "anrhadrjcf"
+165. "rmzlgfkl   gr"
+128. "   a"
+ 65.  no-preposition
+165. "must not be given away or distributed on the Net.
+
+"
+ 65. "   a"
+ 65. "rjavrhbdhlathnbdrhavrhatrhbtrhcldz"
+165. "bbrjazrhbdhlathpbdtravcldh"
+ 65. "   a"
+ 66. "h"
+165. "   h"
+128. "   a"
+ 68.  no-preposition
+165. "Thanks to Graham Nelson and Gareth Rees, for suggesting how word-wrapping
+in the upper window could be done.
+
+"
+128. "   a"
+ 68.  no-preposition
+165. "jrhclcr"
+128. "   a"
+ 69.  no-preposition
+165. "ru   j"
+ 65. "   a"
+ 69. "trnalrlbnrhanrhatrhclih"
+165. "   z"
+128. "   a"
+ 69.  no-preposition
+165. "ckjrladrxadrhatrhafrhafrharrhafrhaxrhahrhabrxclarrxafrnclcf"
+ 65. "   a"
+ 70. "ajrhajhjcjahhjclaf"
+165. "kgr"
+128. "   a"
+ 70.  no-preposition
+165. "bu   a"
+ 65. "   a"
+ 72. "bhsjabrlblrhadrhclblrharrhadrhalrjaxrhajdjrhalrhaprhbd"
+165. "rhaprhbbrhavrhaprhbnrjcler"
+ 65. "   a"
+ 72. "clcxrlap"
+165. "ckzrhafhlabhnavjvcxbfrhalrhcldh"
+ 65. "   a"
+ 72. "clcxrlap"
+165. "af"
+128. "   a"
+ 73.  no-preposition
+165. "dlblgfilhkgr"
+ 65. "   a"
+ 73. "bbrhavrhaprhbnrhckrrhclbr"
+165. "lgfjpbg  "
+128. "   a"
+ 74.  no-preposition
+165. "   "
+ 65. "   a"
+ 77. "njupcladrhadrjclcl"
+165. "ipv"
+128. "   a"
+ 77.  no-preposition
+165. "re failed
+Press RETURN to continue..."
+ 65. "   a"
+ 78. "v"
+165. "      k i   "
+128. "   a"
+ 78.  no-preposition
+238. " 'kjza   qdj"
+ 67. "enw"
+ 78. "dzrrabthabthabsvabstabshebsrebrx"
+165. "mgp   p   gzzg"
+128. "   a"
+ 80.  no-preposition
+165. "sfabrlabrvabrrabrxabrnabrpabrlabrvabrpabrxadsbebsnehsr"
+ 65. "   a"
+ 81. "sdehsrdttrehefslehsv"
+165. "kzzmy   g"
+128. "   a"
+ 81.  no-preposition
+165. "nu   g"
+ 65. "   a"
+ 82. "alrhanrhbf"
+165. "mzt"6s"
+ 65. "   a"
+ 83. "afrhaprjabrhabrhclbfrhbfrhbf"
+165. "g  "
+128. "   a"
+ 84.  no-preposition
+165. "jvbtbjrhcldl"
+128. "   a"
+ 85.  no-preposition
+165. "kzzfy   u"
+128. "   a"
+ 85.  no-preposition
+165. "kgr"
+ 65. "   a"
+ 85. "bhsjabrlblrhadrhclblrharrhadrhalrjaxrhajdjrhalrhaprhbd"
+165. "lgfjpmkgr"
+128. "   a"
+ 85.  no-preposition
+165. "must not be given away or distributed on the Net.
+
+"
+ 65. "   a"
+ 85. "sdehsrdttrehefslehsv"
+165. "abhjcfajezrvfvclebfvclaf"
+ 65. "   a"
+ 86. "adrhckdjvbnbhrhcldl"
+165. "jbdrhbzrhaprhbb"
+ 65. "   a"
+ 86. "pafjvdhbtrhahrhcldf"
+165. "rhclavrhbnrhbd"
+ 65. "   a"
+ 87. "rlanrhabslabtbabsvabstabsddzsredsd"
+165. "lgfictkgr"
+ 65. "   a"
+ 87. "claj"
+165. "   "
+ 65. "   a"
+ 87. "pafjvdhbtrhahrhcldf"
+165. "ipv"
+ 65. "   a"
+ 91. "trnalrlbnrhanrhatrhclih"
+165. "lgfho kgr"
+ 65. "   a"
+ 93. "abstabsxabsnabsddzsnehsl"
+165. "nu   j"
+ 65. "   a"
+ 93. "rhabrhaxsrazrpcldxrlaprjafrhahrhahrpavrhajdjrhalrhanrhbf"
+165. "zxm"
+128. "   a"
+ 93.  no-preposition
+165. ")z"
+ 65. "   a"
+ 93. "qvaprnbhrhclhp"
+165. "hu"
+ 65. "   a"
+ 93. "rhahrhanrhbrrjbjrhanrhbh"
+165. "ae"
+ 65. "   a"
+ 93. "bbrhavrhaprhbnrhckrrhclbr"
+165. "cp"
+ 65. "   a"
+ 94. "rhah"
+165. "   x"
+128. "   a"
+ 94.  no-preposition
+165. "zum"
+128. "   a"
+ 94.  no-preposition
+165. "u   "
+128. "   a"
+ 95.  no-preposition
+165. "ti   zz"
+ 65. "   a"
+ 95. "hjixaf"
+165. "lgfil   gr"
+ 65. "   a"
+ 96. "rlanrhabslabtbabsvabstabsddzsredsd"
+165. "cdrnajrjabrhabrhckhrrahrjbfrjadrhadrhcb"
+ 65. "   a"
+ 96. "abspabsxabsjabsdebsnehsp"
+165. "jajrhbtrjalrhadrlabrnchrlalrhafrhaprhadrjcf"
+193. "   a"
+ 96. "bfsjaxrhbbrjcldbrharrhadrhahdlrhalrhaprhbd"
+165. "hrhatrhbprjcklrlblrnclbz"
+ 65. "   a"
+ 97. "qvaprnbhrhclhp"
+165. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                             b   de pe re te ve xe yvnntfrxf   
+ P p  zz      zzezzz                                                           
+                                                                               
+                                                                               
+                                                                               
+                         gd"
+ 65. "   a"
+ 97. "abrrabrtabrtabsdedslejsr"
+185. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                b   de pe re te
+ve xe yvnntfrxf     P p  zz      zzezzz                                        
+                                                                               
+                                                                               
+                                                                               
+                                            gd"
+ 67. "   a"
+ 97. "dzabrnabsxabrvabshabrxabtqbabsrabrvedstdxrt"
+133. "kgr"
+128. "   a"
+ 97.  no-preposition
+165. "   j"
+ 65. "   a"
+ 97. "bhsjabrlblrhadrhclblrharrhadrhalrjaxrhajdjrhalrhaprhbd"
+165. "zx "
+ 65. "   a"
+ 97. "sdehsrdttrehefslehsv"
+165. " ieqlj"
+ 65. "   a"
+ 97. "njupcladrhadrjclcl"
+165. "0"
+ 65. "   a"
+ 97. "adrhckdjvbnbhrhcldl"
+165. "   g       "
+ 65. "   a"
+ 97. "bnrlclbt"
+165. "auxGj      "
+193. "   a"
+ 97. "hclbxdzckdtbenajrhatsdab"
+165. "hahrhabrxclarrxafrnclcf"
+128. "   a"
+ 98.  no-preposition
+165. "    Owq)cjsr"
+ 65. "   a"
+ 98. "ahdlrhanrhanrhbd"
+165. "cu   ssrxmThe light will run out in "
+128. "   a"
+ 98.  no-preposition
+165. ")z"
+ 65. "   a"
+ 98. "hjixaf"
+165. "   d"
+ 65. "   a"
+ 98. "sdehsrdttrehefslehsv"
+165. "me"
+128. "   a"
+ 98.  no-preposition
+165. "jzy"
+128. "   a"
+ 98.  no-preposition
+165. "        "
+128. "   a"
+ 99.  no-preposition
+165. "D"
+193. "   a"
+ 99. "bdrjbzrjanrhbb"
+165. " J c   "
+ 65. "   a"
+ 99. "shazrhatrjcldhrhbdrjahcvbfrhanrhbd"
+165. "zui"
+ 65. "   a"
+ 99. "hbjrhcj"
+165. "   "
+193. "   a"
+ 99. "alhjdrafhjfjbvrhbf"
+165. "laxrrbh"
+ 65. "   a"
+100. "adhjefclclrjabszclabrhan"
+165. "rhaprhbbrhavrhaprhbnrjcler"
+ 65. "   a"
+100. "sdehsrdttrehefslehsv"
+165. "spafrhbbrjazrhbdhlathpbdtravcldh"
+ 65. "   a"
+100. "qvaprnbhrhclhp"
+165. "clahrhabrjbhrljvcjazrhalrhcldj"
+128. "   a"
+100.  no-preposition
+165. "ajezrvfvclebfvclaf"
+ 65. "   a"
+101. "v"
+165. "ztq"
+128. "   a"
+101.  no-preposition
+165. "ou   x"
+128. "   a"
+101.  no-preposition
+165. "dog"
+ 65. "   a"
+101. "trnalrlbnrhanrhatrhclih"
+165. "abrjclarrraprlclcd"
+128. "   a"
+101.  no-preposition
+165. "ckjrladrxadrhatrhafrhafrharrhafrhaxrhahrhabrxclarrxafrnclcf"
+128. "   a"
+102.  no-preposition
+165. "qdj"
+128. "   a"
+102.  no-preposition
+165. "crsfbl"
+128. "   a"
+102.  no-preposition
+165. "axdvckh"
+128. "   a"
+102.  no-preposition
+165. "dvrxabsbanrvabsrabsxabshabsfebsnehsn"
+128. "   a"
+103.  no-preposition
+165. "h   kgr"
+ 65. "   a"
+103. "claj"
+165. "fy   zz"
+ 65. "   a"
+106. "bdsfbbrhalrjcldvrhahrrajrjadrnavrnbzrjab"
+165. "h   lgfo   kgr"
+ 65. "   a"
+106. "brnclan"
+165. "krziqdkzzji   k"
+ 65. "   a"
+106. "bfrhabrhclbxrhafrnanrjaprjbbrhaxrhafrhaprhadrjafrhclavrhbnrhbd"
+238. "iu   n"
+ 67. "enw"
+106. "dzrrabthabthabsvabstabshebsrebrx"
+165. "oNBALL` "
+128. "   a"
+112.  no-preposition
+165. "spafrhbbrjazrhbdhlathpbdtravcldh"
+ 65. "   a"
+112. "rlanrhabslabtbabsvabstabsddzsredsd"
+165. "clalhjdxclfd"
+128. "   a"
+113.  no-preposition
+165. "   j"
+ 65. "   a"
+113. "anrhanrlan"
+165. "jl   gr"
+128. "   a"
+113.  no-preposition
+165. "  egkn"
+128. "   a"
+114.  no-preposition
+165. "abrzaprjansnbfsfbbrjanrjckvtrajbdrhbzrhaprhbb"
+128. "   a"
+122.  no-preposition
+165. "   qoru"
+128. "   a"
+  0.  no-preposition
+224.  no-preposition
+  2. "de   f"
+  0. "rabshadrxabslabsdabsjabsxabshabrxefsrdxrp"
+  1. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c   s                                                        
+                                                                               
+                                                                              
+bw                   b   "
+  1. "         icfg           i       fks                  fps                j
+fvc          is      f   "
+  1. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                b   de pe re te ve xe yvnntfrxf     P p  zz      zzezzz        
+                                                                               
+                                                                               
+                                                                               
+                                                                            gd"
+ 39. "mex"
+ 33. "iu   g"
+ 23. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                       b   de pe re te ve xe yvnntfrxf     P p 
+zz      zzezzz                                                                 
+                                                                               
+                                                                               
+                                                                               
+                   gd"
+  0. "e"
+ 85. "                                                                         
+             b   de pe re te ve xe yvnntfrxf     P p  zz      zzezzz           
+                                                                               
+                                                                               
+                                                                               
+                                                                         gd"
+  0. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                   a   c  
+c1c"cadcatcbdcbniwv:vpt     0    "
+ 39. "nabrpabrlabrvabrpabrxadsbebsnehsr"
+  0. "lgfpmlkgr"
+ 37. "c  c  c  c  c   s                                                        
+                                                                               
+                                                                              
+bw                   b   "
+ 33. "qdgdgo"
+ 13. "                                                                         
+                                                                               
+        k                                           m                          
+                q                 b   w           a         n                 d
+             0         q                 f                e         n          
+      h   z           g         n                                        k   j 
+         j                                n                 n   e           m 
+o                 M         q                 q              P         s       
+         s              R         r                                      \   p 
+         u         c                 x   o           w         e               
+ z   s           y         f                     z                      v      
+                f                      y                      o                
+     b                      x                      k                      y    
+                 o                                            r                
+                             q                                            r    
+                 c                      y                      e               
+      x                      j                      z                      l   
+                                        k                                      
+      r                      h                                             m   
+                  c                      u                      h              
+                              n                      e                       x 
+                    l                      z                      j            
+        z                     m                                            p   
+                 g                     x                     h                 
+   z                     q                     b                     y         
+           m                                            o                     c
+                                           l                                   
+        t                     d                     u                     g    
+                u                     c                     s                  
+  i                                            r                               
+            m                     h                     a                     s
+                    k                                           o              
+         klGva           kk  c  sm   x"
+ 85. "                                                                         
+                                                                               
+                                                                     k         
+                                 m                                           q 
+               b   w           a         n                 d              0    
+    q                 f                e         n                 h   z       
+   g         n                                        k   j           j        
+                       n                 n   e           m  o                 M
+        q                 q              P         s                 s         
+    R         r                                      \   p           u        
+c                 x   o           w         e                 z   s           y
+        f                     z                      v                       f 
+                    y                      o                      b            
+         x                      k                      y                      o
+                                           r                                   
+          q                                            r                      c
+                     y                      e                      x           
+          j                      z                      l                      
+                     k                                             r           
+          h                                             m                     
+c                      u                      h                                
+            n                      e                       x                   
+  l                      z                      j                     z        
+            m                                            p                    
+g                     x                     h                     z            
+        q                     b                     y                     m    
+                                       o                     c                 
+                          l                                            t       
+             d                     u                     g                    
+u                     c                     s                     i            
+                               r                                            m  
+                  h                     a                     s                
+    k                                           o                        klGva 
+         kk  c  sm   x"
+  0. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                    b   de pe re te ve xe
+yvnntfrxf     P p  zz      zzezzz                                              
+                                                                               
+                                                                               
+                                                                               
+                                      gd"
+  0. "   a"
+ 41. ")z"
+ 33. "qdgdgo"
+149. "                                                                         
+                                                                               
+        k                                           m                          
+                q                 b   w           a         n                 d
+             0         q                 f                e         n          
+      h   z           g         n                                        k   j 
+         j                                n                 n   e           m 
+o                 M         q                 q              P         s       
+         s              R         r                                      \   p 
+         u         c                 x   o           w         e               
+ z   s           y         f                     z                      v      
+                f                      y                      o                
+     b                      x                      k                      y    
+                 o                                            r                
+                             q                                            r    
+                 c                      y                      e               
+      x                      j                      z                      l   
+                                        k                                      
+      r                      h                                             m   
+                  c                      u                      h              
+                              n                      e                       x 
+                    l                      z                      j            
+        z                     m                                            p   
+                 g                     x                     h                 
+   z                     q                     b                     y         
+           m                                            o                     c
+                                           l                                   
+        t                     d                     u                     g    
+                u                     c                     s                  
+  i                                            r                               
+            m                     h                     a                     s
+                    k                                           o              
+         klGva           kk  c  sm   x"
+255. "               k                                           m             
+                             q                 b   w           a         n     
+           d              0         q                 f                e       
+ n                 h   z           g         n                                 
+      k   j           j                                n                 n   e 
+         m  o                 M         q                 q              P     
+   s                 s              R         r                                
+     \   p           u         c                 x   o           w         e   
+             z   s           y         f                     z                 
+    v                       f                      y                      o    
+                 b                      x                      k               
+      y                      o                                            r    
+                                         q                                     
+      r                      c                      y                      e   
+                  x                      j                      z              
+       l                                            k                          
+                  r                      h                                     
+       m                      c                      u                      h  
+                                          n                      e             
+         x                      l                      z                      j
+                    z                     m                                    
+       p                     g                     x                     h     
+               z                     q                     b                   
+ y                     m                                            o          
+          c                                            l                       
+                    t                     d                     u              
+      g                     u                     c                     s      
+              i                                            r                   
+                        m                     h                     a          
+          s                     k                                           o  
+                     klGva           kk  c  sm   x"
+ 41. "tc   sxvg"
+ 33. "qdgdgo"
+224. "                                                                         
+                                                                               
+        k                                           m                          
+                q                 b   w           a         n                 d
+             0         q                 f                e         n          
+      h   z           g         n                                        k   j 
+         j                                n                 n   e           m 
+o                 M         q                 q              P         s       
+         s              R         r                                      \   p 
+         u         c                 x   o           w         e               
+ z   s           y         f                     z                      v      
+                f                      y                      o                
+     b                      x                      k                      y    
+                 o                                            r                
+                             q                                            r    
+                 c                      y                      e               
+      x                      j                      z                      l   
+                                        k                                      
+      r                      h                                             m   
+                  c                      u                      h              
+                              n                      e                       x 
+                    l                      z                      j            
+        z                     m                                            p   
+                 g                     x                     h                 
+   z                     q                     b                     y         
+           m                                            o                     c
+                                           l                                   
+        t                     d                     u                     g    
+                u                     c                     s                  
+  i                                            r                               
+            m                     h                     a                     s
+                    k                                           o              
+         klGva           kk  c  sm   x"
+115. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+          a   c   c1c"cadcatcbdcbniwv:vpt     0    "
+  0. "     anyko"
+  0. "   kpcz"
+ 72. "c   s                                                                    
+                                                                               
+                                                                   bw          
+        b   "
+  0. "vcv"
+  5. "nadkzzpi   "
+  1. "vcv"
+ 43. "vcx"
+192. "y   "
+237. "c  "
+255. "   g"
+  3. "vct"
+143. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                  b   de pe re te ve xe yvnntfrxf     P p  zz  
+   zzezzz                                                                      
+                                                                               
+                                                                               
+                                                                               
+              gd"
+243. "       "
+253. "   g"
+  1. "yux"
+  0. "         q                 f                e         n                 h
+  z           g         n                                        k   j         
+ j                                n                 n   e           m  o       
+         M         q                 q              P         s                
+s              R         r                                      \   p          
+u         c                 x   o           w         e                 z   s  
+        y         f                     z                      v               
+       f                      y                      o                      b  
+                   x                      k                      y             
+        o                                            r                         
+                    q                                            r             
+        c                      y                      e                      x 
+                    j                      z                      l            
+                               k                                             r 
+                    h                                             m            
+         c                      u                      h                       
+                     n                      e                       x          
+           l                      z                      j                    
+z                     m                                            p           
+         g                     x                     h                     z   
+                 q                     b                     y                 
+   m                                            o                     c        
+                                   l                                           
+t                     d                     u                     g            
+        u                     c                     s                     i    
+                                       r                                       
+    m                     h                     a                     s        
+            k                                           o                      
+ klGva           kk  c  sm   x"
+ 79. "Cox, who wrote the game driver ScottFree.
+
+"
+  0. "el  c cy   ceG0el    gdlg   glq    ijxxm                        Cek      
+   c        hligtl   "
+ 20. "rhadrhabhpafjvdhbtrhahrhcldf"
+187. "zwe"
+  7. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+       b   de pe re te ve xe yvnntfrxf     P p  zz      zzezzz                 
+                                                                               
+                                                                               
+                                                                               
+                                                                   gd"
+ 10. "tqbabsrabrvedstdxrt"
+  0. "vcv"
+  8. "nadkzzpi   "
+ 23. "  yxto"
+  0. "bhsjabrlblrhadrhclblrharrhadrhalrjaxrhajdjrhalrhaprhbd"
+  0. ")z"
+  0. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c   s                                                    
+                                                                               
+                                                                               
+   bw                   b   "
+ 45. "     bxk "
+ 66. "tky"
+203. "tky"
+ 32. "vsx"
+160. "lgfuUkgr"
+249. ""bxyw"
+ 31. "sv   gr"
+  0. "         q                 f                e         n                 h
+  z           g         n                                        k   j         
+ j                                n                 n   e           m  o       
+         M         q                 q              P         s                
+s              R         r                                      \   p          
+u         c                 x   o           w         e                 z   s  
+        y         f                     z                      v               
+       f                      y                      o                      b  
+                   x                      k                      y             
+        o                                            r                         
+                    q                                            r             
+        c                      y                      e                      x 
+                    j                      z                      l            
+                               k                                             r 
+                    h                                             m            
+         c                      u                      h                       
+                     n                      e                       x          
+           l                      z                      j                    
+z                     m                                            p           
+         g                     x                     h                     z   
+                 q                     b                     y                 
+   m                                            o                     c        
+                                   l                                           
+t                     d                     u                     g            
+        u                     c                     s                     i    
+                                       r                                       
+    m                     h                     a                     s        
+            k                                           o                      
+ klGva           kk  c  sm   x"
+ 79. "Cox, who wrote the game driver ScottFree.
+
+"
+  0. "el  c cy   ceG0el    gdlg   glq    ijxxm                        Cek      
+   c        hligtl   "
+ 20. "rhadrhabhpafjvdhbtrhahrhcldf"
+187. "zwe"
+  7. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+       b   de pe re te ve xe yvnntfrxf     P p  zz      zzezzz                 
+                                                                               
+                                                                               
+                                                                               
+                                                                   gd"
+ 10. "tqbabsrabrvedstdxrt"
+  0. "vcv"
+  8. "nadkzzpi   "
+ 23. "  yxto"
+  0. "bhsjabrlblrhadrhclblrharrhadrhalrjaxrhajdjrhalrhaprhbd"
+  1. ")z"
+  0. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c   s                 
+                                                                               
+                                                                               
+                                      bw                   b   "
+233.  no-preposition
+ 66. "1dhvLv "
+203. "tky"
+ 32. "vsx"
+160. "lgfuUkgr"
+249. ""bxyw"
+  0. "yux"
+  0. "   kdadc    nacuydu"
+ 10. "   "
+  0. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c   s                                                    
+                                                                               
+                                                                               
+   bw                   b   "
+ 98. "         q                 f                e         n                 h
+  z           g         n                                        k   j         
+ j                                n                 n   e           m  o       
+         M         q                 q              P         s                
+s              R         r                                      \   p          
+u         c                 x   o           w         e                 z   s  
+        y         f                     z                      v               
+       f                      y                      o                      b  
+                   x                      k                      y             
+        o                                            r                         
+                    q                                            r             
+        c                      y                      e                      x 
+                    j                      z                      l            
+                               k                                             r 
+                    h                                             m            
+         c                      u                      h                       
+                     n                      e                       x          
+           l                      z                      j                    
+z                     m                                            p           
+         g                     x                     h                     z   
+                 q                     b                     y                 
+   m                                            o                     c        
+                                   l                                           
+t                     d                     u                     g            
+        u                     c                     s                     i    
+                                       r                                       
+    m                     h                     a                     s        
+            k                                           o                      
+ klGva           kk  c  sm   x"
+ 72. "                                                                         
+                                                                               
+                                                                         k     
+                                     m                                         
+ q                 b   w           a         n                 d              0
+        q                 f                e         n                 h   z   
+       g         n                                        k   j           j    
+                           n                 n   e           m  o              
+  M         q                 q              P         s                 s     
+        R         r                                      \   p           u     
+   c                 x   o           w         e                 z   s         
+ y         f                     z                      v                      
+f                      y                      o                      b         
+            x                      k                      y                    
+ o                                            r                                
+             q                                            r                    
+ c                      y                      e                      x        
+             j                      z                      l                   
+                        k                                             r        
+             h                                             m                   
+  c                      u                      h                              
+              n                      e                       x                 
+    l                      z                      j                     z      
+              m                                            p                   
+ g                     x                     h                     z           
+         q                     b                     y                     m   
+                                        o                     c                
+                           l                                            t      
+              d                     u                     g                    
+u                     c                     s                     i            
+                               r                                            m  
+                  h                     a                     s                
+    k                                           o                        klGva 
+         kk  c  sm   x"
+  1. "      c .jhk   k x      pc  k i   "
+240. " i   zz"
+  1. "luz"
+ 42. "lgfkrykgr"
+249. "dg "
+ 95. "e                 bcdh           b       dmk                bsdq         
+ bk      dus                  dzs                ckdas "
+ 40. "    1c"
+  3. "zym"
+ 40. "                                                                         
+      bw                   b   "
+ 52. "sible items: "
+  1. "luz"
+ 55. "lgfkrykgr"
+249. "roun"
+ 95. "e                 bcdh           b       dmk                bsdq         
+ bk      dus                  dzs                ckdas "
+ 40. ""
+127. "   f"
+237. "c   s                                                                    
+                                                                               
+                                                                   bw          
+        b   "
+255. "   g"
+  1. "ksj"
+255. "jku"
+ 72. "lgf"
+160. "suhkgr"
+ 45. "nadkzzpi   "
+255. "jku"
+ 72. "lgfo   kgr"
+107. "suhkgr"
+ 33. "nadkzzpi   "
+255. "jku"
+ 72. "ge"
+112. "suhkgr"
+ 21. "nadkzzpi   "
+255. "jku"
+ 72. "lgfmtpkgr"
+140. "suhkgr"
+  9. "nadkzzpi   "
+255. "jku"
+ 67. "ztu"
+254. "pm"
+  0. "afrhaprjabrhabrhclbfrhbfrhbf"
+ 27. "    Cns                   css                  cws                Sc    "
+ 87. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                       b   de pe re te ve xe
+yvnntfrxf     P p  zz      zzezzz                                              
+                                                                               
+                                                                               
+                                                                               
+                                      gd"
+  0. "     l  c cy   ceG0el    gdlg   glq    ijxxm                        Cek  
+       c        hligtl   "
+255. "vcx"
+  1. "lgffifkgr"
+127. "vsu"
+255. "                                                                         
+                                                                               
+                                                                               
+                                                 gd"
+ 63. "red! "
+127. "upr2zulj"
+ 47. "                                   \   p           u         c           
+     x   o           w         e                 z   s           y         f   
+                 z                      v                       f              
+       y                      o                      b                      x  
+                   k                      y                      o             
+                              r                                              q 
+                                          r                      c             
+        y                      e                      x                      j 
+                    z                      l                                   
+        k                                             r                      h 
+                                           m                      c            
+         u                      h                                             n
+                     e                       x                      l          
+           z                      j                     z                     m
+                                           p                     g             
+       x                     h                     z                     q     
+               b                     y                     m                   
+                        o                     c                                
+           l                                            t                     d
+                    u                     g                     u              
+      c                     s                     i                            
+               r                                            m                  
+  h                     a                     s                     k          
+                                o                        klGva           kk  c 
+sm   x"
+  1. "    un "
+  0. "yux"
+  5. "   u"
+ 39. "  svdw"
+187. "own runs off! "
+  0. "x     ps  k fs         s hk     x      p   c s   "
+  1. "                         q                 b   w           a         n   
+             d              0         q                 f                e     
+   n                 h   z           g         n                               
+        k   j           j                                n                 n  
+e           m  o                 M         q                 q              P  
+      s                 s              R         r                             
+        \   p           u         c                 x   o           w         e
+                z   s           y         f                     z              
+       v                       f                      y                      o 
+                    b                      x                      k            
+         y                      o                                            r 
+                                            q                                  
+         r                      c                      y                      e
+                     x                      j                      z           
+          l                                            k                       
+                     r                      h                                  
+          m                      c                      u                     
+h                                             n                      e         
+             x                      l                      z                   
+  j                     z                     m                                
+           p                     g                     x                     h 
+                   z                     q                     b               
+     y                     m                                            o      
+              c                                            l                   
+                        t                     d                     u          
+          g                     u                     c                     s  
+                  i                                            r               
+                            m                     h                     a      
+              s                     k                                          
+o                        klGva           kk  c  sm   x"
+ 65. "1dhvLv "
+194. "brnabsxabrvabshabrxabtqbabsrabrvedstdxrt"
+ 62. "lgfsndkgr"
+  1. "dlqwct"
+  0. "   m                                           q                 b   w   
+       a         n                 d              0         q                 f
+               e         n                 h   z           g         n         
+                              k   j           j                               
+n                 n   e           m  o                 M         q             
+   q              P         s                 s              R         r       
+                              \   p           u         c                 x   o
+          w         e                 z   s           y         f              
+      z                      v                       f                      y  
+                   o                      b                      x             
+        k                      y                      o                        
+                   r                                              q            
+                               r                      c                      y 
+                    e                      x                      j            
+         z                      l                                            k 
+                                           r                      h            
+                                m                      c                      u
+                     h                                             n           
+          e                       x                      l                     
+z                      j                     z                     m           
+                                p                     g                     x  
+                  h                     z                     q                
+    b                     y                     m                              
+             o                     c                                           
+l                                            t                     d           
+         u                     g                     u                     c   
+                 s                     i                                       
+    r                                            m                     h       
+             a                     s                     k                     
+                     o                        klGva           kk  c  sm   x"
+  1.  no-preposition
+  2. "yux"
+ 23. "'s already lit! "
+231. "dgo"
+127. "     h                     hbk                  hgk                  hkk 
+                hp                   hu                   h k "
+ 20. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                     k         
+                                 m                                           q 
+               b   w           a         n                 d              0    
+    q                 f                e         n                 h   z       
+   g         n                                        k   j           j        
+                       n                 n   e           m  o                 M
+        q                 q              P         s                 s         
+    R         r                                      \   p           u        
+c                 x   o           w         e                 z   s           y
+        f                     z                      v                       f 
+                    y                      o                      b            
+         x                      k                      y                      o
+                                           r                                   
+          q                                            r                      c
+                     y                      e                      x           
+          j                      z                      l                      
+                     k                                             r           
+          h                                             m                     
+c                      u                      h                                
+            n                      e                       x                   
+  l                      z                      j                     z        
+            m                                            p                    
+g                     x                     h                     z            
+        q                     b                     y                     m    
+                                       o                     c                 
+                          l                                            t       
+             d                     u                     g                    
+u                     c                     s                     i            
+                               r                                            m  
+                  h                     a                     s                
+    k                                           o                        klGva 
+         kk  c  sm   x"
+184. "dzrhbrexchcktrhab"
+ 31. "sv   gr"
+ 71. "lgfsndkgr"
+ 39. "ycy"
+ 19. " a    "
+ 81. "lgfsndkgr"
+ 60. "ofd"
+191. "y   "
+  0. "tqbabsrabrvedstdxrt"
+229. "   f"
+ 16. " an attribute to "
+255. "gtl   "
+255. "dcw"
+ 63. "ofd"
+191. "y   "
+ 22. "xrp"
+167. "g   lgfftwkgr"
+ 89. "lgfsndkgr"
+146. "lgfsndkgr"
+177. "lgfsndkgr"
+193. "lgfsndkgr"
+194. "oex"
+ 69. ")z"
+ 64. "zuw"
+ 99. "kgr"
+  4. "gdkgdmhk kltzfq"
+ 17. "zvs"
+178. "                      y                      e                      x    
+                 j                      z                      l               
+                            k                                             r    
+                 h                                             m               
+      c                      u                      h                          
+                  n                      e                       x             
+        l                      z                      j                     z  
+                  m                                            p               
+     g                     x                     h                     z       
+             q                     b                     y                    
+m                                            o                     c           
+                                l                                            t 
+                   d                     u                     g               
+     u                     c                     s                     i       
+                                    r                                          
+ m                     h                     a                     s           
+         k                                           o                       
+klGva           kk  c  sm   x"
+244. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                    b   de pe re te ve xe
+yvnntfrxf     P p  zz      zzezzz                                              
+                                                                               
+                                                                               
+                                                                               
+                                      gd"
+127. "idb"
+176. "c   s                                                                    
+                                                                               
+                                                                   bw          
+        b   "
+  0.  no-preposition
+127. "         btc "
+ 17. "     p         s                 s              R         r              
+                       \   p           u         c                 x   o       
+   w         e                 z   s           y         f                    
+z                      v                       f                      y        
+             o                      b                      x                   
+  k                      y                      o                              
+             r                                              q                  
+                         r                      c                      y       
+              e                      x                      j                  
+   z                      l                                            k       
+                                     r                      h                  
+                          m                      c                      u      
+               h                                             n                 
+    e                       x                      l                      z    
+                 j                     z                     m                 
+                          p                     g                     x        
+            h                     z                     q                     b
+                    y                     m                                    
+       o                     c                                            l    
+                                       t                     d                 
+   u                     g                     u                     c         
+           s                     i                                            r
+                                           m                     h             
+       a                     s                     k                           
+               o                        klGva           kk  c  sm   x"
+ 70. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                        b   de
+pe re te ve xe yvnntfrxf     P p  zz      zzezzz                               
+                                                                               
+                                                                               
+                                                                               
+                                                     gd"
+241. "rrhajrjaxrhahrhaxrhajrhaprhahrjclgz"
+141. "lgfq   gr"
+141. ""
+230. "sout"
+141. "kk   mbgnf"
+141. "dg "
+178. "di"
+156. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                             a 
+ c   c1c"cadcatcbdcbniwv:vpt     0    "
+ 20. "or! "
+149. "0"
+ 97. "fsrkgr"
+234. "me"
+ 19. "kgr"
+134. "                   j                      z                      l       
+                                    k                                          
+  r                      h                                             m       
+              c                      u                      h                  
+                          n                      e                       x     
+                l                      z                      j                
+    z                     m                                            p       
+             g                     x                     h                    
+z                     q                     b                     y            
+        m                                            o                     c   
+                                        l                                      
+     t                     d                     u                     g       
+             u                     c                     s                    
+i                                            r                                 
+          m                     h                     a                     s  
+                  k                                           o                
+       klGva           kk  c  sm   x"
+ 40. "K    m     n        k      .     p        k 8    m     r        k a     m
+    t        k ak    m     v        k b     m     x        k bk    m     z     
+  k c     m               k ck    m               k d      C     mc            
+  8n"
+194. "oex"
+246. "vct"
+  1. "   s"
+246. "c  "
+  1. "   s"
+121. "fa"
+  1. "is not of class "
+177. "jr   gr"
+  8.  no-preposition
+ 39. "mex"
+  4. "oNkgr"
+ 79. "      btc "
+238. "b       dmk                bsdq           bk      dus                 
+dzs                ckdas "
+188. "ni   zz"
+255. "lux"
+144. "   cy   "
+252. "                             bw                   b   "
+  3. "vct"
+143. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                  b   de pe re te ve xe yvnntfrxf     P p  zz  
+   zzezzz                                                                      
+                                                                               
+                                                                               
+                                                                               
+              gd"
+143. "kj    vicsdgo"
+243. "               cbs                   cgs                  ckc            
+    Cns                   css                  cws                Sc    "
+ 23. "zxy"
+  2. "vct"
+ 63. "              s nvj              gp"
+178. "ulb"
+ 52. "                                                                         
+    o                                                                          
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                  b   de pe re te ve xe
+yvnntfrxf     P p  zz      zzezzz                                              
+                                                                               
+                                                                               
+                                                                               
+                                      gd"
+ 32. "krzfadkzzfy   x"
+ 52. "                                                                         
+                                                                               
+                                                                               
+                                    o                                          
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+  b   de pe re te ve xe yvnntfrxf     P p  zz      zzezzz                      
+                                                                               
+                                                                               
+                                                                               
+                                                              gd"
+ 36. "ze"
+ 56. "lgffphkgr"
+148. "       c                      y                      e                   
+  x                      j                      z                      l       
+                                    k                                          
+  r                      h                                             m       
+              c                      u                      h                  
+                          n                      e                       x     
+                l                      z                      j                
+    z                     m                                            p       
+             g                     x                     h                    
+z                     q                     b                     y            
+        m                                            o                     c   
+                                        l                                      
+     t                     d                     u                     g       
+             u                     c                     s                    
+i                                            r                                 
+          m                     h                     a                     s  
+                  k                                           o                
+       klGva           kk  c  sm   x"
+136. "kgr"
+  6. "  cgs                  ckc                 Cns                   css     
+            cws                Sc    "
+ 69. "wearing it! "
+227. " i   zz"
+ 39. "xug"
+  1. "   q"
+169. "c  c  c  c   s                                                           
+                                                                               
+                                                                            bw 
+                 b   "
+  1. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                               a   c   c1c"cadcatcbdcbniwv:vpt 
+   0    "
+ 39. "                                                                         
+                                                                               
+                                                                               
+                                                         k                     
+                     m                                           q             
+   b   w           a         n                 d              0         q      
+          f                e         n                 h   z           g       
+ n                                        k   j           j                    
+           n                 n   e           m  o                 M         q  
+              q              P         s                 s              R      
+  r                                      \   p           u         c           
+     x   o           w         e                 z   s           y         f   
+                 z                      v                       f              
+       y                      o                      b                      x  
+                   k                      y                      o             
+                              r                                              q 
+                                          r                      c             
+        y                      e                      x                      j 
+                    z                      l                                   
+        k                                             r                      h 
+                                           m                      c            
+         u                      h                                             n
+                     e                       x                      l          
+           z                      j                     z                     m
+                                           p                     g             
+       x                     h                     z                     q     
+               b                     y                     m                   
+                        o                     c                                
+           l                                            t                     d
+                    u                     g                     u              
+      c                     s                     i                            
+               r                                            m                  
+  h                     a                     s                     k          
+                                o                        klGva           kk  c 
+sm   x"
+ 25. "emg"
+160. "                                                                         
+                                                                               
+                                                                         k     
+                                     m                                         
+ q                 b   w           a         n                 d              0
+        q                 f                e         n                 h   z   
+       g         n                                        k   j           j    
+                           n                 n   e           m  o              
+  M         q                 q              P         s                 s     
+        R         r                                      \   p           u     
+   c                 x   o           w         e                 z   s         
+ y         f                     z                      v                      
+f                      y                      o                      b         
+            x                      k                      y                    
+ o                                            r                                
+             q                                            r                    
+ c                      y                      e                      x        
+             j                      z                      l                   
+                        k                                             r        
+             h                                             m                   
+  c                      u                      h                              
+              n                      e                       x                 
+    l                      z                      j                     z      
+              m                                            p                   
+ g                     x                     h                     z           
+         q                     b                     y                     m   
+                                        o                     c                
+                           l                                            t      
+              d                     u                     g                    
+u                     c                     s                     i            
+                               r                                            m  
+                  h                     a                     s                
+    k                                           o                        klGva 
+         kk  c  sm   x"
+127.  no-preposition
+ 39. "xsv"
+  4. "n   kgr"
+  0. "   c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c   s                   
+                                                                               
+                                                                               
+                                    bw                   b   "
+109. "                                                                         
+                                                                               
+                                                                         k     
+                                     m                                         
+ q                 b   w           a         n                 d              0
+        q                 f                e         n                 h   z   
+       g         n                                        k   j           j    
+                           n                 n   e           m  o              
+  M         q                 q              P         s                 s     
+        R         r                                      \   p           u     
+   c                 x   o           w         e                 z   s         
+ y         f                     z                      v                      
+f                      y                      o                      b         
+            x                      k                      y                    
+ o                                            r                                
+             q                                            r                    
+ c                      y                      e                      x        
+             j                      z                      l                   
+                        k                                             r        
+             h                                             m                   
+  c                      u                      h                              
+              n                      e                       x                 
+    l                      z                      j                     z      
+              m                                            p                   
+ g                     x                     h                     z           
+         q                     b                     y                     m   
+                                        o                     c                
+                           l                                            t      
+              d                     u                     g                    
+u                     c                     s                     i            
+                               r                                            m  
+                  h                     a                     s                
+    k                                           o                        klGva 
+         kk  c  sm   x"
+ 39. "xsv"
+  5. "n   kgr"
+ 43. "                                                                         
+                                                                               
+                                                                               
+                                                         k                     
+                     m                                           q             
+   b   w           a         n                 d              0         q      
+          f                e         n                 h   z           g       
+ n                                        k   j           j                    
+           n                 n   e           m  o                 M         q  
+              q              P         s                 s              R      
+  r                                      \   p           u         c           
+     x   o           w         e                 z   s           y         f   
+                 z                      v                       f              
+       y                      o                      b                      x  
+                   k                      y                      o             
+                              r                                              q 
+                                          r                      c             
+        y                      e                      x                      j 
+                    z                      l                                   
+        k                                             r                      h 
+                                           m                      c            
+         u                      h                                             n
+                     e                       x                      l          
+           z                      j                     z                     m
+                                           p                     g             
+       x                     h                     z                     q     
+               b                     y                     m                   
+                        o                     c                                
+           l                                            t                     d
+                    u                     g                     u              
+      c                     s                     i                            
+               r                                            m                  
+  h                     a                     s                     k          
+                                o                        klGva           kk  c 
+sm   x"
+ 24. "e"
+ 13. "    ks"
+ 66. "   c                 x   o           w         e                 z   s   
+       y         f                     z                      v                
+      f                      y                      o                      b   
+                  x                      k                      y              
+       o                                            r                          
+                   q                                            r              
+       c                      y                      e                      x  
+                   j                      z                      l             
+                              k                                             r  
+                   h                                             m             
+        c                      u                      h                        
+                    n                      e                       x           
+          l                      z                      j                     z
+                    m                                            p             
+       g                     x                     h                     z     
+               q                     b                     y                   
+ m                                            o                     c          
+                                 l                                            t
+                    d                     u                     g              
+      u                     c                     s                     i      
+                                     r                                         
+  m                     h                     a                     s          
+          k                                           o                       
+klGva           kk  c  sm   x"
+  0. "           x   o           w         e                 z   s           y 
+       f                     z                      v                       f  
+                   y                      o                      b             
+        x                      k                      y                      o 
+                                          r                                    
+         q                                            r                      c 
+                    y                      e                      x            
+         j                      z                      l                       
+                    k                                             r            
+         h                                             m                      c
+                     u                      h                                  
+          n                      e                       x                     
+l                      z                      j                     z          
+          m                                            p                     g 
+                   x                     h                     z               
+     q                     b                     y                     m       
+                                    o                     c                    
+                       l                                            t          
+          d                     u                     g                     u  
+                  c                     s                     i                
+                           r                                            m      
+              h                     a                     s                    
+k                                           o                        klGva     
+     kk  c  sm   x"
+  3. "jdbkgr"
+ 66. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                             k                                           m     
+                                     q                 b   w           a       
+ n                 d              0         q                 f               
+e         n                 h   z           g         n                        
+               k   j           j                                n              
+  n   e           m  o                 M         q                 q           
+  P         s                 s              R         r                       
+              \   p           u         c                 x   o           w    
+    e                 z   s           y         f                     z        
+             v                       f                      y                  
+   o                      b                      x                      k      
+               y                      o                                        
+   r                                              q                            
+               r                      c                      y                 
+    e                      x                      j                      z     
+                l                                            k                 
+                           r                      h                            
+                m                      c                      u                
+     h                                             n                      e    
+                  x                      l                      z              
+       j                     z                     m                           
+                p                     g                     x                  
+  h                     z                     q                     b          
+          y                     m                                            o 
+                   c                                            l              
+                             t                     d                     u     
+               g                     u                     c                   
+ s                     i                                            r          
+                                 m                     h                     a 
+                   s                     k                                     
+     o                        klGva           kk  c  sm   x"
+210. "           x   o           w         e                 z   s           y 
+       f                     z                      v                       f  
+                   y                      o                      b             
+        x                      k                      y                      o 
+                                          r                                    
+         q                                            r                      c 
+                    y                      e                      x            
+         j                      z                      l                       
+                    k                                             r            
+         h                                             m                      c
+                     u                      h                                  
+          n                      e                       x                     
+l                      z                      j                     z          
+          m                                            p                     g 
+                   x                     h                     z               
+     q                     b                     y                     m       
+                                    o                     c                    
+                       l                                            t          
+          d                     u                     g                     u  
+                  c                     s                     i                
+                           r                                            m      
+              h                     a                     s                    
+k                                           o                        klGva     
+     kk  c  sm   x"
+ 95. "tlqyss"
+ 28. ""
+  0. "            bcdh           b       dmk                bsdq           bk  
+   dus                  dzs                ckdas "
+127. "ofd"
+  0. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                 k             
+                             m                                           q     
+           b   w           a         n                 d              0        
+q                 f                e         n                 h   z          
+g         n                                        k   j           j           
+                    n                 n   e           m  o                 M   
+     q                 q              P         s                 s            
+ R         r                                      \   p           u         c  
+              x   o           w         e                 z   s           y    
+    f                     z                      v                       f     
+                y                      o                      b                
+     x                      k                      y                      o    
+                                       r                                       
+      q                                            r                      c    
+                 y                      e                      x               
+      j                      z                      l                          
+                 k                                             r               
+      h                                             m                      c   
+                  u                      h                                     
+       n                      e                       x                      l 
+                    z                      j                     z             
+       m                                            p                     g    
+                x                     h                     z                  
+  q                     b                     y                     m          
+                                 o                     c                       
+                    l                                            t             
+       d                     u                     g                     u     
+               c                     s                     i                   
+                        r                                            m         
+           h                     a                     s                     k 
+                                         o                        klGva        
+  kk  c  sm   x"
+ 47. "kua  lkskkc "
+  3. "vnntfrxf     P p  zz      zzezzz                                         
+                                                                               
+                                                                               
+                                                                               
+                                           gd"
+  7. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c 
+c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c   s                                                                   
+                                                                               
+                                                                    bw         
+         b   "
+243. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                         k                                     
+     m                                           q                 b   w       
+   a         n                 d              0         q                 f    
+           e         n                 h   z           g         n             
+                          k   j           j                                n   
+             n   e           m  o                 M         q                 q
+             P         s                 s              R         r            
+                         \   p           u         c                 x   o     
+     w         e                 z   s           y         f                   
+ z                      v                       f                      y       
+              o                      b                      x                  
+   k                      y                      o                             
+              r                                              q                 
+                          r                      c                      y      
+               e                      x                      j                 
+    z                      l                                            k      
+                                      r                      h                 
+                           m                      c                      u     
+                h                                             n                
+     e                       x                      l                      z   
+                  j                     z                     m                
+                           p                     g                     x       
+             h                     z                     q                    
+b                     y                     m                                  
+         o                     c                                            l  
+                                         t                     d               
+     u                     g                     u                     c       
+             s                     i                                           
+r                                            m                     h           
+         a                     s                     k                         
+                 o                        klGva           kk  c  sm   x"
+ 23. "zxy"

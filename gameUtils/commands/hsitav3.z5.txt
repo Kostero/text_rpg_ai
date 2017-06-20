@@ -1,0 +1,1049 @@
+
+Story file is games/hsitav3.z5
+
+    **** Parse tables ****
+
+  Verb entries = 129
+
+255. 3 entries, verb = "roomex"
+    [00 6b 0f]                "roomex"
+    [00 6c 42 6b 31 0f]       "roomex on"
+    [00 6d 42 6a f2 0f]       "roomex off"
+
+254. 2 entries, verb = "full", synonyms = "fullscore", "punti"
+    [00 18 0f]                "full"
+    [00 18 42 71 34 0f]       "full score"
+
+253. 3 entries, verb = "modalita", synonyms = "modalita"
+    [00 26 62 5d 06 52 5f c4 0f] "modalita breve / corta"
+    [00 24 42 6a 50 0f]       "modalita normale"
+    [00 25 62 67 a4 52 5f 6a 0f] "modalita lunga / completa"
+
+252. 1 entry, verb = "breve", synonyms = "short", "superbrie"
+    [00 26 0f]                "breve"
+
+251. 1 entry, verb = "long", synonyms = "lungo", "verbose"
+    [00 25 0f]                "long"
+
+250. 1 entry, verb = "brief", synonyms = "normal", "normale"
+    [00 24 0f]                "brief"
+
+249. 2 entries, verb = "notifica", synonyms = "notify"
+    [00 2d 62 6b 31 52 5b d4 0f] "notifica on / attivata"
+    [00 2c 62 6a f2 52 61 50 0f] "notifica off / disattiva"
+
+248. 1 entry, verb = "nouns", synonyms = "pronomi", "pronouns"
+    [00 32 0f]                "nouns"
+
+247. 1 entry, verb = "basta", synonyms = "die", "fine", "q", "quit", "uscire"
+    [00 38 0f]                "basta"
+
+246. 2 entries, verb = "restart", synonyms = "ricominci"
+    [00 3a 62 6b dc 52 64 29 0f] "restart partita / gioco"
+    [00 3a 0f]                "restart"
+
+245. 2 entries, verb = "carica", synonyms = "caricare", "load", "restore",
+                                            "ricarica", "riprendi"
+    [00 3b 62 6b dc 52 64 29 0f] "carica partita / gioco"
+    [00 3b 0f]                "carica"
+
+244. 2 entries, verb = "salva", synonyms = "salvare", "save"
+    [00 3d 62 6b dc 52 64 29 0f] "salva partita / gioco"
+    [00 3d 0f]                "salva"
+
+243. 2 entries, verb = "punteggio", synonyms = "score"
+    [00 3e 0f]                "punteggio"
+    [00 18 62 5f 73 52 6c a2 0f] "punteggio completo / pieno"
+
+242. 3 entries, verb = "script", synonyms = "transcrip", "trascrizi"
+    [00 40 0f]                "script"
+    [00 3f 62 6a f2 52 61 50 0f] "script off / disattiva"
+    [00 40 62 6b 31 52 5b d4 0f] "script on / attivata"
+
+241. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 3f 0f]                "noscript"
+
+240. 2 entries, verb = "verifica", synonyms = "verificar", "verify"
+    [00 57 42 64 29 0f]       "verifica gioco"
+    [00 57 0f]                "verifica"
+
+239. 1 entry, verb = "version", synonyms = "versione"
+    [00 6e 0f]                "version"
+
+238. 3 entries, verb = "recording", synonyms = "registra", "registraz"
+    [00 0a 0f]                "recording"
+    [00 0a 62 6b 31 52 5b d4 0f] "recording on / attivata"
+    [00 09 62 6a f2 52 61 50 0f] "recording off / disattiva"
+
+237. 1 entry, verb = "replay"
+    [00 0b 0f]                "replay"
+
+236. 1 entry, verb = "luoghi", synonyms = "places", "posti"
+    [00 30 0f]                "luoghi"
+
+235. 1 entry, verb = "objects", synonyms = "oggetti"
+    [00 2e 0f]                "objects"
+
+234. 1 entry, verb = "di", synonyms = "di", "di'", "dici", "rispondi"
+    [00 01 01 00 09 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a
+09 72 5a 1b 52 5a 7e 01 00 06 0f] "di topic a / ad / all' / allo / alla / al /
+agli / ai / alle creature"
+
+233. 7 entries, verb = "chiedi", synonyms = "domanda"
+    [00 02 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a 09 72 5a
+1b 52 5a 7e 01 00 06 62 5e 9b 72 74 dc 72 75 51 72 75 48 72 75 75 72 75 5a 72
+75 63 72 75 3f 72 75 6c 72 60 db 72 60 b7 72 60 a5 72 60 9c 72 60 8a 72 60 81
+52 60 ae 01 00 09 0f] "chiedi a / ad / all' / allo / alla / al / agli / ai /
+alle creature circa / su / sul / sui / sullo / sull' / sulla / sugli / sulle /
+di / dello / della / dell' / dei / degli / delle topic"
+    [00 02 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a 09 72 5a
+1b 52 5a 7e 01 00 06 0f] "chiedi a / ad / all' / allo / alla / al / agli / ai /
+alle creature"
+    [00 5f 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a 09 72 5a
+1b 52 5a 7e 01 00 06 01 00 00 0f] "chiedi a / ad / all' / allo / alla / al /
+agli / ai / alle creature noun"
+    [04 5f 01 00 00 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a
+09 72 5a 1b 52 5a 7e 01 00 06 0f] "chiedi noun a / ad / all' / allo / alla / al
+/ agli / ai / alle creature" REVERSE
+    [00 5e 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a 09 72 5a
+1b 52 5a 7e 01 00 06 42 60 db 01 00 09 0f] "chiedi a / ad / all' / allo / alla
+/ al / agli / ai / alle creature di topic"
+    [00 48 62 71 61 52 71 6a 0f] "chiedi scusa / scuse"
+    [00 48 62 71 61 52 71 6a 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a
+36 72 5a 09 72 5a 1b 52 5a 7e 01 00 06 0f] "chiedi scusa / scuse a / ad / all'
+/ allo / alla / al / agli / ai / alle creature"
+
+232. 3 entries, verb = "ammazza", synonyms = "colpisci", "combatti", "lotta",
+                                             "picchia", "rompi", "sfonda",
+                                             "tortura", "uccidi"
+    [00 65 83 48 ff 0f]       "ammazza noun = [parse $48ff]"
+    [00 03 01 00 00 0f]       "ammazza noun"
+    [00 03 01 00 00 62 5f 85 52 5e e3 01 00 01 0f] "ammazza noun con / col
+held"
+
+231. 4 entries, verb = "attacca"
+    [00 65 83 48 ff 0f]       "attacca noun = [parse $48ff]"
+    [00 03 01 00 00 0f]       "attacca noun"
+    [00 03 01 00 00 62 5f 85 52 5e e3 01 00 01 0f] "attacca noun con / col
+held"
+    [00 21 01 00 00 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a
+09 72 5a 1b 52 5a 7e 01 00 00 0f] "attacca noun a / ad / all' / allo / alla /
+al / agli / ai / alle noun"
+
+230. 2 entries, verb = "soffia"
+    [00 04 62 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db 72 69 e4 72 69 b7 72 69
+ed 52 69 c9 01 00 01 0f] "soffia dentro / in / nel / nello / nell' / nella /
+negli / nelle / nei held"
+    [00 04 01 00 01 0f]       "soffia held"
+
+229. 2 entries, verb = "bestemmia", synonyms = "impreca", "maledici"
+    [00 29 0f]                "bestemmia"
+    [00 29 01 00 09 0f]       "bestemmia topic"
+
+228. 2 entries, verb = "brucia", synonyms = "incendia"
+    [00 05 01 00 00 0f]       "brucia noun"
+    [00 05 01 00 00 62 5f 85 52 5e e3 01 00 01 0f] "brucia noun con / col held"
+
+227. 1 entry, verb = "acquista", synonyms = "compra", "paga"
+    [00 06 01 00 00 0f]       "acquista noun"
+
+226. 2 entries, verb = "arrampica", synonyms = "sali", "scala"
+    [00 07 62 74 dc 72 75 51 72 75 75 72 75 5a 72 75 63 72 75 48 72 75 3f 72 75
+6c 72 59 28 52 6c 12 01 00 00 0f] "arrampica su / sul / sullo / sull' / sulla /
+sui / sugli / sulle / a / per noun"
+    [00 07 01 00 00 0f]       "arrampica noun"
+
+225. 2 entries, verb = "chiudi", synonyms = "copri"
+    [00 08 01 00 00 0f]       "chiudi noun"
+    [00 27 01 00 00 62 5f 85 72 5e e3 52 59 28 01 00 01 0f] "chiudi noun con /
+col / a held"
+
+224. 2 entries, verb = "consulta"
+    [00 0c 01 00 00 42 5e 9b 01 00 09 0f] "consulta noun circa topic"
+    [00 0c 01 00 00 62 74 dc 72 75 51 72 75 75 72 75 5a 72 75 63 72 75 48 72 75
+3f 72 75 6c 52 72 c9 01 00 09 0f] "consulta noun su / sul / sullo / sull' /
+sulla / sui / sugli / sulle / sopra topic"
+
+223. 2 entries, verb = "affetta", synonyms = "sfoltisci", "sfronda", "spacca",
+                                             "strappa", "taglia"
+    [00 0d 01 00 00 0f]       "affetta noun"
+    [00 0d 01 00 00 62 5f 85 52 5e e3 01 00 01 0f] "affetta noun con / col
+held"
+
+222. 2 entries, verb = "scava"
+    [00 0e 01 00 00 0f]       "scava noun"
+    [00 0e 01 00 00 62 5f 85 52 5e e3 01 00 01 0f] "scava noun con / col held"
+
+221. 1 entry, verb = "bevi", synonyms = "sorseggia", "trangugia"
+    [00 10 01 00 00 0f]       "bevi noun"
+
+220. 10 entries, verb = "abbandona", synonyms = "lancia", "lascia", "posa"
+    [00 67 85 4f 12 0f]       "abbandona scope = [parse $4f12]"
+    [00 67 85 4f 12 62 59 28 72 5a 36 72 5a 87 72 5a 63 72 78 33 72 5a 6c 72 5a
+09 72 5a 7e 72 74 dc 72 75 51 72 75 48 72 75 3f 72 75 63 52 75 6c 01 00 00 0f]
+"abbandona scope = [parse $4f12] a / al / allo / all' / verso / alla / agli /
+alle / su / sul / sui / sugli / sulla / sulle noun"
+    [00 67 85 4f 12 42 74 dc 42 60 db 01 00 00 0f] "abbandona scope = [parse
+$4f12] su di noun"
+    [00 67 85 4f 12 42 75 51 85 4f 12 0f] "abbandona scope = [parse $4f12] sul
+scope = [parse $4f12]"
+    [00 11 01 00 03 0f]       "abbandona multiheld"
+    [00 1d 01 00 04 62 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db 72 69 e4 72 69
+b7 72 69 ed 52 69 c9 01 00 00 0f] "abbandona multiexcept dentro / in / nel /
+nello / nell' / nella / negli / nelle / nei noun"
+    [00 37 01 00 04 62 74 dc 72 75 51 72 75 75 72 75 5a 72 75 63 72 75 48 72 75
+3f 72 75 6c 52 72 c9 01 00 00 0f] "abbandona multiexcept su / sul / sullo /
+sull' / sulla / sui / sugli / sulle / sopra noun"
+    [00 53 01 00 01 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a
+09 72 5a 1b 72 5a 7e 72 74 dc 72 75 51 72 75 75 72 75 5a 72 75 63 72 75 48 72
+75 3f 72 75 6c 72 72 c9 72 5f a0 72 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db
+72 69 e4 72 69 b7 72 69 ed 52 69 c9 01 00 00 0f] "abbandona held a / ad / all'
+/ allo / alla / al / agli / ai / alle / su / sul / sullo / sull' / sulla / sui
+/ sugli / sulle / sopra / contro / dentro / in / nel / nello / nell' / nella /
+negli / nelle / nei noun"
+    [00 1c 83 56 ef 0f]       "abbandona noun = [parse $56ef]"
+    [00 16 01 00 00 0f]       "abbandona noun"
+
+219. 1 entry, verb = "mangia"
+    [00 12 01 00 01 0f]       "mangia held"
+
+218. 2 entries, verb = "rovescia", synonyms = "svuota", "versa"
+    [00 6f 01 00 00 0f]       "rovescia noun"
+    [00 13 01 00 00 62 74 dc 72 75 51 72 75 75 72 75 5a 72 75 63 72 75 48 72 75
+3f 72 75 6c 52 72 c9 01 00 00 0f] "rovescia noun su / sul / sullo / sull' /
+sulla / sui / sugli / sulle / sopra noun"
+
+217. 5 entries, verb = "attravers", synonyms = "entra", "visita"
+    [00 70 0f]                "attravers"
+    [00 70 42 60 c0 0f]       "attravers dentro"
+    [00 14 62 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db 72 69 e4 72 69 b7 72 69
+ed 52 69 c9 01 00 00 0f] "attravers dentro / in / nel / nello / nell' / nella /
+negli / nelle / nei noun"
+    [00 14 42 60 c0 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a
+09 72 5a 1b 52 5a 7e 01 00 00 0f] "attravers dentro a / ad / all' / allo / alla
+/ al / agli / ai / alle noun"
+    [00 14 01 00 00 0f]       "attravers noun"
+
+216. 3 entries, verb = "descrivi", synonyms = "esamina", "x"
+    [00 15 01 00 00 0f]       "descrivi noun"
+    [00 41 42 5f 85 62 5b c2 52 5b b9 01 00 00 0f] "descrivi con attenzion /
+attentame noun"
+    [00 41 01 00 00 42 5f 85 62 5b c2 52 5b b9 0f] "descrivi noun con attenzion
+/ attentame"
+
+215. 2 entries, verb = "esci", synonyms = "fuori"
+    [00 16 0f]                "esci"
+    [00 16 62 60 27 72 60 42 72 60 66 72 60 54 72 60 4b 72 60 39 72 60 30 72 60
+5d 52 60 db 01 00 00 0f] "esci da / dal / dallo / dalla / dall' / dai / dagli /
+dalle / di noun"
+
+214. 1 entry, verb = "colma", synonyms = "riempi"
+    [00 17 01 00 00 0f]       "colma noun"
+
+213. 2 entries, verb = "da", synonyms = "dai", "offri"
+    [00 1b 01 00 01 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a
+09 72 5a 1b 52 5a 7e 01 00 06 0f] "da held a / ad / all' / allo / alla / al /
+agli / ai / alle creature"
+    [04 1b 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a 09 72 5a
+1b 52 5a 7e 01 00 06 01 00 01 0f] "da a / ad / all' / allo / alla / al / agli /
+ai / alle creature held" REVERSE
+
+212. 7 entries, verb = "cammina", synonyms = "corri", "va", "vai"
+    [00 56 0f]                "cammina"
+    [00 16 62 63 cf 52 78 69 0f] "cammina fuori / via"
+    [00 1c 62 59 28 72 59 d3 52 78 33 83 56 ef 0f] "cammina a / ad / verso noun
+= [parse $56ef]"
+    [00 14 01 00 00 0f]       "cammina noun"
+    [00 70 42 60 c0 0f]       "cammina dentro"
+    [00 14 62 65 64 72 69 d2 72 69 f6 72 69 db 72 69 e4 72 69 c9 72 69 b7 72 69
+ed 72 60 c0 72 5b dd 72 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72
+5a 09 72 5a 1b 52 5a 7e 01 00 00 0f] "cammina in / nel / nello / nell' / nella
+/ nei / negli / nelle / dentro / attravers / a / ad / all' / allo / alla / al /
+agli / ai / alle noun"
+    [00 07 62 74 dc 72 75 51 72 75 75 72 75 5a 72 75 63 72 75 48 72 75 3f 72 75
+6c 52 72 c9 01 00 00 0f] "cammina su / sul / sullo / sull' / sulla / sui /
+sugli / sulle / sopra noun"
+
+211. 1 entry, verb = "dentro", synonyms = "in"
+    [00 70 0f]                "dentro"
+
+210. 1 entry, verb = "inserisci"
+    [00 1d 01 00 04 62 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db 72 69 e4 72 69
+b7 72 69 ed 52 69 c9 01 00 00 0f] "inserisci multiexcept dentro / in / nel /
+nello / nell' / nella / negli / nelle / nei noun"
+
+209. 3 entries, verb = "i", synonyms = "inv", "inventari"
+    [00 1e 0f]                "i"
+    [00 71 42 62 82 0f]       "i esteso"
+    [00 72 42 5f 73 0f]       "i completo"
+
+208. 4 entries, verb = "salta"
+    [00 16 42 63 cf 62 60 27 72 60 42 72 60 4b 72 60 66 72 60 54 72 60 42 72 60
+30 72 60 39 52 60 5d 01 00 00 0f] "salta fuori da / dal / dall' / dallo / dalla
+/ dal / dagli / dai / dalle noun"
+    [00 1f 0f]                "salta"
+    [00 20 62 74 dc 72 75 51 72 75 75 72 75 5a 72 75 63 72 75 48 72 75 3f 72 75
+6c 52 72 c9 01 00 00 0f] "salta su / sul / sullo / sull' / sulla / sui / sugli
+/ sulle / sopra noun"
+    [00 82 01 00 00 0f]       "salta noun"
+
+207. 1 entry, verb = "abbraccia", synonyms = "bacia"
+    [00 22 01 00 06 0f]       "abbraccia creature"
+
+206. 2 entries, verb = "ascolta", synonyms = "senti"
+    [00 23 0f]                "ascolta"
+    [00 23 01 00 00 0f]       "ascolta noun"
+
+205. 1 entry, verb = "blocca", synonyms = "serra"
+    [00 27 01 00 00 62 5f 85 52 5e e3 01 00 01 0f] "blocca noun con / col held"
+
+204. 9 entries, verb = "g", synonyms = "guarda", "l", "vedi"
+    [00 00 0f]                "g"
+    [00 15 01 00 00 0f]       "g noun"
+    [00 41 62 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db 72 69 e4 72 69 b7 72 69
+ed 72 69 c9 72 5b dd 72 74 dc 72 75 51 72 75 75 72 75 5a 72 75 63 72 75 48 72
+75 3f 72 75 6c 72 72 c9 72 76 3b 52 63 6c 01 00 00 0f] "g dentro / in / nel /
+nello / nell' / nella / negli / nelle / nei / attravers / su / sul / sullo /
+sull' / sulla / sui / sugli / sulle / sopra / tra / fra noun"
+    [00 41 42 5f 85 62 5b c2 52 5b b9 01 00 00 0f] "g con attenzion / attentame
+noun"
+    [00 41 01 00 00 42 5f 85 62 5b c2 52 5b b9 0f] "g noun con attenzion /
+attentame"
+    [00 28 42 72 e4 01 00 00 0f] "g sotto noun"
+    [00 0c 01 00 09 62 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db 72 69 e4 72 69
+b7 72 69 ed 52 69 c9 01 00 00 0f] "g topic dentro / in / nel / nello / nell' /
+nella / negli / nelle / nei noun"
+    [00 15 83 56 ef 0f]       "g noun = [parse $56ef]"
+    [00 15 42 59 28 83 56 ef 0f] "g a noun = [parse $56ef]"
+
+203. 1 entry, verb = "no"
+    [00 2a 0f]                "no"
+
+202. 2 entries, verb = "apri", synonyms = "scopri"
+    [00 2f 01 00 00 0f]       "apri noun"
+    [00 55 01 00 00 62 5f 85 72 5e e3 52 59 28 01 00 01 0f] "apri noun con /
+col / a held"
+
+201. 1 entry, verb = "pela", synonyms = "sbuccia"
+    [00 4f 01 00 00 0f]       "pela noun"
+
+200. 1 entry, verb = "prega"
+    [00 31 0f]                "prega"
+
+199. 1 entry, verb = "tira", synonyms = "trascina"
+    [00 33 01 00 00 0f]       "tira noun"
+
+198. 4 entries, verb = "muovi", synonyms = "premi", "spingi"
+    [00 34 01 00 00 0f]       "muovi noun"
+    [00 36 01 00 00 62 78 33 52 59 28 83 56 ef 0f] "muovi noun verso / a noun =
+[parse $56ef]"
+    [00 36 01 00 00 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a
+09 72 5a 1b 52 5a 7e 01 00 00 0f] "muovi noun a / ad / all' / allo / alla / al
+/ agli / ai / alle noun"
+    [00 85 01 00 00 62 65 64 72 69 d2 72 69 f6 72 69 e4 72 69 b7 72 69 c9 72 69
+ed 72 69 db 52 60 c0 01 00 00 0f] "muovi noun in / nel / nello / nella / negli
+/ nei / nelle / nell' / dentro noun"
+
+197. 5 entries, verb = "metti"
+    [00 5d 01 00 01 0f]       "metti held"
+    [00 11 62 64 17 72 64 44 52 64 4d 01 00 03 0f] "metti giu / giu / giu'
+multiheld"
+    [00 11 01 00 03 62 64 17 52 64 44 0f] "metti multiheld giu / giu"
+    [00 1d 01 00 04 62 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db 72 69 e4 72 69
+b7 72 69 ed 52 69 c9 01 00 00 0f] "metti multiexcept dentro / in / nel / nello
+/ nell' / nella / negli / nelle / nei noun"
+    [00 37 01 00 04 62 74 dc 72 75 51 72 75 75 72 75 5a 72 75 63 72 75 48 72 75
+3f 72 75 6c 52 72 c9 01 00 00 0f] "metti multiexcept su / sul / sullo / sull' /
+sulla / sui / sugli / sulle / sopra noun"
+
+196. 4 entries, verb = "leggi"
+    [00 68 04 00 24 0f]       "leggi ATTRIBUTE(36)"
+    [00 15 01 00 00 0f]       "leggi noun"
+    [00 0c 42 5e 9b 01 00 09 62 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db 72 69
+e4 72 69 b7 72 69 ed 52 69 c9 01 00 00 0f] "leggi circa topic dentro / in / nel
+/ nello / nell' / nella / negli / nelle / nei noun"
+    [00 0c 01 00 09 62 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db 72 69 e4 72 69
+b7 72 69 ed 52 69 c9 01 00 00 0f] "leggi topic dentro / in / nel / nello /
+nell' / nella / negli / nelle / nei noun"
+
+195. 4 entries, verb = "rimuovi", synonyms = "togli"
+    [00 0f 01 00 01 0f]       "rimuovi held"
+    [00 0f 04 00 1a 0f]       "rimuovi ATTRIBUTE(26)"
+    [00 4f 01 00 02 0f]       "rimuovi multi"
+    [00 39 01 00 05 62 60 27 72 60 42 72 60 66 72 60 54 72 60 4b 72 60 30 72 60
+5d 52 60 39 01 00 00 0f] "rimuovi multiinside da / dal / dallo / dalla / dall'
+/ dagli / dalle / dai noun"
+
+194. 2 entries, verb = "lucida", synonyms = "lustra", "pulisci", "ripulisci",
+                                            "spolvera", "strofina"
+    [00 3c 01 00 00 0f]       "lucida noun"
+    [00 3c 01 00 00 62 5f 85 72 5e ec 72 5e e3 72 5e f5 72 5e e3 72 5e d1 52 5e
+da 01 00 01 0f] "lucida noun con / coll' / col / colla / col / cogli / coi
+held"
+
+193. 4 entries, verb = "cerca", synonyms = "fruga", "ricerca", "trova"
+    [00 41 62 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db 72 69 e4 72 69 b7 72 69
+ed 72 69 c9 72 63 6c 52 76 3b 01 00 00 0f] "cerca dentro / in / nel / nello /
+nell' / nella / negli / nelle / nei / fra / tra noun"
+    [04 0c 01 00 09 62 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db 72 69 e4 72 69
+b7 72 69 ed 72 69 c9 72 63 6c 52 76 3b 01 00 00 0f] "cerca topic dentro / in /
+nel / nello / nell' / nella / negli / nelle / nei / fra / tra noun" REVERSE
+    [00 0c 62 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db 72 69 e4 72 69 b7 72 69
+ed 72 69 c9 72 63 6c 52 76 3b 01 00 00 01 00 09 0f] "cerca dentro / in / nel /
+nello / nell' / nella / negli / nelle / nei / fra / tra noun topic"
+    [00 28 42 72 e4 01 00 00 0f] "cerca sotto noun"
+
+192. 2 entries, verb = "imposta"
+    [00 42 01 00 00 0f]       "imposta noun"
+    [00 43 01 00 00 62 59 28 52 74 dc 01 00 07 0f] "imposta noun a / su
+special"
+
+191. 2 entries, verb = "mostra", synonyms = "presenta"
+    [00 44 01 00 01 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a
+09 72 5a 1b 52 5a 7e 01 00 06 0f] "mostra held a / ad / all' / allo / alla / al
+/ agli / ai / alle creature"
+    [04 44 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a 09 72 5a
+1b 52 5a 7e 01 00 06 01 00 01 0f] "mostra a / ad / all' / allo / alla / al /
+agli / ai / alle creature held" REVERSE
+
+190. 1 entry, verb = "cazzo", synonyms = "dannazion", "merda", "porco"
+    [00 4a 0f]                "cazzo"
+
+189. 1 entry, verb = "canta"
+    [00 45 0f]                "canta"
+
+188. 3 entries, verb = "sdraiati", synonyms = "siedi", "siediti"
+    [00 14 62 74 dc 72 75 51 72 75 75 72 75 5a 72 75 63 72 75 48 72 75 3f 72 75
+6c 52 72 c9 01 00 00 0f] "sdraiati su / sul / sullo / sull' / sulla / sui /
+sugli / sulle / sopra noun"
+    [00 14 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a 09 72 5a
+1b 52 5a 7e 01 00 00 0f] "sdraiati a / ad / all' / allo / alla / al / agli / ai
+/ alle noun"
+    [00 14 62 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db 72 69 e4 72 69 b7 72 69
+ed 52 69 c9 01 00 00 0f] "sdraiati dentro / in / nel / nello / nell' / nella /
+negli / nelle / nei noun"
+
+187. 1 entry, verb = "dormi", synonyms = "sonnecchi"
+    [00 46 0f]                "dormi"
+
+186. 2 entries, verb = "annusa", synonyms = "odora"
+    [00 47 0f]                "annusa"
+    [00 47 01 00 00 0f]       "annusa noun"
+
+185. 1 entry, verb = "scusa", synonyms = "spiacente"
+    [00 48 0f]                "scusa"
+
+184. 1 entry, verb = "schiaccia", synonyms = "spiaccica", "spremi"
+    [00 49 01 00 00 0f]       "schiaccia noun"
+
+183. 2 entries, verb = "sta", synonyms = "stai"
+    [00 14 62 74 dc 72 75 51 72 75 75 72 75 5a 72 75 63 72 75 48 72 75 3f 72 75
+6c 52 72 c9 01 00 00 0f] "sta su / sul / sullo / sull' / sulla / sui / sugli /
+sulle / sopra noun"
+    [00 14 62 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db 72 69 e4 72 69 b7 72 69
+ed 52 69 c9 01 00 00 0f] "sta dentro / in / nel / nello / nell' / nella / negli
+/ nelle / nei noun"
+
+182. 2 entries, verb = "nuota"
+    [00 4b 0f]                "nuota"
+    [00 4b 62 65 64 72 69 d2 72 69 db 72 69 f6 72 69 e4 72 69 b7 72 69 c9 72 69
+ed 52 60 c0 01 00 00 0f] "nuota in / nel / nell' / nello / nella / negli / nei
+/ nelle / dentro noun"
+
+181. 1 entry, verb = "scuoti"
+    [00 4c 01 00 00 0f]       "scuoti noun"
+
+180. 1 entry, verb = "accendi", synonyms = "attiva"
+    [00 4e 01 00 00 0f]       "accendi noun"
+
+179. 1 entry, verb = "disattiva", synonyms = "spegni"
+    [00 4d 01 00 00 0f]       "disattiva noun"
+
+178. 2 entries, verb = "afferra", synonyms = "prendi", "raccogli", "trasporta"
+    [00 4f 01 00 02 0f]       "afferra multi"
+    [00 39 01 00 05 62 60 27 72 60 42 72 60 66 72 60 54 72 60 4b 72 60 30 72 60
+5d 52 60 39 01 00 00 0f] "afferra multiinside da / dal / dallo / dalla / dall'
+/ dagli / dalle / dai noun"
+
+177. 1 entry, verb = "assaggia", synonyms = "assapora", "gusta"
+    [00 50 01 00 00 0f]       "assaggia noun"
+
+176. 3 entries, verb = "parla"
+    [00 63 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a 09 72 5a
+1b 72 5a 7e 52 5f 85 01 00 06 0f] "parla a / ad / all' / allo / alla / al /
+agli / ai / alle / con creature"
+    [00 51 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a 09 72 5a
+1b 72 5a 7e 72 5f 85 52 5e e3 01 00 06 62 5e 9b 72 74 dc 72 75 51 72 75 75 72
+75 5a 72 75 63 72 75 3f 72 75 48 72 75 6c 72 60 db 72 60 b7 72 60 a5 72 60 9c
+72 60 8a 72 60 81 52 60 ae 01 00 09 0f] "parla a / ad / all' / allo / alla / al
+/ agli / ai / alle / con / col creature circa / su / sul / sullo / sull' /
+sulla / sugli / sui / sulle / di / dello / della / dell' / dei / degli / delle
+topic"
+    [00 51 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a 09 72 5a
+1b 72 5a 7e 72 5f 85 52 5e e3 01 00 06 0f] "parla a / ad / all' / allo / alla /
+al / agli / ai / alle / con / col creature"
+
+175. 1 entry, verb = "medita", synonyms = "pensa", "rifletti"
+    [00 52 0f]                "medita"
+
+174. 3 entries, verb = "allaccia", synonyms = "annoda", "congiungi", "fissa",
+                                              "lega", "unisci"
+    [00 21 01 00 00 0f]       "allaccia noun"
+    [00 21 01 00 00 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a
+09 72 5a 1b 52 5a 7e 01 00 00 0f] "allaccia noun a / ad / all' / allo / alla /
+al / agli / ai / alle noun"
+    [00 21 01 00 00 62 5f 85 52 5e e3 01 00 00 0f] "allaccia noun con / col
+noun"
+
+173. 1 entry, verb = "accarezza", synonyms = "palpa", "tocca"
+    [00 54 01 00 00 0f]       "accarezza noun"
+
+172. 3 entries, verb = "sposta", synonyms = "trasferis"
+    [00 34 01 00 00 0f]       "sposta noun"
+    [00 64 01 00 00 62 74 dc 72 75 51 72 75 75 72 75 5a 72 75 63 72 75 48 72 75
+3f 72 75 6c 52 72 c9 01 00 00 0f] "sposta noun su / sul / sullo / sull' / sulla
+/ sui / sugli / sulle / sopra noun"
+    [00 64 01 00 00 62 60 c0 72 65 64 72 69 d2 72 69 f6 72 69 db 72 69 e4 72 69
+b7 72 69 ed 52 69 c9 01 00 00 0f] "sposta noun dentro / in / nel / nello /
+nell' / nella / negli / nelle / nei noun"
+
+171. 3 entries, verb = "gira", synonyms = "ruota"
+    [00 35 01 00 00 0f]       "gira noun"
+    [00 4e 01 00 00 62 59 3a 52 74 ee 0f] "gira noun a on / su on"
+    [00 4d 01 00 00 62 59 31 52 74 e5 0f] "gira noun a off / su off"
+
+170. 1 entry, verb = "agita", synonyms = "agitati"
+    [00 5b 01 00 00 0f]       "agita noun"
+
+169. 1 entry, verb = "saluta"
+    [00 5c 01 00 06 0f]       "saluta creature"
+
+168. 1 entry, verb = "indossa"
+    [00 5d 01 00 01 0f]       "indossa held"
+
+167. 1 entry, verb = "si", synonyms = "si"
+    [00 2b 0f]                "si"
+
+166. 1 entry, verb = "sblocca", synonyms = "scassina"
+    [00 55 01 00 00 62 5f 85 72 5e e3 52 59 28 01 00 01 0f] "sblocca noun con /
+col / a held"
+
+165. 1 entry, verb = "aspetta", synonyms = "attendi", "z"
+    [00 58 0f]                "aspetta"
+
+164. 2 entries, verb = "risveglia", synonyms = "sveglia", "svegliati"
+    [00 59 0f]                "risveglia"
+    [00 5a 01 00 06 0f]       "risveglia creature"
+
+163. 3 entries, verb = "scendi"
+    [00 16 0f]                "scendi"
+    [00 16 62 60 27 72 60 42 72 60 66 72 60 54 72 60 4b 72 60 39 72 60 30 52 60
+5d 01 00 00 0f] "scendi da / dal / dallo / dalla / dall' / dai / dagli / dalle
+noun"
+    [00 16 01 00 00 0f]       "scendi noun"
+
+162. 5 entries, verb = "fa", synonyms = "fai"
+    [00 19 0f]                "fa"
+    [00 1e 42 66 06 0f]       "fa inventari"
+    [00 44 42 77 b5 01 00 01 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a
+36 72 5a 09 72 5a 1b 52 5a 7e 01 00 06 0f] "fa vedere held a / ad / all' / allo
+/ alla / al / agli / ai / alle creature"
+    [04 44 42 77 b5 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a
+09 72 5a 1b 52 5a 7e 01 00 06 01 00 01 0f] "fa vedere a / ad / all' / allo /
+alla / al / agli / ai / alle creature held" REVERSE
+    [00 44 01 00 01 42 77 b5 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a
+36 72 5a 09 72 5a 1b 52 5a 7e 01 00 06 0f] "fa held vedere a / ad / all' / allo
+/ alla / al / agli / ai / alle creature"
+
+161. 1 entry, verb = "racconta", synonyms = "spg", "spiega"
+    [00 73 85 4a f5 0f]       "racconta scope = [parse $4af5]"
+
+160. 1 entry, verb = "incantesi", synonyms = "mem", "memoria"
+    [00 74 0f]                "incantesi"
+
+159. 1 entry, verb = "dispiega", synonyms = "dispiego", "srotola", "srotolo"
+    [00 75 01 00 01 0f]       "dispiega held"
+
+158. 3 entries, verb = "direct"
+    [00 76 0f]                "direct"
+    [00 76 01 00 00 0f]       "direct noun"
+    [00 76 85 4f 12 0f]       "direct scope = [parse $4f12]"
+
+157. 1 entry, verb = "generator"
+    [00 77 0f]                "generator"
+
+156. 2 entries, verb = "scrivi", synonyms = "scrivo"
+    [00 69 62 74 dc 72 75 51 72 75 75 72 75 63 72 75 51 72 75 5a 72 75 48 72 75
+3f 52 75 6c 01 00 00 62 5f 85 72 5e e3 52 59 28 01 00 01 0f] "scrivi su / sul /
+sullo / sulla / sul / sull' / sui / sugli / sulle noun con / col / a held"
+    [00 69 01 00 00 62 5f 85 72 5e e3 52 59 28 01 00 01 0f] "scrivi noun con /
+col / a held"
+
+155. 1 entry, verb = "impara", synonyms = "imparo", "memorizza", "memorizzo",
+                                          "studia", "studio"
+    [00 79 85 4f 12 0f]       "impara scope = [parse $4f12]"
+
+154. 1 entry, verb = "prepara", synonyms = "preparo"
+    [00 7a 01 00 01 0f]       "prepara held"
+
+153. 3 entries, verb = "dimetti", synonyms = "dimetto", "ripongo", "riponi"
+    [00 7f 83 49 05 0f]       "dimetti noun = [parse $4905]"
+    [00 7b 83 4f 5e 0f]       "dimetti noun = [parse $4f5e]"
+    [00 7b 01 00 01 0f]       "dimetti held"
+
+152. 2 entries, verb = "diagnosi"
+    [00 7c 0f]                "diagnosi"
+    [00 7c 01 00 00 0f]       "diagnosi noun"
+
+151. 2 entries, verb = "statistic", synonyms = "stats"
+    [00 7d 0f]                "statistic"
+    [00 7d 01 00 00 0f]       "statistic noun"
+
+150. 1 entry, verb = "brandisci", synonyms = "brandisco", "impugna", "impugno",
+                                             "sfodera", "sfodero", "sguaina",
+                                             "sguaino"
+    [00 7e 01 00 01 0f]       "brandisci held"
+
+149. 1 entry, verb = "infodera", synonyms = "infodero", "reinfoder",
+                                            "rinfodera", "rinfodero"
+    [00 7f 01 00 01 0f]       "infodera held"
+
+148. 2 entries, verb = "sfrega"
+    [00 3c 01 00 00 62 5f 85 72 5e ec 72 5e e3 72 5e f5 72 5e e3 72 5e d1 52 5e
+da 01 00 01 0f] "sfrega noun con / coll' / col / colla / col / cogli / coi
+held"
+    [00 3c 01 00 00 0f]       "sfrega noun"
+
+147. 1 entry, verb = "accatasta", synonyms = "ammassa", "ammucchia"
+    [00 80 01 00 01 0f]       "accatasta held"
+
+146. 1 entry, verb = "nascondi", synonyms = "nascondit"
+    [00 81 62 61 2c 72 69 d2 72 65 64 72 60 c0 72 69 db 72 69 f6 72 69 e4 72 69
+b7 72 69 c9 52 69 ed 01 00 00 0f] "nascondi dietro / nel / in / dentro / nell'
+/ nello / nella / negli / nei / nelle noun"
+
+145. 1 entry, verb = "scavalca"
+    [00 82 01 00 00 0f]       "scavalca noun"
+
+144. 1 entry, verb = "balla"
+    [00 83 0f]                "balla"
+
+143. 2 entries, verb = "tuffati"
+    [00 4b 0f]                "tuffati"
+    [00 4b 62 65 64 72 69 d2 72 69 db 72 69 f6 72 69 e4 72 69 b7 72 69 c9 72 69
+ed 52 60 c0 01 00 00 0f] "tuffati in / nel / nell' / nello / nella / negli /
+nei / nelle / dentro noun"
+
+142. 1 entry, verb = "chiama"
+    [00 6a 01 00 06 0f]       "chiama creature"
+
+141. 1 entry, verb = "ora", synonyms = "tempo"
+    [00 84 0f]                "ora"
+
+140. 1 entry, verb = "butta", synonyms = "getta"
+    [00 85 01 00 00 62 65 64 72 69 d2 72 69 f6 72 69 e4 72 69 b7 72 69 c9 72 69
+ed 72 69 db 52 60 c0 01 00 00 0f] "butta noun in / nel / nello / nella / negli
+/ nei / nelle / nell' / dentro noun"
+
+139. 2 entries, verb = "impaurisc", synonyms = "minaccia", "spaventa"
+    [00 86 01 00 06 0f]       "impaurisc creature"
+    [00 86 01 00 06 62 5f 85 72 5e ec 72 5e e3 72 5e f5 72 5e e3 72 5e d1 52 5e
+da 01 00 01 0f] "impaurisc creature con / coll' / col / colla / col / cogli /
+coi held"
+
+138. 2 entries, verb = "colora"
+    [00 69 01 00 00 62 5f 85 72 5e e3 52 59 28 01 00 01 0f] "colora noun con /
+col / a held"
+    [00 69 62 74 dc 72 75 51 72 75 75 72 75 63 72 75 51 72 75 5a 72 75 48 72 75
+3f 52 75 6c 01 00 00 62 5f 85 72 5e e3 52 59 28 01 00 01 0f] "colora su / sul /
+sullo / sulla / sul / sull' / sui / sugli / sulle noun con / col / a held"
+
+137. 1 entry, verb = "disperati", synonyms = "lamentati", "piangi", "straziati"
+    [00 87 0f]                "disperati"
+
+136. 1 entry, verb = "bastardo", synonyms = "fanculo", "puttana", "stronzo",
+                                            "vaffancul"
+    [00 4a 0f]                "bastardo"
+
+135. 2 entries, verb = "deruba", synonyms = "rapina", "ruba", "taccheggi"
+    [00 88 01 00 00 0f]       "deruba noun"
+    [00 88 0f]                "deruba"
+
+134. 2 entries, verb = "alzati"
+    [00 16 0f]                "alzati"
+    [00 16 62 60 27 72 60 42 72 60 4b 72 60 66 72 60 54 72 60 42 72 60 30 72 60
+39 52 60 5d 01 00 00 0f] "alzati da / dal / dall' / dallo / dalla / dal / dagli
+/ dai / dalle noun"
+
+133. 1 entry, verb = "bussa"
+    [00 89 62 59 28 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a 09 72 5a 1b 72 5a
+7e 52 74 dc 01 00 00 0f] "bussa a / all' / allo / alla / al / agli / ai / alle
+/ su noun"
+
+132. 2 entries, verb = "grida", synonyms = "urla"
+    [00 8a 0f]                "grida"
+    [00 8a 01 00 09 62 59 28 72 59 d3 72 5a 63 72 5a 87 72 5a 6c 72 5a 36 72 5a
+09 72 5a 1b 52 5a 7e 01 00 06 0f] "grida topic a / ad / all' / allo / alla / al
+/ agli / ai / alle creature"
+
+131. 1 entry, verb = "sputa"
+    [00 8b 0f]                "sputa"
+
+130. 1 entry, verb = "aiutami", synonyms = "aiuto", "help", "hint", "hints",
+                                           "indizi", "indizio", "sos",
+                                           "suggerime", "walkthrou", "walkthru"
+    [00 8c 0f]                "aiutami"
+
+129. 1 entry, verb = "about", synonyms = "info", "informazi", "istruzion",
+                                         "menu"
+    [00 8d 0f]                "about"
+
+128. 1 entry, verb = "alza", synonyms = "solleva"
+    [00 8e 01 00 00 0f]       "alza noun"
+
+127. 1 entry, verb = "abbassa"
+    [00 8f 01 00 00 0f]       "abbassa noun"
+
+    **** Verb action routines ****
+
+  Action table entries = 144
+
+action# action-routine "verb..."
+
+  0. 10468  "g"
+  1. 10984  "di topic a / ad / all' / allo / alla / al / agli / ai / alle
+            creature"
+  2. 1099c  "chiedi a / ad / all' / allo / alla / al / agli / ai / alle
+            creature circa / su / sul / sui / sullo / sull' / sulla / sugli /
+            sulle / di / dello / della / dell' / dei / degli / delle topic"
+            "chiedi a / ad / all' / allo / alla / al / agli / ai / alle
+            creature"
+  3. 109d0  "ammazza noun"
+            "ammazza noun con / col held"
+            "attacca noun"
+            "attacca noun con / col held"
+  4. 109f4  "soffia dentro / in / nel / nello / nell' / nella / negli / nelle /
+            nei held"
+            "soffia held"
+  5. 10a00  "brucia noun"
+            "brucia noun con / col held"
+  6. 10a0c  "acquista noun"
+  7. 10a18  "arrampica su / sul / sullo / sull' / sulla / sui / sugli / sulle /
+            a / per noun"
+            "arrampica noun"
+            "cammina su / sul / sullo / sull' / sulla / sui / sugli / sulle /
+            sopra noun"
+  8. 10844  "chiudi noun"
+  9.  f654  "recording off / disattiva"
+ 10.  f644  "recording"
+            "recording on / attivata"
+ 11.  f668  "replay"
+ 12. 10a24  "consulta noun circa topic"
+            "consulta noun su / sul / sullo / sull' / sulla / sui / sugli /
+            sulle / sopra topic"
+            "g topic dentro / in / nel / nello / nell' / nella / negli / nelle
+            / nei noun"
+            "leggi circa topic dentro / in / nel / nello / nell' / nella /
+            negli / nelle / nei noun"
+            "leggi topic dentro / in / nel / nello / nell' / nella / negli /
+            nelle / nei noun"
+            "cerca topic dentro / in / nel / nello / nell' / nella / negli /
+            nelle / nei / fra / tra noun" REVERSE
+            "cerca dentro / in / nel / nello / nell' / nella / negli / nelle /
+            nei / fra / tra noun topic"
+ 13. 10a30  "affetta noun"
+            "affetta noun con / col held"
+ 14. 10a3c  "scava noun"
+            "scava noun con / col held"
+ 15. 10880  "rimuovi held"
+            "rimuovi ATTRIBUTE(26)"
+ 16. 10a48  "bevi noun"
+ 17.  fb4c  "abbandona multiheld"
+            "metti giu / giu / giu' multiheld"
+            "metti multiheld giu / giu"
+ 18. 108fc  "mangia held"
+ 19.  fdf0  "rovescia noun su / sul / sullo / sull' / sulla / sui / sugli /
+            sulle / sopra noun"
+ 20.  ff44  "attravers dentro / in / nel / nello / nell' / nella / negli /
+            nelle / nei noun"
+            "attravers dentro a / ad / all' / allo / alla / al / agli / ai /
+            alle noun"
+            "attravers noun"
+            "cammina noun"
+            "cammina in / nel / nello / nell' / nella / nei / negli / nelle /
+            dentro / attravers / a / ad / all' / allo / alla / al / agli / ai /
+            alle noun"
+            "sdraiati su / sul / sullo / sull' / sulla / sui / sugli / sulle /
+            sopra noun"
+            "sdraiati a / ad / all' / allo / alla / al / agli / ai / alle noun"
+            "sdraiati dentro / in / nel / nello / nell' / nella / negli / nelle
+            / nei noun"
+            "sta su / sul / sullo / sull' / sulla / sui / sugli / sulle / sopra
+            noun"
+            "sta dentro / in / nel / nello / nell' / nella / negli / nelle /
+            nei noun"
+ 21. 105b0  "descrivi noun"
+            "g noun"
+            "g noun = [parse $56ef]"
+            "g a noun = [parse $56ef]"
+            "leggi noun"
+ 22. 10040  "abbandona noun"
+            "esci"
+            "esci da / dal / dallo / dalla / dall' / dai / dagli / dalle / di
+            noun"
+            "cammina fuori / via"
+            "salta fuori da / dal / dall' / dallo / dalla / dal / dagli / dai /
+            dalle noun"
+            "scendi"
+            "scendi da / dal / dallo / dalla / dall' / dai / dagli / dalle
+            noun"
+            "scendi noun"
+            "alzati"
+            "alzati da / dal / dall' / dallo / dalla / dal / dagli / dai /
+            dalle noun"
+ 23. 10a54  "colma noun"
+ 24.  f74c  "full"
+            "full score"
+            "punteggio completo / pieno"
+ 25. 110b0  "fa"
+ 26. 10028  
+ 27.  fecc  "da held a / ad / all' / allo / alla / al / agli / ai / alle
+            creature"
+            "da a / ad / all' / allo / alla / al / agli / ai / alle creature
+            held" REVERSE
+ 28. 100c8  "abbandona noun = [parse $56ef]"
+            "cammina a / ad / verso noun = [parse $56ef]"
+ 29.  fcb0  "abbandona multiexcept dentro / in / nel / nello / nell' / nella /
+            negli / nelle / nei noun"
+            "inserisci multiexcept dentro / in / nel / nello / nell' / nella /
+            negli / nelle / nei noun"
+            "metti multiexcept dentro / in / nel / nello / nell' / nella /
+            negli / nelle / nei noun"
+ 30.  f7c4  "i"
+            "fa inventari"
+ 31. 10a60  "salta"
+ 32. 10a6c  "salta su / sul / sullo / sull' / sulla / sui / sugli / sulle /
+            sopra noun"
+ 33. 10c80  "attacca noun a / ad / all' / allo / alla / al / agli / ai / alle
+            noun"
+            "allaccia noun"
+            "allaccia noun a / ad / all' / allo / alla / al / agli / ai / alle
+            noun"
+            "allaccia noun con / col noun"
+ 34. 10a78  "abbraccia creature"
+ 35. 10aa4  "ascolta"
+            "ascolta noun"
+ 36. 103d4  "modalita normale"
+            "brief"
+ 37. 103e4  "modalita lunga / completa"
+            "long"
+ 38. 103f4  "modalita breve / corta"
+            "breve"
+ 39. 106f8  "chiudi noun con / col / a held"
+            "blocca noun con / col held"
+ 40. 10604  "g sotto noun"
+            "cerca sotto noun"
+ 41. 10ab0  "bestemmia"
+            "bestemmia topic"
+ 42. 10abc  "no"
+ 43. 10d60  "si"
+ 44.  f684  "notifica off / disattiva"
+ 45.  f678  "notifica on / attivata"
+ 46.  e5b4  "objects"
+ 47. 107d0  "apri noun"
+ 48.  e5bc  "luoghi"
+ 49. 10ac4  "prega"
+ 50.  ce94  "nouns"
+ 51. 10ad0  "tira noun"
+ 52. 10b0c  "muovi noun"
+            "sposta noun"
+ 53. 10cbc  "gira noun"
+ 54. 10b48  "muovi noun verso / a noun = [parse $56ef]"
+            "muovi noun a / ad / all' / allo / alla / al / agli / ai / alle
+            noun"
+ 55.  fbac  "abbandona multiexcept su / sul / sullo / sull' / sulla / sui /
+            sugli / sulle / sopra noun"
+            "metti multiexcept su / sul / sullo / sull' / sulla / sui / sugli /
+            sulle / sopra noun"
+ 56.  f54c  "basta"
+ 57.  faf0  "rimuovi multiinside da / dal / dallo / dalla / dall' / dagli /
+            dalle / dai noun"
+            "afferra multiinside da / dal / dallo / dalla / dall' / dagli /
+            dalle / dai noun"
+ 58.  f55c  "restart partita / gioco"
+            "restart"
+ 59.  f574  "carica partita / gioco"
+            "carica"
+ 60. 10b54  "lucida noun"
+            "lucida noun con / coll' / col / colla / col / cogli / coi held"
+            "sfrega noun con / coll' / col / colla / col / cogli / coi held"
+            "sfrega noun"
+ 61.  f58c  "salva partita / gioco"
+            "salva"
+ 62.  f6e4  "punteggio"
+ 63.  f60c  "script off / disattiva"
+            "noscript"
+ 64.  f5d4  "script"
+            "script on / attivata"
+ 65. 10634  "descrivi con attenzion / attentame noun"
+            "descrivi noun con attenzion / attentame"
+            "g dentro / in / nel / nello / nell' / nella / negli / nelle / nei
+            / attravers / su / sul / sullo / sull' / sulla / sui / sugli /
+            sulle / sopra / tra / fra noun"
+            "g con attenzion / attentame noun"
+            "g noun con attenzion / attentame"
+            "cerca dentro / in / nel / nello / nell' / nella / negli / nelle /
+            nei / fra / tra noun"
+ 66. 10b60  "imposta noun"
+ 67. 10b6c  "imposta noun a / su special"
+ 68.  ff08  "mostra held a / ad / all' / allo / alla / al / agli / ai / alle
+            creature"
+            "mostra a / ad / all' / allo / alla / al / agli / ai / alle
+            creature held" REVERSE
+            "fa vedere held a / ad / all' / allo / alla / al / agli / ai / alle
+            creature"
+            "fa vedere a / ad / all' / allo / alla / al / agli / ai / alle
+            creature held" REVERSE
+            "fa held vedere a / ad / all' / allo / alla / al / agli / ai / alle
+            creature"
+ 69. 10b78  "canta"
+ 70. 10b84  "dormi"
+ 71. 10b90  "annusa"
+            "annusa noun"
+ 72. 10b9c  "chiedi scusa / scuse"
+            "chiedi scusa / scuse a / ad / all' / allo / alla / al / agli / ai
+            / alle creature"
+            "scusa"
+ 73. 10ba8  "schiaccia noun"
+ 74. 10bc8  "cazzo"
+            "bastardo"
+ 75. 10bd4  "nuota"
+            "nuota in / nel / nell' / nello / nella / negli / nei / nelle /
+            dentro noun"
+            "tuffati"
+            "tuffati in / nel / nell' / nello / nella / negli / nei / nelle /
+            dentro noun"
+ 76. 10be0  "scuoti noun"
+ 77. 10794  "disattiva noun"
+            "gira noun a off / su off"
+ 78. 10758  "accendi noun"
+            "gira noun a on / su on"
+ 79.  fac4  "pela noun"
+            "rimuovi multi"
+            "afferra multi"
+ 80. 10bec  "assaggia noun"
+ 81. 10bf8  "parla a / ad / all' / allo / alla / al / agli / ai / alle / con /
+            col creature circa / su / sul / sullo / sull' / sulla / sugli / sui
+            / sulle / di / dello / della / dell' / dei / degli / delle topic"
+            "parla a / ad / all' / allo / alla / al / agli / ai / alle / con /
+            col creature"
+ 82. 10c18  "medita"
+ 83. 10c24  "abbandona held a / ad / all' / allo / alla / al / agli / ai / alle
+            / su / sul / sullo / sull' / sulla / sui / sugli / sulle / sopra /
+            contro / dentro / in / nel / nello / nell' / nella / negli / nelle
+            / nei noun"
+ 84. 10c8c  "accarezza noun"
+ 85. 106a8  "apri noun con / col / a held"
+            "sblocca noun con / col / a held"
+ 86. 100b8  "cammina"
+ 87.  f5bc  "verifica gioco"
+            "verifica"
+ 88. 10cf8  "aspetta"
+ 89. 10d0c  "risveglia"
+ 90. 10d18  "risveglia creature"
+ 91. 10d38  "agita noun"
+ 92. 10d54  "saluta creature"
+ 93. 108b0  "metti held"
+            "indossa held"
+ 94. 109c4  "chiedi a / ad / all' / allo / alla / al / agli / ai / alle
+            creature di topic"
+ 95. 109b0  "chiedi a / ad / all' / allo / alla / al / agli / ai / alle
+            creature noun"
+            "chiedi noun a / ad / all' / allo / alla / al / agli / ai / alle
+            creature" REVERSE
+ 96.  fefc  
+ 97.  ff38  
+ 98. 15c58  
+ 99.  e4b8  "parla a / ad / all' / allo / alla / al / agli / ai / alle / con
+            creature"
+100.  fdb8  "sposta noun su / sul / sullo / sull' / sulla / sui / sugli / sulle
+            / sopra noun"
+            "sposta noun dentro / in / nel / nello / nell' / nella / negli /
+            nelle / nei noun"
+101. 12548  "ammazza noun = [parse $48ff]"
+            "attacca noun = [parse $48ff]"
+102. 13ce4  
+103. 13c98  "abbandona scope = [parse $4f12]"
+            "abbandona scope = [parse $4f12] a / al / allo / all' / verso /
+            alla / agli / alle / su / sul / sui / sugli / sulla / sulle noun"
+            "abbandona scope = [parse $4f12] su di noun"
+            "abbandona scope = [parse $4f12] sul scope = [parse $4f12]"
+104. 15c50  "leggi ATTRIBUTE(36)"
+105. 15d50  "scrivi su / sul / sullo / sulla / sul / sull' / sui / sugli /
+            sulle noun con / col / a held"
+            "scrivi noun con / col / a held"
+            "colora noun con / col / a held"
+            "colora su / sul / sullo / sulla / sul / sull' / sui / sugli /
+            sulle noun con / col / a held"
+106. 15cb0  "chiama creature"
+107. 15ba8  "roomex"
+108. 15b78  "roomex on"
+109. 15b9c  "roomex off"
+110. 10e50  "version"
+111.  fde8  "rovescia noun"
+112. 100c0  "attravers"
+            "attravers dentro"
+            "cammina dentro"
+            "dentro"
+113.  f7b8  "i esteso"
+114.  f7ac  "i completo"
+115. 12bcc  "racconta scope = [parse $4af5]"
+116. 13c84  "incantesi"
+117. 13bc8  "dispiega held"
+118. 13d2c  "direct"
+            "direct noun"
+            "direct scope = [parse $4f12]"
+119. 143a0  "generator"
+120. 13c10  
+121. 13bf8  "impara scope = [parse $4f12]"
+122. 13d48  "prepara held"
+123. 13d90  "dimetti noun = [parse $4f5e]"
+            "dimetti held"
+124. 124c8  "diagnosi"
+            "diagnosi noun"
+125. 12514  "statistic"
+            "statistic noun"
+126. 12430  "brandisci held"
+127. 12478  "dimetti noun = [parse $4905]"
+            "infodera held"
+128. 15c74  "accatasta held"
+129. 15c8c  "nascondi dietro / nel / in / dentro / nell' / nello / nella /
+            negli / nei / nelle noun"
+130. 15ca0  "salta noun"
+            "scavalca noun"
+131. 15ca8  "balla"
+132. 15cc8  "ora"
+133. 15cd8  "muovi noun in / nel / nello / nella / negli / nei / nelle / nell'
+            / dentro noun"
+            "butta noun in / nel / nello / nella / negli / nei / nelle / nell'
+            / dentro noun"
+134. 15d24  "impaurisc creature"
+            "impaurisc creature con / coll' / col / colla / col / cogli / coi
+            held"
+135. 15d70  "disperati"
+136. 15d78  "deruba noun"
+            "deruba"
+137. 15d9c  "bussa a / all' / allo / alla / al / agli / ai / alle / su noun"
+138. 15db0  "grida"
+            "grida topic a / ad / all' / allo / alla / al / agli / ai / alle
+            creature"
+139. 15dcc  "sputa"
+140. 15dd8  "aiutami"
+141. 18370  "about"
+142. 15df0  "alza noun"
+143. 15e04  "abbassa noun"
+
+    **** Prepositions ****
+
+  Table entries = 0
+

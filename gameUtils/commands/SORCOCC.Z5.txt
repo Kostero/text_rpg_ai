@@ -1,0 +1,178 @@
+
+Story file is games/SORCOCC.Z5
+
+    **** Parse tables ****
+
+  Verb entries = 37
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "climb", synonyms = "cross", "enter", "go", "run"
+    [00 00 00 00 00 00 00 02] "climb"
+
+252. 1 entry, verb = "walk"
+    [00 00 00 00 00 00 00 03] "walk"
+
+251. 1 entry, verb = "say", synonyms = "screa", "yell"
+    [00 00 00 00 00 00 00 04] "say"
+
+250. 1 entry, verb = "carry", synonyms = "get", "hold", "pick", "picku",
+                                         "remov", "take", "untie"
+    [00 00 00 00 00 00 00 05] "carry"
+
+249. 1 entry, verb = "drop", synonyms = "leave", "put", "relea"
+    [00 00 00 00 00 00 00 06] "drop"
+
+248. 1 entry, verb = "blow", synonyms = "throw", "toss"
+    [00 00 00 00 00 00 00 07] "blow"
+
+247. 1 entry, verb = "at", synonyms = "towar"
+    [00 00 00 00 00 00 00 08] "at"
+
+246. 1 entry, verb = "save"
+    [00 00 00 00 00 00 00 09] "save"
+
+245. 1 entry, verb = "hit", synonyms = "kick", "press", "push"
+    [00 00 00 00 00 00 00 0a] "hit"
+
+244. 1 entry, verb = "pull", synonyms = "tug"
+    [00 00 00 00 00 00 00 0b] "pull"
+
+243. 1 entry, verb = "dry"
+    [00 00 00 00 00 00 00 0c] "dry"
+
+242. 1 entry, verb = "descr", synonyms = "exami", "l", "look"
+    [00 00 00 00 00 00 00 0d] "descr"
+
+241. 1 entry, verb = "knock", synonyms = "tap"
+    [00 00 00 00 00 00 00 0e] "knock"
+
+240. 1 entry, verb = "dig"
+    [00 00 00 00 00 00 00 0f] "dig"
+
+239. 1 entry, verb = "use", synonyms = "using", "with"
+    [00 00 00 00 00 00 00 10] "use"
+
+238. 1 entry, verb = "curse", synonyms = "dam", "damn"
+    [00 00 00 00 00 00 00 11] "curse"
+
+237. 1 entry, verb = "cast", synonyms = "invok"
+    [00 00 00 00 00 00 00 12] "cast"
+
+236. 1 entry, verb = "chop", synonyms = "cut", "slice"
+    [00 00 00 00 00 00 00 13] "chop"
+
+235. 1 entry, verb = "close", synonyms = "open", "unloc"
+    [00 00 00 00 00 00 00 14] "close"
+
+234. 1 entry, verb = "drink", synonyms = "taste"
+    [00 00 00 00 00 00 00 15] "drink"
+
+233. 1 entry, verb = "jump"
+    [00 00 00 00 00 00 00 16] "jump"
+
+232. 1 entry, verb = "breat"
+    [00 00 00 00 00 00 00 17] "breat"
+
+231. 1 entry, verb = "hyper"
+    [00 00 00 00 00 00 00 18] "hyper"
+
+230. 1 entry, verb = "faste", synonyms = "repla", "secu", "tight"
+    [00 00 00 00 00 00 00 19] "faste"
+
+229. 1 entry, verb = "score"
+    [00 00 00 00 00 00 00 1a] "score"
+
+228. 1 entry, verb = "swim"
+    [00 00 00 00 00 00 00 1b] "swim"
+
+227. 1 entry, verb = "quit"
+    [00 00 00 00 00 00 00 1c] "quit"
+
+226. 1 entry, verb = "inve", synonyms = "inven"
+    [00 00 00 00 00 00 00 1d] "inve"
+
+225. 1 entry, verb = "break", synonyms = "lift", "move", "raise", "smash",
+                                         "unrav"
+    [00 00 00 00 00 00 00 1e] "break"
+
+224. 1 entry, verb = "squee", synonyms = "squez", "wring"
+    [00 00 00 00 00 00 00 1f] "squee"
+
+223. 1 entry, verb = "dance", synonyms = "feel", "liste", "sing", "touch",
+                                         "wash", "wave"
+    [00 00 00 00 00 00 00 20] "dance"
+
+222. 1 entry, verb = "help"
+    [00 00 00 00 00 00 00 21] "help"
+
+221. 1 entry, verb = "awake", synonyms = "wake", "waken"
+    [00 00 00 00 00 00 00 22] "awake"
+
+220. 1 entry, verb = "dive"
+    [00 00 00 00 00 00 00 23] "dive"
+
+219. 1 entry, verb = "build", synonyms = "burn", "clean", "cook", "ignit",
+                                         "kill", "light", "lower", "make",
+                                         "slay"
+    [00 00 00 00 00 00 00 24] "build"
+
+    **** Verb action routines ****
+
+  Action table entries = 37
+
+action# action-routine "verb..."
+
+  0.  3568  "script"
+  1.  358c  "noscript"
+  2.  3698  "climb"
+  3.  3ac8  "walk"
+  4.  3b58  "say"
+  5.  3bd0  "carry"
+  6.  3cd4  "drop"
+  7.  3ce4  "blow"
+  8.  3e28  "at"
+  9.  4174  "save"
+ 10.  4198  "hit"
+ 11.  4298  "pull"
+ 12.  4324  "dry"
+ 13.  436c  "descr"
+ 14.  496c  "knock"
+ 15.  499c  "dig"
+ 16.  49f8  "use"
+ 17.  4a68  "curse"
+ 18.  4ab8  "cast"
+ 19.  5130  "chop"
+ 20.  5160  "close"
+ 21.  51dc  "drink"
+ 22.  5214  "jump"
+ 23.  52b4  "breat"
+ 24.  531c  "hyper"
+ 25.  5344  "faste"
+ 26.  5354  "score"
+ 27.  5368  "swim"
+ 28.  5598  "quit"
+ 29.  55ac  "inve"
+ 30.  55c0  "break"
+ 31.  55d8  "squee"
+ 32.  5630  "dance"
+ 33.  5660  "help"
+ 34.  56c4  "awake"
+ 35.  5714  "dive"
+ 36.  5730  "build"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.     0  
+    **** Prepositions ****
+
+  Table entries = 0
+

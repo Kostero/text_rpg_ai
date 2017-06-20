@@ -1,0 +1,200 @@
+ (Highway)
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (Nowhere)
+ (bin)
+ (darkness object)
+ (self object)
+ (sun)
+ Animal
+ Cage
+ Carrier
+ CompassDirection
+ Connector
+ DirDoor
+ Dirt
+ Domesticated animal pens
+ Exotic animal pens
+ Gadget
+ Grain
+ Grain_1
+ Grain_10
+ Grain_11
+ Grain_12
+ Grain_13
+ Grain_14
+ Grain_15
+ Grain_16
+ Grain_17
+ Grain_18
+ Grain_19
+ Grain_2
+ Grain_20
+ Grain_21
+ Grain_22
+ Grain_23
+ Grain_24
+ Grain_25
+ Grain_26
+ Grain_27
+ Grain_28
+ Grain_29
+ Grain_3
+ Grain_30
+ Grain_31
+ Grain_32
+ Grain_33
+ Grain_34
+ Grain_35
+ Grain_36
+ Grain_37
+ Grain_38
+ Grain_39
+ Grain_4
+ Grain_40
+ Grain_41
+ Grain_42
+ Grain_43
+ Grain_44
+ Grain_45
+ Grain_46
+ Grain_47
+ Grain_48
+ Grain_49
+ Grain_5
+ Grain_50
+ Grain_51
+ Grain_6
+ Grain_7
+ Grain_8
+ Grain_9
+ HOP-E-LEE
+ Hope
+ IndoorLocation
+ OutdoorLocation
+ Room
+ Silage
+ Silo
+ The back yard
+ The front yard
+ Thing
+ Verbable
+ Your bedroom
+ Your kitchen
+ Your sewing room
+ Your workshop
+ ape
+ ape's pen
+ baby goose
+ back door
+ back yard
+ badger
+ badger's pen
+ bed
+ bedroom
+ bin
+ blanket
+ bugs
+ can of oil
+ compass
+ cow
+ cow's pen
+ crumbs
+ dead cow
+ dead goose
+ decoy
+ dirty floor
+ domesticated animal pens
+ down
+ dream
+ dressed
+ duck
+ duck's pen
+ ears
+ east
+ egg
+ exotic animal pens
+ eyes
+ feed
+ feed pile
+ fence
+ fields
+ fire
+ firelight
+ floor
+ front door
+ front yard
+ gate
+ goose
+ goose's pen
+ ground
+ gully
+ house
+ inside
+ iron
+ jar
+ junk
+ kitchen
+ knife
+ line
+ lock
+ log
+ love
+ main gate
+ meadows
+ milk
+ missing food
+ moon
+ mouth
+ needle
+ neighbor
+ nest
+ north
+ northeast
+ northwest
+ object
+ one
+ outhouse
+ outside
+ partition
+ pen
+ piss
+ pocket
+ post
+ quilt
+ road
+ rock
+ scoop
+ sewing room
+ sewing-room door
+ shop door
+ skirt
+ sleep
+ south
+ southeast
+ southwest
+ spit
+ stars
+ switch
+ thread
+ time
+ top
+ trees
+ two
+ unfinished quilt
+ up above
+ urge
+ vacuum
+ watch
+ water
+ west
+ wind
+ windows
+ wire
+ workshop
+ x-ray machine
+ yak
+ yak's pen
+

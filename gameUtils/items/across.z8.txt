@@ -1,0 +1,459 @@
+ "bed"
+ "table"
+ '    hoe
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (armory_backroom)
+ (berth)
+ (capt_chair)
+ (controlpanel)
+ (cwire)
+ (d_crashed_shipobj)
+ (darkness object)
+ (datapad)
+ (dreambridge)
+ (galley_closet)
+ (galley_tables)
+ (gone_maidens)
+ (loxtank)
+ (m_base)
+ (m_door)
+ (ma_panel)
+ (mb_building)
+ (mj_sign)
+ (ochip)
+ (omni_trans)
+ (pantheon)
+ (self object)
+ (sj_sign)
+ (skeley_1)
+ (skeley_2)
+ (skeley_3)
+ (sm_airlock)
+ (sm_controlpanel)
+ (solace_cube)
+ (st1_obelisk1)
+ (st1_obelisk2)
+ (st1_obelisk3)
+ (st1_obelisk4)
+ (st2_glow)
+ (t_adar)
+ (t_airlock)
+ (t_arm)
+ (t_bolt)
+ (t_bomb)
+ (t_brakis)
+ (t_bridge)
+ (t_button)
+ (t_coolant)
+ (t_cpanel)
+ (t_crew)
+ (t_cup)
+ (t_cwire)
+ (t_datacard)
+ (t_douglas)
+ (t_dpad)
+ (t_dpit)
+ (t_ebeacon)
+ (t_eengine)
+ (t_eggs)
+ (t_fpack)
+ (t_fruit)
+ (t_ghook)
+ (t_goodbye)
+ (t_help)
+ (t_hi)
+ (t_hpiston)
+ (t_icore)
+ (t_idol)
+ (t_journal)
+ (t_knife)
+ (t_lamp)
+ (t_lox)
+ (t_lydinae)
+ (t_meal)
+ (t_mkit)
+ (t_money)
+ (t_necklace)
+ (t_no)
+ (t_ochip)
+ (t_oheat)
+ (t_otrans)
+ (t_page)
+ (t_pbar)
+ (t_pedestal)
+ (t_pident)
+ (t_pirates)
+ (t_plates)
+ (t_playbeing)
+ (t_player)
+ (t_protector)
+ (t_ralckor)
+ (t_rchasm)
+ (t_rigel)
+ (t_scrate)
+ (t_scube)
+ (t_shale)
+ (t_shelter)
+ (t_smoke)
+ (t_sorry)
+ (t_ssuit)
+ (t_stokar)
+ (t_sucored)
+ (t_system)
+ (t_tcrystal)
+ (t_test)
+ (t_thanks)
+ (t_tome)
+ (t_torch)
+ (t_tribe)
+ (t_trobe)
+ (t_tship)
+ (t_uniform)
+ (t_utool)
+ (t_vampire)
+ (t_work)
+ (t_wraps)
+ (t_xultheen)
+ (t_yes)
+ (t_zchip)
+ (t_zship)
+ (t_zygnan)
+ (tc_robe)
+ (tc_shrine)
+ (under_desk)
+ (uniform)
+ (vplat_seats)
+ (wt_depression)
+ AirObj
+ BrthObj
+ Captain's ident badge
+ Cell
+ Chief Engineer's ident badge
+ CompassDirection
+ Dust
+ EACovr
+ EDS console
+ ETubes
+ Movable
+ ORchSe
+ Omnibus Galacticus datacard
+ OutRcF
+ OutRch
+ Pict
+ Playbeing magazine
+ Room
+ RoomObj
+ RoomShp
+ STGlow
+ Shale
+ Shale_1
+ Shale_10
+ Shale_11
+ Shale_2
+ Shale_3
+ Shale_4
+ Shale_5
+ Shale_6
+ Shale_7
+ Shale_8
+ Shale_9
+ Skel
+ StaticShale
+ TCPed
+ TblObj
+ acardiolytic engine
+ acidic liquid
+ advanced city
+ aerial antenna
+ aft
+ airlock door
+ alarm
+ ancient rune
+ armory
+ asteroid
+ atomaton detonator
+ automatic web netting
+ auxiliary power unit
+ back room
+ back room of the armory
+ badge reader
+ basic communications equipment
+ beam of light
+ berth
+ big bag of Zrok(TM) Autocoolant
+ black obelisk
+ blackened tome
+ blanket
+ blast door
+ bleached page
+ blue green force field
+ bolt
+ bones
+ bridge
+ broken circle
+ broken stone railing
+ building
+ bulkhead
+ bunk
+ burnt page
+ burnt red desert
+ burnt tome
+ cable
+ candle
+ cargo hatch
+ cargo hold
+ carvings
+ cells
+ chamber
+ chasm
+ child
+ circuit breaker panel
+ circuitry
+ clear-red crystal
+ cliff
+ clock
+ cobalt-blue force field
+ compass
+ computer banks
+ computer systems
+ console
+ control pad
+ conversational topics
+ corridor
+ couches
+ counter
+ crashed ship
+ crew quarters
+ crumbs
+ curtains
+ dais
+ darkness
+ data mining center
+ datacard
+ dead insects
+ dead spitter
+ deadly pit
+ deckplating
+ deep chasm
+ deep-space suit
+ desert
+ desk
+ destroyed runes
+ diamond necklace
+ digital charts
+ doorway
+ double sliding doors
+ drink dispenser
+ dust
+ e-tube
+ east
+ eastern cell
+ eastern pedestal
+ egg
+ electrical conduit
+ emergency alert alarm system
+ emergency beacon
+ emergency med kit
+ emergency shutdown switch
+ engine
+ engine room
+ engineering access cover
+ ficus plant
+ field pack
+ filled in circle
+ first-aid wraps
+ flow regulator
+ food
+ forward
+ four ethereal spirits
+ frayed rope
+ galley
+ gaping hole
+ glowing orb
+ ground
+ half circle (pointing down)
+ half circle (pointing up)
+ half shelter
+ half-digested mush
+ hand-sized idol
+ hatchway
+ head
+ hidden compartment
+ high windows
+ holder
+ hollow circle
+ huge boulder
+ huge spikes
+ humanoid shape
+ hydraulic piston
+ idol
+ immense stone doors
+ impact crater
+ inside
+ internal lines
+ jagged hole
+ jagged metal
+ jagged rock
+ journal
+ juicy red apple
+ juicy red pear
+ junction
+ keypad
+ ladder
+ lair
+ lake
+ large black ship
+ large blast-hole
+ large breakers
+ large cavern
+ large crate
+ large gold throne
+ large hole
+ large red button
+ large ultrasteel mug
+ large worm
+ long dining table
+ magazines
+ main airlock
+ main bridge
+ main computer
+ main drive
+ main junction
+ main viewport
+ makeshift grappling hook
+ man
+ meal synthesizer
+ metal plate
+ metal plating
+ mining satellite
+ monitors
+ moss
+ mountain
+ mountainside
+ north
+ northeast
+ northern cell
+ northern pedestal
+ northwest
+ obsidian necklace
+ old page
+ opening
+ other berths
+ other curtains
+ outside
+ outside of the airlock
+ overhead light
+ palm trees
+ panel
+ pantheon
+ patina-covered stand
+ pearl necklace
+ pedestal
+ personal ident badge
+ picture
+ pillow
+ pilot's seat
+ pirates
+ planet
+ plaque
+ plates
+ port
+ posters
+ power switch
+ prox-tar
+ pry bar
+ quantum entanglement lock
+ rail system
+ ralckor
+ rat
+ ratcheting system
+ rations
+ red glow
+ reflection
+ rivets
+ robo-wash
+ rope, hanging down from above
+ rubble
+ ruby necklace
+ rune
+ runes
+ scorched tome
+ screens
+ seats
+ secondary junction
+ secret alcove
+ secret door
+ secret panel
+ security gate
+ self
+ self-sealing metal plate
+ shade
+ shale
+ ship
+ ship's plaque
+ skeleton
+ small crates
+ small door
+ small eggs
+ small space
+ smoke
+ south
+ southeast
+ southern cell
+ southern pedestal
+ southwest
+ spitter
+ square
+ staircase
+ star
+ starboard
+ stone altar
+ stone bowl
+ stone door
+ substance
+ sun
+ sunlight
+ survival knife
+ switch
+ switches
+ table
+ tangled cobwebs
+ tie-down clamps
+ torch
+ torn tome
+ tractor beam
+ tranquility chamber
+ trans-stellar transport
+ triangle (pointing down)
+ tribalistic runes
+ tunnel
+ twin moons
+ two moons
+ unholy shrine
+ universal tool
+ untidy heap of spare parts
+ up above
+ ventilation shaft
+ video game machine
+ viewing platform
+ vine
+ wall
+ wall-mounted light
+ west
+ western cell
+ western pedestal
+ widow-weave spitter
+ window
+ wire harnesses
+ wires
+ woman
+ workbench
+ your berth
+ your curtains
+ your skivvies
+ your uniform
+ zipchip
+

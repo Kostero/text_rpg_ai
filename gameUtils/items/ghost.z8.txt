@@ -1,0 +1,225 @@
+ "Ghost Train." Menu
+ "Parchment of the Demon"
+ "Reverend Potts Diary"
+ "THE SIGNAL-MAN." by Charles Dickens 1866
+ "list of Deaths for the Parish of St Gorgon."
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (darkness object)
+ (libraryMessages)
+ (limbo)
+ (self object)
+ (t_goodbye)
+ (t_hello)
+ (t_no)
+ (t_yes)
+ About "The Ghost Train" and the Author Paul T. Johnson
+ Acknowledgements & licence
+ Bible
+ Black Railway Carriage No:7.
+ Blackness. A Sleepy Unconscious State.
+ Blue Railway Carriage No:5.
+ Carriage
+ Carriage door
+ Chapel Bell Room.
+ Chapel Path(East Side)
+ Chapel Path(West Side) 
+ Christmas presents
+ CompassDirection
+ Dark Woods
+ Dartmoor History Sheet
+ Engine
+ Fire
+ Flowers
+ Foot plate
+ Green railway carriage no:6.
+ Help for playing "Ghost Train"
+ Ingrid
+ Ingrid 
+ Key
+ LockedDoor
+ Menu
+ Moon
+ My other IF games.
+ Northwest Tunnel
+ Option
+ Prehnite
+ Raven
+ Room
+ Station master
+ SwitchOption
+ The ghosts of the London Underground.
+ The history of Blackpool's Ghost Train ride.
+ Train speed gauge
+ altar
+ arch
+ ballast
+ bats
+ bell
+ bell rope
+ bible
+ birds
+ black door
+ black iron key
+ black train
+ blood
+ blue lever
+ bodies
+ body
+ body parts
+ boiler
+ boiler pressure gauge
+ bookcase
+ books
+ brake pressure gauge
+ brake wheel
+ brambles
+ brass key
+ brass plate
+ break pressure gauge
+ bricks
+ broken display panel
+ bulldog lamp
+ candles
+ canopy
+ carriage
+ carriages
+ chairs
+ chapel
+ chapel door
+ chest
+ clock
+ cobweb
+ cobwebs
+ compass
+ conversational topics
+ countryside
+ curtain
+ curtains
+ damper wheel
+ demon
+ display panel
+ door
+ dust
+ east
+ embankment
+ eyes
+ fire
+ flame
+ flower beds
+ fox
+ gargoyle
+ glass
+ grass
+ grave stones
+ green lever
+ ground
+ hail stones
+ half-crown coin
+ halt
+ hedgerow
+ hell hound
+ hinge
+ hole
+ inscription
+ inscriptions
+ insects
+ inside
+ iron door
+ iron skull
+ ivy
+ ladder
+ lamp
+ lectern
+ levers
+ light
+ luggage
+ maggots
+ mice
+ moon
+ moss
+ mourners
+ mud
+ necklace
+ nest
+ newspaper
+ night
+ north
+ north east tunnel
+ northeast
+ northeast tunnel
+ northwest
+ northwest tunnel
+ notices
+ oil lamps
+ open grave
+ ouija board
+ outside
+ panels
+ picket fence
+ pipes
+ poster
+ priest
+ prop
+ ps   hd
+ rail
+ railway line
+ railway ticket
+ red lever
+ regulator
+ roots
+ round table
+ rubble
+ rust
+ rusty key
+ sand wheel
+ seats
+ sign
+ signal box
+ signal lamp
+ signal lever
+ skull lamps
+ sleepers
+ slugs
+ smoke
+ snow
+ snow storm
+ sofa
+ south
+ southeast
+ southwest
+ station
+ steam
+ steps
+ stone
+ switch
+ table
+ telephone
+ tender
+ ticket
+ ticket counter
+ time table
+ track
+ train
+ traveller's
+ trees
+ tunnel
+ undergrowth
+ up above
+ voices
+ watch
+ water
+ west
+ wheel
+ wheels
+ whistle
+ willis-dancers
+ window
+ windows
+ wooden table
+ worms
+ wreckage
+ writing
+ yellow lever
+

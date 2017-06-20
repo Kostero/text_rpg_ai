@@ -1,0 +1,225 @@
+ "ABLE" button
+ "BAKER" button
+ "BLANK" button
+ "CHARLEY" button
+ "ECHO" button
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (cheap_table)
+ (commute_describer)
+ (darkness object)
+ (hq_describer)
+ (invisible_object)
+ (oily_substance)
+ (self object)
+ (thumbscan_oval)
+ ChessLoc
+ Community Center (outside)
+ CompassDirection
+ Complex
+ CornLoc
+ Delta's gun
+ Dr Delta
+ Dr. Able
+ Dr. Baker
+ Dr. Charley
+ Dr. Delta
+ Dr. Echo
+ HiddenInCorn
+ Inner chamber
+ IntercomButton
+ Karaktus Event line
+ LabDoor
+ LabKey
+ LabResearcher
+ LabRoom
+ Monorail loading station
+ Undercomplex, catwalks
+ Undercomplex, dead end?
+ Undercomplex, delivery chamber
+ Undercomplex, northern corridor
+ Undercomplex, primary apex
+ Undercomplex, transport
+ Undercomplex, transport platform
+ alpha
+ alpha key
+ aluminum can
+ apparition
+ archway
+ bad air
+ baseball
+ beta
+ beta key
+ big red button
+ black button
+ blast marks
+ blue glow
+ blue uniform
+ boarded door
+ bottle of cetaphenyl
+ box of donuts
+ building
+ buildings and tunnels
+ buildings around the terminus
+ burns
+ burnt page
+ bushes
+ button
+ buzzsaw blade
+ cabinet
+ cabinet key
+ card
+ catwalk
+ ceiling
+ cetaphenyl
+ chairs
+ charred notebook
+ closet
+ compass
+ container
+ control panel
+ controls
+ conversational topics
+ copse
+ cornfield
+ cracked glass
+ cylinder
+ dead bodies
+ dead body
+ dead man
+ dead vagrant
+ deck of cards
+ delta
+ delta key
+ deserted station
+ desk
+ device
+ diagrams
+ dial
+ discarded candy wrapper
+ discarded cigarette butt
+ displays
+ donuts
+ door
+ door in the northern wall
+ door to Alpha Lab
+ door to Beta Lab
+ door to Epsilon Lab
+ door to Gamma Lab
+ east wall
+ elevator
+ elevator doors
+ employee directory
+ epsilon
+ epsilon key
+ extra brain
+ fantastic chess pieces
+ fern
+ fields of corn
+ flasks
+ flatbed car
+ fleeing figure
+ flexible tube
+ floor
+ gamma
+ gamma key
+ glass ceiling
+ gouges in the floor
+ graffiti
+ green button
+ halogen torchiere
+ hand drawn map
+ hanging light bulb
+ hatch
+ head of corn
+ hex wrench
+ hole
+ hole in the ceiling
+ hole under the slab
+ hydraulic lift
+ information terminal
+ inside
+ instructions
+ intercom
+ jumpsuited employees
+ kettle
+ kludge
+ ladders
+ large box
+ leaflet
+ lever
+ light fixtures
+ lights
+ machine room door
+ meadow
+ mechanical claw
+ mechanical throne
+ metal crate
+ metal dome
+ metal door
+ metal shed
+ metallic cube
+ milky poison
+ monitors
+ monorail track
+ north wall
+ northeast wall
+ northwest wall
+ old machines
+ old man
+ outside
+ panel
+ path
+ piece of paper
+ pile of dog excrement
+ plaque
+ plastic card
+ popcorn
+ post
+ post and lever
+ quantity of dried corn kernels
+ ray gun
+ rectangle of dazzling light
+ red button
+ remote
+ rock core
+ rocket debris
+ roof
+ scorch mark
+ scrap of cloth
+ service hatch
+ severed hand
+ sign
+ skeleton
+ slab
+ small box
+ small windows
+ sound of breathing
+ south wall
+ southeast wall
+ southwest wall
+ spanner
+ springs
+ steel cube
+ steel ladder
+ supply closet door
+ symbol
+ symbols
+ the receptionist
+ throne mechanism
+ trees
+ tunnels
+ twenty-foot steel cube
+ ultra-green button
+ unimportant cabinets
+ vagrant
+ vault door
+ vial of toxin
+ walls
+ waste receptacle
+ west wall
+ white button
+ wide door
+ wires
+

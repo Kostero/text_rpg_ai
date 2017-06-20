@@ -1,0 +1,52 @@
+ "Lectro Car"
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ )
+
+ AustCatDog
+ Bottle of Beer
+ CompassDirection
+ Driveway in front of your house
+ Junction Freeblewhizz & Whizbang
+ Narrow winding path
+ Wigglebutt's School for Dogs (inside)
+ Wigglebutt's School for Dogs (outside)
+ Winding path
+ a flock of sheep
+ b   dkg   gd    
+ bales of hay
+ ballpoint pen
+ ceiling
+ compass
+ dog biscuit
+ east wall
+ fish
+ floor
+ glove box
+ ignition switch
+ inside
+ k   os
+ mailbox
+ maple tree
+ north wall
+ northeast wall
+ northwest wall
+ oak tree
+ outside
+ pink frisbee
+ sheep poop
+ sheet of paper
+ small insects
+ small key
+ south wall
+ southeast wall
+ southwest wall
+ water
+ west wall
+ window
+ wooden sign
+ your dog
+

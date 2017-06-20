@@ -1,0 +1,70 @@
+ (Flags)
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (d_o)
+ (darkness object)
+ (self object)
+ (wCache)
+ Arrows
+ Axe
+ Blue Armor
+ Checkerboard Floor
+ CompassDirection
+ Crazy Rottweiler
+ Demon
+ East Portal Room (Bottom)
+ Explosive Canister
+ Flickering Light
+ Gib
+ Grunt
+ Latticework
+ Lava
+ Lava pit
+ Left Indentation
+ Medkit
+ Metal Door
+ Metal Grate
+ Metal Platforms
+ Metal Stairs
+ Pillar
+ Plate
+ Pool of Water
+ Pudding
+ Pyre
+ Red Button
+ Right Indentation
+ Rottweiler
+ Runes
+ Sal
+ Shotgun
+ Sky
+ Slipgate
+ Stone Steps
+ Structure
+ Text File
+ The Creator
+ Tools
+ Torch
+ Wallpaper
+ Water Pit
+ Window
+ Wooden Steps
+ b   dxf   fdhss
+ ceiling
+ compass
+ east wall
+ floor
+ iax
+ inside
+ lwhqǝk
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ south wall
+ southeast wall
+ southwest wall
+ walls
+ west wall
+

@@ -1,0 +1,251 @@
+
+Story file is games/mysterious09.z6
+
+    **** Parse tables ****
+
+  Verb entries = 41
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "ente", synonyms = "go", "moun", "proc", "ride", "run",
+                                        "swim", "walk"
+    [00 00 00 00 00 00 00 02] "ente"
+
+252. 1 entry, verb = "inve"
+    [00 00 00 00 00 00 00 03] "inve"
+
+251. 1 entry, verb = "acqu", synonyms = "get", "grab", "obta", "pick", "seiz",
+                                        "take"
+    [00 00 00 00 00 00 00 04] "acqu"
+
+250. 1 entry, verb = "help"
+    [00 00 00 00 00 00 00 05] "help"
+
+249. 1 entry, verb = "disc", synonyms = "drop", "leav", "put"
+    [00 00 00 00 00 00 00 06] "disc"
+
+248. 1 entry, verb = "don", synonyms = "wear"
+    [00 00 00 00 00 00 00 07] "don"
+
+247. 1 entry, verb = "doff", synonyms = "remo"
+    [00 00 00 00 00 00 00 08] "doff"
+
+246. 1 entry, verb = "burn", synonyms = "igni", "ligh"
+    [00 00 00 00 00 00 00 09] "burn"
+
+245. 1 entry, verb = "dous", synonyms = "exti", "unli"
+    [00 00 00 00 00 00 00 0a] "dous"
+
+244. 1 entry, verb = "poli", synonyms = "rub", "shin"
+    [00 00 00 00 00 00 00 0b] "poli"
+
+243. 1 entry, verb = "flap", synonyms = "flut", "fly", "hove", "wing"
+    [00 00 00 00 00 00 00 0c] "flap"
+
+242. 1 entry, verb = "pray", synonyms = "wors"
+    [00 00 00 00 00 00 00 0d] "pray"
+
+241. 1 entry, verb = "dona", synonyms = "give", "offe"
+    [00 00 00 00 00 00 00 0e] "dona"
+
+240. 1 entry, verb = "bast", synonyms = "boll", "fuck", "piss", "shit", "wank"
+    [00 00 00 00 00 00 00 0f] "bast"
+
+239. 1 entry, verb = "rape", synonyms = "rava", "sedu", "undr"
+    [00 00 00 00 00 00 00 10] "rape"
+
+238. 1 entry, verb = "care", synonyms = "fond", "kiss", "stro"
+    [00 00 00 00 00 00 00 11] "care"
+
+237. 1 entry, verb = "jump", synonyms = "leap", "spri"
+    [00 00 00 00 00 00 00 12] "jump"
+
+236. 1 entry, verb = "behe", synonyms = "chop", "cut", "deca", "hack", "seve",
+                                        "slic"
+    [00 00 00 00 00 00 00 13] "behe"
+
+235. 1 entry, verb = "atta", synonyms = "batt", "brea", "dest", "figh", "kill",
+                                        "ruin", "smas"
+    [00 00 00 00 00 00 00 14] "atta"
+
+234. 1 entry, verb = "ask", synonyms = "say", "spea", "talk", "whis"
+    [00 00 00 00 00 00 00 15] "ask"
+
+233. 1 entry, verb = "empl", synonyms = "use", "util"
+    [00 00 00 00 00 00 00 16] "empl"
+
+232. 1 entry, verb = "chuc", synonyms = "hurl", "slin", "thro", "toss"
+    [00 00 00 00 00 00 00 17] "chuc"
+
+231. 1 entry, verb = "asce", synonyms = "clim", "scal"
+    [00 00 00 00 00 00 00 18] "asce"
+
+230. 1 entry, verb = "quit"
+    [00 00 00 00 00 00 00 19] "quit"
+
+229. 1 entry, verb = "scor"
+    [00 00 00 00 00 00 00 1a] "scor"
+
+228. 1 entry, verb = "pull", synonyms = "tug"
+    [00 00 00 00 00 00 00 1b] "pull"
+
+227. 1 entry, verb = "move", synonyms = "pres", "push", "shif", "shov"
+    [00 00 00 00 00 00 00 1c] "move"
+
+226. 1 entry, verb = "exam", synonyms = "insp", "look", "open", "read", "sear",
+                                        "stud"
+    [00 00 00 00 00 00 00 1d] "exam"
+
+225. 1 entry, verb = "save"
+    [00 00 00 00 00 00 00 1e] "save"
+
+224. 1 entry, verb = "spin", synonyms = "turn", "twis"
+    [00 00 00 00 00 00 00 1f] "spin"
+
+223. 1 entry, verb = "dela", synonyms = "stal", "wait"
+    [00 00 00 00 00 00 00 20] "dela"
+
+222. 1 entry, verb = "at"
+    [00 00 00 00 00 00 00 21] "at"
+
+221. 1 entry, verb = "drin", synonyms = "eat", "nibb", "tast"
+    [00 00 00 00 00 00 00 22] "drin"
+
+220. 1 entry, verb = "feed"
+    [00 00 00 00 00 00 00 23] "feed"
+
+219. 1 entry, verb = "lay", synonyms = "spre"
+    [00 00 00 00 00 00 00 24] "lay"
+
+218. 1 entry, verb = "disp", synonyms = "show", "wave"
+    [00 00 00 00 00 00 00 25] "disp"
+
+217. 1 entry, verb = "fit"
+    [00 00 00 00 00 00 00 26] "fit"
+
+216. 1 entry, verb = "free", synonyms = "rele"
+    [00 00 00 00 00 00 00 27] "free"
+
+215. 1 entry, verb = "dig"
+    [00 00 00 00 00 00 00 28] "dig"
+
+    **** Verb action routines ****
+
+  Action table entries = 41
+
+action# action-routine "verb..."
+
+  0.  39d8  "script"
+  1.  39fc  "noscript"
+  2.  3ac4  "ente"
+  3.  3d08  "inve"
+  4.  3d28  "acqu"
+  5.  3f90  "help"
+  6.  3fc4  "disc"
+  7.  4238  "don"
+  8.  42a8  "doff"
+  9.  4384  "burn"
+ 10.  43c4  "dous"
+ 11.  43fc  "poli"
+ 12.  4410  "flap"
+ 13.  46b0  "pray"
+ 14.  47a4  "dona"
+ 15.  49c4  "bast"
+ 16.  49dc  "rape"
+ 17.  4a30  "care"
+ 18.  4a44  "jump"
+ 19.  4a58  "behe"
+ 20.  4c48  "atta"
+ 21.  4d08  "ask"
+ 22.  4d2c  "empl"
+ 23.  4d40  "chuc"
+ 24.  4d7c  "asce"
+ 25.  4db4  "quit"
+ 26.  4dd4  "scor"
+ 27.  4de8  "pull"
+ 28.  4dfc  "move"
+ 29.  4e10  "exam"
+ 30.  513c  "save"
+ 31.  515c  "spin"
+ 32.  5170  "dela"
+ 33.  537c  "at"
+ 34.  53f4  "drin"
+ 35.  54c8  "feed"
+ 36.  54f0  "lay"
+ 37.  5538  "disp"
+ 38.  55ac  "fit"
+ 39.  55f0  "free"
+ 40.  5630  "dig"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.  25b0  
+    **** Prepositions ****
+
+  Table entries = 814
+
+  9. "v     "
+ 25. "c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c  c
+ c  c  c  c  c  c  c  c  c   s                                                 
+                                                                               
+                                                                               
+      bp                   bt                   bxk                  b    "
+165. "                                                                         
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                               
+                                                                b   d   x   z  
+   x   x   avnntfrxf    et      jd   l   t      sd   l   t         "

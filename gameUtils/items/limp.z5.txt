@@ -1,0 +1,26 @@
+ (Inform Library 6/3)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ CompassDirection
+ Dauphin Sized Bed
+ Women
+ ceiling
+ compass
+ east wall
+ floor
+ fsdgc
+ inside
+ mirror
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ south wall
+ southeast wall
+ southwest wall
+ toilet
+ viagra
+ west wall
+

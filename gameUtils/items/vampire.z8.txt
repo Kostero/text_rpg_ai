@@ -1,0 +1,340 @@
+ "Bal du Moulin de la Galette"
+ "House of the Midnight Sun" Menu
+ "Mona Lisa"
+ "The Shepherds of Arcadia"
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (SmartCantGo)
+ (darkness object)
+ (limbo)
+ (self object)
+ A Winding path, deep in the forest
+ Arrow
+ Bluebeard's hammock
+ Bride of Frankenstein
+ Captain Bluebeard
+ Castle Dracula
+ Castle key
+ Charm
+ CompassDirection
+ Devil's key
+ Devil's vine
+ Dr. Hartnell's hammock
+ Famine charm
+ Frankenstein's monster
+ Handrail
+ Hell charm
+ History of "House of the Midnight Sun"
+ InsideWindow
+ Isaac's hammock
+ Jetty
+ Key
+ Limping Pete's hammock
+ LockedDoor
+ Menu
+ My other IF games.
+ Option
+ Pestilence charm
+ Playing the game
+ Prop
+ Room
+ SwitchOption
+ The Four Horsemen
+ The Pit and the Pendulum
+ Tree of Life
+ War charm
+ altar
+ anchor
+ antique globe
+ archway
+ arrow
+ bannister
+ barrels
+ basket
+ bath
+ bats
+ bc  va"
+ beams
+ bed
+ beds
+ bird's nest
+ blade
+ blanket
+ block of ice
+ blood
+ bloody mess
+ board
+ bodies
+ body
+ body of a man
+ body parts
+ books
+ bottle of antidote
+ brass tap
+ brazier
+ bronze dial
+ bronze lectern
+ broom
+ bull
+ cable
+ candles
+ cannonballs
+ cannons
+ captain's log
+ carpet
+ carving
+ castle
+ castle walls
+ cat
+ cauldron
+ cave
+ ceiling
+ ceiling hatch
+ chain
+ chains
+ chair
+ chest
+ church organ
+ cigarette
+ clearing
+ clock face
+ clock pendulum
+ clothes
+ clouds
+ cobwebs
+ coffin
+ cog
+ cogs
+ compass
+ cooking pot
+ cottage
+ counterweight
+ courtyards
+ crabs
+ crest
+ crocodile
+ crossbow
+ crow's nest
+ crystal door
+ cupboard
+ damp mould
+ dead body
+ dead body of the vampire
+ desk
+ diffuser
+ dining table
+ dog
+ door
+ doors
+ dressing table
+ dust
+ earth
+ east
+ ebony door
+ electrical apparatus
+ equipment
+ evil-looking spider
+ faces
+ figurehead
+ fire
+ fittings
+ flagstones
+ flies
+ floor
+ floorboards
+ forest
+ forest path
+ fruit tree
+ furnace
+ furniture
+ fuse
+ fuse rack
+ gallery
+ gangplank
+ garden
+ gate
+ ghost
+ glass
+ glass bottle
+ glass key
+ glowing, hot, glass bottle
+ golden apple
+ graffiti
+ grandfather clock
+ grapes
+ gravestone
+ graveyard
+ green coin
+ green copper key
+ green door
+ ground
+ guardrail
+ hall
+ hammocks
+ hand
+ handle
+ heavy black curtains
+ heavy iron door
+ hole
+ human head
+ hunchback
+ image of the Grim Reaper
+ inscription
+ insects
+ inside
+ instruments
+ iron maiden
+ island
+ jetty
+ keyboards
+ kites
+ large bed
+ large forest pond
+ large iron door
+ lawn
+ ledge
+ letter
+ lever
+ licence
+ lifeless body of a young woman
+ lightning
+ little blue bottle
+ lost souls
+ lump of sugar
+ marble
+ massive iron doors
+ mast
+ mattress
+ meat saw
+ mice
+ mist
+ mosquitoes
+ moss
+ mouldy skeleton
+ mud
+ musical note
+ north
+ northeast
+ northwest
+ notice
+ oak door
+ oak table
+ old snow shovel
+ open window
+ outside
+ oven
+ owl
+ padlock
+ painting of a pirate ship
+ paintings
+ panels
+ passage
+ passageway
+ pendulum
+ pentagram
+ pile of straw
+ pipe
+ pipes
+ pirate
+ pirate ship
+ pit
+ pocket
+ pond
+ pot
+ potions
+ pulpit
+ rack
+ rats
+ raven
+ rigging
+ roof
+ roots
+ rubble
+ sap
+ scratches
+ sea
+ sea chart
+ seed
+ sewer creature
+ shadow
+ shelves
+ ship
+ ship's wheel
+ sign
+ silver skull
+ silver worm
+ sink
+ skulls
+ slab
+ slime
+ small garden door
+ small wooden door
+ snails
+ snow
+ snowman
+ sorcerer
+ south
+ southeast
+ southwest
+ sparks
+ spider
+ spiders
+ spindle
+ spyglass
+ srorriM fo mooR
+ stained glass saints
+ stains
+ stations of the cross
+ statue
+ statue of a deformed devil
+ statue of an angel
+ statue of four angels
+ steam
+ stopper
+ storm
+ strange blue light
+ strange glowing water
+ straps
+ straw
+ table
+ tap
+ tapestries
+ tapestry
+ thorn
+ thorns
+ tiles
+ tinderbox
+ tiny silver key
+ toad
+ toilet
+ torches
+ torture chamber
+ treasure chest
+ trees
+ undergrowth
+ uniform
+ up above
+ vapour
+ voice
+ vortex
+ wallpaper
+ wardrobe
+ wasps
+ water
+ waterfall
+ waxed wand
+ west
+ winch
+ window
+ windows
+ witch
+ wolf
+ wolves
+ woman
+ wooden benches
+ wooden coffin
+ wounds
+ writing
+

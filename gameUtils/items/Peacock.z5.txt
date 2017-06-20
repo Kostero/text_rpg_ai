@@ -1,0 +1,135 @@
+    
+    utf
+ (112)
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (Measurer)
+ (darkness object)
+ (glass_shards)
+ (name_rep)
+ (self object)
+ (silk_piece)
+ (ticker)
+ (wood_piece)
+ Aroma
+ Audible
+ Blade
+ BlankPaper
+ Book
+ BurnDaemon
+ BurnDaemon_1
+ BurnDaemon_10
+ BurnDaemon_11
+ BurnDaemon_2
+ BurnDaemon_3
+ BurnDaemon_4
+ BurnDaemon_5
+ BurnDaemon_6
+ BurnDaemon_7
+ BurnDaemon_8
+ BurnDaemon_9
+ Chapter
+ CompassDirection
+ Fabric
+ Glass
+ Key
+ Lumen
+ Metal
+ Mirage
+ Paper
+ PartItem
+ PartItem_1
+ PartItem_10
+ PartItem_11
+ PartItem_12
+ PartItem_13
+ PartItem_14
+ PartItem_15
+ PartItem_16
+ PartItem_17
+ PartItem_18
+ PartItem_19
+ PartItem_2
+ PartItem_20
+ PartItem_21
+ PartItem_22
+ PartItem_23
+ PartItem_24
+ PartItem_25
+ PartItem_26
+ PartItem_3
+ PartItem_4
+ PartItem_5
+ PartItem_6
+ PartItem_7
+ PartItem_8
+ PartItem_9
+ Plastic
+ Polaroid camera
+ PolaroidFilm
+ PolaroidFilm_1
+ PolaroidFilm_10
+ PolaroidFilm_11
+ PolaroidFilm_12
+ PolaroidFilm_13
+ PolaroidFilm_2
+ PolaroidFilm_3
+ PolaroidFilm_4
+ PolaroidFilm_5
+ PolaroidFilm_6
+ PolaroidFilm_7
+ PolaroidFilm_8
+ PolaroidFilm_9
+ Room
+ Stone
+ Wood
+ Writing
+ altar
+ aroma of sandalwood
+ bk  eiw   wdxs 
+ bolt of silk
+ burnt plastic
+ ceiling
+ cherry block
+ chloroform
+ compass
+ cow skull
+ curious figures
+ demijohn
+ east wall
+ floor
+ fragile jar
+ hazelnut cookies
+ huge butterfly
+ inset panel
+ inside
+ jade box
+ jade key
+ lighter
+ little
+ metal box
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ packet of cookies
+ panel
+ pinking shears
+ procession
+ saffron crayon
+ sea-worn chest
+ shaft of sunlight
+ silence
+ silver key
+ small saw
+ smoke
+ south wall
+ southeast wall
+ southwest wall
+ stick of incense
+ tiny key
+ trusty pack
+ velvet bag
+ west wall
+

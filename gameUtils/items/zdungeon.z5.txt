@@ -1,0 +1,264 @@
+ (FIGHT_DEMON)
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (ZDUMMY)
+ (darkness object)
+ (self object)
+ CPWALL
+ Chirp timer
+ Coal mine
+ CompassDirection
+ Cyclops
+ Dead end
+ Don Woods stamp
+ Gobject
+ Moby lossage
+ Numobjs
+ Room
+ Round room
+ T-bar
+ Thief's sack
+ Volcano Gnome timer
+ Volcano near small ledge
+ Volcano near viewing ledge
+ Volcano near wide ledge
+ bag of coins
+ barred window
+ basket
+ beautiful brass bauble
+ bell
+ bird
+ birds nest
+ black panel
+ blessings
+ bloody axe
+ blue book
+ blue button
+ blue crystal sphere
+ blue label
+ bolt
+ book
+ box
+ braided wire
+ breath
+ brick
+ broken balloon
+ broken clockwork canary
+ broken jewel-encrusted egg
+ broken lamp
+ broken sharp stick
+ broken timber
+ bronze door
+ brown button
+ brown sack
+ bunch of Coke bottles
+ burned-out lantern
+ card
+ carpet
+ ceiling
+ cell door
+ chalice
+ chute
+ cliff
+ clockwork canary
+ cloth bag
+ clove of garlic
+ compass
+ compass arrow
+ compass rose
+ control panel
+ cross
+ crown
+ crypt door
+ crystal trident
+ dam
+ door
+ door made of oak
+ dungeon master
+ east wall
+ eastern wall
+ eight
+ ekintpe t#
+ everything
+ fancy violin
+ five
+ floor
+ flyer
+ four
+ free brochure
+ gates
+ ghost
+ glacier
+ glass bottle
+ glass flask filled with liquid
+ gold card
+ gold coffin
+ grail
+ granite wall
+ grate
+ green book
+ green bubble
+ green piece of paper
+ ground
+ group of tool chests
+ group of wooden posts
+ hand-held air pump
+ head on a pole
+ hole
+ hook
+ huge diamond
+ hunk of bat guano
+ inside
+ jade figurine
+ jewel-encrusted egg
+ keyhole
+ knife
+ ladder
+ lamp
+ land
+ large button
+ large case
+ large emerald
+ large oblong table
+ large stone cube
+ large tree
+ launch
+ leak
+ locked door
+ long pole
+ lunch
+ lurking grue
+ machine
+ magic boat
+ mahogany wall
+ mailbox
+ matchbook
+ metal lid
+ mirror
+ narrow crack
+ newspaper
+ north wall
+ northeast wall
+ northern wall
+ northwest wall
+ note of warning
+ old coal stove
+ one
+ outside
+ painting
+ pair of candles
+ pair of hands
+ panel
+ pearl necklace
+ piece of 'Eat-Me' cake
+ piece of cake with blue (ecch) icing
+ piece of cake with orange icing
+ piece of cake with red icing
+ piece of rope
+ piece of vitreous slag
+ pile of bodies
+ pile of corpses
+ pile of leaves
+ pile of plastic
+ pine wall
+ plastic boat (with hole)
+ platinum bar
+ pool of sewage
+ portrait of J. Pierpont Flathead
+ possessions
+ pot of gold
+ prayer
+ priceless zorkmid
+ purple book
+ rainbow
+ receptacle
+ red beam of light
+ red buoy
+ red button
+ red crystal sphere
+ red hot brass bell
+ red panel
+ robot
+ rope
+ round button
+ ruby
+ rusty iron key
+ rusty knife
+ sailor
+ sandy beach
+ sapphire bracelet
+ screwdriver
+ set of poled heads
+ set of skeleton keys
+ set of teeth
+ seven
+ shimmering curtain of light
+ short pole
+ shovel
+ six
+ skeleton
+ small leaflet
+ small pile of coal
+ small slit
+ south wall
+ southeast wall
+ southern wall
+ southwest wall
+ square button
+ stack of listings
+ stack of zorkmid bills
+ stamp
+ statue
+ steel box
+ steel cage
+ steel door
+ stiletto
+ stone channel
+ stone door
+ sundial
+ switch
+ sword
+ table
+ tan label
+ thief
+ three
+ tin of spices
+ torch
+ tour guidebook
+ trap door
+ tree
+ triangular button
+ troll
+ trophy case
+ trunk of jewels
+ tube
+ two
+ valuables
+ vampire bat
+ viscous material
+ wall with engravings
+ wall with etchings
+ water
+ welcome mat
+ well
+ west wall
+ western wall
+ white book
+ white cliffs
+ white crystal sphere
+ white house
+ white panel
+ window
+ wire coil
+ wish
+ wooden bar
+ wooden barrel
+ wooden bucket
+ wooden door
+ wooden railing
+ wrench
+ yellow button
+ yellow panel
+ yourself
+

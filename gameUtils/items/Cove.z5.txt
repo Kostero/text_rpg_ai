@@ -1,0 +1,152 @@
+ 
+     flhyOdg 
+ (Inform Library)
+ (Inform Parser)
+ (MyDefine)
+ (beachMemories)
+ (beachView)
+ (darkness object)
+ (garbageBag)
+ (ground)
+ (pp_obj)
+ (rockyPointMemories)
+ (rockyPointView)
+ (roof)
+ (self object)
+ (terraceMemories)
+ (tunnelsEndMemories)
+ (tunnelsEndView)
+ (tunnelsEntranceMemories)
+ Accessory
+ AnimalBodyPart
+ AnimalClass
+ Beach
+ Clothes
+ CodeClass
+ CodeObj
+ CompassDirection
+ ConceptClass
+ Decoration
+ DirectorClass
+ FakeRoomObj
+ Faraway
+ FarawayAnimal
+ FlyingCritter
+ GameObj
+ HiddenClass
+ InsideOrOn
+ InsideRoom
+ LiquidDecor
+ LiquidObj
+ MemoryClass
+ MobileCritter
+ OutsideRoom
+ RockyPoint
+ SceneryClass
+ SeaClass
+ SizeContainer
+ SizeSupporter
+ SlowWaterCritter
+ SolidDecor
+ SolidObj
+ StaticCritter
+ TreeClass
+ TunnelClass
+ TunnelObjClass
+ UngettableScenery
+ Vessel
+ ViewClass
+ WeatherObjClass
+ actor daemons
+ algae
+ b   um   m
+ barnacles
+ barren beaches
+ beach
+ beached kelp
+ beaches
+ boulders
+ cliffs
+ cloud
+ coach
+ coast
+ coastline
+ compass
+ cove
+ cove beach
+ cypress trees
+ d
+ dfr   dw
+ driftwood
+ dry sand
+ dry things
+ east
+ engagement ring
+ faded white rose bud
+ fake room bag
+ fissures
+ flattened stone
+ foam
+ gaps
+ granite
+ ground
+ help
+ horses
+ inside
+ kelp
+ kelp flies
+ light
+ limpets
+ lm
+ marine terrace
+ mist
+ mussels
+ north
+ northeast
+ northwest
+ object daemons
+ offshore rocks
+ outside
+ pinchers
+ purple crab
+ rain
+ road
+ rock
+ rocky point
+ route
+ sand
+ sandbar
+ sea
+ sea anemones
+ sea gulls
+ sea lion
+ sea otter
+ sea star
+ sea tunnel
+ sea urchin
+ shimmering gold cord
+ shoes
+ shore
+ shore birds
+ silk dress
+ sky
+ south
+ southeast
+ southwest
+ spiral sea shell
+ spray
+ stockings
+ sun
+ surf
+ tide
+ tide pool
+ tide pools
+ tunnel walls
+ tw
+ weather
+ west
+ wet sand
+ wildlife
+ wind
+ yourself
+

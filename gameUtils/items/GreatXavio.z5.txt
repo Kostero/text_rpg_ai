@@ -1,0 +1,178 @@
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (TheKit)
+ (darkness object)
+ (self object)
+ B
+ BathroomObject
+ BicycleRepairKit
+ BoringHotelFloor
+ C
+ Carpet
+ ChampagneGlass
+ ChocolateBar
+ ChocolateBar_1
+ ChocolateBar_2
+ ChocolateBar_3
+ ChocolateBar_4
+ ChocolateBar_5
+ ChocolateBar_6
+ ChocolateBar_7
+ ChocolateBar_8
+ CompassDirection
+ D
+ DollarBill
+ Dr. Todd
+ Dr. Todd's Rented Room (607)
+ Dr. Todd's credit card
+ Dr. Todd's glasses
+ E
+ Eighth Floor Button
+ ExecutiveHotelFloor
+ ExecutiveSuiteRoomKey
+ F
+ Fifth Floor Button
+ FileObject
+ First Floor Button
+ FloorButton
+ Fourth Floor Button
+ G
+ HotelFloor
+ KeySlot
+ LiquidObject
+ Max Zlotzky
+ Mikey
+ Mildred Nottinghaus
+ OrangeJuice
+ OrangeJuice_1
+ OrangeJuice_2
+ OrangeJuice_3
+ OrangeJuice_4
+ RoomKey
+ Second Floor Button
+ Seventh Floor Button
+ Sixth Floor Button
+ Third Floor Button
+ Todd's room key
+ ToddObject
+ Towel
+ VendableObject
+ VendingMachineButton
+ XavioCouch
+ bank of buttons
+ bar stool
+ basement floor button
+ bathroom door
+ bathroom door knob
+ bedroom door
+ benches
+ bicycle spoke
+ black suit
+ blood
+ blue book
+ book of matches
+ bottle of prosecco
+ brass plaque
+ candle
+ canvas bag
+ caped man
+ ceiling
+ cellphone
+ champagne glass
+ columns
+ compass
+ cops
+ corduroy pants
+ dead body of the Great Xavio
+ desk
+ dial timer
+ door knob hole
+ down button
+ dresser
+ east wall
+ elevator door
+ exercise equipment
+ fireplace
+ floor
+ floor indicator
+ fluorescent light fixture
+ funnel in the top of the iron chest
+ gold faucet
+ green penlight
+ gym door
+ half-finished child's sweater
+ hall rug
+ hidden button
+ hotel
+ houndstooth tweed coat
+ inner tube patch
+ inside
+ iron chest
+ jacket pocket
+ jacuzzi door
+ key slot for the rented room
+ knitting needle
+ ledge
+ left wing chair
+ loading dock
+ lost room key
+ master bed
+ medium couch
+ metal file
+ mimosa
+ minibar
+ mirror
+ murder knife
+ nail file
+ north wall
+ northeast wall
+ northwest wall
+ one dollar bill
+ outside
+ padlock
+ paper clip
+ pile of one thousand dollar bills
+ pink newspaper
+ push broom
+ queen sized bed
+ really long couch
+ reuben sandwich
+ right wing chair
+ room door
+ room key slot
+ room key slot for gym door
+ room key slot for jacuzzi
+ room service cart
+ short couch
+ shower
+ side table
+ silver tray
+ small sign
+ small table
+ south wall
+ southeast wall
+ southwest wall
+ staff locker
+ staff uniform
+ straight-backed chair
+ street clothes
+ student ID
+ tables
+ television
+ thick San Francisco fog
+ thousand dollar bill
+ tire lever
+ toilet
+ towel
+ tube of toothpaste
+ up button
+ valve
+ vending machine
+ vending machine opening
+ wallet
+ west wall
+ white linen tablecloth
+ window
+ wooden bar
+

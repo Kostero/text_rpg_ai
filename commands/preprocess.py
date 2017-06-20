@@ -14,7 +14,7 @@ def save(commands, filename, min_freq=1):
 fight_actions = {'attack', 'kill', 'fight', 'shoot', 'punch'}
 
 
-for mode in ["walkthroughs", "tutorials", "games", "all"]:
+for mode in ["walkthroughs", "tutorials", "games", "commands", "all"]:
     files = []
     if mode in ["walkthroughs", "all"]:
         files += ['plover/downloadedCommands.txt']
@@ -24,6 +24,8 @@ for mode in ["walkthroughs", "tutorials", "games", "all"]:
                   list("QWERTYUIOPASDFGHJKLZXCVBNM")+["Number"]]
     if mode in ["games"]:
         files += ["textsParser/parsedCommands.txt"]
+    if mode in ["commands", "all"]:
+        files += ["commandsDigger/diggedCommands.txt"]
     output = 'preprocessedCommands_'+mode+'.txt'
     output_fight = 'preprocessedFightCommands_'+mode+'.txt'
 

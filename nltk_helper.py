@@ -6,7 +6,24 @@ path = os.path.dirname(__file__)
 if path == '':
     path = '.'
 
-w2v = word2vec.load(path+'/word2vec/data/vec.bin')
+import json
+with open('params.json') as jsonfile:
+    params = json.load(jsonfile)
+
+mode = os.environ["W2V"] if os.environ.has_key("W2V") else params["W2V"]
+if type(mode) == list:
+    mode = mode[0]
+
+w2v = None
+if mode == "books":
+    w2v = word2vec.load(path+'/word2vec/data/vec.bin')
+elif mode == "wiki":
+    w2v = word2vec.load(path+'/word2vec/data/wiki.bin')
+elif mode == "gn":
+    w2v = word2vec.load(path+'/word2vec/data/googlenews.bin', encoding="ISO-8859-1")
+else:
+    print("invalid mode for W2V")
+    exit(1)
 
 def get_similar_nouns(nouns, number=5):
     result = { n: (1, n) for n in nouns }

@@ -1,0 +1,198 @@
+
+Story file is games/HULK.Z5
+
+    **** Parse tables ****
+
+  Verb entries = 42
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "ente", synonyms = "foll", "g", "go", "run", "walk"
+    [00 00 00 00 00 00 00 02] "ente"
+
+252. 1 entry, verb = "free", synonyms = "rele", "unca"
+    [00 00 00 00 00 00 00 03] "free"
+
+251. 1 entry, verb = "carr", synonyms = "catc", "get", "grab", "hold", "stan",
+                                        "take"
+    [00 00 00 00 00 00 00 04] "carr"
+
+250. 1 entry, verb = "scra"
+    [00 00 00 00 00 00 00 05] "scra"
+
+249. 1 entry, verb = "drop", synonyms = "leav", "thro"
+    [00 00 00 00 00 00 00 06] "drop"
+
+248. 1 entry, verb = "crea", synonyms = "make"
+    [00 00 00 00 00 00 00 07] "crea"
+
+247. 1 entry, verb = "thin"
+    [00 00 00 00 00 00 00 08] "thin"
+
+246. 1 entry, verb = "find", synonyms = "loca", "sear"
+    [00 00 00 00 00 00 00 09] "find"
+
+245. 1 entry, verb = "wave"
+    [00 00 00 00 00 00 00 0a] "wave"
+
+244. 1 entry, verb = "at", synonyms = "towa"
+    [00 00 00 00 00 00 00 0b] "at"
+
+243. 1 entry, verb = "quit"
+    [00 00 00 00 00 00 00 0c] "quit"
+
+242. 1 entry, verb = "ask", synonyms = "call", "say", "scre", "spea", "talk",
+                                       "yell"
+    [00 00 00 00 00 00 00 0d] "ask"
+
+241. 1 entry, verb = "desc", synonyms = "exam", "l", "look", "read", "see"
+    [00 00 00 00 00 00 00 0e] "desc"
+
+240. 1 entry, verb = "bloc", synonyms = "cove"
+    [00 00 00 00 00 00 00 0f] "bloc"
+
+239. 1 entry, verb = "scor"
+    [00 00 00 00 00 00 00 10] "scor"
+
+238. 1 entry, verb = "save"
+    [00 00 00 00 00 00 00 11] "save"
+
+237. 1 entry, verb = "help"
+    [00 00 00 00 00 00 00 12] "help"
+
+236. 1 entry, verb = "inve"
+    [00 00 00 00 00 00 00 13] "inve"
+
+235. 1 entry, verb = "brea", synonyms = "dest", "figh", "hit", "hurt", "kick",
+                                        "pinc", "poun", "punc", "rip", "slug",
+                                        "smas", "stam", "step", "stom", "swat"
+    [00 00 00 00 00 00 00 14] "brea"
+
+234. 1 entry, verb = "pres", synonyms = "push"
+    [00 00 00 00 00 00 00 15] "pres"
+
+233. 1 entry, verb = "bit", synonyms = "bite", "chew", "eat", "swal"
+    [00 00 00 00 00 00 00 16] "bit"
+
+232. 1 entry, verb = "fan"
+    [00 00 00 00 00 00 00 17] "fan"
+
+231. 1 entry, verb = "lean", synonyms = "rock", "shak", "tip"
+    [00 00 00 00 00 00 00 18] "lean"
+
+230. 1 entry, verb = "boun", synonyms = "jump"
+    [00 00 00 00 00 00 00 19] "boun"
+
+229. 1 entry, verb = "dig"
+    [00 00 00 00 00 00 00 1a] "dig"
+
+228. 1 entry, verb = "lift", synonyms = "move", "pry", "pull"
+    [00 00 00 00 00 00 00 1b] "lift"
+
+227. 1 entry, verb = "calm", synonyms = "rela", "slee"
+    [00 00 00 00 00 00 00 1c] "calm"
+
+226. 1 entry, verb = "use", synonyms = "with"
+    [00 00 00 00 00 00 00 1d] "use"
+
+225. 1 entry, verb = "unpl"
+    [00 00 00 00 00 00 00 1e] "unpl"
+
+224. 1 entry, verb = "in", synonyms = "inse", "into", "plug", "stic", "stuf"
+    [00 00 00 00 00 00 00 1f] "in"
+
+223. 1 entry, verb = "open"
+    [00 00 00 00 00 00 00 20] "open"
+
+222. 1 entry, verb = "kill", synonyms = "slay"
+    [00 00 00 00 00 00 00 21] "kill"
+
+221. 1 entry, verb = "reme", synonyms = "remm"
+    [00 00 00 00 00 00 00 22] "reme"
+
+220. 1 entry, verb = "clim"
+    [00 00 00 00 00 00 00 23] "clim"
+
+219. 1 entry, verb = "blow", synonyms = "clap", "danc", "feel", "laug", "list",
+                                        "smel", "smil", "touc", "wait", "wigg"
+    [00 00 00 00 00 00 00 24] "blow"
+
+218. 1 entry, verb = "stop"
+    [00 00 00 00 00 00 00 25] "stop"
+
+217. 1 entry, verb = "beco", synonyms = "chan", "tran"
+    [00 00 00 00 00 00 00 26] "beco"
+
+216. 1 entry, verb = "cut", synonyms = "slic", "unti"
+    [00 00 00 00 00 00 00 27] "cut"
+
+215. 1 entry, verb = "clos", synonyms = "shut"
+    [00 00 00 00 00 00 00 28] "clos"
+
+214. 1 entry, verb = "turn", synonyms = "twis"
+    [00 00 00 00 00 00 00 29] "turn"
+
+    **** Verb action routines ****
+
+  Action table entries = 42
+
+action# action-routine "verb..."
+
+  0.  3258  "script"
+  1.  327c  "noscript"
+  2.  3480  "ente"
+  3.  3760  "free"
+  4.  37c4  "carr"
+  5.  3a5c  "scra"
+  6.  3b2c  "drop"
+  7.  3b90  "crea"
+  8.  3bc0  "thin"
+  9.  3bf0  "find"
+ 10.  3c10  "wave"
+ 11.  3cbc  "at"
+ 12.  3efc  "quit"
+ 13.  3f1c  "ask"
+ 14.  4154  "desc"
+ 15.  4790  "bloc"
+ 16.  47b0  "scor"
+ 17.  4900  "save"
+ 18.  4924  "help"
+ 19.  497c  "inve"
+ 20.  49a8  "brea"
+ 21.  4c00  "pres"
+ 22.  4cc4  "bit"
+ 23.  4e94  "fan"
+ 24.  4eb0  "lean"
+ 25.  4f1c  "boun"
+ 26.  4f54  "dig"
+ 27.  501c  "lift"
+ 28.  51b4  "calm"
+ 29.  5210  "use"
+ 30.  536c  "unpl"
+ 31.  53e0  "in"
+ 32.  54d8  "open"
+ 33.  55b8  "kill"
+ 34.  55d0  "reme"
+ 35.  5634  "clim"
+ 36.  567c  "blow"
+ 37.  56a4  "stop"
+ 38.  56bc  "beco"
+ 39.  56d4  "cut"
+ 40.  56f0  "clos"
+ 41.  5734  "turn"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.     0  
+    **** Prepositions ****
+
+  Table entries = 0
+

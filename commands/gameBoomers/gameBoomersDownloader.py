@@ -68,6 +68,9 @@ def parseCommands(site):
                 else:
                     words = " ".join(words)
                 tree = parser.parse(words)
+                print(words)
+                print(tree)
+                print("--------------")
                 getNodes(tree)
             except Exception as e:
                 print "ERR in parsing", e.message

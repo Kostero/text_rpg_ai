@@ -1,0 +1,90 @@
+    american
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (ancient_history)
+ (book_page)
+ (darkness object)
+ (easter_egg1)
+ (easter_egg2)
+ (easter_egg3)
+ (fake_handle)
+ (fake_torch)
+ (green_light)
+ (hint)
+ (historical_surveyors)
+ (horological_devices)
+ (manuscripts)
+ (self object)
+ (think_list)
+ CompassDirection
+ VaultObj
+ WallObj
+ air
+ ashes
+ b   f
+can
+ bars of the cage
+ body
+ brass cage
+ ceiling
+ compass
+ cover of the book
+ crack
+ cracks
+ creature
+ creature's hair
+ crystal
+ darkness
+ east
+ east wall
+ easterEgg
+ escaping
+ floor
+ fragments of crystal
+ fragments of glass and ice
+ gap under the door
+ golden key
+ heart
+ hole
+ inside
+ keyhole
+ leather bound book
+ light switch
+ north
+ north wall
+ northeast
+ northwest
+ notepad
+ nsj
+ objects on the shelf
+ outside
+ picture
+ piece of parchment
+ scroll
+ shadows
+ shelf
+ silver letters
+ sliver of light
+ south
+ south wall
+ southeast
+ southwest
+ tooth marks
+ triangular block
+ twittering sound
+ vault
+ vault door
+ vial of liquid
+ vial's stopper
+ walls
+ west
+ west wall
+ word
+ words
+ your clothing
+ your shoes
+ your trousers
+ your tunic
+

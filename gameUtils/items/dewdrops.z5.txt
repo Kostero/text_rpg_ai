@@ -1,0 +1,48 @@
+  kynpmThey're 
+ (BOARD)
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (ONSTAGE)
+ (STICK)
+ (cloth)
+ (darkness object)
+ (self object)
+ CompassDirection
+ advertisement
+ audience
+ b   dml   
+ backdrop
+ backstage
+ brightly lit hole
+ ceiling
+ chorus
+ compass
+ curtain
+ darkness
+ demon
+ eagle
+ east wall
+ floor
+ gkr
+ inside
+ landmark
+ landscape
+ north wall
+ northeast wall
+ northwest wall
+ onstage
+ outside
+ petticoat
+ props
+ ropes
+ sandbag
+ scenery
+ schnitzel
+ south wall
+ southeast wall
+ southwest wall
+ vineyard
+ west wall
+ wires
+

@@ -1,0 +1,62 @@
+
+>???
+That's not a verb I recognise.
+
+>items
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (darkness object)
+ (defrand)
+ (mirror)
+ (room_1)
+ (room_10)
+ (room_2)
+ (room_3)
+ (room_4)
+ (room_5)
+ (room_6)
+ (room_7)
+ (room_8)
+ (room_9)
+ (self object)
+ CompassDirection
+ Furniture
+ MzRoom
+ Scatterable
+ Solid
+ bed
+ button
+ compass
+ crystals
+ cube
+ dodecahedron
+ east
+ ground
+ icosahedron
+ inside
+ kjz ecgqm
+ north
+ northeast
+ northwest
+ octahedron
+ outside
+ pail
+ poster
+ rope
+ sign
+ south
+ southeast
+ southwest
+ stylish fez
+ substance the crystals certainly are not
+ table
+ television
+ tetrahedron
+ ticket
+ up above
+ wedge of cheese
+ west
+ wooden door
+

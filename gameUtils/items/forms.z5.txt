@@ -1,0 +1,124 @@
+ (144)
+ (Inform Library 6/3)
+ (Inform Parser)
+ (darkness object)
+ (self object)
+ A Tale of Ruins
+ About OF FORMS UNKNOWN
+ Acknowledgements
+ CompassDirection
+ Cyl_room
+ Do I do anything in the ruins?
+ Down the Shaft
+ Endgame
+ History of the Game
+ How can I get into the cave?
+ How can I stay warm?
+ How do I cross the road?
+ How do I get out of here?
+ How do I get through the basement door?
+ How do I get through the crack?
+ How do I light the basement?
+ How do I use the machine?
+ If you find a bug
+ In the House
+ Menu
+ On the Road
+ Option
+ Question
+ Release History
+ Road_room
+ Ruins_room
+ Special Commands
+ SwitchOption
+ What can I do in the Anteroom?
+ What can I do with the tree?
+ What do I do in the alcove?
+ What do I do in the storage room?
+ What do I do next?
+ What do I do with the frame?
+ What do I do with the sphere?
+ What happened to me?
+ What's this big structure?
+ What's with the horizontal lines?
+ What's with the mirror?
+ What's with the outcrop?
+ Where am I?
+ assembled device
+ base of frame
+ basement door
+ birds
+ bump
+ catwalk
+ ceiling
+ compass
+ computer
+ control panel
+ crack
+ cs
+ desk
+ device and rod
+ dial
+ distant field
+ east wall
+ east window
+ first dial
+ floor
+ four-lane road
+ frame
+ gap
+ greasy gel
+ groove
+ gutter
+ hinged dowels
+ hole
+ hole in ground
+ hub
+ inside
+ jacket pockets
+ lever
+ light bar
+ light switch
+ lm
+ long rope
+ long rope 2
+ metal circle
+ metal wheel and rod
+ mirror
+ north wall
+ north window
+ northeast wall
+ northwest wall
+ ocean
+ odd device
+ old rope
+ opaque window
+ outcrop
+ outside
+ reflection
+ ruined control panel
+ ruins
+ rungs
+ rusted rod
+ second dial
+ shadowed recess
+ shaft
+ shaft daemon
+ smudge
+ solid steel rod
+ south wall
+ southeast wall
+ southwest wall
+ sphere
+ spokes
+ storage
+ storage room key
+ thin metal wheel
+ third dial
+ torch
+ vast machine
+ warm jacket
+ west wall
+ wild oak
+ wood-and-metal divider
+

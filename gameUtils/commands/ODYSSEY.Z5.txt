@@ -1,0 +1,185 @@
+
+Story file is games/ODYSSEY.Z5
+
+    **** Parse tables ****
+
+  Verb entries = 40
+
+255. 1 entry, verb = "script"
+    [00 00 00 00 00 00 00 00] "script"
+
+254. 1 entry, verb = "noscript", synonyms = "unscript"
+    [00 00 00 00 00 00 00 01] "noscript"
+
+253. 1 entry, verb = "clim", synonyms = "ente", "go", "run", "walk"
+    [00 00 00 00 00 00 00 02] "clim"
+
+252. 1 entry, verb = "save"
+    [00 00 00 00 00 00 00 03] "save"
+
+251. 1 entry, verb = "quit"
+    [00 00 00 00 00 00 00 04] "quit"
+
+250. 1 entry, verb = "help"
+    [00 00 00 00 00 00 00 05] "help"
+
+249. 1 entry, verb = "to"
+    [00 00 00 00 00 00 00 06] "to"
+
+248. 1 entry, verb = "get", synonyms = "grab", "take", "unst"
+    [00 00 00 00 00 00 00 07] "get"
+
+247. 1 entry, verb = "acti", synonyms = "fire"
+    [00 00 00 00 00 00 00 08] "acti"
+
+246. 1 entry, verb = "pull"
+    [00 00 00 00 00 00 00 09] "pull"
+
+245. 1 entry, verb = "disc", synonyms = "drop", "leav", "put", "thro"
+    [00 00 00 00 00 00 00 0a] "disc"
+
+244. 1 entry, verb = "read"
+    [00 00 00 00 00 00 00 0b] "read"
+
+243. 1 entry, verb = "bang", synonyms = "hit", "pres", "push"
+    [00 00 00 00 00 00 00 0c] "bang"
+
+242. 1 entry, verb = "kick"
+    [00 00 00 00 00 00 00 0d] "kick"
+
+241. 1 entry, verb = "conn", synonyms = "hook"
+    [00 00 00 00 00 00 00 0e] "conn"
+
+240. 1 entry, verb = "wake"
+    [00 00 00 00 00 00 00 0f] "wake"
+
+239. 1 entry, verb = "feel", synonyms = "pet", "rub", "touc"
+    [00 00 00 00 00 00 00 10] "feel"
+
+238. 1 entry, verb = "desc", synonyms = "exam", "look", "see"
+    [00 00 00 00 00 00 00 11] "desc"
+
+237. 1 entry, verb = "holl", synonyms = "say", "scre", "yell"
+    [00 00 00 00 00 00 00 12] "holl"
+
+236. 1 entry, verb = "drin"
+    [00 00 00 00 00 00 00 13] "drin"
+
+235. 1 entry, verb = "char", synonyms = "rech"
+    [00 00 00 00 00 00 00 14] "char"
+
+234. 1 entry, verb = "remo", synonyms = "unwe"
+    [00 00 00 00 00 00 00 15] "remo"
+
+233. 1 entry, verb = "at"
+    [00 00 00 00 00 00 00 16] "at"
+
+232. 1 entry, verb = "blas", synonyms = "shoo"
+    [00 00 00 00 00 00 00 17] "blas"
+
+231. 1 entry, verb = "find"
+    [00 00 00 00 00 00 00 18] "find"
+
+230. 1 entry, verb = "move"
+    [00 00 00 00 00 00 00 19] "move"
+
+229. 1 entry, verb = "rese", synonyms = "set"
+    [00 00 00 00 00 00 00 1a] "rese"
+
+228. 1 entry, verb = "suit"
+    [00 00 00 00 00 00 00 1b] "suit"
+
+227. 1 entry, verb = "fast", synonyms = "wear"
+    [00 00 00 00 00 00 00 1c] "fast"
+
+226. 1 entry, verb = "scor"
+    [00 00 00 00 00 00 00 1d] "scor"
+
+225. 1 entry, verb = "inve"
+    [00 00 00 00 00 00 00 1e] "inve"
+
+224. 1 entry, verb = "bend", synonyms = "brea", "twis"
+    [00 00 00 00 00 00 00 1f] "bend"
+
+223. 1 entry, verb = "clos", synonyms = "shut", "slam"
+    [00 00 00 00 00 00 00 20] "clos"
+
+222. 1 entry, verb = "open"
+    [00 00 00 00 00 00 00 21] "open"
+
+221. 1 entry, verb = "fall", synonyms = "jump"
+    [00 00 00 00 00 00 00 22] "fall"
+
+220. 1 entry, verb = "cra", synonyms = "dig", "pick"
+    [00 00 00 00 00 00 00 23] "cra"
+
+219. 1 entry, verb = "melt"
+    [00 00 00 00 00 00 00 24] "melt"
+
+218. 1 entry, verb = "fix", synonyms = "repa"
+    [00 00 00 00 00 00 00 25] "fix"
+
+217. 1 entry, verb = "lift", synonyms = "rais"
+    [00 00 00 00 00 00 00 26] "lift"
+
+216. 1 entry, verb = "empt"
+    [00 00 00 00 00 00 00 27] "empt"
+
+    **** Verb action routines ****
+
+  Action table entries = 40
+
+action# action-routine "verb..."
+
+  0.  32d0  "script"
+  1.  32f4  "noscript"
+  2.  3388  "clim"
+  3.  3728  "save"
+  4.  3744  "quit"
+  5.  3758  "help"
+  6.  379c  "to"
+  7.  37f4  "get"
+  8.  39bc  "acti"
+  9.  3a18  "pull"
+ 10.  3abc  "disc"
+ 11.  3b78  "read"
+ 12.  3c94  "bang"
+ 13.  425c  "kick"
+ 14.  4284  "conn"
+ 15.  42b4  "wake"
+ 16.  42ec  "feel"
+ 17.  4480  "desc"
+ 18.  49e4  "holl"
+ 19.  4a00  "drin"
+ 20.  4a40  "char"
+ 21.  4a84  "remo"
+ 22.  4af0  "at"
+ 23.  4b00  "blas"
+ 24.  5094  "find"
+ 25.  50c8  "move"
+ 26.  50e4  "rese"
+ 27.  5144  "suit"
+ 28.  517c  "fast"
+ 29.  522c  "scor"
+ 30.  5240  "inve"
+ 31.  5254  "bend"
+ 32.  5374  "clos"
+ 33.  53ac  "open"
+ 34.  5480  "fall"
+ 35.  54ec  "cra"
+ 36.  5684  "melt"
+ 37.  56b0  "fix"
+ 38.  56d0  "lift"
+ 39.  56fc  "empt"
+
+    **** Parsing routines ****
+
+  Number of parsing routines = 1
+
+parse# parsing-routine "verb..."
+
+  0.     0  
+    **** Prepositions ****
+
+  Table entries = 0
+

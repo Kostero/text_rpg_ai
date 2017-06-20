@@ -1,0 +1,91 @@
+  c   a
+ (AEField)
+ (FlightSkin)
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (Memory)
+ (NeedResources)
+ (Systems)
+ (darkness object)
+ (nowhere)
+ (self object)
+ Caledonia
+ CompassDirection
+ INV_Tool
+ LB_Room
+ NPC
+ OL_Room
+ PC
+ SC_Object
+ System
+ Tra 'Jan Gore Soldier
+ air-lock
+ arms
+ ashen clouds
+ belt
+ bones
+ buttons
+ ceiling
+ city
+ compass
+ control panel
+ crater
+ craters
+ crevice
+ earth
+ east wall
+ face
+ flashbackdark
+ flashbackdc
+ floor
+ foliage
+ forest
+ fossils
+ gas plume
+ green button
+ ground
+ hip
+ hull
+ inner hatch
+ inside
+ interior hatch
+ kids
+ landscape
+ legs
+ light spacecraft
+ mud
+ north wall
+ northeast wall
+ northwest wall
+ outer hatch
+ outside
+ planet
+ plasma rifle
+ plasma rifle rack
+ rear compartment
+ red button
+ remains
+ river
+ rusty hatch
+ safety cable
+ ship
+ small button
+ small spaceship
+ small white button
+ smoke
+ sockets
+ south wall
+ southeast wall
+ southwest wall
+ supply of rations
+ twisted ships
+ vent
+ walls
+ warp ships
+ water
+ west wall
+ western wall
+ window
+ you
+

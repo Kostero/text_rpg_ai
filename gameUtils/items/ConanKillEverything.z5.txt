@@ -1,0 +1,43 @@
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ CompassDirection
+ Conan
+ Crack in the ceiling
+ Only 
+ Wizard
+ compass
+ dials
+ east
+ fly
+ ground
+ growling wildcat
+ heavy door
+ inside
+ little spider
+ loincloth
+ north
+ northeast
+ northwest
+ oaken table
+ outside
+ pin
+ pointed hat
+ red apple
+ saturn symbol
+ small hole
+ south
+ southeast
+ southwest
+ spider
+ torch
+ up above
+ very large sword
+ walls
+ west
+ wooden golem
+ woodworm
+

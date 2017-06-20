@@ -1,0 +1,128 @@
+  
+ (ChamberChapelDoor)
+ (ChamberChapelDoorLock)
+ (ChamberStudyDoor)
+ (ChamberStudyDoorLock)
+ (Inform Library)
+ (Inform Parser)
+ (LabStairway)
+ (LibraryMessages)
+ (PriestStairway)
+ (SecretDoor)
+ (StandardPlayer)
+ (StoreStairway)
+ (VC)
+ (darkness object)
+ (dented_box)
+ (insideFurnace)
+ (self object)
+ (storage)
+ (suits)
+ Baron's corpse
+ Baron's eyes
+ Baron's notes
+ Book of evil Magic
+ CompassDirection
+ Crucibles
+ Flap
+ FlapLever
+ Hole in the south wall
+ Hour-Glass
+ HourglassSand
+ Key
+ Lock
+ Molten
+ Mortar & Pestle
+ OakDoor
+ OakDoorLock
+ Room
+ Sand in the bottom half of the Hour-Glass
+ Sand in the top half of the Hour-Glass
+ SandPile
+ Screws of Archimedes
+ Shocker
+ Spout
+ Stairway
+ VCDoor
+ VCObject
+ bloated Pig
+ blood on the altar
+ blood stains
+ bloodstained carpet
+ blue Circle on your Covering
+ ceiling
+ collecting Pan
+ compass
+ copper key
+ corrupt Priest
+ court Fool
+ east wall
+ fine Axe
+ floor
+ gaming Pieces
+ golden key
+ golden lock
+ handful of spice
+ handle
+ heavy portcullis
+ high Seat
+ holy symbol
+ inside
+ large Funnel
+ large Ovens
+ large Wheel
+ leather Arm-Chair
+ leather sheath
+ library
+ light Chain which holds your Symbol
+ lighted Candles
+ lincoln Cap
+ long Table
+ lower Flap
+ lower Lever
+ marble Altar
+ molten Copper
+ molten Gold
+ molten Metal
+ molten Silver
+ north wall
+ northeast wall
+ northwest wall
+ opulent Decorations
+ ornate Chairs
+ outside
+ personal Effects
+ pocket
+ porcine Entrails
+ racks of Ham
+ red robe
+ sack of Flour
+ sacred blade
+ sand in the machine
+ sand scattered on the floor
+ shattered Crockery
+ sheen of Sand
+ silver key
+ south wall
+ southeast wall
+ southwest wall
+ straw Mat
+ strings of Fruit
+ stump
+ suit of Chain-Mail
+ tankard of Wine
+ tapestries
+ tapestry
+ turning gears
+ upper Flap
+ upper Lever
+ vellum Scroll
+ vent
+ water
+ west wall
+ white Covering over your armour
+ wooden Chairs
+ wooden Lance
+ wooden Scroll-Case
+ wooden Tables
+

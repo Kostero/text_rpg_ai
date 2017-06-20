@@ -1,0 +1,167 @@
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (astro_area)
+ (book_area)
+ (cupboard_area)
+ (darkness object)
+ (desk_area)
+ (door_area)
+ (fire_area)
+ (hat_area)
+ (hemi1)
+ (hemi2)
+ (musicalbox)
+ (panelling_area)
+ (self object)
+ (shelf_area)
+ (temp)
+ (window_area)
+ Blue paper from desk
+ Brown paper found in "Robinson Crusoe"
+ CompassDirection
+ Crossword clue
+ Green paper from umbrella
+ Inscription on metal disc
+ Label on bottle
+ Laminated card
+ Margin note in magazine
+ Marks on protractor
+ Menu
+ Message on handheld computer
+ Note from exercise book
+ Noted from blue hardback book
+ Notice on door
+ Numbers pointed to by ballerina
+ Numbers scratched in the chimney
+ Option
+ Possible clues you have noted so far
+ Post-It note
+ Post-It note from behind painting
+ Recording on blue tape
+ Recording on yellow tape
+ Red paper from wooden box
+ Screwed-up paper found in the fireplace
+ Slip of tissue paper
+ SwitchOption
+ White card from the globe
+ Writing in "The Jungle Book"
+ Writing on memory card
+ Writing on the blotter
+ Writing revealed on brass monkey
+ all_objects
+ antique globe
+ balance beam
+ battery
+ bell
+ black box
+ blotter
+ blue book
+ blue paper
+ book case
+ bottle
+ brass ornament
+ brass plate
+ brown book
+ brown paper
+ button
+ cardboard box
+ carpet
+ cassette
+ cassette tape with a blue label
+ cassette tape with a yellow label
+ ceiling
+ cigar tube
+ clever
+ compass
+ corner shelf
+ corners
+ drawer
+ dust
+ east
+ exercise book
+ ferrule
+ fireplace
+ geometry
+ glass doors
+ green paper
+ green paperback book
+ ground
+ hand
+ handheld computer
+ hatstand
+ hemi
+ hinges
+ hole in the side of the box
+ ice box
+ ice sphere
+ inside
+ interview suit
+ invisible daemon
+ key
+ laminated card
+ leather chair
+ left hand pan
+ left hand slot
+ letter
+ lever
+ lock
+ log
+ low cupboard
+ magazine
+ mahogany desk
+ main door
+ manilla envelope
+ mantelpiece
+ mechanical ballerina
+ memory card
+ metal ball
+ newspaper
+ north
+ northeast
+ northwest
+ notice
+ oak panelling
+ outside
+ painting
+ pair of compasses
+ paper
+ plaster
+ protractor
+ recess
+ red button
+ red paper
+ right hand pan
+ right hand slot
+ room
+ screen
+ screwed up paper
+ set square
+ shiny metal disc
+ sky
+ small piece of tissue paper
+ soot
+ south
+ southeast
+ southwest
+ steel box
+ stereo system
+ support
+ table
+ tin box
+ top hat
+ tray
+ umbrella
+ up above
+ view through the window
+ weighing machine
+ weight marked 10
+ weight marked 3
+ weight marked 4
+ weight marked 6
+ weightclass
+ west
+ white card
+ window
+

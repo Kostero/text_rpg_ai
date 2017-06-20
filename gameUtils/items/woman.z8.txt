@@ -1,0 +1,408 @@
+  military uniform
+  pyramid
+  steel whip
+ "special" board
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ 0
+ 2
+ 5
+ 9
+ About Inform 6 and Interactive Fiction
+ About the Author / Contact Information
+ Alice Ling
+ Amber Bear
+ Anya Kaparov subbuteo piece
+ Cheap (Faux) Chinese
+ Chinese military uniform
+ Coit Tower
+ Colonel
+ CompassDirection
+ Copyright Notice / Disclaimer
+ Credits
+ Director's statue
+ Eddie
+ Ehizoge Symons subbuteo piece
+ General
+ General Information and Introduction
+ Interacting with Other People and Machines
+ Janie Rourke subbuteo piece
+ Japanese superspy
+ Jet Scorpion
+ Kelly Price subbuteo piece
+ Lucy Song subbuteo piece
+ Lucy Song's body
+ Manipulating Objects
+ Meagan
+ Menu
+ Minister of Utopia
+ Monika Berlin subbuteo piece
+ Mother Nature's body
+ Moving Around the Game World
+ Natalia subbuteo piece
+ Old Bruce
+ Option
+ Passing Time
+ Pearl Crocodile
+ Professor Zacharias
+ Professor Zacharias' corpse
+ Rachel Baker subbuteo piece
+ Release Data / Previous Versions
+ Ruby Eagle
+ Sian O'Hara subbuteo piece
+ Some Important Commands
+ SwitchOption
+ Tania Rourke subbuteo piece
+ Tenets of Utopia
+ Teresa
+ USF guard
+ USF guards
+ USF trooper
+ USF trooper's helmet
+ USF troopers
+ UTN news article
+ UoU student
+ Utopia ID tag
+ Utopia Technologies Arcology
+ Utopia Technologies bodysuit
+ Utopian Bible
+ Victorian desk
+ Wendi Miranda Donahue subbuteo piece
+ Wheel of Fate
+ Zara McCoy subbuteo piece
+ air freshener
+ airlock tunnels
+ airtight titanium seal
+ alphanumeric discs
+ antiviral inhaler
+ apartment door
+ apartment doors
+ arcade games
+ arch
+ arched window
+ armoured sedan
+ automatic plasma rifle
+ avatar
+ awnings
+ baby toddler
+ banking terminal
+ barrel of burning trash
+ battering ram
+ bees
+ bill
+ black box
+ black metal ball
+ black metal balls
+ blue capsule
+ bottle of Blue Agave
+ bouncer
+ brass prongkey
+ bronze plate
+ button
+ ca
+ calendar
+ camera pen
+ can of Tricola
+ candlelit chandelier
+ canyons
+ carrier bag
+ cashcard
+ casino attendant
+ casino manager
+ casino token
+ cb
+ cc
+ chain cannons
+ chinese food
+ circular headed cyberjack
+ citizens
+ collection plate
+ combination dial
+ commandos
+ compass
+ compost shredder
+ conductor bot
+ containment field
+ control console
+ cooler
+ coroner
+ covered lightbulb
+ cp
+ crawling zombie
+ credit register
+ crop duster
+ cross headed cyberjack
+ crowd
+ crowd of citizens
+ cryobed
+ cyberdigit
+ cyberjack
+ cyberport
+ cybertube
+ d
+ datastick
+ decagonal headed cyberjack
+ deradiator
+ desk_leg
+ disco lights
+ display counter
+ disposal chute
+ dp
+ drainage grate
+ drinks dispenser
+ east
+ electronic ticker board
+ elevated maglev rail
+ emergency exit
+ enemy motorcycles
+ entry visa
+ executive
+ eye
+ feeding trough
+ female soldiers
+ fire extinguishers
+ fission grenades
+ flame vents
+ flexible steel cable
+ floating emerald
+ floating symbols
+ fried component
+ games
+ gaming licence
+ gamma ray sensor
+ gas mask
+ glass panels
+ glowing purple berries
+ gold plated cryobed
+ grandfather clock
+ green capsule
+ grid of squares
+ ground
+ guards
+ guidebot
+ halogen lamp
+ hard brown lumps
+ harpoon gun
+ hexagonal headed cyberjack
+ holoboard
+ holographic projector
+ holopistol
+ homeless man
+ hp
+ image of Lucy song
+ immigrants
+ infrared control device
+ inside
+ iron pail
+ iron plate
+ jetcopter
+ knob
+ lab coat
+ large red button
+ laser scalpel
+ laser turrets
+ laserfence
+ left leg
+ lettered spinners
+ letterspinner
+ level directory
+ librarian droid
+ librarybook
+ light fixture
+ light wavelength dial
+ lightbulb tube
+ lines of text
+ lottery machine
+ lottery ticket
+ magnetic gun
+ magnetic passkey
+ main autopsy table
+ marble pedestal
+ marble plinth
+ matron
+ medical locker
+ member's pass
+ memorial stand
+ message cube
+ morphtool
+ motorcycles
+ muddy hole
+ muddy water
+ new citizen's guidebook
+ north
+ northeast
+ northwest
+ nutrition tanks
+ oak desk
+ octagonal headed cyberjack
+ office door
+ oil tanker
+ oil valve
+ op
+ optical camouflage
+ outside
+ oven
+ padlocked door
+ pail's handle
+ painted steel rose
+ parked truck
+ passport
+ pb
+ pentagonal headed cyberjack
+ pieces of broken glass
+ pigs
+ piles of corpses
+ pink passcard
+ pitch
+ pizzas
+ plasma pistol
+ plastic_tube
+ plate_class
+ playing cards
+ playing_card
+ polluted seawater
+ portable computer
+ posters
+ power cell
+ pp
+ prawn cracker
+ printed menu
+ printing machine
+ printing press
+ ramp
+ receptionist
+ recharge pod
+ rectangular slots
+ red capsule
+ red marker pen
+ registration terminals
+ researcher
+ retinal scanner
+ right leg
+ rocky pyramid
+ rotor blades
+ rotten prunes
+ rows of pews
+ rubber mask
+ rug
+ ruined walkway
+ rusty iron nail
+ safe
+ safety deposit box
+ safety harness
+ scaly red dragon
+ school bully
+ searchlight
+ security barrier
+ security door
+ security_barrier
+ sentry guns
+ serving bot
+ serving woman
+ severed head
+ shooting script
+ short tube
+ shower platform
+ shrubbery
+ shuriken
+ shuttle seat
+ silver pyramid on a chain
+ silver suited women
+ sliding door
+ snipers
+ soccer balls
+ soccer teams
+ south
+ southeast
+ southwest
+ sp
+ spacesuit
+ spray cannon
+ square
+ square opening
+ stained glass animals
+ stained glass window
+ stairwell
+ star headed cyberjack
+ steel barred cage
+ steel door
+ steel plate
+ steel sculpture
+ stone statues
+ storage container
+ storage drawer
+ storage shelves
+ storekeeper
+ street sign
+ students
+ studio gates
+ subbuteo
+ subbuteo table
+ subdivided_room
+ superbike
+ support cable
+ suspension pillar
+ ta
+ tall tube
+ tb
+ tc
+ td
+ temperature dial
+ thermometer
+ ticket to Mars
+ time capsule
+ tiny crack
+ tiny drawer
+ tires
+ titanium bands
+ titanium pickaxe
+ tourist
+ tp
+ tranquiliser pistol
+ transport tube network
+ trash receptacle
+ treasure chest
+ trenches
+ trivia machine
+ trivia machine buttons
+ trivia question
+ trophy cabinet
+ tubes
+ university campus holomap
+ up above
+ valve wheel
+ vat of dirty water
+ vending machine
+ ventilation duct
+ vial of pale green liquid
+ viewing windows
+ w
+ wall mirror
+ walls
+ warning sign
+ water
+ wealth of information
+ west
+ wheelchair
+ white jacket
+ white spinner
+ windows
+ wires
+ wooden gates
+ wooden splinter
+ work clothes
+ world map
+ wristwatch
+ wrought iron gate
+ xw
+ yellow contact lenses
+ yellow gas
+ yellow spinner
+ zombie's Colombian uniform
+ zombie's head
+ zombies
+

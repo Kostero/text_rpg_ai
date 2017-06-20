@@ -1,0 +1,21 @@
+ (Inform Library)
+ (Inform Parser)
+ (darkness object)
+ (self object)
+ CompassDirection
+ Node
+ ceiling
+ compass
+ east wall
+ floor
+ inside
+ lm
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ south wall
+ southeast wall
+ southwest wall
+ west wall
+

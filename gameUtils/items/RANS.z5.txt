@@ -1,0 +1,216 @@
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (balmy)
+ (blustery)
+ (darkness object)
+ (drunk_player)
+ (emerg)
+ (faintthing)
+ (flooded)
+ (frozen)
+ (ghost_player)
+ (gray4)
+ (gray5)
+ (gray6)
+ (gray7)
+ (gray8)
+ (insub)
+ (l_button)
+ (lookup)
+ (p_button)
+ (peace1)
+ (publisher)
+ (room_service)
+ (s1)
+ (s10)
+ (s11)
+ (s12)
+ (s13)
+ (s14)
+ (s15)
+ (s16)
+ (s17)
+ (s18)
+ (s19)
+ (s2)
+ (s20)
+ (s3)
+ (s4)
+ (s5)
+ (s6)
+ (s7)
+ (s8)
+ (s9)
+ (self object)
+ (stars)
+ (stormy)
+ (tocall)
+ (torrent)
+ (towel)
+ (util_thing)
+ CompassDirection
+ Fresh Air!
+ Jepos's sword
+ Judy the receptionist
+ Judy's desk
+ Kamendro
+ Kamendro's boots
+ Kamendro's corpse
+ RANS
+ Ralph the Doorman
+ Tringle the tinker
+ actual mouthwash
+ ancient oak tree
+ apples
+ barricade of junk
+ bathroom mirror
+ battery-powered brass lantern
+ bed
+ blue lines of rock
+ blue volume
+ booth
+ brass lamp
+ brick wall
+ bricks
+ burning cart
+ call button
+ capital
+ cardboard box
+ carpeted corner
+ carrot nose
+ ceiling
+ cloud of dust
+ coffeemaker
+ compass
+ construction crew
+ contained water
+ contest official
+ country road
+ crone
+ crucified loyalists
+ dining room door
+ door
+ east wall
+ elevator door
+ enemy's sword
+ faraway boats
+ fifth article
+ filth
+ first article
+ first packet of Insta-Drip
+ fixture
+ floor
+ flowing water
+ fourth article
+ freeway
+ fresh coffee grounds
+ furnishings
+ glass door
+ glass whiskey bottle
+ gleaming mace
+ glittering necklace
+ green lines of rock
+ green star
+ grim man
+ guildhall
+ headquarters
+ hotel entrance
+ hotel writing paper
+ improbable supply of paper
+ inside
+ issue of "Mizopolitan"
+ judges
+ jumbled rocks
+ kitchen door
+ laptop connected to a printer
+ larger casket
+ left cupboard
+ lines
+ lines of guards
+ lines of rock
+ lines of spectators
+ loathsome bum
+ lodestone
+ lonely gouda
+ makers
+ manuscript
+ market
+ mayor
+ minibar
+ mirror
+ moon
+ new coffee filter
+ niche
+ north wall
+ northeast wall
+ northwest wall
+ nylon sock
+ old coffee filter
+ old crone
+ one of those vile dark beers
+ outside
+ pathetic potted plant
+ plain
+ plastic basket
+ plastic bottle of mouthwash
+ plastic top
+ pocket doorway
+ pooling blood
+ rebel army
+ rebellion
+ recently used filter
+ red and green banners
+ red lines of rock
+ resistance
+ right cupboard
+ river
+ room door
+ royal family
+ rye whiskey
+ sailor's duffel bag
+ sandbag
+ sea
+ second article
+ second packet of Insta-Drip
+ shelf
+ sink
+ sludgy coffee
+ small bright flowers
+ small piece of parchment
+ smaller casket
+ south wall
+ southeast wall
+ southwest wall
+ speaking contest
+ spilled oil
+ story
+ straw roof
+ street battle
+ streets
+ suitcase
+ swarming cockroaches
+ sweetsmelling coffee
+ swizzle stick
+ tartsmelling coffee
+ telephone
+ telephone table
+ thick net
+ third article
+ third packet of Insta-Drip
+ titles
+ toilet
+ toiletries
+ traffic
+ tub/shower
+ unholy mess
+ wardrobe
+ wastebasket
+ weak, watery coffee
+ weather
+ west wall
+ widescreen T.V. box
+ window
+ workdesk
+ your sword
+

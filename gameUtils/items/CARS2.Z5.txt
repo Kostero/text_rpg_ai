@@ -1,0 +1,22 @@
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ Center of the road. Straight.
+ CompassDirection
+ ceiling
+ compass
+ d e pn.
+ east wall
+ floor
+ inside
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ south wall
+ southeast wall
+ southwest wall
+ west wall
+

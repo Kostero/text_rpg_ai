@@ -1,0 +1,60 @@
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ CompassDirection
+ NPC
+ Professor Wilkens
+ Prop
+ Room
+ Vicar Owen
+ b   dnf   fd   k   klgcv
+ broken bottle
+ brush
+ ceiling
+ chair
+ churchyard
+ compass
+ composition book
+ desk
+ east wall
+ fens
+ fire
+ fireplace
+ flagstone walk
+ floor
+ gravestones
+ h Diu
+ inside
+ ir
+ monuments
+ north wall
+ northeast wall
+ northwest wall
+ ordnance survey map
+ outside
+ road
+ rubbish
+ ruined abbey
+ ruins
+ saxon church
+ shadows
+ snow
+ south wall
+ southeast wall
+ southwest wall
+ staircase
+ sticks
+ tumbler of scotch
+ twisted thorn bush
+ van
+ vicarage
+ wall
+ weeds
+ west wall
+ window
+ windows
+ wooden door
+ wrought iron fence
+

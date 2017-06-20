@@ -1,0 +1,468 @@
+ 
+ (240)
+ (241)
+ (242)
+ (243)
+ (244)
+ (246)
+ (247)
+ (248)
+ (249)
+ (250)
+ (251)
+ (252)
+ (253)
+ (254)
+ (255)
+ (258)
+ (259)
+ (260)
+ (261)
+ (262)
+ (263)
+ (264)
+ (265)
+ (266)
+ (267)
+ (268)
+ (269)
+ (270)
+ (271)
+ (272)
+ (273)
+ (274)
+ (275)
+ (276)
+ (277)
+ (278)
+ (279)
+ (280)
+ (281)
+ (282)
+ (283)
+ (284)
+ (285)
+ (286)
+ (287)
+ (288)
+ (289)
+ (290)
+ (291)
+ (292)
+ (293)
+ (295)
+ (296)
+ (297)
+ (299)
+ (300)
+ (302)
+ (303)
+ (305)
+ (306)
+ (307)
+ (309)
+ (310)
+ (312)
+ (313)
+ (315)
+ (316)
+ (317)
+ (319)
+ (320)
+ (321)
+ (323)
+ (324)
+ (325)
+ (326)
+ (327)
+ (329)
+ (330)
+ (331)
+ (332)
+ (333)
+ (335)
+ (336)
+ (337)
+ (339)
+ (341)
+ (342)
+ (343)
+ (345)
+ (346)
+ (348)
+ (350)
+ (351)
+ (352)
+ (353)
+ (354)
+ (355)
+ (356)
+ (357)
+ (358)
+ (359)
+ (360)
+ (361)
+ (363)
+ (364)
+ (365)
+ (366)
+ (367)
+ (368)
+ (370)
+ (371)
+ (372)
+ (373)
+ (374)
+ (375)
+ (377)
+ (378)
+ (379)
+ (380)
+ (381)
+ (382)
+ (387)
+ (388)
+ (389)
+ (390)
+ (392)
+ (393)
+ (394)
+ (395)
+ (396)
+ (397)
+ (398)
+ (399)
+ (401)
+ (ConvHack)
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (c_anend)
+ (c_badguy)
+ (c_bay)
+ (c_control)
+ (c_didnothing)
+ (c_frown)
+ (c_fusion)
+ (c_goggles)
+ (c_jump)
+ (c_laugh)
+ (c_lono)
+ (c_nod)
+ (c_pillar)
+ (c_progress)
+ (c_rods)
+ (c_rods_seen)
+ (c_sing)
+ (c_smile)
+ (c_stall)
+ (c_status)
+ (c_swore)
+ (c_takeoff)
+ (c_wave)
+ (c_wink)
+ (c_winner)
+ (cherylstart)
+ (cheryltopic)
+ (darkness object)
+ (endgame_obj)
+ (self object)
+ (temp_obj)
+ A smart Mechanist doesn't just go operating studs at random.
+ ASK CHERYL FOR HOLOGRAM
+ ASK CHERYL FOR HOLOGRAM. WEAR GOGGLES.
+ Advancing the sequence (3 hint topics)
+ After examining everything, TOUCH NOTCH.
+ Apparently this device was intended to have one being hold the rods together
+while the other activated the system.
+ Are you sure you checked out all of the studs?
+ But it's not clear how to finish the sequence.
+ But you don't have enough time to both look at it and turn it off.
+ By touching the sequence stud.
+ CHERYL, UNLOCK CUFFS.
+ Can you find a way to make the probe and the transmission 'interact'?
+ Can you get Cheryl to look somewhere else?
+ Cansw
+ Chat
+ Check out all the studs you've never used.
+ Cheryl
+ Cheryl won't pull the rods for you.
+ Cheryl's monitor hologram shows some sort of response to the probe on the
+contact points. It would help if you could take a closer look.
+ Cheryl's presence makes doing so problematic.
+ CompassDirection
+ Conclusion
+ Control System (3 topics)
+ Control rods
+ Conv
+ Conversation is useful for understanding the story.
+ Credits
+ Ctalk
+ Cwait
+ Cwtalk
+ Cwwait
+ Dealing with the control surface
+ Dealing with the slab
+ Detecting the problem
+ Determining the sequence
+ Determining the sequence (3 topics)
+ Did you examine it?
+ Did you examine the plasma containment system?
+ Did you figure out what the bottom sensor does?
+ Did you operate the tool stud?
+ Did you try opening it?
+ Do you have any tools that could keep the rods held together?
+ Do you have the probe, and do you know how to use it? (See next hint topic.)
+ Do you remember where the probe was before you used it?
+ Don't read this until you've dealt with the control rods.
+ Don't worry about the viewscreen right now.
+ Examine everything, TOUCH POWER.
+ Finding and using the probe
+ Fixed the generator (and turned it on, too)?
+ Fixing the generator (4 hint topics)
+ Fixing the problem
+ Forget about the studs.
+ GET PROBE. CLOSE BAY. TOUCH POWER.
+ GIVE GOGGLES TO CHERYL. TOUCH SEQ. TOUCH TOP. X SCREEN. TOUCH SEQ.
+ General (2 hint topics)
+ Getting at the generator
+ Getting started (7 hint topics)
+ Give her the electromagnetic goggles.
+ Have you examined the bay?
+ Have you examined the control rods?
+ Have you examined the sequence stud?
+ Have you examined the viewscreen lately?
+ Have you found the problem?
+ Have you got the power on?
+ Have you pushed the control stud?
+ Have you tried EXAMINE STUDS?
+ Have you tried to manipulate them?
+ Hint
+ HintTopic
+ How about the electropulse probe?
+ How can you get closer to the hologram without getting closer to Cheryl?
+ How do I communicate?
+ How do I get started? (1 answer)
+ How do I learn what steps I need to take? (1 answer)
+ How do I push the control stud with losing? (1 answer)
+ How do I push the ignition stud without losing? (1 answer)
+ How do I push the sequence stud without losing? (1 answer)
+ How do I push the transmit stud without losing? (1 answer)
+ How do I recalibrate the contact? (1 answer)
+ How do I take off the handcuffs? (1 answer)
+ I can't see the results of the probe well enough. (1 answer)
+ I keep running out of time!
+ I'm a total idiot. Now what? (1 answer)
+ I'm not sure what I'm supposed to be doing. (1 answer)
+ If Cheryl can make the probe work, you certainly can.
+ If you could distract her for a moment or two...
+ If you did everything else in the last section, it's time to view the sequence
+of necessary activities to bring Yi-Lono-Mordel online.
+ If you're having touble with the timing, read the next hint.
+ Ignition
+ Ignition System (3 topics)
+ Is there anything else electromagnetic that she can see but doesn't care
+about?
+ Is there some way to make it so Cheryl can't see the screen?
+ It resonates when probed.
+ It sounds like it should react if your body touches it.
+ It uses magnetic fields, and the probe generates some sort of electromagnetic
+radiation.
+ It's a probe. You need to probe what's wrong. Use the probe on the problem
+area.
+ It's quite unlike the Yi, so you may not have thought of this, but have you
+tried manipulating them physically?
+ It's the first three studs listed when you examine the grid, in order.
+ LOCK CUFFS. PUT CUFFS ON RODS.
+ Loc
+ Look at the hint topic 'determining the sequence'.
+ Maybe you can give Cheryl a reason to leave the goggles on for a bit longer.
+ Maybe you could move the probe closer to the transmission?
+ Menu
+ Now that the handcuffs are off, getting Cheryl on the other side of a
+forcefield would be a great idea.
+ Now what do I do? (1 answer)
+ Ok, I fixed it. How do I turn it on? (1 answer)
+ Ok, now there's a pillar, with a suspicious panel. What about that panel?
+ Ok, so the power stud doesn't work. But there's a generator access stud.
+ Once the indicator icon starts flashing, it's time.
+ Opening game (3 topics)
+ Option
+ PULL RODS
+ PULL RODS. ASK CHERYL FOR KEY. GET KEY. REMOVE CUFFS.
+ PUT PROBE IN BAY
+ PUT PROBE IN BAY. TOUCH BOTTOM. WAIT. TOUCH NINE STUD
+ PUT PROBE IN BAY. TOUCH BOTTOM. WAIT. TOUCH NINE STUD.
+ PUT PROBE IN BAY. TOUCH TOP.
+ PUT PROBE IN SLOT. TOUCH BOTTOM. TOUCH TOOL. TOUCH TRANSMIT.
+ Perform some action that creates noticeable electromagnetic emissions.
+ Powering up is probably a good way of starting.
+ Push it.
+ Push or touch the top sensor.
+ Push the ignition stud again.
+ QuickHints (walkthrough in Q&A form)
+ Rather than trial and error, examine the sensors.
+ Read the hint topic "Advancing the sequence"/"Ignition"
+ STBLibraryMessages
+ Scene
+ She doesn't want you getting any closer to her.
+ She will see it. You need to make her not care about it.
+ She's curious about what you've been doing.
+ Some of the control studs aren't really useful just yet.
+ Stat
+ Still stuck? On to some comments about what you should do instead of what you
+shouldn't...
+ Stud
+ SwitchOption
+ TOUCH ACCESS.
+ TOUCH CONTROL STUD.
+ TOUCH IGNITION STUD
+ TOUCH INFO STUD. TOUCH FIELD STUD. TOUCH IGNITION STUD.
+ TOUCH NOTCH
+ TOUCH PANEL
+ TOUCH PANEL. X BAY.
+ TOUCH POWER STUD
+ TOUCH TOOL. WAIT. GET PROBE.
+ TOUCH TOP SENSOR
+ Take off the handcuffs, and put them on the rods.
+ That helps. You can turn off the display by activating the sequence stud
+again.
+ That notch looks pretty suspicious.
+ That's closer, but not enough.
+ The generator (6 topics)
+ The information stud might distract her, but then she'll halt your efforts. Is
+there anything else?
+ The jig is up! There's no way you can sneak this past Cheryl.
+ The next few hints tell you some things you don't need to worry about, so you
+can narrow down the problem.
+ The next hint will tell you exactly which thing.
+ The power's on, now what?
+ The probe's electromagnetic burst is bigger than the transmission's.
+ The probe, of course.
+ The question is how to get her on the other side.
+ The time for subtlety is past.
+ The transmission is emitted from within the slab.
+ The transmit stud generates a pretty significant electromagnetic burst. It's
+visible in both the hologram and the goggles.
+ There doesn't seem to be a stud for opening it, so it must be something to do
+with what's right there. What else might work on a panel like that?
+ There must be something around she can look at.
+ There should be a new stud to try out. Try it.
+ There's a slot in the slab from when you brought the probe out.
+ There's a stud that seems rather applicable...
+ There's no way to prevent something showing up that she will see.
+ This is a hint if you're having problems with Cheryl getting itchy for
+information.
+ This puzzle is pretty hard.
+ Transmit (1 topic)
+ Transmit go
+ Transmit go, control rods, ignition.
+ Try pushing the bottom button on the probe, then touch the transmit stud the
+same turn the probe goes off.
+ Unlike many of the studs, the ignition stud isn't a toggle.
+ Wait until the status light starts flashing.
+ What are you wearing?
+ What do I do now that the status is flashing? (1 answer)
+ What do I do with the pillar? (1 answer)
+ What do I do with the probe? (1 answer)
+ What do I do with the rods? (1 answer)
+ What is your standard technique for interacting with a piece of Yi technology?
+ What should I do with the controls first? (1 answer)
+ What sort of stimulus might you need to recalibrate the contact point?
+ What was the sequence again?
+ What's my goal?
+ Yi-Lono-Mordel
+ You already have everything you need; it should all be mentioned in LOOK and
+INV.
+ You can answer Cheryl's questions or make snide remarks to statements by
+typing 'TALK' just after she speaks.
+ You can ask Cheryl to do things for you, but you can also just have
+conversations.
+ You can examine each stud to estimate its function.
+ You can probe some things by putting the probe in them; others you should just
+PROBE.
+ You can put the probe back inside the slab.
+ You can't get rid of Cheryl.
+ You could pass the time chatting with Cheryl.
+ You could try putting the probe on the slab first.
+ You don't need to give Cheryl anything, ask her for anything, or give her any
+commands.
+ You don't want to do what Cheryl wants you to do.
+ You must have something that can create emissions.
+ You need to activate the probe and recalibrate at the same time.
+ You need to look at the sequence information while Cheryl isn't looking at it.
+ You need to wait a while for the installation to come fully online.
+ You never need to TALK to win the game, nor will any use of it will ever lose
+the game or make any puzzles harder.
+ You probably should figure out what the bottom sensor does, while you're at
+it.
+ You really should be able to figure it out from the above hints. But ok...
+ You want to activate Yi-Lono-Mordel.
+ You weren't allowed to try one of them before...
+ You won't be able to get any help from Cheryl.
+ You'll need to push the sequence stud to find out what to do next.
+ You've probed the bay and worked out what's wrong?
+ You've successfully pushed the ignition stud?
+ access panel
+ b   h q 
+ bottom sensor
+ calibration stud
+ ceiling
+ cluster of forms
+ compass
+ contact points
+ control rods
+ control stud
+ control surface
+ convHack)
+ crack
+ door
+ doorway
+ east wall
+ electromagnetic goggles
+ electropulse probe
+ elliptical window
+ fkp
+ floor
+ forcefield
+ forcefield stud
+ fusion generator bay
+ generator access stud
+ gleaming curves
+ handcuffs
+ icons
+ ignition stud
+ information display
+ information stud
+ inside
+ installation status display
+ key
+ laser pistol
+ monitor hologram
+ north wall
+ northeast wall
+ northwest wall
+ notch
+ one control rod
+ outside
+ plasma containment system
+ plasma generator
+ powerup stud
+ project status stud
+ room
+ separator
+ sequence stud
+ slab
+ slot
+ south wall
+ southeast wall
+ southwest wall
+ star
+ studs
+ tool stud
+ top sensor
+ transmit stud
+ viewscreen
+ west wall
+ white pillar
+

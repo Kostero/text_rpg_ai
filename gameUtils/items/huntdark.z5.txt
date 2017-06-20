@@ -1,0 +1,112 @@
+ 
+ (BUG)
+ (CaveCompass)
+ (Inform Library)
+ (Inform Parser)
+ (Maze)
+ (MazeCache)
+ (StandardCompass)
+ (bolt1)
+ (bolt2)
+ (bolt3)
+ (bolt4)
+ (bolt5)
+ (darkness object)
+ (propdummy)
+ (self object)
+ (tun1_back)
+ (tun1_fore)
+ (tun2_back)
+ (tun2_fore)
+ (tun3_back)
+ (tun3_fore)
+ (tun3_water)
+ (tun4_back)
+ (tun4_fore)
+ (tun4_water)
+ (tun5_back)
+ (tun5_fore)
+ (tun5_water)
+ (tun6_back)
+ (tun6_fore)
+ BodyPart
+ Bolt
+ CompassDirection
+ CrossbowPart
+ LedgePassage
+ MazeExit
+ Objexit
+ TunnelClass
+ TunnelExitBack
+ TunnelExitFore
+ TunnelWater
+ Wumpus
+ ahead
+ arm
+ bats
+ beast
+ bloody wound
+ body
+ bowstring
+ canyon slope
+ canyon to either side
+ chimney
+ claw
+ cloth strips
+ cocking lever
+ compass
+ corpse
+ crawl ahead
+ crawl back
+ crawl behind
+ crevice
+ crossbow
+ floor
+ formations
+ hands
+ inside
+ lamplens
+ leaf-laths
+ ledge
+ left side passage
+ leg
+ lib_messages
+ low passage
+ mechanism
+ mud
+ narrow crawl
+ narrow crevice
+ outside
+ path down
+ path up
+ pit
+ pit above
+ pit below
+ pool
+ pool of blood
+ puddle of blood
+ rags
+ right side passage
+ rising path
+ roof
+ rope
+ rotten flesh
+ rushing water
+ sand
+ shaft above
+ side chamber
+ slope above
+ slope below
+ slope beside you
+ small stones
+ smear of blood
+ smell
+ stock
+ stone blades
+ stone wall
+ thighband
+ unseen light
+ water
+ way back
+ wrist
+

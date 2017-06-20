@@ -1,0 +1,91 @@
+    
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ (temp_obj)
+ CompassDirection
+ DisplayObject
+ Evaluation
+ ONId signature
+ PINO tile
+ Perspective
+ abstract itself
+ arms
+ b   mbe   edlr    kwwlb
+ bag of flour
+ blue ribbon award
+ bottle of tanning oil
+ boxcar
+ buildings
+ caboose
+ ceiling
+ chin
+ city
+ colored tile
+ compass
+ cords
+ cue ball
+ ears
+ east wall
+ engine
+ epaulets
+ eyes
+ floor
+ gate arm
+ gold and bronze medals
+ granary
+ gray squares themselves
+ green felt
+ hat
+ inside
+ jacket
+ judge A evaluation
+ judge B evaluation
+ judge C evaluation
+ judge D evaluation
+ lighting
+ little girl
+ man
+ moustache and eyebrows
+ mouth
+ neighborhoods
+ north wall
+ northeast wall
+ northwest wall
+ nose
+ oil car
+ one-ball
+ outside
+ pool table
+ portrait
+ quilt itself
+ rank insignia
+ red ribbon
+ roads
+ service ribbons
+ silver medal
+ soldier himself
+ soup can
+ south wall
+ southeast wall
+ southwest wall
+ stippling
+ tape
+ tear in the quilt
+ terminal
+ three-ball
+ town
+ train artwork
+ train itself
+ train tracks
+ twelve tiles
+ two-ball
+ vine
+ west wall
+ white ribbon
+ white squares themselves
+ woman
+ yellow ribbon
+

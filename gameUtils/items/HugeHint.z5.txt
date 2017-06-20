@@ -1,0 +1,838 @@
+ 
+    kwfhw
+ "The End-Game"
+ (101)
+ (102)
+ (103)
+ (104)
+ (106)
+ (107)
+ (108)
+ (109)
+ (111)
+ (112)
+ (114)
+ (115)
+ (116)
+ (117)
+ (118)
+ (120)
+ (121)
+ (122)
+ (123)
+ (125)
+ (127)
+ (128)
+ (129)
+ (130)
+ (131)
+ (132)
+ (133)
+ (135)
+ (136)
+ (138)
+ (139)
+ (141)
+ (142)
+ (145)
+ (146)
+ (147)
+ (148)
+ (150)
+ (151)
+ (152)
+ (153)
+ (155)
+ (157)
+ (158)
+ (159)
+ (160)
+ (162)
+ (163)
+ (164)
+ (166)
+ (167)
+ (168)
+ (169)
+ (170)
+ (171)
+ (173)
+ (174)
+ (175)
+ (176)
+ (178)
+ (179)
+ (180)
+ (182)
+ (183)
+ (184)
+ (185)
+ (187)
+ (188)
+ (190)
+ (191)
+ (193)
+ (194)
+ (197)
+ (198)
+ (199)
+ (201)
+ (203)
+ (204)
+ (205)
+ (206)
+ (207)
+ (209)
+ (210)
+ (211)
+ (213)
+ (214)
+ (215)
+ (216)
+ (218)
+ (219)
+ (220)
+ (222)
+ (223)
+ (225)
+ (226)
+ (227)
+ (228)
+ (229)
+ (231)
+ (232)
+ (233)
+ (234)
+ (236)
+ (238)
+ (239)
+ (240)
+ (241)
+ (242)
+ (244)
+ (245)
+ (246)
+ (248)
+ (249)
+ (250)
+ (251)
+ (253)
+ (254)
+ (255)
+ (256)
+ (257)
+ (258)
+ (259)
+ (260)
+ (262)
+ (263)
+ (264)
+ (265)
+ (268)
+ (269)
+ (270)
+ (271)
+ (272)
+ (273)
+ (275)
+ (276)
+ (277)
+ (278)
+ (280)
+ (281)
+ (282)
+ (283)
+ (284)
+ (285)
+ (286)
+ (288)
+ (289)
+ (290)
+ (291)
+ (293)
+ (294)
+ (295)
+ (296)
+ (298)
+ (299)
+ (300)
+ (301)
+ (302)
+ (303)
+ (304)
+ (306)
+ (307)
+ (308)
+ (309)
+ (310)
+ (311)
+ (313)
+ (314)
+ (315)
+ (317)
+ (318)
+ (319)
+ (321)
+ (322)
+ (323)
+ (324)
+ (326)
+ (327)
+ (328)
+ (329)
+ (330)
+ (331)
+ (332)
+ (333)
+ (336)
+ (337)
+ (338)
+ (339)
+ (340)
+ (341)
+ (343)
+ (344)
+ (345)
+ (347)
+ (348)
+ (349)
+ (350)
+ (351)
+ (352)
+ (353)
+ (355)
+ (356)
+ (357)
+ (359)
+ (360)
+ (361)
+ (362)
+ (363)
+ (364)
+ (366)
+ (367)
+ (368)
+ (371)
+ (372)
+ (373)
+ (375)
+ (376)
+ (377)
+ (378)
+ (380)
+ (381)
+ (382)
+ (383)
+ (384)
+ (385)
+ (386)
+ (388)
+ (389)
+ (39)
+ (390)
+ (391)
+ (393)
+ (394)
+ (395)
+ (396)
+ (397)
+ (398)
+ (400)
+ (401)
+ (402)
+ (403)
+ (406)
+ (407)
+ (408)
+ (409)
+ (41)
+ (410)
+ (411)
+ (413)
+ (414)
+ (415)
+ (416)
+ (417)
+ (419)
+ (420)
+ (421)
+ (422)
+ (423)
+ (425)
+ (426)
+ (427)
+ (429)
+ (43)
+ (430)
+ (431)
+ (432)
+ (433)
+ (434)
+ (436)
+ (437)
+ (439)
+ (440)
+ (441)
+ (442)
+ (444)
+ (445)
+ (446)
+ (448)
+ (449)
+ (45)
+ (450)
+ (451)
+ (453)
+ (454)
+ (455)
+ (456)
+ (458)
+ (459)
+ (46)
+ (460)
+ (461)
+ (462)
+ (463)
+ (465)
+ (466)
+ (467)
+ (468)
+ (469)
+ (47)
+ (470)
+ (471)
+ (474)
+ (475)
+ (476)
+ (477)
+ (478)
+ (479)
+ (48)
+ (481)
+ (482)
+ (483)
+ (484)
+ (486)
+ (487)
+ (489)
+ (49)
+ (490)
+ (491)
+ (492)
+ (494)
+ (495)
+ (497)
+ (498)
+ (499)
+ (50)
+ (500)
+ (501)
+ (502)
+ (504)
+ (507)
+ (509)
+ (510)
+ (512)
+ (513)
+ (514)
+ (515)
+ (516)
+ (517)
+ (518)
+ (519)
+ (52)
+ (520)
+ (522)
+ (524)
+ (525)
+ (527)
+ (528)
+ (529)
+ (53)
+ (530)
+ (531)
+ (532)
+ (533)
+ (534)
+ (535)
+ (537)
+ (538)
+ (539)
+ (54)
+ (540)
+ (543)
+ (544)
+ (545)
+ (547)
+ (548)
+ (549)
+ (55)
+ (550)
+ (552)
+ (553)
+ (554)
+ (556)
+ (557)
+ (558)
+ (56)
+ (560)
+ (562)
+ (563)
+ (564)
+ (566)
+ (567)
+ (568)
+ (569)
+ (57)
+ (571)
+ (572)
+ (574)
+ (575)
+ (576)
+ (577)
+ (58)
+ (580)
+ (581)
+ (584)
+ (586)
+ (587)
+ (588)
+ (589)
+ (59)
+ (590)
+ (591)
+ (593)
+ (594)
+ (596)
+ (597)
+ (598)
+ (599)
+ (60)
+ (601)
+ (602)
+ (603)
+ (604)
+ (605)
+ (607)
+ (608)
+ (609)
+ (61)
+ (610)
+ (611)
+ (612)
+ (613)
+ (615)
+ (616)
+ (617)
+ (618)
+ (619)
+ (62)
+ (620)
+ (621)
+ (622)
+ (624)
+ (625)
+ (626)
+ (627)
+ (628)
+ (629)
+ (63)
+ (630)
+ (631)
+ (633)
+ (634)
+ (635)
+ (636)
+ (637)
+ (638)
+ (64)
+ (640)
+ (641)
+ (643)
+ (644)
+ (646)
+ (647)
+ (649)
+ (65)
+ (650)
+ (652)
+ (653)
+ (655)
+ (656)
+ (658)
+ (659)
+ (66)
+ (660)
+ (661)
+ (662)
+ (663)
+ (665)
+ (666)
+ (667)
+ (668)
+ (67)
+ (670)
+ (671)
+ (672)
+ (673)
+ (674)
+ (675)
+ (677)
+ (678)
+ (679)
+ (680)
+ (681)
+ (682)
+ (683)
+ (685)
+ (686)
+ (687)
+ (688)
+ (689)
+ (690)
+ (692)
+ (693)
+ (694)
+ (695)
+ (696)
+ (697)
+ (699)
+ (70)
+ (700)
+ (702)
+ (703)
+ (704)
+ (705)
+ (706)
+ (708)
+ (709)
+ (710)
+ (712)
+ (713)
+ (714)
+ (715)
+ (716)
+ (717)
+ (718)
+ (719)
+ (72)
+ (720)
+ (722)
+ (723)
+ (725)
+ (726)
+ (727)
+ (729)
+ (730)
+ (731)
+ (732)
+ (733)
+ (735)
+ (736)
+ (737)
+ (738)
+ (739)
+ (74)
+ (740)
+ (741)
+ (742)
+ (743)
+ (744)
+ (745)
+ (747)
+ (748)
+ (749)
+ (75)
+ (750)
+ (751)
+ (752)
+ (754)
+ (755)
+ (756)
+ (757)
+ (758)
+ (759)
+ (76)
+ (760)
+ (762)
+ (763)
+ (764)
+ (765)
+ (766)
+ (768)
+ (769)
+ (77)
+ (770)
+ (771)
+ (772)
+ (773)
+ (774)
+ (775)
+ (777)
+ (778)
+ (78)
+ (780)
+ (781)
+ (782)
+ (783)
+ (784)
+ (785)
+ (786)
+ (788)
+ (789)
+ (79)
+ (790)
+ (791)
+ (792)
+ (793)
+ (794)
+ (795)
+ (796)
+ (798)
+ (800)
+ (802)
+ (803)
+ (805)
+ (806)
+ (807)
+ (808)
+ (809)
+ (81)
+ (810)
+ (811)
+ (812)
+ (813)
+ (816)
+ (817)
+ (818)
+ (819)
+ (82)
+ (821)
+ (822)
+ (823)
+ (824)
+ (825)
+ (826)
+ (827)
+ (828)
+ (83)
+ (830)
+ (831)
+ (833)
+ (834)
+ (836)
+ (837)
+ (839)
+ (84)
+ (840)
+ (842)
+ (843)
+ (845)
+ (846)
+ (848)
+ (849)
+ (851)
+ (852)
+ (86)
+ (87)
+ (88)
+ (90)
+ (91)
+ (92)
+ (94)
+ (95)
+ (96)
+ (97)
+ (99)
+ (Inform Library)
+ (Inform Parser)
+ (Library Extensions)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ (temp_obj)
+ 27 Ways To Die
+ Above The Beanstalk
+ Across The Troll Bridge
+ Below The Building
+ Besides collecting treasure, how else can I earn points?
+ Beyond The Oyster
+ CompassDirection
+ Do the bones have any special purpose or function?
+ Do the various computers have any special purpose or function?
+ Does the coat rack have any special purpose or function?
+ Does the grandfather clock have any special purpose or function?
+ Does the silver cross have any special purpose or function?
+ Earning All The Points
+ Finding Your Way In Mazes
+ General Help/Hints
+ Hint
+ Hint Sign
+ HintTopic
+ How can I avoid making the programmer angry with me?
+ How do I avoid dying on the stairs?
+ How do I avoid getting lost forever in the ice maze?
+ How do I avoid the earthquake?
+ How do I deal with the need for a light source in dark places?
+ How do I escape from "Witt's End"
+ How do I escape from "Witt's End"?
+ How do I escape from the "Cylindrical Chamber"?
+ How do I escape from the "Odd" room?
+ How do I find Witt's office?
+ How do I find my way through the "Fog-Filled" room?
+ How do I find my way through the "Pirate's" maze?
+ How do I find the cave?
+ How do I find the combination for the safe?
+ How do I find the final "Treasure" room?
+ How do I get across the Volcano Gorge?
+ How do I get across the fissure near the hall of mists?
+ How do I get across the troll bridge?
+ How do I get back across the troll bridge?
+ How do I get back from the other side of the cavern?
+ How do I get back over the rainbow and return to the main cave?
+ How do I get beyond the valley of the stone faces?
+ How do I get out of the "Rabbit's Warren?"
+ How do I get out of the Dwarves' Dungeon?
+ How do I get out of the valley?
+ How do I get over the rainbow the first time?
+ How do I get past the green slime?
+ How do I get past the massive iron door?
+ How do I get past the ogre?
+ How do I get past the penguins in the ice maze?
+ How do I get past the purple people-eater?
+ How do I get past the snake?
+ How do I get past the steel door into the Computer Center?
+ How do I get past the the sleeping basilisk?
+ How do I get rid of the horde of gooseberry goblins?
+ How do I get the Persian rug?
+ How do I get the access card?
+ How do I get the bird?
+ How do I get the emerald out of the Plover room?
+ How do I get the golden chain from the angry bear?
+ How do I get the jeweled cane away from the large rabbit?
+ How do I get the sapphire-encrusted sceptre from the skeleton?
+ How do I get the sword out of the stone?
+ How do I get to the other side of the cavern?
+ How do I keep from breaking the rare ming vase?
+ How do I keep from dying in the desert?
+ How do I keep from freezing to death?
+ How do I keep from getting killed by dwarves?
+ How do I keep from getting lost in the "Rabbit's Warren"?
+ How do I keep from getting lost in the "Rabbit's Warren?"
+ How do I keep from getting lost in the woods?
+ How do I keep from getting trapped forever in the "Pea Souper?"
+ How do I keep from killing myself on the greased pole?
+ How do I kill the mad scientist's doberman?
+ How do I navigate around the "Vending Machine" maze?
+ How do I navigate through the HINT system?
+ How do I open the safe inside the building?
+ How do I open the safe?
+ How do I recover the golden eggs after the troll takes them?
+ How do I recover the treasures that the pirate stole from me?
+ How do I save myself from the crazed robot boy?
+ How do I unlock the grate?
+ How do I use the HINT system -- without "cheating?"
+ I keep hearing strange noises.  What should I do about them?
+ I let the attack dogs out of the closet!!  What should I do now?
+ I'm too weak.  What would help give me more strength?
+ In The Heart Of The Cave
+ In general, how do I earn points in the game?
+ In general, how do I find my way around in mazes?
+ In very general terms, how should I go about solving the game?
+ Menu
+ Near The Cave Entrance
+ Option
+ Outside The Cave
+ Over The Rainbow
+ Rubbing the rabbit's foot does not seem to do anything.  Why not?
+ Should I free the Djinn (Genie) from the flask?
+ SwitchOption
+ The pirate stole my treasure.  What do I do to get it back?
+ Treasures
+ What are the 27 ways to die in the game?
+ What are the 37 treasures I need to find?
+ What do I do after the rabbit bites me?
+ What do I do after the scorpion bites me?
+ What do I do until "Closing Time"?
+ What do I do when I get to the "Soft" room?
+ What do I do when the Gigantic Mastiff bites me?
+ What do I do when the bunny bites me?
+ What do I do when the lamp's batteries start to wear out?
+ What do I do with the floppy disk?
+ What do I do with the rod?
+ What is the best way to navigate the "Catacombs"?
+ What is the significance of the "Tool" room?
+ What is the significance of the large "X" painted on the beach?
+ What should I do in the Computer Center?
+ What should I do in the church?
+ What should I do in the crypt?
+ What should I do in the graveyard?
+ What should I do with the apple?
+ What should I do with the giant clam?
+ What should I do with the magazine?
+ What should I do with the plant?
+ What should I do with the rose?
+ What should I do with the toad?
+ What should I do with the urn?
+ What specific "proper" or noble acts should I do?
+ What specific creative uses of magic should I invoke?
+ What specific daring and/or clever deeds should I do?
+ What specific evil creatures should I do away with?
+ What specific interesting places should I visit and explore?
+ What specific items need to be returned to their proper place?
+ What specific kind things should I do to or for animals and plants?
+ What specific rewards do I get for surviving to the very end?
+ Where is treasure #1 (beautiful rose)?
+ Where is treasure #10 (several diamonds)?
+ Where is treasure #11 (precious jewelry)?
+ Where is treasure #12 (gem-encrusted helmet)?
+ Where is treasure #13 (some bars of silver)?
+ Where is treasure #14 (some rare coins)?
+ Where is treasure #15 (Persian rug)?
+ Where is treasure #16 (platinum pyramid)?
+ Where is treasure #17 (shiny mithril ring)?
+ Where is treasure #18 (casket full of rare black opals)?
+ Where is treasure #19 (finely-carved crystalline sculpture)?
+ Where is treasure #2 (apple)?
+ Where is treasure #20 (jewel-encrusted trident)?
+ Where is treasure #21 (some golden eggs)?
+ Where is treasure #22 (emerald the size of a plover's egg)?
+ Where is treasure #23 (rare ming vase)?
+ Where is treasure #24 (glistening pearl)?
+ Where is treasure #25 (scrimshaw spyglass)?
+ Where is treasure #26 (bag filled with pieces of eight)?
+ Where is treasure #27 (jeweled cane)?
+ Where is treasure #28 (Chinese jade bracelet)?
+ Where is treasure #29 (ruby yacht of Omar Khayyam)?
+ Where is treasure #3 (silver cross)?
+ Where is treasure #30 (sapphire-encrusted sceptre)?
+ Where is treasure #31 (polished metal plate)?
+ Where is treasure #32 (iridium crown)?
+ Where is treasure #33 (some rare spices)?
+ Where is treasure #34 (golden chain)?
+ Where is treasure #35 (floppy disk)?
+ Where is treasure #36 (string of turquoise beads)?
+ Where is treasure #37 (the pirate's treasure chest)?
+ Where is treasure #4 (golden weathercock)?
+ Where is treasure #5 (jeweled urn)?
+ Where is treasure #6 (gold watch)?
+ Where is treasure #7 (gold key)?
+ Where is treasure #8 (rare stamps)?
+ Where is treasure #9 (large sparkling nugget of gold)?
+ b   hy   y
+ compass
+ east
+ ground
+ inside
+ north
+ northeast
+ northwest
+ outside
+ separator
+ south
+ southeast
+ southwest
+ tjw
+ up above
+ west
+

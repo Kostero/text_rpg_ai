@@ -1,0 +1,24 @@
+  not something you can switch.
+ (Inform Library)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ CompassDirection
+ Somewhere in the middle of an enormous hallway
+ big door
+ ceiling
+ compass
+ east wall
+ floor
+ inside
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ small brass key
+ south wall
+ southeast wall
+ southwest wall
+ west wall
+

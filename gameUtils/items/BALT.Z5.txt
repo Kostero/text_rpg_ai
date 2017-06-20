@@ -1,0 +1,36 @@
+ (Inform Library 6/3)
+ (Inform Parser)
+ (LibraryMessages)
+ (darkness object)
+ (self object)
+ Billboard
+ Black Thunderbird
+ Cisco router
+ CompassDirection
+ Elevator
+ Robert
+ b   lcv   
+ beeper
+ ceiling
+ cellular phone
+ compass
+ desk clerk
+ east wall
+ floor
+ inside
+ k   h   mg diu
+ matchbook
+ north wall
+ northeast wall
+ northwest wall
+ outside
+ receipt
+ room key
+ small sign
+ south wall
+ southeast wall
+ southwest wall
+ stray cat
+ wallet
+ west wall
+
