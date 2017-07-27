@@ -7,7 +7,6 @@ import re
 
 
 parser = Parser()
-letter = "?"
 
 
 def getNodes(parent):
@@ -52,9 +51,13 @@ with open(gameText, "r") as f:
             pass
         tokenized =  tokenizer.tokenize(line.strip())
         for token in tokenized:
-            try:
-                tree = parser.parse(token.strip())
-                getNodes(tree)
-            except:
-                pass
-                
+            #print "T", token.strip()
+            token = token.strip().split()
+            for i in range(len(token)-5):
+                fragment = " ".join(token[i:i+5])
+                try:
+                    #print "F", fragment
+                    tree = parser.parse(fragment.strip())
+                    getNodes(tree)
+                except:
+                    pass
