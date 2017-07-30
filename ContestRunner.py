@@ -47,7 +47,7 @@ print("Z Machine Launched")
 ct = ContestTextPlayer(p)
 
 import json
-with open('params.json', 'r') as ins:
+with open('contestsParams.json', 'r') as ins:
     params = json.load(ins)
 
 
