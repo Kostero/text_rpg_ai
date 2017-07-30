@@ -8,9 +8,9 @@ from inventory import Inventory
 from place import Place
 from time import sleep
 
-if __name__ == '__main__':
-    print 'To run the agent, use golovinRunner.py instead'
-    sys.exit(0)
+#if __name__ == '__main__':
+    #print 'To run the agent, use golovinRunner.py instead'
+    #sys.exit(0)
 
 class GolovinAgent:
 

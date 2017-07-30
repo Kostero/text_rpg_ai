@@ -27,6 +27,9 @@ burn window
 burn chest
 burn box
 burn paper
+open window
+open door
+open gate
 look under bed
 look under table
 look under door

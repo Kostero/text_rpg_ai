@@ -40,8 +40,12 @@ for mode in ["walkthroughs", "tutorials", "games", "commands", "all"]:
 
     lines = map(str.lower, lines)
     lines = map(lambda x: x.replace('#', ''), lines)
+    lines = filter(lambda x: len(set(x) & set(",.:-@&")) == 0, lines)
     lines = map(str.split, lines)
     lines = filter(lambda x: len(x) > 1 and len(x) < 6, lines)
+    lines = filter(lambda x: x[-1] not in ["to", "the", "on", "of",
+        "at", "to", "of", "it", "them", "him", "her", "that"], lines)
+
     print "commands:", len(lines)
     for l in lines:
         for i, w in enumerate(l):
@@ -55,6 +59,10 @@ for mode in ["walkthroughs", "tutorials", "games", "commands", "all"]:
         commands[tuple(l)] += 1
         if any(map(fight_actions.__contains__, l)):
             fight_commands[tuple(l)] += 1
+
+    with open("commonCommands.txt") as cc:
+        for line in cc.readlines():
+            commands[tuple(line.split())] += 300
 
     print commands.most_common(20)
     print fight_commands.most_common(20)

@@ -3,9 +3,7 @@ kill medusa#medusa#4
 shoot gun#gun#16
 shoot robot#robot#9
 shoot guard#guard#19
-kill evil clouds#clouds#5
 kill lion#lion#14
-kill him#7
 attack dragon#dragon#4
 kill ghoul#ghoul#4
 kill knight#9
@@ -16,7 +14,6 @@ kill guard#guard#66
 kill drago#4
 kill man#man#19
 kill wizard#wizard#4
-kill it#4
 kill witch#witch#4
 shoot lock#lock#8
 kill snake#14
@@ -25,10 +22,10 @@ shoot ogre#ogre#4
 kill zombie#zombie#5
 shoot alien#alien#14
 kill goblin#goblin#15
+kill orcs#orcs#4
 kill spider#spider#18
 shoot werewolf#werewolf#7
 kill james#james#4
-kill orcs#orcs#4
 kill dragon#dragon#38
 kill wolf#wolf#8
 kill bear#bear#4
@@ -51,7 +48,6 @@ kill serpent#serpent#9
 shoot rope#rope#4
 kill dracula#dracula#5
 shoot the viroid#viroid#18
-shoot man#man#21
 shoot lion#lion#4
 kill guards#guards#5
 kill monster#monster#7
@@ -61,11 +57,12 @@ shoot bird#bird#9
 shoot padlock#padlock#4
 shoot door#door#9
 kill eric#4
-kill the#6
 shoot viroid#viroid#23
 kill man with sword#sword#man#5
 kill troll#troll#19
 kill ogre#ogre#5
+kill evil clouds#clouds#5
+shoot man#man#21
 shoot rhino#rhino#4
 kill mummy#mummy#5
 kill you#9
