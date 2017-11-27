@@ -28,7 +28,10 @@ class Inventory:
                 if w in self.blacklist:
                     break
             else:
-                text = text.replace(word, rep)
+                try:
+                    text = text.replace(word, rep)
+                except UnicodeDecodeError:
+                    pass
                 score = k ** 2
                 score *= freq
                 for n in nouns:

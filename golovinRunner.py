@@ -108,7 +108,8 @@ def run(params, filename, directory, steps = 2000, quiet = False):
         t.quit()
 
     except IOError:
-        print "IOError"
+        if not quiet:
+            print "IOError"
         pass
 
     scores.write("{3} {0} (max {2}) / {1}\n".format(score, possible_score, max_score, filename))
